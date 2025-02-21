@@ -6,50 +6,50 @@
             "summary": "Customers' photos and documents stored online will no longer be protected by end-to-end encryption.",
             "date": "Fri, 21 Feb 2025 15:31:56 GMT",
             "tags": [
-                "기술"
+                "Technology"
             ],
             "stock_ticker": "AAPL",
-            "impact": "평범함"
+            "impact": "Neutral"
         },
         {
             "title": "Coinbase boss claims SEC will drop crypto lawsuit",
             "summary": "The SEC's 2023 lawsuit formed part of a crackdown on crypto firms which President Trump pledged to reverse.",
             "date": "Fri, 21 Feb 2025 17:00:10 GMT",
             "tags": [
-                "기술"
+                "Technology"
             ],
             "stock_ticker": "COIN",
-            "impact": "악재"
+            "impact": "Bearish"
         },
         {
             "title": "What does Jack Ma's return to the spotlight mean?",
             "summary": "Analysts say the Alibaba founder's re-emergence could signal a policy change in Beijing.",
             "date": "Fri, 21 Feb 2025 00:42:26 GMT",
             "tags": [
-                "기술"
+                "Technology"
             ],
             "stock_ticker": "WAT-P.V",
-            "impact": "평범함"
+            "impact": "Neutral"
         },
         {
             "title": "Children routinely using social media, Australian regulator says",
             "summary": "It found they were easily able to bypass age checks on apps, which face being banned for under-16s.",
             "date": "Thu, 20 Feb 2025 14:31:30 GMT",
             "tags": [
-                "기술"
+                "Technology"
             ],
             "stock_ticker": "PLCE",
-            "impact": "평범함"
+            "impact": "Neutral"
         },
         {
             "title": "AI cracks superbug problem in two days that took scientists years",
             "summary": "The lead researcher has told the BBC he was so astounded he assumed his computer had been hacked.",
             "date": "Thu, 20 Feb 2025 12:08:28 GMT",
             "tags": [
-                "기술"
+                "Technology"
             ],
             "stock_ticker": "AI",
-            "impact": "평범함"
+            "impact": "Neutral"
         }
     ]
 }

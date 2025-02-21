@@ -1,32 +1,32 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>데일리 수프</title>
+    <title>Daily Soup - U.S. Stock Market News</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>데일리 수프</h1>
-        <p>매일 아침, 한 개의 핵심 뉴스</p>
+        <h1>Daily Soup</h1>
+        <p>Get the latest U.S. stock market news, one article at a time.</p>
     </header>
 
     <main>
-        <h2>오늘의 뉴스</h2>
-        
-        <!-- 🔍 검색창 추가 -->
-        <input type="text" id="searchInput" placeholder="티커를 입력하세요 (예: AAPL)" onkeyup="filterNews()">
-    
+        <h2>Today's Market Update</h2>
+
+        <!-- 🔍 Stock Ticker Search -->
+        <input type="text" id="searchInput" placeholder="Search by stock ticker (e.g., AAPL)" onkeyup="filterNews()">
+
         <div id="news-container">
-            <!-- 뉴스 데이터가 여기에 들어감 -->
+            <!-- News articles will be loaded here -->
         </div>
     </main>
-    
-    <script src="script.js"></script>
 
     <footer>
-        <p>© <script>document.write(new Date().getFullYear())</script>. The Mercenary</p>
+        <p>© <script>document.write(new Date().getFullYear())</script>Daily Soup by <a href="https://themercenary.org" target="_blank">The Mercenary</a> | All Rights Reserved.</p>
     </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>

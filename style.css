@@ -1,18 +1,64 @@
 body {
     font-family: Arial, sans-serif;
-    text-align: center;
+    text-align: left;
     margin: 0;
     padding: 0;
+    width:100%;
 }
 
 header {
-    background: #f8b400;
-    padding: 20px;
+    background: #2b2d42;
     color: white;
+    padding: 20px;
+    max-width: 1080px;
+    margin: 0 auto;
 }
 
 main {
     padding: 20px;
+    max-width: 1080px;
+    margin: 0 auto 4rem;
+}
+
+small.date {
+    margin-bottom: 1rem;
+}
+
+.tag {
+    background: #ddd;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+
+.stock {
+    background: #d2e9ff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-right: 5px;
+    font-weight: bold;
+    color: #0073e6;
+}
+
+.impact {
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.impact.bullish {
+    background: #4CAF50;
+    color: white;
+}
+
+.impact.bearish {
+    background: #E53935;
+    color: white;
+}
+
+.impact.neutral {
+    background: #FFC107;
+    color: white;
 }
 
 #searchInput {
@@ -24,61 +70,7 @@ main {
     font-size: 16px;
 }
 
-#news-container {
-    margin: 20px;
-    text-align: left;
-}
-
-article {
-    border-bottom: 1px solid #ddd;
-    padding: 15px 0;
-}
-
-.date {
-    display: block;
-    font-size: 14px;
-    color: gray;
-    margin-top: 5px;
-}
-
-.tag {
-    background: #ddd;
-    padding: 5px 10px;
-    border-radius: 5px;
-    margin-right: 5px;
-}
-
-.stock {
-    font-weight: bold;
-    color: #0073e6;
-}
-
-.impact {
-    font-weight: bold;
-    padding: 5px 10px;
-    border-radius: 5px;
-}
-
-.impact.호재 {
-    background: #4CAF50;
-    color: white;
-}
-
-.impact.악재 {
-    background: #E53935;
-    color: white;
-}
-
-.impact.평범함 {
-    background: #FFC107;
-    color: white;
-}
-
 footer {
-    background: #222;
-    color: white;
-    padding: 10px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+    max-width: 1080px;
+    margin: 0 auto;
 }

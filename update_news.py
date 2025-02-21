@@ -4,35 +4,36 @@ from datetime import datetime
 from yahooquery import search
 from transformers import pipeline
 
-# ✅ AI 요약 모델 불러오기 (Hugging Face)
+# ✅ AI Summarization Model (Hugging Face)
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
-# ✅ RSS 피드 목록
+# ✅ U.S. Stock Market News RSS Feeds
 RSS_FEEDS = [
-    "https://feeds.feedburner.com/TechCrunch/",
-    "https://feeds.bbci.co.uk/news/technology/rss.xml"
+    "https://www.cnbc.com/id/100003114/device/rss/rss.html",  # CNBC U.S. Markets
+    "https://www.marketwatch.com/rss/topstories",  # MarketWatch Top Stories
+    "https://www.reutersagency.com/feed/?best-sectors=stocks&post_type=best",  # Reuters Stocks
 ]
 
-# ✅ 주식 티커 찾기 함수
+# ✅ Function to Find Stock Ticker
 def get_stock_ticker(company_name):
     result = search(company_name)
     if "quotes" in result and result["quotes"]:
         return result["quotes"][0]["symbol"]
     return "N/A"
 
-# ✅ 뉴스 데이터 가져오기
+# ✅ Fetch News Data
 news_list = []
 for feed_url in RSS_FEEDS:
     feed = feedparser.parse(feed_url)
 
-    for entry in feed.entries[:5]:  # 최신 5개 뉴스 가져오기
+    for entry in feed.entries[:5]:  # Fetch latest 5 articles
         title = entry.title
-        summary = entry.summary if "summary" in entry else "내용 없음"
+        summary = entry.summary if "summary" in entry else "No description available"
 
-        # ✅ AI 뉴스 요약 적용
+        # ✅ AI Summarization
         ai_summary = summarizer(summary, max_length=100, min_length=30, do_sample=False)[0]['summary_text']
 
-        # ✅ 뉴스 제목에서 기업명 추출 및 주식 티커 찾기
+        # ✅ Find Stock Ticker from Title
         words = title.split()
         matched_ticker = None
         for word in words:
@@ -40,20 +41,20 @@ for feed_url in RSS_FEEDS:
             if matched_ticker != "N/A":
                 break
 
-        # ✅ 뉴스 영향 분석 (기본 키워드 기반)
-        impact = "호재" if "up" in summary.lower() else "악재" if "down" in summary.lower() else "평범함"
+        # ✅ Market Sentiment Analysis (Simple Keyword-Based)
+        impact = "Bullish" if "up" in summary.lower() else "Bearish" if "down" in summary.lower() else "Neutral"
 
-        # ✅ 뉴스 데이터 저장
+        # ✅ Store News Data
         news_list.append({
             "title": title,
-            "summary": ai_summary,  # ✅ AI 요약 적용 (번역 없음)
+            "summary": ai_summary,
             "date": entry.published if "published" in entry else datetime.today().strftime('%Y-%m-%d'),
-            "tags": ["기술"],  # 기본 태그
+            "tags": ["Finance", "Stocks"],  # Default tags
             "stock_ticker": matched_ticker,
             "impact": impact
         })
 
-# ✅ JSON 파일 저장
+# ✅ Save JSON File
 news_data = {
     "date": datetime.today().strftime('%Y-%m-%d'),
     "news": news_list
@@ -62,4 +63,4 @@ news_data = {
 with open("news.json", "w", encoding="utf-8") as json_file:
     json.dump(news_data, json_file, ensure_ascii=False, indent=4)
 
-print("✅ news.json 자동 업데이트 완료!")
+print("✅ news.json updated successfully!")

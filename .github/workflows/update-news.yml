@@ -2,7 +2,7 @@ name: Update News JSON
 
 on:
   schedule:
-    - cron: "0 17 * * *"  # 매일 한국시간 02:00 실행 (UTC 17:00)
+    - cron: "0 13 * * *"  # 매일 한국시간 22:00 실행 (UTC 13:00)
   workflow_dispatch:  # ✅ 이 줄을 추가하면 Run workflow 버튼 생성됨
 
 jobs:
