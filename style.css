@@ -15,16 +15,47 @@ main {
     padding: 20px;
 }
 
+#news-container {
+    margin: 20px;
+    text-align: left;
+}
+
+article {
+    border-bottom: 1px solid #ddd;
+    padding: 15px 0;
+}
+
 .tag {
     background: #ddd;
     padding: 5px 10px;
-    margin: 5px;
     border-radius: 5px;
+    margin-right: 5px;
 }
 
 .stock {
     font-weight: bold;
     color: #0073e6;
+}
+
+.impact {
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.impact.호재 {
+    background: #4CAF50;
+    color: white;
+}
+
+.impact.악재 {
+    background: #E53935;
+    color: white;
+}
+
+.impact.평범함 {
+    background: #FFC107;
+    color: white;
 }
 
 footer {
