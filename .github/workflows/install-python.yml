@@ -1,0 +1,25 @@
+name: Install Python & Dependencies
+
+on:
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  setup-python:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 저장소 체크아웃
+      uses: actions/checkout@v3
+
+    - name: Python 설치
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.9"
+
+    - name: Python 패키지 설치
+      run: |
+        pip install yahooquery
+        pip install feedparser
+
+    - name: Python 버전 확인
+      run: python --version
