@@ -1,0 +1,26 @@
+name: Update News JSON
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # 매일 한국시간 12:00PM (UTC 03:00)에 실행
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 저장소 체크아웃
+      uses: actions/checkout@v3
+
+    - name: Python으로 뉴스 가져오기
+      run: |
+        python update_news.py
+
+    - name: 변경 사항 커밋 & 푸시
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add news.json
+        git commit -m "자동 업데이트: 뉴스 데이터 최신화"
+        git push
+      continue-on-error: true
