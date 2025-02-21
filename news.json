@@ -2,53 +2,113 @@
     "date": "2025-02-21",
     "news": [
         {
-            "title": "Apple pulls data protection tool after UK government security row",
-            "summary": "Customers' photos and documents stored online will no longer be protected by end-to-end encryption.",
-            "date": "Fri, 21 Feb 2025 15:31:56 GMT",
+            "title": "UnitedHealth's rough stretch continues, with buyouts, a reported DOJ probe and a 23% drop in three months",
+            "summary": "The news extends a tumultuous period for UnitedHealth. It follows the killing of a top executive, a costly cyberattack against its subsidiary and high medical costs.",
+            "date": "Fri, 21 Feb 2025 18:03:47 GMT",
             "tags": [
-                "Technology"
+                "Finance",
+                "Stocks"
             ],
-            "stock_ticker": "AAPL",
+            "stock_ticker": "ZR=F",
             "impact": "Neutral"
         },
         {
-            "title": "Coinbase boss claims SEC will drop crypto lawsuit",
-            "summary": "The SEC's 2023 lawsuit formed part of a crackdown on crypto firms which President Trump pledged to reverse.",
-            "date": "Fri, 21 Feb 2025 17:00:10 GMT",
+            "title": "Home sales drop sharply as prices hit an all-time high for January",
+            "summary": "The median price of a home sold in January was $396,900, up 4.8% from the year before. It was the highest price ever for the month of January.",
+            "date": "Fri, 21 Feb 2025 16:35:31 GMT",
             "tags": [
-                "Technology"
+                "Finance",
+                "Stocks"
             ],
-            "stock_ticker": "COIN",
-            "impact": "Bearish"
+            "stock_ticker": "HD",
+            "impact": "Bullish"
         },
         {
-            "title": "What does Jack Ma's return to the spotlight mean?",
-            "summary": "Analysts say the Alibaba founder's re-emergence could signal a policy change in Beijing.",
-            "date": "Fri, 21 Feb 2025 00:42:26 GMT",
+            "title": "Shares of Hims & Hers tumble 23% after FDA says semaglutide is no longer in shortage",
+            "summary": "FDA says semaglutide is no longer in shortage. Shares of Hims & Hers tumble 21% after FDA says it's no longer needed.",
+            "date": "Fri, 21 Feb 2025 17:56:39 GMT",
             "tags": [
-                "Technology"
+                "Finance",
+                "Stocks"
             ],
-            "stock_ticker": "WAT-P.V",
+            "stock_ticker": "NNNN",
             "impact": "Neutral"
         },
         {
-            "title": "Children routinely using social media, Australian regulator says",
-            "summary": "It found they were easily able to bypass age checks on apps, which face being banned for under-16s.",
-            "date": "Thu, 20 Feb 2025 14:31:30 GMT",
+            "title": "Shortage of Novo Nordisk's Wegovy and Ozempic drugs is resolved, FDA says",
+            "summary": "The FDA's decision will threaten the ability of compounding pharmacies to make far cheaper, unbranded versions of the injections over the next few months.",
+            "date": "Fri, 21 Feb 2025 17:07:27 GMT",
             "tags": [
-                "Technology"
+                "Finance",
+                "Stocks"
             ],
-            "stock_ticker": "PLCE",
+            "stock_ticker": "GEO=F",
             "impact": "Neutral"
         },
         {
-            "title": "AI cracks superbug problem in two days that took scientists years",
-            "summary": "The lead researcher has told the BBC he was so astounded he assumed his computer had been hacked.",
-            "date": "Thu, 20 Feb 2025 12:08:28 GMT",
+            "title": "Block shares plunge 17%, head for worst day in 5 years after earnings miss",
+            "summary": "Block was on pace for its worst day on the stock market since 2020 after the company reported an earnings miss. Block was on track for a day of losses that would have been its worst since 2020.",
+            "date": "Fri, 21 Feb 2025 17:55:23 GMT",
             "tags": [
-                "Technology"
+                "Finance",
+                "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "BLK=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Board games and firepits: Senior communities are pulling out all the stops to lure Generation X. Here’s why.",
+            "summary": "Gen X will outnumber baby boomers in 2028, according to a new study. Retirement communities are courting members of Gen X.",
+            "date": "Fri, 21 Feb 2025 17:43:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "METSB.HE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Treasury yields slip as data raise questions about strength of U.S. economy",
+            "summary": "U.S. Treasury yields slipped on Friday after a fresh batch of data raised questions about the strength of the U.S.'s economy.",
+            "date": "Fri, 21 Feb 2025 17:23:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ZB=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Young traders don’t care if stocks and crypto are in a bubble. They could get a rude awakening.",
+            "summary": "A new survey found that the majority of active traders are bullish. Despite some thinking the market is in a bubble, the majority are bullish, the survey found.",
+            "date": "Fri, 21 Feb 2025 17:10:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This energy-drink stock is rallying thanks to a $1.8 billion acquisition",
+            "summary": "Celsius shares are up more than 30% after its quarterly results topped estimates and it announced plans to buy Alani Nu. Celsius shares areUp 30% in pre-market trading.",
+            "date": "Fri, 21 Feb 2025 16:46:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "THISX",
+            "impact": "Bullish"
+        },
+        {
+            "title": "‘I believe myself to be an honorable person’: Do I have the right to ask my husband if I’ll inherit his house after he dies?",
+            "summary": "“He and his first wife have a son who just graduated from university,” his daughter says. “He’s always been very proud of his son.”",
+            "date": "Fri, 21 Feb 2025 16:42:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CYCU",
             "impact": "Neutral"
         }
     ]
