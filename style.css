@@ -15,6 +15,15 @@ main {
     padding: 20px;
 }
 
+#searchInput {
+    width: 80%;
+    padding: 10px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
 #news-container {
     margin: 20px;
     text-align: left;
