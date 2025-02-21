@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 from yahooquery import search  # Yahoo Finance API 사용
 
-# ✅ 1. RSS 피드 목록 (기술 뉴스)
+# ✅ 1. RSS 피드 목록
 RSS_FEEDS = [
     "https://feeds.feedburner.com/TechCrunch/",
     "https://feeds.bbci.co.uk/news/technology/rss.xml"
@@ -24,6 +24,7 @@ for feed_url in RSS_FEEDS:
     for entry in feed.entries[:5]:  # 최신 5개 뉴스 가져오기
         title = entry.title
         summary = entry.summary if "summary" in entry else "내용 없음"
+        published_date = entry.published if "published" in entry else datetime.today().strftime('%Y-%m-%d')
 
         # ✅ 4. 뉴스 제목에서 기업명 추출 및 주식 티커 찾기
         words = title.split()  # 제목을 단어 단위로 분리
@@ -36,10 +37,11 @@ for feed_url in RSS_FEEDS:
         # ✅ 5. 뉴스 영향 분석 (간단한 키워드 기반)
         impact = "호재" if "up" in summary.lower() else "악재" if "down" in summary.lower() else "평범함"
 
-        # ✅ 6. 뉴스 데이터 저장
+        # ✅ 6. 뉴스 데이터 저장 (각 뉴스별 날짜 추가)
         news_list.append({
             "title": title,
             "summary": summary,
+            "date": published_date,  # ✅ 뉴스별 개별 날짜 추가
             "tags": ["기술"],  # 현재는 임시 태그
             "stock_ticker": matched_ticker,
             "impact": impact
@@ -47,7 +49,7 @@ for feed_url in RSS_FEEDS:
 
 # ✅ 7. JSON 파일 저장
 news_data = {
-    "date": datetime.today().strftime('%Y-%m-%d'),
+    "date": datetime.today().strftime('%Y-%m-%d'),  # 전체 데이터 날짜
     "news": news_list
 }
 
