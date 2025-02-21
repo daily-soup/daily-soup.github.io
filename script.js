@@ -9,9 +9,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 // Create news article element
                 const article = document.createElement("article");
                 article.innerHTML = `
-                    <h3>${newsItem.title}</h3>
+                    <h3><a href="${newsItem.link}" target="_blank">${newsItem.title}</a></h3>
                     <p>${newsItem.summary}</p>
-                    <p class="date">📅 ${newsItem.date}</p>
+                    <small class="date">📅 ${newsItem.date}</small>
                     <div>
                         ${newsItem.tags.map(tag => `<span class="tag">#${tag}</span>`).join(" ")}
                         <span class="stock">${newsItem.stock_ticker}</span>

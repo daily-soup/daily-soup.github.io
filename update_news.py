@@ -29,6 +29,7 @@ for feed_url in RSS_FEEDS:
     for entry in feed.entries[:5]:  # Fetch latest 5 articles
         title = entry.title
         summary = entry.summary if "summary" in entry else "No description available"
+        link = entry.link if "link" in entry else "#"  # ✅ RSS 원문 뉴스 링크 저장
 
         # ✅ AI Summarization
         ai_summary = summarizer(summary, max_length=100, min_length=30, do_sample=False)[0]['summary_text']
@@ -47,6 +48,7 @@ for feed_url in RSS_FEEDS:
         # ✅ Store News Data
         news_list.append({
             "title": title,
+            "link": link,  # ✅ 뉴스 원문 링크 추가
             "summary": ai_summary,
             "date": entry.published if "published" in entry else datetime.today().strftime('%Y-%m-%d'),
             "tags": ["Finance", "Stocks"],  # Default tags
