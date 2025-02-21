@@ -6,6 +6,12 @@ body {
     width:100%;
 }
 
+a {
+    color:#111314;
+    text-decoration: none;;
+}
+
+
 article {
     margin-bottom:4rem;
 }

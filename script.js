@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 article.innerHTML = `
                     <h3><a href="${newsItem.link}" target="_blank">${newsItem.title}</a></h3>
                     <p>${newsItem.summary}</p>
-                    <small class="date">📅 ${newsItem.date}</small>
+                    <p class="date">📅 ${newsItem.date}</p>
                     <div>
                         ${newsItem.tags.map(tag => `<span class="tag">#${tag}</span>`).join(" ")}
                         <span class="stock">${newsItem.stock_ticker}</span>
