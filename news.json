@@ -3,6 +3,7 @@
     "news": [
         {
             "title": "UnitedHealth's rough stretch continues, with buyouts, a reported DOJ probe and a 23% drop in three months",
+            "link": "https://www.cnbc.com/2025/02/21/unitedhealth-faces-doj-investigation-buyouts-stock-price-drop.html",
             "summary": "The news extends a tumultuous period for UnitedHealth. It follows the killing of a top executive, a costly cyberattack against its subsidiary and high medical costs.",
             "date": "Fri, 21 Feb 2025 18:03:47 GMT",
             "tags": [
@@ -14,6 +15,7 @@
         },
         {
             "title": "Home sales drop sharply as prices hit an all-time high for January",
+            "link": "https://www.cnbc.com/2025/02/21/january-home-sales-drop-sharply-as-prices-hit-high.html",
             "summary": "The median price of a home sold in January was $396,900, up 4.8% from the year before. It was the highest price ever for the month of January.",
             "date": "Fri, 21 Feb 2025 16:35:31 GMT",
             "tags": [
@@ -25,6 +27,7 @@
         },
         {
             "title": "Shares of Hims & Hers tumble 23% after FDA says semaglutide is no longer in shortage",
+            "link": "https://www.cnbc.com/2025/02/21/hims-hers-shares-fall-after-fda-says-semaglutide-no-longer-in-shortage.html",
             "summary": "FDA says semaglutide is no longer in shortage. Shares of Hims & Hers tumble 21% after FDA says it's no longer needed.",
             "date": "Fri, 21 Feb 2025 17:56:39 GMT",
             "tags": [
@@ -36,6 +39,7 @@
         },
         {
             "title": "Shortage of Novo Nordisk's Wegovy and Ozempic drugs is resolved, FDA says",
+            "link": "https://www.cnbc.com/2025/02/21/fda-shortage-of-novo-nordisks-wegovy-and-ozempic-drugs-is-resolved.html",
             "summary": "The FDA's decision will threaten the ability of compounding pharmacies to make far cheaper, unbranded versions of the injections over the next few months.",
             "date": "Fri, 21 Feb 2025 17:07:27 GMT",
             "tags": [
@@ -47,6 +51,7 @@
         },
         {
             "title": "Block shares plunge 17%, head for worst day in 5 years after earnings miss",
+            "link": "https://www.cnbc.com/2025/02/21/block-shares-head-for-worst-day-in-5-years-after-earnings-miss.html",
             "summary": "Block was on pace for its worst day on the stock market since 2020 after the company reported an earnings miss. Block was on track for a day of losses that would have been its worst since 2020.",
             "date": "Fri, 21 Feb 2025 17:55:23 GMT",
             "tags": [
@@ -57,7 +62,44 @@
             "impact": "Neutral"
         },
         {
+            "title": "Gold may soar past $3,000 — but at these prices you’re overpaying",
+            "link": "https://www.marketwatch.com/story/gold-may-top-3-000-but-as-an-inflation-hedge-its-not-worth-much-28cfda27?mod=mw_rss_topstories",
+            "summary": ". Why you can expect below-average returns from gold in coming years. Why gold is a good investment in the long run. Why it's a bad investment.",
+            "date": "Fri, 21 Feb 2025 18:21:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GC=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia options traders are vastly overestimating how earnings will move the stock. Just look at these charts.",
+            "link": "https://www.marketwatch.com/story/nvidia-options-traders-are-vastly-overestimating-how-earnings-will-move-the-stock-691a6db1?mod=mw_rss_topstories",
+            "summary": "Nvidia's options aren't a good trade, this expert says. Here's what he likes and what he doesn't like about the company.",
+            "date": "Fri, 21 Feb 2025 18:17:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVDA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Warren Buffett’s 2025 letter to Berkshire shareholders is coming tomorrow. Watch this number.",
+            "link": "https://www.marketwatch.com/story/warren-buffetts-2025-letter-to-berkshire-shareholders-is-coming-soon-watch-this-number-47c4f751?mod=mw_rss_topstories",
+            "summary": "Even Buffett is struggling to outperform this bull market. Berkshire’s massive cash stake is key. Even Buffett is Struggling to Outperform This Bull Market.",
+            "date": "Fri, 21 Feb 2025 18:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PWR.XA",
+            "impact": "Neutral"
+        },
+        {
             "title": "Board games and firepits: Senior communities are pulling out all the stops to lure Generation X. Here’s why.",
+            "link": "https://www.marketwatch.com/story/board-games-and-firepits-senior-communities-are-pulling-out-all-the-stops-to-lure-generation-x-heres-why-2d2a31fb?mod=mw_rss_topstories",
             "summary": "Gen X will outnumber baby boomers in 2028, according to a new study. Retirement communities are courting members of Gen X.",
             "date": "Fri, 21 Feb 2025 17:43:00 GMT",
             "tags": [
@@ -69,6 +111,7 @@
         },
         {
             "title": "Treasury yields slip as data raise questions about strength of U.S. economy",
+            "link": "https://www.marketwatch.com/story/treasury-yields-slip-ahead-of-latest-batch-of-economic-data-912a97d7?mod=mw_rss_topstories",
             "summary": "U.S. Treasury yields slipped on Friday after a fresh batch of data raised questions about the strength of the U.S.'s economy.",
             "date": "Fri, 21 Feb 2025 17:23:00 GMT",
             "tags": [
@@ -76,39 +119,6 @@
                 "Stocks"
             ],
             "stock_ticker": "ZB=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Young traders don’t care if stocks and crypto are in a bubble. They could get a rude awakening.",
-            "summary": "A new survey found that the majority of active traders are bullish. Despite some thinking the market is in a bubble, the majority are bullish, the survey found.",
-            "date": "Fri, 21 Feb 2025 17:10:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This energy-drink stock is rallying thanks to a $1.8 billion acquisition",
-            "summary": "Celsius shares are up more than 30% after its quarterly results topped estimates and it announced plans to buy Alani Nu. Celsius shares areUp 30% in pre-market trading.",
-            "date": "Fri, 21 Feb 2025 16:46:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THISX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "‘I believe myself to be an honorable person’: Do I have the right to ask my husband if I’ll inherit his house after he dies?",
-            "summary": "“He and his first wife have a son who just graduated from university,” his daughter says. “He’s always been very proud of his son.”",
-            "date": "Fri, 21 Feb 2025 16:42:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CYCU",
             "impact": "Neutral"
         }
     ]
