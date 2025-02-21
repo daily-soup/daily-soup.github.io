@@ -2,35 +2,37 @@ name: Update News JSON
 
 on:
   schedule:
-    - cron: "0 13 * * *"  # 매일 한국시간 22:00 실행 (UTC 13:00)
-  workflow_dispatch:  # ✅ 이 줄을 추가하면 Run workflow 버튼 생성됨
+    - cron: "0 13 * * *"  # Runs at 10PM KST (UTC 13:00)
+  workflow_dispatch:  # Enables manual execution
 
 jobs:
   update-news:
     runs-on: ubuntu-latest
 
     steps:
-    - name: 저장소 체크아웃
+    - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Python 설치
+    - name: Set up Python
       uses: actions/setup-python@v3
       with:
         python-version: "3.9"
 
-    - name: Python 패키지 설치
+    - name: Install Python dependencies
       run: |
         pip install yahooquery
         pip install feedparser
+        pip install transformers  # ✅ Add this line to install transformers
+        pip install torch  # ✅ Required for transformers to work
 
-    - name: Python 스크립트 실행 (news.json 업데이트)
+    - name: Run Python script (update_news.py)
       run: python update_news.py
 
-    - name: 변경 사항 커밋 & 푸시
+    - name: Commit & push changes
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
         git add news.json
-        git commit -m "자동 업데이트: 뉴스 데이터 최신화"
+        git commit -m "Auto-update: Latest stock market news"
         git push
       continue-on-error: true
