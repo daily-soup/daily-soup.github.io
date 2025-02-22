@@ -1,124 +1,124 @@
 {
-    "date": "2025-02-21",
+    "date": "2025-02-22",
     "news": [
         {
-            "title": "UnitedHealth's rough stretch continues, with buyouts, a reported DOJ probe and a 23% drop in three months",
-            "link": "https://www.cnbc.com/2025/02/21/unitedhealth-faces-doj-investigation-buyouts-stock-price-drop.html",
-            "summary": "The news extends a tumultuous period for UnitedHealth. It follows the killing of a top executive, a costly cyberattack against its subsidiary and high medical costs.",
-            "date": "Fri, 21 Feb 2025 18:03:47 GMT",
+            "title": "Steve Cohen says tariffs and DOGE's cuts are negative for economy, market correction could be soon",
+            "link": "https://www.cnbc.com/2025/02/21/steve-cohen-says-tariffs-and-doges-cuts-are-negative-for-economy-market-correction-could-be-soon.html",
+            "summary": "The CEO of hedge fund Point72 turned bearish for the first time in a while due to punitive tariffs, immigration crackdown and federal spending cuts.",
+            "date": "Fri, 21 Feb 2025 20:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZR=F",
-            "impact": "Neutral"
+            "stock_ticker": "SHOO",
+            "impact": "Bearish"
         },
         {
-            "title": "Home sales drop sharply as prices hit an all-time high for January",
-            "link": "https://www.cnbc.com/2025/02/21/january-home-sales-drop-sharply-as-prices-hit-high.html",
-            "summary": "The median price of a home sold in January was $396,900, up 4.8% from the year before. It was the highest price ever for the month of January.",
-            "date": "Fri, 21 Feb 2025 16:35:31 GMT",
+            "title": "Battered and bruised after 3 years of war, Ukraine is up against the ropes as U.S. backing vanishes",
+            "link": "https://www.cnbc.com/2025/02/22/ukraine-against-the-ropes-as-us-backing-falters-after-3-years-of-war.html",
+            "summary": "Ukraine has put up a staunch fight against the invasion launched by its bigger and more powerful neighbor Russia. But things appear to be going horribly wrong.",
+            "date": "Sat, 22 Feb 2025 12:35:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HD",
+            "stock_ticker": "OOQB",
             "impact": "Bullish"
         },
         {
-            "title": "Shares of Hims & Hers tumble 23% after FDA says semaglutide is no longer in shortage",
-            "link": "https://www.cnbc.com/2025/02/21/hims-hers-shares-fall-after-fda-says-semaglutide-no-longer-in-shortage.html",
-            "summary": "FDA says semaglutide is no longer in shortage. Shares of Hims & Hers tumble 21% after FDA says it's no longer needed.",
-            "date": "Fri, 21 Feb 2025 17:56:39 GMT",
+            "title": "Activist ValueAct spots an overlooked opportunity at Liberty Live Group. How the move might pay off",
+            "link": "https://www.cnbc.com/2025/02/22/activist-valueact-sees-an-overlooked-opportunity-at-liberty-live-group.html",
+            "summary": "Liberty Live represents Liberty Media Group’s ownership stake in Live Nation. The stock trades at a sharp discount to the entertainment and ticketing giant.",
+            "date": "Sat, 22 Feb 2025 12:56:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NNNN",
+            "stock_ticker": "ACTV",
+            "impact": "Bullish"
+        },
+        {
+            "title": "President Trump is losing the stock market war to the rest of the world so far. Here's where investors are taking advantage",
+            "link": "https://www.cnbc.com/2025/02/21/president-trump-losing-stock-market-war-to-rest-of-the-world.html",
+            "summary": "Emerging market stocks, China and European stocks are beating U.S. indexes since the inauguration of Donald Trump. Emerging market stocks and China are outperforming the United States since Trump's inauguration.",
+            "date": "Fri, 21 Feb 2025 14:59:45 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PDNLB",
             "impact": "Neutral"
         },
         {
-            "title": "Shortage of Novo Nordisk's Wegovy and Ozempic drugs is resolved, FDA says",
-            "link": "https://www.cnbc.com/2025/02/21/fda-shortage-of-novo-nordisks-wegovy-and-ozempic-drugs-is-resolved.html",
-            "summary": "The FDA's decision will threaten the ability of compounding pharmacies to make far cheaper, unbranded versions of the injections over the next few months.",
-            "date": "Fri, 21 Feb 2025 17:07:27 GMT",
+            "title": "Elon Musk has a problem with X's Community Notes when he disapproves of the results",
+            "link": "https://www.cnbc.com/2025/02/21/elon-musk-has-problem-with-x-community-notes-after-ukraine-corrections.html",
+            "summary": "Elon Musk says X's Community Notes needs a \"fix\" because the service can allegedly be \"gamed\" Musk claims X's community notes can be hacked. Musk: \"X's Community notes needs a fix\"",
+            "date": "Fri, 21 Feb 2025 18:59:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GEO=F",
+            "stock_ticker": "ELON",
             "impact": "Neutral"
         },
         {
-            "title": "Block shares plunge 17%, head for worst day in 5 years after earnings miss",
-            "link": "https://www.cnbc.com/2025/02/21/block-shares-head-for-worst-day-in-5-years-after-earnings-miss.html",
-            "summary": "Block was on pace for its worst day on the stock market since 2020 after the company reported an earnings miss. Block was on track for a day of losses that would have been its worst since 2020.",
-            "date": "Fri, 21 Feb 2025 17:55:23 GMT",
+            "title": "U.S. stocks are near record highs. Why are investors so worried?",
+            "link": "https://www.marketwatch.com/story/u-s-stocks-are-near-record-highs-why-are-investors-so-worried-29fd8595?mod=mw_rss_topstories",
+            "summary": "Sentiment gauges have soured, but the S&amp;P 500 was at record highs just a few days ago. What’s going on?",
+            "date": "Sat, 22 Feb 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BLK=F",
+            "stock_ticker": "AFSC",
             "impact": "Neutral"
         },
         {
-            "title": "Gold may soar past $3,000 — but at these prices you’re overpaying",
-            "link": "https://www.marketwatch.com/story/gold-may-top-3-000-but-as-an-inflation-hedge-its-not-worth-much-28cfda27?mod=mw_rss_topstories",
-            "summary": ". Why you can expect below-average returns from gold in coming years. Why gold is a good investment in the long run. Why it's a bad investment.",
-            "date": "Fri, 21 Feb 2025 18:21:00 GMT",
+            "title": "I’ll have $4.5 million saved for retirement when I turn 75. Should I start my IRA conversions now?",
+            "link": "https://www.marketwatch.com/story/ill-have-4-5-million-saved-for-retirement-when-i-turn-75-should-i-start-my-ira-conversions-now-d34178ae?mod=mw_rss_topstories",
+            "summary": "“My RMD would be $180,000 and the taxes would be high,” he says. “MyRMD is $180k and my taxes are high.”",
+            "date": "Sat, 22 Feb 2025 11:25:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GC=F",
+            "stock_ticker": "ILMN",
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia options traders are vastly overestimating how earnings will move the stock. Just look at these charts.",
-            "link": "https://www.marketwatch.com/story/nvidia-options-traders-are-vastly-overestimating-how-earnings-will-move-the-stock-691a6db1?mod=mw_rss_topstories",
-            "summary": "Nvidia's options aren't a good trade, this expert says. Here's what he likes and what he doesn't like about the company.",
-            "date": "Fri, 21 Feb 2025 18:17:00 GMT",
+            "title": "L.A. fire victims face an impossible math problem: Sell their burned-down homes at a loss, or rebuild for a fortune?",
+            "link": "https://www.marketwatch.com/story/l-a-fire-victims-face-an-impossible-math-problem-sell-their-burned-down-homes-at-a-loss-or-rebuild-for-a-fortune-953cabc7?mod=mw_rss_topstories",
+            "summary": "What is a reasonable price for a fire-damaged lot in one of the country’s most expensive real-estate markets? Homeowners have been warned not to take lowball offers.",
+            "date": "Sat, 22 Feb 2025 11:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "LAGR",
             "impact": "Neutral"
         },
         {
-            "title": "Warren Buffett’s 2025 letter to Berkshire shareholders is coming tomorrow. Watch this number.",
-            "link": "https://www.marketwatch.com/story/warren-buffetts-2025-letter-to-berkshire-shareholders-is-coming-soon-watch-this-number-47c4f751?mod=mw_rss_topstories",
-            "summary": "Even Buffett is struggling to outperform this bull market. Berkshire’s massive cash stake is key. Even Buffett is Struggling to Outperform This Bull Market.",
-            "date": "Fri, 21 Feb 2025 18:12:00 GMT",
+            "title": "‘I’m a reluctant snowbird’: We’re in our 60s and own a $1 million home. Can we afford a $290,000 vacation home near our grandchildren?",
+            "link": "https://www.marketwatch.com/story/im-a-reluctant-snowbird-were-in-our-60s-have-3-3-million-for-retirement-and-own-a-1-million-home-can-we-afford-a-290k-vacation-home-2055997b?mod=mw_rss_topstories",
+            "summary": "“We have no debt and an investment portfolio of $3.3 million,” he says. “We’re in a great position.”",
+            "date": "Sat, 22 Feb 2025 10:21:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PWR.XA",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "Board games and firepits: Senior communities are pulling out all the stops to lure Generation X. Here’s why.",
-            "link": "https://www.marketwatch.com/story/board-games-and-firepits-senior-communities-are-pulling-out-all-the-stops-to-lure-generation-x-heres-why-2d2a31fb?mod=mw_rss_topstories",
-            "summary": "Gen X will outnumber baby boomers in 2028, according to a new study. Retirement communities are courting members of Gen X.",
-            "date": "Fri, 21 Feb 2025 17:43:00 GMT",
+            "title": "My husband and I have been married for 18 years. We share a son — and my husband has a daughter. Why should they get an equal inheritance?",
+            "link": "https://www.marketwatch.com/story/my-husband-and-i-have-been-married-for-18-years-we-share-a-son-and-my-husband-has-a-daughter-why-should-they-get-an-equal-inheritance-eeea4719?mod=mw_rss_topstories",
+            "summary": "“I was completely left out of any planning, bridal-shower and wedding activities,” she said. “This year she got married, and I wascompletely left out.”",
+            "date": "Sat, 22 Feb 2025 01:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "METSB.HE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Treasury yields slip as data raise questions about strength of U.S. economy",
-            "link": "https://www.marketwatch.com/story/treasury-yields-slip-ahead-of-latest-batch-of-economic-data-912a97d7?mod=mw_rss_topstories",
-            "summary": "U.S. Treasury yields slipped on Friday after a fresh batch of data raised questions about the strength of the U.S.'s economy.",
-            "date": "Fri, 21 Feb 2025 17:23:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZB=F",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         }
     ]
