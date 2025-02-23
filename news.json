@@ -1,124 +1,124 @@
 {
-    "date": "2025-02-22",
+    "date": "2025-02-23",
     "news": [
         {
-            "title": "Steve Cohen says tariffs and DOGE's cuts are negative for economy, market correction could be soon",
-            "link": "https://www.cnbc.com/2025/02/21/steve-cohen-says-tariffs-and-doges-cuts-are-negative-for-economy-market-correction-could-be-soon.html",
-            "summary": "The CEO of hedge fund Point72 turned bearish for the first time in a while due to punitive tariffs, immigration crackdown and federal spending cuts.",
-            "date": "Fri, 21 Feb 2025 20:40:00 GMT",
+            "title": "The Fed is stuck in neutral as it watches how Trump’s policies play out",
+            "link": "https://www.cnbc.com/2025/02/23/the-fed-is-stuck-in-neutral-as-it-watches-how-trumps-policies-play-out.html",
+            "summary": "The only gear the central bank really can be in these days is  neutral. With an abundance of unknowns, the only gear it can really be in is neutral.",
+            "date": "Sun, 23 Feb 2025 11:53:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHOO",
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Warren Buffett amasses more cash and sells more stock, but doesn't explain why in annual letter",
+            "link": "https://www.cnbc.com/2025/02/22/warren-buffett-amasses-more-cash-and-sells-more-stock-but-doesnt-explain-why-in-annual-letter.html",
+            "summary": " Buffett: \"The great majority of your money remains in equities\" \"That preference won't change,\" he says. \"That's the way it's always been,\" Buffett says.",
+            "date": "Sat, 22 Feb 2025 14:57:26 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PWR.XA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Germans head to the polls in critical election with far-right gains expected",
+            "link": "https://www.cnbc.com/2025/02/23/germans-head-to-the-polls-in-critical-election-with-far-right-gains-expected.html",
+            "summary": "Germans are voting in the 2025 federal election on Sunday, with a leadership change all but guaranteed. Germans are voting for a new government in 2025, and a new leader is all but certain.",
+            "date": "Sun, 23 Feb 2025 07:59:25 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "688577.SS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Top Wall Street analysts are bullish on these dividend stocks",
+            "link": "https://www.cnbc.com/2025/02/23/top-wall-street-analysts-are-bullish-on-these-dividend-stocks.html",
+            "summary": "TipRanks' analyst ranking service highlights three dividend-paying stocks, including McDonald's and Ares Capital. TipRanks: McDonald's, Ares Capital are three of the best dividend paying stocks.",
+            "date": "Sun, 23 Feb 2025 12:18:32 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Westinghouse sees path to building cheaper nuclear plants after costly past",
+            "link": "https://www.cnbc.com/2025/02/23/westinghouse-sees-path-to-building-big-nuclear-reactors-more-cheaply.html",
+            "summary": "Westinghouse Electric Company still sees the potential for new U.S. plants. Two nuclear projects in the South were bogged down by costly overruns.",
+            "date": "Sun, 23 Feb 2025 12:16:57 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WAB",
             "impact": "Bearish"
         },
         {
-            "title": "Battered and bruised after 3 years of war, Ukraine is up against the ropes as U.S. backing vanishes",
-            "link": "https://www.cnbc.com/2025/02/22/ukraine-against-the-ropes-as-us-backing-falters-after-3-years-of-war.html",
-            "summary": "Ukraine has put up a staunch fight against the invasion launched by its bigger and more powerful neighbor Russia. But things appear to be going horribly wrong.",
-            "date": "Sat, 22 Feb 2025 12:35:57 GMT",
+            "title": "‘She’s still waiting by the phone’: My grandmother gave her life savings to a man she met online. What now?",
+            "link": "https://www.marketwatch.com/story/shes-still-waiting-by-the-phone-my-grandmother-gave-her-life-savings-to-a-man-she-met-online-what-now-4c85a3e9?mod=mw_rss_topstories",
+            "summary": "“Up until the moment she was scammed, we considered her the wealthy one in our family,” the victim's family said. “We considered her to be one of the richest people in the world.”",
+            "date": "Sun, 23 Feb 2025 10:22:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OOQB",
+            "stock_ticker": "SHESHAINDS.BO",
             "impact": "Bullish"
         },
         {
-            "title": "Activist ValueAct spots an overlooked opportunity at Liberty Live Group. How the move might pay off",
-            "link": "https://www.cnbc.com/2025/02/22/activist-valueact-sees-an-overlooked-opportunity-at-liberty-live-group.html",
-            "summary": "Liberty Live represents Liberty Media Group’s ownership stake in Live Nation. The stock trades at a sharp discount to the entertainment and ticketing giant.",
-            "date": "Sat, 22 Feb 2025 12:56:45 GMT",
+            "title": "‘I believe myself to be an honorable person’: Do I have the right to ask my husband if I’ll inherit his house after he dies?",
+            "link": "https://www.marketwatch.com/story/i-believe-myself-to-be-an-honorable-person-do-i-have-the-right-to-ask-my-husband-what-happens-to-his-house-if-he-dies-f5557b7a?mod=mw_rss_topstories",
+            "summary": "“He and his first wife have a son who just graduated from university,” his daughter says. “He’s always been very proud of his son.”",
+            "date": "Sat, 22 Feb 2025 23:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ACTV",
-            "impact": "Bullish"
-        },
-        {
-            "title": "President Trump is losing the stock market war to the rest of the world so far. Here's where investors are taking advantage",
-            "link": "https://www.cnbc.com/2025/02/21/president-trump-losing-stock-market-war-to-rest-of-the-world.html",
-            "summary": "Emerging market stocks, China and European stocks are beating U.S. indexes since the inauguration of Donald Trump. Emerging market stocks and China are outperforming the United States since Trump's inauguration.",
-            "date": "Fri, 21 Feb 2025 14:59:45 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PDNLB",
+            "stock_ticker": "VRM",
             "impact": "Neutral"
         },
         {
-            "title": "Elon Musk has a problem with X's Community Notes when he disapproves of the results",
-            "link": "https://www.cnbc.com/2025/02/21/elon-musk-has-problem-with-x-community-notes-after-ukraine-corrections.html",
-            "summary": "Elon Musk says X's Community Notes needs a \"fix\" because the service can allegedly be \"gamed\" Musk claims X's community notes can be hacked. Musk: \"X's Community notes needs a fix\"",
-            "date": "Fri, 21 Feb 2025 18:59:20 GMT",
+            "title": "‘I’ve opened a hornet’s nest’: My mother-in-law lists my husband as beneficiary on her $1 million IRA. But her will says otherwise. Which wins?",
+            "link": "https://www.marketwatch.com/story/i-feel-like-ive-opened-a-hornets-nest-my-mother-in-law-lists-my-husband-as-beneficiary-on-her-1-million-ira-but-her-will-says-otherwise-who-wins-dfd137a9?mod=mw_rss_topstories",
+            "summary": "“All of this is causing a lot of turmoil in the family. Does her will trump the IRA beneficiary?” he asks.",
+            "date": "Sat, 22 Feb 2025 23:22:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELON",
+            "stock_ticker": "IVE",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. stocks are near record highs. Why are investors so worried?",
-            "link": "https://www.marketwatch.com/story/u-s-stocks-are-near-record-highs-why-are-investors-so-worried-29fd8595?mod=mw_rss_topstories",
-            "summary": "Sentiment gauges have soured, but the S&amp;P 500 was at record highs just a few days ago. What’s going on?",
-            "date": "Sat, 22 Feb 2025 12:00:00 GMT",
+            "title": "Warren Buffett, warning of ‘scoundrels’ and ‘fiscal folly,’ slashes his exposure to U.S. stocks",
+            "link": "https://www.marketwatch.com/story/warren-buffett-warning-of-scoundrels-and-fiscal-folly-slashes-his-exposure-to-u-s-stocks-15c6e66a?mod=mw_rss_topstories",
+            "summary": "The “Oracle of Omaha” has become a “committed” and “long-term” investor in a handful of Japanese companies.",
+            "date": "Sat, 22 Feb 2025 18:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AFSC",
+            "stock_ticker": "PWR.XA",
             "impact": "Neutral"
         },
         {
-            "title": "I’ll have $4.5 million saved for retirement when I turn 75. Should I start my IRA conversions now?",
-            "link": "https://www.marketwatch.com/story/ill-have-4-5-million-saved-for-retirement-when-i-turn-75-should-i-start-my-ira-conversions-now-d34178ae?mod=mw_rss_topstories",
-            "summary": "“My RMD would be $180,000 and the taxes would be high,” he says. “MyRMD is $180k and my taxes are high.”",
-            "date": "Sat, 22 Feb 2025 11:25:00 GMT",
+            "title": "Videogame giants are spending more money but losing players — and profits",
+            "link": "https://www.marketwatch.com/story/videogame-giants-are-becoming-disconnected-from-players-and-profits-d467c1ce?mod=mw_rss_topstories",
+            "summary": "Sony, Electronic Arts and Ubisoft reflect an industrywide misunderstanding (or perhaps disregard) of what gamers value. Sony, Electronic EA and Ubisoft reflects an industry wide misunderstanding ( or perhaps disregard of what gamer value)",
+            "date": "Sat, 22 Feb 2025 18:08:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ILMN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "L.A. fire victims face an impossible math problem: Sell their burned-down homes at a loss, or rebuild for a fortune?",
-            "link": "https://www.marketwatch.com/story/l-a-fire-victims-face-an-impossible-math-problem-sell-their-burned-down-homes-at-a-loss-or-rebuild-for-a-fortune-953cabc7?mod=mw_rss_topstories",
-            "summary": "What is a reasonable price for a fire-damaged lot in one of the country’s most expensive real-estate markets? Homeowners have been warned not to take lowball offers.",
-            "date": "Sat, 22 Feb 2025 11:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LAGR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m a reluctant snowbird’: We’re in our 60s and own a $1 million home. Can we afford a $290,000 vacation home near our grandchildren?",
-            "link": "https://www.marketwatch.com/story/im-a-reluctant-snowbird-were-in-our-60s-have-3-3-million-for-retirement-and-own-a-1-million-home-can-we-afford-a-290k-vacation-home-2055997b?mod=mw_rss_topstories",
-            "summary": "“We have no debt and an investment portfolio of $3.3 million,” he says. “We’re in a great position.”",
-            "date": "Sat, 22 Feb 2025 10:21:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My husband and I have been married for 18 years. We share a son — and my husband has a daughter. Why should they get an equal inheritance?",
-            "link": "https://www.marketwatch.com/story/my-husband-and-i-have-been-married-for-18-years-we-share-a-son-and-my-husband-has-a-daughter-why-should-they-get-an-equal-inheritance-eeea4719?mod=mw_rss_topstories",
-            "summary": "“I was completely left out of any planning, bridal-shower and wedding activities,” she said. “This year she got married, and I wascompletely left out.”",
-            "date": "Sat, 22 Feb 2025 01:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "HERU.SW",
             "impact": "Neutral"
         }
     ]
