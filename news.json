@@ -1,124 +1,124 @@
 {
-    "date": "2025-02-23",
+    "date": "2025-02-24",
     "news": [
         {
-            "title": "The Fed is stuck in neutral as it watches how Trump’s policies play out",
-            "link": "https://www.cnbc.com/2025/02/23/the-fed-is-stuck-in-neutral-as-it-watches-how-trumps-policies-play-out.html",
-            "summary": "The only gear the central bank really can be in these days is  neutral. With an abundance of unknowns, the only gear it can really be in is neutral.",
-            "date": "Sun, 23 Feb 2025 11:53:47 GMT",
+            "title": "Robinhood says SEC dismissed crypto unit investigation in latest sign of easier regulation for industry",
+            "link": "https://www.cnbc.com/2025/02/24/robinhood-says-sec-dismissed-crypto-unit-investigation-in-latest-sign-of-easier-regulation-for-industry.html",
+            "summary": "The Securities and Exchange Commission is dropping its investigation into Robinhood's crypto arm, the company said Monday. Robinhood is a popular app that lets users buy and sell Bitcoin.",
+            "date": "Mon, 24 Feb 2025 13:09:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "HOOD",
             "impact": "Neutral"
         },
         {
-            "title": "Warren Buffett amasses more cash and sells more stock, but doesn't explain why in annual letter",
-            "link": "https://www.cnbc.com/2025/02/22/warren-buffett-amasses-more-cash-and-sells-more-stock-but-doesnt-explain-why-in-annual-letter.html",
-            "summary": " Buffett: \"The great majority of your money remains in equities\" \"That preference won't change,\" he says. \"That's the way it's always been,\" Buffett says.",
-            "date": "Sat, 22 Feb 2025 14:57:26 GMT",
+            "title": "Apple to open AI server factory in Texas as part of $500 billion U.S. investment",
+            "link": "https://www.cnbc.com/2025/02/24/apple-to-open-texas-ai-server-factory-in-500-billion-us-expansion.html",
+            "summary": "Apple will open a 250,000-square-foot AI server manufacturing facility in Houston, Texas. Apple said it will work with partners to open the facility.",
+            "date": "Mon, 24 Feb 2025 12:28:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PWR.XA",
+            "stock_ticker": "AAPL",
             "impact": "Neutral"
         },
         {
-            "title": "Germans head to the polls in critical election with far-right gains expected",
-            "link": "https://www.cnbc.com/2025/02/23/germans-head-to-the-polls-in-critical-election-with-far-right-gains-expected.html",
-            "summary": "Germans are voting in the 2025 federal election on Sunday, with a leadership change all but guaranteed. Germans are voting for a new government in 2025, and a new leader is all but certain.",
-            "date": "Sun, 23 Feb 2025 07:59:25 GMT",
+            "title": "'Uphill battle' ahead: Trump, business leaders and economists react to German election result",
+            "link": "https://www.cnbc.com/2025/02/24/german-election-politicians-economists-and-ceos-react-to-result.html",
+            "summary": "There's a distinct feeling of déjà vu in Berlin following the federal election. A new chapter in German politics begins on Monday following the election.",
+            "date": "Mon, 24 Feb 2025 12:33:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "688577.SS",
+            "stock_ticker": "0P0001KOXN.SA",
             "impact": "Neutral"
         },
         {
-            "title": "Top Wall Street analysts are bullish on these dividend stocks",
-            "link": "https://www.cnbc.com/2025/02/23/top-wall-street-analysts-are-bullish-on-these-dividend-stocks.html",
-            "summary": "TipRanks' analyst ranking service highlights three dividend-paying stocks, including McDonald's and Ares Capital. TipRanks: McDonald's, Ares Capital are three of the best dividend paying stocks.",
-            "date": "Sun, 23 Feb 2025 12:18:32 GMT",
+            "title": "Berkshire operating earnings surge 71% in fourth quarter, cash hoard balloons to record $334 billion",
+            "link": "https://www.cnbc.com/2025/02/22/berkshire-hathaway-brka-earnings-q4-2024.html",
+            "summary": "Berkshire Hathaway reported fourth-quarter results on Saturday. The company's Class A shares popped more than 25% in 2024.",
+            "date": "Mon, 24 Feb 2025 12:29:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "BRK-B",
             "impact": "Neutral"
         },
         {
-            "title": "Westinghouse sees path to building cheaper nuclear plants after costly past",
-            "link": "https://www.cnbc.com/2025/02/23/westinghouse-sees-path-to-building-big-nuclear-reactors-more-cheaply.html",
-            "summary": "Westinghouse Electric Company still sees the potential for new U.S. plants. Two nuclear projects in the South were bogged down by costly overruns.",
-            "date": "Sun, 23 Feb 2025 12:16:57 GMT",
+            "title": "Here's why Trump tariffs may raise your car insurance premiums",
+            "link": "https://www.cnbc.com/2025/02/24/heres-why-trump-tariffs-may-raise-your-car-insurance-premiums.html",
+            "summary": "If they take effect, tariffs are expected to raise costs for insurers to repair or replace cars. This could lead to higher premiums for auto insurance.",
+            "date": "Mon, 24 Feb 2025 13:11:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WAB",
-            "impact": "Bearish"
-        },
-        {
-            "title": "‘She’s still waiting by the phone’: My grandmother gave her life savings to a man she met online. What now?",
-            "link": "https://www.marketwatch.com/story/shes-still-waiting-by-the-phone-my-grandmother-gave-her-life-savings-to-a-man-she-met-online-what-now-4c85a3e9?mod=mw_rss_topstories",
-            "summary": "“Up until the moment she was scammed, we considered her the wealthy one in our family,” the victim's family said. “We considered her to be one of the richest people in the world.”",
-            "date": "Sun, 23 Feb 2025 10:22:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SHESHAINDS.BO",
-            "impact": "Bullish"
-        },
-        {
-            "title": "‘I believe myself to be an honorable person’: Do I have the right to ask my husband if I’ll inherit his house after he dies?",
-            "link": "https://www.marketwatch.com/story/i-believe-myself-to-be-an-honorable-person-do-i-have-the-right-to-ask-my-husband-what-happens-to-his-house-if-he-dies-f5557b7a?mod=mw_rss_topstories",
-            "summary": "“He and his first wife have a son who just graduated from university,” his daughter says. “He’s always been very proud of his son.”",
-            "date": "Sat, 22 Feb 2025 23:27:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VRM",
+            "stock_ticker": "WHYCX",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’ve opened a hornet’s nest’: My mother-in-law lists my husband as beneficiary on her $1 million IRA. But her will says otherwise. Which wins?",
-            "link": "https://www.marketwatch.com/story/i-feel-like-ive-opened-a-hornets-nest-my-mother-in-law-lists-my-husband-as-beneficiary-on-her-1-million-ira-but-her-will-says-otherwise-who-wins-dfd137a9?mod=mw_rss_topstories",
-            "summary": "“All of this is causing a lot of turmoil in the family. Does her will trump the IRA beneficiary?” he asks.",
-            "date": "Sat, 22 Feb 2025 23:22:00 GMT",
+            "title": "The ‘Magnificent Seven’ are out; these stocks are in — but there’s one catch",
+            "link": "https://www.marketwatch.com/story/the-magnificent-seven-are-out-these-stocks-are-in-but-theres-one-catch-87cd9c30?mod=mw_rss_topstories",
+            "summary": "Japanese yen carry-trade unwind could again tank the stock market. The yen carry trade unwind has been seen as a key factor in the recent stock market sell-off.",
+            "date": "Mon, 24 Feb 2025 13:09:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IVE",
+            "stock_ticker": "DIS",
             "impact": "Neutral"
         },
         {
-            "title": "Warren Buffett, warning of ‘scoundrels’ and ‘fiscal folly,’ slashes his exposure to U.S. stocks",
-            "link": "https://www.marketwatch.com/story/warren-buffett-warning-of-scoundrels-and-fiscal-folly-slashes-his-exposure-to-u-s-stocks-15c6e66a?mod=mw_rss_topstories",
-            "summary": "The “Oracle of Omaha” has become a “committed” and “long-term” investor in a handful of Japanese companies.",
-            "date": "Sat, 22 Feb 2025 18:45:00 GMT",
+            "title": "Why the Apollo economist who coined ‘no-landing’ now sees intensifying risks to the U.S. economy",
+            "link": "https://www.marketwatch.com/story/why-the-apollo-economist-who-coined-no-landing-now-sees-intensifying-risks-to-the-u-s-economy-a655abc6?mod=mw_rss_topstories",
+            "summary": "Policy uncertainty is no friend to animal spirits, says a leading economist. Policy uncertainty is not a good thing for animals, says an expert on animal spirits.",
+            "date": "Mon, 24 Feb 2025 13:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PWR.XA",
+            "stock_ticker": "WHYCX",
             "impact": "Neutral"
         },
         {
-            "title": "Videogame giants are spending more money but losing players — and profits",
-            "link": "https://www.marketwatch.com/story/videogame-giants-are-becoming-disconnected-from-players-and-profits-d467c1ce?mod=mw_rss_topstories",
-            "summary": "Sony, Electronic Arts and Ubisoft reflect an industrywide misunderstanding (or perhaps disregard) of what gamers value. Sony, Electronic EA and Ubisoft reflects an industry wide misunderstanding ( or perhaps disregard of what gamer value)",
-            "date": "Sat, 22 Feb 2025 18:08:00 GMT",
+            "title": "Who needs a CEO? Not Intel. Its stock has soared this month without one.",
+            "link": "https://www.marketwatch.com/story/who-needs-a-ceo-not-intel-its-stock-has-soared-this-month-without-one-47af8276?mod=mw_rss_topstories",
+            "summary": "Intel joins short list of companies doing well without permanent CEOs. But balance of corporate power still tips toward having someone at the helm.",
+            "date": "Mon, 24 Feb 2025 12:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HERU.SW",
+            "stock_ticker": "COST",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Domino’s Pizza’s stock slides on revenue and earnings miss as U.S. same-store sales disappoints",
+            "link": "https://www.marketwatch.com/story/dominos-pizzas-stock-slides-after-q4-revenue-and-earnings-miss-86e6dda8?mod=mw_rss_topstories",
+            "summary": "Domino's reported weaker-than-expected U.S. same-store-sales growth. Domino’s reported weaker than-expected growth.",
+            "date": "Mon, 24 Feb 2025 12:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DPZ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This social-media star helps women get richer. Here are her top money tips.",
+            "link": "https://www.marketwatch.com/story/this-social-media-star-helps-women-get-richer-here-are-her-top-money-tips-e6fe2558?mod=mw_rss_topstories",
+            "summary": "Tori Dunlap, founder of Her First $100K, says, “A financial education is the best form of protest.”",
+            "date": "Mon, 24 Feb 2025 12:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         }
     ]
