@@ -1,124 +1,124 @@
 {
-    "date": "2025-02-24",
+    "date": "2025-02-25",
     "news": [
         {
-            "title": "Robinhood says SEC dismissed crypto unit investigation in latest sign of easier regulation for industry",
-            "link": "https://www.cnbc.com/2025/02/24/robinhood-says-sec-dismissed-crypto-unit-investigation-in-latest-sign-of-easier-regulation-for-industry.html",
-            "summary": "The Securities and Exchange Commission is dropping its investigation into Robinhood's crypto arm, the company said Monday. Robinhood is a popular app that lets users buy and sell Bitcoin.",
-            "date": "Mon, 24 Feb 2025 13:09:35 GMT",
+            "title": "Home Depot earnings beat Wall Street estimates, as retailer breaks comparable sales losing streak",
+            "link": "https://www.cnbc.com/2025/02/25/home-depot-hd-q4-2024-earnings.html",
+            "summary": "Home Depot narrowly beat fourth-quarter earnings estimates, but it gave lackluster sales guidance. High interest rates and home prices pose challenges, Home Depot says.",
+            "date": "Tue, 25 Feb 2025 11:49:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HOOD",
+            "stock_ticker": "HD",
             "impact": "Neutral"
         },
         {
-            "title": "Apple to open AI server factory in Texas as part of $500 billion U.S. investment",
-            "link": "https://www.cnbc.com/2025/02/24/apple-to-open-texas-ai-server-factory-in-500-billion-us-expansion.html",
-            "summary": "Apple will open a 250,000-square-foot AI server manufacturing facility in Houston, Texas. Apple said it will work with partners to open the facility.",
-            "date": "Mon, 24 Feb 2025 12:28:54 GMT",
+            "title": "PayPal lays out strategy for Venmo to reach $2 billion in revenue in 2027",
+            "link": "https://www.cnbc.com/2025/02/25/paypal-strategy-for-venmo-to-reach-2-billion-in-revenue-in-2027.html",
+            "summary": "PayPal is focused on expanding Venmo’s role in digital commerce. Facing competitors like Cash App, Zelle, and Apple Pay, PayPal is focusing on Venmo.",
+            "date": "Tue, 25 Feb 2025 12:35:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAPL",
+            "stock_ticker": "PYPL",
             "impact": "Neutral"
         },
         {
-            "title": "'Uphill battle' ahead: Trump, business leaders and economists react to German election result",
-            "link": "https://www.cnbc.com/2025/02/24/german-election-politicians-economists-and-ceos-react-to-result.html",
-            "summary": "There's a distinct feeling of déjà vu in Berlin following the federal election. A new chapter in German politics begins on Monday following the election.",
-            "date": "Mon, 24 Feb 2025 12:33:37 GMT",
+            "title": "How digitally native companies like Rothy's are growing profitably in a new era for retail",
+            "link": "https://www.cnbc.com/2025/02/25/rothys-posts-best-year-on-record-after-wholesale-expansion.html",
+            "summary": "Rothy's is growing profitably after expanding into wholesale and building its store fleet. In 2024, it saw sales grow 17%. In 2015, Rothy's saw sales growth of 17%.",
+            "date": "Tue, 25 Feb 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001KOXN.SA",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Berkshire operating earnings surge 71% in fourth quarter, cash hoard balloons to record $334 billion",
-            "link": "https://www.cnbc.com/2025/02/22/berkshire-hathaway-brka-earnings-q4-2024.html",
-            "summary": "Berkshire Hathaway reported fourth-quarter results on Saturday. The company's Class A shares popped more than 25% in 2024.",
-            "date": "Mon, 24 Feb 2025 12:29:28 GMT",
+            "title": "Trump says tariffs on Canada and Mexico 'will go forward'",
+            "link": "https://www.cnbc.com/2025/02/24/trump-says-tariffs-on-canada-and-mexico-will-go-forward.html",
+            "summary": "President Donald Trump says sweeping tariffs on Canada and Mexico \"will go forward\" A monthlong delay on their implementation expires next week. President Donald Trump said sweeping tariffs will go forward.",
+            "date": "Mon, 24 Feb 2025 22:45:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BRK-B",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Here's why Trump tariffs may raise your car insurance premiums",
-            "link": "https://www.cnbc.com/2025/02/24/heres-why-trump-tariffs-may-raise-your-car-insurance-premiums.html",
-            "summary": "If they take effect, tariffs are expected to raise costs for insurers to repair or replace cars. This could lead to higher premiums for auto insurance.",
-            "date": "Mon, 24 Feb 2025 13:11:02 GMT",
+            "title": "Nvida to report earnings amid infrastructure spending, DeepSeek concerns",
+            "link": "https://www.cnbc.com/2025/02/25/nvida-to-report-earnings-amid-infrastructure-spending-deepseek-concerns.html",
+            "summary": "Nvidia reports fourth-quarter financial results on Wednesday after the bell. Nvidia is the world's largest graphics chip maker. The company also has a dominant market share in the PC and tablet market.",
+            "date": "Tue, 25 Feb 2025 13:05:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYCX",
+            "stock_ticker": "TOPUSD=X",
             "impact": "Neutral"
         },
         {
-            "title": "The ‘Magnificent Seven’ are out; these stocks are in — but there’s one catch",
-            "link": "https://www.marketwatch.com/story/the-magnificent-seven-are-out-these-stocks-are-in-but-theres-one-catch-87cd9c30?mod=mw_rss_topstories",
-            "summary": "Japanese yen carry-trade unwind could again tank the stock market. The yen carry trade unwind has been seen as a key factor in the recent stock market sell-off.",
-            "date": "Mon, 24 Feb 2025 13:09:00 GMT",
+            "title": "Eli Lilly cuts price of weight-loss drug Zepbound for self-paying patients",
+            "link": "https://www.marketwatch.com/story/eli-lilly-to-cut-zepbound-single-dose-vials-to-499-a-month-from-699-previously-01391a3e?mod=mw_rss_topstories",
+            "summary": "The drug company is calling on insurers and federal programs to include coverage of obesity as a chronic disease. The company is also calling on the federal government to include obesity in its health insurance plans.",
+            "date": "Tue, 25 Feb 2025 12:53:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DIS",
+            "stock_ticker": "LLY",
             "impact": "Neutral"
         },
         {
-            "title": "Why the Apollo economist who coined ‘no-landing’ now sees intensifying risks to the U.S. economy",
-            "link": "https://www.marketwatch.com/story/why-the-apollo-economist-who-coined-no-landing-now-sees-intensifying-risks-to-the-u-s-economy-a655abc6?mod=mw_rss_topstories",
-            "summary": "Policy uncertainty is no friend to animal spirits, says a leading economist. Policy uncertainty is not a good thing for animals, says an expert on animal spirits.",
-            "date": "Mon, 24 Feb 2025 13:03:00 GMT",
+            "title": "Planet Fitness shares stumble as outlook points to slower earnings growth",
+            "link": "https://www.marketwatch.com/story/planet-fitness-stock-rises-as-consumers-focus-on-fitness-leads-to-earnings-beat-6555df3a?mod=mw_rss_topstories",
+            "summary": "Planet Fitness' stock falls as the full-year earnings growth outlook disappoints. Planet Fitness’ stock falls. as theFull-year Earnings Growth Outlook Disappoints. Click here to read more.",
+            "date": "Tue, 25 Feb 2025 12:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYCX",
+            "stock_ticker": "PL",
             "impact": "Neutral"
         },
         {
-            "title": "Who needs a CEO? Not Intel. Its stock has soared this month without one.",
-            "link": "https://www.marketwatch.com/story/who-needs-a-ceo-not-intel-its-stock-has-soared-this-month-without-one-47af8276?mod=mw_rss_topstories",
-            "summary": "Intel joins short list of companies doing well without permanent CEOs. But balance of corporate power still tips toward having someone at the helm.",
-            "date": "Mon, 24 Feb 2025 12:59:00 GMT",
+            "title": "There are dot-com echoes beyond tech. This Costco shareholder explains why returns will be paltry at best.",
+            "link": "https://www.marketwatch.com/story/there-are-dot-com-echoes-beyond-tech-this-costco-shareholder-explains-why-returns-will-be-paltry-at-best-72182123?mod=mw_rss_topstories",
+            "summary": "A fund manager says there are parallels between now and the 1998-to-2000 period, and not just in the megacap tech stocks.",
+            "date": "Tue, 25 Feb 2025 12:29:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COST",
+            "stock_ticker": "MAY-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Domino’s Pizza’s stock slides on revenue and earnings miss as U.S. same-store sales disappoints",
-            "link": "https://www.marketwatch.com/story/dominos-pizzas-stock-slides-after-q4-revenue-and-earnings-miss-86e6dda8?mod=mw_rss_topstories",
-            "summary": "Domino's reported weaker-than-expected U.S. same-store-sales growth. Domino’s reported weaker than-expected growth.",
-            "date": "Mon, 24 Feb 2025 12:52:00 GMT",
+            "title": "Novo Nordisk’s stock is rallying as Hims & Hers’ stock falters. An Ozempic alternative won’t be available for long.",
+            "link": "https://www.marketwatch.com/story/novo-nordisks-stock-is-rallying-as-hims-hers-stock-falters-an-ozempic-alternative-wont-be-available-for-long-464065f1?mod=mw_rss_topstories",
+            "summary": "Novo Nordisk shares rallied on Tuesday as a maker of a weight-loss drug alternative confirmed it won't be selling it for much longer.",
+            "date": "Tue, 25 Feb 2025 12:29:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DPZ",
+            "stock_ticker": "NVO",
             "impact": "Neutral"
         },
         {
-            "title": "This social-media star helps women get richer. Here are her top money tips.",
-            "link": "https://www.marketwatch.com/story/this-social-media-star-helps-women-get-richer-here-are-her-top-money-tips-e6fe2558?mod=mw_rss_topstories",
-            "summary": "Tori Dunlap, founder of Her First $100K, says, “A financial education is the best form of protest.”",
-            "date": "Mon, 24 Feb 2025 12:50:00 GMT",
+            "title": "No ‘golden age’ is coming. Trump’s tariffs will hit Americans with higher interest rates and more inflation.",
+            "link": "https://www.marketwatch.com/story/no-golden-age-is-coming-trumps-tariffs-will-hit-americans-with-higher-interest-rates-and-more-inflation-f9f5aa48?mod=mw_rss_topstories",
+            "summary": "Protectionism won’t make us rich, especially if tariffs launch a trade war, writes CNN’s John Sutter. Sutter: “I’m worried that we’re going to have to get used to the idea of tariffs.”",
+            "date": "Tue, 25 Feb 2025 12:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "NOK=X",
             "impact": "Neutral"
         }
     ]
