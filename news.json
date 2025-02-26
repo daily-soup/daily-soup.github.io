@@ -1,59 +1,47 @@
 {
-    "date": "2025-02-25",
+    "date": "2025-02-26",
     "news": [
         {
-            "title": "Home Depot earnings beat Wall Street estimates, as retailer breaks comparable sales losing streak",
-            "link": "https://www.cnbc.com/2025/02/25/home-depot-hd-q4-2024-earnings.html",
-            "summary": "Home Depot narrowly beat fourth-quarter earnings estimates, but it gave lackluster sales guidance. High interest rates and home prices pose challenges, Home Depot says.",
-            "date": "Tue, 25 Feb 2025 11:49:15 GMT",
+            "title": "GM raises quarterly dividend, initiates $6 billion stock buyback",
+            "link": "https://www.cnbc.com/2025/02/26/gm-raises-dividend-initiates-stock-buyback.html",
+            "summary": "General Motors says it is raising its quarterly dividend and initiating a new $6 billion share repurchase program. General Motors said Wednesday that it is raise its quarterly dividends and initiate a new £5 billion share buyback program.",
+            "date": "Wed, 26 Feb 2025 12:33:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HD",
+            "stock_ticker": "GM",
             "impact": "Neutral"
         },
         {
-            "title": "PayPal lays out strategy for Venmo to reach $2 billion in revenue in 2027",
-            "link": "https://www.cnbc.com/2025/02/25/paypal-strategy-for-venmo-to-reach-2-billion-in-revenue-in-2027.html",
-            "summary": "PayPal is focused on expanding Venmo’s role in digital commerce. Facing competitors like Cash App, Zelle, and Apple Pay, PayPal is focusing on Venmo.",
-            "date": "Tue, 25 Feb 2025 12:35:01 GMT",
+            "title": "TJ Maxx parent company posts strong holiday, but issues weaker-than-expected guidance",
+            "link": "https://www.cnbc.com/2025/02/26/tjx-cos-tjx-q4-2025-earnings.html",
+            "summary": "The company behind T.J. Maxx, Marshall's and Home Goods has seen growth start to slow down. But it's one of the few retailers that could benefit from tariffs.",
+            "date": "Wed, 26 Feb 2025 13:05:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PYPL",
-            "impact": "Neutral"
+            "stock_ticker": "TJSBRX=X",
+            "impact": "Bearish"
         },
         {
-            "title": "How digitally native companies like Rothy's are growing profitably in a new era for retail",
-            "link": "https://www.cnbc.com/2025/02/25/rothys-posts-best-year-on-record-after-wholesale-expansion.html",
-            "summary": "Rothy's is growing profitably after expanding into wholesale and building its store fleet. In 2024, it saw sales grow 17%. In 2015, Rothy's saw sales growth of 17%.",
-            "date": "Tue, 25 Feb 2025 13:00:01 GMT",
+            "title": "Lowe's beats Wall Street expectations as it starts to break out of sales slump",
+            "link": "https://www.cnbc.com/2025/02/26/lowes-low-q4-2024-earnings.html",
+            "summary": "Lowe's followed rival Home Depot in reporting better-than-expected quarterly sales. Lowe's reported better than expected quarterly sales, beating expectations.",
+            "date": "Wed, 26 Feb 2025 12:32:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "LOW",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says tariffs on Canada and Mexico 'will go forward'",
-            "link": "https://www.cnbc.com/2025/02/24/trump-says-tariffs-on-canada-and-mexico-will-go-forward.html",
-            "summary": "President Donald Trump says sweeping tariffs on Canada and Mexico \"will go forward\" A monthlong delay on their implementation expires next week. President Donald Trump said sweeping tariffs will go forward.",
-            "date": "Mon, 24 Feb 2025 22:45:57 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Nvida to report earnings amid infrastructure spending, DeepSeek concerns",
-            "link": "https://www.cnbc.com/2025/02/25/nvida-to-report-earnings-amid-infrastructure-spending-deepseek-concerns.html",
-            "summary": "Nvidia reports fourth-quarter financial results on Wednesday after the bell. Nvidia is the world's largest graphics chip maker. The company also has a dominant market share in the PC and tablet market.",
-            "date": "Tue, 25 Feb 2025 13:05:57 GMT",
+            "title": "Ukraine reportedly agrees to critical rare minerals deal with the U.S.",
+            "link": "https://www.cnbc.com/2025/02/26/ukraine-rare-earth-minerals-deal-trump.html",
+            "summary": "Ukraine and the U.S. reach an agreement over access to Kyiv's deposits of rare earth minerals, according to media reports. Ukraine and the United States reached an agreement.",
+            "date": "Wed, 26 Feb 2025 13:15:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,63 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "Eli Lilly cuts price of weight-loss drug Zepbound for self-paying patients",
-            "link": "https://www.marketwatch.com/story/eli-lilly-to-cut-zepbound-single-dose-vials-to-499-a-month-from-699-previously-01391a3e?mod=mw_rss_topstories",
-            "summary": "The drug company is calling on insurers and federal programs to include coverage of obesity as a chronic disease. The company is also calling on the federal government to include obesity in its health insurance plans.",
-            "date": "Tue, 25 Feb 2025 12:53:00 GMT",
+            "title": "Mortgage rates drop to lowest since mid-December, but demand still falls short",
+            "link": "https://www.cnbc.com/2025/02/26/mortgage-rates-drop-to-lowest-since-mid-december-but-demand-still-falls-short.html",
+            "summary": " applications for a mortgage to purchase a home were flat for the week and 3% higher than the same week one year ago. Applications for a Mortgage to Purchase a Home were Flat for the Week.",
+            "date": "Wed, 26 Feb 2025 12:38:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LLY",
+            "stock_ticker": "FNMA",
             "impact": "Neutral"
         },
         {
-            "title": "Planet Fitness shares stumble as outlook points to slower earnings growth",
-            "link": "https://www.marketwatch.com/story/planet-fitness-stock-rises-as-consumers-focus-on-fitness-leads-to-earnings-beat-6555df3a?mod=mw_rss_topstories",
-            "summary": "Planet Fitness' stock falls as the full-year earnings growth outlook disappoints. Planet Fitness’ stock falls. as theFull-year Earnings Growth Outlook Disappoints. Click here to read more.",
-            "date": "Tue, 25 Feb 2025 12:50:00 GMT",
+            "title": "Oil prices trade at 2025 lows on tariff fears, hopes for end to Ukraine war",
+            "link": "https://www.marketwatch.com/story/oil-prices-trade-at-2025-lows-on-tariff-fears-hopes-for-end-to-ukraine-war-c06e1571?mod=mw_rss_topstories",
+            "summary": "Oil futures edged lower early Wednesday, maintaining a weak tone. Concerns over the global economic outlook and the potential for a halt to Russia’s war on Ukraine could result in sanctions being loosened.",
+            "date": "Wed, 26 Feb 2025 13:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PL",
+            "stock_ticker": "CL=F",
             "impact": "Neutral"
         },
         {
-            "title": "There are dot-com echoes beyond tech. This Costco shareholder explains why returns will be paltry at best.",
-            "link": "https://www.marketwatch.com/story/there-are-dot-com-echoes-beyond-tech-this-costco-shareholder-explains-why-returns-will-be-paltry-at-best-72182123?mod=mw_rss_topstories",
-            "summary": "A fund manager says there are parallels between now and the 1998-to-2000 period, and not just in the megacap tech stocks.",
-            "date": "Tue, 25 Feb 2025 12:29:00 GMT",
+            "title": "Bloomin’ Brands’ stock slides as revenue falls short for a sixth straight quarter",
+            "link": "https://www.marketwatch.com/story/bloomin-brands-stock-slides-as-revenue-falls-short-for-a-sixth-straight-quarter-1dea6870?mod=mw_rss_topstories",
+            "summary": "The parent company of Outback Steakhouse swings to a loss. The company offers soft guidance for 2025 amid continued pressure on fast-casual dining.",
+            "date": "Wed, 26 Feb 2025 13:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MAY-USD",
+            "stock_ticker": "BLMN",
             "impact": "Neutral"
         },
         {
-            "title": "Novo Nordisk’s stock is rallying as Hims & Hers’ stock falters. An Ozempic alternative won’t be available for long.",
-            "link": "https://www.marketwatch.com/story/novo-nordisks-stock-is-rallying-as-hims-hers-stock-falters-an-ozempic-alternative-wont-be-available-for-long-464065f1?mod=mw_rss_topstories",
-            "summary": "Novo Nordisk shares rallied on Tuesday as a maker of a weight-loss drug alternative confirmed it won't be selling it for much longer.",
-            "date": "Tue, 25 Feb 2025 12:29:00 GMT",
+            "title": "Investors love Buffett and then ignore what he says. How to avoid these mistakes made in 2024.",
+            "link": "https://www.marketwatch.com/story/investors-love-buffett-and-then-ignore-what-he-says-how-to-avoid-these-mistakes-made-in-2024-400873f2?mod=mw_rss_topstories",
+            "summary": "Larry Swedroe, author of several investing books, talks about the biggest mistakes investors make year after year. Swedroe talks about how they can break the cycle.",
+            "date": "Wed, 26 Feb 2025 12:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVO",
+            "stock_ticker": "OHI",
             "impact": "Neutral"
         },
         {
-            "title": "No ‘golden age’ is coming. Trump’s tariffs will hit Americans with higher interest rates and more inflation.",
-            "link": "https://www.marketwatch.com/story/no-golden-age-is-coming-trumps-tariffs-will-hit-americans-with-higher-interest-rates-and-more-inflation-f9f5aa48?mod=mw_rss_topstories",
-            "summary": "Protectionism won’t make us rich, especially if tariffs launch a trade war, writes CNN’s John Sutter. Sutter: “I’m worried that we’re going to have to get used to the idea of tariffs.”",
-            "date": "Tue, 25 Feb 2025 12:05:00 GMT",
+            "title": "Value investor Bill Nygren explains why Nvidia isn’t the best AI stock to own now",
+            "link": "https://www.marketwatch.com/story/value-investor-bill-nygren-explains-why-nvidia-isnt-the-best-ai-stock-to-own-now-da41755a?mod=mw_rss_topstories",
+            "summary": "Look at companies that use AI effectively, not AI hardware manufacturers, Oakmark Fund manager says. Oakmark is a manager of the Oakmark AI Fund, which invests in companies using AI.",
+            "date": "Wed, 26 Feb 2025 12:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NOK=X",
+            "stock_ticker": "RSV=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "North Korea’s $1.5 billion crypto hack is chump change — given what’s lurking",
+            "link": "https://www.marketwatch.com/story/north-koreas-1-5-billion-crypto-hack-is-chump-change-given-whats-lurking-a03f29c3?mod=mw_rss_topstories",
+            "summary": "Crypto’s vulnerability to theft will keep bitcoin from widespread use, experts say. ‘I’m worried about the future of bitcoin,’ one analyst says. “It’ll be hard to get people to use it.”",
+            "date": "Wed, 26 Feb 2025 12:45:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EHR=F",
             "impact": "Neutral"
         }
     ]
