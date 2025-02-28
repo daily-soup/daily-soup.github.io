@@ -1,47 +1,23 @@
 {
-    "date": "2025-02-27",
+    "date": "2025-02-28",
     "news": [
         {
-            "title": "Nvidia CEO Huang says AI has to do '100 times more' computation now than when ChatGPT was released",
-            "link": "https://www.cnbc.com/2025/02/26/nvidia-ceo-huang-says-next-generation-ai-will-need-more-compute.html",
-            "summary": "Nvidia CEO Jensen Huang spoke with CNBC's Jon Fortt following the chipmaker's quarterly earnings report on Wednesday. Huang: \"I think we're on the right track. We're going to continue to make progress\"",
-            "date": "Thu, 27 Feb 2025 01:32:03 GMT",
+            "title": "China vows to retaliate as necessary after Trump threatens another 10% tariff hike",
+            "link": "https://www.cnbc.com/2025/02/28/china-vows-to-retaliate-as-necessary-after-trump-threatens-tariffs.html",
+            "summary": "China's statement on Friday appeared to strike a stronger tone than its response after Washington slapped the initial 10% duties earlier this month. China's statement appeared to be in response to Washington's response to the initial duties.",
+            "date": "Fri, 28 Feb 2025 12:31:52 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "CHH=F",
             "impact": "Neutral"
         },
         {
-            "title": "Stripe's valuation climbs to $91.5 billion in secondary stock offer",
-            "link": "https://www.cnbc.com/2025/02/27/stripes-valuation-climbs-to-91point5-billion-in-secondary-stock-sale-.html",
-            "summary": "Stripe announced a tender offer on Thursday that values the company at close to its peak valuation from 2021. Stripe is a social payments company that was founded in 2007.",
-            "date": "Thu, 27 Feb 2025 13:15:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "160212.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "WBD adds 6.4 million Max subscribers, forecasts 150 million subs by end of 2026",
-            "link": "https://www.cnbc.com/2025/02/27/warner-bros-discovery-wbd-q4-2024-earnings.html",
-            "summary": "Warner Bros. Discovery says it added 6.4 million global streaming subscribers in the fourth quarter. That's a total of 116.9 million subscribers.",
-            "date": "Thu, 27 Feb 2025 13:13:58 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WBD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump threatens to slap 25% tariffs on EU, says bloc was always meant to hurt the U.S.",
-            "link": "https://www.cnbc.com/2025/02/27/trump-threatens-25percent-tariffs-on-eu-says-bloc-formed-to-screw-us.html",
-            "summary": "U.S. President Donald Trump threatened to impose 25% tariffs on imports from the European Union. Trump claimed that the bloc was formed \"to screw\" the U.S., claiming that it was formed to \"screw\" him.",
-            "date": "Thu, 27 Feb 2025 08:07:33 GMT",
+            "title": "Trump says a minerals deal with Ukraine is worth billions. It might not be as valuable as he hopes",
+            "link": "https://www.cnbc.com/2025/02/28/trump-says-minerals-deal-with-ukraine-is-worth-billions-is-it.html",
+            "summary": "Analysts question the size of Ukraine's natural resources deposits, how accessible they are and easy to extract. Analysts questions the ultimate value of a potential deal.",
+            "date": "Fri, 28 Feb 2025 12:51:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,75 +26,99 @@
             "impact": "Neutral"
         },
         {
-            "title": "Amazon touts its first quantum computing chip a week after Microsoft's unveiling",
-            "link": "https://www.cnbc.com/2025/02/27/amazon-touts-its-first-quantum-computing-chip-a-week-after-microsofts-unveiling.html",
-            "summary": "The chip will help the online retailer build highly efficient hardware systems, Amazon says. The chip is the first of its kind and will be used for quantum computing.",
-            "date": "Thu, 27 Feb 2025 12:51:17 GMT",
+            "title": "Google announces layoffs in its HR, cloud units as part of ongoing cost cuts",
+            "link": "https://www.cnbc.com/2025/02/27/google-makes-cuts-to-hr-and-cloud-units.html",
+            "summary": "The company has begun cutting from units in order to invest more in AI. The company has also announced it will be selling off some of its non-core businesses to focus on AI.",
+            "date": "Fri, 28 Feb 2025 00:21:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMZN",
+            "stock_ticker": "GOOG",
             "impact": "Neutral"
         },
         {
-            "title": "Swiss Re expects LA wildfire costs to come in at under $700 million",
-            "link": "https://www.marketwatch.com/story/swiss-re-expects-la-wildfire-costs-to-come-in-at-under-700-million-d6f70a0e?mod=mw_rss_topstories",
-            "summary": "Swiss Re said its LA wildfire losses would come in under $700 million. Swiss Re said it had no plans to “pull back” from California.",
-            "date": "Thu, 27 Feb 2025 13:09:00 GMT",
+            "title": "Nvidia bounced from the $3 trillion market cap club after shares fall more than 8%",
+            "link": "https://www.cnbc.com/2025/02/27/nvidia-bounced-from-the-3-trillion-market-cap-club-after-stock-drop.html",
+            "summary": "Nvidia is still the second most valuable U.S. tech company, behind Apple and ahead of Microsoft. Despite its slide, Nvidia still has a market value of more than $20 billion.",
+            "date": "Fri, 28 Feb 2025 00:05:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SJY=F",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "Rolls-Royce, whose stock-market performance is close to Nvidia’s, rallies again",
-            "link": "https://www.marketwatch.com/story/rolls-royce-has-been-outperformed-by-palantir-nvidia-but-few-others-and-the-gains-continue-22668e0d?mod=mw_rss_topstories",
-            "summary": "Rolls-Royce is one of the hottest stocks in Europe over the last two years. The engine maker beat analyst expectations and set medium term guidance that points to continued growth.",
-            "date": "Thu, 27 Feb 2025 13:04:00 GMT",
+            "title": "Egg prices are threatening a classic holiday tradition: Easter dye kits",
+            "link": "https://www.cnbc.com/2025/02/28/egg-prices-threaten-easter-dye-kit-sales.html",
+            "summary": "Makers of Easter egg dye kits are bracing for the potential fallout if the egg shortage doesn't begin to clear up before the April 20 holiday.",
+            "date": "Fri, 28 Feb 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RYCEY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Federal jobs went from reliable to risky overnight. Here’s where Americans can find stable work now — and in the future.",
-            "link": "https://www.marketwatch.com/story/federal-jobs-went-from-reliable-to-risky-overnight-heres-where-americans-can-find-stable-work-now-and-in-the-future-d4e9909c?mod=mw_rss_topstories",
-            "summary": "These industries are projected to grow over the next decade. No job is disruption-proof, but these industries are expected to grow in the coming years.",
-            "date": "Thu, 27 Feb 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZQ=F",
+            "stock_ticker": "EGG29211-USD",
             "impact": "Bullish"
         },
         {
-            "title": "Norwegian Cruise’s bookings are still booming, and passengers are spending more",
-            "link": "https://www.marketwatch.com/story/norwegian-cruises-stock-gains-after-a-big-earnings-beat-but-outlook-was-muted-991debf0?mod=mw_rss_topstories",
-            "summary": "Norwegian Cruise posts a quarterly profit that beat expectations by a wide margin. The stock gets a lift. Norwegian Cruise swings to a quarterly Profit that beat Expectations by a Wide margin.",
-            "date": "Thu, 27 Feb 2025 12:48:00 GMT",
+            "title": "Applebee’s ‘underwhelming’ $9.99 meal deal draws downgrade for Dine Brands",
+            "link": "https://www.marketwatch.com/story/applebees-underwhelming-9-99-meal-deal-draws-downgrade-for-dine-brands-c432b748?mod=mw_rss_topstories",
+            "summary": " Analyst cuts Dine Brands to neutral after the ‘Really Big Meal Deal’ offers value but doesn’t improve same-store sales at Applebee’s.",
+            "date": "Fri, 28 Feb 2025 13:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NOK=F",
+            "stock_ticker": "ZM=F",
             "impact": "Neutral"
         },
         {
-            "title": "Three catalysts have driven S&P 500 corrections since 1964. Here’s what could spark one now.",
-            "link": "https://www.marketwatch.com/story/three-catalysts-have-driven-s-p-500-corrections-since-1964-heres-what-could-spark-one-now-15fa22a9?mod=mw_rss_topstories",
-            "summary": "Piper Sandler’s Michael Kantrowitz has dug into big corrections since 1964 and finds they all need a catalyst. Here's what he sees coming in 2025.",
-            "date": "Thu, 27 Feb 2025 12:39:00 GMT",
+            "title": "Oil prices on track for February losses on worries over tariffs, economic outlook",
+            "link": "https://www.marketwatch.com/story/oil-prices-on-track-for-february-losses-on-worries-over-tariffs-economic-outlook-4768424a?mod=mw_rss_topstories",
+            "summary": "Oil futures fell Friday and were on track for a monthly loss. Crude saw pressure in February on worries about the global economic outlook and rising trade tensions from the Trump administration's tariff plans.",
+            "date": "Fri, 28 Feb 2025 12:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "Z3N=F",
+            "stock_ticker": "CL=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How U.S. ‘mini-stagflation’ and the yen could shock financial markets",
+            "link": "https://www.marketwatch.com/story/how-u-s-mini-stagflation-and-the-yen-could-shock-financial-markets-7638cb44?mod=mw_rss_topstories",
+            "summary": "A financial shock is on the cards if the carry trade crumbles, says strategist. The carry trade is a way for investors to make money from the stock market.",
+            "date": "Fri, 28 Feb 2025 12:41:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These tips for investing in mutual funds and ETFs put you in the driver’s seat",
+            "link": "https://www.marketwatch.com/story/these-tips-for-investing-in-mutual-funds-and-etfs-put-you-in-the-drivers-seat-3f987900?mod=mw_rss_topstories",
+            "summary": "Warren Buffett talks about the stock market, and a potential successor to the “Magnificent Seven’s” stocks. Plus: What Warren Buffett really thinks about the Stock Market.",
+            "date": "Fri, 28 Feb 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TIP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘She’s not working outside the home’: My mother, 63, inherited $100,000. Is she too old to invest in the stock market?",
+            "link": "https://www.marketwatch.com/story/my-mother-63-inherited-100-000-is-she-too-old-to-invest-in-the-stock-market-what-should-she-do-with-it-b940f88a?mod=mw_rss_topstories",
+            "summary": "\"Are the only options to create a CD ladder or leave it in a high-interest savings account?” asks the expert. “Are theonly options to created a CD Ladder or leave It in a High-interest Savings Account?’ asks the Expert.",
+            "date": "Fri, 28 Feb 2025 12:17:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SHESHAINDS.BO",
             "impact": "Neutral"
         }
     ]
