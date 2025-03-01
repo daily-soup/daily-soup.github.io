@@ -1,124 +1,124 @@
 {
-    "date": "2025-02-28",
+    "date": "2025-03-01",
     "news": [
         {
-            "title": "China vows to retaliate as necessary after Trump threatens another 10% tariff hike",
-            "link": "https://www.cnbc.com/2025/02/28/china-vows-to-retaliate-as-necessary-after-trump-threatens-tariffs.html",
-            "summary": "China's statement on Friday appeared to strike a stronger tone than its response after Washington slapped the initial 10% duties earlier this month. China's statement appeared to be in response to Washington's response to the initial duties.",
-            "date": "Fri, 28 Feb 2025 12:31:52 GMT",
+            "title": "Full Video: Trump-Zelenskyy Oval Office meeting explodes into shouting match",
+            "link": "https://www.cnbc.com/2025/02/28/trump-vance-and-zelenskyy-clash-at-white-house-ukraine-meeting.html",
+            "summary": "President Donald Trump and Vice President JD Vance argued with Ukraine President Volodymyr Zelenskyy. Vance accused Zelensyy of disrespect.",
+            "date": "Fri, 28 Feb 2025 20:18:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHH=F",
+            "stock_ticker": "FUL",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says a minerals deal with Ukraine is worth billions. It might not be as valuable as he hopes",
-            "link": "https://www.cnbc.com/2025/02/28/trump-says-minerals-deal-with-ukraine-is-worth-billions-is-it.html",
-            "summary": "Analysts question the size of Ukraine's natural resources deposits, how accessible they are and easy to extract. Analysts questions the ultimate value of a potential deal.",
-            "date": "Fri, 28 Feb 2025 12:51:30 GMT",
+            "title": "The first quarter is on track for negative GDP growth, Atlanta Fed indicator says",
+            "link": "https://www.cnbc.com/2025/02/28/the-first-quarter-is-on-track-for-negative-gdp-growth-atlanta-fed-indicator-says-.html",
+            "summary": "Gross domestic product is on pace to shrink by 1.5%. The central bank's GDPNow tracker of incoming metrics is indicating that.",
+            "date": "Fri, 28 Feb 2025 19:56:47 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EBI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump administration, Musk’s DOGE plan to fire nearly all CFPB staff and wind down agency, employees say",
+            "link": "https://www.cnbc.com/2025/02/28/cfpb-leaders-and-elon-musk-doge-planned-to-fire-nearly-all-staff.html",
+            "summary": "Employees testified that CFPB leaders and Elon Musk's DOGE want to wind down the agency to five employees, the minimum required under law.",
+            "date": "Fri, 28 Feb 2025 17:39:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Neutral"
+            "impact": "Bearish"
         },
         {
-            "title": "Google announces layoffs in its HR, cloud units as part of ongoing cost cuts",
-            "link": "https://www.cnbc.com/2025/02/27/google-makes-cuts-to-hr-and-cloud-units.html",
-            "summary": "The company has begun cutting from units in order to invest more in AI. The company has also announced it will be selling off some of its non-core businesses to focus on AI.",
-            "date": "Fri, 28 Feb 2025 00:21:17 GMT",
+            "title": "Amazon eyes global expansion for its Temu, Shein competitor",
+            "link": "https://www.cnbc.com/2025/02/28/amazon-eyes-global-expansion-for-its-temu-shein-competitor.html",
+            "summary": "Amazon's Haul is a collection of products that are often priced at or below $20. Amazon debuted Haul last year, offering makeup, apparel, accessories and other items.",
+            "date": "Fri, 28 Feb 2025 23:54:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOOG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Nvidia bounced from the $3 trillion market cap club after shares fall more than 8%",
-            "link": "https://www.cnbc.com/2025/02/27/nvidia-bounced-from-the-3-trillion-market-cap-club-after-stock-drop.html",
-            "summary": "Nvidia is still the second most valuable U.S. tech company, behind Apple and ahead of Microsoft. Despite its slide, Nvidia still has a market value of more than $20 billion.",
-            "date": "Fri, 28 Feb 2025 00:05:11 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NVDA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Egg prices are threatening a classic holiday tradition: Easter dye kits",
-            "link": "https://www.cnbc.com/2025/02/28/egg-prices-threaten-easter-dye-kit-sales.html",
-            "summary": "Makers of Easter egg dye kits are bracing for the potential fallout if the egg shortage doesn't begin to clear up before the April 20 holiday.",
-            "date": "Fri, 28 Feb 2025 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EGG29211-USD",
+            "stock_ticker": "AMZN",
             "impact": "Bullish"
         },
         {
-            "title": "Applebee’s ‘underwhelming’ $9.99 meal deal draws downgrade for Dine Brands",
-            "link": "https://www.marketwatch.com/story/applebees-underwhelming-9-99-meal-deal-draws-downgrade-for-dine-brands-c432b748?mod=mw_rss_topstories",
-            "summary": " Analyst cuts Dine Brands to neutral after the ‘Really Big Meal Deal’ offers value but doesn’t improve same-store sales at Applebee’s.",
-            "date": "Fri, 28 Feb 2025 13:13:00 GMT",
+            "title": "Intel delays Ohio chip plant opening to next decade, was supposed to start production by 2026",
+            "link": "https://www.cnbc.com/2025/02/28/intel-delays-ohio-plant-opening-to-2030-production-was-to-start-2026.html",
+            "summary": "Intel is pushing off the opening of its Ohio chip manufacturing facility, the embattled chipmaker said Friday. Intel: The opening of the Ohio facility will be later this year.",
+            "date": "Fri, 28 Feb 2025 21:02:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZM=F",
+            "stock_ticker": "INTC",
             "impact": "Neutral"
         },
         {
-            "title": "Oil prices on track for February losses on worries over tariffs, economic outlook",
-            "link": "https://www.marketwatch.com/story/oil-prices-on-track-for-february-losses-on-worries-over-tariffs-economic-outlook-4768424a?mod=mw_rss_topstories",
-            "summary": "Oil futures fell Friday and were on track for a monthly loss. Crude saw pressure in February on worries about the global economic outlook and rising trade tensions from the Trump administration's tariff plans.",
-            "date": "Fri, 28 Feb 2025 12:45:00 GMT",
+            "title": "Why Trump’s ‘gold card’ visa program could make the pricey U.S. housing market even more expensive",
+            "link": "https://www.marketwatch.com/story/why-trumps-gold-card-visa-program-could-make-the-pricey-u-s-housing-market-even-more-expensive-4fec6dcf?mod=mw_rss_topstories",
+            "summary": "An influx of immigrants who pay $5 million for a visa could increase demand in the “ultrahigh end of the real-estate market,” says a National Association of Realtors economist.",
+            "date": "Sat, 01 Mar 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "WHYCX",
             "impact": "Neutral"
         },
         {
-            "title": "How U.S. ‘mini-stagflation’ and the yen could shock financial markets",
-            "link": "https://www.marketwatch.com/story/how-u-s-mini-stagflation-and-the-yen-could-shock-financial-markets-7638cb44?mod=mw_rss_topstories",
-            "summary": "A financial shock is on the cards if the carry trade crumbles, says strategist. The carry trade is a way for investors to make money from the stock market.",
-            "date": "Fri, 28 Feb 2025 12:41:00 GMT",
+            "title": "Wall Street can’t stop talking about the ‘Mar-a-Lago Accord’. Here’s how the currency deal would work.",
+            "link": "https://www.marketwatch.com/story/wall-street-cant-stop-talking-about-the-mar-a-lago-accord-heres-how-the-currency-deal-would-work-f8fbbda0?mod=mw_rss_topstories",
+            "summary": "A theory about how the Trump administration could restructure the international financial system to better serve American interests is starting to be taken seriously on Wall Street.",
+            "date": "Sat, 01 Mar 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "WBX",
             "impact": "Neutral"
         },
         {
-            "title": "These tips for investing in mutual funds and ETFs put you in the driver’s seat",
-            "link": "https://www.marketwatch.com/story/these-tips-for-investing-in-mutual-funds-and-etfs-put-you-in-the-drivers-seat-3f987900?mod=mw_rss_topstories",
-            "summary": "Warren Buffett talks about the stock market, and a potential successor to the “Magnificent Seven’s” stocks. Plus: What Warren Buffett really thinks about the Stock Market.",
-            "date": "Fri, 28 Feb 2025 12:30:00 GMT",
+            "title": "‘I’m an endless honey pot’: My wife and I are in our 70s. We gave our son $40,000 for his L.A. wedding. Now he wants more.",
+            "link": "https://www.marketwatch.com/story/im-an-endless-honey-pot-my-wife-and-i-are-in-our-70s-we-gave-our-son-40-000-for-his-l-a-wedding-now-he-wants-more-fc154a96?mod=mw_rss_topstories",
+            "summary": "“We financed three of them through college, so none of our kids have student loans,” his wife says. “We have four sons. We financed three and we’re going to finance four more.”",
+            "date": "Sat, 01 Mar 2025 12:24:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TIP",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "‘She’s not working outside the home’: My mother, 63, inherited $100,000. Is she too old to invest in the stock market?",
-            "link": "https://www.marketwatch.com/story/my-mother-63-inherited-100-000-is-she-too-old-to-invest-in-the-stock-market-what-should-she-do-with-it-b940f88a?mod=mw_rss_topstories",
-            "summary": "\"Are the only options to create a CD ladder or leave it in a high-interest savings account?” asks the expert. “Are theonly options to created a CD Ladder or leave It in a High-interest Savings Account?’ asks the Expert.",
-            "date": "Fri, 28 Feb 2025 12:17:00 GMT",
+            "title": "Trump’s trade war has rattled investors — uncertainty is a call to action",
+            "link": "https://www.marketwatch.com/story/uncertainty-surrounding-trumps-trade-war-is-actually-a-good-thing-yes-really-humor-me-1feb81bd?mod=mw_rss_topstories",
+            "summary": "Lack of clarity on what’s ahead should, if we’re smart, enhance our financial-planning skills.",
+            "date": "Sat, 01 Mar 2025 12:18:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHESHAINDS.BO",
+            "stock_ticker": "TRUMPSHIBA-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "U.S. stocks had a rocky February under Trump’s return. Should investors be worried about March?",
+            "link": "https://www.marketwatch.com/story/u-s-stocks-had-a-rocky-february-under-trumps-return-should-investors-be-worried-about-march-c6e4f450?mod=mw_rss_topstories",
+            "summary": "The U.S. stock market has been in a rollercoaster ride this year. The market has taken a number of twists and turns over the past few months.",
+            "date": "Sat, 01 Mar 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         }
     ]
