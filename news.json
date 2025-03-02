@@ -1,95 +1,83 @@
 {
-    "date": "2025-03-01",
+    "date": "2025-03-02",
     "news": [
         {
-            "title": "Full Video: Trump-Zelenskyy Oval Office meeting explodes into shouting match",
-            "link": "https://www.cnbc.com/2025/02/28/trump-vance-and-zelenskyy-clash-at-white-house-ukraine-meeting.html",
-            "summary": "President Donald Trump and Vice President JD Vance argued with Ukraine President Volodymyr Zelenskyy. Vance accused Zelensyy of disrespect.",
-            "date": "Fri, 28 Feb 2025 20:18:34 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FUL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The first quarter is on track for negative GDP growth, Atlanta Fed indicator says",
-            "link": "https://www.cnbc.com/2025/02/28/the-first-quarter-is-on-track-for-negative-gdp-growth-atlanta-fed-indicator-says-.html",
-            "summary": "Gross domestic product is on pace to shrink by 1.5%. The central bank's GDPNow tracker of incoming metrics is indicating that.",
-            "date": "Fri, 28 Feb 2025 19:56:47 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EBI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump administration, Musk’s DOGE plan to fire nearly all CFPB staff and wind down agency, employees say",
-            "link": "https://www.cnbc.com/2025/02/28/cfpb-leaders-and-elon-musk-doge-planned-to-fire-nearly-all-staff.html",
-            "summary": "Employees testified that CFPB leaders and Elon Musk's DOGE want to wind down the agency to five employees, the minimum required under law.",
-            "date": "Fri, 28 Feb 2025 17:39:02 GMT",
+            "title": "Trump objected to Zelenskyy's tone and body language in Oval Office clash, White House says",
+            "link": "https://www.cnbc.com/2025/03/01/trump-zelenskyy-white-house-tone-elon-musk.html",
+            "summary": "Zelenskyy challenged the idea that Ukraine can rely on diplomatic guarantees by Russia. He said Putin launched the war in 2022, and Ukraine can't rely on him to stop it.",
+            "date": "Sat, 01 Mar 2025 21:24:23 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Bearish"
+            "impact": "Neutral"
         },
         {
-            "title": "Amazon eyes global expansion for its Temu, Shein competitor",
-            "link": "https://www.cnbc.com/2025/02/28/amazon-eyes-global-expansion-for-its-temu-shein-competitor.html",
-            "summary": "Amazon's Haul is a collection of products that are often priced at or below $20. Amazon debuted Haul last year, offering makeup, apparel, accessories and other items.",
-            "date": "Fri, 28 Feb 2025 23:54:27 GMT",
+            "title": "Microsoft resolves global outage that left tens of thousands unable to access email and other apps",
+            "link": "https://www.cnbc.com/2025/03/01/reported-global-microsoft-outage-leaves-tens-of-thousands-unable-to-access-email-and-other-apps.html",
+            "summary": "The outage left tens of thousands of users unable to access their Outlook email accounts and other programs. Microsoft said service was restored following the outage.",
+            "date": "Sun, 02 Mar 2025 01:35:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMZN",
+            "stock_ticker": "MSFT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Another 'near miss': Citigroup mistakenly credited a customer account with $81 trillion",
+            "link": "https://www.cnbc.com/2025/03/01/citigroup-mistakenly-credited-a-customer-account-with-81-trillion.html",
+            "summary": "Citigroup mistakenly credit a customer's account with $81 trillion last year when it meant to send just $280. Citigroup: We mistakenly credited a customer’s account with £81 trillion when it was actually £280.",
+            "date": "Sat, 01 Mar 2025 20:39:49 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AWM-USD",
             "impact": "Bullish"
         },
         {
-            "title": "Intel delays Ohio chip plant opening to next decade, was supposed to start production by 2026",
-            "link": "https://www.cnbc.com/2025/02/28/intel-delays-ohio-plant-opening-to-2030-production-was-to-start-2026.html",
-            "summary": "Intel is pushing off the opening of its Ohio chip manufacturing facility, the embattled chipmaker said Friday. Intel: The opening of the Ohio facility will be later this year.",
-            "date": "Fri, 28 Feb 2025 21:02:02 GMT",
+            "title": "Top Wall Street analysts are upbeat on the long-term potential of these stocks",
+            "link": "https://www.cnbc.com/2025/03/02/top-wall-street-analysts-are-upbeat-on-the-long-term-potential-of-these-stocks.html",
+            "summary": "TipRanks' analyst ranking service spotlights three stocks favored by Wall Street. Booking Holdings and Visa are two of the stocks highlighted.",
+            "date": "Sun, 02 Mar 2025 12:03:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "INTC",
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
-            "title": "Why Trump’s ‘gold card’ visa program could make the pricey U.S. housing market even more expensive",
-            "link": "https://www.marketwatch.com/story/why-trumps-gold-card-visa-program-could-make-the-pricey-u-s-housing-market-even-more-expensive-4fec6dcf?mod=mw_rss_topstories",
-            "summary": "An influx of immigrants who pay $5 million for a visa could increase demand in the “ultrahigh end of the real-estate market,” says a National Association of Realtors economist.",
-            "date": "Sat, 01 Mar 2025 13:00:00 GMT",
+            "title": "Social Security has never missed a payment. DOGE actions threaten 'interruption of benefits,' ex-agency head says",
+            "link": "https://www.cnbc.com/2025/03/01/doge-actions-may-cause-social-security-benefit-interruption-ex-agency-head.html",
+            "summary": "New changes at the U.S. Social Security Administration may put its ability to deliver monthly benefit checks at risk, former agency head says.",
+            "date": "Sat, 01 Mar 2025 14:27:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYCX",
+            "stock_ticker": "SPT",
             "impact": "Neutral"
         },
         {
-            "title": "Wall Street can’t stop talking about the ‘Mar-a-Lago Accord’. Here’s how the currency deal would work.",
-            "link": "https://www.marketwatch.com/story/wall-street-cant-stop-talking-about-the-mar-a-lago-accord-heres-how-the-currency-deal-would-work-f8fbbda0?mod=mw_rss_topstories",
-            "summary": "A theory about how the Trump administration could restructure the international financial system to better serve American interests is starting to be taken seriously on Wall Street.",
-            "date": "Sat, 01 Mar 2025 12:30:00 GMT",
+            "title": "A dear friend, 91, wants to add me to the deed of his house. His daughter died and he’s not close to his son. Is that a good idea?",
+            "link": "https://www.marketwatch.com/story/a-dear-friend-91-wants-to-add-me-to-the-deed-of-his-house-his-daughter-died-and-hes-not-close-to-his-son-is-that-a-good-idea-a7ac52f6?mod=mw_rss_topstories",
+            "summary": "“What is the best way to add my name, so there are no issues upon his death?” he asks. “What are the best ways to add his name so there’s no issues after his death?\"",
+            "date": "Sun, 02 Mar 2025 11:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WBX",
-            "impact": "Neutral"
+            "stock_ticker": "A",
+            "impact": "Bullish"
         },
         {
             "title": "‘I’m an endless honey pot’: My wife and I are in our 70s. We gave our son $40,000 for his L.A. wedding. Now he wants more.",
             "link": "https://www.marketwatch.com/story/im-an-endless-honey-pot-my-wife-and-i-are-in-our-70s-we-gave-our-son-40-000-for-his-l-a-wedding-now-he-wants-more-fc154a96?mod=mw_rss_topstories",
             "summary": "“We financed three of them through college, so none of our kids have student loans,” his wife says. “We have four sons. We financed three and we’re going to finance four more.”",
-            "date": "Sat, 01 Mar 2025 12:24:00 GMT",
+            "date": "Sun, 02 Mar 2025 10:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump’s trade war has rattled investors — uncertainty is a call to action",
-            "link": "https://www.marketwatch.com/story/uncertainty-surrounding-trumps-trade-war-is-actually-a-good-thing-yes-really-humor-me-1feb81bd?mod=mw_rss_topstories",
-            "summary": "Lack of clarity on what’s ahead should, if we’re smart, enhance our financial-planning skills.",
-            "date": "Sat, 01 Mar 2025 12:18:00 GMT",
+            "title": "My dying cousin ‘fell in love’ with his hospice nurse after 4 months. She inherited his entire estate. What can I do?",
+            "link": "https://www.marketwatch.com/story/my-dying-cousin-fell-in-love-with-his-hospice-nurse-after-4-months-she-inherited-his-entire-estate-what-can-i-do-08cbeb6f?mod=mw_rss_topstories",
+            "summary": "“‘He wasn’t married and didn't ever have children,’’ said a friend. “’He wasn't married and Didn’ts Have Children’s’ was his response.",
+            "date": "Sun, 02 Mar 2025 00:41:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TRUMPSHIBA-USD",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. stocks had a rocky February under Trump’s return. Should investors be worried about March?",
-            "link": "https://www.marketwatch.com/story/u-s-stocks-had-a-rocky-february-under-trumps-return-should-investors-be-worried-about-march-c6e4f450?mod=mw_rss_topstories",
-            "summary": "The U.S. stock market has been in a rollercoaster ride this year. The market has taken a number of twists and turns over the past few months.",
-            "date": "Sat, 01 Mar 2025 12:00:00 GMT",
+            "title": "‘I’ve nothing left for retirement’: My husband and I have 9 kids and $70,000 in student debt. How do we pay it off?",
+            "link": "https://www.marketwatch.com/story/i-have-nothing-left-for-retirement-my-husband-and-i-have-9-kids-and-70k-in-student-debt-how-do-we-pay-it-off-e5eba374?mod=mw_rss_topstories",
+            "summary": "“We own our home and have about $30,000 in equity,” she says. “We’re very happy. We’ve never been happier.”",
+            "date": "Sun, 02 Mar 2025 00:34:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "IVE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘Why am I so afraid to retire?’ I’m 60 and lost $1.2 million in a divorce. Can I rebuild my life?",
+            "link": "https://www.marketwatch.com/story/why-am-i-so-afraid-to-retire-im-60-and-lost-1-2-million-in-a-divorce-can-i-rebuild-my-life-77fdf6b7?mod=mw_rss_topstories",
+            "summary": "“If the rule of 4% is applied, I could use savings and the proceeds from my house sale to buy a condo, and at 62 draw $110,000 per year,” he says.",
+            "date": "Sun, 02 Mar 2025 00:34:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHYCX",
             "impact": "Neutral"
         }
     ]
