@@ -1,124 +1,124 @@
 {
-    "date": "2025-03-02",
+    "date": "2025-03-03",
     "news": [
         {
-            "title": "Trump objected to Zelenskyy's tone and body language in Oval Office clash, White House says",
-            "link": "https://www.cnbc.com/2025/03/01/trump-zelenskyy-white-house-tone-elon-musk.html",
-            "summary": "Zelenskyy challenged the idea that Ukraine can rely on diplomatic guarantees by Russia. He said Putin launched the war in 2022, and Ukraine can't rely on him to stop it.",
-            "date": "Sat, 01 Mar 2025 21:24:23 GMT",
+            "title": "Bitcoin jumps nearly $14,000 in three days on Trump's crypto reserve announcement",
+            "link": "https://www.cnbc.com/2025/03/03/crypto-market-today.html",
+            "summary": "President Donald Trump teased new details about the highly anticipated strategic bitcoin reserve. Cryptocurrencies rallied over the weekend after President Donald Trump tease new details.",
+            "date": "Mon, 03 Mar 2025 12:35:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "BTC-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Microsoft resolves global outage that left tens of thousands unable to access email and other apps",
-            "link": "https://www.cnbc.com/2025/03/01/reported-global-microsoft-outage-leaves-tens-of-thousands-unable-to-access-email-and-other-apps.html",
-            "summary": "The outage left tens of thousands of users unable to access their Outlook email accounts and other programs. Microsoft said service was restored following the outage.",
-            "date": "Sun, 02 Mar 2025 01:35:01 GMT",
+            "title": "Amazon to bring palm-scanning tech to NYU Langone Health facilities",
+            "link": "https://www.cnbc.com/2025/03/03/amazon-to-bring-palm-scanning-tech-amazon-one-to-nyu-langone-health.html",
+            "summary": "NYU Langone Health patients will be able to check in for appointments using Amazon's palm-scanning technology. Amazon will be available at NYU Langone in New York, New Jersey and Staten Island.",
+            "date": "Mon, 03 Mar 2025 13:16:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MSFT",
+            "stock_ticker": "AMZN",
             "impact": "Neutral"
         },
         {
-            "title": "Another 'near miss': Citigroup mistakenly credited a customer account with $81 trillion",
-            "link": "https://www.cnbc.com/2025/03/01/citigroup-mistakenly-credited-a-customer-account-with-81-trillion.html",
-            "summary": "Citigroup mistakenly credit a customer's account with $81 trillion last year when it meant to send just $280. Citigroup: We mistakenly credited a customer’s account with £81 trillion when it was actually £280.",
-            "date": "Sat, 01 Mar 2025 20:39:49 GMT",
+            "title": "Domino's Pizza finally launches stuffed crust to keep customers away from rivals",
+            "link": "https://www.cnbc.com/2025/03/03/dominos-pizza-launches-stuffed-crust-to-rival-papa-johns-pizza-hut.html",
+            "summary": "Thirty years after Pizza Hut introduced stuffed crust, Domino's is introducing its own take. The pizza chain is introducing stuffed crust to its menu.",
+            "date": "Mon, 03 Mar 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AWM-USD",
+            "stock_ticker": "DPZ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "EU leaders prepare 'concrete' measures on defense financing, sources say",
+            "link": "https://www.cnbc.com/2025/03/03/eu-leaders-prepare-concrete-measures-on-defense-financing-sources-say.html",
+            "summary": "The EU is expected to announce \"concrete\" measures on boosting defense financing this week. Europe and the U.S. clash over support for Ukraine.",
+            "date": "Mon, 03 Mar 2025 11:46:45 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EU",
             "impact": "Bullish"
         },
         {
-            "title": "Top Wall Street analysts are upbeat on the long-term potential of these stocks",
-            "link": "https://www.cnbc.com/2025/03/02/top-wall-street-analysts-are-upbeat-on-the-long-term-potential-of-these-stocks.html",
-            "summary": "TipRanks' analyst ranking service spotlights three stocks favored by Wall Street. Booking Holdings and Visa are two of the stocks highlighted.",
-            "date": "Sun, 02 Mar 2025 12:03:01 GMT",
+            "title": "Warren Buffett calls Trump's tariffs a tax on goods, says 'the Tooth Fairy doesn't pay 'em'",
+            "link": "https://www.cnbc.com/2025/03/02/warren-buffett-calls-trumps-tariffs-a-tax-on-goods-says-the-tooth-fairy-doesnt-pay-em.html",
+            "summary": "\"Tariffs are actually, we've had a lot of experience with them. They're an act of war, to some degree,\" Buffett said.",
+            "date": "Sun, 02 Mar 2025 17:28:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "PWR.XA",
             "impact": "Neutral"
         },
         {
-            "title": "Social Security has never missed a payment. DOGE actions threaten 'interruption of benefits,' ex-agency head says",
-            "link": "https://www.cnbc.com/2025/03/01/doge-actions-may-cause-social-security-benefit-interruption-ex-agency-head.html",
-            "summary": "New changes at the U.S. Social Security Administration may put its ability to deliver monthly benefit checks at risk, former agency head says.",
-            "date": "Sat, 01 Mar 2025 14:27:34 GMT",
+            "title": "What’s worth streaming in March 2025: ‘Daredevil,’ John Mulaney, March Madness and more",
+            "link": "https://www.marketwatch.com/story/whats-worth-streaming-in-march-2025-oscars-john-mulaney-march-madness-and-more-8c1b5e11?mod=mw_rss_topstories",
+            "summary": "‘The Righteous Gemstones’ returns to Max, Disney revives ‘Daredevil’ and Apple reloads its lineup.",
+            "date": "Mon, 03 Mar 2025 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "A dear friend, 91, wants to add me to the deed of his house. His daughter died and he’s not close to his son. Is that a good idea?",
-            "link": "https://www.marketwatch.com/story/a-dear-friend-91-wants-to-add-me-to-the-deed-of-his-house-his-daughter-died-and-hes-not-close-to-his-son-is-that-a-good-idea-a7ac52f6?mod=mw_rss_topstories",
-            "summary": "“What is the best way to add my name, so there are no issues upon his death?” he asks. “What are the best ways to add his name so there’s no issues after his death?\"",
-            "date": "Sun, 02 Mar 2025 11:59:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
+            "stock_ticker": "BD0.F",
             "impact": "Bullish"
         },
         {
-            "title": "‘I’m an endless honey pot’: My wife and I are in our 70s. We gave our son $40,000 for his L.A. wedding. Now he wants more.",
-            "link": "https://www.marketwatch.com/story/im-an-endless-honey-pot-my-wife-and-i-are-in-our-70s-we-gave-our-son-40-000-for-his-l-a-wedding-now-he-wants-more-fc154a96?mod=mw_rss_topstories",
-            "summary": "“We financed three of them through college, so none of our kids have student loans,” his wife says. “We have four sons. We financed three and we’re going to finance four more.”",
-            "date": "Sun, 02 Mar 2025 10:00:00 GMT",
+            "title": "Stock investors had better hope these Americans keep propping up the economy",
+            "link": "https://www.marketwatch.com/story/stock-investors-had-better-hope-these-americans-keep-propping-up-the-economy-e1ef2586?mod=mw_rss_topstories",
+            "summary": "The wealthy are spending, but many consumers are pulling back — and the stock market is fragile. The wealthy are Spending, but Many Consumers are Pulling Back. The Stock Market is Fragile.",
+            "date": "Mon, 03 Mar 2025 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My dying cousin ‘fell in love’ with his hospice nurse after 4 months. She inherited his entire estate. What can I do?",
-            "link": "https://www.marketwatch.com/story/my-dying-cousin-fell-in-love-with-his-hospice-nurse-after-4-months-she-inherited-his-entire-estate-what-can-i-do-08cbeb6f?mod=mw_rss_topstories",
-            "summary": "“‘He wasn’t married and didn't ever have children,’’ said a friend. “’He wasn't married and Didn’ts Have Children’s’ was his response.",
-            "date": "Sun, 02 Mar 2025 00:41:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’ve nothing left for retirement’: My husband and I have 9 kids and $70,000 in student debt. How do we pay it off?",
-            "link": "https://www.marketwatch.com/story/i-have-nothing-left-for-retirement-my-husband-and-i-have-9-kids-and-70k-in-student-debt-how-do-we-pay-it-off-e5eba374?mod=mw_rss_topstories",
-            "summary": "“We own our home and have about $30,000 in equity,” she says. “We’re very happy. We’ve never been happier.”",
-            "date": "Sun, 02 Mar 2025 00:34:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IVE",
+            "stock_ticker": "VTI",
             "impact": "Neutral"
         },
         {
             "title": "‘Why am I so afraid to retire?’ I’m 60 and lost $1.2 million in a divorce. Can I rebuild my life?",
             "link": "https://www.marketwatch.com/story/why-am-i-so-afraid-to-retire-im-60-and-lost-1-2-million-in-a-divorce-can-i-rebuild-my-life-77fdf6b7?mod=mw_rss_topstories",
             "summary": "“If the rule of 4% is applied, I could use savings and the proceeds from my house sale to buy a condo, and at 62 draw $110,000 per year,” he says.",
-            "date": "Sun, 02 Mar 2025 00:34:00 GMT",
+            "date": "Mon, 03 Mar 2025 13:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "WHYCX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "What Nvidia’s market valuation says about where the stock will be in 5 years",
+            "link": "https://www.marketwatch.com/story/what-nvidias-market-valuation-says-about-where-the-stock-will-be-in-5-years-5645b904?mod=mw_rss_topstories",
+            "summary": "A good company whose stock is overvalued can still be a great disappointment. A good company with a great stock is still likely to be overvalued.",
+            "date": "Mon, 03 Mar 2025 13:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WAT-P.V",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The economy’s at risk of plunging into an air pocket, says JPMorgan. What that would mean for stocks now and in the future.",
+            "link": "https://www.marketwatch.com/story/the-economys-at-risk-of-plunging-into-an-air-pocket-says-jpmorgan-what-that-would-mean-for-stocks-now-and-in-the-future-e99b039a?mod=mw_rss_topstories",
+            "summary": "JPMorgan: Investors are brushing aside the possibilities of more turbulence to come for the U.S. economy and potential fallout for markets.",
+            "date": "Mon, 03 Mar 2025 13:01:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DIS",
             "impact": "Neutral"
         }
     ]
