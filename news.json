@@ -1,11 +1,47 @@
 {
-    "date": "2025-03-03",
+    "date": "2025-03-04",
     "news": [
         {
-            "title": "Bitcoin jumps nearly $14,000 in three days on Trump's crypto reserve announcement",
-            "link": "https://www.cnbc.com/2025/03/03/crypto-market-today.html",
-            "summary": "President Donald Trump teased new details about the highly anticipated strategic bitcoin reserve. Cryptocurrencies rallied over the weekend after President Donald Trump tease new details.",
-            "date": "Mon, 03 Mar 2025 12:35:15 GMT",
+            "title": "Best Buy beats on earnings and revenue, as computing and phone sales grow",
+            "link": "https://www.cnbc.com/2025/03/04/best-buy-bby-q4-2025-earnings.html",
+            "summary": "Best Buy beat Wall Street's fourth-quarter earnings and revenue estimates. The company's computing and phone sales increased. Best Buy also reported better-than-expected holiday sales.",
+            "date": "Tue, 04 Mar 2025 13:10:05 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BEST",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump's Mexico tariffs could raise produce prices in the next few days, Target CEO says",
+            "link": "https://www.cnbc.com/2025/03/04/trump-mexico-tariffs-will-raise-produce-prices-target-ceo-cornell-says.html",
+            "summary": "President Donald Trump's tariffs on Mexico could raise prices on strawberries, avocados and bananas. Target CEO Brian Cornell said the tariffs could be in place as early as next week.",
+            "date": "Tue, 04 Mar 2025 12:48:44 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BAGS31840-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Pro-Trump techies enraged by president's crypto reserve announcement, causing early rift",
+            "link": "https://www.cnbc.com/2025/03/04/pro-trump-techies-enraged-by-crypto-reserve-plan-causing-early-rift.html",
+            "summary": "Some of President Trump's most vocal supporters in tech took to social media to slam his latest proposal for a crypto strategic reserve. The White House has yet to comment on the proposal.",
+            "date": "Tue, 04 Mar 2025 11:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BY",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Bitcoin erases all of its gain that followed Trump's crypto reserve announcement",
+            "link": "https://www.cnbc.com/2025/03/04/crypto-market-today.html",
+            "summary": "Bitcoin fails to recover the $85,000 level, where it traded before President Donald Trump's announcement of a U.S. crypto reserve sent it soaring.",
+            "date": "Tue, 04 Mar 2025 13:15:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,70 +50,34 @@
             "impact": "Neutral"
         },
         {
-            "title": "Amazon to bring palm-scanning tech to NYU Langone Health facilities",
-            "link": "https://www.cnbc.com/2025/03/03/amazon-to-bring-palm-scanning-tech-amazon-one-to-nyu-langone-health.html",
-            "summary": "NYU Langone Health patients will be able to check in for appointments using Amazon's palm-scanning technology. Amazon will be available at NYU Langone in New York, New Jersey and Staten Island.",
-            "date": "Mon, 03 Mar 2025 13:16:54 GMT",
+            "title": "Tesla's worst month since 2022 coincided with Elon Musk's first full month in White House",
+            "link": "https://www.cnbc.com/2025/03/04/elon-musk-first-month-in-white-house-was-tesla-worst-month-since-2022.html",
+            "summary": "Tesla shares plunged 28% in February, their worst month since December 2022. Tesla shares fell 28% last month, the worst month for the automaker since December.",
+            "date": "Tue, 04 Mar 2025 13:05:40 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMZN",
+            "stock_ticker": "AARETXX",
             "impact": "Neutral"
         },
         {
-            "title": "Domino's Pizza finally launches stuffed crust to keep customers away from rivals",
-            "link": "https://www.cnbc.com/2025/03/03/dominos-pizza-launches-stuffed-crust-to-rival-papa-johns-pizza-hut.html",
-            "summary": "Thirty years after Pizza Hut introduced stuffed crust, Domino's is introducing its own take. The pizza chain is introducing stuffed crust to its menu.",
-            "date": "Mon, 03 Mar 2025 12:00:01 GMT",
+            "title": "I’m 69 and only have $121,000 in my 401(k). How can I repair the damage of the past?",
+            "link": "https://www.marketwatch.com/story/im-69-and-worked-for-the-same-company-for-45-years-i-only-have-121-000-in-my-401-k-how-can-i-repair-this-damage-830c36e9?mod=mw_rss_topstories",
+            "summary": "“I plan to work and contribute to a 401(k) in addition to a stock-purchasing plan for a few more years,” she says.",
+            "date": "Tue, 04 Mar 2025 13:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DPZ",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "EU leaders prepare 'concrete' measures on defense financing, sources say",
-            "link": "https://www.cnbc.com/2025/03/03/eu-leaders-prepare-concrete-measures-on-defense-financing-sources-say.html",
-            "summary": "The EU is expected to announce \"concrete\" measures on boosting defense financing this week. Europe and the U.S. clash over support for Ukraine.",
-            "date": "Mon, 03 Mar 2025 11:46:45 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EU",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Warren Buffett calls Trump's tariffs a tax on goods, says 'the Tooth Fairy doesn't pay 'em'",
-            "link": "https://www.cnbc.com/2025/03/02/warren-buffett-calls-trumps-tariffs-a-tax-on-goods-says-the-tooth-fairy-doesnt-pay-em.html",
-            "summary": "\"Tariffs are actually, we've had a lot of experience with them. They're an act of war, to some degree,\" Buffett said.",
-            "date": "Sun, 02 Mar 2025 17:28:28 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PWR.XA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "What’s worth streaming in March 2025: ‘Daredevil,’ John Mulaney, March Madness and more",
-            "link": "https://www.marketwatch.com/story/whats-worth-streaming-in-march-2025-oscars-john-mulaney-march-madness-and-more-8c1b5e11?mod=mw_rss_topstories",
-            "summary": "‘The Righteous Gemstones’ returns to Max, Disney revives ‘Daredevil’ and Apple reloads its lineup.",
-            "date": "Mon, 03 Mar 2025 13:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BD0.F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Stock investors had better hope these Americans keep propping up the economy",
-            "link": "https://www.marketwatch.com/story/stock-investors-had-better-hope-these-americans-keep-propping-up-the-economy-e1ef2586?mod=mw_rss_topstories",
-            "summary": "The wealthy are spending, but many consumers are pulling back — and the stock market is fragile. The wealthy are Spending, but Many Consumers are Pulling Back. The Stock Market is Fragile.",
-            "date": "Mon, 03 Mar 2025 13:15:00 GMT",
+            "title": "Nvidia’s stock is doing things not seen in nearly a decade — and that’s good news",
+            "link": "https://www.marketwatch.com/story/nvidias-stock-is-doing-things-not-seen-in-nearly-a-decade-and-thats-good-news-75a5182b?mod=mw_rss_topstories",
+            "summary": " Bernstein analyst looks at several valuation metrics that are near 10-year lows. The analyst deemed Nvidia’s stock “increasingly attractive”",
+            "date": "Tue, 04 Mar 2025 13:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘Why am I so afraid to retire?’ I’m 60 and lost $1.2 million in a divorce. Can I rebuild my life?",
-            "link": "https://www.marketwatch.com/story/why-am-i-so-afraid-to-retire-im-60-and-lost-1-2-million-in-a-divorce-can-i-rebuild-my-life-77fdf6b7?mod=mw_rss_topstories",
-            "summary": "“If the rule of 4% is applied, I could use savings and the proceeds from my house sale to buy a condo, and at 62 draw $110,000 per year,” he says.",
-            "date": "Mon, 03 Mar 2025 13:12:00 GMT",
+            "title": "Big Oil isn’t big on ‘drill, baby, drill’ — turning Trump to Canada and Greenland",
+            "link": "https://www.marketwatch.com/story/big-oil-isnt-big-on-drill-baby-drill-turning-trump-to-canada-and-greenland-e330376a?mod=mw_rss_topstories",
+            "summary": "U.S. oil companies see stock buybacks and dividend hikes as more attractive than boosting production. U.S.-based oil companies are looking for ways to boost production rather than boost profits.",
+            "date": "Tue, 04 Mar 2025 13:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYCX",
+            "stock_ticker": "BBAI",
             "impact": "Neutral"
         },
         {
-            "title": "What Nvidia’s market valuation says about where the stock will be in 5 years",
-            "link": "https://www.marketwatch.com/story/what-nvidias-market-valuation-says-about-where-the-stock-will-be-in-5-years-5645b904?mod=mw_rss_topstories",
-            "summary": "A good company whose stock is overvalued can still be a great disappointment. A good company with a great stock is still likely to be overvalued.",
-            "date": "Mon, 03 Mar 2025 13:05:00 GMT",
+            "title": "Oil prices extend drop sparked by OPEC+ plan to boost output",
+            "link": "https://www.marketwatch.com/story/oil-prices-extend-drop-sparked-by-opec-plan-to-boost-output-80929ada?mod=mw_rss_topstories",
+            "summary": "Oil futures fell Tuesday, building on losses seen the previous session. Organization of the Petroleum Exporting Countries and its allies said they would proceed with plans to unwind some production curbs in April.",
+            "date": "Tue, 04 Mar 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WAT-P.V",
+            "stock_ticker": "CL=F",
             "impact": "Neutral"
         },
         {
-            "title": "The economy’s at risk of plunging into an air pocket, says JPMorgan. What that would mean for stocks now and in the future.",
-            "link": "https://www.marketwatch.com/story/the-economys-at-risk-of-plunging-into-an-air-pocket-says-jpmorgan-what-that-would-mean-for-stocks-now-and-in-the-future-e99b039a?mod=mw_rss_topstories",
-            "summary": "JPMorgan: Investors are brushing aside the possibilities of more turbulence to come for the U.S. economy and potential fallout for markets.",
-            "date": "Mon, 03 Mar 2025 13:01:00 GMT",
+            "title": "The U.S. dollar is still the world’s currency — but maybe not for much longer",
+            "link": "https://www.marketwatch.com/story/the-u-s-dollar-is-still-the-worlds-currency-but-maybe-not-for-much-longer-d3c5774f?mod=mw_rss_topstories",
+            "summary": "Concerns are rising about the sustainability of U.S. government debt and spending. Concerns are also rising about how much money is being spent on defense.",
+            "date": "Tue, 04 Mar 2025 12:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DIS",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         }
     ]
