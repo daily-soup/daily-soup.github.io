@@ -1,124 +1,124 @@
 {
-    "date": "2025-03-04",
+    "date": "2025-03-05",
     "news": [
         {
-            "title": "Best Buy beats on earnings and revenue, as computing and phone sales grow",
-            "link": "https://www.cnbc.com/2025/03/04/best-buy-bby-q4-2025-earnings.html",
-            "summary": "Best Buy beat Wall Street's fourth-quarter earnings and revenue estimates. The company's computing and phone sales increased. Best Buy also reported better-than-expected holiday sales.",
-            "date": "Tue, 04 Mar 2025 13:10:05 GMT",
+            "title": "Private employers added just 77,000 jobs in February, far below expectations, ADP says",
+            "link": "https://www.cnbc.com/2025/03/05/adp-jobs-report-february-2025-.html",
+            "summary": "Private sector job creation slowed to a crawl in February, fueling concerns of an economic slowdown. Private sector jobs created at a slow pace in January and February, according to the government.",
+            "date": "Wed, 05 Mar 2025 13:15:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BEST",
+            "stock_ticker": "XOVR",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Kenvue settles proxy fight with activist Starboard, sources tell CNBC",
+            "link": "https://www.cnbc.com/2025/03/05/kenvue-settles-proxy-fight-with-activist-starboard-sources-tell-cnbc.html",
+            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
+            "date": "Wed, 05 Mar 2025 13:11:24 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KVUE",
             "impact": "Neutral"
         },
         {
-            "title": "Trump's Mexico tariffs could raise produce prices in the next few days, Target CEO says",
-            "link": "https://www.cnbc.com/2025/03/04/trump-mexico-tariffs-will-raise-produce-prices-target-ceo-cornell-says.html",
-            "summary": "President Donald Trump's tariffs on Mexico could raise prices on strawberries, avocados and bananas. Target CEO Brian Cornell said the tariffs could be in place as early as next week.",
-            "date": "Tue, 04 Mar 2025 12:48:44 GMT",
+            "title": "Abercrombie & Fitch shares fall after star retailer posts weak guidance for year ahead",
+            "link": "https://www.cnbc.com/2025/03/05/abercrombie-fitch-anf-q4-2024-earnings.html",
+            "summary": "Abercrombie & Fitch's business may be leveling out after two years of explosive growth. The company's CEO says the company will continue to focus on its core business.",
+            "date": "Wed, 05 Mar 2025 12:56:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BAGS31840-USD",
+            "stock_ticker": "ANF",
             "impact": "Neutral"
         },
         {
-            "title": "Pro-Trump techies enraged by president's crypto reserve announcement, causing early rift",
-            "link": "https://www.cnbc.com/2025/03/04/pro-trump-techies-enraged-by-crypto-reserve-plan-causing-early-rift.html",
-            "summary": "Some of President Trump's most vocal supporters in tech took to social media to slam his latest proposal for a crypto strategic reserve. The White House has yet to comment on the proposal.",
-            "date": "Tue, 04 Mar 2025 11:00:01 GMT",
+            "title": "Foot Locker results show the sneaker industry — and Nike — still have more pain ahead",
+            "link": "https://www.cnbc.com/2025/03/05/foot-locker-fl-q4-2024-earnings.html",
+            "summary": "Foot Locker is expecting profits to be under pressure in fiscal 2025, indicating steep discounts are still present across the industry, especially at Nike.",
+            "date": "Wed, 05 Mar 2025 13:15:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BY",
+            "stock_ticker": "FL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Weekly mortgage demand surges 20% higher, after interest rates drop to the lowest since last year",
+            "link": "https://www.cnbc.com/2025/03/05/weekly-mortgage-demand-surges-20percent-higher-after-interest-rates-drop.html",
+            "summary": "Mortgage demand rallied last week after interest rates dropped to the lowest level since December 2024. Mortgage demand rallied after interest rate dropped to lowest levels since December 24th 2024.",
+            "date": "Wed, 05 Mar 2025 13:18:15 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0000YYB1.BE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Abercrombie & Fitch forecasts cautious 3% to 5% sales growth in 2025",
+            "link": "https://www.marketwatch.com/story/abercrombie-fitch-forecasts-cautious-3-to-5-sales-growth-in-2025-3adf8859?mod=mw_rss_topstories",
+            "summary": "Abercrombie & Fitch also approved a $1.3 billion share repurchase program. The program includes $400 million in 2025.",
+            "date": "Wed, 05 Mar 2025 13:14:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ANF",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Foot Locker’s sales recovery continues, but consumer pressures hurt outlook",
+            "link": "https://www.marketwatch.com/story/foot-lockers-stock-gains-as-a-profit-beat-is-enough-to-offset-a-downbeat-outlook-da2a1902?mod=mw_rss_topstories",
+            "summary": "Foot Locker’s stock was tripped up by downbeat full-year outlook, which offset continued sales improvements. Foot Locker shares were down 2.5% to 2.7% on Monday.",
+            "date": "Wed, 05 Mar 2025 13:04:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FL",
             "impact": "Bullish"
         },
         {
-            "title": "Bitcoin erases all of its gain that followed Trump's crypto reserve announcement",
-            "link": "https://www.cnbc.com/2025/03/04/crypto-market-today.html",
-            "summary": "Bitcoin fails to recover the $85,000 level, where it traded before President Donald Trump's announcement of a U.S. crypto reserve sent it soaring.",
-            "date": "Tue, 04 Mar 2025 13:15:44 GMT",
+            "title": "Wall Street’s biggest bear says the S&P 500 could drop to 4,200. Here’s his advice for right now.",
+            "link": "https://www.marketwatch.com/story/wall-streets-biggest-bear-says-the-s-p-500-could-drop-to-4-200-heres-his-advice-for-right-now-96161ab9?mod=mw_rss_topstories",
+            "summary": "BCA Research’s Peter Berezin sees a U.S. recession on the horizon. Berezin: This is a reason to stay out of stocks.",
+            "date": "Wed, 05 Mar 2025 12:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BTC-USD",
+            "stock_ticker": "WBX",
             "impact": "Neutral"
         },
         {
-            "title": "Tesla's worst month since 2022 coincided with Elon Musk's first full month in White House",
-            "link": "https://www.cnbc.com/2025/03/04/elon-musk-first-month-in-white-house-was-tesla-worst-month-since-2022.html",
-            "summary": "Tesla shares plunged 28% in February, their worst month since December 2022. Tesla shares fell 28% last month, the worst month for the automaker since December.",
-            "date": "Tue, 04 Mar 2025 13:05:40 GMT",
+            "title": "Germany still will be more austere than U.S. even if spending splurge approved",
+            "link": "https://www.marketwatch.com/story/germany-still-will-be-more-austere-than-u-s-even-if-spending-splurge-approved-fa3eeb59?mod=mw_rss_topstories",
+            "summary": "Germany has the lowest debt-to-gross domestic product of the Group of Seven nations, which includes the U.S. The incredible thing about Germany’s finances is that planned extra spending of about $1 trillion still would put them as having the lowest Debt-To-Gross Domestic Product.",
+            "date": "Wed, 05 Mar 2025 12:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AARETXX",
-            "impact": "Neutral"
+            "stock_ticker": "EWG",
+            "impact": "Bullish"
         },
         {
-            "title": "I’m 69 and only have $121,000 in my 401(k). How can I repair the damage of the past?",
-            "link": "https://www.marketwatch.com/story/im-69-and-worked-for-the-same-company-for-45-years-i-only-have-121-000-in-my-401-k-how-can-i-repair-this-damage-830c36e9?mod=mw_rss_topstories",
-            "summary": "“I plan to work and contribute to a 401(k) in addition to a stock-purchasing plan for a few more years,” she says.",
-            "date": "Tue, 04 Mar 2025 13:16:00 GMT",
+            "title": "Trump’s trade war will hit hardest at home. Here’s the biggest casualty.",
+            "link": "https://www.marketwatch.com/story/trumps-trade-war-will-hit-hardest-at-home-heres-the-biggest-casualty-395ad657?mod=mw_rss_topstories",
+            "summary": "U.S. trading partners will exclude an isolationist America and realize that U.S consumers can be replaced. U.N. Secretary-General Ban Ki-moon has called for an end to trade sanctions against the United States.",
+            "date": "Wed, 05 Mar 2025 12:25:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Nvidia’s stock is doing things not seen in nearly a decade — and that’s good news",
-            "link": "https://www.marketwatch.com/story/nvidias-stock-is-doing-things-not-seen-in-nearly-a-decade-and-thats-good-news-75a5182b?mod=mw_rss_topstories",
-            "summary": " Bernstein analyst looks at several valuation metrics that are near 10-year lows. The analyst deemed Nvidia’s stock “increasingly attractive”",
-            "date": "Tue, 04 Mar 2025 13:13:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Big Oil isn’t big on ‘drill, baby, drill’ — turning Trump to Canada and Greenland",
-            "link": "https://www.marketwatch.com/story/big-oil-isnt-big-on-drill-baby-drill-turning-trump-to-canada-and-greenland-e330376a?mod=mw_rss_topstories",
-            "summary": "U.S. oil companies see stock buybacks and dividend hikes as more attractive than boosting production. U.S.-based oil companies are looking for ways to boost production rather than boost profits.",
-            "date": "Tue, 04 Mar 2025 13:04:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BBAI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Oil prices extend drop sparked by OPEC+ plan to boost output",
-            "link": "https://www.marketwatch.com/story/oil-prices-extend-drop-sparked-by-opec-plan-to-boost-output-80929ada?mod=mw_rss_topstories",
-            "summary": "Oil futures fell Tuesday, building on losses seen the previous session. Organization of the Petroleum Exporting Countries and its allies said they would proceed with plans to unwind some production curbs in April.",
-            "date": "Tue, 04 Mar 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CL=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The U.S. dollar is still the world’s currency — but maybe not for much longer",
-            "link": "https://www.marketwatch.com/story/the-u-s-dollar-is-still-the-worlds-currency-but-maybe-not-for-much-longer-d3c5774f?mod=mw_rss_topstories",
-            "summary": "Concerns are rising about the sustainability of U.S. government debt and spending. Concerns are also rising about how much money is being spent on defense.",
-            "date": "Tue, 04 Mar 2025 12:50:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
+            "stock_ticker": "TRUMPSHIBA-USD",
             "impact": "Neutral"
         }
     ]
