@@ -1,124 +1,124 @@
 {
-    "date": "2025-03-05",
+    "date": "2025-03-06",
     "news": [
         {
-            "title": "Private employers added just 77,000 jobs in February, far below expectations, ADP says",
-            "link": "https://www.cnbc.com/2025/03/05/adp-jobs-report-february-2025-.html",
-            "summary": "Private sector job creation slowed to a crawl in February, fueling concerns of an economic slowdown. Private sector jobs created at a slow pace in January and February, according to the government.",
-            "date": "Wed, 05 Mar 2025 13:15:22 GMT",
+            "title": "Layoff announcements soar to the highest since 2020 as DOGE slashes federal staff",
+            "link": "https://www.cnbc.com/2025/03/06/layoff-announcements-soar-to-the-highest-since-2020-as-doge-slashes-federal-staff-.html",
+            "summary": "U.S. employers announced 172,017 layoffs for the month, up 245% from January. It was the highest monthly count since July 2020.",
+            "date": "Thu, 06 Mar 2025 13:09:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XOVR",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Kenvue settles proxy fight with activist Starboard, sources tell CNBC",
-            "link": "https://www.cnbc.com/2025/03/05/kenvue-settles-proxy-fight-with-activist-starboard-sources-tell-cnbc.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Wed, 05 Mar 2025 13:11:24 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KVUE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Abercrombie & Fitch shares fall after star retailer posts weak guidance for year ahead",
-            "link": "https://www.cnbc.com/2025/03/05/abercrombie-fitch-anf-q4-2024-earnings.html",
-            "summary": "Abercrombie & Fitch's business may be leveling out after two years of explosive growth. The company's CEO says the company will continue to focus on its core business.",
-            "date": "Wed, 05 Mar 2025 12:56:18 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ANF",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Foot Locker results show the sneaker industry — and Nike — still have more pain ahead",
-            "link": "https://www.cnbc.com/2025/03/05/foot-locker-fl-q4-2024-earnings.html",
-            "summary": "Foot Locker is expecting profits to be under pressure in fiscal 2025, indicating steep discounts are still present across the industry, especially at Nike.",
-            "date": "Wed, 05 Mar 2025 13:15:44 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Weekly mortgage demand surges 20% higher, after interest rates drop to the lowest since last year",
-            "link": "https://www.cnbc.com/2025/03/05/weekly-mortgage-demand-surges-20percent-higher-after-interest-rates-drop.html",
-            "summary": "Mortgage demand rallied last week after interest rates dropped to the lowest level since December 2024. Mortgage demand rallied after interest rate dropped to lowest levels since December 24th 2024.",
-            "date": "Wed, 05 Mar 2025 13:18:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0000YYB1.BE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Abercrombie & Fitch forecasts cautious 3% to 5% sales growth in 2025",
-            "link": "https://www.marketwatch.com/story/abercrombie-fitch-forecasts-cautious-3-to-5-sales-growth-in-2025-3adf8859?mod=mw_rss_topstories",
-            "summary": "Abercrombie & Fitch also approved a $1.3 billion share repurchase program. The program includes $400 million in 2025.",
-            "date": "Wed, 05 Mar 2025 13:14:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ANF",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Foot Locker’s sales recovery continues, but consumer pressures hurt outlook",
-            "link": "https://www.marketwatch.com/story/foot-lockers-stock-gains-as-a-profit-beat-is-enough-to-offset-a-downbeat-outlook-da2a1902?mod=mw_rss_topstories",
-            "summary": "Foot Locker’s stock was tripped up by downbeat full-year outlook, which offset continued sales improvements. Foot Locker shares were down 2.5% to 2.7% on Monday.",
-            "date": "Wed, 05 Mar 2025 13:04:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FL",
+            "stock_ticker": "SOAR",
             "impact": "Bullish"
         },
         {
-            "title": "Wall Street’s biggest bear says the S&P 500 could drop to 4,200. Here’s his advice for right now.",
-            "link": "https://www.marketwatch.com/story/wall-streets-biggest-bear-says-the-s-p-500-could-drop-to-4-200-heres-his-advice-for-right-now-96161ab9?mod=mw_rss_topstories",
-            "summary": "BCA Research’s Peter Berezin sees a U.S. recession on the horizon. Berezin: This is a reason to stay out of stocks.",
-            "date": "Wed, 05 Mar 2025 12:50:00 GMT",
+            "title": "Global bonds sell off as investors react to Trump's tariffs and a German 'paradigm shift'",
+            "link": "https://www.cnbc.com/2025/03/06/bond-yields-rise-globally-german-bunds-continue-selloff.html",
+            "summary": "Government bonds were selling off all over the world on Thursday. German borrowing costs are hovering at multi-decade highs. German government bonds are selling off across the world. German yields are at their highest level in more than 20 years.",
+            "date": "Thu, 06 Mar 2025 12:43:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WBX",
+            "stock_ticker": "NGO=F",
             "impact": "Neutral"
         },
         {
-            "title": "Germany still will be more austere than U.S. even if spending splurge approved",
-            "link": "https://www.marketwatch.com/story/germany-still-will-be-more-austere-than-u-s-even-if-spending-splurge-approved-fa3eeb59?mod=mw_rss_topstories",
-            "summary": "Germany has the lowest debt-to-gross domestic product of the Group of Seven nations, which includes the U.S. The incredible thing about Germany’s finances is that planned extra spending of about $1 trillion still would put them as having the lowest Debt-To-Gross Domestic Product.",
-            "date": "Wed, 05 Mar 2025 12:50:00 GMT",
+            "title": "Macy's turnaround starts to take shape, but ailing stores weigh on quarterly results",
+            "link": "https://www.cnbc.com/2025/03/06/macys-m-q4-2024-earnings.html",
+            "summary": "Macy's is in the midst of an aggressive strategy to close underperforming stores and invest in better performing locations as it looks to reverse sales slump.",
+            "date": "Thu, 06 Mar 2025 12:54:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EWG",
-            "impact": "Bullish"
+            "stock_ticker": "M",
+            "impact": "Neutral"
         },
         {
-            "title": "Trump’s trade war will hit hardest at home. Here’s the biggest casualty.",
-            "link": "https://www.marketwatch.com/story/trumps-trade-war-will-hit-hardest-at-home-heres-the-biggest-casualty-395ad657?mod=mw_rss_topstories",
-            "summary": "U.S. trading partners will exclude an isolationist America and realize that U.S consumers can be replaced. U.N. Secretary-General Ban Ki-moon has called for an end to trade sanctions against the United States.",
-            "date": "Wed, 05 Mar 2025 12:25:00 GMT",
+            "title": "European Central Bank cuts rates by another quarter point amid Trump tariff threats",
+            "link": "https://www.cnbc.com/2025/03/06/european-central-bank-interest-rate-decision-march-2025.html",
+            "summary": " Markets had been widely pricing in a 25-basis-point interest rate reduction from the ECB. The ECB is expected to announce a reduction in its main interest rate on Thursday.",
+            "date": "Thu, 06 Mar 2025 13:15:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TRUMPSHIBA-USD",
+            "stock_ticker": "7F=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "'Obstacles' in Egypt's $53 billion plan to rebuild Gaza, install Palestinian Authority control",
+            "link": "https://www.cnbc.com/2025/03/06/obstacles-in-egypts-53-billion-plan-to-rebuild-gaza-install-palestinian-authority-control.html",
+            "summary": "The plan has come under fire for omitting key answers on issues like governance, the future of Hamas, and funding. The plan has been criticized for omits key answers.",
+            "date": "Thu, 06 Mar 2025 07:20:05 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBIO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "ECB cuts rates. Lagarde in spotlight after German bonds tumble on spending plan.",
+            "link": "https://www.marketwatch.com/story/german-bonds-getting-hit-again-as-ecb-set-to-cut-rates-what-will-lagarde-say-35aef595?mod=mw_rss_topstories",
+            "summary": "The European Central Bank on Thursday cut interest rates by a quarter-point. It was responding to signs of deteriorating activity and weakening inflation. The move came despite bond-market turmoil over plans for a splurge of spending.",
+            "date": "Thu, 06 Mar 2025 13:16:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ECBTC.AS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "You’re eligible for Medicare but work full-time. Here are 3 tips on how and when to enroll.",
+            "link": "https://www.marketwatch.com/story/youre-eligible-for-medicare-but-work-full-time-here-are-3-tips-on-how-and-when-to-enroll-668c3de2?mod=mw_rss_topstories",
+            "summary": "Ditch your employer’s health coverage? That may be the best option — but there are trade-offs. Here are some of the best and worst options.",
+            "date": "Thu, 06 Mar 2025 13:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FOR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Macy’s stock falls as it cuts guidance in the face of ‘external uncertainties’",
+            "link": "https://www.marketwatch.com/story/macys-stock-falls-to-16-month-low-as-it-faces-external-uncertainties-and-cuts-guidance-485446ba?mod=mw_rss_topstories",
+            "summary": "The retailer said it’s taking a ‘prudent’ approach to its outlook as it warns of a profit shortfall.",
+            "date": "Thu, 06 Mar 2025 13:04:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "M",
+            "impact": "Neutral"
+        },
+        {
+            "title": "BJ’s Wholesale bucks the trend by providing an in-line outlook. The stock is gaining.",
+            "link": "https://www.marketwatch.com/story/bjs-wholesale-bucks-the-trend-by-providing-an-in-line-outlook-the-stock-gains-8d777455?mod=mw_rss_topstories",
+            "summary": "Membership-based discount retailer and Costco rival sees biggest growth for comparable-club sales in nearly 2 years. Membership-based. discount retailer, Costco rival see biggest growth in comparable- club sales in almost 2 years, according to new figures.",
+            "date": "Thu, 06 Mar 2025 12:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BJ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘Don’t get your operation on a Thursday,’ this hospital expert warned. Here’s his plan to save costs and lives.",
+            "link": "https://www.marketwatch.com/story/dont-get-your-operation-on-a-thursday-this-hospital-expert-warned-heres-his-plan-to-save-costs-and-lives-3d6ed513?mod=mw_rss_topstories",
+            "summary": "Eugene Litvak has a proven way to improve U.S. hospitals, he says. If only they’d let him.",
+            "date": "Thu, 06 Mar 2025 12:45:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BITCOIN30815-USD",
             "impact": "Neutral"
         }
     ]
