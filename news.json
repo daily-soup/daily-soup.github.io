@@ -1,124 +1,124 @@
 {
-    "date": "2025-03-06",
+    "date": "2025-03-07",
     "news": [
         {
-            "title": "Layoff announcements soar to the highest since 2020 as DOGE slashes federal staff",
-            "link": "https://www.cnbc.com/2025/03/06/layoff-announcements-soar-to-the-highest-since-2020-as-doge-slashes-federal-staff-.html",
-            "summary": "U.S. employers announced 172,017 layoffs for the month, up 245% from January. It was the highest monthly count since July 2020.",
-            "date": "Thu, 06 Mar 2025 13:09:21 GMT",
+            "title": "The pivotal February jobs report is out Friday. Here's what to expect",
+            "link": "https://www.cnbc.com/2025/03/06/the-pivotal-february-jobs-report-is-out-friday-heres-what-to-expect.html",
+            "summary": "The BLS releases its February nonfarm payrolls report Friday. Markets will get another snapshot into the health of the labor market when the report is released.",
+            "date": "Thu, 06 Mar 2025 20:24:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SOAR",
+            "stock_ticker": "CAPS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Treasury Secretary Bessent says economy could be 'starting to roll a little bit'",
+            "link": "https://www.cnbc.com/2025/03/07/treasury-secretary-bessent-says-economy-could-be-starting-to-roll-a-little-bit.html",
+            "summary": "Treasury Secretary Steven Mnuchin spoke about the U.S. economy and tariffs on \"Squawk Box\" Mnuchin also discussed the impact of tariffs on the economy.",
+            "date": "Fri, 07 Mar 2025 13:13:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TN=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Chipmakers are finding that good earnings aren't enough to please Wall Street",
+            "link": "https://www.cnbc.com/2025/03/07/chipmakers-fall-post-earnings-despite-topping-estimates.html",
+            "summary": "Investors poured into semiconductor stocks last year, expectations are high, and companies are having trouble making Wall Street happy. Semiconductor companies are struggling to keep up with expectations.",
+            "date": "Fri, 07 Mar 2025 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ARE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Treasury Secretary Bessent says there's no Trump 'put,' but their policies should boost market",
+            "link": "https://www.cnbc.com/2025/03/07/treasury-secretary-bessent-says-theres-no-trump-put-but-their-policies-should-boost-market.html",
+            "summary": "Investors looking for Trump to use policy to stop the stock market from falling are likely to be disappointed, Bessent says. Bessen: \"I don't think we're going to see a major policy shift in the near future\"",
+            "date": "Fri, 07 Mar 2025 13:03:14 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TN=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Walgreens to go private in roughly $10 billion deal with Sycamore Partners",
+            "link": "https://www.cnbc.com/2025/03/06/walgreens-to-go-private-in-10-billion-deal-with-sycamore-partners.html",
+            "summary": "The deal ends Walgreens' tumultuous run as a public company, which began in 1927. The historic transaction also ends the company's 100-year history as a publicly traded company.",
+            "date": "Thu, 06 Mar 2025 22:56:15 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WBA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "JPMorgan is increasingly worried a second-half stock market rally won’t happen",
+            "link": "https://www.marketwatch.com/story/jpmorgan-says-the-stock-market-may-need-more-time-to-get-to-its-year-end-target-2031453b?mod=mw_rss_topstories",
+            "summary": "The bulls are getting nervous. The bulls are get nervous. It's time for the bulls to take a break from the bulls. It is time for a rest from the bull.",
+            "date": "Fri, 07 Mar 2025 13:16:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "JPM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "State Street’s private-debt ETF launched with major buzz. What are investors getting?",
+            "link": "https://www.marketwatch.com/story/state-streets-private-debt-etf-launched-with-big-buzz-what-does-it-hold-a8528413?mod=mw_rss_topstories",
+            "summary": "A recently launched ETF actively managed by State Street Global Advisors has been drawing attention for bringing private credit to the masses. The fund is called the State Street Credit Opportunities Fund.",
+            "date": "Fri, 07 Mar 2025 13:06:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nasdaq announces plans to launch 24-hour trading Monday through Friday",
+            "link": "https://www.marketwatch.com/story/nasdaq-announces-plans-to-launch-24-hour-trading-monday-through-friday-219fbd6a?mod=mw_rss_topstories",
+            "summary": "Nasdaq Inc. announced the most ambitious plan yet by a major U.S. exchange operator to allow stocks to be traded around the clock.",
+            "date": "Fri, 07 Mar 2025 13:01:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NQ=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Oil prices bounce, but head for weekly losses on tariff fears",
+            "link": "https://www.marketwatch.com/story/oil-prices-bounce-but-head-for-weekly-losses-on-tariff-fears-ede58520?mod=mw_rss_topstories",
+            "summary": "Russia’s deputy prime minister reportedly said OPEC+ could reverse its decision to begin increasing production next month if the market appears unbalanced.",
+            "date": "Fri, 07 Mar 2025 12:54:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CL=F",
             "impact": "Bullish"
         },
         {
-            "title": "Global bonds sell off as investors react to Trump's tariffs and a German 'paradigm shift'",
-            "link": "https://www.cnbc.com/2025/03/06/bond-yields-rise-globally-german-bunds-continue-selloff.html",
-            "summary": "Government bonds were selling off all over the world on Thursday. German borrowing costs are hovering at multi-decade highs. German government bonds are selling off across the world. German yields are at their highest level in more than 20 years.",
-            "date": "Thu, 06 Mar 2025 12:43:55 GMT",
+            "title": "This solid market indicator says to buy stocks now and enjoy double-digit gains",
+            "link": "https://www.marketwatch.com/story/this-solid-market-indicator-says-to-buy-stocks-now-and-enjoy-double-digit-gains-c0031408?mod=mw_rss_topstories",
+            "summary": "The gold/platinum ratio has an impressive record. It’s turned bullish on U.S. equities. The ratio is currently at 1:1.",
+            "date": "Fri, 07 Mar 2025 12:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NGO=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Macy's turnaround starts to take shape, but ailing stores weigh on quarterly results",
-            "link": "https://www.cnbc.com/2025/03/06/macys-m-q4-2024-earnings.html",
-            "summary": "Macy's is in the midst of an aggressive strategy to close underperforming stores and invest in better performing locations as it looks to reverse sales slump.",
-            "date": "Thu, 06 Mar 2025 12:54:46 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "M",
-            "impact": "Neutral"
-        },
-        {
-            "title": "European Central Bank cuts rates by another quarter point amid Trump tariff threats",
-            "link": "https://www.cnbc.com/2025/03/06/european-central-bank-interest-rate-decision-march-2025.html",
-            "summary": " Markets had been widely pricing in a 25-basis-point interest rate reduction from the ECB. The ECB is expected to announce a reduction in its main interest rate on Thursday.",
-            "date": "Thu, 06 Mar 2025 13:15:57 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "7F=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "'Obstacles' in Egypt's $53 billion plan to rebuild Gaza, install Palestinian Authority control",
-            "link": "https://www.cnbc.com/2025/03/06/obstacles-in-egypts-53-billion-plan-to-rebuild-gaza-install-palestinian-authority-control.html",
-            "summary": "The plan has come under fire for omitting key answers on issues like governance, the future of Hamas, and funding. The plan has been criticized for omits key answers.",
-            "date": "Thu, 06 Mar 2025 07:20:05 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBIO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "ECB cuts rates. Lagarde in spotlight after German bonds tumble on spending plan.",
-            "link": "https://www.marketwatch.com/story/german-bonds-getting-hit-again-as-ecb-set-to-cut-rates-what-will-lagarde-say-35aef595?mod=mw_rss_topstories",
-            "summary": "The European Central Bank on Thursday cut interest rates by a quarter-point. It was responding to signs of deteriorating activity and weakening inflation. The move came despite bond-market turmoil over plans for a splurge of spending.",
-            "date": "Thu, 06 Mar 2025 13:16:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ECBTC.AS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "You’re eligible for Medicare but work full-time. Here are 3 tips on how and when to enroll.",
-            "link": "https://www.marketwatch.com/story/youre-eligible-for-medicare-but-work-full-time-here-are-3-tips-on-how-and-when-to-enroll-668c3de2?mod=mw_rss_topstories",
-            "summary": "Ditch your employer’s health coverage? That may be the best option — but there are trade-offs. Here are some of the best and worst options.",
-            "date": "Thu, 06 Mar 2025 13:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FOR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Macy’s stock falls as it cuts guidance in the face of ‘external uncertainties’",
-            "link": "https://www.marketwatch.com/story/macys-stock-falls-to-16-month-low-as-it-faces-external-uncertainties-and-cuts-guidance-485446ba?mod=mw_rss_topstories",
-            "summary": "The retailer said it’s taking a ‘prudent’ approach to its outlook as it warns of a profit shortfall.",
-            "date": "Thu, 06 Mar 2025 13:04:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "M",
-            "impact": "Neutral"
-        },
-        {
-            "title": "BJ’s Wholesale bucks the trend by providing an in-line outlook. The stock is gaining.",
-            "link": "https://www.marketwatch.com/story/bjs-wholesale-bucks-the-trend-by-providing-an-in-line-outlook-the-stock-gains-8d777455?mod=mw_rss_topstories",
-            "summary": "Membership-based discount retailer and Costco rival sees biggest growth for comparable-club sales in nearly 2 years. Membership-based. discount retailer, Costco rival see biggest growth in comparable- club sales in almost 2 years, according to new figures.",
-            "date": "Thu, 06 Mar 2025 12:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BJ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘Don’t get your operation on a Thursday,’ this hospital expert warned. Here’s his plan to save costs and lives.",
-            "link": "https://www.marketwatch.com/story/dont-get-your-operation-on-a-thursday-this-hospital-expert-warned-heres-his-plan-to-save-costs-and-lives-3d6ed513?mod=mw_rss_topstories",
-            "summary": "Eugene Litvak has a proven way to improve U.S. hospitals, he says. If only they’d let him.",
-            "date": "Thu, 06 Mar 2025 12:45:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BITCOIN30815-USD",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         }
     ]
