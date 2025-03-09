@@ -1,95 +1,71 @@
 {
-    "date": "2025-03-08",
+    "date": "2025-03-09",
     "news": [
         {
-            "title": "Tesla shares have declined every week since Elon Musk went to Washington",
-            "link": "https://www.cnbc.com/2025/03/07/tesla-shares-declined-every-week-since-elon-musk-went-to-washington.html",
-            "summary": "Tesla's stock has dropped for seven straight weeks, a stretch that dates back to the beginning of Donald Trump's second term in the White House.",
-            "date": "Sat, 08 Mar 2025 00:05:25 GMT",
+            "title": "RFK Jr. could further deter childhood vaccinations as rates fall in the U.S.",
+            "link": "https://www.cnbc.com/2025/03/09/rfk-jr-could-further-deter-childhood-vaccinations-as-us-rates-fall.html",
+            "summary": "Some health policy experts say Kennedy's early moves as HHS Secretary are concerning and suggest that he could undermine immunizations in less direct ways. Kennedy is expected to be sworn in as Secretary of HHS on Monday.",
+            "date": "Sun, 09 Mar 2025 11:02:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSLA",
+            "stock_ticker": "RFKTX",
             "impact": "Neutral"
         },
         {
-            "title": "China to impose retaliatory tariffs on some Canadian products as trade war heats up",
-            "link": "https://www.cnbc.com/2025/03/08/trade-war-china-to-slap-retaliatory-tariffs-on-some-canadian-products.html",
-            "summary": "China announces retaliatory tariffs on Canadian agricultural goods. Ottawa slapped import duties on Chinese-made EVs. China says it will hit back with duties on Canadian-made electric vehicles.",
-            "date": "Sat, 08 Mar 2025 06:08:07 GMT",
+            "title": "China's consumer inflation turns negative for the first time in 13 months",
+            "link": "https://www.cnbc.com/2025/03/09/inflation-china-consumer-price-index-drops-below-zero-in-february.html",
+            "summary": "The data comes as investors continue to look for signs that Beijing's stimulus measures can help to boost the country's struggling economic recovery. The data comes from the National Bureau of Statistics.",
+            "date": "Sun, 09 Mar 2025 03:32:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHH=F",
+            "stock_ticker": "CI4A.MU",
             "impact": "Neutral"
         },
         {
-            "title": "Trump Organization sues Capital One bank over account closures after Jan. 6 Capitol riot",
-            "link": "https://www.cnbc.com/2025/03/07/trump-organization-lawsuit-capital-one-account-closures-jan-6-riot.html",
-            "summary": "The Trump companies accuse Capitol One of having \"'woke' beliefs that it needed to distance itself from President Trump and his conservative political views\"",
-            "date": "Fri, 07 Mar 2025 22:05:56 GMT",
+            "title": "Top Wall Street analysts are bullish on these dividend stocks",
+            "link": "https://www.cnbc.com/2025/03/09/top-wall-street-analysts-are-bullish-on-these-dividend-stocks.html",
+            "summary": "TipRanks' analyst ranking service highlights three dividend-paying stocks. Coterra Energy and Walmart are two of them.",
+            "date": "Sun, 09 Mar 2025 11:12:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
-            "title": "Goodyear Tire's transformation plan is underway — in the sky and on the ground",
-            "link": "https://www.cnbc.com/2025/03/08/goodyear-tire-transformation-plan-investors.html",
-            "summary": "Goodyear Tire & Rubber Co. is facing a rapidly changing business. New technologies and increased competition from low-cost countries such as China.",
-            "date": "Sat, 08 Mar 2025 13:00:01 GMT",
+            "title": "‘We don’t believe in the velvet rope:' One money manager is giving retail investors access to private credit. But is it worth it?",
+            "link": "https://www.cnbc.com/2025/03/08/ultrawealthy-to-retail-investors-expanding-access-to-private-credit.html",
+            "summary": "The exchange-traded fund industry is looking to give retail investors more access to alternative investments including private credit. The move is aimed at giving them access to private credit and other alternative investments.",
+            "date": "Sat, 08 Mar 2025 16:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GT",
+            "stock_ticker": "WFC",
             "impact": "Neutral"
         },
         {
-            "title": "Hinge Health to go public as soon as April, source says",
-            "link": "https://www.cnbc.com/2025/03/07/hinge-health-to-go-public-as-soon-as-april-source-says.html",
-            "summary": "Hinge Health could file for an initial public offering as soon as next week, CNBC has learned. Hinge Health is a health care company that was founded in 2009.",
-            "date": "Fri, 07 Mar 2025 23:45:15 GMT",
+            "title": "These accounts can be the 'worst possible asset’ for retirement, expert says. Here's why",
+            "link": "https://www.cnbc.com/2025/03/08/traditional-ira-taxes.html",
+            "summary": "Many investors don't plan for future taxes when contributing to traditional IRAs. Here are the key things to know about how to contribute to a traditional IRA.",
+            "date": "Sat, 08 Mar 2025 15:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SNWV",
+            "stock_ticker": "CAN",
             "impact": "Neutral"
         },
         {
-            "title": "Trump’s ‘chaotic’ policy approach is creating opportunity for investors",
-            "link": "https://www.marketwatch.com/story/trumps-chaotic-policy-approach-is-creating-opportunity-for-investors-c7a0418d?mod=mw_rss_topstories",
-            "summary": "There could be “quite a shift in the world order,” says Mike Cudzil, a portfolio manager at Pimco.",
-            "date": "Sat, 08 Mar 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TRUMPSHIBA-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "An Intel deal now seems less likely. These clues may hold the key to its future.",
-            "link": "https://www.marketwatch.com/story/an-intel-deal-now-seems-less-likely-these-clues-may-hold-the-key-to-its-future-b797e0f7?mod=mw_rss_topstories",
-            "summary": "Investors appear to be discounting recent M&amp;A speculation that Intel will split in two. Intel is the world's second largest chip maker.",
-            "date": "Sat, 08 Mar 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My husband gave his credit card to his son to pay for ‘medical bills.’ Does this kind of support send the wrong message?",
-            "link": "https://www.marketwatch.com/story/my-husband-gave-his-son-30-who-has-struggled-with-drug-addiction-his-credit-card-it-did-not-go-well-6995532a?mod=mw_rss_topstories",
-            "summary": "“This young man has been enabled financially by both of his parents, but especially by his mom’s,” he said.",
-            "date": "Sat, 08 Mar 2025 11:43:00 GMT",
+            "title": "My husband plans to leave his entire estate to his adult son, who steals his credit card to gamble online. What can I do?",
+            "link": "https://www.marketwatch.com/story/my-husband-plans-to-leave-his-entire-estate-to-his-adult-son-who-steals-his-credit-card-to-gamble-online-what-can-i-do-293de4c8?mod=mw_rss_topstories",
+            "summary": "\"Dementia runs in my husband’s family. My husband�s son has been known to take money from his dad without permission,\" she said.",
+            "date": "Sun, 09 Mar 2025 12:47:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "How buyers are winning bidding wars in a market where homes are going for $620,000 over ask",
-            "link": "https://www.marketwatch.com/story/how-buyers-are-winning-bidding-wars-in-a-market-where-homes-are-going-for-620-000-over-ask-3a01da82?mod=mw_rss_topstories",
-            "summary": "The spring home-buying season could be bruising in this region, where bidding wars are alive and well. The market is expected to be strong in the coming months.",
-            "date": "Sat, 08 Mar 2025 11:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "America’s job market is eerily similar to the 1990s dot-com boom. Should we be worried?",
+            "title": "America’s job market is eerily similar to the 1990s dot-com boom — just before the bust",
             "link": "https://www.marketwatch.com/story/americas-job-market-is-eerily-similar-to-the-1990s-dot-com-boom-should-we-be-worried-604d5d6c?mod=mw_rss_topstories",
             "summary": "March 20 marks the 25th anniversary of the dot-com bust. Could it happen again? CNN's John Sutter looks at the possibility of a repeat.",
-            "date": "Sat, 08 Mar 2025 10:37:00 GMT",
+            "date": "Sun, 09 Mar 2025 12:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "LAC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Inflation and tariffs might scare shoppers. Have they scared CEOs?",
+            "link": "https://www.marketwatch.com/story/inflation-and-tariffs-might-scare-shoppers-have-they-scared-ceos-0e5c199f?mod=mw_rss_topstories",
+            "summary": "Adobe, Oracle and more retailers report during the week. Executives are talking a lot about tariffs, but little about a recession.",
+            "date": "Sun, 09 Mar 2025 10:59:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VTIP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I fled our $2.2M home due to domestic abuse. I’m on the loan, but we’re both on the title. My husband won’t sell. What now?",
+            "link": "https://www.marketwatch.com/story/were-both-on-the-title-im-on-the-loan-for-our-2-2-million-home-we-split-up-but-my-husband-wont-sell-what-now-588a7313?mod=mw_rss_topstories",
+            "summary": "“He contributed a $1 million down payment. I mortgaged the rest in my name,” he says. “He’s a great guy.” “I’m very proud of what I’ve done.’",
+            "date": "Sun, 09 Mar 2025 00:47:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SNWV",
+            "impact": "Bearish"
+        },
+        {
+            "title": "I signed a prenup, but my husband refuses to make a will or set up a trust. If he dies, will I inherit his estate?",
+            "link": "https://www.marketwatch.com/story/i-signed-a-prenup-but-my-husband-refuses-to-make-a-will-or-set-up-a-trust-if-he-dies-will-i-inherit-his-estate-79a7462e?mod=mw_rss_topstories",
+            "summary": "“He has one adult son from whom he is estranged. He is 71 and I am 69,” she said. “He is 71, I is 69.” “I am 71, he is 71. I am 71 and he is 69”",
+            "date": "Sun, 09 Mar 2025 00:34:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SNWV",
             "impact": "Neutral"
         }
     ]
