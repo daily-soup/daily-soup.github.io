@@ -1,11 +1,11 @@
 {
-    "date": "2025-03-10",
+    "date": "2025-03-11",
     "news": [
         {
-            "title": "Trump rejects pleas from business for more clarity on tariffs: 'They always say that'",
-            "link": "https://www.cnbc.com/2025/03/10/trump-greater-tariff-and-trade-clarity-is-what-all-ceos-always-want.html",
-            "summary": "Trump and his aides warned amid the tariff controversy that Americans could be in store for some temporary economic strain — including higher prices. Trump: \"We're going to have to make some tough decisions\"",
-            "date": "Mon, 10 Mar 2025 12:47:28 GMT",
+            "title": "Trump calls Tesla boycott 'illegal' and says he's buying one to support Elon Musk",
+            "link": "https://www.cnbc.com/2025/03/11/trump-says-hes-buying-a-tesla-to-support-elon-musk-and-counter-illegal-boycott-of-ev-maker.html",
+            "summary": "Trump calls Musk, the controversial leader of Tesla and a new government efficiency initiative, a \"truly great American\" Trump: Musk is a \"great American\"",
+            "date": "Tue, 11 Mar 2025 12:59:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +14,111 @@
             "impact": "Neutral"
         },
         {
-            "title": "Here's why banks don’t want the CFPB to disappear",
-            "link": "https://www.cnbc.com/2025/03/10/why-banks-dont-want-the-cfpb-to-disappear.html",
-            "summary": "The Consumer Financial Protection Bureau and its employees are in limbo after acting Director Russell Vought took over last month. The agency is responsible for overseeing the nation's financial system.",
-            "date": "Mon, 10 Mar 2025 12:37:22 GMT",
+            "title": "Southwest Airlines will charge to check bags for the first time, launch basic economy tickets",
+            "link": "https://www.cnbc.com/2025/03/11/southwest-airlines-charge-checked-bags.html",
+            "summary": "Southwest is getting rid of its policy for free checked bags. It's ending a more than 50-year perk. The airline says the move is in the best interests of passengers.",
+            "date": "Tue, 11 Mar 2025 12:45:54 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LUV",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Kohl's shares plunge 15% as retailer gives rough outlook for the year ahead",
+            "link": "https://www.cnbc.com/2025/03/11/kohls-kss-q4-2024-earnings.html",
+            "summary": "Kohl's posted a beat on revenue for the fourth quarter on Tuesday, but issued disappointing guidance for the year ahead. Kohl's: We expect to make a profit in the first quarter of 2015.",
+            "date": "Tue, 11 Mar 2025 12:19:11 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KSS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump is targeting China-made containerships in new flank of global economic war on the oceans",
+            "link": "https://www.cnbc.com/2025/03/11/trump-pursues-new-trade-war-on-seas-targeting-china-containerships.html",
+            "summary": "China dominates shipbuilding for the ocean freight market. President Trump has plans to exact economic punishment to bring the business back to the U.S.",
+            "date": "Tue, 11 Mar 2025 13:07:16 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Dick's Sporting Goods is latest retailer to forecast rocky 2025 as recession fears swirl",
+            "link": "https://www.cnbc.com/2025/03/11/dicks-sporting-goods-dks-earnings-q4-2024.html",
+            "summary": "Dick's Sporting Goods issued weak guidance for 2025 as consumers contend with tariffs, persistent inflation and fears around a potential recession. Dick's Sporting goods issued weak Guidance for 2025.",
+            "date": "Tue, 11 Mar 2025 12:59:43 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DKS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why should I tip servers who earn $20 an hour?",
+            "link": "https://www.marketwatch.com/story/why-should-i-tip-servers-who-earn-20-an-hour-b68832f5?mod=mw_rss_topstories",
+            "summary": "“It seems the whole point of tipping was to make up for low wages, and that is no longer an issue,” she says.",
+            "date": "Tue, 11 Mar 2025 13:19:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "WHYCX",
-            "impact": "Neutral"
+            "impact": "Bullish"
         },
         {
-            "title": "Kugler says Fed should hold interest rates amid inflation risks",
-            "link": "https://www.cnbc.com/2025/03/10/kugler-says-fed-should-hold-interest-rates-amid-inflation-risks.html",
-            "summary": "Inflation could continue to be 'persistent' and prices could potentially increase again, Federal Reserve Governor Adriana Kugler says.",
-            "date": "Mon, 10 Mar 2025 12:56:13 GMT",
+            "title": "Small businesses reacted with jubilation to Trump’s victory. Now they’re very uncertain on the economy.",
+            "link": "https://www.marketwatch.com/story/small-businesses-reacted-with-jubilation-to-trumps-victory-now-theyre-very-uncertain-on-the-economy-8e8ea8bc?mod=mw_rss_topstories",
+            "summary": "Small-business owners are facing historic levels of uncertainty about the future. The group emphatically cheered the election of President Donald Trump and a Republican Congress.",
+            "date": "Tue, 11 Mar 2025 13:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZQ=F",
-            "impact": "Neutral"
+            "stock_ticker": "MSC=F",
+            "impact": "Bullish"
         },
         {
-            "title": "Novo Nordisk shares fall 6.3% after latest trial results for its next-generation weight loss drug",
-            "link": "https://www.cnbc.com/2025/03/10/novo-nordisk-shares-fall-after-cagrisema-weight-loss-drug-trial-result.html",
-            "summary": "Shares of Novo Nordisk fell sharply on Monday, after the firm published results from the latest clinical trial of its CagriSema weight-loss drug.",
-            "date": "Mon, 10 Mar 2025 12:17:58 GMT",
+            "title": "Bearish market alarms are flashing. Citi’s latest downgrade may add fuel to the fire",
+            "link": "https://www.marketwatch.com/story/citigroup-downgrades-its-stance-on-u-s-stocks-these-bearish-signals-have-been-triggered-bank-says-4a17acea?mod=mw_rss_topstories",
+            "summary": "Like other Wall Street banks, Citigroup is worried about the state of the U.S. economy. For now, they recommend putting money elsewhere.",
+            "date": "Tue, 11 Mar 2025 12:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVO",
-            "impact": "Neutral"
+            "stock_ticker": "UDN",
+            "impact": "Bullish"
         },
         {
-            "title": "These accounts can be the 'worst possible asset’ for retirement, expert says. Here's why",
-            "link": "https://www.cnbc.com/2025/03/08/traditional-ira-taxes.html",
-            "summary": "Many investors don't plan for future taxes when contributing to traditional IRAs. Here are the key things to know about how to contribute to a traditional IRA.",
-            "date": "Sat, 08 Mar 2025 15:00:01 GMT",
+            "title": "Kohl’s stock tumbles on weak outlook as sales slide. Its CEO says the company is taking action.",
+            "link": "https://www.marketwatch.com/story/kohls-stock-slides-as-sales-plunge-its-ceo-says-the-company-is-taking-action-49d6e664?mod=mw_rss_topstories",
+            "summary": "Kohl’s CEO Ashley Buchanan says that the company has “identified key areas of focus.” Buchanan says the company is looking for ways to improve its financial performance.",
+            "date": "Tue, 11 Mar 2025 12:54:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CAN",
+            "stock_ticker": "KSS",
             "impact": "Neutral"
         },
         {
-            "title": "There’s a Fed put and a Trump put — but don’t forget the C-suite put as well",
-            "link": "https://www.marketwatch.com/story/theres-a-fed-put-and-a-trump-put-but-dont-forget-the-c-suite-put-as-well-7a500945?mod=mw_rss_topstories",
-            "summary": "Companies may put a floor under stocks by switching to buybacks from capital expenditure, according to Citi strategists. Citi: Companies may switch to buyback from capital Expenditure.",
-            "date": "Mon, 10 Mar 2025 12:44:00 GMT",
+            "title": "Tariffs could cost Americans an extra $1,600 a year. Here’s where to find that money in your household budget.",
+            "link": "https://www.marketwatch.com/story/tariffs-could-cost-americans-an-extra-2-000-a-year-heres-where-to-find-that-money-in-your-household-budget-6acc454d?mod=mw_rss_topstories",
+            "summary": "10 practical tips, tricks and hacks for fortifying your finances against a trade war. 10 practical Tips, tricks, and hacks to fortify your money against atrade war.",
+            "date": "Tue, 11 Mar 2025 12:44:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MAY-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "One of Wall Street’s biggest bulls now says a flash crash can’t be ruled out",
-            "link": "https://www.marketwatch.com/story/one-of-wall-streets-biggest-bulls-now-says-a-flash-crash-cant-be-ruled-out-84d52550?mod=mw_rss_topstories",
-            "summary": "Ed Yardeni says a bear market for stocks may already be underway. He says a “flash crash’ can’t be ruled out.",
-            "date": "Mon, 10 Mar 2025 12:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SR1=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "European stocks have crushed the U.S. — now a big bank is shifting its view",
-            "link": "https://www.marketwatch.com/story/hsbc-double-upgrades-europe-stocks-as-it-lowers-u-s-rating-to-neutral-04a3296e?mod=mw_rss_topstories",
-            "summary": "HSBC strategists are changing their tune on European stocks. The year has started with a big rally for European stocks as the U.S. market struggles to remain above water.",
-            "date": "Mon, 10 Mar 2025 12:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EDP=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Nvidia’s stock is cheap by this metric. Can next week’s GTC get it going again?",
-            "link": "https://www.marketwatch.com/story/nvidias-stock-is-cheap-by-this-account-can-next-weeks-gtc-get-it-going-again-7549eb40?mod=mw_rss_topstories",
-            "summary": "Nvidia hosts its annual conference next week at a time when investors have soured on AI stocks. Nvidia is the world's largest maker of computer graphics chips.",
-            "date": "Mon, 10 Mar 2025 12:16:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Redfin’s stock soars on buyout deal by Rocket Cos that looks to speed up home buying",
-            "link": "https://www.marketwatch.com/story/mortgage-lender-rocket-is-acquiring-redfin-to-combine-home-buying-and-financing-39cef57f?mod=mw_rss_topstories",
-            "summary": "Rocket wants to be a one-stop shop for the entire home-buying process. Rocket wants to help you buy your first home.",
-            "date": "Mon, 10 Mar 2025 12:03:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
+            "stock_ticker": "COST",
             "impact": "Neutral"
         }
     ]
