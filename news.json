@@ -1,125 +1,125 @@
 {
-    "date": "2025-03-11",
+    "date": "2025-03-12",
     "news": [
         {
-            "title": "Trump calls Tesla boycott 'illegal' and says he's buying one to support Elon Musk",
-            "link": "https://www.cnbc.com/2025/03/11/trump-says-hes-buying-a-tesla-to-support-elon-musk-and-counter-illegal-boycott-of-ev-maker.html",
-            "summary": "Trump calls Musk, the controversial leader of Tesla and a new government efficiency initiative, a \"truly great American\" Trump: Musk is a \"great American\"",
-            "date": "Tue, 11 Mar 2025 12:59:49 GMT",
+            "title": "Inflation rate hits 2.8% in February, less than expected",
+            "link": "https://www.cnbc.com/2025/03/12/cpi-inflation-report-february-2025.html",
+            "summary": "The consumer price index was expected to increase 0.3% in February and 3.2% from a year ago. The Consumer Price Index is a measure of inflation in the United States.",
+            "date": "Wed, 12 Mar 2025 12:57:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "WIW",
             "impact": "Neutral"
         },
         {
-            "title": "Southwest Airlines will charge to check bags for the first time, launch basic economy tickets",
-            "link": "https://www.cnbc.com/2025/03/11/southwest-airlines-charge-checked-bags.html",
-            "summary": "Southwest is getting rid of its policy for free checked bags. It's ending a more than 50-year perk. The airline says the move is in the best interests of passengers.",
-            "date": "Tue, 11 Mar 2025 12:45:54 GMT",
+            "title": "We 'must act': Europe retaliates against Trump's 25% tariffs on steel and aluminum imports",
+            "link": "https://www.cnbc.com/2025/03/12/we-must-act-europe-says-retaliating-against-trumps-tariffs.html",
+            "summary": "The European Union said it would impose counter-tariffs on 26 billion euros ($28.33 billion) worth of U.S. goods starting in April.",
+            "date": "Wed, 12 Mar 2025 07:57:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LUV",
+            "stock_ticker": "WFC",
             "impact": "Neutral"
         },
         {
-            "title": "Kohl's shares plunge 15% as retailer gives rough outlook for the year ahead",
-            "link": "https://www.cnbc.com/2025/03/11/kohls-kss-q4-2024-earnings.html",
-            "summary": "Kohl's posted a beat on revenue for the fourth quarter on Tuesday, but issued disappointing guidance for the year ahead. Kohl's: We expect to make a profit in the first quarter of 2015.",
-            "date": "Tue, 11 Mar 2025 12:19:11 GMT",
+            "title": "Weekly mortgage demand surges 11% higher, as interest rates dropped for the sixth straight week",
+            "link": "https://www.cnbc.com/2025/03/12/weekly-mortgage-demand-surges-11percent-higher-as-interest-rates-dropped-.html",
+            "summary": "Mortgage demand for both homebuying and refinancing reacted to yet another drop in mortgage rates. Mortgage rates are now down for the sixth straight week.",
+            "date": "Wed, 12 Mar 2025 11:34:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KSS",
-            "impact": "Neutral"
+            "stock_ticker": "TSLW",
+            "impact": "Bearish"
         },
         {
-            "title": "Trump is targeting China-made containerships in new flank of global economic war on the oceans",
-            "link": "https://www.cnbc.com/2025/03/11/trump-pursues-new-trade-war-on-seas-targeting-china-containerships.html",
-            "summary": "China dominates shipbuilding for the ocean freight market. President Trump has plans to exact economic punishment to bring the business back to the U.S.",
-            "date": "Tue, 11 Mar 2025 13:07:16 GMT",
+            "title": "Ray Dalio warns that mounting U.S. debt problems could lead to ‘shocking developments'",
+            "link": "https://www.cnbc.com/2025/03/12/ray-dalio-warns-growing-us-debt-will-lead-to-shocking-developments.html",
+            "summary": "Bridgewater founder Ray Dalio warns of a \"very severe\" supply-demand problem regarding U.S. debt. Dalio: \"Very severe\" problem could lead to shocking developments.",
+            "date": "Wed, 12 Mar 2025 11:59:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
+            "stock_ticker": "RAY",
+            "impact": "Bullish"
         },
         {
-            "title": "Dick's Sporting Goods is latest retailer to forecast rocky 2025 as recession fears swirl",
-            "link": "https://www.cnbc.com/2025/03/11/dicks-sporting-goods-dks-earnings-q4-2024.html",
-            "summary": "Dick's Sporting Goods issued weak guidance for 2025 as consumers contend with tariffs, persistent inflation and fears around a potential recession. Dick's Sporting goods issued weak Guidance for 2025.",
-            "date": "Tue, 11 Mar 2025 12:59:43 GMT",
+            "title": "Moscow wary of 'jumping the gun' after the U.S. and Ukraine unite over a ceasefire deal",
+            "link": "https://www.cnbc.com/2025/03/12/moscow-under-pressure-to-act-after-us-and-kyiv-reach-ceasefire-deal.html",
+            "summary": "The Kremlin broke silence on Wednesday, delivering its initial reaction to Kyiv and the White House's unilateral agreement proposing a temporary ceasefire. The Kremlin said Kyiv's offer of a ceasefire was the only way to resolve the crisis.",
+            "date": "Wed, 12 Mar 2025 11:40:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DKS",
+            "stock_ticker": "GEO=F",
             "impact": "Neutral"
         },
         {
-            "title": "Why should I tip servers who earn $20 an hour?",
-            "link": "https://www.marketwatch.com/story/why-should-i-tip-servers-who-earn-20-an-hour-b68832f5?mod=mw_rss_topstories",
-            "summary": "“It seems the whole point of tipping was to make up for low wages, and that is no longer an issue,” she says.",
-            "date": "Tue, 11 Mar 2025 13:19:00 GMT",
+            "title": "Airline profits hit turbulence from Q1’s ‘parade of horribles’",
+            "link": "https://www.marketwatch.com/story/airline-profits-hit-turbulence-from-q1s-parade-of-horribles-008507d2?mod=mw_rss_topstories",
+            "summary": "Cowen analysts expect airline stocks to remain volatile. TD Cowen: Airline stocks could remain volatile in the near term. The airline sector is expected to remain in the red for the rest of the year.",
+            "date": "Wed, 12 Mar 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Treasury yields edge up after CPI inflation data comes in cooler than expected",
+            "link": "https://www.marketwatch.com/story/treasury-yields-dip-ahead-of-cpi-inflation-data-67261bda?mod=mw_rss_topstories",
+            "summary": "Consumer-price index report for February came in cooler than Wall Street expected. Bond yields turned higher Wednesday after the consumer-price report came in lower than expected.",
+            "date": "Wed, 12 Mar 2025 12:56:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ZB=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why it’s harder for Generation X to save for retirement than it was for baby boomers",
+            "link": "https://www.marketwatch.com/story/why-its-harder-for-generation-x-to-save-for-retirement-than-it-was-for-baby-boomers-1a725803?mod=mw_rss_topstories",
+            "summary": "The next generation of retirees isn’t feeling so confident about the future. “I’m worried about my future,” one woman says.",
+            "date": "Wed, 12 Mar 2025 12:42:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "WHYCX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Small businesses reacted with jubilation to Trump’s victory. Now they’re very uncertain on the economy.",
-            "link": "https://www.marketwatch.com/story/small-businesses-reacted-with-jubilation-to-trumps-victory-now-theyre-very-uncertain-on-the-economy-8e8ea8bc?mod=mw_rss_topstories",
-            "summary": "Small-business owners are facing historic levels of uncertainty about the future. The group emphatically cheered the election of President Donald Trump and a Republican Congress.",
-            "date": "Tue, 11 Mar 2025 13:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MSC=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Bearish market alarms are flashing. Citi’s latest downgrade may add fuel to the fire",
-            "link": "https://www.marketwatch.com/story/citigroup-downgrades-its-stance-on-u-s-stocks-these-bearish-signals-have-been-triggered-bank-says-4a17acea?mod=mw_rss_topstories",
-            "summary": "Like other Wall Street banks, Citigroup is worried about the state of the U.S. economy. For now, they recommend putting money elsewhere.",
-            "date": "Tue, 11 Mar 2025 12:59:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "UDN",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Kohl’s stock tumbles on weak outlook as sales slide. Its CEO says the company is taking action.",
-            "link": "https://www.marketwatch.com/story/kohls-stock-slides-as-sales-plunge-its-ceo-says-the-company-is-taking-action-49d6e664?mod=mw_rss_topstories",
-            "summary": "Kohl’s CEO Ashley Buchanan says that the company has “identified key areas of focus.” Buchanan says the company is looking for ways to improve its financial performance.",
-            "date": "Tue, 11 Mar 2025 12:54:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KSS",
             "impact": "Neutral"
         },
         {
-            "title": "Tariffs could cost Americans an extra $1,600 a year. Here’s where to find that money in your household budget.",
-            "link": "https://www.marketwatch.com/story/tariffs-could-cost-americans-an-extra-2-000-a-year-heres-where-to-find-that-money-in-your-household-budget-6acc454d?mod=mw_rss_topstories",
-            "summary": "10 practical tips, tricks and hacks for fortifying your finances against a trade war. 10 practical Tips, tricks, and hacks to fortify your money against atrade war.",
-            "date": "Tue, 11 Mar 2025 12:44:00 GMT",
+            "title": "Goldman Sachs flinches and lowers its S&P 500 target. The mechanics are the interesting part.",
+            "link": "https://www.marketwatch.com/story/goldman-sachs-flinches-and-lowers-its-s-p-500-target-the-mechanics-are-the-interesting-part-7586d58b?mod=mw_rss_topstories",
+            "summary": "Wall Street strategists struggle to hold their nerve in the face of the ever-changing tariff policy. It’s been tough for Wall Street Strategists to holding their nerve.",
+            "date": "Wed, 12 Mar 2025 12:34:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COST",
+            "stock_ticker": "GS",
             "impact": "Neutral"
+        },
+        {
+            "title": "Believe in Elon Musk’s $1 trillion ‘waste and fraud’ jackpot when you see it",
+            "link": "https://www.marketwatch.com/story/believe-in-elon-musks-1-trillion-waste-and-fraud-jackpot-when-we-see-it-3d200249?mod=mw_rss_topstories",
+            "summary": " Musk is right about one thing: Absolutely no reasonable person should support waste or fraud in the federal government. He is also right about the fact that the U.S. government should be more transparent and accountable.",
+            "date": "Wed, 12 Mar 2025 12:31:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "8T6.MU",
+            "impact": "Bullish"
         }
     ]
 }
