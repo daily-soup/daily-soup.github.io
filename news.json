@@ -1,29 +1,41 @@
 {
-    "date": "2025-03-15",
+    "date": "2025-03-16",
     "news": [
         {
-            "title": "U.S. consumers are starting to crack as tariffs add to inflation, recession concerns",
-            "link": "https://www.cnbc.com/2025/03/14/delta-walmart-warn-about-consumer-spending-amid-tariffs-inflation.html",
-            "summary": "Airline and retail executives are bracing for a slowdown in demand. There are concerns tariffs will cut down consumer spending. The U.S. economy is expected to grow at a slower rate this year.",
-            "date": "Sat, 15 Mar 2025 11:18:46 GMT",
+            "title": "'See you in four years': Canada flexes economic muscle as tariff negotiations continue",
+            "link": "https://www.cnbc.com/2025/03/16/see-you-in-four-years-canada-flexes-economic-muscle-as-tariff-negotiations-continue.html",
+            "summary": "Trump's plans for tariffs and comments about Canada becoming a state has enraged the country's consumers and politicians. Trump's plan for tariffs has enraged consumers, politicians and businesses.",
+            "date": "Sun, 16 Mar 2025 11:12:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
-            "impact": "Bearish"
+            "stock_ticker": "SEER",
+            "impact": "Neutral"
         },
         {
-            "title": "Goodbye to 'bags fly free' on Southwest Airlines, the last freebie in America",
-            "link": "https://www.cnbc.com/2025/03/15/goodbye-free-bags-southwest-airlines.html",
-            "summary": "Southwest's customer-focused business model won it a loyal following during its half-century of flying. Southwest's customers have been loyal to the airline for more than 50 years.",
-            "date": "Sat, 15 Mar 2025 12:49:04 GMT",
+            "title": "How the U.S. is losing ground to China in nuclear fusion, as AI power needs surge",
+            "link": "https://www.cnbc.com/2025/03/16/the-us-is-falling-behind-china-in-nuclear-fusion-needed-to-power-ai.html",
+            "summary": "The U.S. has led the race to clean, limitless nuclear fusion energy. Now China is catching up, spending twice as much and building projects faster.",
+            "date": "Sun, 16 Mar 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GBK.ST",
-            "impact": "Neutral"
+            "stock_ticker": "HWM",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Trump administration sends a clear message to the oil and gas industry: 'You're the customer'",
+            "link": "https://www.cnbc.com/2025/03/15/trump-administration-message-to-oil-and-gas-industry-youre-the-customer.html",
+            "summary": "The officials leading Trump's energy agenda downplayed climate change. They called for more energy production to support economic growth and national security. The officials called for an increase in domestic energy production.",
+            "date": "Sat, 15 Mar 2025 13:18:39 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Bullish"
         },
         {
             "title": "After Elon Musk’s Delaware exit, state lawmakers weigh bill to overhaul corporate law",
@@ -38,46 +50,58 @@
             "impact": "Neutral"
         },
         {
-            "title": "Intel's new CEO receives $66 million in options and stock grants on top of $1 million salary",
-            "link": "https://www.cnbc.com/2025/03/14/new-intel-ceo-lip-bu-tan-to-receive-69-million-compensation-package.html",
-            "summary": "Lip-Bu Tan will receive $1 million in salary and about $66 million in stocks and grants vesting over the coming years.",
-            "date": "Fri, 14 Mar 2025 23:39:49 GMT",
+            "title": "Top Wall Street analysts favor these 3 stocks for the long term",
+            "link": "https://www.cnbc.com/2025/03/16/top-wall-street-analysts-favor-these-3-stocks-for-the-long-term.html",
+            "summary": "TipRanks' analyst ranking service spotlights stocks favored by the Street's top pros. Zscaler and Costco Wholesale are among the companies highlighted.",
+            "date": "Sun, 16 Mar 2025 11:14:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "6N=F",
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
-            "title": "Buy now, pay later lender Klarna files for U.S. IPO",
-            "link": "https://www.cnbc.com/2025/03/14/buy-now-pay-later-lender-klarna-files-for-us-ipo.html",
-            "summary": "Klarna filed its paperwork with the SEC on Friday to go public on the New York Stock Exchange under ticker symbol KLAR.",
-            "date": "Fri, 14 Mar 2025 21:29:02 GMT",
+            "title": "‘In their last days, our parents changed their will’: They left me $250,000, but gave my sister $1 million. What should I do?",
+            "link": "https://www.marketwatch.com/story/my-parents-left-me-250k-but-gave-my-irrational-and-neurotic-sister-1-million-would-you-sever-all-ties-a26e5c12?mod=mw_rss_topstories",
+            "summary": "“How many people maintain a relationship with their siblings after their parents died?” he asks. “How much do you get from your siblings after your parents die?’”",
+            "date": "Sun, 16 Mar 2025 12:56:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBY",
+            "stock_ticker": "MWYN",
             "impact": "Neutral"
         },
         {
-            "title": "They lost their federal jobs and now can’t get jobless benefits: ‘You’re left watching your bank account slowly bleed’",
-            "link": "https://www.marketwatch.com/story/they-lost-their-federal-jobs-and-now-cant-get-jobless-benefits-youre-left-watching-your-bank-account-slowly-bleed-6d1ab9e7?mod=mw_rss_topstories",
-            "summary": "Fired federal workers are having trouble getting unemployment benefits. Some experts fear that could spell trouble for the broader economy. The federal government is trying to cut benefits for fired federal workers.",
-            "date": "Sat, 15 Mar 2025 13:00:00 GMT",
+            "title": "I almost bought a $600K house, but a neighbor told me it has an ‘unsafe’ extension with no foundation. Does the seller have a duty to reveal this?",
+            "link": "https://www.marketwatch.com/story/i-viewed-a-600k-house-but-discovered-that-the-kitchen-is-unsafe-and-has-no-foundation-do-i-have-a-moral-obligation-to-tell-the-sellers-agent-d4b699af?mod=mw_rss_topstories",
+            "summary": "“The next-door neighbor was going to buy it, but the seller warned him off,” the seller says. “The seller was like, ‘You’re not going to get it.’”",
+            "date": "Sun, 16 Mar 2025 11:54:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZQ=F",
+            "stock_ticker": "MWYN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘He claims to be a nihilist’: I told my friend to sell his Tesla shares. He stopped speaking to me. Is that normal?",
+            "link": "https://www.marketwatch.com/story/he-is-a-democrat-and-claims-to-be-a-nihilist-i-told-my-friend-to-sell-his-tesla-shares-he-cut-off-contact-is-that-normal-ab4f86f4?mod=mw_rss_topstories",
+            "summary": "“I’ve been trying to get him to diversify his retirement portfolio,” she says. “I want him to have a diversified portfolio.”",
+            "date": "Sun, 16 Mar 2025 10:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HO=F",
             "impact": "Neutral"
         },
         {
             "title": "My husband has dementia and will need care. Will Medicaid go after my money if I use it to pay off our mortgage?",
             "link": "https://www.marketwatch.com/story/im-not-sure-what-to-do-my-husband-has-dementia-and-needs-care-will-medicaid-go-after-our-money-if-i-use-it-to-pay-off-our-mortgage-c50debfe?mod=mw_rss_topstories",
             "summary": "“We still have around $300,000 left on our mortgage,” she says. “We’re still in the process of paying it off.”",
-            "date": "Sat, 15 Mar 2025 12:30:00 GMT",
+            "date": "Sun, 16 Mar 2025 10:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,40 +110,16 @@
             "impact": "Neutral"
         },
         {
-            "title": "Apple now faces a problem far bigger than tariffs or weak iPhone sales",
-            "link": "https://www.marketwatch.com/story/apple-now-faces-a-problem-far-bigger-than-tariffs-or-weak-iphone-sales-6c58c8e1?mod=mw_rss_topstories",
-            "summary": "A prominent Apple blogger says the company “squandered’ its credibility by advertising Siri features as an iPhone 16 selling point — when they were nowhere near ready to use.",
-            "date": "Sat, 15 Mar 2025 12:30:00 GMT",
+            "title": "‘This woman destroyed my heart and soul’: After my wife died, her mother turned on me — and presented me with a secret will",
+            "link": "https://www.marketwatch.com/story/this-woman-destroyed-my-heart-and-soul-after-my-wife-died-her-mother-turned-on-me-and-presented-me-with-a-secret-will-37d1fe31?mod=mw_rss_topstories",
+            "summary": "“She flipped a switch and instantly my wife’s entire family hated me,” he said of his ex-wife.",
+            "date": "Sun, 16 Mar 2025 09:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAPL",
+            "stock_ticker": "S2819.MC",
             "impact": "Neutral"
-        },
-        {
-            "title": "If I have a Social Security problem, am I out of luck now that staff and services are being cut?",
-            "link": "https://www.marketwatch.com/story/if-i-have-a-social-security-problem-am-i-out-of-luck-now-that-staff-and-services-are-being-cut-5f8af007?mod=mw_rss_topstories",
-            "summary": "Readers have a range of issues — and a lot of trouble getting answers. Readers have a number of issues, and many are not sure how to get to the top.",
-            "date": "Sat, 15 Mar 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IFC.TO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The S&P 500 correction shows why risk tolerance matters. These strategies can get investors back on track.",
-            "link": "https://www.marketwatch.com/story/the-s-p-500-correction-shows-why-risk-tolerance-matters-these-strategies-can-get-investors-back-on-track-40b83c4f?mod=mw_rss_topstories",
-            "summary": "The sudden nature of the stock market’s reversal may have made the drawdown feel even worse, especially for retail investors. The drawdown is expected to continue for the next few days.",
-            "date": "Sat, 15 Mar 2025 11:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Bearish"
         }
     ]
 }
