@@ -1,125 +1,125 @@
 {
-    "date": "2025-03-17",
+    "date": "2025-03-18",
     "news": [
         {
-            "title": "Retail sales increased 0.2% in February, though spending up less than expected",
-            "link": "https://www.cnbc.com/2025/03/17/retail-sales-increased-0point2percent-in-february-less-than-expected.html",
-            "summary": "Retail sales were expected to show a 0.6% increase in February, according to the Dow Jones consensus estimate. Retail sales are expected to be up 0.5% in February.",
-            "date": "Mon, 17 Mar 2025 13:02:23 GMT",
+            "title": "Google to acquire cloud security startup Wiz for $32 billion",
+            "link": "https://www.cnbc.com/2025/03/18/google-to-acquire-cloud-security-startup-wiz-for-32-billion.html",
+            "summary": "Google signed a \"definitive agreement\" to acquire Wiz for $32 billion in an all-cash deal. The deal is expected to close in the next few weeks.",
+            "date": "Tue, 18 Mar 2025 13:16:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SXR=F",
+            "stock_ticker": "GOOG",
             "impact": "Neutral"
         },
         {
-            "title": "Klarna, nearing IPO, plucks lucrative Walmart fintech partnership from rival Affirm",
-            "link": "https://www.cnbc.com/2025/03/17/walmart-klarna-nearing-ipo-wins-fintech-partnership-from-affirm.html",
-            "summary": "Affirm and Klarna are two of the world's biggest BNPL players. Klarna is set to go public just as Affirm are set to do the same.",
-            "date": "Mon, 17 Mar 2025 12:13:42 GMT",
+            "title": "Frontier Airlines offers free checked bags promotion in swipe at Southwest",
+            "link": "https://www.cnbc.com/2025/03/18/frontier-airlines-free-checked-bags-promo-southwest.html",
+            "summary": "Frontier Airlines is offering free checked luggage and economy bundles. The bundles come with seat assignments and carry-on bags. The airline is based in Denver, Colorado.",
+            "date": "Tue, 18 Mar 2025 12:40:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IPO",
+            "stock_ticker": "REFR",
             "impact": "Neutral"
         },
         {
-            "title": "Treasury Secretary Bessent says White House is heading off a 'guaranteed' financial crisis",
-            "link": "https://www.cnbc.com/2025/03/16/treasury-secretary-bessent-says-white-house-is-heading-off-financial-crisis.html",
-            "summary": "Bessent believes market pullbacks are benign. Trump's pro-business policies will boost the economy in the long run, he says.",
-            "date": "Mon, 17 Mar 2025 12:24:11 GMT",
+            "title": "Slower economic growth is likely ahead with risk of a recession rising, according to the CNBC Fed Survey",
+            "link": "https://www.cnbc.com/2025/03/18/slower-economic-growth-is-likely-ahead-with-risk-of-a-recession-rising-according-to-the-cnbc-fed-survey.html",
+            "summary": "Survey respondents raised the probability of recession to 36% from 23% in January. The 32 survey respondents include fund managers, strategists and analysts.",
+            "date": "Tue, 18 Mar 2025 13:12:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMAX",
+            "stock_ticker": "0P0000STES.F",
             "impact": "Neutral"
         },
         {
-            "title": "'See you in four years': Canada flexes economic muscle as tariff negotiations continue",
-            "link": "https://www.cnbc.com/2025/03/16/see-you-in-four-years-canada-flexes-economic-muscle-as-tariff-negotiations-continue.html",
-            "summary": "Trump's plans for tariffs and comments about Canada becoming a state has enraged the country's consumers and politicians. Trump's plan for tariffs has enraged consumers, politicians and businesses.",
-            "date": "Sun, 16 Mar 2025 11:12:42 GMT",
+            "title": "Tesla's China rival Zeekr to roll out advanced driver assistance-system for free",
+            "link": "https://www.cnbc.com/2025/03/18/teslas-china-rival-zeekr-to-roll-out-free-advanced-driver-assistance.html",
+            "summary": "Chinese electric car company Zeekr is releasing advanced driver-assistance capabilities to its local customers for free as competition heats up. The company is releasing the technology to its customers in China for free.",
+            "date": "Tue, 18 Mar 2025 11:35:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "M2Z.F",
+            "stock_ticker": "CHH=F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "DOJ seeks to boot judge questioning Trump deportations, lawyer warns of 'constitutional crisis'",
+            "link": "https://www.cnbc.com/2025/03/17/trump-deportation-order-venezuela-gang-judge-alien-enemies.html",
+            "summary": "The Trump administration has used the wartime Alien Enemies Act to deport hundreds of alleged Venezuelan gang members to Central America. The deportations have taken place under the guise of fighting the \"Venezuelan drug trade\"",
+            "date": "Tue, 18 Mar 2025 12:27:47 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DOJO30259-USD",
             "impact": "Neutral"
         },
         {
-            "title": "PepsiCo buys prebiotic soda brand Poppi for nearly $2 billion",
-            "link": "https://www.cnbc.com/2025/03/17/pepsico-buys-prebiotic-soda-brand-poppi-for-more-than-1point6-billion.html",
-            "summary": "Allison and Stephen Ellsworth launched the brand back in 2018. Poppi's founders are based in New York City and Los Angeles.",
-            "date": "Mon, 17 Mar 2025 13:09:58 GMT",
+            "title": "The cost of U.S. imports jump in February. Is it the Trump tariff effect?",
+            "link": "https://www.marketwatch.com/story/the-cost-of-u-s-imports-jump-in-february-is-it-the-trump-tariff-effect-0549f9f7?mod=mw_rss_topstories",
+            "summary": "The cost of imports rose faster than usual in February, perhaps a result of U.S. companies rushing to bring in foreign goods ahead of President Donald Trump's tariffs.",
+            "date": "Tue, 18 Mar 2025 13:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PEP",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "Intel’s new CEO is putting his money where his mouth is",
-            "link": "https://www.marketwatch.com/story/intels-new-ceo-is-putting-his-money-where-his-mouth-is-c22a3d57?mod=mw_rss_topstories",
-            "summary": "Lip-Bu Tan will purchase about $25 million in stock shortly after taking over as CEO. The move will give him immediate financial alignment with the moves he makes at Intel.",
-            "date": "Mon, 17 Mar 2025 13:19:00 GMT",
+            "title": "Wall Street’s No. 2 bull holds his ground. The logic? Trump’s popularity could get worse.",
+            "link": "https://www.marketwatch.com/story/wall-streets-no-2-bull-holds-his-ground-the-logic-trumps-popularity-could-get-worse-9c55c9f2?mod=mw_rss_topstories",
+            "summary": "Deutsche Bank has the second-highest S&amp;P 500 price target on Wall Street. Deutsche Bank is now alone with the second highest price target in the S&P 500.",
+            "date": "Tue, 18 Mar 2025 12:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "6N=F",
+            "stock_ticker": "WBX",
             "impact": "Neutral"
         },
         {
-            "title": "Why cruise stocks are a buy now, according to this analyst",
-            "link": "https://www.marketwatch.com/story/why-cruise-stocks-are-a-buy-now-according-to-this-analyst-f1de35e2?mod=mw_rss_topstories",
-            "summary": "Cruise stocks have been falling, but J.P. Morgan says buy because there have been no signs of reduced demand despite all the macro noise.",
-            "date": "Mon, 17 Mar 2025 12:53:00 GMT",
+            "title": "Elon Musk discovers ‘magic money computers,’ or how the U.S. financial system actually works",
+            "link": "https://www.marketwatch.com/story/elon-musk-discovers-magic-money-computers-or-how-the-u-s-financial-system-actually-works-43a21350?mod=mw_rss_topstories",
+            "summary": "Elon Musk is the chief executive of Tesla and SpaceX and the brainchild of the Department of Government Efficiency. He appeared on Sen. Ted Cruz's podcast to discuss what he’s learned in Washington.",
+            "date": "Tue, 18 Mar 2025 12:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYCX",
+            "stock_ticker": "ELON",
             "impact": "Neutral"
         },
         {
-            "title": "Women’s March Madness teams are being paid for the first time — but they’re splitting $200 million less than the men",
-            "link": "https://www.marketwatch.com/story/womens-march-madness-teams-are-being-paid-for-the-first-time-but-heres-why-theyre-splitting-200-million-less-than-the-men-31c44b36?mod=mw_rss_topstories",
-            "summary": "Players won’t receive any of the prize money themselves, but their schools’ basketball programs and athletic departments reap the rewards. The winner will be announced at a later date.",
-            "date": "Mon, 17 Mar 2025 12:43:00 GMT",
+            "title": "Tesla’s stock gets its lowest price target from a bull. It still implies 39% upside.",
+            "link": "https://www.marketwatch.com/story/teslas-stock-gets-its-lowest-price-target-from-a-bull-it-still-implies-39-upside-42607967?mod=mw_rss_topstories",
+            "summary": "RBC Capital Markets cut Tesla’s expected price mark to $320 from $440 on lower projections for robotaxi and self-driving software.",
+            "date": "Tue, 18 Mar 2025 11:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AWH",
+            "stock_ticker": "VTI",
             "impact": "Neutral"
         },
         {
-            "title": "Retail sales in the U.S. barely rise. Is the economy slowing?",
-            "link": "https://www.marketwatch.com/story/retail-sales-in-the-u-s-barely-rise-is-the-economy-slowing-a2ef64b9?mod=mw_rss_topstories",
-            "summary": "Retail sales barely rose in February in another sign the economy might be weakening. Businesses and consumers digest rapid-fire changes in Washington by the Trump White House.",
-            "date": "Mon, 17 Mar 2025 12:40:00 GMT",
+            "title": "Trump’s reciprocal tariffs could bring stagflation — and deflate his support",
+            "link": "https://www.marketwatch.com/story/trumps-reciprocal-tariffs-could-bring-stagflation-and-deflate-his-support-16928961?mod=mw_rss_topstories",
+            "summary": "If tariffs spike inflation and slow U.S. growth, his popularity could suffer. Trump campaigned on bringing prices down. He wants to bring down the cost of living.",
+            "date": "Tue, 18 Mar 2025 11:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SXR=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This sector may be the ‘accidental beneficiary’ of a U.S. growth scare, says JPMorgan",
-            "link": "https://www.marketwatch.com/story/this-sector-may-be-the-accidental-beneficiary-of-a-u-s-growth-scare-says-jpmorgan-c000a1ed?mod=mw_rss_topstories",
-            "summary": "Emerging markets may be helped by a weaker dollar and lower U.S. interest rates, analysts say. They say the dollar is expected to continue to weaken against the euro and yen.",
-            "date": "Mon, 17 Mar 2025 12:39:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THISX",
-            "impact": "Neutral"
+            "stock_ticker": "TRUMPSHIBA-USD",
+            "impact": "Bearish"
         }
     ]
 }
