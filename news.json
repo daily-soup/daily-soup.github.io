@@ -1,125 +1,125 @@
 {
-    "date": "2025-03-18",
+    "date": "2025-03-19",
     "news": [
         {
-            "title": "Google to acquire cloud security startup Wiz for $32 billion",
-            "link": "https://www.cnbc.com/2025/03/18/google-to-acquire-cloud-security-startup-wiz-for-32-billion.html",
-            "summary": "Google signed a \"definitive agreement\" to acquire Wiz for $32 billion in an all-cash deal. The deal is expected to close in the next few weeks.",
-            "date": "Tue, 18 Mar 2025 13:16:06 GMT",
+            "title": "Union sues Trump administration for shutting down student loan repayment plans",
+            "link": "https://www.cnbc.com/2025/03/19/union-sues-trump-for-shutting-down-student-loan-repayment-plans.html",
+            "summary": "The American Federation of Teachers is suing the U.S. Department of Education for shutting down access to affordable repayment plans for student loan borrowers.",
+            "date": "Wed, 19 Mar 2025 13:09:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOOG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Frontier Airlines offers free checked bags promotion in swipe at Southwest",
-            "link": "https://www.cnbc.com/2025/03/18/frontier-airlines-free-checked-bags-promo-southwest.html",
-            "summary": "Frontier Airlines is offering free checked luggage and economy bundles. The bundles come with seat assignments and carry-on bags. The airline is based in Denver, Colorado.",
-            "date": "Tue, 18 Mar 2025 12:40:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "REFR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Slower economic growth is likely ahead with risk of a recession rising, according to the CNBC Fed Survey",
-            "link": "https://www.cnbc.com/2025/03/18/slower-economic-growth-is-likely-ahead-with-risk-of-a-recession-rising-according-to-the-cnbc-fed-survey.html",
-            "summary": "Survey respondents raised the probability of recession to 36% from 23% in January. The 32 survey respondents include fund managers, strategists and analysts.",
-            "date": "Tue, 18 Mar 2025 13:12:02 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0000STES.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Tesla's China rival Zeekr to roll out advanced driver assistance-system for free",
-            "link": "https://www.cnbc.com/2025/03/18/teslas-china-rival-zeekr-to-roll-out-free-advanced-driver-assistance.html",
-            "summary": "Chinese electric car company Zeekr is releasing advanced driver-assistance capabilities to its local customers for free as competition heats up. The company is releasing the technology to its customers in China for free.",
-            "date": "Tue, 18 Mar 2025 11:35:39 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CHH=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "DOJ seeks to boot judge questioning Trump deportations, lawyer warns of 'constitutional crisis'",
-            "link": "https://www.cnbc.com/2025/03/17/trump-deportation-order-venezuela-gang-judge-alien-enemies.html",
-            "summary": "The Trump administration has used the wartime Alien Enemies Act to deport hundreds of alleged Venezuelan gang members to Central America. The deportations have taken place under the guise of fighting the \"Venezuelan drug trade\"",
-            "date": "Tue, 18 Mar 2025 12:27:47 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DOJO30259-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The cost of U.S. imports jump in February. Is it the Trump tariff effect?",
-            "link": "https://www.marketwatch.com/story/the-cost-of-u-s-imports-jump-in-february-is-it-the-trump-tariff-effect-0549f9f7?mod=mw_rss_topstories",
-            "summary": "The cost of imports rose faster than usual in February, perhaps a result of U.S. companies rushing to bring in foreign goods ahead of President Donald Trump's tariffs.",
-            "date": "Tue, 18 Mar 2025 13:06:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Wall Street’s No. 2 bull holds his ground. The logic? Trump’s popularity could get worse.",
-            "link": "https://www.marketwatch.com/story/wall-streets-no-2-bull-holds-his-ground-the-logic-trumps-popularity-could-get-worse-9c55c9f2?mod=mw_rss_topstories",
-            "summary": "Deutsche Bank has the second-highest S&amp;P 500 price target on Wall Street. Deutsche Bank is now alone with the second highest price target in the S&P 500.",
-            "date": "Tue, 18 Mar 2025 12:40:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WBX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Elon Musk discovers ‘magic money computers,’ or how the U.S. financial system actually works",
-            "link": "https://www.marketwatch.com/story/elon-musk-discovers-magic-money-computers-or-how-the-u-s-financial-system-actually-works-43a21350?mod=mw_rss_topstories",
-            "summary": "Elon Musk is the chief executive of Tesla and SpaceX and the brainchild of the Department of Government Efficiency. He appeared on Sen. Ted Cruz's podcast to discuss what he’s learned in Washington.",
-            "date": "Tue, 18 Mar 2025 12:28:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ELON",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Tesla’s stock gets its lowest price target from a bull. It still implies 39% upside.",
-            "link": "https://www.marketwatch.com/story/teslas-stock-gets-its-lowest-price-target-from-a-bull-it-still-implies-39-upside-42607967?mod=mw_rss_topstories",
-            "summary": "RBC Capital Markets cut Tesla’s expected price mark to $320 from $440 on lower projections for robotaxi and self-driving software.",
-            "date": "Tue, 18 Mar 2025 11:50:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump’s reciprocal tariffs could bring stagflation — and deflate his support",
-            "link": "https://www.marketwatch.com/story/trumps-reciprocal-tariffs-could-bring-stagflation-and-deflate-his-support-16928961?mod=mw_rss_topstories",
-            "summary": "If tariffs spike inflation and slow U.S. growth, his popularity could suffer. Trump campaigned on bringing prices down. He wants to bring down the cost of living.",
-            "date": "Tue, 18 Mar 2025 11:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TRUMPSHIBA-USD",
+            "stock_ticker": "ECF=F",
             "impact": "Bearish"
+        },
+        {
+            "title": "Zelenskyy says he will talk to Trump as Russia, Ukraine report overnight strikes",
+            "link": "https://www.cnbc.com/2025/03/19/zelenskyy-says-he-will-talk-to-trump-as-russia-ukraine-report-overnight-strikes.html",
+            "summary": "Ukrainian President Volodymyr Zelenskyy said he would hold talks with White House leader Donald Trump. Moscow and Kyiv reported overnight attacks hours.",
+            "date": "Wed, 19 Mar 2025 13:12:20 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HO=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Meta's potential exit from Delaware had governor worried enough to call special weekend meetings",
+            "link": "https://www.cnbc.com/2025/03/19/meta-billions-of-dollars-at-stake-in-overhaul-delaware-corporate-law.html",
+            "summary": "Delaware lawmakers debate a bill that could dramatically alter the state's corporate law. Facebook founder and CEO Mark Zuckerberg has a lot at stake in the outcome.",
+            "date": "Wed, 19 Mar 2025 12:56:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "8637.HK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Weekly mortgage demand pulls back, as interest rates rise for the first time in 9 weeks",
+            "link": "https://www.cnbc.com/2025/03/19/weekly-mortgage-demand-pulls-back-as-interest-rates-rise-for-the-first-time-in-9-weeks.html",
+            "summary": "Mortgage rates fell for the first time in nine weeks, causing a pullback in mortgage demand, especially refinancing. Mortgage rates fell in the first week of November.",
+            "date": "Wed, 19 Mar 2025 12:09:22 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSLW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Tencent profit surges 90% as it touts AI revenue boost and ramps up spending",
+            "link": "https://www.cnbc.com/2025/03/19/tencent-q4-2024-earnings-report.html",
+            "summary": "Tencent posted a fourth-quarter beat on top and bottom line driven by a surge in gaming and advertising revenue. Tencent on Wednesday posted aFourth-quarter Beat on Top and Bottom Line driven by Surge in Gaming and Advertising Revenue.",
+            "date": "Wed, 19 Mar 2025 10:01:03 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TCEHY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "European defense stocks dip from peaks after traders ‘buy the rumor, sell the fact’",
+            "link": "https://www.marketwatch.com/story/european-defense-stocks-dip-from-peaks-after-traders-buy-the-rumor-sell-the-fact-7c76d1e6?mod=mw_rss_topstories",
+            "summary": "There's now looming uncertainty about how exactly new military spending will be allocated. There’s now looming Uncertainty about How Exactly New Military Spending will Be allocated.",
+            "date": "Wed, 19 Mar 2025 12:53:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "7F=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "There are new fears about Fed firings after FTC dismissals. What analysts are saying.",
+            "link": "https://www.marketwatch.com/story/trump-and-the-fed-are-getting-along-but-now-there-are-new-fears-about-firings-0024f7b9?mod=mw_rss_topstories",
+            "summary": "The action taken late on Tuesday is again raising the question of Trump’s authority to dismiss Fed officials. The action was taken late Tuesday, raising the questions of whether the president has the authority to do so.",
+            "date": "Wed, 19 Mar 2025 12:47:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MAY-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Netflix paid $55 million for a show. Prosecutors say the creator blew it on Rolls Royces and crypto.",
+            "link": "https://www.marketwatch.com/story/netflix-paid-55-million-for-a-show-prosecutors-say-the-creator-blew-it-on-rolls-royces-and-crypto-8f065cf6?mod=mw_rss_topstories",
+            "summary": "Netflix paid Carl Erik Rinsch top dollar during the peak streaming boom for a sci-fi series he never delivered, prosecutors say. He lost it all on bad investments and luxury goods, prosecutors said.",
+            "date": "Wed, 19 Mar 2025 12:17:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NFLX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "General Mills sees slump in snack sales as customers focus on essentials",
+            "link": "https://www.marketwatch.com/story/snack-sale-slowdown-impacts-general-mills-revenue-as-stock-falls-22f32745?mod=mw_rss_topstories",
+            "summary": "’s organic net sales “finished below our expectations,” the company said in a statement. The company said that organic net Sales ‘finished below’ its expectations.",
+            "date": "Wed, 19 Mar 2025 12:08:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Oil prices tick lower after Russia agrees to 30-day halt on energy-infrastructure attacks",
+            "link": "https://www.marketwatch.com/story/oil-prices-tick-lower-after-russia-agrees-to-30-day-halt-on-energy-infrastructure-attacks-38ee9ce2?mod=mw_rss_topstories",
+            "summary": "Russian President Vladimir Putin rejected a full cease-fire in the country’s invasion of Ukraine. Putin agreed to a mutual halt on energy infrastructure for 30 days.",
+            "date": "Wed, 19 Mar 2025 12:07:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CL=F",
+            "impact": "Neutral"
         }
     ]
 }
