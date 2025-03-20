@@ -1,124 +1,124 @@
 {
-    "date": "2025-03-19",
+    "date": "2025-03-20",
     "news": [
         {
-            "title": "Union sues Trump administration for shutting down student loan repayment plans",
-            "link": "https://www.cnbc.com/2025/03/19/union-sues-trump-for-shutting-down-student-loan-repayment-plans.html",
-            "summary": "The American Federation of Teachers is suing the U.S. Department of Education for shutting down access to affordable repayment plans for student loan borrowers.",
-            "date": "Wed, 19 Mar 2025 13:09:18 GMT",
+            "title": "Trump says the Fed should cut rates to ease the economy’s transition to his tariffs",
+            "link": "https://www.cnbc.com/2025/03/20/trump-says-the-fed-should-cut-rates-to-ease-the-economys-transition-to-his-tariffs.html",
+            "summary": "President Donald Trump is encouraging the central bank to cut interest rates as a backstop for his tariff plans. President Donald Trump wants the Central bank to reduce interest rates to protect the economy.",
+            "date": "Thu, 20 Mar 2025 13:14:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ECF=F",
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Klarna lands buy now, pay later deal with DoorDash, notching another win ahead of IPO",
+            "link": "https://www.cnbc.com/2025/03/20/klarna-lands-buy-now-pay-later-deal-with-doordash-ahead-of-ipo.html",
+            "summary": "Klarna is partnering with DoorDash to give users of the restaurant delivery service more ways to pay for their meals. Klarna and DoorDash will work together to make it easier for people to order food and pay for it.",
+            "date": "Thu, 20 Mar 2025 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SITE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "AMD's Lisa Su has already vanquished Intel. Now she's going after Nvidia",
+            "link": "https://www.cnbc.com/2025/03/20/amds-lisa-su-has-already-beaten-intel-now-comes-nvidia.html",
+            "summary": " AMD CEO Lisa Su is an anomaly in semiconductors. She is the only woman to lead a major player in the industry. Su is also the first female CEO of a major U.S. chipmaker.",
+            "date": "Thu, 20 Mar 2025 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AMDS250321C00016000",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Darden Restaurants sales disappoint as Olive Garden, LongHorn Steakhouse miss expectations",
+            "link": "https://www.cnbc.com/2025/03/20/darden-restaurants-dri-q3-2025-earnings.html",
+            "summary": "Olive Garden and LongHorn Steakhouse reported weaker-than-expected same-store sales growth in Darden's latest quarter.",
+            "date": "Thu, 20 Mar 2025 12:49:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DRI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump open to extending Chevron's license to produce oil in Venezuela, WSJ reports",
+            "link": "https://www.cnbc.com/2025/03/20/trump-open-to-extending-chevrons-license-to-produce-oil-in-venezuela-wsj-reports.html",
+            "summary": "The Trump administration had given Chevron until April 3 to wind down its operations. The Trump administration has given Chevron a deadline of April 3.",
+            "date": "Thu, 20 Mar 2025 12:44:52 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
             "impact": "Bearish"
         },
         {
-            "title": "Zelenskyy says he will talk to Trump as Russia, Ukraine report overnight strikes",
-            "link": "https://www.cnbc.com/2025/03/19/zelenskyy-says-he-will-talk-to-trump-as-russia-ukraine-report-overnight-strikes.html",
-            "summary": "Ukrainian President Volodymyr Zelenskyy said he would hold talks with White House leader Donald Trump. Moscow and Kyiv reported overnight attacks hours.",
-            "date": "Wed, 19 Mar 2025 13:12:20 GMT",
+            "title": "U.S. jobless claims still show few private-sector layoffs, but more ex-federal workers get benefits",
+            "link": "https://www.marketwatch.com/story/u-s-jobless-claims-still-show-few-private-sector-layoffs-but-more-ex-federal-workers-get-benefits-5576495b?mod=mw_rss_topstories",
+            "summary": "The private sector is still culling very few jobs, the latest report on jobless claims shows. But more federal workers fired by the Trump administration are applying for benefits.",
+            "date": "Thu, 20 Mar 2025 12:44:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HO=F",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Meta's potential exit from Delaware had governor worried enough to call special weekend meetings",
-            "link": "https://www.cnbc.com/2025/03/19/meta-billions-of-dollars-at-stake-in-overhaul-delaware-corporate-law.html",
-            "summary": "Delaware lawmakers debate a bill that could dramatically alter the state's corporate law. Facebook founder and CEO Mark Zuckerberg has a lot at stake in the outcome.",
-            "date": "Wed, 19 Mar 2025 12:56:01 GMT",
+            "title": "Remember when the nickel market went haywire? The LME was just fined, 3 years later",
+            "link": "https://www.marketwatch.com/story/remember-when-the-nickel-market-went-haywire-the-lme-was-just-fined-3-years-later-9ff54d41?mod=mw_rss_topstories",
+            "summary": "The U.K. financial regulator says the LME’s systems and controls were inadequate. The LME says it is investigating the allegations.",
+            "date": "Thu, 20 Mar 2025 12:42:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "8637.HK",
+            "stock_ticker": "0P0000YI4F.F",
             "impact": "Neutral"
         },
         {
-            "title": "Weekly mortgage demand pulls back, as interest rates rise for the first time in 9 weeks",
-            "link": "https://www.cnbc.com/2025/03/19/weekly-mortgage-demand-pulls-back-as-interest-rates-rise-for-the-first-time-in-9-weeks.html",
-            "summary": "Mortgage rates fell for the first time in nine weeks, causing a pullback in mortgage demand, especially refinancing. Mortgage rates fell in the first week of November.",
-            "date": "Wed, 19 Mar 2025 12:09:22 GMT",
+            "title": "Here’s the real reason stocks rose after a do-nothing meeting, says this ex-New York Fed trader",
+            "link": "https://www.marketwatch.com/story/heres-the-real-reason-stocks-rose-after-a-do-nothing-meeting-says-this-ex-new-york-fed-trader-a8e85583?mod=mw_rss_topstories",
+            "summary": "There was some debate after the Federal Reserve’s press conference was over whether Chair Jerome Powell was trying to convey a hawkish message or a dovish one.",
+            "date": "Thu, 20 Mar 2025 12:34:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSLW",
+            "stock_ticker": "COIG",
             "impact": "Neutral"
         },
         {
-            "title": "Tencent profit surges 90% as it touts AI revenue boost and ramps up spending",
-            "link": "https://www.cnbc.com/2025/03/19/tencent-q4-2024-earnings-report.html",
-            "summary": "Tencent posted a fourth-quarter beat on top and bottom line driven by a surge in gaming and advertising revenue. Tencent on Wednesday posted aFourth-quarter Beat on Top and Bottom Line driven by Surge in Gaming and Advertising Revenue.",
-            "date": "Wed, 19 Mar 2025 10:01:03 GMT",
+            "title": "Tesla has a big Elon Musk problem, and Wall Street’s biggest bull is not happy",
+            "link": "https://www.marketwatch.com/story/tesla-has-a-big-musk-problem-and-wall-streets-biggest-bull-is-not-happy-f1e94c96?mod=mw_rss_topstories",
+            "summary": "Tesla CEO Elon Musk faces a “moment of truth,” says Wedbush’s Dan Ives. Ives says Musk has two major things he has to do to fix the “crisis’ at the EV giant.",
+            "date": "Thu, 20 Mar 2025 12:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TCEHY",
+            "stock_ticker": "TSLA",
             "impact": "Neutral"
         },
         {
-            "title": "European defense stocks dip from peaks after traders ‘buy the rumor, sell the fact’",
-            "link": "https://www.marketwatch.com/story/european-defense-stocks-dip-from-peaks-after-traders-buy-the-rumor-sell-the-fact-7c76d1e6?mod=mw_rss_topstories",
-            "summary": "There's now looming uncertainty about how exactly new military spending will be allocated. There’s now looming Uncertainty about How Exactly New Military Spending will Be allocated.",
-            "date": "Wed, 19 Mar 2025 12:53:00 GMT",
+            "title": "Prospective home buyers are hoping for a recession to bring down housing prices. Does that make sense?",
+            "link": "https://www.marketwatch.com/story/some-home-buyers-are-hoping-for-a-recession-to-bring-down-housing-prices-are-they-right-cabbc3e8?mod=mw_rss_topstories",
+            "summary": "More than a third of Americans said they want the housing market to crash because they think it would lower home prices and property taxes. More than one-third said they think a crash would lower property taxes and home prices.",
+            "date": "Thu, 20 Mar 2025 12:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "7F=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "There are new fears about Fed firings after FTC dismissals. What analysts are saying.",
-            "link": "https://www.marketwatch.com/story/trump-and-the-fed-are-getting-along-but-now-there-are-new-fears-about-firings-0024f7b9?mod=mw_rss_topstories",
-            "summary": "The action taken late on Tuesday is again raising the question of Trump’s authority to dismiss Fed officials. The action was taken late Tuesday, raising the questions of whether the president has the authority to do so.",
-            "date": "Wed, 19 Mar 2025 12:47:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MAY-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Netflix paid $55 million for a show. Prosecutors say the creator blew it on Rolls Royces and crypto.",
-            "link": "https://www.marketwatch.com/story/netflix-paid-55-million-for-a-show-prosecutors-say-the-creator-blew-it-on-rolls-royces-and-crypto-8f065cf6?mod=mw_rss_topstories",
-            "summary": "Netflix paid Carl Erik Rinsch top dollar during the peak streaming boom for a sci-fi series he never delivered, prosecutors say. He lost it all on bad investments and luxury goods, prosecutors said.",
-            "date": "Wed, 19 Mar 2025 12:17:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NFLX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "General Mills sees slump in snack sales as customers focus on essentials",
-            "link": "https://www.marketwatch.com/story/snack-sale-slowdown-impacts-general-mills-revenue-as-stock-falls-22f32745?mod=mw_rss_topstories",
-            "summary": "’s organic net sales “finished below our expectations,” the company said in a statement. The company said that organic net Sales ‘finished below’ its expectations.",
-            "date": "Wed, 19 Mar 2025 12:08:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Oil prices tick lower after Russia agrees to 30-day halt on energy-infrastructure attacks",
-            "link": "https://www.marketwatch.com/story/oil-prices-tick-lower-after-russia-agrees-to-30-day-halt-on-energy-infrastructure-attacks-38ee9ce2?mod=mw_rss_topstories",
-            "summary": "Russian President Vladimir Putin rejected a full cease-fire in the country’s invasion of Ukraine. Putin agreed to a mutual halt on energy infrastructure for 30 days.",
-            "date": "Wed, 19 Mar 2025 12:07:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "0P00000QLT.F",
             "impact": "Neutral"
         }
     ]
