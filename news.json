@@ -1,124 +1,64 @@
 {
-    "date": "2025-03-20",
+    "date": "2025-03-21",
     "news": [
         {
-            "title": "Trump says the Fed should cut rates to ease the economy’s transition to his tariffs",
-            "link": "https://www.cnbc.com/2025/03/20/trump-says-the-fed-should-cut-rates-to-ease-the-economys-transition-to-his-tariffs.html",
-            "summary": "President Donald Trump is encouraging the central bank to cut interest rates as a backstop for his tariff plans. President Donald Trump wants the Central bank to reduce interest rates to protect the economy.",
-            "date": "Thu, 20 Mar 2025 13:14:00 GMT",
+            "title": "London’s Heathrow Airport closes after major fire nearby, sparking global travel chaos",
+            "link": "https://www.cnbc.com/2025/03/21/heathrow-airport-closes-friday-after-fire-causes-power-outage.html",
+            "summary": "A fire at a nearby electrical substation caused a power outage. Heathrow Airport closed on Friday after the fire at the substation. Airport officials said the power outage was caused by an electrical fire.",
+            "date": "Fri, 21 Mar 2025 13:10:35 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "9O1.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nike expects sales will plunge in current quarter as it faces tariffs, sliding consumer confidence",
+            "link": "https://www.cnbc.com/2025/03/20/nike-nke-q3-2025-earnings.html",
+            "summary": "Nike is trying to execute a turnaround under new CEO Elliott Hill. The company has lost more than $1 billion in the last three years.",
+            "date": "Thu, 20 Mar 2025 22:42:34 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NKE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Accenture is DOGE's first corporate casualty as shares dive on warning that contracts will be cut",
+            "link": "https://www.cnbc.com/2025/03/20/accenture-is-doges-first-corporate-casualty-as-shares-dive-on-warning-contracts-will-be-cut.html",
+            "summary": "Shares of Accenture slid more than 7% on Thursday. The consulting firm said tighter federal spending efforts have begun to weigh on its revenues.",
+            "date": "Fri, 21 Mar 2025 09:53:24 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ACN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia CEO Huang says he was wrong about timeline for quantum, surprised his comments hurt stocks",
+            "link": "https://www.cnbc.com/2025/03/20/nvidia-ceo-huang-says-was-wrong-about-timeline-for-quantum-computing.html",
+            "summary": "Jensen Huang, CEO of Nvidia, says his prior comments about quantum computing came out wrong. Huang made the admission at his company's \"Quantum Day\"",
+            "date": "Thu, 20 Mar 2025 19:00:20 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVDA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump floats sending Tesla attackers to El Salvador prisons as White House rallies to defend Musk",
+            "link": "https://www.cnbc.com/2025/03/20/tesla-charges-arson-trump-musk-bondi-doj.html",
+            "summary": "Elon Musk donated more than $250 million toward President Trump's successful presidential campaign. Tesla and SpaceX boss Elon Musk is the world's richest man.",
+            "date": "Fri, 21 Mar 2025 13:01:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Klarna lands buy now, pay later deal with DoorDash, notching another win ahead of IPO",
-            "link": "https://www.cnbc.com/2025/03/20/klarna-lands-buy-now-pay-later-deal-with-doordash-ahead-of-ipo.html",
-            "summary": "Klarna is partnering with DoorDash to give users of the restaurant delivery service more ways to pay for their meals. Klarna and DoorDash will work together to make it easier for people to order food and pay for it.",
-            "date": "Thu, 20 Mar 2025 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SITE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "AMD's Lisa Su has already vanquished Intel. Now she's going after Nvidia",
-            "link": "https://www.cnbc.com/2025/03/20/amds-lisa-su-has-already-beaten-intel-now-comes-nvidia.html",
-            "summary": " AMD CEO Lisa Su is an anomaly in semiconductors. She is the only woman to lead a major player in the industry. Su is also the first female CEO of a major U.S. chipmaker.",
-            "date": "Thu, 20 Mar 2025 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AMDS250321C00016000",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Darden Restaurants sales disappoint as Olive Garden, LongHorn Steakhouse miss expectations",
-            "link": "https://www.cnbc.com/2025/03/20/darden-restaurants-dri-q3-2025-earnings.html",
-            "summary": "Olive Garden and LongHorn Steakhouse reported weaker-than-expected same-store sales growth in Darden's latest quarter.",
-            "date": "Thu, 20 Mar 2025 12:49:07 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DRI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump open to extending Chevron's license to produce oil in Venezuela, WSJ reports",
-            "link": "https://www.cnbc.com/2025/03/20/trump-open-to-extending-chevrons-license-to-produce-oil-in-venezuela-wsj-reports.html",
-            "summary": "The Trump administration had given Chevron until April 3 to wind down its operations. The Trump administration has given Chevron a deadline of April 3.",
-            "date": "Thu, 20 Mar 2025 12:44:52 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Bearish"
-        },
-        {
-            "title": "U.S. jobless claims still show few private-sector layoffs, but more ex-federal workers get benefits",
-            "link": "https://www.marketwatch.com/story/u-s-jobless-claims-still-show-few-private-sector-layoffs-but-more-ex-federal-workers-get-benefits-5576495b?mod=mw_rss_topstories",
-            "summary": "The private sector is still culling very few jobs, the latest report on jobless claims shows. But more federal workers fired by the Trump administration are applying for benefits.",
-            "date": "Thu, 20 Mar 2025 12:44:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Remember when the nickel market went haywire? The LME was just fined, 3 years later",
-            "link": "https://www.marketwatch.com/story/remember-when-the-nickel-market-went-haywire-the-lme-was-just-fined-3-years-later-9ff54d41?mod=mw_rss_topstories",
-            "summary": "The U.K. financial regulator says the LME’s systems and controls were inadequate. The LME says it is investigating the allegations.",
-            "date": "Thu, 20 Mar 2025 12:42:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0000YI4F.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here’s the real reason stocks rose after a do-nothing meeting, says this ex-New York Fed trader",
-            "link": "https://www.marketwatch.com/story/heres-the-real-reason-stocks-rose-after-a-do-nothing-meeting-says-this-ex-new-york-fed-trader-a8e85583?mod=mw_rss_topstories",
-            "summary": "There was some debate after the Federal Reserve’s press conference was over whether Chair Jerome Powell was trying to convey a hawkish message or a dovish one.",
-            "date": "Thu, 20 Mar 2025 12:34:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "COIG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Tesla has a big Elon Musk problem, and Wall Street’s biggest bull is not happy",
-            "link": "https://www.marketwatch.com/story/tesla-has-a-big-musk-problem-and-wall-streets-biggest-bull-is-not-happy-f1e94c96?mod=mw_rss_topstories",
-            "summary": "Tesla CEO Elon Musk faces a “moment of truth,” says Wedbush’s Dan Ives. Ives says Musk has two major things he has to do to fix the “crisis’ at the EV giant.",
-            "date": "Thu, 20 Mar 2025 12:27:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TSLA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Prospective home buyers are hoping for a recession to bring down housing prices. Does that make sense?",
-            "link": "https://www.marketwatch.com/story/some-home-buyers-are-hoping-for-a-recession-to-bring-down-housing-prices-are-they-right-cabbc3e8?mod=mw_rss_topstories",
-            "summary": "More than a third of Americans said they want the housing market to crash because they think it would lower home prices and property taxes. More than one-third said they think a crash would lower property taxes and home prices.",
-            "date": "Thu, 20 Mar 2025 12:10:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P00000QLT.F",
             "impact": "Neutral"
         }
     ]
