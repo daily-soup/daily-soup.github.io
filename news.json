@@ -1,64 +1,64 @@
 {
-    "date": "2025-03-21",
+    "date": "2025-03-22",
     "news": [
         {
-            "title": "London’s Heathrow Airport closes after major fire nearby, sparking global travel chaos",
-            "link": "https://www.cnbc.com/2025/03/21/heathrow-airport-closes-friday-after-fire-causes-power-outage.html",
-            "summary": "A fire at a nearby electrical substation caused a power outage. Heathrow Airport closed on Friday after the fire at the substation. Airport officials said the power outage was caused by an electrical fire.",
-            "date": "Fri, 21 Mar 2025 13:10:35 GMT",
+            "title": "Crypto's long battle with SEC comes to a close with Ripple victory",
+            "link": "https://www.cnbc.com/2025/03/22/cryptos-long-battle-with-sec-comes-to-a-close-with-ripple-victory.html",
+            "summary": "Ripple said this week that the SEC had officially dropped its four-year-old lawsuit against the company. It was the end of a long battle between the regulator and crypto.",
+            "date": "Sat, 22 Mar 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "9O1.F",
+            "stock_ticker": "CSTR.V",
             "impact": "Neutral"
         },
         {
-            "title": "Nike expects sales will plunge in current quarter as it faces tariffs, sliding consumer confidence",
-            "link": "https://www.cnbc.com/2025/03/20/nike-nke-q3-2025-earnings.html",
-            "summary": "Nike is trying to execute a turnaround under new CEO Elliott Hill. The company has lost more than $1 billion in the last three years.",
-            "date": "Thu, 20 Mar 2025 22:42:34 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NKE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Accenture is DOGE's first corporate casualty as shares dive on warning that contracts will be cut",
-            "link": "https://www.cnbc.com/2025/03/20/accenture-is-doges-first-corporate-casualty-as-shares-dive-on-warning-contracts-will-be-cut.html",
-            "summary": "Shares of Accenture slid more than 7% on Thursday. The consulting firm said tighter federal spending efforts have begun to weigh on its revenues.",
-            "date": "Fri, 21 Mar 2025 09:53:24 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ACN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Nvidia CEO Huang says he was wrong about timeline for quantum, surprised his comments hurt stocks",
-            "link": "https://www.cnbc.com/2025/03/20/nvidia-ceo-huang-says-was-wrong-about-timeline-for-quantum-computing.html",
-            "summary": "Jensen Huang, CEO of Nvidia, says his prior comments about quantum computing came out wrong. Huang made the admission at his company's \"Quantum Day\"",
-            "date": "Thu, 20 Mar 2025 19:00:20 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NVDA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump floats sending Tesla attackers to El Salvador prisons as White House rallies to defend Musk",
-            "link": "https://www.cnbc.com/2025/03/20/tesla-charges-arson-trump-musk-bondi-doj.html",
-            "summary": "Elon Musk donated more than $250 million toward President Trump's successful presidential campaign. Tesla and SpaceX boss Elon Musk is the world's richest man.",
-            "date": "Fri, 21 Mar 2025 13:01:41 GMT",
+            "title": "Trump says 'there'll be flexibility' on reciprocal tariffs",
+            "link": "https://www.cnbc.com/2025/03/21/trump-says-therell-be-flexibility-on-reciprocal-tariffs.html",
+            "summary": "President Donald Trump has issued a flurry of tariff announcements since retaking the White House. The announcements have fanning investor uncertainty and fears of a major trade war.",
+            "date": "Fri, 21 Mar 2025 18:04:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Heathrow Airport reopens after nearby fire — but travellers told to expect delays",
+            "link": "https://www.cnbc.com/2025/03/22/heathrow-airport-reopens-after-nearby-fire-but-travellers-still-face-major-disruption.html",
+            "summary": "British Airways expects 85% of its Saturday Heathrow schedule to run as planned. But the airline warned customers to expect delays at the airport.",
+            "date": "Sat, 22 Mar 2025 10:12:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CAAP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Michigan nuclear plant shows the challenges the U.S. will face in safely restarting old reactors",
+            "link": "https://www.cnbc.com/2025/03/22/michigan-nuclear-plant-shows-challenges-us-safely-restart-old-reactors-.html",
+            "summary": "The Palisades nuclear power plant aims to reopen in October, but the steam generators need major repairs. The repairs could delay the schedule.",
+            "date": "Sat, 22 Mar 2025 12:50:19 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FMHTX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Carl Icahn brings two directors to Caesars’ board. What could be next as the activist aims to build value",
+            "link": "https://www.cnbc.com/2025/03/22/icahn-brings-two-directors-to-caesars-board-how-the-activist-may-build-value.html",
+            "summary": "Icahn is bringing two directors to the board and a plan to maximize shareholder value. This isn't Icahn's first foray at Caesars.",
+            "date": "Sat, 22 Mar 2025 12:55:26 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CG",
             "impact": "Neutral"
         }
     ]
