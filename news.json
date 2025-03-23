@@ -1,64 +1,64 @@
 {
-    "date": "2025-03-22",
+    "date": "2025-03-23",
     "news": [
         {
-            "title": "Crypto's long battle with SEC comes to a close with Ripple victory",
-            "link": "https://www.cnbc.com/2025/03/22/cryptos-long-battle-with-sec-comes-to-a-close-with-ripple-victory.html",
-            "summary": "Ripple said this week that the SEC had officially dropped its four-year-old lawsuit against the company. It was the end of a long battle between the regulator and crypto.",
-            "date": "Sat, 22 Mar 2025 12:00:01 GMT",
+            "title": "As Binance works toward redemption, CEO says Trump has been ‘fantastic’ for crypto",
+            "link": "https://www.cnbc.com/2025/03/23/binance-ceo-says-trump-has-been-fantastic-for-cryptocurrency.html",
+            "summary": "Binance, the once embattled cryptocurrency exchange, is now navigating a dramatically friendlier political landscape under President Donald Trump. Binance was once one of the most controversial exchanges in the world.",
+            "date": "Sun, 23 Mar 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CSTR.V",
+            "stock_ticker": "AS",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says 'there'll be flexibility' on reciprocal tariffs",
-            "link": "https://www.cnbc.com/2025/03/21/trump-says-therell-be-flexibility-on-reciprocal-tariffs.html",
-            "summary": "President Donald Trump has issued a flurry of tariff announcements since retaking the White House. The announcements have fanning investor uncertainty and fears of a major trade war.",
-            "date": "Fri, 21 Mar 2025 18:04:46 GMT",
+            "title": "5 years into the remote work boom, the return-to-office push is stronger than ever—here's why",
+            "link": "https://www.cnbc.com/2025/03/23/5-years-into-the-remote-work-boom-the-return-to-office-push-is-stronger-than-everheres-why.html",
+            "summary": "Even companies that initially championed the model are changing their tune. The pandemic ushered in a new way of working remotely, but even companies that originally championed it are changing its tune.",
+            "date": "Sun, 23 Mar 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "YM=F",
             "impact": "Neutral"
         },
         {
-            "title": "Heathrow Airport reopens after nearby fire — but travellers told to expect delays",
-            "link": "https://www.cnbc.com/2025/03/22/heathrow-airport-reopens-after-nearby-fire-but-travellers-still-face-major-disruption.html",
-            "summary": "British Airways expects 85% of its Saturday Heathrow schedule to run as planned. But the airline warned customers to expect delays at the airport.",
-            "date": "Sat, 22 Mar 2025 10:12:07 GMT",
+            "title": "Why Trump's economic policies may have canceled the DOGE dividend check, at least for now",
+            "link": "https://www.cnbc.com/2025/03/22/why-trumps-tariff-plan-and-inflation-may-have-cancelled-doge-dividend.html",
+            "summary": "The market is wobbling and inflation will be back if Trump follows through on tariffs threats on April 2. Would a DOGE dividend check hurt or help the economy?",
+            "date": "Sat, 22 Mar 2025 15:14:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CAAP",
+            "stock_ticker": "WHYCX",
             "impact": "Neutral"
         },
         {
-            "title": "Michigan nuclear plant shows the challenges the U.S. will face in safely restarting old reactors",
-            "link": "https://www.cnbc.com/2025/03/22/michigan-nuclear-plant-shows-challenges-us-safely-restart-old-reactors-.html",
-            "summary": "The Palisades nuclear power plant aims to reopen in October, but the steam generators need major repairs. The repairs could delay the schedule.",
-            "date": "Sat, 22 Mar 2025 12:50:19 GMT",
+            "title": "29-year-old couldn't afford a house in the U.S., so she bought one sight unseen in Italy: 'I plan to use it like a retirement plan'",
+            "link": "https://www.cnbc.com/2025/03/22/american-couldnt-buy-house-us-bought-italy-house.html",
+            "summary": "Lauren Scott started looking to buy overseas in 2021. She closed on a house in Tuscany, Italy in 2022. Lauren Scott is a freelance writer based in London.",
+            "date": "Sat, 22 Mar 2025 18:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FMHTX",
+            "stock_ticker": "AFFORDABLE.NS",
             "impact": "Neutral"
         },
         {
-            "title": "Carl Icahn brings two directors to Caesars’ board. What could be next as the activist aims to build value",
-            "link": "https://www.cnbc.com/2025/03/22/icahn-brings-two-directors-to-caesars-board-how-the-activist-may-build-value.html",
-            "summary": "Icahn is bringing two directors to the board and a plan to maximize shareholder value. This isn't Icahn's first foray at Caesars.",
-            "date": "Sat, 22 Mar 2025 12:55:26 GMT",
+            "title": "Why it suddenly feels like every fast-food restaurant has fun, flavored drinks",
+            "link": "https://www.cnbc.com/2025/03/23/fast-food-chains-fun-flavored-drinks.html",
+            "summary": "Wendy's, Taco Bell and Chick-fil-A are among the restaurant chains that are looking beyond fountain soda for their drink offerings.",
+            "date": "Sun, 23 Mar 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CG",
+            "stock_ticker": "WHYCX",
             "impact": "Neutral"
         }
     ]
