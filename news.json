@@ -1,64 +1,64 @@
 {
-    "date": "2025-03-23",
+    "date": "2025-03-24",
     "news": [
         {
-            "title": "As Binance works toward redemption, CEO says Trump has been ‘fantastic’ for crypto",
-            "link": "https://www.cnbc.com/2025/03/23/binance-ceo-says-trump-has-been-fantastic-for-cryptocurrency.html",
-            "summary": "Binance, the once embattled cryptocurrency exchange, is now navigating a dramatically friendlier political landscape under President Donald Trump. Binance was once one of the most controversial exchanges in the world.",
-            "date": "Sun, 23 Mar 2025 12:00:01 GMT",
+            "title": "South Korea's Hyundai to announce $20 billion U.S. investment",
+            "link": "https://www.cnbc.com/2025/03/24/south-korea-hyundai-us-investment.html",
+            "summary": "Hyundai is the latest major international conglomerate to announce investments ahead of Trump's April 2 tariff deadline. The South Korean company is one of the world's largest automakers.",
+            "date": "Mon, 24 Mar 2025 13:17:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AS",
+            "stock_ticker": "6Z=F",
             "impact": "Neutral"
         },
         {
-            "title": "5 years into the remote work boom, the return-to-office push is stronger than ever—here's why",
-            "link": "https://www.cnbc.com/2025/03/23/5-years-into-the-remote-work-boom-the-return-to-office-push-is-stronger-than-everheres-why.html",
-            "summary": "Even companies that initially championed the model are changing their tune. The pandemic ushered in a new way of working remotely, but even companies that originally championed it are changing its tune.",
-            "date": "Sun, 23 Mar 2025 13:00:01 GMT",
+            "title": "Tax revenue collected by the IRS set to plummet, report says",
+            "link": "https://www.cnbc.com/2025/03/24/tax-revenue-collected-by-the-irs-set-to-plummet-report-says.html",
+            "summary": "IRS officials are expecting tax revenue to drop by more than 10% by April 15, the Washington Post reported. The IRS is expected to collect $1.2 trillion in tax revenue this year.",
+            "date": "Mon, 24 Mar 2025 13:18:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "YM=F",
+            "stock_ticker": "TAX",
             "impact": "Neutral"
         },
         {
-            "title": "Why Trump's economic policies may have canceled the DOGE dividend check, at least for now",
-            "link": "https://www.cnbc.com/2025/03/22/why-trumps-tariff-plan-and-inflation-may-have-cancelled-doge-dividend.html",
-            "summary": "The market is wobbling and inflation will be back if Trump follows through on tariffs threats on April 2. Would a DOGE dividend check hurt or help the economy?",
-            "date": "Sat, 22 Mar 2025 15:14:08 GMT",
+            "title": "23andMe files for bankruptcy, Anne Wojcicki steps down as CEO",
+            "link": "https://www.cnbc.com/2025/03/24/23andme-files-for-bankruptcy-anne-wojcicki-steps-down-as-ceo.html",
+            "summary": "Anne Wojcicki has resigned from her role as chief executive effective immediately. She will remain a member of the board, though she will not be on the executive committee.",
+            "date": "Mon, 24 Mar 2025 13:03:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYCX",
+            "stock_ticker": "ME",
             "impact": "Neutral"
         },
         {
-            "title": "29-year-old couldn't afford a house in the U.S., so she bought one sight unseen in Italy: 'I plan to use it like a retirement plan'",
-            "link": "https://www.cnbc.com/2025/03/22/american-couldnt-buy-house-us-bought-italy-house.html",
-            "summary": "Lauren Scott started looking to buy overseas in 2021. She closed on a house in Tuscany, Italy in 2022. Lauren Scott is a freelance writer based in London.",
-            "date": "Sat, 22 Mar 2025 18:00:01 GMT",
+            "title": "Google's $32 billion Wiz deal may signal a turning point for slow IPO, M&A markets",
+            "link": "https://www.cnbc.com/2025/03/24/whats-next-for-ipos-ma-after-googles-32-billion-wiz-acquisition.html",
+            "summary": "Google's $32 billion acquisition of Wiz may signal the start of a friendlier initial public offering and deal activity environment. Google bought Wiz for more than $30 billion.",
+            "date": "Mon, 24 Mar 2025 12:33:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AFFORDABLE.NS",
+            "stock_ticker": "JD250620C00032500",
             "impact": "Neutral"
         },
         {
-            "title": "Why it suddenly feels like every fast-food restaurant has fun, flavored drinks",
-            "link": "https://www.cnbc.com/2025/03/23/fast-food-chains-fun-flavored-drinks.html",
-            "summary": "Wendy's, Taco Bell and Chick-fil-A are among the restaurant chains that are looking beyond fountain soda for their drink offerings.",
-            "date": "Sun, 23 Mar 2025 12:00:01 GMT",
+            "title": "United Airlines is raising annual fees for lounges and rewards credit cards. Here's what you need to know",
+            "link": "https://www.cnbc.com/2025/03/24/united-airlines-fees-lounges-rewards-credit-cards.html",
+            "summary": "United is raising annual fees on lounge memberships and credit cards. United is raising Annual Fees on Lounge Memberships and Credit Cards. United will also be raising Annual fees on Club Memberships.",
+            "date": "Mon, 24 Mar 2025 12:31:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYCX",
+            "stock_ticker": "UPS",
             "impact": "Neutral"
         }
     ]
