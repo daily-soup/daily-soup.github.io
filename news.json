@@ -1,64 +1,64 @@
 {
-    "date": "2025-03-24",
+    "date": "2025-03-25",
     "news": [
         {
-            "title": "South Korea's Hyundai to announce $20 billion U.S. investment",
-            "link": "https://www.cnbc.com/2025/03/24/south-korea-hyundai-us-investment.html",
-            "summary": "Hyundai is the latest major international conglomerate to announce investments ahead of Trump's April 2 tariff deadline. The South Korean company is one of the world's largest automakers.",
-            "date": "Mon, 24 Mar 2025 13:17:11 GMT",
+            "title": "China invites U.S. business leaders to Beijing as it tries to decipher Trump's trade plans",
+            "link": "https://www.cnbc.com/2025/03/25/china-invites-us-business-leaders-to-beijing-tries-to-gauge-trump.html",
+            "summary": "China courted the executives of major U.S. businesses this week in a sign of how Beijing seeks to offset trade pressures, rather than retaliate forcefully.",
+            "date": "Tue, 25 Mar 2025 06:27:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "6Z=F",
+            "stock_ticker": "CHH=F",
             "impact": "Neutral"
         },
         {
-            "title": "Tax revenue collected by the IRS set to plummet, report says",
-            "link": "https://www.cnbc.com/2025/03/24/tax-revenue-collected-by-the-irs-set-to-plummet-report-says.html",
-            "summary": "IRS officials are expecting tax revenue to drop by more than 10% by April 15, the Washington Post reported. The IRS is expected to collect $1.2 trillion in tax revenue this year.",
-            "date": "Mon, 24 Mar 2025 13:18:33 GMT",
+            "title": "Trump pledges auto, pharma tariffs in 'near future,' sowing more trade confusion",
+            "link": "https://www.cnbc.com/2025/03/24/trump-tariffs-autos-pharmaceuticals-sectoral-reciprocal.html",
+            "summary": "President Donald Trump has praised tariffs and announced an array of import duties on specific countries and products since taking office. President Trump has announced tariffs on a variety of countries, products and countries.",
+            "date": "Mon, 24 Mar 2025 20:57:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TAX",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "23andMe files for bankruptcy, Anne Wojcicki steps down as CEO",
-            "link": "https://www.cnbc.com/2025/03/24/23andme-files-for-bankruptcy-anne-wojcicki-steps-down-as-ceo.html",
-            "summary": "Anne Wojcicki has resigned from her role as chief executive effective immediately. She will remain a member of the board, though she will not be on the executive committee.",
-            "date": "Mon, 24 Mar 2025 13:03:51 GMT",
+            "title": "Affirm announces JPMorgan Chase merchants can now offer installment loans at checkout",
+            "link": "https://www.cnbc.com/2025/03/25/affirm-jpmorgan-chase-merchants-installment-loans.html",
+            "summary": "U.S. merchants who use JPMorgan to handle payments can now add Affirm to their checkout pages. Affirm is a mobile payment app that works with Apple, Android and Samsung devices.",
+            "date": "Tue, 25 Mar 2025 13:00:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ME",
+            "stock_ticker": "AFRM",
             "impact": "Neutral"
         },
         {
-            "title": "Google's $32 billion Wiz deal may signal a turning point for slow IPO, M&A markets",
-            "link": "https://www.cnbc.com/2025/03/24/whats-next-for-ipos-ma-after-googles-32-billion-wiz-acquisition.html",
-            "summary": "Google's $32 billion acquisition of Wiz may signal the start of a friendlier initial public offering and deal activity environment. Google bought Wiz for more than $30 billion.",
-            "date": "Mon, 24 Mar 2025 12:33:06 GMT",
+            "title": "Napster pioneered music sharing over 25 years ago. It just got bought for $207 million",
+            "link": "https://www.cnbc.com/2025/03/25/napster-pioneered-music-sharing-25-years-ago-bought-for-207-million-.html",
+            "summary": "Napster is getting acquired by Infinite Reality for $207 million. It's the latest chapter for a company whose brand is synonymous with early music sharing.",
+            "date": "Tue, 25 Mar 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JD250620C00032500",
+            "stock_ticker": "TME",
             "impact": "Neutral"
         },
         {
-            "title": "United Airlines is raising annual fees for lounges and rewards credit cards. Here's what you need to know",
-            "link": "https://www.cnbc.com/2025/03/24/united-airlines-fees-lounges-rewards-credit-cards.html",
-            "summary": "United is raising annual fees on lounge memberships and credit cards. United is raising Annual Fees on Lounge Memberships and Credit Cards. United will also be raising Annual fees on Club Memberships.",
-            "date": "Mon, 24 Mar 2025 12:31:17 GMT",
+            "title": "Trump Media shares jump on announcement of ETF deal with Crypto.com",
+            "link": "https://www.cnbc.com/2025/03/24/trump-media-shares-jump-on-announcement-of-etf-deal-with-cryptocom.html",
+            "summary": "President Trump's media company announced an agreement with Crypto.com on Monday to launch ETFs and related products. The deal is expected to be worth an estimated $1 billion.",
+            "date": "Tue, 25 Mar 2025 12:36:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UPS",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         }
     ]
