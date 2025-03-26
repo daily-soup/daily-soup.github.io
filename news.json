@@ -1,64 +1,64 @@
 {
-    "date": "2025-03-25",
+    "date": "2025-03-26",
     "news": [
         {
-            "title": "China invites U.S. business leaders to Beijing as it tries to decipher Trump's trade plans",
-            "link": "https://www.cnbc.com/2025/03/25/china-invites-us-business-leaders-to-beijing-tries-to-gauge-trump.html",
-            "summary": "China courted the executives of major U.S. businesses this week in a sign of how Beijing seeks to offset trade pressures, rather than retaliate forcefully.",
-            "date": "Tue, 25 Mar 2025 06:27:14 GMT",
+            "title": "Treasury Department is set to lay off a 'substantial' number of employees, official says",
+            "link": "https://www.cnbc.com/2025/03/26/treasury-department-is-set-to-lay-off-a-substantial-number-of-employees-official-says.html",
+            "summary": "The department is planning to furlough workers. The move is part of Elen Musk's efforts to shrink the size of the federal government.",
+            "date": "Wed, 26 Mar 2025 12:21:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHH=F",
+            "stock_ticker": "ZB=F",
             "impact": "Neutral"
         },
         {
-            "title": "Trump pledges auto, pharma tariffs in 'near future,' sowing more trade confusion",
-            "link": "https://www.cnbc.com/2025/03/24/trump-tariffs-autos-pharmaceuticals-sectoral-reciprocal.html",
-            "summary": "President Donald Trump has praised tariffs and announced an array of import duties on specific countries and products since taking office. President Trump has announced tariffs on a variety of countries, products and countries.",
-            "date": "Mon, 24 Mar 2025 20:57:54 GMT",
+            "title": "Trump says tariffs coming in April will 'probably be more lenient than reciprocal'",
+            "link": "https://www.cnbc.com/2025/03/26/trump-says-tariffs-coming-in-april-will-probably-be-more-lenient-than-reciprocal.html",
+            "summary": "Investors worry that a more severe approach signaled by the Trump administration would dampen sentiment enough to slow down the economy. The comments come as investors worry about the impact on the U.S. economy.",
+            "date": "Wed, 26 Mar 2025 12:32:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Neutral"
+            "impact": "Bearish"
         },
         {
-            "title": "Affirm announces JPMorgan Chase merchants can now offer installment loans at checkout",
-            "link": "https://www.cnbc.com/2025/03/25/affirm-jpmorgan-chase-merchants-installment-loans.html",
-            "summary": "U.S. merchants who use JPMorgan to handle payments can now add Affirm to their checkout pages. Affirm is a mobile payment app that works with Apple, Android and Samsung devices.",
-            "date": "Tue, 25 Mar 2025 13:00:33 GMT",
+            "title": "Amazon is testing shopping, health assistants as it pushes deeper into generative AI",
+            "link": "https://www.cnbc.com/2025/03/25/amazon-testing-shopping-health-assistants-pushes-into-generative-ai.html",
+            "summary": "Amazon is testing new shopping and health assistants. CEO Andy Jassy is pushing employees to build AI apps across the company. The company is also testing a new voice-activated assistant called Alexa.",
+            "date": "Wed, 26 Mar 2025 11:58:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AFRM",
+            "stock_ticker": "AMZN",
             "impact": "Neutral"
         },
         {
-            "title": "Napster pioneered music sharing over 25 years ago. It just got bought for $207 million",
-            "link": "https://www.cnbc.com/2025/03/25/napster-pioneered-music-sharing-25-years-ago-bought-for-207-million-.html",
-            "summary": "Napster is getting acquired by Infinite Reality for $207 million. It's the latest chapter for a company whose brand is synonymous with early music sharing.",
-            "date": "Tue, 25 Mar 2025 12:00:01 GMT",
+            "title": "The Atlantic publishes full Signal thread with Hegseth, Waltz after Trump says texts not classified",
+            "link": "https://www.cnbc.com/2025/03/26/atlantic-publishes-signal-thread-with-trump-vp-vance-hegseth-waltz.html",
+            "summary": "The Signal thread included President Donald Trump's national security advisor Michael Waltz, Defense Secretary Pete Hegseth, Vice President JD Vance and others.",
+            "date": "Wed, 26 Mar 2025 13:13:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TME",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "Trump Media shares jump on announcement of ETF deal with Crypto.com",
-            "link": "https://www.cnbc.com/2025/03/24/trump-media-shares-jump-on-announcement-of-etf-deal-with-cryptocom.html",
-            "summary": "President Trump's media company announced an agreement with Crypto.com on Monday to launch ETFs and related products. The deal is expected to be worth an estimated $1 billion.",
-            "date": "Tue, 25 Mar 2025 12:36:37 GMT",
+            "title": "Mortgage demand from homebuyers is strongest in nearly two months, but that's not saying a lot",
+            "link": "https://www.cnbc.com/2025/03/26/weekly-mortgage-demand-from-homebuyers-is-strongest-in-nearly-two-months.html",
+            "summary": "Mortgage rates didn't move much last week, but demand from homebuyers for loans rose to the highest level in nearly two months. Rising inventory may be why.",
+            "date": "Wed, 26 Mar 2025 12:36:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "FNMA",
             "impact": "Neutral"
         }
     ]
