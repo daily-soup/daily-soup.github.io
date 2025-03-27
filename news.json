@@ -1,64 +1,64 @@
 {
-    "date": "2025-03-26",
+    "date": "2025-03-27",
     "news": [
         {
-            "title": "Treasury Department is set to lay off a 'substantial' number of employees, official says",
-            "link": "https://www.cnbc.com/2025/03/26/treasury-department-is-set-to-lay-off-a-substantial-number-of-employees-official-says.html",
-            "summary": "The department is planning to furlough workers. The move is part of Elen Musk's efforts to shrink the size of the federal government.",
-            "date": "Wed, 26 Mar 2025 12:21:39 GMT",
+            "title": "GM, Stellantis shares fall after Trump's auto tariff announcement",
+            "link": "https://www.cnbc.com/2025/03/27/auto-stocks-trump-tariffs.html",
+            "summary": "President Donald Trump said he would place 25% tariffs on \"all cars that are not made in the United States\" Trump said the cars would have to be made \"in the U.S.\"",
+            "date": "Thu, 27 Mar 2025 13:14:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZB=F",
+            "stock_ticker": "GM",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says tariffs coming in April will 'probably be more lenient than reciprocal'",
-            "link": "https://www.cnbc.com/2025/03/26/trump-says-tariffs-coming-in-april-will-probably-be-more-lenient-than-reciprocal.html",
-            "summary": "Investors worry that a more severe approach signaled by the Trump administration would dampen sentiment enough to slow down the economy. The comments come as investors worry about the impact on the U.S. economy.",
-            "date": "Wed, 26 Mar 2025 12:32:26 GMT",
+            "title": "U.S. health department plans to slash 10,000 jobs as RFK Jr. upends agencies",
+            "link": "https://www.cnbc.com/2025/03/27/rfk-jr-plans-10000-hhs-job-cuts.html",
+            "summary": "Cuts at Robert F. Kennedy Jr.'s Health and Human Services Department could affect teams that respond to outbreaks and help with insurance coverage.",
+            "date": "Thu, 27 Mar 2025 13:10:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Amazon is testing shopping, health assistants as it pushes deeper into generative AI",
-            "link": "https://www.cnbc.com/2025/03/25/amazon-testing-shopping-health-assistants-pushes-into-generative-ai.html",
-            "summary": "Amazon is testing new shopping and health assistants. CEO Andy Jassy is pushing employees to build AI apps across the company. The company is also testing a new voice-activated assistant called Alexa.",
-            "date": "Wed, 26 Mar 2025 11:58:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AMZN",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "The Atlantic publishes full Signal thread with Hegseth, Waltz after Trump says texts not classified",
-            "link": "https://www.cnbc.com/2025/03/26/atlantic-publishes-signal-thread-with-trump-vp-vance-hegseth-waltz.html",
-            "summary": "The Signal thread included President Donald Trump's national security advisor Michael Waltz, Defense Secretary Pete Hegseth, Vice President JD Vance and others.",
-            "date": "Wed, 26 Mar 2025 13:13:53 GMT",
+            "title": "Oil executives bluntly criticize Trump tariffs and 'drill, baby, drill' in anonymous survey",
+            "link": "https://www.cnbc.com/2025/03/27/oil-execs-slam-trumps-tariffs-and-drill-baby-drill-in-survey.html",
+            "summary": "The blunt responses stand in contrast to oil executive public remarks at the industry's big energy conference in Houston. The blunt responses stood in contrast with oil exec public remarks in the past.",
+            "date": "Thu, 27 Mar 2025 13:08:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "CL=F",
             "impact": "Neutral"
         },
         {
-            "title": "Mortgage demand from homebuyers is strongest in nearly two months, but that's not saying a lot",
-            "link": "https://www.cnbc.com/2025/03/26/weekly-mortgage-demand-from-homebuyers-is-strongest-in-nearly-two-months.html",
-            "summary": "Mortgage rates didn't move much last week, but demand from homebuyers for loans rose to the highest level in nearly two months. Rising inventory may be why.",
-            "date": "Wed, 26 Mar 2025 12:36:18 GMT",
+            "title": "Trump's tariffs push will hit the U.S. harder than Europe in the short term, Santander chair says",
+            "link": "https://www.cnbc.com/2025/03/27/trumps-tariffs-push-will-hit-the-us-harder-than-europe-santander.html",
+            "summary": "\"On a relative basis, in the short term, Europe will be less affected than the U.S.,\" Santander's Ana Botín said.",
+            "date": "Thu, 27 Mar 2025 13:04:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FNMA",
+            "stock_ticker": "BAGS31840-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "GameStop shares drop, reversing Wednesday's rally, on planned debt issue to buy bitcoin",
+            "link": "https://www.cnbc.com/2025/03/27/gamestop-shares-drop-on-planned-debt-issue-to-buy-bitcoin.html",
+            "summary": "The latest sell-off came after the video game chain announced plans to raise $1.3 billion through the sale of convertible senior notes to purchase bitcoin.",
+            "date": "Thu, 27 Mar 2025 12:44:52 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GME",
             "impact": "Neutral"
         }
     ]
