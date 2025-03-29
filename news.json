@@ -1,64 +1,64 @@
 {
-    "date": "2025-03-28",
+    "date": "2025-03-29",
     "news": [
         {
-            "title": "Core inflation in February hits 2.8%, higher than expected; spending increases 0.4%",
-            "link": "https://www.cnbc.com/2025/03/28/pce-inflation-february-2025-.html",
-            "summary": "The PCE price index was expected to increase 0.3% in February. Spending was projected to rise 0.5% in the same month.",
-            "date": "Fri, 28 Mar 2025 13:14:33 GMT",
+            "title": "Elon Musk says xAI has acquired X in deal that values social media site at $33 billion",
+            "link": "https://www.cnbc.com/2025/03/28/elon-musk-says-xai-has-acquired-x-in-deal-that-values-social-media-site-at-33-billion.html",
+            "summary": "Elon Musk says his startup xAI has acquired his social media company X. In a social media post on Friday, Musk said xAI had acquired X.",
+            "date": "Sat, 29 Mar 2025 11:39:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CRWV",
+            "stock_ticker": "ELON",
+            "impact": "Bullish"
+        },
+        {
+            "title": "JD Vance accuses Denmark of failing to keep Greenland secure as he slams European allies",
+            "link": "https://www.cnbc.com/2025/03/29/jd-vance-accuses-denmark-of-failing-to-keep-greenland-secure.html",
+            "summary": "Vance's visit comes as President Donald Trump hardens his rhetoric about taking control of Greenland. Trump has said he wants to take control of the island nation.",
+            "date": "Sat, 29 Mar 2025 10:17:39 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "JD",
             "impact": "Neutral"
         },
         {
-            "title": "CoreWeave prices IPO at $40 a share, below expected range",
-            "link": "https://www.cnbc.com/2025/03/27/coreweave-prices-ipo-at-40-a-share-below-expected-range.html",
-            "summary": "CoreWeave is trying to thaw the tech IPO market with one of the biggest offerings in years. But investors have expressed some skepticism.",
-            "date": "Fri, 28 Mar 2025 01:51:05 GMT",
+            "title": "Why tariffs could push car prices even higher",
+            "link": "https://www.cnbc.com/2025/03/29/why-tariffs-could-push-car-prices-even-higher.html",
+            "summary": "Tariffs will likely push car prices past the record highs seen in recent years. Tariffs are expected to be the biggest factor in the rise in car prices.",
+            "date": "Sat, 29 Mar 2025 12:00:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CRWV",
+            "stock_ticker": "WHYCX",
             "impact": "Neutral"
         },
         {
-            "title": "Russia's Putin says it would be a 'profound mistake' to dismiss Trump's push for Greenland",
-            "link": "https://www.cnbc.com/2025/03/28/putin-says-it-would-be-a-mistake-to-dismiss-trumps-push-for-greenland.html",
-            "summary": "Vladimir Putin says it would be foolish to dismiss U.S. President Donald Trump's push for control over Greenland. Putin: It would be a mistake to dismiss Trump's bid to take control of Greenland.",
-            "date": "Fri, 28 Mar 2025 10:27:09 GMT",
+            "title": "Trump commutes sentence of Ozy Media founder Carlos Watson just before prison surrender",
+            "link": "https://www.cnbc.com/2025/03/28/trump-commutes-sentences-of-ozy-media-founder-carlos-watson-and-company.html",
+            "summary": "Ozy falsely claimed to have deals with Google and Oprah Winfrey. Company and CEO Watson were criminally charged. Ozy is now being run by ex-Navy SEALs.",
+            "date": "Sat, 29 Mar 2025 11:38:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PUT-USD",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Nikola founder Trevor Milton says Trump pardoned him in securities fraud case",
-            "link": "https://www.cnbc.com/2025/03/28/trump-pardons-nikola-trevor-milton-ceo-securities-fraud-electric-vehicle.html",
-            "summary": "Milton compared his prosecution by the Justice Department to its criminal cases against President Trump. He said he had been \"railroaded\" in the fraud case.",
-            "date": "Fri, 28 Mar 2025 13:04:30 GMT",
+            "title": "Why it's so hard to fix the U.S. air traffic control problems",
+            "link": "https://www.cnbc.com/2025/03/29/why-its-so-hard-to-fix-the-us-air-traffic-control-problems.html",
+            "summary": "The U.S. has a severe shortage of air traffic controllers. There are currently 10,800 certified controllers but the country needs to have more than 14,000.",
+            "date": "Sat, 29 Mar 2025 12:00:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NKLAQ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump's new auto tariffs will likely drive up car prices by thousands of dollars",
-            "link": "https://www.cnbc.com/2025/03/27/trump-auto-tariffs-car-prices-analysts.html",
-            "summary": "President Donald Trump announced the new auto duties one week before his sweeping \"reciprocal tariff\" plan is set to begin. The new duties are expected to take effect on July 1.",
-            "date": "Thu, 27 Mar 2025 19:24:16 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BAGS31840-USD",
+            "stock_ticker": "WHYCX",
             "impact": "Neutral"
         }
     ]
