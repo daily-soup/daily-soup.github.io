@@ -1,28 +1,28 @@
 {
-    "date": "2025-03-29",
+    "date": "2025-03-30",
     "news": [
         {
-            "title": "Elon Musk says xAI has acquired X in deal that values social media site at $33 billion",
-            "link": "https://www.cnbc.com/2025/03/28/elon-musk-says-xai-has-acquired-x-in-deal-that-values-social-media-site-at-33-billion.html",
-            "summary": "Elon Musk says his startup xAI has acquired his social media company X. In a social media post on Friday, Musk said xAI had acquired X.",
-            "date": "Sat, 29 Mar 2025 11:39:41 GMT",
+            "title": "Nvidia turned CoreWeave into a major player in AI years before helping to save its IPO",
+            "link": "https://www.cnbc.com/2025/03/30/coreweaves-7-year-journey-to-ipo-wound-through-crypto-before-ai.html",
+            "summary": "CoreWeave has found a big market in selling Nvidia's popular AI processors. But the company has a challenging story to sell to public investors.",
+            "date": "Sun, 30 Mar 2025 11:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELON",
-            "impact": "Bullish"
+            "stock_ticker": "NVDA",
+            "impact": "Neutral"
         },
         {
-            "title": "JD Vance accuses Denmark of failing to keep Greenland secure as he slams European allies",
-            "link": "https://www.cnbc.com/2025/03/29/jd-vance-accuses-denmark-of-failing-to-keep-greenland-secure.html",
-            "summary": "Vance's visit comes as President Donald Trump hardens his rhetoric about taking control of Greenland. Trump has said he wants to take control of the island nation.",
-            "date": "Sat, 29 Mar 2025 10:17:39 GMT",
+            "title": "In Trump era, companies are rebranding DEI efforts, not giving up",
+            "link": "https://www.cnbc.com/2025/03/30/in-trump-era-companies-are-rebranding-dei-efforts-not-giving-up.html",
+            "summary": "Most companies are continuing related work, but shifting the language. Most companies are not changing the name of their products. They are just changing the language they use.",
+            "date": "Sun, 30 Mar 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JD",
+            "stock_ticker": "CRWV",
             "impact": "Neutral"
         },
         {
@@ -38,28 +38,28 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump commutes sentence of Ozy Media founder Carlos Watson just before prison surrender",
-            "link": "https://www.cnbc.com/2025/03/28/trump-commutes-sentences-of-ozy-media-founder-carlos-watson-and-company.html",
-            "summary": "Ozy falsely claimed to have deals with Google and Oprah Winfrey. Company and CEO Watson were criminally charged. Ozy is now being run by ex-Navy SEALs.",
-            "date": "Sat, 29 Mar 2025 11:38:27 GMT",
+            "title": "Novo Nordisk's diabetes pill slashes risk of cardiovascular complications by 14% after four years",
+            "link": "https://www.cnbc.com/2025/03/29/novo-nordisks-diabetes-pill-rybelsus-slashes-cardiovascular-risk.html",
+            "summary": "The results pave the way for Rybelsus to become a new treatment option for people living with diabetes and established heart disease. The results are expected to be published in the Journal of the American College of Cardiology.",
+            "date": "Sat, 29 Mar 2025 19:02:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "NVO",
             "impact": "Neutral"
         },
         {
-            "title": "Why it's so hard to fix the U.S. air traffic control problems",
-            "link": "https://www.cnbc.com/2025/03/29/why-its-so-hard-to-fix-the-us-air-traffic-control-problems.html",
-            "summary": "The U.S. has a severe shortage of air traffic controllers. There are currently 10,800 certified controllers but the country needs to have more than 14,000.",
-            "date": "Sat, 29 Mar 2025 12:00:02 GMT",
+            "title": "Elon Musk says xAI has acquired X in deal that values social media site at $33 billion",
+            "link": "https://www.cnbc.com/2025/03/28/elon-musk-says-xai-has-acquired-x-in-deal-that-values-social-media-site-at-33-billion.html",
+            "summary": "Elon Musk says his startup xAI has acquired his social media company X. In a social media post on Friday, Musk said xAI had acquired X.",
+            "date": "Sat, 29 Mar 2025 11:39:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYCX",
-            "impact": "Neutral"
+            "stock_ticker": "ELON",
+            "impact": "Bullish"
         }
     ]
 }
