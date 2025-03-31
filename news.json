@@ -1,64 +1,64 @@
 {
-    "date": "2025-03-30",
+    "date": "2025-03-31",
     "news": [
         {
-            "title": "Nvidia turned CoreWeave into a major player in AI years before helping to save its IPO",
-            "link": "https://www.cnbc.com/2025/03/30/coreweaves-7-year-journey-to-ipo-wound-through-crypto-before-ai.html",
-            "summary": "CoreWeave has found a big market in selling Nvidia's popular AI processors. But the company has a challenging story to sell to public investors.",
-            "date": "Sun, 30 Mar 2025 11:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NVDA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "In Trump era, companies are rebranding DEI efforts, not giving up",
-            "link": "https://www.cnbc.com/2025/03/30/in-trump-era-companies-are-rebranding-dei-efforts-not-giving-up.html",
-            "summary": "Most companies are continuing related work, but shifting the language. Most companies are not changing the name of their products. They are just changing the language they use.",
-            "date": "Sun, 30 Mar 2025 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CRWV",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why tariffs could push car prices even higher",
-            "link": "https://www.cnbc.com/2025/03/29/why-tariffs-could-push-car-prices-even-higher.html",
-            "summary": "Tariffs will likely push car prices past the record highs seen in recent years. Tariffs are expected to be the biggest factor in the rise in car prices.",
-            "date": "Sat, 29 Mar 2025 12:00:02 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHYCX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Novo Nordisk's diabetes pill slashes risk of cardiovascular complications by 14% after four years",
-            "link": "https://www.cnbc.com/2025/03/29/novo-nordisks-diabetes-pill-rybelsus-slashes-cardiovascular-risk.html",
-            "summary": "The results pave the way for Rybelsus to become a new treatment option for people living with diabetes and established heart disease. The results are expected to be published in the Journal of the American College of Cardiology.",
-            "date": "Sat, 29 Mar 2025 19:02:07 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NVO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Elon Musk says xAI has acquired X in deal that values social media site at $33 billion",
-            "link": "https://www.cnbc.com/2025/03/28/elon-musk-says-xai-has-acquired-x-in-deal-that-values-social-media-site-at-33-billion.html",
-            "summary": "Elon Musk says his startup xAI has acquired his social media company X. In a social media post on Friday, Musk said xAI had acquired X.",
-            "date": "Sat, 29 Mar 2025 11:39:41 GMT",
+            "title": "Elon Musk says people against his DOGE cuts are trying to pressure Tesla to get him to stop",
+            "link": "https://www.cnbc.com/2025/03/31/elon-musk-says-people-against-his-doge-cuts-are-trying-to-pressure-tesla.html",
+            "summary": "Shares of Tesla entered Monday down more than 34% year to date. The stock has been cut nearly in half from its peak in December.",
+            "date": "Mon, 31 Mar 2025 12:55:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "ELON",
+            "impact": "Bearish"
+        },
+        {
+            "title": "First-quarter GDP growth will be just 0.3% as tariffs stoke stagflation conditions, says CNBC survey",
+            "link": "https://www.cnbc.com/2025/03/31/first-quarter-gdp-growth-will-be-just-0point3percent-as-tariffs-stoke-stagflation-conditions-says-cnbc-survey.html",
+            "summary": "The Rapid Update, averaging forecasts from 14 economists for GDP and inflation, sees first quarter growth registering an anemic 0.3%. The first quarter of 2014 is expected to see growth of just 0.2%.",
+            "date": "Mon, 31 Mar 2025 11:24:45 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GDPY-B.TO",
+            "impact": "Bullish"
+        },
+        {
+            "title": "France's Marine Le Pen barred from running for public office for 5 years after embezzlement conviction: Media",
+            "link": "https://www.cnbc.com/2025/03/31/frances-le-pen-awaits-verdict-in-embezzlement-trial.html",
+            "summary": "Marine Le Pen found guilty of misappropriating EU funds in historic trial. Le Pen's conviction could halt her future presidential election hopes.",
+            "date": "Mon, 31 Mar 2025 11:51:54 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WSAC25.MI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Aston Martin shares pop as Canadian billionaire Lawrence Stroll invests more cash",
+            "link": "https://www.cnbc.com/2025/03/31/aston-martin-shares-of-luxury-carmaker-pop-on-plans-to-raise-cash.html",
+            "summary": "Stroll's stake in the company is poised to increase to roughly 33% from about 27.7% as part of the transaction.",
+            "date": "Mon, 31 Mar 2025 13:19:31 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "6AY.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These nuclear companies are leading the race to build advanced small reactors in the U.S.",
+            "link": "https://www.cnbc.com/2025/03/29/these-nuclear-companies-lead-the-race-to-build-small-reactors-in-us.html",
+            "summary": "Leading players have significant financial backing already lined up, often from technology companies and future customers. Many of these companies are based in London or New York, with some in Silicon Valley.",
+            "date": "Sun, 30 Mar 2025 02:15:44 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NNE",
             "impact": "Bullish"
         }
     ]
