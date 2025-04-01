@@ -1,65 +1,65 @@
 {
-    "date": "2025-03-31",
+    "date": "2025-04-01",
     "news": [
         {
-            "title": "Elon Musk says people against his DOGE cuts are trying to pressure Tesla to get him to stop",
-            "link": "https://www.cnbc.com/2025/03/31/elon-musk-says-people-against-his-doge-cuts-are-trying-to-pressure-tesla.html",
-            "summary": "Shares of Tesla entered Monday down more than 34% year to date. The stock has been cut nearly in half from its peak in December.",
-            "date": "Mon, 31 Mar 2025 12:55:46 GMT",
+            "title": "White House considering roughly 20% tariff on most imports, report says",
+            "link": "https://www.cnbc.com/2025/04/01/white-house-considering-roughly-20percent-tariff-on-most-imports-report-says.html",
+            "summary": "The Washington Post report comes a day before April 2, when President Donald Trump is set to announce his larger plans for global trade. The president is expected to announce a new policy on global trade on April 2.",
+            "date": "Tue, 01 Apr 2025 11:58:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELON",
-            "impact": "Bearish"
-        },
-        {
-            "title": "First-quarter GDP growth will be just 0.3% as tariffs stoke stagflation conditions, says CNBC survey",
-            "link": "https://www.cnbc.com/2025/03/31/first-quarter-gdp-growth-will-be-just-0point3percent-as-tariffs-stoke-stagflation-conditions-says-cnbc-survey.html",
-            "summary": "The Rapid Update, averaging forecasts from 14 economists for GDP and inflation, sees first quarter growth registering an anemic 0.3%. The first quarter of 2014 is expected to see growth of just 0.2%.",
-            "date": "Mon, 31 Mar 2025 11:24:45 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GDPY-B.TO",
-            "impact": "Bullish"
-        },
-        {
-            "title": "France's Marine Le Pen barred from running for public office for 5 years after embezzlement conviction: Media",
-            "link": "https://www.cnbc.com/2025/03/31/frances-le-pen-awaits-verdict-in-embezzlement-trial.html",
-            "summary": "Marine Le Pen found guilty of misappropriating EU funds in historic trial. Le Pen's conviction could halt her future presidential election hopes.",
-            "date": "Mon, 31 Mar 2025 11:51:54 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WSAC25.MI",
+            "stock_ticker": "WHWK",
             "impact": "Neutral"
         },
         {
-            "title": "Aston Martin shares pop as Canadian billionaire Lawrence Stroll invests more cash",
-            "link": "https://www.cnbc.com/2025/03/31/aston-martin-shares-of-luxury-carmaker-pop-on-plans-to-raise-cash.html",
-            "summary": "Stroll's stake in the company is poised to increase to roughly 33% from about 27.7% as part of the transaction.",
-            "date": "Mon, 31 Mar 2025 13:19:31 GMT",
+            "title": "TikTok creators, partners remain optimistic ahead of app’s second ban deadline",
+            "link": "https://www.cnbc.com/2025/04/01/tiktok-creators-partners-remain-optimistic-ahead-of-apps-ban-deadline.html",
+            "summary": "TikTok creators and firms say they believe the Chinese-owned app will remain in the U.S. They are, however, hedging their bets.",
+            "date": "Tue, 01 Apr 2025 12:38:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "6AY.F",
+            "stock_ticker": "PEANUT33916-USD",
             "impact": "Neutral"
         },
         {
-            "title": "These nuclear companies are leading the race to build advanced small reactors in the U.S.",
-            "link": "https://www.cnbc.com/2025/03/29/these-nuclear-companies-lead-the-race-to-build-small-reactors-in-us.html",
-            "summary": "Leading players have significant financial backing already lined up, often from technology companies and future customers. Many of these companies are based in London or New York, with some in Silicon Valley.",
-            "date": "Sun, 30 Mar 2025 02:15:44 GMT",
+            "title": "RFK Jr. is a 'conspiracy theorist' endangering lives, say analysts at Howard Lutnick's former firm",
+            "link": "https://www.cnbc.com/2025/04/01/rfk-jr-is-a-conspiracy-theorist-endangering-lives-say-analysts-at-howard-lutnicks-former-firm.html",
+            "summary": "\"HHS cannot be led by an anti-vax, conspiracy theorist with inadequate training,\" analysts at Cantor Fitzgerald said. \"HHS can't be led ... by a conspiracy theorist,\" they said.",
+            "date": "Tue, 01 Apr 2025 12:54:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NNE",
-            "impact": "Bullish"
+            "stock_ticker": "RFKTX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "OpenAI closes $40 billion funding round, largest private tech deal on record",
+            "link": "https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html",
+            "summary": "OpenAI announced the close of its $40 billion financing. It is the most money raised in a single round by a private tech company.",
+            "date": "Tue, 01 Apr 2025 13:14:23 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "OPERATOR-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Eli Lilly sues two pharmacies making copycat Zepbound, Mounjaro",
+            "link": "https://www.cnbc.com/2025/04/01/eli-lilly-sues-strive-and-empower-over-compounded-tirzepatide.html",
+            "summary": "Eli Lilly is suing Strive Pharmacy and Empower Pharmacy for compounding tirzepatide, the active ingredient in Zepbound and Mounjaro.",
+            "date": "Tue, 01 Apr 2025 12:38:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LLY",
+            "impact": "Neutral"
         }
     ]
 }
