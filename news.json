@@ -1,64 +1,64 @@
 {
-    "date": "2025-04-01",
+    "date": "2025-04-02",
     "news": [
         {
-            "title": "White House considering roughly 20% tariff on most imports, report says",
-            "link": "https://www.cnbc.com/2025/04/01/white-house-considering-roughly-20percent-tariff-on-most-imports-report-says.html",
-            "summary": "The Washington Post report comes a day before April 2, when President Donald Trump is set to announce his larger plans for global trade. The president is expected to announce a new policy on global trade on April 2.",
-            "date": "Tue, 01 Apr 2025 11:58:15 GMT",
+            "title": "Tesla reports 336,000 vehicle deliveries in first quarter, 13% drop from a year ago",
+            "link": "https://www.cnbc.com/2025/04/02/tesla-tsla-q1-2025-vehicle-delivery-and-production-numbers.html",
+            "summary": "Tesla reported a 13% year-over-year drop in first-quarter deliveries. The news comes two days after the company's stock wrapped up its worst quarter since 2022.",
+            "date": "Wed, 02 Apr 2025 13:21:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHWK",
+            "stock_ticker": "TSLA",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Private companies added 155,000 jobs in March, more than expected, ADP says",
+            "link": "https://www.cnbc.com/2025/04/02/adp-jobs-report-march-2025-.html",
+            "summary": "Payroll gains were stronger than expected in March, countering fears that the labor market and economy were slowing. Payroll gains in March were strong than expected, countering concerns that the economy was slowing.",
+            "date": "Wed, 02 Apr 2025 13:20:40 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SKUR.CN",
             "impact": "Neutral"
         },
         {
-            "title": "TikTok creators, partners remain optimistic ahead of app’s second ban deadline",
-            "link": "https://www.cnbc.com/2025/04/01/tiktok-creators-partners-remain-optimistic-ahead-of-apps-ban-deadline.html",
-            "summary": "TikTok creators and firms say they believe the Chinese-owned app will remain in the U.S. They are, however, hedging their bets.",
-            "date": "Tue, 01 Apr 2025 12:38:18 GMT",
+            "title": "UFC signs wide-ranging sponsorship deal with Meta, bringing Mark Zuckerberg closer to Dana White",
+            "link": "https://www.cnbc.com/2025/04/02/ufc-signs-sponsorship-deal-with-mark-zuckerbergs-meta.html",
+            "summary": " Meta and mixed martial arts league UFC reach a multimillion-dollar, multiple-year sponsorship deal. The deal will span the tech company's portfolio, UFC said.",
+            "date": "Wed, 02 Apr 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PEANUT33916-USD",
+            "stock_ticker": "UFCS",
             "impact": "Neutral"
         },
         {
-            "title": "RFK Jr. is a 'conspiracy theorist' endangering lives, say analysts at Howard Lutnick's former firm",
-            "link": "https://www.cnbc.com/2025/04/01/rfk-jr-is-a-conspiracy-theorist-endangering-lives-say-analysts-at-howard-lutnicks-former-firm.html",
-            "summary": "\"HHS cannot be led by an anti-vax, conspiracy theorist with inadequate training,\" analysts at Cantor Fitzgerald said. \"HHS can't be led ... by a conspiracy theorist,\" they said.",
-            "date": "Tue, 01 Apr 2025 12:54:12 GMT",
+            "title": "United Airlines adds Thailand, Vietnam and Australia flights in latest expansion",
+            "link": "https://www.cnbc.com/2025/04/02/united-airlines-thailand-vietnam-adelaide-australia-flights.html",
+            "summary": "United Airlines is adding service to Vietnam and Thailand in October. Nonstop service from San Francisco to Adelaide, Australia, will begin in December.",
+            "date": "Wed, 02 Apr 2025 12:11:40 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RFKTX",
+            "stock_ticker": "UPS",
             "impact": "Neutral"
         },
         {
-            "title": "OpenAI closes $40 billion funding round, largest private tech deal on record",
-            "link": "https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html",
-            "summary": "OpenAI announced the close of its $40 billion financing. It is the most money raised in a single round by a private tech company.",
-            "date": "Tue, 01 Apr 2025 13:14:23 GMT",
+            "title": "Tequila maker says tariffs won't affect his prices. Here's why he plans to absorb costs",
+            "link": "https://www.cnbc.com/2025/04/02/tequila-maker-says-tariffs-wont-affect-prices-heres-why.html",
+            "summary": "Colorado-based Suerte Tequila said it will absorb all tariff costs. The company is owned by billionaire James Packer, who has a stake in the company.",
+            "date": "Wed, 02 Apr 2025 11:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OPERATOR-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Eli Lilly sues two pharmacies making copycat Zepbound, Mounjaro",
-            "link": "https://www.cnbc.com/2025/04/01/eli-lilly-sues-strive-and-empower-over-compounded-tirzepatide.html",
-            "summary": "Eli Lilly is suing Strive Pharmacy and Empower Pharmacy for compounding tirzepatide, the active ingredient in Zepbound and Mounjaro.",
-            "date": "Tue, 01 Apr 2025 12:38:07 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LLY",
+            "stock_ticker": "FM.MX",
             "impact": "Neutral"
         }
     ]
