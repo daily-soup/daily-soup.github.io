@@ -1,64 +1,64 @@
 {
-    "date": "2025-04-03",
+    "date": "2025-04-04",
     "news": [
         {
-            "title": "Commerce Secretary Lutnick says Trump's reciprocal tariffs will spur countries to examine their trade policies",
-            "link": "https://www.cnbc.com/2025/04/03/commerce-secretary-lutnick-says-trumps-reciprocal-tariffs-will-spur-countries-to-examine-their-trade-policies.html",
-            "summary": "Lutnick says the moves will push countries to re-examine their policies. He says they will provide greater access for U.S. products.",
-            "date": "Thu, 03 Apr 2025 13:00:01 GMT",
+            "title": "U.S. payrolls rise by 228,000 in March, but unemployment rate increases to 4.2%",
+            "link": "https://www.cnbc.com/2025/04/04/jobs-report-march-2025-.html",
+            "summary": "Nonfarm payrolls are expected to grow by 140,000 in March. The unemployment rate is expected to hold steady at 4.1%.",
+            "date": "Fri, 04 Apr 2025 13:19:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CM.TO",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Eight OPEC+ producers accelerate crude oil output hikes, pushing oil prices 6% lower",
-            "link": "https://www.cnbc.com/2025/04/03/eight-opec-producers-accelerate-crude-oil-output-hikes-pushing-oil-prices-down-6percent-.html",
-            "summary": "Eight key OPEC+ producers on Th Tuesday agreed to raise combined crude oil output by 411,000 barrels per day, pushing down oil prices.",
-            "date": "Thu, 03 Apr 2025 13:07:10 GMT",
+            "title": "Traders betting Fed will cut rates at least 4 times this year to bail out economy",
+            "link": "https://www.cnbc.com/2025/04/04/traders-betting-fed-will-cut-rates-at-least-4-times-this-year-to-bail-out-economy.html",
+            "summary": "The CME Group shows raised odds the federal funds rate will fall to 3.00%, down from 4.25% to 4.50% where it is currently.",
+            "date": "Fri, 04 Apr 2025 13:12:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OCTO",
-            "impact": "Bearish"
+            "stock_ticker": "FLOW.AS",
+            "impact": "Bullish"
         },
         {
-            "title": "Layoff announcements surge to the most since the pandemic as Musk's DOGE slices federal labor force",
-            "link": "https://www.cnbc.com/2025/04/03/layoff-announcements-surge-to-the-most-since-the-pandemic-as-musks-doge-slices-federal-labor-force.html",
-            "summary": "The surge in March was exceeded only by when the country shut down in 2020 for the Covid pandemic. The surge was the second-largest in the history of the pandemic, surpassing the March surge.",
-            "date": "Thu, 03 Apr 2025 11:52:07 GMT",
+            "title": "Mortgage rates sink on tariffs, but housing costs are still near a record high",
+            "link": "https://www.cnbc.com/2025/04/03/mortgage-rates-tumble-tariffs.html",
+            "summary": "Mortgage rates fell sharply Thursday, following the Trump administration's tariff announcement. But a huge share of Americans still can't afford to buy a home.",
+            "date": "Fri, 04 Apr 2025 12:43:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NILI.V",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Auto giants surprisingly resilient as sweeping U.S. tariffs spare Canada and Mexico for now",
-            "link": "https://www.cnbc.com/2025/04/03/trump-tariffs-auto-stocks-resilient-as-us-spares-canada-and-mexico.html",
-            "summary": "Shares of some of the world's biggest automakers appeared surprisingly resilient on Thursday. Shares of automakers like Ford, General Motors and Fiat Chrysler were surprisingly resilient.",
-            "date": "Thu, 03 Apr 2025 12:21:34 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RIVN",
+            "stock_ticker": "FNMA",
             "impact": "Neutral"
         },
         {
-            "title": "Plaid raises funding at $6 billion valuation, enabling some employees to cash out",
-            "link": "https://www.cnbc.com/2025/04/03/plaid-raises-575-million-funding-round-at-6-billion-valuation.html",
-            "summary": "Plaid announced a new funding round that values the fintech company at less than half of its peak price tag four years ago.",
-            "date": "Thu, 03 Apr 2025 13:17:38 GMT",
+            "title": "10-year Treasury yield falls sharply, dropping below 4%, on fear trade war will lead to recession",
+            "link": "https://www.cnbc.com/2025/04/04/us-treasury-yields-investors-digest-aftermath-of-trumps-tariffs.html",
+            "summary": "U.S. Treasury yields continued to plummet as investors digested the aftermath of President Donald Trump's aggressive \"reciprocal tariff\" policy rollout.",
+            "date": "Fri, 04 Apr 2025 12:44:25 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PLDIF",
+            "stock_ticker": "ZN=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Price hikes, layoffs and import fees: How car giants are reacting to Trump’s tariffs",
+            "link": "https://www.cnbc.com/2025/04/04/autos-car-giants-answer-trump-tariffs-with-price-hikes-and-layoffs.html",
+            "summary": "Shares of some of the world's biggest car brands traded sharply lower on Friday. Shares extended steep losses from the previous session, extending steep losses.",
+            "date": "Fri, 04 Apr 2025 12:33:10 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TROW",
             "impact": "Neutral"
         }
     ]
