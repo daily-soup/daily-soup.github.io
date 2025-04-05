@@ -1,64 +1,64 @@
 {
-    "date": "2025-04-04",
+    "date": "2025-04-05",
     "news": [
         {
-            "title": "U.S. payrolls rise by 228,000 in March, but unemployment rate increases to 4.2%",
-            "link": "https://www.cnbc.com/2025/04/04/jobs-report-march-2025-.html",
-            "summary": "Nonfarm payrolls are expected to grow by 140,000 in March. The unemployment rate is expected to hold steady at 4.1%.",
-            "date": "Fri, 04 Apr 2025 13:19:08 GMT",
+            "title": "How Trump's tariffs rollout turned into stock market mayhem",
+            "link": "https://www.cnbc.com/2025/04/05/how-trumps-tariffs-rollout-turned-into-stock-market-mayhem.html",
+            "summary": "\"What's happened is something worse than the worst-case scenario,\" he says. \"It's not the end of the world. It's the beginning of a new era\"",
+            "date": "Sat, 05 Apr 2025 12:32:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Traders betting Fed will cut rates at least 4 times this year to bail out economy",
-            "link": "https://www.cnbc.com/2025/04/04/traders-betting-fed-will-cut-rates-at-least-4-times-this-year-to-bail-out-economy.html",
-            "summary": "The CME Group shows raised odds the federal funds rate will fall to 3.00%, down from 4.25% to 4.50% where it is currently.",
-            "date": "Fri, 04 Apr 2025 13:12:29 GMT",
+            "title": "China says 'market has spoken' after Trump tariffs spark global stocks rout",
+            "link": "https://www.cnbc.com/2025/04/05/china-says-market-has-spoken-after-trump-tariffs-spark-stocks-rout.html",
+            "summary": "China's Foreign Ministry says \"the market has spoken\" following the U.S. imposition of sweeping new tariffs. China says it will respond by imposing its own tariffs on the United States.",
+            "date": "Sat, 05 Apr 2025 10:19:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FLOW.AS",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Mortgage rates sink on tariffs, but housing costs are still near a record high",
-            "link": "https://www.cnbc.com/2025/04/03/mortgage-rates-tumble-tariffs.html",
-            "summary": "Mortgage rates fell sharply Thursday, following the Trump administration's tariff announcement. But a huge share of Americans still can't afford to buy a home.",
-            "date": "Fri, 04 Apr 2025 12:43:51 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FNMA",
+            "stock_ticker": "CHH=F",
             "impact": "Neutral"
         },
         {
-            "title": "10-year Treasury yield falls sharply, dropping below 4%, on fear trade war will lead to recession",
-            "link": "https://www.cnbc.com/2025/04/04/us-treasury-yields-investors-digest-aftermath-of-trumps-tariffs.html",
-            "summary": "U.S. Treasury yields continued to plummet as investors digested the aftermath of President Donald Trump's aggressive \"reciprocal tariff\" policy rollout.",
-            "date": "Fri, 04 Apr 2025 12:44:25 GMT",
+            "title": "Silicon Valley's early return on Trump investment: Plunging valuations, delayed IPOs",
+            "link": "https://www.cnbc.com/2025/04/05/silicon-valley-return-on-trump-bet-plunging-valuations-delayed-ipos.html",
+            "summary": "The Nasdaq closed its worst week since the Covid pandemic. Several tech companies delaying IPOs. Silicon Valley's Trump bet is looking shaky.",
+            "date": "Sat, 05 Apr 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZN=F",
+            "stock_ticker": "SLAB",
             "impact": "Neutral"
         },
         {
-            "title": "Price hikes, layoffs and import fees: How car giants are reacting to Trump’s tariffs",
-            "link": "https://www.cnbc.com/2025/04/04/autos-car-giants-answer-trump-tariffs-with-price-hikes-and-layoffs.html",
-            "summary": "Shares of some of the world's biggest car brands traded sharply lower on Friday. Shares extended steep losses from the previous session, extending steep losses.",
-            "date": "Fri, 04 Apr 2025 12:33:10 GMT",
+            "title": "Automakers seek ‘opportunity in the chaos’ of Trump’s tariffs",
+            "link": "https://www.cnbc.com/2025/04/05/automakers-seek-opportunity-in-the-chaos-of-trumps-tariffs.html",
+            "summary": "Ford and Stellantis are offering employee-pricing programs. Hyundai said it would not raise prices for at least two months to ease consumer concerns.",
+            "date": "Sat, 05 Apr 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TROW",
+            "stock_ticker": "SEEK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Congress has power over tariffs, but stopping Trump isn't likely as of now",
+            "link": "https://www.cnbc.com/2025/04/04/trump-tariffs-congress-constitution-law-trade.html",
+            "summary": "President Trump has imposed higher tariffs on more than 180 countries. Stock market indices have sharply fallen on the heels of President Trump imposing higher tariffs.",
+            "date": "Fri, 04 Apr 2025 18:34:17 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CSMCX",
             "impact": "Neutral"
         }
     ]
