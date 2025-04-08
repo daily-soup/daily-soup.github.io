@@ -1,64 +1,64 @@
 {
-    "date": "2025-04-05",
+    "date": "2025-04-08",
     "news": [
         {
-            "title": "How Trump's tariffs rollout turned into stock market mayhem",
-            "link": "https://www.cnbc.com/2025/04/05/how-trumps-tariffs-rollout-turned-into-stock-market-mayhem.html",
-            "summary": "\"What's happened is something worse than the worst-case scenario,\" he says. \"It's not the end of the world. It's the beginning of a new era\"",
-            "date": "Sat, 05 Apr 2025 12:32:35 GMT",
+            "title": "Treasury Secretary Bessent says China's escalation was 'big mistake,' country playing with 'losing hand'",
+            "link": "https://www.cnbc.com/2025/04/08/treasury-secretary-bessent-says-chinas-escalation-was-big-mistake-country-playing-with-losing-hand.html",
+            "summary": "Japan has been at the forefront of countries eager to negotiate, and the White House expects a multitude of others. The U.S. and Japan have a long history of working together on issues such as trade.",
+            "date": "Tue, 08 Apr 2025 13:22:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "ZB=F",
             "impact": "Neutral"
         },
         {
-            "title": "China says 'market has spoken' after Trump tariffs spark global stocks rout",
-            "link": "https://www.cnbc.com/2025/04/05/china-says-market-has-spoken-after-trump-tariffs-spark-stocks-rout.html",
-            "summary": "China's Foreign Ministry says \"the market has spoken\" following the U.S. imposition of sweeping new tariffs. China says it will respond by imposing its own tariffs on the United States.",
-            "date": "Sat, 05 Apr 2025 10:19:26 GMT",
+            "title": "Walgreens tops estimates as drugstore chain cuts costs, prepares to go private",
+            "link": "https://www.cnbc.com/2025/04/08/walgreens-wba-earnings-q2-2025.html",
+            "summary": "The company is in the process of being taken private by Sycamore Partners. The deal is expected to close in the fourth quarter of this year.",
+            "date": "Tue, 08 Apr 2025 12:33:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHH=F",
+            "stock_ticker": "WBA",
             "impact": "Neutral"
         },
         {
-            "title": "Silicon Valley's early return on Trump investment: Plunging valuations, delayed IPOs",
-            "link": "https://www.cnbc.com/2025/04/05/silicon-valley-return-on-trump-bet-plunging-valuations-delayed-ipos.html",
-            "summary": "The Nasdaq closed its worst week since the Covid pandemic. Several tech companies delaying IPOs. Silicon Valley's Trump bet is looking shaky.",
-            "date": "Sat, 05 Apr 2025 12:00:01 GMT",
+            "title": "Oil prices steady after booking steep losses on fears of full-blown trade war",
+            "link": "https://www.cnbc.com/2025/04/08/oil-prices-today.html",
+            "summary": "U.S. crude oil is down about 14% and Brent has fallen around 13% since Trump announced his tariffs last Wednesday. U.S.-bound crude oil has fallen about 14%. Brent has dropped around 13%.",
+            "date": "Tue, 08 Apr 2025 12:24:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SLAB",
-            "impact": "Neutral"
+            "stock_ticker": "CL=F",
+            "impact": "Bearish"
         },
         {
-            "title": "Automakers seek ‘opportunity in the chaos’ of Trump’s tariffs",
-            "link": "https://www.cnbc.com/2025/04/05/automakers-seek-opportunity-in-the-chaos-of-trumps-tariffs.html",
-            "summary": "Ford and Stellantis are offering employee-pricing programs. Hyundai said it would not raise prices for at least two months to ease consumer concerns.",
-            "date": "Sat, 05 Apr 2025 12:00:01 GMT",
+            "title": "Cambodia hit with highest Trump tariff, but manufacturing 'absolutely not' coming back to U.S., trade group says",
+            "link": "https://www.cnbc.com/2025/04/08/trump-tariffs-cambodia-manufacturing-reshoring-us.html",
+            "summary": "Retailers rely on Cambodian factories, which were just hit with a 49% tariff rate by Trump. A trade group says that manufacturing will not return to the U.S.",
+            "date": "Tue, 08 Apr 2025 13:11:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SEEK",
-            "impact": "Neutral"
+            "stock_ticker": "HIT",
+            "impact": "Bullish"
         },
         {
-            "title": "Congress has power over tariffs, but stopping Trump isn't likely as of now",
-            "link": "https://www.cnbc.com/2025/04/04/trump-tariffs-congress-constitution-law-trade.html",
-            "summary": "President Trump has imposed higher tariffs on more than 180 countries. Stock market indices have sharply fallen on the heels of President Trump imposing higher tariffs.",
-            "date": "Fri, 04 Apr 2025 18:34:17 GMT",
+            "title": "Fake job seekers are flooding U.S. companies that are hiring for remote positions, tech CEOs say",
+            "link": "https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html",
+            "summary": "Companies have long faced external attacks from hackers. Now, thanks to generative AI, another threat has emerged: Employees who aren't who they say they are.",
+            "date": "Tue, 08 Apr 2025 11:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CSMCX",
+            "stock_ticker": "4017.SR",
             "impact": "Neutral"
         }
     ]
