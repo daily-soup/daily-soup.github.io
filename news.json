@@ -1,65 +1,65 @@
 {
-    "date": "2025-04-08",
+    "date": "2025-04-09",
     "news": [
         {
-            "title": "Treasury Secretary Bessent says China's escalation was 'big mistake,' country playing with 'losing hand'",
-            "link": "https://www.cnbc.com/2025/04/08/treasury-secretary-bessent-says-chinas-escalation-was-big-mistake-country-playing-with-losing-hand.html",
-            "summary": "Japan has been at the forefront of countries eager to negotiate, and the White House expects a multitude of others. The U.S. and Japan have a long history of working together on issues such as trade.",
-            "date": "Tue, 08 Apr 2025 13:22:11 GMT",
+            "title": "Jamie Dimon says a recession is 'likely outcome' from Trump's tariff turmoil",
+            "link": "https://www.cnbc.com/2025/04/09/jamie-dimon-says-a-recession-is-likely-outcome-from-trumps-tariff-turmoil.html",
+            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
+            "date": "Wed, 09 Apr 2025 12:55:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZB=F",
+            "stock_ticker": "2JW.F",
             "impact": "Neutral"
         },
         {
-            "title": "Walgreens tops estimates as drugstore chain cuts costs, prepares to go private",
-            "link": "https://www.cnbc.com/2025/04/08/walgreens-wba-earnings-q2-2025.html",
-            "summary": "The company is in the process of being taken private by Sycamore Partners. The deal is expected to close in the fourth quarter of this year.",
-            "date": "Tue, 08 Apr 2025 12:33:27 GMT",
+            "title": "Bonds crater, 10-year yield spikes briefly above 4.5% in confounding move that's worrying Wall Street",
+            "link": "https://www.cnbc.com/2025/04/09/us-treasury-yields-investors-weigh-new-reciprocal-tariffs-.html",
+            "summary": "U.S. President Donald Trump's tariffs regime continues to rattle markets. Treasury yields surged Wednesday as U.S.-China trade tensions continued to escalate.",
+            "date": "Wed, 09 Apr 2025 13:18:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WBA",
+            "stock_ticker": "0P00017MSW.CO",
             "impact": "Neutral"
         },
         {
-            "title": "Oil prices steady after booking steep losses on fears of full-blown trade war",
-            "link": "https://www.cnbc.com/2025/04/08/oil-prices-today.html",
-            "summary": "U.S. crude oil is down about 14% and Brent has fallen around 13% since Trump announced his tariffs last Wednesday. U.S.-bound crude oil has fallen about 14%. Brent has dropped around 13%.",
-            "date": "Tue, 08 Apr 2025 12:24:42 GMT",
+            "title": "Walmart scraps quarterly operating income forecast, citing Trump's tariffs",
+            "link": "https://www.cnbc.com/2025/04/09/walmart-pulls-q1-guidance-due-to-trump-tariffs.html",
+            "summary": "Walmart said it wants to maintain the ability to keep prices low, which could affect its profits. Walmart: \"We want to keep our prices as low as possible\"",
+            "date": "Wed, 09 Apr 2025 12:25:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
-            "impact": "Bearish"
+            "stock_ticker": "WMT",
+            "impact": "Neutral"
         },
         {
-            "title": "Cambodia hit with highest Trump tariff, but manufacturing 'absolutely not' coming back to U.S., trade group says",
-            "link": "https://www.cnbc.com/2025/04/08/trump-tariffs-cambodia-manufacturing-reshoring-us.html",
-            "summary": "Retailers rely on Cambodian factories, which were just hit with a 49% tariff rate by Trump. A trade group says that manufacturing will not return to the U.S.",
-            "date": "Tue, 08 Apr 2025 13:11:39 GMT",
+            "title": "Delta CEO says Trump tariffs are hurting bookings as airline pulls 2025 forecast",
+            "link": "https://www.cnbc.com/2025/04/09/delta-air-lines-dal-1q-2025-earnings.html",
+            "summary": "Delta said it couldn't reaffirm its 2025 financial guidance. Delta said it can't confirm financial guidance for 2015, 2016, 2017 or 2018. The airline said it will provide more details on its financial guidance in the future.",
+            "date": "Wed, 09 Apr 2025 12:53:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HIT",
+            "stock_ticker": "DAL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Google will let companies run its Gemini AI models in their own data centers",
+            "link": "https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html",
+            "summary": "Google is opening up access to its AI models beyond its data centers. Until now, developers of AI models have generally refrained from opening up to the public.",
+            "date": "Wed, 09 Apr 2025 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GOOG",
             "impact": "Bullish"
-        },
-        {
-            "title": "Fake job seekers are flooding U.S. companies that are hiring for remote positions, tech CEOs say",
-            "link": "https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html",
-            "summary": "Companies have long faced external attacks from hackers. Now, thanks to generative AI, another threat has emerged: Employees who aren't who they say they are.",
-            "date": "Tue, 08 Apr 2025 11:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "4017.SR",
-            "impact": "Neutral"
         }
     ]
 }
