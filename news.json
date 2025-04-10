@@ -1,65 +1,65 @@
 {
-    "date": "2025-04-09",
+    "date": "2025-04-10",
     "news": [
         {
-            "title": "Jamie Dimon says a recession is 'likely outcome' from Trump's tariff turmoil",
-            "link": "https://www.cnbc.com/2025/04/09/jamie-dimon-says-a-recession-is-likely-outcome-from-trumps-tariff-turmoil.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Wed, 09 Apr 2025 12:55:34 GMT",
+            "title": "Inflation rate eases to 2.4% in March, lower than expected; core at 4-year low",
+            "link": "https://www.cnbc.com/2025/04/10/inflation-rate-eases-to-2point4percent-in-march-lower-than-expected.html",
+            "summary": "Consumer price index fell a seasonally adjusted 0.1% in March. 12-month inflation rate at 2.4%, down from 2.8% in February.",
+            "date": "Thu, 10 Apr 2025 13:18:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "2JW.F",
+            "stock_ticker": "VTIP",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Amazon CEO Andy Jassy says he believes sellers will pass increased tariff costs on to consumers",
+            "link": "https://www.cnbc.com/2025/04/10/amazon-ceo-andy-jassy-says-he-believes-sellers-will-pass-increased-tariff-costs-on-to-consumers.html",
+            "summary": "Amazon CEO Andy Jassy said he thinks third-party sellers \"will pass costs on\" to consumers as a result of President Donald Trump's sweeping tariffs.",
+            "date": "Thu, 10 Apr 2025 13:14:34 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AMZN",
             "impact": "Neutral"
         },
         {
-            "title": "Bonds crater, 10-year yield spikes briefly above 4.5% in confounding move that's worrying Wall Street",
-            "link": "https://www.cnbc.com/2025/04/09/us-treasury-yields-investors-weigh-new-reciprocal-tariffs-.html",
-            "summary": "U.S. President Donald Trump's tariffs regime continues to rattle markets. Treasury yields surged Wednesday as U.S.-China trade tensions continued to escalate.",
-            "date": "Wed, 09 Apr 2025 13:18:36 GMT",
+            "title": "Tesla launches in Saudi Arabia amid Chinese competition and tumbling sales",
+            "link": "https://www.cnbc.com/2025/04/10/tesla-launches-sales-in-saudi-arabia-amid-chinese-competition.html",
+            "summary": "Electric vehicles accounted for just 1% of all car sales in the kingdom in 2024, according to PwC. Electric vehicles are expected to account for just one per cent of car sales by 2024.",
+            "date": "Thu, 10 Apr 2025 13:05:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P00017MSW.CO",
+            "stock_ticker": "TSLA",
             "impact": "Neutral"
         },
         {
-            "title": "Walmart scraps quarterly operating income forecast, citing Trump's tariffs",
-            "link": "https://www.cnbc.com/2025/04/09/walmart-pulls-q1-guidance-due-to-trump-tariffs.html",
-            "summary": "Walmart said it wants to maintain the ability to keep prices low, which could affect its profits. Walmart: \"We want to keep our prices as low as possible\"",
-            "date": "Wed, 09 Apr 2025 12:25:09 GMT",
+            "title": "Roller coaster week for global bonds continues as 'Trump put' sparks reversals",
+            "link": "https://www.cnbc.com/2025/04/10/rollercoaster-week-for-global-bonds-continues-as-trump-put-sparks-reversals.html",
+            "summary": "\"There's a sense of relief that trade deals with the U.S. are firmly on the table,\" economists say. \"There's been a lot of talk about the possibility of a trade war with the United States,\" they say.",
+            "date": "Thu, 10 Apr 2025 12:55:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WMT",
+            "stock_ticker": "ROLR",
             "impact": "Neutral"
         },
         {
-            "title": "Delta CEO says Trump tariffs are hurting bookings as airline pulls 2025 forecast",
-            "link": "https://www.cnbc.com/2025/04/09/delta-air-lines-dal-1q-2025-earnings.html",
-            "summary": "Delta said it couldn't reaffirm its 2025 financial guidance. Delta said it can't confirm financial guidance for 2015, 2016, 2017 or 2018. The airline said it will provide more details on its financial guidance in the future.",
-            "date": "Wed, 09 Apr 2025 12:53:01 GMT",
+            "title": "MLB weighs a salary cap as potential lockout looms in 2026",
+            "link": "https://www.cnbc.com/2025/04/10/mlb-weighs-salary-cap-potential-lockout-looms.html",
+            "summary": " MLB executives at both the league and team level have discussed what a new league economic structure could look like as the CBA expires 2026.",
+            "date": "Thu, 10 Apr 2025 10:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DAL",
+            "stock_ticker": "MLBSP.PA",
             "impact": "Neutral"
-        },
-        {
-            "title": "Google will let companies run its Gemini AI models in their own data centers",
-            "link": "https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html",
-            "summary": "Google is opening up access to its AI models beyond its data centers. Until now, developers of AI models have generally refrained from opening up to the public.",
-            "date": "Wed, 09 Apr 2025 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GOOG",
-            "impact": "Bullish"
         }
     ]
 }
