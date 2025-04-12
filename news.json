@@ -1,83 +1,11 @@
 {
-    "date": "2025-04-11",
+    "date": "2025-04-12",
     "news": [
         {
-            "title": "JPMorgan Chase tops quarterly expectations as Dimon says U.S. economy faces ‘considerable turbulence’",
-            "link": "https://www.cnbc.com/2025/04/11/jpmorgan-chase-jpm-earnings-q1-2025.html",
-            "summary": "JPMorgan CEO Jamie Dimon touted his company's solid results in the quarter. He also struck a note of caution on the broader economy.",
-            "date": "Fri, 11 Apr 2025 12:54:47 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JPM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Wholesale prices unexpectedly fell 0.4% in March, showing easing inflation backdrop ahead of tariffs",
-            "link": "https://www.cnbc.com/2025/04/11/wholesale-inflation-march-2024-.html",
-            "summary": "The producer price index declined a seasonally adjusted 0.4% for the month. The index is considered a leading indicator for pipeline inflation pressures.",
-            "date": "Fri, 11 Apr 2025 13:20:11 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "COST",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fed's Kashkari says rising bond yields, falling dollar show investors are moving on from the U.S.",
-            "link": "https://www.cnbc.com/2025/04/11/feds-kashkari-says-rising-bond-yields-falling-dollar-show-investors-are-moving-on-from-the-us.html",
-            "summary": "The trends are running counter to what you might normally see, the central bank official told CNBC. The trends are run counter to the normal trends, the official said.",
-            "date": "Fri, 11 Apr 2025 12:44:18 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001QQP3.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "China strikes back with 125% tariffs on U.S. goods as trade war intensifies",
-            "link": "https://www.cnbc.com/2025/04/11/china-strikes-back-with-125percent-tariffs-on-us-goods-starting-april-12.html",
-            "summary": "U.S. tariff rate on Chinese imports now effectively totals 145%. Trump administration confirmed to CNBC that the U.S.-China trade war is at an all-time high.",
-            "date": "Fri, 11 Apr 2025 12:48:53 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CHH=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Morgan Stanley tops quarterly estimates as equity trading revenue surges 45%",
-            "link": "https://www.cnbc.com/2025/04/11/morgan-stanley-ms-q1-2025-earnings.html",
-            "summary": "Shares of Morgan Stanley have whipsawed in recent days amid President Donald Trump's trade policies. Morgan Stanley is one of the largest banks in the U.S.",
-            "date": "Fri, 11 Apr 2025 12:02:51 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JPM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Cheaper oil produces first decline in wholesale prices in 17 months. But inflation far from dead as trade wars heat up.",
-            "link": "https://www.marketwatch.com/story/cheaper-oil-produces-first-decline-in-wholesale-prices-in-17-months-but-inflation-far-from-dead-as-trade-wars-heat-up-24e9ca77?mod=mw_rss_topstories",
-            "summary": "Producer price index was tame in March. Producer price index rose 0.2% in March from February. Producer prices rise 0.3% from February, down 0.1% from January.",
-            "date": "Fri, 11 Apr 2025 12:48:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CL=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Investors are shunning America. This wealth management giant says, actually, U.S. stocks are attractive.",
-            "link": "https://www.marketwatch.com/story/as-tariff-angst-lingers-this-wealth-manager-has-just-upgraded-u-s-stocks-9d5ced3e?mod=mw_rss_topstories",
-            "summary": "The S&amp;P 500 looks attractive. Improving trade news and overly-depressed sentiment leaves the S&P 500 looking attractive.",
-            "date": "Fri, 11 Apr 2025 12:32:00 GMT",
+            "title": "Investors are growing concerned about a U.S. asset exodus as Treasuries and the dollar decline",
+            "link": "https://www.cnbc.com/2025/04/12/investors-are-growing-concerned-about-a-us-asset-exodus-as-treasuries-and-the-dollar-decline.html",
+            "summary": "The combined decline of U.S. stocks, bonds and the dollar could be a sign of a broader shift away from investing in America.",
+            "date": "Sat, 12 Apr 2025 11:49:40 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +14,111 @@
             "impact": "Neutral"
         },
         {
-            "title": "Morgan Stanley earnings boosted by record equity trading",
-            "link": "https://www.marketwatch.com/story/morgan-stanley-earnings-boosted-by-record-equity-trading-a4c1aa94?mod=mw_rss_topstories",
-            "summary": "Bank of America's stock trading rose 45% to $4.1 billion in latest quarter. Bank of America’s stock trading increased 45% in latest quarterly quarter.",
-            "date": "Fri, 11 Apr 2025 12:22:00 GMT",
+            "title": "How China used Vietnam to evade higher U.S. tariffs",
+            "link": "https://www.cnbc.com/2025/04/12/vietnam-reciprocal-tariffs-reflect-trade-deficit-and-ties-to-china.html",
+            "summary": "Vietnam is the 6th largest source of U.S. imports. It is caught in the middle of an escalating trade war between the United States and China.",
+            "date": "Sat, 12 Apr 2025 11:02:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JPM",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "JPMorgan CEO Jamie Dimon warns economy is facing ‘considerable turbulence’ from tariffs and trade wars",
-            "link": "https://www.marketwatch.com/story/jpmorgan-chases-profit-powers-past-analyst-estimates-stock-rises-90b14d97?mod=mw_rss_topstories",
-            "summary": "Jamie Dimon cited “sticky inflation, high fiscal deficits and still rather high asset prices and volatility” in his remarks. Dimon: “Still rather high Asset Prices and Volatility”",
-            "date": "Fri, 11 Apr 2025 12:12:00 GMT",
+            "title": "10-year Treasury yield tops 4.5% after surge this week that's worrying Wall Street and the White House",
+            "link": "https://www.cnbc.com/2025/04/11/us-treasury-yields-investors-weigh-state-of-the-us-economy-.html",
+            "summary": "The 10-year Treasury yield was higher on Friday. The bond market sell-off was influenced by U.S. President Donald Trump's fast-changing tariff policies.",
+            "date": "Fri, 11 Apr 2025 20:28:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JPM",
+            "stock_ticker": "10Y=F",
             "impact": "Neutral"
         },
         {
-            "title": "Wells Fargo’s CEO sees more volatility due to tariffs, is ready for slower economy",
-            "link": "https://www.marketwatch.com/story/wells-fargo-revenue-falls-below-views-as-consumer-and-commercial-banking-weakens-6b7b7707?mod=mw_rss_topstories",
-            "summary": "“The actual outcome will be dependent on the results and timing of the policy changes,” Wells Fargo’s CEO said.",
-            "date": "Fri, 11 Apr 2025 11:47:00 GMT",
+            "title": "Customs 'glitch' impacting Trump tariffs fixed after lasting for more than 10 hours",
+            "link": "https://www.cnbc.com/2025/04/11/customs-reports-glitch-in-system-used-by-freight-for-tariff-exemptions.html",
+            "summary": "A Customs notice reported a glitch in a system shippers use to exempt freight from tariffs. Logistics experts say it is a bad sign for the supply chain.",
+            "date": "Sat, 12 Apr 2025 00:17:32 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFC",
+            "stock_ticker": "ICE35549-USD",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Third Point, D.E. Shaw obtain agreements with CoStar. How the activists can build value",
+            "link": "https://www.cnbc.com/2025/04/12/third-point-de-shaw-obtain-agreements-with-costar-how-they-can-build-value.html",
+            "summary": "Third Point and D.E. Shaw are like-minded investors obtaining separate agreements with CoStar. Third Point: CoStar will be used as a tool for investors to track their investments.",
+            "date": "Sat, 12 Apr 2025 11:51:28 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FITB",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Tesla’s stock is set for a ‘death cross’ on Monday: 3 reasons why it’s a risky buy",
+            "link": "https://www.marketwatch.com/story/teslas-stock-is-set-for-a-death-cross-on-monday-3-reasons-why-its-a-risky-buy-eec03334?mod=mw_rss_topstories",
+            "summary": "Tesla’s 50-day moving average is about to cross the 200-day, a bearish signal. Meanwhile, vehicle sales are slumping, while the valuation remains high.",
+            "date": "Sat, 12 Apr 2025 13:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CIIT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The IRS is pulling back on some audits — but not everyone can breathe a sigh of relief",
+            "link": "https://www.marketwatch.com/story/the-irs-is-pulling-back-on-some-audits-but-not-everyone-can-breathe-a-sigh-of-relief-c0b717cd?mod=mw_rss_topstories",
+            "summary": "With massive cuts to the IRS workforce, the question now is whether the tax collector is waving the white flag on audits. The IRS has said it will continue to audit taxpayers.",
+            "date": "Sat, 12 Apr 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The era of zombie television: Why is there never anything to watch on cable?",
+            "link": "https://www.marketwatch.com/story/the-era-of-zombie-television-why-is-there-never-anything-to-watch-on-cable-f397f6b9?mod=mw_rss_topstories",
+            "summary": "More than 60 million U.S. homes still have cable. They largely get reality shows, old movies and 21-hour-long blocs of \"Law & Order: Special Victims Unit\"",
+            "date": "Sat, 12 Apr 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "What could a Trump recession look like? The economic outlook is bad — or worse.",
+            "link": "https://www.marketwatch.com/story/what-could-a-trump-recession-look-like-the-economic-outlook-is-bad-or-worse-a15164aa?mod=mw_rss_topstories",
+            "summary": "There are two options now: The U.S. economy will either muddle through a soft patch, or fall into a sudden downturn.",
+            "date": "Sat, 12 Apr 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WAT-P.V",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Gold is at a fresh record high. Does it still make sense to buy?",
+            "link": "https://www.marketwatch.com/story/gold-is-at-a-fresh-record-high-does-it-still-make-sense-to-buy-d8f8f9ec?mod=mw_rss_topstories",
+            "summary": "Gold isn’t for the end of the world — it’s for the world we’re in, says one precious-metals dealer.",
+            "date": "Sat, 12 Apr 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GOLD",
             "impact": "Neutral"
         }
     ]
