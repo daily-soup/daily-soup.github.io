@@ -1,35 +1,107 @@
 {
-    "date": "2025-04-13",
+    "date": "2025-04-14",
     "news": [
         {
-            "title": "Trump exempts phones, computers, chips from new tariffs",
-            "link": "https://www.cnbc.com/2025/04/12/trump-exempts-phones-computers-chips-tariffs-apple-dell.html",
-            "summary": "Financial markets have been roiled since President Trump imposed stiff tariffs on China. Apple and other tech companies make many of their products in China.",
-            "date": "Sat, 12 Apr 2025 17:26:04 GMT",
+            "title": "Goldman Sachs tops estimates on boom in equities trading revenue",
+            "link": "https://www.cnbc.com/2025/04/14/goldman-sachs-gs-earnings-q1-2025.html",
+            "summary": "Goldman Sachs joins JPMorgan Chase and Morgan Stanley in posting better-than-expected equities trading revenue. JPMorgan Chase, Morgan Stanley posted better- than-expected Equities Trading Revenue.",
+            "date": "Mon, 14 Apr 2025 13:13:25 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "GS",
             "impact": "Neutral"
         },
         {
-            "title": "Trump tariffs on China will soon bring 'irreversible' damage to many American businesses",
-            "link": "https://www.cnbc.com/2025/04/12/trump-tariffs-on-china-mean-irreversible-damage-for-most-businesses.html",
-            "summary": "Most businesses will soon face 'irreversible' damage from the trade war. Apple's iPhone and other tech got a reprieve from Trump's China tariffs policy.",
-            "date": "Sat, 12 Apr 2025 17:00:52 GMT",
+            "title": "Pfizer scraps daily weight loss pill after liver injury in one patient",
+            "link": "https://www.cnbc.com/2025/04/14/pfizer-scraps-daily-weight-loss-pill-danuglipron.html",
+            "summary": "The decision to stop developing danuglipron adds to a string of setbacks in the pharmaceutical giant's bid to win a slice of the booming market for GLP-1s.",
+            "date": "Mon, 14 Apr 2025 12:38:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "PFE",
             "impact": "Neutral"
         },
         {
-            "title": "Investors are growing concerned about a U.S. asset exodus as Treasuries and the dollar decline",
-            "link": "https://www.cnbc.com/2025/04/12/investors-are-growing-concerned-about-a-us-asset-exodus-as-treasuries-and-the-dollar-decline.html",
-            "summary": "The combined decline of U.S. stocks, bonds and the dollar could be a sign of a broader shift away from investing in America.",
-            "date": "Sat, 12 Apr 2025 11:49:40 GMT",
+            "title": "More than 60% of CEOs expect a recession in the next 6 months as tariff turmoil grows, survey says",
+            "link": "https://www.cnbc.com/2025/04/14/more-than-60percent-of-ceos-expect-a-recession-in-the-next-6-months-survey-says.html",
+            "summary": "A rising share of America's top executives sees a recessionary period on the horizon. A growing share of them see the U.S. economy slipping into a recession.",
+            "date": "Mon, 14 Apr 2025 12:35:54 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MPP.TA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Billionaire Ray Dalio: 'I'm worried about something worse than a recession'",
+            "link": "https://www.cnbc.com/2025/04/13/billionaire-ray-dalio-im-worried-about-something-worse-than-a-recession.html",
+            "summary": "Bridgewater founder Ray Dalio said that he is worried about a breakdown of the global monetary order. Dalio: 'I'm worried about the world's financial system. I'm worried that it's going to fail'",
+            "date": "Sun, 13 Apr 2025 17:49:37 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DE000SL0AUC8.SG",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Why Trump's nuclear talks with Iran could be far more successful than Biden's",
+            "link": "https://www.cnbc.com/2025/04/14/why-trumps-nuclear-talks-with-iran-could-be-far-more-successful-than-bidens.html",
+            "summary": "\"The Iranians are, I think, a little bit more desperate than they were in 2022,\" one analyst says. \"They are faced with a very weak economy,\" another says.",
+            "date": "Mon, 14 Apr 2025 12:03:25 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHYCX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "As ‘sell America’ trade rattles Washington and Wall Street, here’s what could bring U.S. markets back from the brink",
+            "link": "https://www.marketwatch.com/story/as-sell-america-trade-rattles-washington-and-wall-street-heres-what-could-bring-u-s-markets-back-from-the-brink-f502588f?mod=mw_rss_topstories",
+            "summary": "President Trump’s decision to pause some of his tariffs helped spur a rebound in stocks last week. But it didn’t stop the pressure from spreading to other corners of the financial markets.",
+            "date": "Mon, 14 Apr 2025 13:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Apple hasn’t gotten an ‘all clear’ on tariffs, but its stock is still surging",
+            "link": "https://www.marketwatch.com/story/apple-hasnt-gotten-an-all-clear-on-tariffs-but-its-stock-is-still-surging-57d8322d?mod=mw_rss_topstories",
+            "summary": "Apple's smartphones are exempt from the current reciprocal tariffs against China. While Trump promises new tariffs for tech products, Apple seems to have avoided the worst-case scenario.",
+            "date": "Mon, 14 Apr 2025 13:08:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAPL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This is America’s ‘magic number’ for retirement – and it’s lower this year",
+            "link": "https://www.marketwatch.com/story/this-is-americas-magic-number-for-retirement-and-its-lower-this-year-c8ac6c6e?mod=mw_rss_topstories",
+            "summary": "Workers should replace 80% of their income for each year of retirement, new research suggests. The research was conducted by the Center for Retirement Research at the University of California, San Francisco.",
+            "date": "Mon, 14 Apr 2025 13:01:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "THISX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Investors are jittery about earnings — and that’s opening up big opportunities, say Goldman strategists",
+            "link": "https://www.marketwatch.com/story/investors-are-jittery-about-earnings-and-thats-opening-up-big-opportunities-say-goldman-strategists-ce16a3ff?mod=mw_rss_topstories",
+            "summary": "Fear remains at extreme levels despite 90-day delay in most tariffs, say strategists led by John Marshall, head of derivatives research at Goldman Sachs.",
+            "date": "Mon, 14 Apr 2025 12:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,87 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "Top Wall Street analysts find these 3 stocks attractive in these challenging times",
-            "link": "https://www.cnbc.com/2025/04/13/top-wall-street-analysts-find-these-3-stocks-attractive-in-these-challenging-times.html",
-            "summary": "TipRanks' analyst ranking service highlights three stocks favored by the Street's top pros. Affirm Holdings and TJX Companies are two of the names on the list.",
-            "date": "Sun, 13 Apr 2025 10:42:50 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TOP",
-            "impact": "Neutral"
-        },
-        {
-            "title": "These are the 10 hottest U.S. neighborhoods for 2025, new data shows—5 are in the Midwest",
-            "link": "https://www.cnbc.com/2025/04/12/redfin-hottest-neighborhoods-united-states.html",
-            "summary": "Redfin ranked the most populous metro areas by year-over-year growth in listing views. Redfin: Los Angeles, San Francisco, New York and Washington are the most popular cities for homebuyers.",
-            "date": "Sat, 12 Apr 2025 14:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ARE",
-            "impact": "Neutral"
-        },
-        {
             "title": "I held power of attorney for my late brother. Can I withdraw money from his bank account to give to his favorite charity?",
             "link": "https://www.marketwatch.com/story/i-held-power-of-attorney-for-my-late-brother-can-i-withdraw-money-from-his-bank-account-to-give-to-his-favorite-charity-c5c9302a?mod=mw_rss_topstories",
             "summary": "‘He honestly believed the power of attorney was also the beneficiary of this account, so a beneficiary was not listed’ said a spokesman.",
-            "date": "Sun, 13 Apr 2025 13:00:00 GMT",
+            "date": "Mon, 14 Apr 2025 12:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BULLZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’ve made the most money over the last 30 years buying solid companies in terrible markets’: Should I start buying?",
-            "link": "https://www.marketwatch.com/story/dont-catch-a-falling-knife-in-a-global-trade-war-what-stocks-should-i-buy-now-04bd1d4b?mod=mw_rss_topstories",
-            "summary": "“As the old phrase goes, don’t catch a falling knife,” he says. “As an old phrase, don't catch a fall knife.”",
-            "date": "Sun, 13 Apr 2025 11:02:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IVE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m administrator of my sister’s estate. Her bank won’t tell me the names of her beneficiaries. Is that legal?",
-            "link": "https://www.marketwatch.com/story/im-administrator-of-my-sisters-estate-her-bank-wont-tell-me-the-names-of-her-beneficiaries-is-that-legal-e30750c2?mod=mw_rss_topstories",
-            "summary": "“They told me that the beneficiaries know who they are, which is not the case,” she says. “They said that the beneficiary know who the are,’ she adds. � “I’m not sure that’s true.”",
-            "date": "Sun, 13 Apr 2025 10:32:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This is the future of senior housing",
-            "link": "https://www.marketwatch.com/story/smart-homes-telehealth-and-aging-in-place-this-is-the-future-of-senior-housing-13320d0f?mod=mw_rss_topstories",
-            "summary": "Older consumers have more education and higher technological expectations. Older consumers — and their adult children — now have more technology expectations. More and more technology is available to older consumers.",
-            "date": "Sat, 12 Apr 2025 23:41:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "S2819.MC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "If millions of dead people are stealing from Social Security, then why can’t the DOJ find any of them?",
-            "link": "https://www.marketwatch.com/story/why-the-dead-people-collecting-social-security-narrative-just-wont-die-d14eb5c7?mod=mw_rss_topstories",
-            "summary": "The ‘dead people collecting Social Security’ narrative just won’t die, says CNN’s John Sutter. Sutter: Social Security is supposed to be a safety net, not a way of life.",
-            "date": "Sat, 12 Apr 2025 23:11:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IFF",
+            "stock_ticker": "GLDY",
             "impact": "Neutral"
         }
     ]
