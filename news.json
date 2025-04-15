@@ -1,59 +1,107 @@
 {
-    "date": "2025-04-14",
+    "date": "2025-04-15",
     "news": [
         {
-            "title": "Goldman Sachs tops estimates on boom in equities trading revenue",
-            "link": "https://www.cnbc.com/2025/04/14/goldman-sachs-gs-earnings-q1-2025.html",
-            "summary": "Goldman Sachs joins JPMorgan Chase and Morgan Stanley in posting better-than-expected equities trading revenue. JPMorgan Chase, Morgan Stanley posted better- than-expected Equities Trading Revenue.",
-            "date": "Mon, 14 Apr 2025 13:13:25 GMT",
+            "title": "Bank of America tops analysts' estimates on better-than-expected interest income, trading",
+            "link": "https://www.cnbc.com/2025/04/15/bank-of-america-bac-earnings-q1-2025.html",
+            "summary": "Bank of America shares have sold off in recent weeks on concern that President Donald Trump's tariff policies could cause a recession. Bank of America is the largest U.S. bank by market value.",
+            "date": "Tue, 15 Apr 2025 12:56:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GS",
+            "stock_ticker": "SXB=F",
             "impact": "Neutral"
         },
         {
-            "title": "Pfizer scraps daily weight loss pill after liver injury in one patient",
-            "link": "https://www.cnbc.com/2025/04/14/pfizer-scraps-daily-weight-loss-pill-danuglipron.html",
-            "summary": "The decision to stop developing danuglipron adds to a string of setbacks in the pharmaceutical giant's bid to win a slice of the booming market for GLP-1s.",
-            "date": "Mon, 14 Apr 2025 12:38:42 GMT",
+            "title": "U.S.' inability to replace rare earths supply from China poses a threat to its defense, warns CSIS",
+            "link": "https://www.cnbc.com/2025/04/15/us-is-unable-to-replace-rare-earths-supply-from-china-warns-csis-.html",
+            "summary": "The U.S. is unable to make up the shortfall, according to the Center for Strategic and International Studies. China imposes rare earths export controls.",
+            "date": "Tue, 15 Apr 2025 12:30:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PFE",
+            "stock_ticker": "HRC=F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Citigroup results exceed analysts' estimates on gains in fixed income and equities trading",
+            "link": "https://www.cnbc.com/2025/04/15/citigroup-c-earnings-q1-2025.html",
+            "summary": " CEO Jane Fraser said Tuesday that the bank was continuing to earn credibility with investors. Fraser said she remains focused on executing on her strategy.",
+            "date": "Tue, 15 Apr 2025 13:21:29 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "C",
             "impact": "Neutral"
         },
         {
-            "title": "More than 60% of CEOs expect a recession in the next 6 months as tariff turmoil grows, survey says",
-            "link": "https://www.cnbc.com/2025/04/14/more-than-60percent-of-ceos-expect-a-recession-in-the-next-6-months-survey-says.html",
-            "summary": "A rising share of America's top executives sees a recessionary period on the horizon. A growing share of them see the U.S. economy slipping into a recession.",
-            "date": "Mon, 14 Apr 2025 12:35:54 GMT",
+            "title": "Treasury yields are little changed after recent volatility",
+            "link": "https://www.cnbc.com/2025/04/15/treasury-yields-trump-tariff-fueled-sell-off-continues.html",
+            "summary": "The action in yields comes amid a period of volatility in the bond market. The action in bond yields comes as the U.S. economy continues to struggle.",
+            "date": "Tue, 15 Apr 2025 12:35:32 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MPP.TA",
+            "stock_ticker": "ZB=F",
             "impact": "Neutral"
         },
         {
-            "title": "Billionaire Ray Dalio: 'I'm worried about something worse than a recession'",
-            "link": "https://www.cnbc.com/2025/04/13/billionaire-ray-dalio-im-worried-about-something-worse-than-a-recession.html",
-            "summary": "Bridgewater founder Ray Dalio said that he is worried about a breakdown of the global monetary order. Dalio: 'I'm worried about the world's financial system. I'm worried that it's going to fail'",
-            "date": "Sun, 13 Apr 2025 17:49:37 GMT",
+            "title": "American Airlines to make Wi-Fi free on most of its fleet in 2026",
+            "link": "https://www.cnbc.com/2025/04/15/american-airlines-free-wifi.html",
+            "summary": "American Airlines is following other airlines such as Delta and JetBlue in making Wi-Fi free on board. American Airlines follows other airlines like Delta andJetBlue in offering free Wi- Fi on board planes.",
+            "date": "Tue, 15 Apr 2025 11:20:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DE000SL0AUC8.SG",
-            "impact": "Bearish"
+            "stock_ticker": "AAL",
+            "impact": "Neutral"
         },
         {
-            "title": "Why Trump's nuclear talks with Iran could be far more successful than Biden's",
-            "link": "https://www.cnbc.com/2025/04/14/why-trumps-nuclear-talks-with-iran-could-be-far-more-successful-than-bidens.html",
-            "summary": "\"The Iranians are, I think, a little bit more desperate than they were in 2022,\" one analyst says. \"They are faced with a very weak economy,\" another says.",
-            "date": "Mon, 14 Apr 2025 12:03:25 GMT",
+            "title": "Citigroup CEO is betting the U.S. economy can weather the tariff storm",
+            "link": "https://www.marketwatch.com/story/citigroup-delivers-strong-quarter-as-profit-increases-by-21-d2c3156a?mod=mw_rss_topstories",
+            "summary": "Citi’s Jane Fraser looks past the current trade-policy turmoil and says the dollar will retain its position as global reserve currency.",
+            "date": "Tue, 15 Apr 2025 13:07:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "C",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Stocks that benefit from chaos are helping a husband-and-wife investing duo beat the competition",
+            "link": "https://www.marketwatch.com/story/stocks-that-benefit-from-chaos-are-helping-a-husband-and-wife-investing-duo-beat-the-competition-95de0660?mod=mw_rss_topstories",
+            "summary": "The Marshfield Concentrated Opportunity Fund is up in 2025 and beating the S&amp;P 500 on a three and five year basis. Two of the portfolios managers dish the fund's secrets.",
+            "date": "Tue, 15 Apr 2025 12:46:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PSTIX",
+            "impact": "Bullish"
+        },
+        {
+            "title": "How do I apply for a tax-filing extension? What time are taxes due? Your last-minute Tax Day questions, answered.",
+            "link": "https://www.marketwatch.com/story/how-do-i-apply-for-a-tax-filing-extension-what-if-i-cant-pay-your-last-minute-tax-day-questions-answered-3ac6b4b3?mod=mw_rss_topstories",
+            "summary": "Tuesday is Tax Day, the last day to pay any owed income taxes. It’s also the final day to either file a tax return or claim an extension.",
+            "date": "Tue, 15 Apr 2025 12:43:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why the usual advice about managing a stock-market plunge is dangerous now",
+            "link": "https://www.marketwatch.com/story/why-the-usual-advice-about-managing-a-stock-market-plunge-is-dangerous-now-ab5fb4e1?mod=mw_rss_topstories",
+            "summary": "Don't assume you’ll always make money. Stocks for the long term? Don’t assume you will always be successful.",
+            "date": "Tue, 15 Apr 2025 12:41:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,63 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "As ‘sell America’ trade rattles Washington and Wall Street, here’s what could bring U.S. markets back from the brink",
-            "link": "https://www.marketwatch.com/story/as-sell-america-trade-rattles-washington-and-wall-street-heres-what-could-bring-u-s-markets-back-from-the-brink-f502588f?mod=mw_rss_topstories",
-            "summary": "President Trump’s decision to pause some of his tariffs helped spur a rebound in stocks last week. But it didn’t stop the pressure from spreading to other corners of the financial markets.",
-            "date": "Mon, 14 Apr 2025 13:12:00 GMT",
+            "title": "Americans are spending their tax refunds differently this year — and it says a lot about this economic moment",
+            "link": "https://www.marketwatch.com/story/americans-are-spending-their-tax-refunds-differently-this-year-and-it-says-a-lot-about-this-economic-moment-b8a2f424?mod=mw_rss_topstories",
+            "summary": "The average refund is now $3,116, the IRS says. The average tax refund is $2,856. The IRS says the average tax return is $1,854.",
+            "date": "Tue, 15 Apr 2025 12:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Apple hasn’t gotten an ‘all clear’ on tariffs, but its stock is still surging",
-            "link": "https://www.marketwatch.com/story/apple-hasnt-gotten-an-all-clear-on-tariffs-but-its-stock-is-still-surging-57d8322d?mod=mw_rss_topstories",
-            "summary": "Apple's smartphones are exempt from the current reciprocal tariffs against China. While Trump promises new tariffs for tech products, Apple seems to have avoided the worst-case scenario.",
-            "date": "Mon, 14 Apr 2025 13:08:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAPL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This is America’s ‘magic number’ for retirement – and it’s lower this year",
-            "link": "https://www.marketwatch.com/story/this-is-americas-magic-number-for-retirement-and-its-lower-this-year-c8ac6c6e?mod=mw_rss_topstories",
-            "summary": "Workers should replace 80% of their income for each year of retirement, new research suggests. The research was conducted by the Center for Retirement Research at the University of California, San Francisco.",
-            "date": "Mon, 14 Apr 2025 13:01:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THISX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Investors are jittery about earnings — and that’s opening up big opportunities, say Goldman strategists",
-            "link": "https://www.marketwatch.com/story/investors-are-jittery-about-earnings-and-thats-opening-up-big-opportunities-say-goldman-strategists-ce16a3ff?mod=mw_rss_topstories",
-            "summary": "Fear remains at extreme levels despite 90-day delay in most tariffs, say strategists led by John Marshall, head of derivatives research at Goldman Sachs.",
-            "date": "Mon, 14 Apr 2025 12:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OHI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I held power of attorney for my late brother. Can I withdraw money from his bank account to give to his favorite charity?",
-            "link": "https://www.marketwatch.com/story/i-held-power-of-attorney-for-my-late-brother-can-i-withdraw-money-from-his-bank-account-to-give-to-his-favorite-charity-c5c9302a?mod=mw_rss_topstories",
-            "summary": "‘He honestly believed the power of attorney was also the beneficiary of this account, so a beneficiary was not listed’ said a spokesman.",
-            "date": "Mon, 14 Apr 2025 12:50:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GLDY",
+            "stock_ticker": "ARE",
             "impact": "Neutral"
         }
     ]
