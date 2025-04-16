@@ -1,23 +1,47 @@
 {
-    "date": "2025-04-15",
+    "date": "2025-04-16",
     "news": [
         {
-            "title": "Bank of America tops analysts' estimates on better-than-expected interest income, trading",
-            "link": "https://www.cnbc.com/2025/04/15/bank-of-america-bac-earnings-q1-2025.html",
-            "summary": "Bank of America shares have sold off in recent weeks on concern that President Donald Trump's tariff policies could cause a recession. Bank of America is the largest U.S. bank by market value.",
-            "date": "Tue, 15 Apr 2025 12:56:03 GMT",
+            "title": "Retail sales increased 1.4% in March, greater than expected",
+            "link": "https://www.cnbc.com/2025/04/16/retail-sales-march-2025.html",
+            "summary": "Retail sales were expected to increase 1.2% in March, according to the Dow Jones consensus. Retail sales are a proxy for consumer spending in the U.S.",
+            "date": "Wed, 16 Apr 2025 13:21:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SXB=F",
+            "stock_ticker": "SXR=F",
             "impact": "Neutral"
         },
         {
-            "title": "U.S.' inability to replace rare earths supply from China poses a threat to its defense, warns CSIS",
-            "link": "https://www.cnbc.com/2025/04/15/us-is-unable-to-replace-rare-earths-supply-from-china-warns-csis-.html",
-            "summary": "The U.S. is unable to make up the shortfall, according to the Center for Strategic and International Studies. China imposes rare earths export controls.",
-            "date": "Tue, 15 Apr 2025 12:30:39 GMT",
+            "title": "JPMorgan Chase sues more customers who allegedly stole cash in 'infinite money glitch'",
+            "link": "https://www.cnbc.com/2025/04/16/jpmorgan-chase-infinite-money-glitch-bank-lawsuits.html",
+            "summary": "The episode highlights the lengths JPMorgan Chase, the biggest U.S. bank by assets, will go to claw back funds it is owed and to deter future crimes.",
+            "date": "Wed, 16 Apr 2025 12:19:50 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "JPM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Global trade outlook has 'deteriorated sharply' amid Trump tariff uncertainty, WTO warns",
+            "link": "https://www.cnbc.com/2025/04/16/global-trade-outlook-for-2025-has-deteriorated-sharply-wto-warns.html",
+            "summary": "The World Trade Organization has warned that the outlook for global trade has \"deteriorated sharply\" in the wake of President Donald Trump's tariffs regime.",
+            "date": "Wed, 16 Apr 2025 13:21:41 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GEO=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "U.S. vehicle supply is falling amid tariff fear-buying",
+            "link": "https://www.cnbc.com/2025/04/16/us-vehicle-supply-falls-tariff-fear-buying.html",
+            "summary": "Consumers flock to stores ahead of potential price increases due to tariffs. Supplies of new and used vehicles for sale are declining rapidly in the U.S.",
+            "date": "Wed, 16 Apr 2025 12:28:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,82 +50,46 @@
             "impact": "Bullish"
         },
         {
-            "title": "Citigroup results exceed analysts' estimates on gains in fixed income and equities trading",
-            "link": "https://www.cnbc.com/2025/04/15/citigroup-c-earnings-q1-2025.html",
-            "summary": " CEO Jane Fraser said Tuesday that the bank was continuing to earn credibility with investors. Fraser said she remains focused on executing on her strategy.",
-            "date": "Tue, 15 Apr 2025 13:21:29 GMT",
+            "title": "Homebuyers rush to riskier loans, as tariff turmoil pushes interest rates higher",
+            "link": "https://www.cnbc.com/2025/04/16/homebuyers-rush-to-riskier-loans-as-tariff-turmoil-pushes-interest-rates-higher.html",
+            "summary": "Mortgage rates moved sharply higher last week, causing a drop in mortgage demand and a surge in homebuyers seeking riskier loans.",
+            "date": "Wed, 16 Apr 2025 11:36:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "C",
+            "stock_ticker": "RSI",
             "impact": "Neutral"
         },
         {
-            "title": "Treasury yields are little changed after recent volatility",
-            "link": "https://www.cnbc.com/2025/04/15/treasury-yields-trump-tariff-fueled-sell-off-continues.html",
-            "summary": "The action in yields comes amid a period of volatility in the bond market. The action in bond yields comes as the U.S. economy continues to struggle.",
-            "date": "Tue, 15 Apr 2025 12:35:32 GMT",
+            "title": "It’s already illegal for undocumented immigrants to get Social Security. So why did Trump sign a new memo?",
+            "link": "https://www.marketwatch.com/story/its-already-illegal-for-undocumented-immigrants-to-get-social-security-so-why-is-trump-signing-a-new-memo-c7cd5e28?mod=mw_rss_topstories",
+            "summary": "President Donald Trump signed a memo on Tuesday barring undocumented immigrants from getting Social Security benefits. It's something they were already not able to access under existing law.",
+            "date": "Wed, 16 Apr 2025 13:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZB=F",
+            "stock_ticker": "SITS",
             "impact": "Neutral"
         },
         {
-            "title": "American Airlines to make Wi-Fi free on most of its fleet in 2026",
-            "link": "https://www.cnbc.com/2025/04/15/american-airlines-free-wifi.html",
-            "summary": "American Airlines is following other airlines such as Delta and JetBlue in making Wi-Fi free on board. American Airlines follows other airlines like Delta andJetBlue in offering free Wi- Fi on board planes.",
-            "date": "Tue, 15 Apr 2025 11:20:21 GMT",
+            "title": "Higher prices or recession? Only one of these inflation predictors can be right.",
+            "link": "https://www.marketwatch.com/story/higher-prices-or-recession-only-one-of-these-inflation-predictors-can-be-right-07df6eda?mod=mw_rss_topstories",
+            "summary": "University of Michigan survey has a better record than the University of Michigan. Here's what it's saying now. The breakeven inflation rate has a good record, but it's not as good as the University's.",
+            "date": "Wed, 16 Apr 2025 13:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAL",
+            "stock_ticker": "FAHFX",
             "impact": "Neutral"
         },
         {
-            "title": "Citigroup CEO is betting the U.S. economy can weather the tariff storm",
-            "link": "https://www.marketwatch.com/story/citigroup-delivers-strong-quarter-as-profit-increases-by-21-d2c3156a?mod=mw_rss_topstories",
-            "summary": "Citi’s Jane Fraser looks past the current trade-policy turmoil and says the dollar will retain its position as global reserve currency.",
-            "date": "Tue, 15 Apr 2025 13:07:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "C",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Stocks that benefit from chaos are helping a husband-and-wife investing duo beat the competition",
-            "link": "https://www.marketwatch.com/story/stocks-that-benefit-from-chaos-are-helping-a-husband-and-wife-investing-duo-beat-the-competition-95de0660?mod=mw_rss_topstories",
-            "summary": "The Marshfield Concentrated Opportunity Fund is up in 2025 and beating the S&amp;P 500 on a three and five year basis. Two of the portfolios managers dish the fund's secrets.",
-            "date": "Tue, 15 Apr 2025 12:46:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PSTIX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "How do I apply for a tax-filing extension? What time are taxes due? Your last-minute Tax Day questions, answered.",
-            "link": "https://www.marketwatch.com/story/how-do-i-apply-for-a-tax-filing-extension-what-if-i-cant-pay-your-last-minute-tax-day-questions-answered-3ac6b4b3?mod=mw_rss_topstories",
-            "summary": "Tuesday is Tax Day, the last day to pay any owed income taxes. It’s also the final day to either file a tax return or claim an extension.",
-            "date": "Tue, 15 Apr 2025 12:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why the usual advice about managing a stock-market plunge is dangerous now",
-            "link": "https://www.marketwatch.com/story/why-the-usual-advice-about-managing-a-stock-market-plunge-is-dangerous-now-ab5fb4e1?mod=mw_rss_topstories",
-            "summary": "Don't assume you’ll always make money. Stocks for the long term? Don’t assume you will always be successful.",
-            "date": "Tue, 15 Apr 2025 12:41:00 GMT",
+            "title": "Why this strategist is expecting a lost decade for U.S. stocks, even without a recession",
+            "link": "https://www.marketwatch.com/story/why-this-strategist-is-expecting-a-lost-decade-for-u-s-stocks-even-without-a-recession-f6b17958?mod=mw_rss_topstories",
+            "summary": "The U.S. exceptionalism argument is not going to work for the next five to 10 years, say strategists at BCA Research.",
+            "date": "Wed, 16 Apr 2025 13:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +98,27 @@
             "impact": "Neutral"
         },
         {
-            "title": "Americans are spending their tax refunds differently this year — and it says a lot about this economic moment",
-            "link": "https://www.marketwatch.com/story/americans-are-spending-their-tax-refunds-differently-this-year-and-it-says-a-lot-about-this-economic-moment-b8a2f424?mod=mw_rss_topstories",
-            "summary": "The average refund is now $3,116, the IRS says. The average tax refund is $2,856. The IRS says the average tax return is $1,854.",
-            "date": "Tue, 15 Apr 2025 12:33:00 GMT",
+            "title": "U.S. retail sales surge to 26-month high as buyers rush to avoid tariff-related price hikes",
+            "link": "https://www.marketwatch.com/story/u-s-retail-sales-surge-to-26-month-high-as-buyers-rush-to-avoid-tariff-related-price-hikes-dc7870ff?mod=mw_rss_topstories",
+            "summary": "The economy may be in good shape, but trade wars pose a risk. The U.S. has the largest trade deficit in the world, according to the World Bank.",
+            "date": "Wed, 16 Apr 2025 13:07:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ARE",
+            "stock_ticker": "HRC=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Three times when it’s OK to take Social Security early",
+            "link": "https://www.marketwatch.com/story/three-times-when-its-ok-to-take-social-security-early-ea582b32?mod=mw_rss_topstories",
+            "summary": "Age 62 is the most common age to claim Social Security, according to the Social Security Administration. Age 62 is also the most popular age to apply for disability benefits.",
+            "date": "Wed, 16 Apr 2025 12:56:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "Z3N=F",
             "impact": "Neutral"
         }
     ]
