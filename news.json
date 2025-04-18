@@ -1,11 +1,11 @@
 {
-    "date": "2025-04-17",
+    "date": "2025-04-18",
     "news": [
         {
-            "title": "Trump again calls for Fed to cut rates, says Powell’s ‘termination cannot come fast enough’",
-            "link": "https://www.cnbc.com/2025/04/17/trump-again-calls-for-fed-to-cut-rates-says-powells-termination-cannot-come-fast-enough.html",
-            "summary": "President Donald Trump again called for the Federal Reserve to lower rates. He even hinted at the \"termination\" of Chair Jerome Powell. The Fed is expected to raise interest rates on Thursday.",
-            "date": "Thu, 17 Apr 2025 12:16:01 GMT",
+            "title": "Trump administration announces fees on Chinese ships docking at U.S. ports",
+            "link": "https://www.cnbc.com/2025/04/17/trump-administration-announces-fees-on-chinese-ships-docking-at-us-ports.html",
+            "summary": "The Trump administration on Thursday announced fees on Chinese-built vessels. The fees are expected to be in the region of $1,000 per vessel.",
+            "date": "Fri, 18 Apr 2025 00:45:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,112 +14,112 @@
             "impact": "Neutral"
         },
         {
-            "title": "23andMe bankruptcy under congressional investigation for customer data",
-            "link": "https://www.cnbc.com/2025/04/17/23andme-bankruptcy-investigation-genetic-data-congress.html",
-            "summary": "The House Committee on Energy and Commerce is investigating 23andMe's decision to file for bankruptcy. The House committee is investigating the company's decision to go bankrupt.",
-            "date": "Thu, 17 Apr 2025 13:00:01 GMT",
+            "title": "Google hit with second antitrust blow, adding to concerns about future of ads business",
+            "link": "https://www.cnbc.com/2025/04/17/google-hit-with-second-antitrust-blow-adding-to-concerns-about-ads.html",
+            "summary": "A federal judge ruled on Thursday that Google held illegal monopolies in online advertising markets. Google's position between ad buyers and sellers made it illegal, the judge said.",
+            "date": "Thu, 17 Apr 2025 19:55:10 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MEHCQ",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Eli Lilly's weight loss pill succeeds in first late-stage trial on diabetes patients",
-            "link": "https://www.cnbc.com/2025/04/17/eli-lilly-weight-loss-pill-orforglipron-clears-first-late-stage-trial.html",
-            "summary": "The results bring Eli Lilly's pill orforglipron one step closer to becoming a new, needle-free alternative in the booming weight loss and diabetes market.",
-            "date": "Thu, 17 Apr 2025 11:53:32 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LLY",
+            "stock_ticker": "GOOG",
             "impact": "Neutral"
         },
         {
-            "title": "Trump's tariffs are 'inviting corruption,' Democrats tell Bessent, Lutnick",
-            "link": "https://www.cnbc.com/2025/04/17/trump-tariffs-warren-bessent-lutnick-democrats.html",
-            "summary": "The letter underscores a growing attack line as Democratic lawmakers mount their resistance to President Trump's second term. The letter was led by Sen. Elizabeth Warren of Massachusetts.",
-            "date": "Thu, 17 Apr 2025 11:42:02 GMT",
+            "title": "Trump again calls for Fed to cut rates, says Powell’s ‘termination cannot come fast enough’",
+            "link": "https://www.cnbc.com/2025/04/17/trump-again-calls-for-fed-to-cut-rates-says-powells-termination-cannot-come-fast-enough.html",
+            "summary": "President Donald Trump again called for the Federal Reserve to lower rates. He even hinted at the \"termination\" of Chair Jerome Powell. The Fed is expected to raise interest rates on Thursday.",
+            "date": "Thu, 17 Apr 2025 18:08:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BAGS31840-USD",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "China targets U.S. services and other areas as it decries 'meaningless' tariff hikes on goods",
-            "link": "https://www.cnbc.com/2025/04/17/china-targets-us-services-and-other-areas-after-decrying-meaningless-tariff-hikes-on-goods-.html",
-            "summary": "Beijing has wielded a wide range of punitive measures in recent days to strike back at Washington. The measures include steps targeting American services sector.",
-            "date": "Thu, 17 Apr 2025 07:51:03 GMT",
+            "title": "Canadian small businesses are taking Trump's tariffs personally",
+            "link": "https://www.cnbc.com/2025/04/18/canadian-small-businesses-trump-tariffs.html",
+            "summary": "Canadian national pride has sparked resistance and inspired action from small businesses. The Canadian national pride movement has been dubbed the \"Canadian pride movement\" The movement has also been dubbed \"The Canadian Pride Movement\" and \"Canadian Pride\"",
+            "date": "Fri, 18 Apr 2025 12:50:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHH=F",
+            "stock_ticker": "6C=F",
             "impact": "Neutral"
         },
         {
-            "title": "Fed’s Williams says he doesn’t see any need to move rates anytime soon",
-            "link": "https://www.marketwatch.com/story/feds-williams-says-he-doesnt-see-any-need-to-move-rates-anytime-soon-26bd5b2a?mod=mw_rss_topstories",
-            "summary": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of New York for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots.",
-            "date": "Thu, 17 Apr 2025 13:07:00 GMT",
+            "title": "Where 'Made in China 2025' missed the mark",
+            "link": "https://www.cnbc.com/2025/04/18/where-made-in-china-2025-missed-the-mark.html",
+            "summary": "Beijing's Made in China' 2025 had ambitious goals. 10 years on, it's failed to meet several targets. Beijing's 'Made in China 2025' has been scaled back by the Chinese government.",
+            "date": "Fri, 18 Apr 2025 04:35:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FEDS.IL",
+            "stock_ticker": "WFCF",
             "impact": "Neutral"
         },
         {
-            "title": "The top 3 excuses people make to put off estate planning — and why they’re all wrong",
-            "link": "https://www.marketwatch.com/story/the-top-3-excuses-people-make-to-put-off-estate-planning-and-why-theyre-all-wrong-cc925a01?mod=mw_rss_topstories",
-            "summary": "Can these experts talk you out of doing nothing to get your affairs in order before it's too late? Do you have a personal essay to share with the world? Submit at CNN iReport.",
-            "date": "Thu, 17 Apr 2025 13:00:00 GMT",
+            "title": "Are small-cap stocks cheaper than large caps? Yes — if you ignore this one key fact.",
+            "link": "https://www.marketwatch.com/story/are-small-cap-stocks-cheaper-than-large-caps-yes-if-you-ignore-this-one-key-fact-5eeac162?mod=mw_rss_topstories",
+            "summary": "Money-losing companies make the Russell 2000 look more attractively priced. Leaving money-l losing companies out of P/E calculations makes the index look more attractive.",
+            "date": "Fri, 18 Apr 2025 13:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "ARE",
             "impact": "Neutral"
         },
         {
-            "title": "Stock market volatility fuels record revenue for Schwab, and stock surges",
-            "link": "https://www.marketwatch.com/story/schwab-says-market-volatility-fueled-volume-as-q1-profit-outpaces-estimates-d81e476c?mod=mw_rss_topstories",
-            "summary": "Broker says higher trading volumes have continued in early April. Broker says high trading volumes continued in late March and early April as well.",
-            "date": "Thu, 17 Apr 2025 12:54:00 GMT",
+            "title": "Money talks with your parents are tough. Here’s how and why you need to have them.",
+            "link": "https://www.marketwatch.com/story/money-talks-with-your-parents-are-tough-heres-how-and-why-you-need-to-have-them-50b80395?mod=mw_rss_topstories",
+            "summary": "It’s time to take the taboo out of family financial conversations. It's time to start talking about your finances with your family. It is time to talk about your financial future.",
+            "date": "Fri, 18 Apr 2025 12:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FCHL",
+            "stock_ticker": "ML",
             "impact": "Neutral"
         },
         {
-            "title": "American Express customers are ‘eating out and enjoying life’ as spending grows 6%",
-            "link": "https://www.marketwatch.com/story/american-express-says-its-customers-are-eating-out-and-enjoying-life-as-spending-grows-6-9a4c42e3?mod=mw_rss_topstories",
-            "summary": "Amex’s CEO said that recent metrics are “in many cases better than what we saw in 2024.” Amex is a New York-based bank.",
-            "date": "Thu, 17 Apr 2025 12:53:00 GMT",
+            "title": "Netflix wants to be a $1 trillion company. Earnings show why that’s a reasonable goal.",
+            "link": "https://www.marketwatch.com/story/netflix-wants-to-be-a-1-trillion-company-earnings-show-why-thats-a-reasonable-goal-51f32367?mod=mw_rss_topstories",
+            "summary": "Analysts see Netflix generating growth even in a recession. Analysts expect Netflix to continue to grow even if the U.S. economy is in recession.",
+            "date": "Fri, 18 Apr 2025 12:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAL",
+            "stock_ticker": "NFLX",
             "impact": "Neutral"
         },
         {
-            "title": "Can Trump fire Powell? Here’s the key court case.",
-            "link": "https://www.marketwatch.com/story/trump-calls-for-powell-termination-in-way-that-leaves-multiple-interpretations-heres-the-key-court-case-61c424e5?mod=mw_rss_topstories",
-            "summary": "Analysts at Evercore led by Krishna Guha said a Supreme Court case will be pivotal after President Donald Trump called for Jerome Powell’s ‘termination’",
-            "date": "Thu, 17 Apr 2025 12:53:00 GMT",
+            "title": "Is the stock market open today? Are banks closed?",
+            "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-good-friday-does-the-post-office-deliver-mail-684868d6?mod=mw_rss_topstories",
+            "summary": "Don't forget the bond markets, either. Here’s what you need to know. And don’t forget the stock markets, too.",
+            "date": "Fri, 18 Apr 2025 12:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CAN",
-            "impact": "Bullish"
+            "stock_ticker": "ISKGBP=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Economists share where they look for clues that a U.S. recession could be coming",
+            "link": "https://www.marketwatch.com/story/economists-share-where-they-look-for-clues-that-a-u-s-recession-could-be-coming-24d9d88f?mod=mw_rss_topstories",
+            "summary": "Tariffs are going to hit the economy hard, but a serious downturn is not inevitable, economists say. The U.S. is in the midst of a trade war with China.",
+            "date": "Fri, 18 Apr 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CHA",
+            "impact": "Bearish"
         }
     ]
 }
