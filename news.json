@@ -1,11 +1,23 @@
 {
-    "date": "2025-04-18",
+    "date": "2025-04-19",
     "news": [
+        {
+            "title": "Trump renews call for interest rate cut, says rates would be lower if Fed chief Powell 'understood what he was doing'",
+            "link": "https://www.cnbc.com/2025/04/18/trump-renews-call-for-powell-to-lower-interest-rates-he-should-bring-them-down.html",
+            "summary": "President Donald Trump said once again that Federal Reserve Chair Jerome Powell should lower interest rates. Trump said Powell should cut interest rates to keep inflation in check.",
+            "date": "Fri, 18 Apr 2025 18:03:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
         {
             "title": "Trump administration announces fees on Chinese ships docking at U.S. ports",
             "link": "https://www.cnbc.com/2025/04/17/trump-administration-announces-fees-on-chinese-ships-docking-at-us-ports.html",
             "summary": "The Trump administration on Thursday announced fees on Chinese-built vessels. The fees are expected to be in the region of $1,000 per vessel.",
-            "date": "Fri, 18 Apr 2025 00:45:06 GMT",
+            "date": "Fri, 18 Apr 2025 16:46:48 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,112 +26,100 @@
             "impact": "Neutral"
         },
         {
-            "title": "Google hit with second antitrust blow, adding to concerns about future of ads business",
-            "link": "https://www.cnbc.com/2025/04/17/google-hit-with-second-antitrust-blow-adding-to-concerns-about-ads.html",
-            "summary": "A federal judge ruled on Thursday that Google held illegal monopolies in online advertising markets. Google's position between ad buyers and sellers made it illegal, the judge said.",
-            "date": "Thu, 17 Apr 2025 19:55:10 GMT",
+            "title": "Meet Partiful, the Gen Z party-planning staple that's taking on Apple",
+            "link": "https://www.cnbc.com/2025/04/19/meet-partiful-the-gen-z-party-planning-staple-thats-taking-on-apple.html",
+            "summary": "Partiful is a popular app for event planning among Gen Z users. Despite launching during the pandemic, Partiful survived to become a popular event planning app. It's now also competing against Apple.",
+            "date": "Sat, 19 Apr 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOOG",
+            "stock_ticker": "METI-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Trump again calls for Fed to cut rates, says Powell’s ‘termination cannot come fast enough’",
-            "link": "https://www.cnbc.com/2025/04/17/trump-again-calls-for-fed-to-cut-rates-says-powells-termination-cannot-come-fast-enough.html",
-            "summary": "President Donald Trump again called for the Federal Reserve to lower rates. He even hinted at the \"termination\" of Chair Jerome Powell. The Fed is expected to raise interest rates on Thursday.",
-            "date": "Thu, 17 Apr 2025 18:08:09 GMT",
+            "title": "Read Hertz CEO's letter to employees about Bill Ackman's 'significant' stake in the rental car firm",
+            "link": "https://www.cnbc.com/2025/04/18/hertz-ceo-encouraged-by-ackmans-significant-stake-in-the-company.html",
+            "summary": "Hertz CEO Gil West says he is \"encouraged\" and \"energized\" by Bill Ackman. Ackman is taking a \"significant\" position in the rental car company.",
+            "date": "Fri, 18 Apr 2025 21:43:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "RC",
             "impact": "Neutral"
         },
         {
-            "title": "Canadian small businesses are taking Trump's tariffs personally",
-            "link": "https://www.cnbc.com/2025/04/18/canadian-small-businesses-trump-tariffs.html",
-            "summary": "Canadian national pride has sparked resistance and inspired action from small businesses. The Canadian national pride movement has been dubbed the \"Canadian pride movement\" The movement has also been dubbed \"The Canadian Pride Movement\" and \"Canadian Pride\"",
-            "date": "Fri, 18 Apr 2025 12:50:58 GMT",
+            "title": "Elliott Management takes a stake in Hewlett Packard Enterprise. How the firm may create value",
+            "link": "https://www.cnbc.com/2025/04/19/elliott-management-takes-a-stake-in-hewlett-packard-enterprise-how-it-may-create-value.html",
+            "summary": "Activist Elliott Management could help spur a great opportunity for shareholders. The firm has a stake in Hewlett Packard Enterprise. The company has been through a difficult time in recent years.",
+            "date": "Sat, 19 Apr 2025 12:03:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "6C=F",
+            "stock_ticker": "NLY",
             "impact": "Neutral"
         },
         {
-            "title": "Where 'Made in China 2025' missed the mark",
-            "link": "https://www.cnbc.com/2025/04/18/where-made-in-china-2025-missed-the-mark.html",
-            "summary": "Beijing's Made in China' 2025 had ambitious goals. 10 years on, it's failed to meet several targets. Beijing's 'Made in China 2025' has been scaled back by the Chinese government.",
-            "date": "Fri, 18 Apr 2025 04:35:29 GMT",
+            "title": "Golfers think the sport keeps them healthy. New research says it will even help them live longer.",
+            "link": "https://www.marketwatch.com/story/golfers-think-the-sport-keeps-them-healthy-new-research-says-it-will-even-help-them-live-longer-d9e119c4?mod=mw_rss_topstories",
+            "summary": "The sport has a growing number of senior participants. There's new research that says playing the game is a longevity booster. The game has been around for more than 100 years.",
+            "date": "Sat, 19 Apr 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFCF",
+            "stock_ticker": "5S0.F",
             "impact": "Neutral"
         },
         {
-            "title": "Are small-cap stocks cheaper than large caps? Yes — if you ignore this one key fact.",
-            "link": "https://www.marketwatch.com/story/are-small-cap-stocks-cheaper-than-large-caps-yes-if-you-ignore-this-one-key-fact-5eeac162?mod=mw_rss_topstories",
-            "summary": "Money-losing companies make the Russell 2000 look more attractively priced. Leaving money-l losing companies out of P/E calculations makes the index look more attractive.",
-            "date": "Fri, 18 Apr 2025 13:05:00 GMT",
+            "title": "I’m 15 years older than my second wife and have $1 million in savings. She promised to pass my estate onto my sons after I’m gone. Do I trust her?",
+            "link": "https://www.marketwatch.com/story/im-15-years-older-than-my-second-wife-and-have-1-million-in-savings-she-promised-to-pass-my-estate-onto-my-sons-after-im-gone-do-i-trust-her-b0e88084?mod=mw_rss_topstories",
+            "summary": "“My wife is probably one of the most honest persons I’ve ever known,” he says. “I don’t know what I would do without her.” “She’s a very, very good person,’ he adds.",
+            "date": "Sat, 19 Apr 2025 12:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ARE",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "Money talks with your parents are tough. Here’s how and why you need to have them.",
-            "link": "https://www.marketwatch.com/story/money-talks-with-your-parents-are-tough-heres-how-and-why-you-need-to-have-them-50b80395?mod=mw_rss_topstories",
-            "summary": "It’s time to take the taboo out of family financial conversations. It's time to start talking about your finances with your family. It is time to talk about your financial future.",
-            "date": "Fri, 18 Apr 2025 12:55:00 GMT",
+            "title": "99% of the ‘biggest winning stocks’ share this criteria, says investing legend Mark Minervini",
+            "link": "https://www.marketwatch.com/story/99-of-the-biggest-winning-stocks-share-this-criteria-says-investing-legend-mark-minervini-cdc1181c?mod=mw_rss_topstories",
+            "summary": "Two-time U.S. Investing champ says the ‘Magnificent Seven’ won’t outperform forever. He shares his criteria to find the new tech leaders.",
+            "date": "Sat, 19 Apr 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ML",
+            "stock_ticker": "AZT55591.MX",
             "impact": "Neutral"
         },
         {
-            "title": "Netflix wants to be a $1 trillion company. Earnings show why that’s a reasonable goal.",
-            "link": "https://www.marketwatch.com/story/netflix-wants-to-be-a-1-trillion-company-earnings-show-why-thats-a-reasonable-goal-51f32367?mod=mw_rss_topstories",
-            "summary": "Analysts see Netflix generating growth even in a recession. Analysts expect Netflix to continue to grow even if the U.S. economy is in recession.",
-            "date": "Fri, 18 Apr 2025 12:37:00 GMT",
+            "title": "My husband will inherit $180K. I think we should invest the money. He wants to pay off his $168K mortgage. Who’s right?",
+            "link": "https://www.marketwatch.com/story/my-husband-will-inherit-180k-i-think-we-should-invest-the-money-he-wants-to-pay-off-his-168k-mortgage-whos-right-d98cd204?mod=mw_rss_topstories",
+            "summary": "“He has $15,000 in investments and $5,500 per month in disability income,” his lawyer says. “He’s got a lot of money to spend.”",
+            "date": "Sat, 19 Apr 2025 11:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NFLX",
+            "stock_ticker": "AUDMYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "Is the stock market open today? Are banks closed?",
-            "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-good-friday-does-the-post-office-deliver-mail-684868d6?mod=mw_rss_topstories",
-            "summary": "Don't forget the bond markets, either. Here’s what you need to know. And don’t forget the stock markets, too.",
-            "date": "Fri, 18 Apr 2025 12:28:00 GMT",
+            "title": "I begged my adviser to sell amid the market turmoil. He dragged his feet and I lost $20,000. Do I have any recourse?",
+            "link": "https://www.marketwatch.com/story/i-begged-my-adviser-to-sell-amid-the-market-turmoil-it-took-him-days-and-i-lost-20-000-can-i-sue-d8f3c896?mod=mw_rss_topstories",
+            "summary": "“If he had moved my money out of the market weeks ago, much of my loss could have been prevented,” she says.",
+            "date": "Sat, 19 Apr 2025 10:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ISKGBP=X",
+            "stock_ticker": "VINC",
             "impact": "Neutral"
-        },
-        {
-            "title": "Economists share where they look for clues that a U.S. recession could be coming",
-            "link": "https://www.marketwatch.com/story/economists-share-where-they-look-for-clues-that-a-u-s-recession-could-be-coming-24d9d88f?mod=mw_rss_topstories",
-            "summary": "Tariffs are going to hit the economy hard, but a serious downturn is not inevitable, economists say. The U.S. is in the midst of a trade war with China.",
-            "date": "Fri, 18 Apr 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CHA",
-            "impact": "Bearish"
         }
     ]
 }
