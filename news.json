@@ -1,16 +1,40 @@
 {
-    "date": "2025-04-19",
+    "date": "2025-04-20",
     "news": [
         {
-            "title": "Trump renews call for interest rate cut, says rates would be lower if Fed chief Powell 'understood what he was doing'",
-            "link": "https://www.cnbc.com/2025/04/18/trump-renews-call-for-powell-to-lower-interest-rates-he-should-bring-them-down.html",
-            "summary": "President Donald Trump said once again that Federal Reserve Chair Jerome Powell should lower interest rates. Trump said Powell should cut interest rates to keep inflation in check.",
-            "date": "Fri, 18 Apr 2025 18:03:01 GMT",
+            "title": "Trump's approval rating on the economy drops to lowest of his presidential career, CNBC Survey finds",
+            "link": "https://www.cnbc.com/2025/04/19/trumps-approval-rating-on-economy-drops-to-lowest-of-his-presidential-careerat-.html",
+            "summary": "President Donald Trump registering the worst economic approval numbers of his presidential career, according to the latest CNBC All-America Economic Survey. Trump's approval numbers are at the lowest level of his presidency.",
+            "date": "Sun, 20 Apr 2025 10:39:13 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "BAGS31840-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "White House claims letter to Harvard with demands was an 'unauthorized' mistake: NYT",
+            "link": "https://www.cnbc.com/2025/04/19/trump-white-house-harvard-funding-mistake.html",
+            "summary": "The April 11 letter set off a public feud between the White House and Harvard University. The letter was sent by President Obama to Harvard President Drew Faust. The White House said it was responding to a letter sent by the president of Harvard.",
+            "date": "Sat, 19 Apr 2025 14:33:12 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHF",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Top Wall Street analysts like these dividend-paying energy stocks",
+            "link": "https://www.cnbc.com/2025/04/20/top-wall-street-analysts-like-these-dividend-paying-energy-stocks.html",
+            "summary": "TipRanks' analyst ranking service discusses three dividend-paying stocks. Energy Transfer and Diamondback Energy are two of them.",
+            "date": "Sun, 20 Apr 2025 12:41:17 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
@@ -26,99 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "Meet Partiful, the Gen Z party-planning staple that's taking on Apple",
-            "link": "https://www.cnbc.com/2025/04/19/meet-partiful-the-gen-z-party-planning-staple-thats-taking-on-apple.html",
-            "summary": "Partiful is a popular app for event planning among Gen Z users. Despite launching during the pandemic, Partiful survived to become a popular event planning app. It's now also competing against Apple.",
-            "date": "Sat, 19 Apr 2025 12:00:01 GMT",
+            "title": "How long $2 million in retirement savings lasts in every U.S. state",
+            "link": "https://www.cnbc.com/2025/04/19/how-long-2-million-dollars-in-retirement-savings-lasts-in-every-state.html",
+            "summary": "There's a nearly 50-year difference in how long $2 million lasts in retirement, depending on where you live. There’s a nearly50-year Difference in howLong $2m lasts in Retirement, Depending on Where You Live.",
+            "date": "Sat, 19 Apr 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "METI-USD",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Read Hertz CEO's letter to employees about Bill Ackman's 'significant' stake in the rental car firm",
-            "link": "https://www.cnbc.com/2025/04/18/hertz-ceo-encouraged-by-ackmans-significant-stake-in-the-company.html",
-            "summary": "Hertz CEO Gil West says he is \"encouraged\" and \"energized\" by Bill Ackman. Ackman is taking a \"significant\" position in the rental car company.",
-            "date": "Fri, 18 Apr 2025 21:43:12 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Elliott Management takes a stake in Hewlett Packard Enterprise. How the firm may create value",
-            "link": "https://www.cnbc.com/2025/04/19/elliott-management-takes-a-stake-in-hewlett-packard-enterprise-how-it-may-create-value.html",
-            "summary": "Activist Elliott Management could help spur a great opportunity for shareholders. The firm has a stake in Hewlett Packard Enterprise. The company has been through a difficult time in recent years.",
-            "date": "Sat, 19 Apr 2025 12:03:03 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NLY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Golfers think the sport keeps them healthy. New research says it will even help them live longer.",
-            "link": "https://www.marketwatch.com/story/golfers-think-the-sport-keeps-them-healthy-new-research-says-it-will-even-help-them-live-longer-d9e119c4?mod=mw_rss_topstories",
-            "summary": "The sport has a growing number of senior participants. There's new research that says playing the game is a longevity booster. The game has been around for more than 100 years.",
-            "date": "Sat, 19 Apr 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "5S0.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m 15 years older than my second wife and have $1 million in savings. She promised to pass my estate onto my sons after I’m gone. Do I trust her?",
-            "link": "https://www.marketwatch.com/story/im-15-years-older-than-my-second-wife-and-have-1-million-in-savings-she-promised-to-pass-my-estate-onto-my-sons-after-im-gone-do-i-trust-her-b0e88084?mod=mw_rss_topstories",
-            "summary": "“My wife is probably one of the most honest persons I’ve ever known,” he says. “I don’t know what I would do without her.” “She’s a very, very good person,’ he adds.",
-            "date": "Sat, 19 Apr 2025 12:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "99% of the ‘biggest winning stocks’ share this criteria, says investing legend Mark Minervini",
-            "link": "https://www.marketwatch.com/story/99-of-the-biggest-winning-stocks-share-this-criteria-says-investing-legend-mark-minervini-cdc1181c?mod=mw_rss_topstories",
-            "summary": "Two-time U.S. Investing champ says the ‘Magnificent Seven’ won’t outperform forever. He shares his criteria to find the new tech leaders.",
-            "date": "Sat, 19 Apr 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AZT55591.MX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My husband will inherit $180K. I think we should invest the money. He wants to pay off his $168K mortgage. Who’s right?",
-            "link": "https://www.marketwatch.com/story/my-husband-will-inherit-180k-i-think-we-should-invest-the-money-he-wants-to-pay-off-his-168k-mortgage-whos-right-d98cd204?mod=mw_rss_topstories",
-            "summary": "“He has $15,000 in investments and $5,500 per month in disability income,” his lawyer says. “He’s got a lot of money to spend.”",
-            "date": "Sat, 19 Apr 2025 11:30:00 GMT",
+            "title": "My IRA and personal trading account had the biggest one-day gain ever. What will tomorrow bring?",
+            "link": "https://www.marketwatch.com/story/my-ira-had-the-biggest-one-day-gain-ever-what-will-tomorrow-bring-505a3c77?mod=mw_rss_topstories",
+            "summary": "“My personal trading account was also up 18% in one day,” he said. “Mypersonal trading account also was up 18%.”",
+            "date": "Sun, 20 Apr 2025 12:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "AUDMYR=X",
+            "impact": "Bullish"
+        },
+        {
+            "title": "‘I ended up getting very sick’: I’m divorcing an abuser. I’ve had two terrible attorneys — and fired them both. Do I sue?",
+            "link": "https://www.marketwatch.com/story/i-ended-up-getting-very-sick-im-divorcing-an-abuser-ive-had-two-terrible-attorneys-and-fired-them-both-do-i-sue-20b1f053?mod=mw_rss_topstories",
+            "summary": "“I want to focus on the monetary aspect, because money is tight and my divorce is not over yet,” she says.",
+            "date": "Sat, 19 Apr 2025 21:41:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VINC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Americans are ‘doom buying’ coffee, olive oil and soap. What’s the one thing I should stockpile to avoid tariff price hikes?",
+            "link": "https://www.marketwatch.com/story/americans-are-doom-buying-coffee-olive-oil-and-soap-whats-the-one-thing-i-should-stockpile-to-avoid-tariff-price-hikes-12c9187c?mod=mw_rss_topstories",
+            "summary": "Some purchases have echoes of the early days of the pandemic. Some purchases have Echoes of the Early Days of the Pandemic. There is a shortage of doctors and nurses in the U.S.",
+            "date": "Sat, 19 Apr 2025 21:20:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ARE",
             "impact": "Neutral"
         },
         {
             "title": "I begged my adviser to sell amid the market turmoil. He dragged his feet and I lost $20,000. Do I have any recourse?",
             "link": "https://www.marketwatch.com/story/i-begged-my-adviser-to-sell-amid-the-market-turmoil-it-took-him-days-and-i-lost-20-000-can-i-sue-d8f3c896?mod=mw_rss_topstories",
             "summary": "“If he had moved my money out of the market weeks ago, much of my loss could have been prevented,” she says.",
-            "date": "Sat, 19 Apr 2025 10:40:00 GMT",
+            "date": "Sat, 19 Apr 2025 20:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "VINC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘The whole thing feels predatory’: My grandma, 97, pays $170 a month for a $10,000 life-insurance policy. Should we stop payments?",
+            "link": "https://www.marketwatch.com/story/the-whole-thing-feels-predatory-my-grandma-97-pays-170-a-month-for-a-10-000-life-insurance-policy-should-we-stop-payments-86dd490c?mod=mw_rss_topstories",
+            "summary": "“After what quickly became a heated discussion, the agent advised me that canceling the policy would end any chance of a payout,” she said.",
+            "date": "Sat, 19 Apr 2025 20:01:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
             "impact": "Neutral"
         }
     ]
