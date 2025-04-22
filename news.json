@@ -1,107 +1,107 @@
 {
-    "date": "2025-04-21",
+    "date": "2025-04-22",
     "news": [
         {
-            "title": "The biggest questions facing Big Tech ahead of earnings",
-            "link": "https://www.cnbc.com/2025/04/21/tech-earnings-trump-tariffs-tesla-apple-alphabet-meta-microsoft-amazon-nvidia.html",
-            "summary": "All of the megacap companies have significant exposure to President Donald Trump's sweeping tariffs, which will be a major topic on earnings calls.",
-            "date": "Mon, 21 Apr 2025 13:19:32 GMT",
+            "title": "IMF slashes 2025 U.S. growth forecast to 1.8% from 2.7%, citing trade tensions",
+            "link": "https://www.cnbc.com/2025/04/22/imf-slashes-us-growth-forecast-by-nearly-one-percentage-point.html",
+            "summary": "The IMF cites intensifying downside risks as it lowered its growth projections. The Washington-based IMF, in its World Economic Report, cited intensified downside risks.",
+            "date": "Tue, 22 Apr 2025 13:11:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Pope Francis, the first pontiff from the Americas, dies at 88",
-            "link": "https://www.cnbc.com/2025/04/21/pope-francis-the-first-pontiff-from-the-americas-dies-aged-88.html",
-            "summary": "\"With deep sorrow I must announce the death of our Holy Father Francis,\" Cardinal Kevin Farrell says in a video address. \"Dearest brothers and sisters, with deep sorrow,\" he says.",
-            "date": "Mon, 21 Apr 2025 12:24:25 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PTBTQ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "China vows retaliation against countries that follow U.S. calls to isolate Beijing",
-            "link": "https://www.cnbc.com/2025/04/21/china-to-retaliate-against-nations-that-work-with-us-to-isolate-beijing.html",
-            "summary": "China retaliated against U.S. tariffs with levies of 125% on imports of American goods. In a shift toward a harder stance this month, China has taken a tougher stance against the United States.",
-            "date": "Mon, 21 Apr 2025 13:18:56 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CHH=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump's approval rating on the economy drops to lowest of his presidential career, CNBC Survey finds",
-            "link": "https://www.cnbc.com/2025/04/19/trumps-approval-rating-on-economy-drops-to-lowest-of-his-presidential-careerat-.html",
-            "summary": "President Donald Trump registering the worst economic approval numbers of his presidential career, according to the latest CNBC All-America Economic Survey. Trump's approval numbers are at the lowest level of his presidency.",
-            "date": "Mon, 21 Apr 2025 12:24:36 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BAGS31840-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "'A man of the people': World leaders react to the death of Pope Francis",
-            "link": "https://www.cnbc.com/2025/04/21/a-man-of-the-people-world-leaders-react-to-the-death-of-pope-francis.html",
-            "summary": "Tributes and condolences poured in from around the world following news of the death of Pope Francis. Pope Francis died on Monday at the age of 88.",
-            "date": "Mon, 21 Apr 2025 12:59:42 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ALI=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Overly bearish investors risk writing off 2025 too soon. These strategies offer upside and downside protection.",
-            "link": "https://www.marketwatch.com/story/overly-bearish-investors-risk-writing-off-2025-too-soon-these-strategies-offer-upside-and-downside-protection-77ab3c61?mod=mw_rss_topstories",
-            "summary": "Ed Yardeni argues that, to match the doom and gloom from Wall Street bears, the stock market would need to see a Lehman-esque meltdown.",
-            "date": "Mon, 21 Apr 2025 12:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "UDN",
+            "stock_ticker": "IMF",
             "impact": "Bearish"
         },
         {
-            "title": "Netflix wants to be a $1 trillion company. Earnings show why that’s a reasonable goal.",
-            "link": "https://www.marketwatch.com/story/netflix-wants-to-be-a-1-trillion-company-earnings-show-why-thats-a-reasonable-goal-51f32367?mod=mw_rss_topstories",
-            "summary": "Analysts see Netflix generating growth even in a recession. Analysts expect Netflix to continue to grow even if the U.S. economy is in recession.",
-            "date": "Mon, 21 Apr 2025 12:40:00 GMT",
+            "title": "Inside the $1 billion berry startup backed by Ray Dalio’s family office",
+            "link": "https://www.cnbc.com/2025/04/22/fruitist-berry-startup-worth-1-billion-backed-by-ray-dalio-office.html",
+            "summary": "Fruitist, known for its jumbo blueberries, has surpassed $400 million in annual sales. The company has received backing from Ray Dalio's family office.",
+            "date": "Tue, 22 Apr 2025 12:17:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NFLX",
+            "stock_ticker": "SURE",
             "impact": "Neutral"
         },
         {
-            "title": "‘My house and car are paid off’: I have $1 million in stocks — so where do I invest $100,000?",
-            "link": "https://www.marketwatch.com/story/my-house-and-car-are-paid-off-i-have-1-million-in-stocks-so-where-do-i-invest-100-000-5f2055f6?mod=mw_rss_topstories",
-            "summary": "“I have plenty of rainy-day money. I don’t want to be a landlord again. And, yes, I give my children money.”",
-            "date": "Mon, 21 Apr 2025 12:21:00 GMT",
+            "title": "India's Modi and U.S. Vice President Vance optimistic on New Delhi-Washington trade deal",
+            "link": "https://www.cnbc.com/2025/04/22/modi-and-vance-tout-significant-progress-on-india-us-trade-deal.html",
+            "summary": "The two leaders \"welcomed the significant progress in the negotiations for a mutually beneficial India-U.S. Bilateral Trade Agreement,\" Modi's office said.",
+            "date": "Tue, 22 Apr 2025 13:10:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "^DGE",
             "impact": "Neutral"
         },
         {
-            "title": "This economist says there’s a 90% chance of a recession. Here’s the math.",
-            "link": "https://www.marketwatch.com/story/this-economist-says-theres-a-90-chance-of-a-recession-unless-tariff-policies-are-changed-e43c40d1?mod=mw_rss_topstories",
-            "summary": "A voluntary trade reset recession doesn’t sound very good, and it’s not. A voluntary tradereset recession doesn't sound like a good idea.",
-            "date": "Mon, 21 Apr 2025 11:30:00 GMT",
+            "title": "Gold tops $3,500 an ounce as Trump attack on Fed shakes confidence in U.S.",
+            "link": "https://www.cnbc.com/2025/04/22/gold-tops-3500-an-ounce-as-trump-attack-on-fed-spooks-investors.html",
+            "summary": "Investors are buying gold as President Donald Trump's trade policies and threats against the Fed have shaken confidence in the U.S. economy.",
+            "date": "Tue, 22 Apr 2025 13:17:06 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GOLD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bitcoin rises for a second day, testing key resistance and decoupling from stocks",
+            "link": "https://www.cnbc.com/2025/04/22/crypto-market-today.html",
+            "summary": "Bitcoin is testing $88,000 for a second day as the stock market tries to recover from another sell-off. Bitcoin is currently trading at $87,000, down 1.5 per cent on the day.",
+            "date": "Tue, 22 Apr 2025 13:15:11 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BTC=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "U.S. and global economies to sag and inflation rise if trade wars drag on in 2025, IMF says",
+            "link": "https://www.marketwatch.com/story/u-s-and-global-economies-to-sag-and-inflation-rise-imf-says-if-trade-wars-drag-on-in-2025-6ffeaa1d?mod=mw_rss_topstories",
+            "summary": "IMF: Trade fights will take a big chunk out of the U.S. and global economies this year. Analysts: The longer they drag on, the worse the impact will be.",
+            "date": "Tue, 22 Apr 2025 13:18:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HRC=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Globalization isn’t over — but now it’s costly and will make Americans poorer",
+            "link": "https://www.marketwatch.com/story/globalization-isnt-over-but-now-its-going-to-make-americans-poorer-3a9d259d?mod=mw_rss_topstories",
+            "summary": "Trump’s tariffs can be effective only if other nations don’t retaliate. That isn't happening. Trump's tariffs can only be effective if other countries don't retaliate. that isn”t happening.",
+            "date": "Tue, 22 Apr 2025 13:18:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IGS1.MU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Halliburton’s stock falls as weak oil prices fuel a drop in North America revenue",
+            "link": "https://www.marketwatch.com/story/halliburton-stock-slides-as-q1-revenue-declines-9d11cb09?mod=mw_rss_topstories",
+            "summary": "First-quarter revenue in North America fell 12% year over year. North America is Halliburton’s biggest geographic segment by revenue.",
+            "date": "Tue, 22 Apr 2025 13:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VINC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This looming market risk could spell trouble for gold — and investors are missing it",
+            "link": "https://www.marketwatch.com/story/this-looming-market-risk-could-spell-trouble-for-gold-and-investors-are-missing-it-d2d20346?mod=mw_rss_topstories",
+            "summary": "The reverse yen carry trade tanked U.S. stocks last summer. It’s threatening again. Remember how the reverse yen carried trade tanking U.N. stocks in 2008?",
+            "date": "Tue, 22 Apr 2025 13:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘She’s kept him afloat’: I’m 78 and leaving my daughter my life savings, but her partner is unemployed and doesn’t pay rent. What do I do?",
-            "link": "https://www.marketwatch.com/story/shes-kept-him-afloat-im-78-and-leaving-my-daughter-my-life-savings-but-her-partner-is-unemployed-and-doesnt-pay-rent-what-do-i-do-d60a2253?mod=mw_rss_topstories",
-            "summary": "“He keeps losing jobs and going on unemployment,” he says. “He’s got to do something.”",
-            "date": "Mon, 21 Apr 2025 11:01:00 GMT",
+            "title": "3M says tariffs could cut 2025 earnings by more than $200 million",
+            "link": "https://www.marketwatch.com/story/3m-says-tariffs-could-shave-2025-earnings-by-up-to-40-cents-a-share-25a2b58e?mod=mw_rss_topstories",
+            "summary": "The company faces a ‘dynamic environment’ by focusing on U.S. operations. The company has more than 100,000 employees in the United States.",
+            "date": "Tue, 22 Apr 2025 12:47:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHESHAINDS.BO",
+            "stock_ticker": "0P0000THE7.F",
             "impact": "Neutral"
         }
     ]
