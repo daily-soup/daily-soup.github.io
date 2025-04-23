@@ -1,124 +1,124 @@
 {
-    "date": "2025-04-22",
+    "date": "2025-04-23",
     "news": [
         {
-            "title": "IMF slashes 2025 U.S. growth forecast to 1.8% from 2.7%, citing trade tensions",
-            "link": "https://www.cnbc.com/2025/04/22/imf-slashes-us-growth-forecast-by-nearly-one-percentage-point.html",
-            "summary": "The IMF cites intensifying downside risks as it lowered its growth projections. The Washington-based IMF, in its World Economic Report, cited intensified downside risks.",
-            "date": "Tue, 22 Apr 2025 13:11:08 GMT",
+            "title": "IMF forecasts U.S. fiscal deficit will dip in 2025 thanks to higher tariff revenue",
+            "link": "https://www.cnbc.com/2025/04/23/imf-sees-us-fiscal-deficit-dipping-in-2025-citing-tariff-revenue.html",
+            "summary": "The 191-nation fund credited higher tariff revenue for a somewhat smaller deficit projection. The 191- nation fund credits higher tariff revenues for a smaller deficit projections.",
+            "date": "Wed, 23 Apr 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "IMF",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Inside the $1 billion berry startup backed by Ray Dalio’s family office",
-            "link": "https://www.cnbc.com/2025/04/22/fruitist-berry-startup-worth-1-billion-backed-by-ray-dalio-office.html",
-            "summary": "Fruitist, known for its jumbo blueberries, has surpassed $400 million in annual sales. The company has received backing from Ray Dalio's family office.",
-            "date": "Tue, 22 Apr 2025 12:17:51 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SURE",
             "impact": "Neutral"
         },
         {
-            "title": "India's Modi and U.S. Vice President Vance optimistic on New Delhi-Washington trade deal",
-            "link": "https://www.cnbc.com/2025/04/22/modi-and-vance-tout-significant-progress-on-india-us-trade-deal.html",
-            "summary": "The two leaders \"welcomed the significant progress in the negotiations for a mutually beneficial India-U.S. Bilateral Trade Agreement,\" Modi's office said.",
-            "date": "Tue, 22 Apr 2025 13:10:21 GMT",
+            "title": "Boeing to seek FAA approval this year to increase 737 Max production as losses narrow",
+            "link": "https://www.cnbc.com/2025/04/23/boeing-ba-1q-2025-earnings.html",
+            "summary": "Boeing's first quarter loss narrowed to $31 million in the first quarter. The company burned less cash than analysts estimated. Boeing's quarterly profit was $1.2 billion.",
+            "date": "Wed, 23 Apr 2025 13:23:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^DGE",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "Gold tops $3,500 an ounce as Trump attack on Fed shakes confidence in U.S.",
-            "link": "https://www.cnbc.com/2025/04/22/gold-tops-3500-an-ounce-as-trump-attack-on-fed-spooks-investors.html",
-            "summary": "Investors are buying gold as President Donald Trump's trade policies and threats against the Fed have shaken confidence in the U.S. economy.",
-            "date": "Tue, 22 Apr 2025 13:17:06 GMT",
+            "title": "Why cable companies like Comcast and Charter are leaning into mobile service",
+            "link": "https://www.cnbc.com/2025/04/23/comcast-charter-cable-mobile-service.html",
+            "summary": "Cable giants like Comcast and Charter jumped into the mobile business a decade ago. Less than a decade later, the segment has become a significant financial driver.",
+            "date": "Wed, 23 Apr 2025 13:15:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOLD",
+            "stock_ticker": "WHYCX",
             "impact": "Neutral"
         },
         {
-            "title": "Bitcoin rises for a second day, testing key resistance and decoupling from stocks",
-            "link": "https://www.cnbc.com/2025/04/22/crypto-market-today.html",
-            "summary": "Bitcoin is testing $88,000 for a second day as the stock market tries to recover from another sell-off. Bitcoin is currently trading at $87,000, down 1.5 per cent on the day.",
-            "date": "Tue, 22 Apr 2025 13:15:11 GMT",
+            "title": "Eli Lilly sues four telehealth sites selling compounded Zepbound, Mounjaro",
+            "link": "https://www.cnbc.com/2025/04/23/eli-lilly-sues-compounded-mounjaro-zepbound-providers-.html",
+            "summary": "Eli Lilly & Co. is suing four telehealth companies selling compounded versions of its drugs. The drugs include weight-loss drug Zepbound and its diabetes drug Mounjaro.",
+            "date": "Wed, 23 Apr 2025 10:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BTC=F",
+            "stock_ticker": "LLY",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. and global economies to sag and inflation rise if trade wars drag on in 2025, IMF says",
-            "link": "https://www.marketwatch.com/story/u-s-and-global-economies-to-sag-and-inflation-rise-imf-says-if-trade-wars-drag-on-in-2025-6ffeaa1d?mod=mw_rss_topstories",
-            "summary": "IMF: Trade fights will take a big chunk out of the U.S. and global economies this year. Analysts: The longer they drag on, the worse the impact will be.",
-            "date": "Tue, 22 Apr 2025 13:18:00 GMT",
+            "title": "Bessent says he expects 'de-escalation' in U.S.-China tariff fight in the 'very near future'",
+            "link": "https://www.cnbc.com/2025/04/22/bessent-trump-tariffs-china-deescalate.html",
+            "summary": "Stocks soar on news of the remarks from Trump Treasury Secretary Scott Bessent. Stocks, already recovering from the prior day's sell-off, soared higher.",
+            "date": "Tue, 22 Apr 2025 18:56:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "HE",
             "impact": "Neutral"
         },
         {
-            "title": "Globalization isn’t over — but now it’s costly and will make Americans poorer",
-            "link": "https://www.marketwatch.com/story/globalization-isnt-over-but-now-its-going-to-make-americans-poorer-3a9d259d?mod=mw_rss_topstories",
-            "summary": "Trump’s tariffs can be effective only if other nations don’t retaliate. That isn't happening. Trump's tariffs can only be effective if other countries don't retaliate. that isn”t happening.",
-            "date": "Tue, 22 Apr 2025 13:18:00 GMT",
+            "title": "SAP extends lead as Europe’s most valuable company after  earnings beat",
+            "link": "https://www.marketwatch.com/story/sap-extends-lead-as-europes-most-valuable-company-after-earnings-beat-c266c9a8?mod=mw_rss_topstories",
+            "summary": "SAP extended its lead as Europe’s most valuable company after the business-software company's stock saw its best surge in six years.",
+            "date": "Wed, 23 Apr 2025 12:53:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IGS1.MU",
+            "stock_ticker": "SAP",
             "impact": "Neutral"
         },
         {
-            "title": "Halliburton’s stock falls as weak oil prices fuel a drop in North America revenue",
-            "link": "https://www.marketwatch.com/story/halliburton-stock-slides-as-q1-revenue-declines-9d11cb09?mod=mw_rss_topstories",
-            "summary": "First-quarter revenue in North America fell 12% year over year. North America is Halliburton’s biggest geographic segment by revenue.",
-            "date": "Tue, 22 Apr 2025 13:15:00 GMT",
+            "title": "The buying opportunity of a lifetime is coming. But not before a 40% drop for the S&P 500, says this strategist.",
+            "link": "https://www.marketwatch.com/story/the-buying-opportunity-of-a-lifetime-is-coming-but-not-before-a-40-drop-for-the-s-p-500-says-this-strategist-b3aa3bd5?mod=mw_rss_topstories",
+            "summary": "Thomas Kee argues that the S&amp;P 500 is far from being fairly valued. The process of correcting that is finally getting under way.",
+            "date": "Wed, 23 Apr 2025 12:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VINC",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "This looming market risk could spell trouble for gold — and investors are missing it",
-            "link": "https://www.marketwatch.com/story/this-looming-market-risk-could-spell-trouble-for-gold-and-investors-are-missing-it-d2d20346?mod=mw_rss_topstories",
-            "summary": "The reverse yen carry trade tanked U.S. stocks last summer. It’s threatening again. Remember how the reverse yen carried trade tanking U.N. stocks in 2008?",
-            "date": "Tue, 22 Apr 2025 13:03:00 GMT",
+            "title": "Boeing sees commercial airplane revenue surge, even after tariff announcements",
+            "link": "https://www.marketwatch.com/story/boeings-stock-jumps-as-commercial-airplane-revenue-surges-and-losses-narrow-27d495e2?mod=mw_rss_topstories",
+            "summary": "Boeing's losses narrow much more than expected, and revenue rose for the first time in over a year. Boeing’s stock jumps, as losses surprisingly narrow.",
+            "date": "Wed, 23 Apr 2025 12:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "3M says tariffs could cut 2025 earnings by more than $200 million",
-            "link": "https://www.marketwatch.com/story/3m-says-tariffs-could-shave-2025-earnings-by-up-to-40-cents-a-share-25a2b58e?mod=mw_rss_topstories",
-            "summary": "The company faces a ‘dynamic environment’ by focusing on U.S. operations. The company has more than 100,000 employees in the United States.",
-            "date": "Tue, 22 Apr 2025 12:47:00 GMT",
+            "title": "AI data center buildups are boosting Vertiv’s sales. Its stock is rallying.",
+            "link": "https://www.marketwatch.com/story/ai-data-center-buildups-are-boosting-vertivs-sales-its-stock-is-rallying-2137f4d8?mod=mw_rss_topstories",
+            "summary": "Vertiv wants components made in Mexico to be exempt under the 2018 USMCA free-trade agreement. Vertiv said it’s working to mitigate any tariff impact.",
+            "date": "Wed, 23 Apr 2025 12:34:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0000THE7.F",
+            "stock_ticker": "AI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Elon Musk is recommitting to Tesla, but will that save the stock? It’s not so simple.",
+            "link": "https://www.marketwatch.com/story/elon-musk-is-recommitting-to-tesla-but-will-that-save-the-stock-its-not-so-simple-d81e94aa?mod=mw_rss_topstories",
+            "summary": "Tesla's stock is rising as investors cheer Musk's renewed focus on the company. But there are various challenges ahead, including tariffs, an evolving EV market and a history of delays.",
+            "date": "Wed, 23 Apr 2025 12:24:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ELON",
             "impact": "Neutral"
         }
     ]
