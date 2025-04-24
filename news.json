@@ -1,124 +1,124 @@
 {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "news": [
         {
-            "title": "IMF forecasts U.S. fiscal deficit will dip in 2025 thanks to higher tariff revenue",
-            "link": "https://www.cnbc.com/2025/04/23/imf-sees-us-fiscal-deficit-dipping-in-2025-citing-tariff-revenue.html",
-            "summary": "The 191-nation fund credited higher tariff revenue for a somewhat smaller deficit projection. The 191- nation fund credits higher tariff revenues for a smaller deficit projections.",
-            "date": "Wed, 23 Apr 2025 13:00:00 GMT",
+            "title": "Trump aims to fight China's control of minerals by investing in miners",
+            "link": "https://www.cnbc.com/2025/04/24/trump-weighs-investments-in-critical-mineral-companies-burgum-says.html",
+            "summary": "Interior Secretary Doug Burgum: China dumps critical minerals, collapsing prices. Burgum says it's making it difficult for U.S. companies to compete.",
+            "date": "Thu, 24 Apr 2025 12:52:48 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IMF",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Boeing to seek FAA approval this year to increase 737 Max production as losses narrow",
-            "link": "https://www.cnbc.com/2025/04/23/boeing-ba-1q-2025-earnings.html",
-            "summary": "Boeing's first quarter loss narrowed to $31 million in the first quarter. The company burned less cash than analysts estimated. Boeing's quarterly profit was $1.2 billion.",
-            "date": "Wed, 23 Apr 2025 13:23:02 GMT",
+            "title": "Orders for big-ticket items like autos and appliances surged 9.2% in March in rush to beat tariffs",
+            "link": "https://www.cnbc.com/2025/04/24/orders-for-big-ticket-items-like-autos-and-appliances-surged-9point2percent-in-march-in-rush-to-beat-tariffs.html",
+            "summary": "Transportation equipment orders surged 27%, led by a 139% increase in nondefense aircraft and parts. Transportation equipment orders were up 27% from last year.",
+            "date": "Thu, 24 Apr 2025 13:05:18 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RDEX-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Procter & Gamble CEO says price hikes are 'likely,' as Tide owner cuts outlook due to tariffs, uncertainty",
+            "link": "https://www.cnbc.com/2025/04/24/procter-gamble-pg-q3-2025-earnings.html",
+            "summary": "Procter & Gamble's quarterly earnings topped estimates, but its revenue fell short of expectations. Procter&Grips' quarterly revenue also missed expectations.",
+            "date": "Thu, 24 Apr 2025 12:20:35 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PG",
+            "impact": "Neutral"
+        },
+        {
+            "title": "American Airlines withdraws 2025 forecast on murky economic outlook",
+            "link": "https://www.cnbc.com/2025/04/24/american-airlines-aal-1q-2025-earnings.html",
+            "summary": "American Airlines joins Delta, Southwest and Alaska in pulling its 2025 financial guidance. American Airlines joined Delta, South Carolina, Alaska and other airlines in pulling their 2025 guidance.",
+            "date": "Thu, 24 Apr 2025 12:06:45 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bristol Myers Squibb tops quarterly estimates, hikes outlook as drugmaker braces for tariffs",
+            "link": "https://www.cnbc.com/2025/04/24/bristol-myers-squibb-bmy-earnings-q1-2025.html",
+            "summary": "The guidance revisions include the estimated impact of current tariffs on U.S. products shipped to China. But not Trump's planned pharmaceutical tariffs.",
+            "date": "Thu, 24 Apr 2025 12:41:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BMY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Merck absorbs $200 million in tariff costs into its earnings and full-year outlook",
+            "link": "https://www.marketwatch.com/story/merck-absorbs-200-million-in-tariff-costs-into-its-earnings-and-full-year-outlook-d4cbecb7?mod=mw_rss_topstories",
+            "summary": "Shares of Merck & Co. were headed higher in early Thursday trading. The drugmaker extended its long streak of quarterly earnings beats and held firm with its full-year outlook.",
+            "date": "Thu, 24 Apr 2025 13:17:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MRK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘Elon’s not going anywhere’: Trump White House says Musk has more work to do at ‘DOGE’",
+            "link": "https://www.marketwatch.com/story/elons-not-going-anywhere-trump-white-house-says-musk-has-more-doge-work-to-do-ff040c5b?mod=mw_rss_topstories",
+            "summary": "Elon Musk says he will spend more time at Tesla, but the White House expects him to continue “dedicating a lot of his time”’ to supporting the president.",
+            "date": "Thu, 24 Apr 2025 13:03:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ERIC30814-USD",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Boeing contracts and tariff ‘front-running’ boost durable-goods orders.  It won’t last if trade wars keep raging.",
+            "link": "https://www.marketwatch.com/story/boeing-contracts-and-tariff-front-running-boosted-durable-goods-orders-it-wont-last-97c5edcc?mod=mw_rss_topstories",
+            "summary": "Boeing contracts and companies seeking to stock up ahead of the Trump tariffs sent orders for U.S. durable goods soaring in March. The strength is unlikely to last as trade wars begin to bite.",
+            "date": "Thu, 24 Apr 2025 13:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BA",
-            "impact": "Neutral"
+            "impact": "Bullish"
         },
         {
-            "title": "Why cable companies like Comcast and Charter are leaning into mobile service",
-            "link": "https://www.cnbc.com/2025/04/23/comcast-charter-cable-mobile-service.html",
-            "summary": "Cable giants like Comcast and Charter jumped into the mobile business a decade ago. Less than a decade later, the segment has become a significant financial driver.",
-            "date": "Wed, 23 Apr 2025 13:15:01 GMT",
+            "title": "Jobless claims remain in stable range, as labor market is seen frozen in place",
+            "link": "https://www.marketwatch.com/story/jobless-claims-remain-is-stable-range-labor-market-seen-frozen-in-place-3cc1548c?mod=mw_rss_topstories",
+            "summary": "At the start of the year, the labor market was strong. Now there is a lack of churn, one economist says. \"It's a sign of things to come,\" he says.",
+            "date": "Thu, 24 Apr 2025 12:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYCX",
+            "stock_ticker": "CLA18371-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Eli Lilly sues four telehealth sites selling compounded Zepbound, Mounjaro",
-            "link": "https://www.cnbc.com/2025/04/23/eli-lilly-sues-compounded-mounjaro-zepbound-providers-.html",
-            "summary": "Eli Lilly & Co. is suing four telehealth companies selling compounded versions of its drugs. The drugs include weight-loss drug Zepbound and its diabetes drug Mounjaro.",
-            "date": "Wed, 23 Apr 2025 10:30:01 GMT",
+            "title": "This strategist warned of a selloff in December. He’s watching these two signals to confirm if stocks have bottomed.",
+            "link": "https://www.marketwatch.com/story/this-strategist-warned-of-a-selloff-in-december-hes-watching-these-two-signals-to-confirm-if-stocks-have-bottomed-b319fdc5?mod=mw_rss_topstories",
+            "summary": "Investors have gotten one signal the stock market bottom is in, they just need this one to confirm, says Warren Pies, founder and strategist at 3Fourteen Research.",
+            "date": "Thu, 24 Apr 2025 12:56:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LLY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Bessent says he expects 'de-escalation' in U.S.-China tariff fight in the 'very near future'",
-            "link": "https://www.cnbc.com/2025/04/22/bessent-trump-tariffs-china-deescalate.html",
-            "summary": "Stocks soar on news of the remarks from Trump Treasury Secretary Scott Bessent. Stocks, already recovering from the prior day's sell-off, soared higher.",
-            "date": "Tue, 22 Apr 2025 18:56:55 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "SAP extends lead as Europe’s most valuable company after  earnings beat",
-            "link": "https://www.marketwatch.com/story/sap-extends-lead-as-europes-most-valuable-company-after-earnings-beat-c266c9a8?mod=mw_rss_topstories",
-            "summary": "SAP extended its lead as Europe’s most valuable company after the business-software company's stock saw its best surge in six years.",
-            "date": "Wed, 23 Apr 2025 12:53:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SAP",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The buying opportunity of a lifetime is coming. But not before a 40% drop for the S&P 500, says this strategist.",
-            "link": "https://www.marketwatch.com/story/the-buying-opportunity-of-a-lifetime-is-coming-but-not-before-a-40-drop-for-the-s-p-500-says-this-strategist-b3aa3bd5?mod=mw_rss_topstories",
-            "summary": "Thomas Kee argues that the S&amp;P 500 is far from being fairly valued. The process of correcting that is finally getting under way.",
-            "date": "Wed, 23 Apr 2025 12:45:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Boeing sees commercial airplane revenue surge, even after tariff announcements",
-            "link": "https://www.marketwatch.com/story/boeings-stock-jumps-as-commercial-airplane-revenue-surges-and-losses-narrow-27d495e2?mod=mw_rss_topstories",
-            "summary": "Boeing's losses narrow much more than expected, and revenue rose for the first time in over a year. Boeing’s stock jumps, as losses surprisingly narrow.",
-            "date": "Wed, 23 Apr 2025 12:40:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "AI data center buildups are boosting Vertiv’s sales. Its stock is rallying.",
-            "link": "https://www.marketwatch.com/story/ai-data-center-buildups-are-boosting-vertivs-sales-its-stock-is-rallying-2137f4d8?mod=mw_rss_topstories",
-            "summary": "Vertiv wants components made in Mexico to be exempt under the 2018 USMCA free-trade agreement. Vertiv said it’s working to mitigate any tariff impact.",
-            "date": "Wed, 23 Apr 2025 12:34:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Elon Musk is recommitting to Tesla, but will that save the stock? It’s not so simple.",
-            "link": "https://www.marketwatch.com/story/elon-musk-is-recommitting-to-tesla-but-will-that-save-the-stock-its-not-so-simple-d81e94aa?mod=mw_rss_topstories",
-            "summary": "Tesla's stock is rising as investors cheer Musk's renewed focus on the company. But there are various challenges ahead, including tariffs, an evolving EV market and a history of delays.",
-            "date": "Wed, 23 Apr 2025 12:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ELON",
+            "stock_ticker": "S2819.MC",
             "impact": "Neutral"
         }
     ]
