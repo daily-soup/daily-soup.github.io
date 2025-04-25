@@ -1,11 +1,23 @@
 {
-    "date": "2025-04-24",
+    "date": "2025-04-25",
     "news": [
         {
-            "title": "Trump aims to fight China's control of minerals by investing in miners",
-            "link": "https://www.cnbc.com/2025/04/24/trump-weighs-investments-in-critical-mineral-companies-burgum-says.html",
-            "summary": "Interior Secretary Doug Burgum: China dumps critical minerals, collapsing prices. Burgum says it's making it difficult for U.S. companies to compete.",
-            "date": "Thu, 24 Apr 2025 12:52:48 GMT",
+            "title": "Amazon sellers raise prices after Trump's China tariff: 'It's unsustainable'",
+            "link": "https://www.cnbc.com/2025/04/25/amazon-sellers-hike-prices-of-goods-after-trumps-china-tariffs.html",
+            "summary": "Amazon third-party sellers are raising prices and looking for new suppliers. President Trump lifted tariffs on goods from China. Amazon is looking to find new suppliers to fill the gap.",
+            "date": "Fri, 25 Apr 2025 12:47:10 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AMZN",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Trump insists bond market tumult didn't influence tariff pause: 'I wasn't worried'",
+            "link": "https://www.cnbc.com/2025/04/25/trump-insists-bond-market-tumult-didnt-influence-tariff-pause-i-wasnt-worried.html",
+            "summary": "\"I wasn't worried,\" Trump said in  a Time magazine interview during which he was asked about financial market tumult. Trump said he was \"not worried\" about the stock market.",
+            "date": "Fri, 25 Apr 2025 12:29:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +26,99 @@
             "impact": "Neutral"
         },
         {
-            "title": "Orders for big-ticket items like autos and appliances surged 9.2% in March in rush to beat tariffs",
-            "link": "https://www.cnbc.com/2025/04/24/orders-for-big-ticket-items-like-autos-and-appliances-surged-9point2percent-in-march-in-rush-to-beat-tariffs.html",
-            "summary": "Transportation equipment orders surged 27%, led by a 139% increase in nondefense aircraft and parts. Transportation equipment orders were up 27% from last year.",
-            "date": "Thu, 24 Apr 2025 13:05:18 GMT",
+            "title": "Trump signs order to boost deep-sea mining, seeking to break China's critical minerals dominance",
+            "link": "https://www.cnbc.com/2025/04/25/trump-signs-executive-order-to-fast-track-deep-sea-mining-industry.html",
+            "summary": "The practice of deep-sea mining involves using heavy machinery to remove minerals and metals from the seabed. The minerals build up into potato-sized nodules.",
+            "date": "Fri, 25 Apr 2025 10:36:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RDEX-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Procter & Gamble CEO says price hikes are 'likely,' as Tide owner cuts outlook due to tariffs, uncertainty",
-            "link": "https://www.cnbc.com/2025/04/24/procter-gamble-pg-q3-2025-earnings.html",
-            "summary": "Procter & Gamble's quarterly earnings topped estimates, but its revenue fell short of expectations. Procter&Grips' quarterly revenue also missed expectations.",
-            "date": "Thu, 24 Apr 2025 12:20:35 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "American Airlines withdraws 2025 forecast on murky economic outlook",
-            "link": "https://www.cnbc.com/2025/04/24/american-airlines-aal-1q-2025-earnings.html",
-            "summary": "American Airlines joins Delta, Southwest and Alaska in pulling its 2025 financial guidance. American Airlines joined Delta, South Carolina, Alaska and other airlines in pulling their 2025 guidance.",
-            "date": "Thu, 24 Apr 2025 12:06:45 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Bristol Myers Squibb tops quarterly estimates, hikes outlook as drugmaker braces for tariffs",
-            "link": "https://www.cnbc.com/2025/04/24/bristol-myers-squibb-bmy-earnings-q1-2025.html",
-            "summary": "The guidance revisions include the estimated impact of current tariffs on U.S. products shipped to China. But not Trump's planned pharmaceutical tariffs.",
-            "date": "Thu, 24 Apr 2025 12:41:07 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Merck absorbs $200 million in tariff costs into its earnings and full-year outlook",
-            "link": "https://www.marketwatch.com/story/merck-absorbs-200-million-in-tariff-costs-into-its-earnings-and-full-year-outlook-d4cbecb7?mod=mw_rss_topstories",
-            "summary": "Shares of Merck & Co. were headed higher in early Thursday trading. The drugmaker extended its long streak of quarterly earnings beats and held firm with its full-year outlook.",
-            "date": "Thu, 24 Apr 2025 13:17:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MRK",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘Elon’s not going anywhere’: Trump White House says Musk has more work to do at ‘DOGE’",
-            "link": "https://www.marketwatch.com/story/elons-not-going-anywhere-trump-white-house-says-musk-has-more-doge-work-to-do-ff040c5b?mod=mw_rss_topstories",
-            "summary": "Elon Musk says he will spend more time at Tesla, but the White House expects him to continue “dedicating a lot of his time”’ to supporting the president.",
-            "date": "Thu, 24 Apr 2025 13:03:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ERIC30814-USD",
+            "stock_ticker": "DJT",
             "impact": "Bullish"
         },
         {
-            "title": "Boeing contracts and tariff ‘front-running’ boost durable-goods orders.  It won’t last if trade wars keep raging.",
-            "link": "https://www.marketwatch.com/story/boeing-contracts-and-tariff-front-running-boosted-durable-goods-orders-it-wont-last-97c5edcc?mod=mw_rss_topstories",
-            "summary": "Boeing contracts and companies seeking to stock up ahead of the Trump tariffs sent orders for U.S. durable goods soaring in March. The strength is unlikely to last as trade wars begin to bite.",
-            "date": "Thu, 24 Apr 2025 13:03:00 GMT",
+            "title": "Trump asserts trade talks with China are underway after Beijing denies any ongoing negotiations",
+            "link": "https://www.cnbc.com/2025/04/24/china-says-no-talks-with-the-us-on-trade-calls-for-canceling-unilateral-tariffs.html",
+            "summary": "The statement followed China's denial of any talks with the U.S. and calls for abolishing 'unilateral' tariff measures for resolving trade issues.",
+            "date": "Fri, 25 Apr 2025 03:59:10 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Jobless claims remain in stable range, as labor market is seen frozen in place",
-            "link": "https://www.marketwatch.com/story/jobless-claims-remain-is-stable-range-labor-market-seen-frozen-in-place-3cc1548c?mod=mw_rss_topstories",
-            "summary": "At the start of the year, the labor market was strong. Now there is a lack of churn, one economist says. \"It's a sign of things to come,\" he says.",
-            "date": "Thu, 24 Apr 2025 12:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CLA18371-USD",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "This strategist warned of a selloff in December. He’s watching these two signals to confirm if stocks have bottomed.",
-            "link": "https://www.marketwatch.com/story/this-strategist-warned-of-a-selloff-in-december-hes-watching-these-two-signals-to-confirm-if-stocks-have-bottomed-b319fdc5?mod=mw_rss_topstories",
-            "summary": "Investors have gotten one signal the stock market bottom is in, they just need this one to confirm, says Warren Pies, founder and strategist at 3Fourteen Research.",
-            "date": "Thu, 24 Apr 2025 12:56:00 GMT",
+            "title": "Russia tests U.S. patience as Trump rushes to clinch Ukraine peace deal in first 100 days in office",
+            "link": "https://www.cnbc.com/2025/04/25/russia-tests-us-patience-trump-rushes-to-clinch-ukraine-peace-deal.html",
+            "summary": "U.S. special envoy Steve Witkoff is expected to carry out further peace talks with Russian President Vladimir Putin on Friday. U.S.-Russian peace talks are expected to take place in Moscow.",
+            "date": "Fri, 25 Apr 2025 12:37:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "S2819.MC",
+            "stock_ticker": "LEER.DE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Intel’s turnaround deemed a ‘herculean task’ — so analysts say to avoid the stock",
+            "link": "https://www.marketwatch.com/story/intels-turnaround-deemed-a-herculean-task-so-analysts-say-to-avoid-the-stock-2726e58a?mod=mw_rss_topstories",
+            "summary": "Intel's stock is down after earnings, and \"there seems little to get excited about,\" says one analyst. Intel is the world’s largest chip maker.",
+            "date": "Fri, 25 Apr 2025 13:03:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001D9IT.F",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Think groceries are already too expensive? Wait until RFK Jr.’s food-dye ban hits, experts say.",
+            "link": "https://www.marketwatch.com/story/think-groceries-are-already-too-expensive-wait-until-rfk-jr-s-food-dye-ban-hits-3ce6eebf?mod=mw_rss_topstories",
+            "summary": "The cost of going from synthetic to natural dyes could hike annual food costs by thousands of dollars per household, one data scientist warns. The cost of switching from synthetic dyes to natural ones could be as high as $10,000 per household.",
+            "date": "Fri, 25 Apr 2025 12:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "THNC.TO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Samuel Adams’s parent company points to gains in light beer as tastes shift from craft brews",
+            "link": "https://www.marketwatch.com/story/samuel-adamss-parent-company-points-to-gains-in-light-beer-as-tastes-shift-from-craft-brews-c8ccdec2?mod=mw_rss_topstories",
+            "summary": "Boston Beer Co. says that the company faces long-term challenges. Boston Beer says that it is committed to making the best beer possible. The company says it will continue to invest in innovation.",
+            "date": "Fri, 25 Apr 2025 12:55:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "XSSK.JK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Don’t count on ‘drill, baby, drill,’ Schlumberger says",
+            "link": "https://www.marketwatch.com/story/dont-count-on-drill-baby-drill-schlumberger-says-6cea0fff?mod=mw_rss_topstories",
+            "summary": " Schlumberger's stock falls after a rare earnings miss and a warning that a slowing economy and uncertain tariff policies could hurt demand for oil drilling.",
+            "date": "Fri, 25 Apr 2025 12:36:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RFV.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "It’s time to start nibbling on Lowe’s and Williams-Sonoma’s stocks, analyst says",
+            "link": "https://www.marketwatch.com/story/its-time-to-start-nibbling-on-lowes-and-williams-sonomas-stocks-analyst-says-5edc6d7d?mod=mw_rss_topstories",
+            "summary": "Patient investors will see the benefits of taking small purchases of these stocks. Patient investors will be able to reap the benefits from taking small investments in these companies.",
+            "date": "Fri, 25 Apr 2025 11:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ITSA3.SA",
             "impact": "Neutral"
         }
     ]
