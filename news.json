@@ -1,124 +1,124 @@
 {
-    "date": "2025-04-25",
+    "date": "2025-04-26",
     "news": [
         {
-            "title": "Amazon sellers raise prices after Trump's China tariff: 'It's unsustainable'",
-            "link": "https://www.cnbc.com/2025/04/25/amazon-sellers-hike-prices-of-goods-after-trumps-china-tariffs.html",
-            "summary": "Amazon third-party sellers are raising prices and looking for new suppliers. President Trump lifted tariffs on goods from China. Amazon is looking to find new suppliers to fill the gap.",
-            "date": "Fri, 25 Apr 2025 12:47:10 GMT",
+            "title": "More Americans are financing groceries with buy now, pay later loans — and more are paying those bills late, survey says",
+            "link": "https://www.cnbc.com/2025/04/26/americans-groceries-buy-now-pay-later-loans.html",
+            "summary": "Consumers are using buy now, pay later plans to pay for essentials such as groceries. Concerns around the economy grow as consumers seek to save money.",
+            "date": "Sat, 26 Apr 2025 11:00:02 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MPP.TA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Plane tickets are getting cheaper as domestic travel demand weakens",
+            "link": "https://www.cnbc.com/2025/04/26/plane-tickets-cheap-travel.html",
+            "summary": "Airlines are trimming their domestic schedules as leisure traveler demand comes in lighter than expected. Airlines are cutting back on domestic flights to meet demand for leisure travelers.",
+            "date": "Sat, 26 Apr 2025 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Amazon and Nvidia say all options are on the table to power AI including fossil fuels",
+            "link": "https://www.cnbc.com/2025/04/26/amazon-nvidia-say-all-options-on-the-table-to-power-ai-including-fossil-fuels.html",
+            "summary": "The tech companies have invested mostly in renewable power, but they are now navigating a changed political environment. The tech companies are investing in solar, wind and other renewable energy.",
+            "date": "Sat, 26 Apr 2025 13:08:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "AMZN",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Trump insists bond market tumult didn't influence tariff pause: 'I wasn't worried'",
-            "link": "https://www.cnbc.com/2025/04/25/trump-insists-bond-market-tumult-didnt-influence-tariff-pause-i-wasnt-worried.html",
-            "summary": "\"I wasn't worried,\" Trump said in  a Time magazine interview during which he was asked about financial market tumult. Trump said he was \"not worried\" about the stock market.",
-            "date": "Fri, 25 Apr 2025 12:29:03 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Trump signs order to boost deep-sea mining, seeking to break China's critical minerals dominance",
-            "link": "https://www.cnbc.com/2025/04/25/trump-signs-executive-order-to-fast-track-deep-sea-mining-industry.html",
-            "summary": "The practice of deep-sea mining involves using heavy machinery to remove minerals and metals from the seabed. The minerals build up into potato-sized nodules.",
-            "date": "Fri, 25 Apr 2025 10:36:00 GMT",
+            "title": "International tourism to the U.S. slumps, but Americans can't stop traveling overseas",
+            "link": "https://www.cnbc.com/2025/04/23/international-tourists-domestic-american-travel-abroad.html",
+            "summary": "United Airlines and Delta Air Lines say international and premium travel is robust. Domestic coach-class travel and some corporate travel has slowed, they say.",
+            "date": "Fri, 25 Apr 2025 19:15:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Trump asserts trade talks with China are underway after Beijing denies any ongoing negotiations",
-            "link": "https://www.cnbc.com/2025/04/24/china-says-no-talks-with-the-us-on-trade-calls-for-canceling-unilateral-tariffs.html",
-            "summary": "The statement followed China's denial of any talks with the U.S. and calls for abolishing 'unilateral' tariff measures for resolving trade issues.",
-            "date": "Fri, 25 Apr 2025 03:59:10 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "SSII",
             "impact": "Neutral"
         },
         {
-            "title": "Russia tests U.S. patience as Trump rushes to clinch Ukraine peace deal in first 100 days in office",
-            "link": "https://www.cnbc.com/2025/04/25/russia-tests-us-patience-trump-rushes-to-clinch-ukraine-peace-deal.html",
-            "summary": "U.S. special envoy Steve Witkoff is expected to carry out further peace talks with Russian President Vladimir Putin on Friday. U.S.-Russian peace talks are expected to take place in Moscow.",
-            "date": "Fri, 25 Apr 2025 12:37:27 GMT",
+            "title": "How TikTok’s rise sparked a short-form video race",
+            "link": "https://www.cnbc.com/2025/04/26/how-tiktoks-rise-sparked-a-short-form-video-race.html",
+            "summary": "TikTok's dominance in short-form video has reshaped social media. Rivals like Meta, YouTube and LinkedIn are investing to compete for users.",
+            "date": "Sat, 26 Apr 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LEER.DE",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Intel’s turnaround deemed a ‘herculean task’ — so analysts say to avoid the stock",
-            "link": "https://www.marketwatch.com/story/intels-turnaround-deemed-a-herculean-task-so-analysts-say-to-avoid-the-stock-2726e58a?mod=mw_rss_topstories",
-            "summary": "Intel's stock is down after earnings, and \"there seems little to get excited about,\" says one analyst. Intel is the world’s largest chip maker.",
-            "date": "Fri, 25 Apr 2025 13:03:00 GMT",
+            "title": "The NYSE’s most famous trader says it’s a great time for traders and shares how to play the volatility",
+            "link": "https://www.marketwatch.com/story/nyses-most-famous-trader-uses-these-chart-indicators-to-navigate-what-he-calls-economic-terrorism-4b097fe6?mod=mw_rss_topstories",
+            "summary": "Peter Tuchman reveals the indicators he uses to map trend direction. Stock trader Peter Tuch man reveals indicators he used to map trends direction. Peter Tuchsman is a stock trader and author.",
+            "date": "Sat, 26 Apr 2025 13:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001D9IT.F",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Think groceries are already too expensive? Wait until RFK Jr.’s food-dye ban hits, experts say.",
-            "link": "https://www.marketwatch.com/story/think-groceries-are-already-too-expensive-wait-until-rfk-jr-s-food-dye-ban-hits-3ce6eebf?mod=mw_rss_topstories",
-            "summary": "The cost of going from synthetic to natural dyes could hike annual food costs by thousands of dollars per household, one data scientist warns. The cost of switching from synthetic dyes to natural ones could be as high as $10,000 per household.",
-            "date": "Fri, 25 Apr 2025 12:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THNC.TO",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "Samuel Adams’s parent company points to gains in light beer as tastes shift from craft brews",
-            "link": "https://www.marketwatch.com/story/samuel-adamss-parent-company-points-to-gains-in-light-beer-as-tastes-shift-from-craft-brews-c8ccdec2?mod=mw_rss_topstories",
-            "summary": "Boston Beer Co. says that the company faces long-term challenges. Boston Beer says that it is committed to making the best beer possible. The company says it will continue to invest in innovation.",
-            "date": "Fri, 25 Apr 2025 12:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "XSSK.JK",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Don’t count on ‘drill, baby, drill,’ Schlumberger says",
-            "link": "https://www.marketwatch.com/story/dont-count-on-drill-baby-drill-schlumberger-says-6cea0fff?mod=mw_rss_topstories",
-            "summary": " Schlumberger's stock falls after a rare earnings miss and a warning that a slowing economy and uncertain tariff policies could hurt demand for oil drilling.",
-            "date": "Fri, 25 Apr 2025 12:36:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RFV.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "It’s time to start nibbling on Lowe’s and Williams-Sonoma’s stocks, analyst says",
-            "link": "https://www.marketwatch.com/story/its-time-to-start-nibbling-on-lowes-and-williams-sonomas-stocks-analyst-says-5edc6d7d?mod=mw_rss_topstories",
-            "summary": "Patient investors will see the benefits of taking small purchases of these stocks. Patient investors will be able to reap the benefits from taking small investments in these companies.",
-            "date": "Fri, 25 Apr 2025 11:50:00 GMT",
+            "title": "It’s time to buy tech stocks: 4 ways to find winners while the market is down",
+            "link": "https://www.marketwatch.com/story/its-time-to-buy-tech-stocks-4-ways-to-find-winners-while-the-market-is-down-52b5ca92?mod=mw_rss_topstories",
+            "summary": "Investors can take advantage of a chance to buy quality stocks at cheaper levels. Use tools that help them buy shares at the right price.",
+            "date": "Sat, 26 Apr 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "ITSA3.SA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘She’s kept him afloat’: I’m 78 and leaving my daughter, 41, my life savings, but her partner is a mooch. How can I protect her?",
+            "link": "https://www.marketwatch.com/story/shes-kept-him-afloat-im-78-and-leaving-my-daughter-my-life-savings-but-her-partner-is-unemployed-and-doesnt-pay-rent-what-do-i-do-d60a2253?mod=mw_rss_topstories",
+            "summary": "“He keeps losing jobs and going on unemployment,” he says. “He’s got to do something.”",
+            "date": "Sat, 26 Apr 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SHESHAINDS.BO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I have an out-of-state adviser in a Republican state’: How can I tell if his political views influence his investment advice?",
+            "link": "https://www.marketwatch.com/story/how-do-i-know-if-my-financial-advisers-political-biases-influence-his-advice-d45484d9?mod=mw_rss_topstories",
+            "summary": "“I don’t know how he feels about the current decisions being made by the administration,” he said. “I’m not sure if he’s happy about it.”",
+            "date": "Sat, 26 Apr 2025 12:22:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SSII",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I’m literally afraid to look at my balance’: I have $300K in a 2025 target-date fund. Is there a chance it will recover?",
+            "link": "https://www.marketwatch.com/story/im-literally-afraid-to-look-at-my-balance-i-have-300k-in-a-2025-target-date-fund-is-there-a-chance-it-will-recover-8765e9ca?mod=mw_rss_topstories",
+            "summary": "“I have no idea at this point how much I have lost,” he says. “I’ve lost a lot. I’m in shock.”",
+            "date": "Sat, 26 Apr 2025 12:07:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         }
     ]
