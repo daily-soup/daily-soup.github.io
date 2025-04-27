@@ -1,18 +1,6 @@
 {
-    "date": "2025-04-26",
+    "date": "2025-04-27",
     "news": [
-        {
-            "title": "More Americans are financing groceries with buy now, pay later loans — and more are paying those bills late, survey says",
-            "link": "https://www.cnbc.com/2025/04/26/americans-groceries-buy-now-pay-later-loans.html",
-            "summary": "Consumers are using buy now, pay later plans to pay for essentials such as groceries. Concerns around the economy grow as consumers seek to save money.",
-            "date": "Sat, 26 Apr 2025 11:00:02 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MPP.TA",
-            "impact": "Neutral"
-        },
         {
             "title": "Plane tickets are getting cheaper as domestic travel demand weakens",
             "link": "https://www.cnbc.com/2025/04/26/plane-tickets-cheap-travel.html",
@@ -26,34 +14,70 @@
             "impact": "Neutral"
         },
         {
-            "title": "Amazon and Nvidia say all options are on the table to power AI including fossil fuels",
-            "link": "https://www.cnbc.com/2025/04/26/amazon-nvidia-say-all-options-on-the-table-to-power-ai-including-fossil-fuels.html",
-            "summary": "The tech companies have invested mostly in renewable power, but they are now navigating a changed political environment. The tech companies are investing in solar, wind and other renewable energy.",
-            "date": "Sat, 26 Apr 2025 13:08:15 GMT",
+            "title": "Trump floats tougher Russia sanctions, meets Zelenskyy for first time since Oval Office blowup",
+            "link": "https://www.cnbc.com/2025/04/26/trump-russia-zelenskyy-pope-funeral.html",
+            "summary": "President Donald Trump's Truth Social post comes as he ramps up pressure on Russia and Ukraine to strike a deal to end their war. President Donald Trump: 'Russia and Ukraine need to come to an agreement to end the war'",
+            "date": "Sat, 26 Apr 2025 16:55:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMZN",
-            "impact": "Neutral"
+            "stock_ticker": "DJT",
+            "impact": "Bullish"
         },
         {
-            "title": "International tourism to the U.S. slumps, but Americans can't stop traveling overseas",
-            "link": "https://www.cnbc.com/2025/04/23/international-tourists-domestic-american-travel-abroad.html",
-            "summary": "United Airlines and Delta Air Lines say international and premium travel is robust. Domestic coach-class travel and some corporate travel has slowed, they say.",
-            "date": "Fri, 25 Apr 2025 19:15:08 GMT",
+            "title": "Corporate sponsors are backing away from LGBTQ+ Pride organizations",
+            "link": "https://www.cnbc.com/2025/04/27/companies-lgbtq-pride-festivals.html",
+            "summary": "Companies that were once loud and proud in sponsoring LGBTQ+ community celebrations are pulling back their funds. It's an uncertain time for Pride organizations.",
+            "date": "Sun, 27 Apr 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SSII",
+            "stock_ticker": "HYG",
             "impact": "Neutral"
         },
         {
-            "title": "How TikTok’s rise sparked a short-form video race",
-            "link": "https://www.cnbc.com/2025/04/26/how-tiktoks-rise-sparked-a-short-form-video-race.html",
-            "summary": "TikTok's dominance in short-form video has reshaped social media. Rivals like Meta, YouTube and LinkedIn are investing to compete for users.",
-            "date": "Sat, 26 Apr 2025 13:00:01 GMT",
+            "title": "I've studied over 200 kids—and this is the most dangerous and 'overused' phrase in parenting",
+            "link": "https://www.cnbc.com/2025/04/26/ive-studied-over-200-kids-this-is-the-most-dangerous-phrase-in-parenting.html",
+            "summary": "Fight the temptation to say these two words, says child psychologist and parenting expert Reem Raouda. How do you comfort your child when they're upset?",
+            "date": "Sat, 26 Apr 2025 13:44:32 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IVG.MI",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Americans are getting flashbacks to 2008 as tariffs stoke recession fears",
+            "link": "https://www.cnbc.com/2025/04/26/americans-are-getting-flashbacks-to-2008-as-tariffs-stoke-recession-fears.html",
+            "summary": "'It's the old poors teaching the new poors,' said one content creator. 'It's not a new world. It's a different world,' said another.",
+            "date": "Sat, 26 Apr 2025 13:16:45 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ARE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "5 charts that show how Trump’s first 100 days have shaped Americans’ finances",
+            "link": "https://www.marketwatch.com/story/5-charts-that-show-how-trumps-first-100-days-have-shaped-americans-finances-ec36fe98?mod=mw_rss_topstories",
+            "summary": "Prices were relatively stable in Trump’s first months in office. Yet the stock market erased trillions in household wealth. Consumers are worried about the looming impact of tariffs.",
+            "date": "Sun, 27 Apr 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "YM=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s how much money Shedeur Sanders lost out on by falling to the fifth round of the NFL draft",
+            "link": "https://www.marketwatch.com/story/heres-how-much-money-the-2025-nfl-draft-picks-will-make-tonight-and-whos-at-risk-of-losing-millions-25133627?mod=mw_rss_topstories",
+            "summary": "Sanders was once projected to go as high as No. 1 overall. He went No. 3 overall to the New York Giants seemingly as low as he could go.",
+            "date": "Sat, 26 Apr 2025 21:19:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,46 +86,10 @@
             "impact": "Neutral"
         },
         {
-            "title": "The NYSE’s most famous trader says it’s a great time for traders and shares how to play the volatility",
-            "link": "https://www.marketwatch.com/story/nyses-most-famous-trader-uses-these-chart-indicators-to-navigate-what-he-calls-economic-terrorism-4b097fe6?mod=mw_rss_topstories",
-            "summary": "Peter Tuchman reveals the indicators he uses to map trend direction. Stock trader Peter Tuch man reveals indicators he used to map trends direction. Peter Tuchsman is a stock trader and author.",
-            "date": "Sat, 26 Apr 2025 13:04:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "It’s time to buy tech stocks: 4 ways to find winners while the market is down",
-            "link": "https://www.marketwatch.com/story/its-time-to-buy-tech-stocks-4-ways-to-find-winners-while-the-market-is-down-52b5ca92?mod=mw_rss_topstories",
-            "summary": "Investors can take advantage of a chance to buy quality stocks at cheaper levels. Use tools that help them buy shares at the right price.",
-            "date": "Sat, 26 Apr 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ITSA3.SA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘She’s kept him afloat’: I’m 78 and leaving my daughter, 41, my life savings, but her partner is a mooch. How can I protect her?",
-            "link": "https://www.marketwatch.com/story/shes-kept-him-afloat-im-78-and-leaving-my-daughter-my-life-savings-but-her-partner-is-unemployed-and-doesnt-pay-rent-what-do-i-do-d60a2253?mod=mw_rss_topstories",
-            "summary": "“He keeps losing jobs and going on unemployment,” he says. “He’s got to do something.”",
-            "date": "Sat, 26 Apr 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SHESHAINDS.BO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I have an out-of-state adviser in a Republican state’: How can I tell if his political views influence his investment advice?",
-            "link": "https://www.marketwatch.com/story/how-do-i-know-if-my-financial-advisers-political-biases-influence-his-advice-d45484d9?mod=mw_rss_topstories",
-            "summary": "“I don’t know how he feels about the current decisions being made by the administration,” he said. “I’m not sure if he’s happy about it.”",
-            "date": "Sat, 26 Apr 2025 12:22:00 GMT",
+            "title": "‘I survived a head-on car wreck’: I’m on Medicaid, but inheriting $290K. How do I protect it from the 5-year look-back rule?",
+            "link": "https://www.marketwatch.com/story/i-survived-a-head-on-car-wreck-im-on-medicaid-but-inheriting-290k-how-do-i-protect-it-from-the-5-year-look-back-rule-c14b2f46?mod=mw_rss_topstories",
+            "summary": "“I have not worked since. I was put on 100% disability,” he says. “About 30 years ago, I survived a head-on car wreck.”",
+            "date": "Sat, 26 Apr 2025 20:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -113,12 +101,24 @@
             "title": "‘I’m literally afraid to look at my balance’: I have $300K in a 2025 target-date fund. Is there a chance it will recover?",
             "link": "https://www.marketwatch.com/story/im-literally-afraid-to-look-at-my-balance-i-have-300k-in-a-2025-target-date-fund-is-there-a-chance-it-will-recover-8765e9ca?mod=mw_rss_topstories",
             "summary": "“I have no idea at this point how much I have lost,” he says. “I’ve lost a lot. I’m in shock.”",
-            "date": "Sat, 26 Apr 2025 12:07:00 GMT",
+            "date": "Sat, 26 Apr 2025 19:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "IBRX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘An argument ensued’: My mother entrusted my inheritance to her second husband. That’s when it all went horribly wrong.",
+            "link": "https://www.marketwatch.com/story/my-ailing-mother-entrusted-her-fortune-to-her-second-husband-guess-what-happened-next-ac9b3844?mod=mw_rss_topstories",
+            "summary": "“He is a managing director at a major bank and probably clears $800,000 per annum,” says a source. “He’s probably clearing $800k per year.”",
+            "date": "Sat, 26 Apr 2025 19:44:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AN",
             "impact": "Neutral"
         }
     ]
