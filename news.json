@@ -1,71 +1,95 @@
 {
-    "date": "2025-04-27",
+    "date": "2025-04-28",
     "news": [
         {
-            "title": "Plane tickets are getting cheaper as domestic travel demand weakens",
-            "link": "https://www.cnbc.com/2025/04/26/plane-tickets-cheap-travel.html",
-            "summary": "Airlines are trimming their domestic schedules as leisure traveler demand comes in lighter than expected. Airlines are cutting back on domestic flights to meet demand for leisure travelers.",
-            "date": "Sat, 26 Apr 2025 12:00:01 GMT",
+            "title": "Agriculture isn't nearing trade war tariffs crisis, 'it is full blown crisis already' farmers say",
+            "link": "https://www.cnbc.com/2025/04/28/trade-war-tariffs-full-blown-crisis-us-farm-exporters-say.html",
+            "summary": "U.S. agriculture exporters say global backlash to President Trump's tariffs are already resulting in canceled orders and farm layoffs. U.S.-based farmers say they are already seeing cancellations and layoffs.",
+            "date": "Mon, 28 Apr 2025 11:29:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PL",
+            "stock_ticker": "^DAG-RP",
             "impact": "Neutral"
         },
         {
-            "title": "Trump floats tougher Russia sanctions, meets Zelenskyy for first time since Oval Office blowup",
-            "link": "https://www.cnbc.com/2025/04/26/trump-russia-zelenskyy-pope-funeral.html",
-            "summary": "President Donald Trump's Truth Social post comes as he ramps up pressure on Russia and Ukraine to strike a deal to end their war. President Donald Trump: 'Russia and Ukraine need to come to an agreement to end the war'",
-            "date": "Sat, 26 Apr 2025 16:55:21 GMT",
+            "title": "Treasury Secretary Bessent says it's up to China to de-escalate trade tensions",
+            "link": "https://www.cnbc.com/2025/04/28/treasury-secretary-bessent-says-its-up-to-china-to-de-escalate-trade-tensions.html",
+            "summary": "The comments come with markets on edge over the direction of tariffs. The comments come as markets are on edge about the future of the US-China trade war.",
+            "date": "Mon, 28 Apr 2025 12:45:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "ZNS=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "IBM pledges $150 billion to boost U.S. tech growth, computer manufacturing",
+            "link": "https://www.cnbc.com/2025/04/28/ibm-to-invest-150-billion-to-boost-us-tech-growth-computer-manufacturing.html",
+            "summary": "The funds include $30 billion to advance U.S. manufacturing of its mainframe and quantum computers. The funds will be used for research, development, and manufacturing.",
+            "date": "Mon, 28 Apr 2025 13:30:46 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "PayPal kicks off fintech earnings as investors fear impact of Trump tariffs on consumer spending",
+            "link": "https://www.cnbc.com/2025/04/28/fintech-earnings-focus-concerns-on-tariffs-paypal-block-affirm.html",
+            "summary": "PayPal, Block and Affirm will report earnings next week. PayPal reports earnings on Tuesday, followed by Block on Thursday. Affirm reports on Thursday and Block on Friday.",
+            "date": "Mon, 28 Apr 2025 13:08:11 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PYPL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Meta’s AI spending comes into focus amid Trump’s tariff policies",
+            "link": "https://www.cnbc.com/2025/04/28/metas-ai-spending-comes-into-focus-amid-trumps-tariff-policies.html",
+            "summary": " Meta hosts its first Llama-branded conference for developers then reports earnings the next day. The company is expected to report its first quarter results next week.",
+            "date": "Mon, 28 Apr 2025 12:06:23 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "H1N.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Stocks have had a good bounce. But here’s why this investment manager thinks lows will be retested.",
+            "link": "https://www.marketwatch.com/story/stocks-have-had-a-good-bounce-but-heres-why-this-investment-manager-thinks-lows-will-be-retested-cac54561?mod=mw_rss_topstories",
+            "summary": "Dan Niles worries that we’ve just seen a bear market rally and valuations are still too high. Dan Niles: We’re in the midst of a 'bear market rally'",
+            "date": "Mon, 28 Apr 2025 13:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^FIDUSSIP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "If a financial adviser wants to roll over your retirement savings, watch out",
+            "link": "https://www.marketwatch.com/story/if-a-financial-adviser-wants-to-roll-over-your-retirement-savings-watch-out-82a63245?mod=mw_rss_topstories",
+            "summary": "Older investors especially might end up in worse financial shape after a rollover. Follow your money: Older investors especially may end up with a worse financial situation.",
+            "date": "Mon, 28 Apr 2025 13:24:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IFF",
             "impact": "Bullish"
-        },
-        {
-            "title": "Corporate sponsors are backing away from LGBTQ+ Pride organizations",
-            "link": "https://www.cnbc.com/2025/04/27/companies-lgbtq-pride-festivals.html",
-            "summary": "Companies that were once loud and proud in sponsoring LGBTQ+ community celebrations are pulling back their funds. It's an uncertain time for Pride organizations.",
-            "date": "Sun, 27 Apr 2025 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HYG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I've studied over 200 kids—and this is the most dangerous and 'overused' phrase in parenting",
-            "link": "https://www.cnbc.com/2025/04/26/ive-studied-over-200-kids-this-is-the-most-dangerous-phrase-in-parenting.html",
-            "summary": "Fight the temptation to say these two words, says child psychologist and parenting expert Reem Raouda. How do you comfort your child when they're upset?",
-            "date": "Sat, 26 Apr 2025 13:44:32 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IVG.MI",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Americans are getting flashbacks to 2008 as tariffs stoke recession fears",
-            "link": "https://www.cnbc.com/2025/04/26/americans-are-getting-flashbacks-to-2008-as-tariffs-stoke-recession-fears.html",
-            "summary": "'It's the old poors teaching the new poors,' said one content creator. 'It's not a new world. It's a different world,' said another.",
-            "date": "Sat, 26 Apr 2025 13:16:45 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ARE",
-            "impact": "Neutral"
         },
         {
             "title": "5 charts that show how Trump’s first 100 days have shaped Americans’ finances",
             "link": "https://www.marketwatch.com/story/5-charts-that-show-how-trumps-first-100-days-have-shaped-americans-finances-ec36fe98?mod=mw_rss_topstories",
             "summary": "Prices were relatively stable in Trump’s first months in office. Yet the stock market erased trillions in household wealth. Consumers are worried about the looming impact of tariffs.",
-            "date": "Sun, 27 Apr 2025 12:00:00 GMT",
+            "date": "Mon, 28 Apr 2025 13:23:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +98,27 @@
             "impact": "Neutral"
         },
         {
-            "title": "Here’s how much money Shedeur Sanders lost out on by falling to the fifth round of the NFL draft",
-            "link": "https://www.marketwatch.com/story/heres-how-much-money-the-2025-nfl-draft-picks-will-make-tonight-and-whos-at-risk-of-losing-millions-25133627?mod=mw_rss_topstories",
-            "summary": "Sanders was once projected to go as high as No. 1 overall. He went No. 3 overall to the New York Giants seemingly as low as he could go.",
-            "date": "Sat, 26 Apr 2025 21:19:00 GMT",
+            "title": "Massive power outage strikes Spain and Portugal",
+            "link": "https://www.marketwatch.com/story/massive-power-outage-strikes-spain-and-portugal-9e4e46be?mod=mw_rss_topstories",
+            "summary": "The exact cause of the widespread outage was still unclear roughly two hours later. The exact cause was not immediately clear. The outage was expected to last for about two hours.",
+            "date": "Mon, 28 Apr 2025 12:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "MAV19642-USD",
             "impact": "Neutral"
         },
         {
-            "title": "‘I survived a head-on car wreck’: I’m on Medicaid, but inheriting $290K. How do I protect it from the 5-year look-back rule?",
-            "link": "https://www.marketwatch.com/story/i-survived-a-head-on-car-wreck-im-on-medicaid-but-inheriting-290k-how-do-i-protect-it-from-the-5-year-look-back-rule-c14b2f46?mod=mw_rss_topstories",
-            "summary": "“I have not worked since. I was put on 100% disability,” he says. “About 30 years ago, I survived a head-on car wreck.”",
-            "date": "Sat, 26 Apr 2025 20:06:00 GMT",
+            "title": "Domino’s U.S. same-store sales slip as cooling economy chills pizza maker’s profit",
+            "link": "https://www.marketwatch.com/story/dominos-profit-falls-short-of-estimates-as-u-s-sales-drop-and-margins-shrink-68bf4cb7?mod=mw_rss_topstories",
+            "summary": "Domino's international business provides a lift to results, but its stock falls in premarket trading. Domino’s international business providing a Lift to results.",
+            "date": "Mon, 28 Apr 2025 11:19:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SSII",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m literally afraid to look at my balance’: I have $300K in a 2025 target-date fund. Is there a chance it will recover?",
-            "link": "https://www.marketwatch.com/story/im-literally-afraid-to-look-at-my-balance-i-have-300k-in-a-2025-target-date-fund-is-there-a-chance-it-will-recover-8765e9ca?mod=mw_rss_topstories",
-            "summary": "“I have no idea at this point how much I have lost,” he says. “I’ve lost a lot. I’m in shock.”",
-            "date": "Sat, 26 Apr 2025 19:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘An argument ensued’: My mother entrusted my inheritance to her second husband. That’s when it all went horribly wrong.",
-            "link": "https://www.marketwatch.com/story/my-ailing-mother-entrusted-her-fortune-to-her-second-husband-guess-what-happened-next-ac9b3844?mod=mw_rss_topstories",
-            "summary": "“He is a managing director at a major bank and probably clears $800,000 per annum,” says a source. “He’s probably clearing $800k per year.”",
-            "date": "Sat, 26 Apr 2025 19:44:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AN",
+            "stock_ticker": "DPZ",
             "impact": "Neutral"
         }
     ]
