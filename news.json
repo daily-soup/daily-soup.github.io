@@ -1,124 +1,124 @@
 {
-    "date": "2025-04-28",
+    "date": "2025-04-29",
     "news": [
         {
-            "title": "Agriculture isn't nearing trade war tariffs crisis, 'it is full blown crisis already' farmers say",
-            "link": "https://www.cnbc.com/2025/04/28/trade-war-tariffs-full-blown-crisis-us-farm-exporters-say.html",
-            "summary": "U.S. agriculture exporters say global backlash to President Trump's tariffs are already resulting in canceled orders and farm layoffs. U.S.-based farmers say they are already seeing cancellations and layoffs.",
-            "date": "Mon, 28 Apr 2025 11:29:57 GMT",
+            "title": "White House blasts Amazon over tariff cost report: 'Hostile and political act'",
+            "link": "https://www.cnbc.com/2025/04/29/white-house-blasts-amazon-over-tariff-cost-report-hostile-and-political-act.html",
+            "summary": "The White House slammed Amazon for reportedly planning to display the cost of President Donald Trump's tariffs next to the total price of products on its site.",
+            "date": "Tue, 29 Apr 2025 13:26:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^DAG-RP",
+            "stock_ticker": "WCP.TO",
             "impact": "Neutral"
         },
         {
-            "title": "Treasury Secretary Bessent says it's up to China to de-escalate trade tensions",
-            "link": "https://www.cnbc.com/2025/04/28/treasury-secretary-bessent-says-its-up-to-china-to-de-escalate-trade-tensions.html",
-            "summary": "The comments come with markets on edge over the direction of tariffs. The comments come as markets are on edge about the future of the US-China trade war.",
-            "date": "Mon, 28 Apr 2025 12:45:04 GMT",
+            "title": "General Motors beats Wall Street estimates, reassesses full-year guidance amid auto tariffs",
+            "link": "https://www.cnbc.com/2025/04/29/general-motors-gm-earnings-q1-2025.html",
+            "summary": "GM beat expectations but is reassessing its 2025 guidance. GM is suspending any additional stock buybacks amid expected cost increases and industry uncertainty. GM beat expectations in its latest quarter.",
+            "date": "Tue, 29 Apr 2025 11:58:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZNS=F",
+            "stock_ticker": "GM",
             "impact": "Neutral"
         },
         {
-            "title": "IBM pledges $150 billion to boost U.S. tech growth, computer manufacturing",
-            "link": "https://www.cnbc.com/2025/04/28/ibm-to-invest-150-billion-to-boost-us-tech-growth-computer-manufacturing.html",
-            "summary": "The funds include $30 billion to advance U.S. manufacturing of its mainframe and quantum computers. The funds will be used for research, development, and manufacturing.",
-            "date": "Mon, 28 Apr 2025 13:30:46 GMT",
+            "title": "Novo Nordisk opens weight loss drug Wegovy to telehealth; Hims & Hers shares rocket 30%",
+            "link": "https://www.cnbc.com/2025/04/29/novo-nordisk-wegovy-telehealth.html",
+            "summary": "Many compounding pharmacies are restricted from making Wegovy copycats, with rare exceptions. Novo Nordisk is racing to capture more patients.",
+            "date": "Tue, 29 Apr 2025 13:17:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBM",
+            "stock_ticker": "NOVO-B.CO",
             "impact": "Neutral"
         },
         {
-            "title": "PayPal kicks off fintech earnings as investors fear impact of Trump tariffs on consumer spending",
-            "link": "https://www.cnbc.com/2025/04/28/fintech-earnings-focus-concerns-on-tariffs-paypal-block-affirm.html",
-            "summary": "PayPal, Block and Affirm will report earnings next week. PayPal reports earnings on Tuesday, followed by Block on Thursday. Affirm reports on Thursday and Block on Friday.",
-            "date": "Mon, 28 Apr 2025 13:08:11 GMT",
+            "title": "Coke keeps full-year forecast, says it expects tariff disruptions to be 'manageable' after Pepsi cuts earnings outlook",
+            "link": "https://www.cnbc.com/2025/04/29/coca-cola-ko-q1-2025-earnings.html",
+            "summary": "Coke beat first-quarter earnings estimates, and unlike rival Pepsi, maintained its full-year outlook. The company expects cost hikes from tariffs to be \"manageable\"",
+            "date": "Tue, 29 Apr 2025 12:38:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PYPL",
+            "stock_ticker": "COKE",
             "impact": "Neutral"
         },
         {
-            "title": "Meta’s AI spending comes into focus amid Trump’s tariff policies",
-            "link": "https://www.cnbc.com/2025/04/28/metas-ai-spending-comes-into-focus-amid-trumps-tariff-policies.html",
-            "summary": " Meta hosts its first Llama-branded conference for developers then reports earnings the next day. The company is expected to report its first quarter results next week.",
-            "date": "Mon, 28 Apr 2025 12:06:23 GMT",
+            "title": "Pfizer expands cost cuts, tops quarterly profit estimates even as sales fall",
+            "link": "https://www.cnbc.com/2025/04/29/pfizer-pfe-earnings-q1-2025.html",
+            "summary": "Pfizer maintained its 2025 guidance but noted it does not include any impact of tariffs or trade policy. Pfizer: \"We are unable to predict at this time\"",
+            "date": "Tue, 29 Apr 2025 11:51:52 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "H1N.F",
+            "stock_ticker": "PFE",
             "impact": "Neutral"
         },
         {
-            "title": "Stocks have had a good bounce. But here’s why this investment manager thinks lows will be retested.",
-            "link": "https://www.marketwatch.com/story/stocks-have-had-a-good-bounce-but-heres-why-this-investment-manager-thinks-lows-will-be-retested-cac54561?mod=mw_rss_topstories",
-            "summary": "Dan Niles worries that we’ve just seen a bear market rally and valuations are still too high. Dan Niles: We’re in the midst of a 'bear market rally'",
-            "date": "Mon, 28 Apr 2025 13:30:00 GMT",
+            "title": "Hims & Hers’ stock rockets after teaming up with its rival Wegovy maker",
+            "link": "https://www.marketwatch.com/story/hims-hers-stock-rockets-after-teaming-up-with-its-rival-wegovy-maker-c53131e1?mod=mw_rss_topstories",
+            "summary": "Health and wellness company Hims & Hers sells alternatives to weight-loss drugs like Wegovy. Hems & Hers is now collaborating with the maker of WeGovy.",
+            "date": "Tue, 29 Apr 2025 13:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^FIDUSSIP",
+            "stock_ticker": "HIMS",
             "impact": "Neutral"
         },
         {
-            "title": "If a financial adviser wants to roll over your retirement savings, watch out",
-            "link": "https://www.marketwatch.com/story/if-a-financial-adviser-wants-to-roll-over-your-retirement-savings-watch-out-82a63245?mod=mw_rss_topstories",
-            "summary": "Older investors especially might end up in worse financial shape after a rollover. Follow your money: Older investors especially may end up with a worse financial situation.",
-            "date": "Mon, 28 Apr 2025 13:24:00 GMT",
+            "title": "‘I’m literally afraid to look at my balance’: I have $300K in a 2025 target-date fund. Is there a chance it will recover?",
+            "link": "https://www.marketwatch.com/story/im-literally-afraid-to-look-at-my-balance-i-have-300k-in-a-2025-target-date-fund-is-there-a-chance-it-will-recover-8765e9ca?mod=mw_rss_topstories",
+            "summary": "“I have no idea at this point how much I have lost,” he says. “I’ve lost a lot. I’m in shock.”",
+            "date": "Tue, 29 Apr 2025 13:08:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "If you love gold at near record high prices, why not wear it?",
+            "link": "https://www.marketwatch.com/story/if-you-love-gold-at-near-record-high-prices-why-not-wear-it-e385e1c4?mod=mw_rss_topstories",
+            "summary": "Gold jewelry can increasingly be appealing for investors. ‘I buy it as a kind of fun way to enjoy the gold you own’",
+            "date": "Tue, 29 Apr 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "IFF",
-            "impact": "Bullish"
-        },
-        {
-            "title": "5 charts that show how Trump’s first 100 days have shaped Americans’ finances",
-            "link": "https://www.marketwatch.com/story/5-charts-that-show-how-trumps-first-100-days-have-shaped-americans-finances-ec36fe98?mod=mw_rss_topstories",
-            "summary": "Prices were relatively stable in Trump’s first months in office. Yet the stock market erased trillions in household wealth. Consumers are worried about the looming impact of tariffs.",
-            "date": "Mon, 28 Apr 2025 13:23:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "YM=F",
             "impact": "Neutral"
         },
         {
-            "title": "Massive power outage strikes Spain and Portugal",
-            "link": "https://www.marketwatch.com/story/massive-power-outage-strikes-spain-and-portugal-9e4e46be?mod=mw_rss_topstories",
-            "summary": "The exact cause of the widespread outage was still unclear roughly two hours later. The exact cause was not immediately clear. The outage was expected to last for about two hours.",
-            "date": "Mon, 28 Apr 2025 12:31:00 GMT",
+            "title": "Pfizer sticks to 2025 profit view as it shrugs off plunging Paxlovid sales for COVID",
+            "link": "https://www.marketwatch.com/story/pfizers-plunging-paxlovid-sales-impact-revenue-as-covid-fades-48a8e487?mod=mw_rss_topstories",
+            "summary": "Pfizer’s first-quarter revenue missed analyst estimates as it faces an “uncertain and volatile external environment.”",
+            "date": "Tue, 29 Apr 2025 12:46:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MAV19642-USD",
+            "stock_ticker": "PFE",
             "impact": "Neutral"
         },
         {
-            "title": "Domino’s U.S. same-store sales slip as cooling economy chills pizza maker’s profit",
-            "link": "https://www.marketwatch.com/story/dominos-profit-falls-short-of-estimates-as-u-s-sales-drop-and-margins-shrink-68bf4cb7?mod=mw_rss_topstories",
-            "summary": "Domino's international business provides a lift to results, but its stock falls in premarket trading. Domino’s international business providing a Lift to results.",
-            "date": "Mon, 28 Apr 2025 11:19:00 GMT",
+            "title": "Spotify earnings come up short as it warns of short-term noise",
+            "link": "https://www.marketwatch.com/story/spotify-earnings-come-up-short-as-it-warns-of-short-term-noise-fe27aa1f?mod=mw_rss_topstories",
+            "summary": "Spotify missed on earnings and guided for more \"noise\" to come. The company's stock dropped sharply in premarket trade on Tuesday.",
+            "date": "Tue, 29 Apr 2025 12:44:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DPZ",
+            "stock_ticker": "SPOT",
             "impact": "Neutral"
         }
     ]
