@@ -1,124 +1,124 @@
 {
-    "date": "2025-05-01",
+    "date": "2025-05-02",
     "news": [
         {
-            "title": "Weekly jobless claims surge to 241,000, more than expected, in latest sign of economic trouble",
-            "link": "https://www.cnbc.com/2025/05/01/weekly-jobless-claims-surge-to-241000.html",
-            "summary": "Initial unemployment claims posted an unexpected increase last week. The increase could be a potential trouble sign for the wobbling U.S. economy.",
-            "date": "Thu, 01 May 2025 13:05:53 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0000YYB1.BE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. Chamber of Commerce asks Trump for tariff exclusions to 'stave off a recession'",
-            "link": "https://www.cnbc.com/2025/05/01/trump-tariffs-recession-chamber-of-commerce.html",
-            "summary": "President Donald Trump has held up tariffs as a key tool in trade negotiations. Some analysts warn the duties are hurting business and the overall economy.",
-            "date": "Thu, 01 May 2025 12:39:53 GMT",
+            "title": "U.S. payroll growth totals 177,000 in April, defying expectations",
+            "link": "https://www.cnbc.com/2025/05/02/jobs-report-april-2025.html",
+            "summary": "Nonfarm payrolls were expected to increase by 133,000 in April, according to the Dow Jones consensus estimate. The economy is expected to grow by 0.4 percent in the first quarter.",
+            "date": "Fri, 02 May 2025 13:05:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "HRC=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump calls on Fed once again to lower rates after solid April jobs report",
+            "link": "https://www.cnbc.com/2025/05/02/trump-april-jobs-report-fed-interest-rates.html",
+            "summary": "President Donald Trump calls for the U.S. Federal Reserve to lower interest rates. His call comes after a better-than-expected jobs report for April.",
+            "date": "Fri, 02 May 2025 13:19:46 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump vows to revoke Harvard's tax-exempt status: 'It's what they deserve!'",
+            "link": "https://www.cnbc.com/2025/05/02/trump-harvard-tax-exempt-revoke.html",
+            "summary": "Trump has sought to extract concessions and changes from Harvard and other schools. He has threatened to withhold federal research grants from the schools if they don't make changes.",
+            "date": "Fri, 02 May 2025 12:27:26 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Chevron stock falls as lower profits and oil prices set to slow the pace of stock buybacks",
+            "link": "https://www.cnbc.com/2025/05/02/chevron-cvx-earnings-q1-2025.html",
+            "summary": "U.S. crude oil prices have fallen as President Donald Trump's tariffs raise recession fears. OPEC+ pumps more oil and is expected to continue to do so.",
+            "date": "Fri, 02 May 2025 12:36:27 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CVX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Apple clears Spotify update under new rules allowing purchases within apps",
+            "link": "https://www.cnbc.com/2025/05/02/apple-clears-spotify-app-update-that-allows-purchases.html",
+            "summary": "The approval comes after a U.S. federal judge on Wednesday ordered Apple to stop imposing the commissions it makes on purchases through iPhone apps.",
+            "date": "Fri, 02 May 2025 13:03:23 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAPL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This is why Reddit’s stock is rising after earnings",
+            "link": "https://www.marketwatch.com/story/this-is-why-reddits-stock-is-soaring-after-earnings-8cd2fca9?mod=mw_rss_topstories",
+            "summary": "Social-media platform’s daily active unique users were up 31% from a year earlier. Social-media platforms’ daily activeUniqueUsers (DACs) were up 30% from the previous year. DACs are the number of people who use a social-media site every day.",
+            "date": "Fri, 02 May 2025 12:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "THISX",
             "impact": "Bullish"
         },
         {
-            "title": "McDonald’s reports largest U.S. same-store sales decline since 2020",
-            "link": "https://www.cnbc.com/2025/05/01/mcdonalds-mcd-q1-2025-earnings.html",
-            "summary": "McDonald's narrowly beat on earnings per share for the first quarter. But the fast food chain fell short on revenue. The company reported a profit of $1.2 billion, up from $1 billion a year earlier.",
-            "date": "Thu, 01 May 2025 12:52:22 GMT",
+            "title": "Trump’s tariffs are America’s Brexit, says this strategist. These are the trades to make.",
+            "link": "https://www.marketwatch.com/story/trumps-tariffs-are-americas-brexit-says-this-strategist-these-are-the-trades-to-make-9947ee62?mod=mw_rss_topstories",
+            "summary": "A waning AI bubble is another reason to favor European equity benchmarks over the U.S., says BCA strategist Dhaval Joshi. The BCA is a leading global equity research and analytics firm.",
+            "date": "Fri, 02 May 2025 12:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MCD",
+            "stock_ticker": "TRUMPSHIBA32302-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Mercedes-Benz to add new vehicle to Alabama plant amid Trump tariffs",
-            "link": "https://www.cnbc.com/2025/05/01/mercedes-benz-alabama-plant-trump-tariffs.html",
-            "summary": "Mercedes-Benz says it will add a new vehicle to its plant in Alabama. The move comes amid President Donald Trump's auto tariff.",
-            "date": "Thu, 01 May 2025 13:01:03 GMT",
+            "title": "‘Money means nothing to my wealthy clients’: My coworkers step on each other to get ahead. How do I create a nontoxic culture at work?",
+            "link": "https://www.marketwatch.com/story/money-means-nothing-to-my-wealthy-clients-my-coworkers-step-on-each-other-to-get-ahead-how-do-i-create-a-nontoxic-culture-at-work-cd05a728?mod=mw_rss_topstories",
+            "summary": "“Money means nothing to them. They can spend $10,000 on an antique credenza or $5,000. on a side table,” he says.",
+            "date": "Fri, 02 May 2025 12:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MBG.DE",
+            "stock_ticker": "OMBXX",
             "impact": "Neutral"
         },
         {
-            "title": "Eli Lilly CEO says company can help 'respond' to national security concerns around essential drugs as tariffs loom",
-            "link": "https://www.cnbc.com/2025/05/01/eli-lilly-ceo-david-ricks-trump-pharmaceutical-tariffs.html",
-            "summary": "Ricks said reshoring manufacturing capacity for older essential medicines is \"a valid thing\" He added that Eli Lilly is \"happy to help\"",
-            "date": "Thu, 01 May 2025 13:11:42 GMT",
+            "title": "Wall Street firm estimates Trump deportations running at one-tenth of his 1 million goal",
+            "link": "https://www.marketwatch.com/story/wall-street-firm-estimates-trump-deportations-running-at-one-tenth-of-his-1-million-goal-bae52f93?mod=mw_rss_topstories",
+            "summary": "Trump administration's deportations are running well short of the 1 million per year goal he’s advocated, according to one estimate. The White House says the goal is to deport 1 million people a year.",
+            "date": "Fri, 02 May 2025 12:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LLY",
+            "stock_ticker": "WBX",
             "impact": "Neutral"
         },
         {
-            "title": "Jobless claims rise to highest level since October, but not from tariff war",
-            "link": "https://www.marketwatch.com/story/jobless-claims-rise-to-highest-level-since-october-led-by-new-york-92fbef4c?mod=mw_rss_topstories",
-            "summary": "Companies are not laying off workers by large amounts, and are still watching and waiting amid uncertainty about how the economy manages the higher tariffs.",
-            "date": "Thu, 01 May 2025 13:04:00 GMT",
+            "title": "Student-loan borrowers plead with policymakers to end ‘nightmare’ as Republicans plot major changes to repayment plans",
+            "link": "https://www.marketwatch.com/story/student-loan-borrowers-plead-with-policymakers-to-end-nightmare-as-republicans-plot-major-changes-to-repayment-plans-7827146f?mod=mw_rss_topstories",
+            "summary": "Both the Trump administration and Congressional Republicans are eyeing drastic shifts in income-driven repayment and Public Service Loan Forgiveness. Both the Obama and GOP-led Congress are looking to change the way federal loans are repaid.",
+            "date": "Fri, 02 May 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CLA18371-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "What investors are overlooking at Nvidia, Apple and a cruise-line operator, according to this fund manager",
-            "link": "https://www.marketwatch.com/story/what-investors-are-overlooking-at-nvidia-apple-and-a-cruise-line-operator-according-to-this-fund-manager-d777e8ca?mod=mw_rss_topstories",
-            "summary": "The chief investment officer at Silvant Capital talks about what investors are overlooking at Nvidia, Apple and a cruise-ship giant. The CEO of Silvant says investors should be focusing on the long-term potential of these companies.",
-            "date": "Thu, 01 May 2025 12:51:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WAT-P.V",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Estee Lauder to lay off up to 7,000 — more than it initially planned",
-            "link": "https://www.marketwatch.com/story/estee-lauder-to-lay-off-up-to-7-000-more-than-it-initially-planned-1ace15e0?mod=mw_rss_topstories",
-            "summary": "Estee Lauder said it would adopt a ‘more competitive approach’ to its procurement. It would consolidate its spending and re-evaluating its suppliers.",
-            "date": "Thu, 01 May 2025 12:45:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EL",
-            "impact": "Bullish"
-        },
-        {
-            "title": "What 150 years of stock-market data says about performance during high-tariff eras",
-            "link": "https://www.marketwatch.com/story/what-150-years-of-stock-market-data-says-about-performance-during-high-tariff-eras-13c2ce2f?mod=mw_rss_topstories",
-            "summary": "A unique database of investment returns that dates back to 1875 shows that high tariffs can coexist with stock-market gains. The data was compiled by a team of economists at the University of Chicago.",
-            "date": "Thu, 01 May 2025 12:33:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WAT-P.V",
-            "impact": "Neutral"
-        },
-        {
-            "title": "No, Donald Trump. This is not Joe Biden’s stock market. It’s yours.",
-            "link": "https://www.marketwatch.com/story/no-donald-trump-this-is-your-stock-market-not-joe-bidens-725dc25c?mod=mw_rss_topstories",
-            "summary": "This is Trump's economy, too. He needs to own it. This is Trump’s economy. He should own it, and he should own up to it.",
-            "date": "Thu, 01 May 2025 12:26:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NOK=X",
+            "stock_ticker": "0P0000KATM.L",
             "impact": "Neutral"
         }
     ]
