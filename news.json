@@ -1,11 +1,59 @@
 {
-    "date": "2025-05-03",
+    "date": "2025-05-04",
     "news": [
         {
-            "title": "Berkshire Hathaway operating earnings drop more than expected as Buffett warns of tariff uncertainty",
-            "link": "https://www.cnbc.com/2025/05/03/berkshire-hathaway-brka-earnings-q1-2025.html",
-            "summary": "Warren Buffett's Berkshire Hathaway reported first-quarter results on Saturday. The results showed a steep drop in earnings from the year-earlier period.",
-            "date": "Sat, 03 May 2025 13:03:02 GMT",
+            "title": "End of an era: Warren Buffett will ask Berkshire board to replace him as CEO with Greg Abel",
+            "link": "https://www.cnbc.com/2025/05/03/warren-buffett-to-ask-board-to-make-greg-abel-ceo-of-berkshire-hathaway-at-year-end.html",
+            "summary": " Buffett said he will still 'hang around' to help, but the final word on company operations and capital deployment would be with Abel, 62.",
+            "date": "Sun, 04 May 2025 11:21:48 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EXK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "6 big things investors learned from Warren Buffett at this year's Berkshire shareholder meeting",
+            "link": "https://www.cnbc.com/2025/05/03/6-big-things-investors-learned-from-warren-buffett-at-this-years-berkshire-shareholder-meeting.html",
+            "summary": "CNBC takes a look at some of the biggest takeaways from the annual gathering. Here are the top three stories from CNBC's coverage of the event.",
+            "date": "Sat, 03 May 2025 20:09:41 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "6L=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Top Wall Street analysts are bullish on these 3 dividend stocks for stable returns",
+            "link": "https://www.cnbc.com/2025/05/04/wall-street-analysts-are-bullish-on-these-3-dividend-stocks-for-stable-returns.html",
+            "summary": " TipRanks' analyst ranking service spotlights three dividend-paying stocks, including AT&amp;T and Texas Instruments.",
+            "date": "Sun, 04 May 2025 11:18:45 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump posts AI-generated photo of himself dressed as the pope",
+            "link": "https://www.cnbc.com/2025/05/03/trump-pope-ai-image.html",
+            "summary": "President Trump earlier this year jokingly called himself a \"king\" after he moved to end the congestion pricing program in New York City.",
+            "date": "Sat, 03 May 2025 22:58:45 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Berkshire shareholders are 'stunned' as Warren Buffett announces plan to step down after 6 decades",
+            "link": "https://www.cnbc.com/2025/05/03/berkshire-shareholders-are-stunned-as-buffett-announces-plan-to-step-down.html",
+            "summary": "Berkshire Hathaway shareholders had no idea how historic this year's event would be. Berkshire Hathaway shareholder: \"I think it's going to be a great year\"",
+            "date": "Sat, 03 May 2025 21:41:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,82 +62,22 @@
             "impact": "Neutral"
         },
         {
-            "title": "Earnings show one tech segment starting to feel the tariff pinch fastest",
-            "link": "https://www.cnbc.com/2025/05/02/tech-tariffs-apple-amazon.html",
-            "summary": "Advertising-heavy businesses seem to be holding on in the near-term. Consumer-focused models start to feel the pinch from slowing spending.",
-            "date": "Fri, 02 May 2025 16:45:52 GMT",
+            "title": "A real-estate giant wants sellers to list their homes privately. Will homeowners benefit?",
+            "link": "https://www.marketwatch.com/story/a-real-estate-giant-wants-sellers-to-list-their-homes-privately-will-homeowners-benefit-8a561bb8?mod=mw_rss_topstories",
+            "summary": "Some real-estate agents want sellers to keep their for-sale listings private. Selling a home has been tough in a sluggish market, but now some sellers want to keep it private.",
+            "date": "Sun, 04 May 2025 10:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EPI",
+            "stock_ticker": "A",
             "impact": "Neutral"
-        },
-        {
-            "title": "Temu halts shipping direct from China as de minimis tariff loophole is cut off",
-            "link": "https://www.cnbc.com/2025/05/02/temu-halts-shipments-direct-from-china-as-de-minimis-tariff-rule-ends-.html",
-            "summary": "Temu added \"import charges\" ranging from 130% to 150% on products shipped direct from China. Earlier this week, Temu increased prices and added \" import charges\"",
-            "date": "Fri, 02 May 2025 20:42:29 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TEMUX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "60 years at Berkshire: See Warren Buffett's 'Woodstock for Capitalists' over the decades",
-            "link": "https://www.cnbc.com/2025/05/02/60-years-at-berkshire-the-woodstock-for-capitalists-over-the-decades.html",
-            "summary": "Review how this year's shareholder meeting will run and how it's evolved over the decades. Shareholders will vote on whether or not to give the company more money.",
-            "date": "Fri, 02 May 2025 12:18:46 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SMC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump's China tariffs are raising costs for wedding dresses and threatening the small shops that sell them",
-            "link": "https://www.cnbc.com/2025/05/03/trump-china-tariffs-wedding-dresses-bridal-shops.html",
-            "summary": "The higher duties on bridal gowns and special occasion dresses have raised costs for boutiques and designers across the country. The cost of a bridal dress can run into the thousands of dollars.",
-            "date": "Sat, 03 May 2025 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CHH=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How Warren Buffett went from picking horses to picking stocks — and what you can learn from it",
-            "link": "https://www.marketwatch.com/story/how-warren-buffett-went-from-picking-horses-to-picking-stocks-and-what-you-can-learn-from-it-ceb913d0?mod=mw_rss_topstories",
-            "summary": "Buffett’s sharp insights on racing odds would later help him build his Berkshire Hathaway billions. Buffett: ‘I’m not a gambler. I’ve never gambled.’ ‘If you’re going to bet, you�’d better bet on the outcome.”",
-            "date": "Sat, 03 May 2025 11:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m very cynical’: My stepmother, 85, makes bizarre requests for money from my father’s $10M trust. Should I be concerned?",
-            "link": "https://www.marketwatch.com/story/she-can-absolutely-live-on-the-income-my-stepmother-85-makes-bizarre-requests-for-money-from-my-fathers-10m-trust-should-i-be-concerned-f298343a?mod=mw_rss_topstories",
-            "summary": "“He used a crappy lawyer to set up a very boilerplate trust agreement,” says the lawyer. “He’s not a good person,’ the lawyer adds.",
-            "date": "Sat, 03 May 2025 11:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Bullish"
         },
         {
             "title": "If you read April’s jobs report, you won’t be surprised by the No. 1 ‘best job’ in America",
             "link": "https://www.marketwatch.com/story/if-you-read-aprils-jobs-report-you-wont-be-surprised-by-the-no-1-best-job-in-america-1d5663e7?mod=mw_rss_topstories",
-            "summary": "There was strong jobs growth in one industry in April, but that does not necessarily add up to a healthy U.S. labor market and economy.",
-            "date": "Sat, 03 May 2025 10:35:00 GMT",
+            "summary": "There was strong jobs growth in one industry in April, but that does not necessarily add up to a healthy U.S. labor market.",
+            "date": "Sun, 04 May 2025 09:29:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,28 +86,40 @@
             "impact": "Bullish"
         },
         {
-            "title": "‘We are the most privileged’: My husband and I are tired of paying for our friends. How do we get them to pay their way?",
-            "link": "https://www.marketwatch.com/story/we-are-not-poor-my-husband-and-i-are-tired-of-picking-up-the-check-for-our-friends-how-can-we-get-them-to-step-up-a05c7622?mod=mw_rss_topstories",
-            "summary": "“My husband almost always ends up paying for everyone or picks up the entire bill,” she said. “My husbands almost always pays for everyone.”",
-            "date": "Sat, 03 May 2025 09:45:00 GMT",
+            "title": "Buffett passes the torch — here’s what Berkshire loyalists should know, from a longtime insider",
+            "link": "https://www.marketwatch.com/story/buffett-passes-the-torch-heres-what-berkshire-loyalists-should-know-from-a-longtime-insider-bd2f6fbf?mod=mw_rss_topstories",
+            "summary": ". Buffett’s CEO successor Greg Abel may bring a change in style, greater collaboration. Abel is a former CFO and COO of Berkshire Hathaway.",
+            "date": "Sat, 03 May 2025 21:32:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFC",
-            "impact": "Bullish"
+            "stock_ticker": "0P00012DUB.L",
+            "impact": "Neutral"
         },
         {
-            "title": "My ailing parent’s house burned down in the California fires. Will our brother, who took care of them, lose his inheritance?",
-            "link": "https://www.marketwatch.com/story/my-ailing-parents-house-burned-down-in-the-california-fires-will-our-brother-who-took-care-of-them-lose-his-inheritance-0f2d5d95?mod=mw_rss_topstories",
-            "summary": "“How can the insurance proceeds and legal settlement not be protected from our estranged sibling?” she asks. “How Can the Insurance Proceeds and Legal settlement not Be protected from Our Estranged Sister?’",
-            "date": "Sat, 03 May 2025 09:44:00 GMT",
+            "title": "Investing legend Warren Buffett to step down as head of Berkshire Hathaway after 6 momentous decades",
+            "link": "https://www.marketwatch.com/story/warren-buffett-to-step-down-as-berkshire-ceo-at-year-end-09a4c3e8?mod=mw_rss_topstories",
+            "summary": "Warren Buffett says he will step down as CEO of Berkshire Hathaway Inc. at year-end. He will ask the board to formally hand the reins to Greg Abel.",
+            "date": "Sat, 03 May 2025 21:19:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
+            "stock_ticker": "SRIU.NE",
+            "impact": "Bearish"
+        },
+        {
+            "title": "The best Kentucky Derby bet may actually be investing in Churchill Downs",
+            "link": "https://www.marketwatch.com/story/the-best-kentucky-derby-bet-may-actually-be-investing-in-churchill-downs-06e50526?mod=mw_rss_topstories",
+            "summary": " Churchill Downs Incorporated is the owner of the track where the famed namesake race is run. Some analysts say its stock has plenty of upside right now.",
+            "date": "Sat, 03 May 2025 20:28:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Bullish"
         }
     ]
 }
