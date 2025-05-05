@@ -1,125 +1,125 @@
 {
-    "date": "2025-05-04",
+    "date": "2025-05-05",
     "news": [
         {
-            "title": "End of an era: Warren Buffett will ask Berkshire board to replace him as CEO with Greg Abel",
-            "link": "https://www.cnbc.com/2025/05/03/warren-buffett-to-ask-board-to-make-greg-abel-ceo-of-berkshire-hathaway-at-year-end.html",
-            "summary": " Buffett said he will still 'hang around' to help, but the final word on company operations and capital deployment would be with Abel, 62.",
-            "date": "Sun, 04 May 2025 11:21:48 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EXK",
-            "impact": "Neutral"
-        },
-        {
-            "title": "6 big things investors learned from Warren Buffett at this year's Berkshire shareholder meeting",
-            "link": "https://www.cnbc.com/2025/05/03/6-big-things-investors-learned-from-warren-buffett-at-this-years-berkshire-shareholder-meeting.html",
-            "summary": "CNBC takes a look at some of the biggest takeaways from the annual gathering. Here are the top three stories from CNBC's coverage of the event.",
-            "date": "Sat, 03 May 2025 20:09:41 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "6L=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Top Wall Street analysts are bullish on these 3 dividend stocks for stable returns",
-            "link": "https://www.cnbc.com/2025/05/04/wall-street-analysts-are-bullish-on-these-3-dividend-stocks-for-stable-returns.html",
-            "summary": " TipRanks' analyst ranking service spotlights three dividend-paying stocks, including AT&amp;T and Texas Instruments.",
-            "date": "Sun, 04 May 2025 11:18:45 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TOP",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump posts AI-generated photo of himself dressed as the pope",
-            "link": "https://www.cnbc.com/2025/05/03/trump-pope-ai-image.html",
-            "summary": "President Trump earlier this year jokingly called himself a \"king\" after he moved to end the congestion pricing program in New York City.",
-            "date": "Sat, 03 May 2025 22:58:45 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Berkshire shareholders are 'stunned' as Warren Buffett announces plan to step down after 6 decades",
-            "link": "https://www.cnbc.com/2025/05/03/berkshire-shareholders-are-stunned-as-buffett-announces-plan-to-step-down.html",
-            "summary": "Berkshire Hathaway shareholders had no idea how historic this year's event would be. Berkshire Hathaway shareholder: \"I think it's going to be a great year\"",
-            "date": "Sat, 03 May 2025 21:41:51 GMT",
+            "title": "Berkshire Hathaway shares dip nearly 3% after shocking Buffett exit and an earnings decline",
+            "link": "https://www.cnbc.com/2025/05/05/berkshire-hathaway-shares-dip-nearly-3percent-after-shocking-buffett-exit-and-an-earnings-decline.html",
+            "summary": "Investors are processing Warren Buffett's surprise announcement to step down and envision a new path for the conglomerate after his legendary 60-year run.",
+            "date": "Mon, 05 May 2025 12:32:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BRK-B",
-            "impact": "Neutral"
-        },
-        {
-            "title": "A real-estate giant wants sellers to list their homes privately. Will homeowners benefit?",
-            "link": "https://www.marketwatch.com/story/a-real-estate-giant-wants-sellers-to-list-their-homes-privately-will-homeowners-benefit-8a561bb8?mod=mw_rss_topstories",
-            "summary": "Some real-estate agents want sellers to keep their for-sale listings private. Selling a home has been tough in a sluggish market, but now some sellers want to keep it private.",
-            "date": "Sun, 04 May 2025 10:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
-            "impact": "Neutral"
-        },
-        {
-            "title": "If you read April’s jobs report, you won’t be surprised by the No. 1 ‘best job’ in America",
-            "link": "https://www.marketwatch.com/story/if-you-read-aprils-jobs-report-you-wont-be-surprised-by-the-no-1-best-job-in-america-1d5663e7?mod=mw_rss_topstories",
-            "summary": "There was strong jobs growth in one industry in April, but that does not necessarily add up to a healthy U.S. labor market.",
-            "date": "Sun, 04 May 2025 09:29:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IFF",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Buffett passes the torch — here’s what Berkshire loyalists should know, from a longtime insider",
-            "link": "https://www.marketwatch.com/story/buffett-passes-the-torch-heres-what-berkshire-loyalists-should-know-from-a-longtime-insider-bd2f6fbf?mod=mw_rss_topstories",
-            "summary": ". Buffett’s CEO successor Greg Abel may bring a change in style, greater collaboration. Abel is a former CFO and COO of Berkshire Hathaway.",
-            "date": "Sat, 03 May 2025 21:32:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P00012DUB.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Investing legend Warren Buffett to step down as head of Berkshire Hathaway after 6 momentous decades",
-            "link": "https://www.marketwatch.com/story/warren-buffett-to-step-down-as-berkshire-ceo-at-year-end-09a4c3e8?mod=mw_rss_topstories",
-            "summary": "Warren Buffett says he will step down as CEO of Berkshire Hathaway Inc. at year-end. He will ask the board to formally hand the reins to Greg Abel.",
-            "date": "Sat, 03 May 2025 21:19:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SRIU.NE",
             "impact": "Bearish"
         },
         {
-            "title": "The best Kentucky Derby bet may actually be investing in Churchill Downs",
-            "link": "https://www.marketwatch.com/story/the-best-kentucky-derby-bet-may-actually-be-investing-in-churchill-downs-06e50526?mod=mw_rss_topstories",
-            "summary": " Churchill Downs Incorporated is the owner of the track where the famed namesake race is run. Some analysts say its stock has plenty of upside right now.",
-            "date": "Sat, 03 May 2025 20:28:00 GMT",
+            "title": "Hollywood studio stocks fall after Trump proposes foreign film tariff",
+            "link": "https://www.cnbc.com/2025/05/05/movie-studio-stocks-trump-foreign-film-tariff.html",
+            "summary": "Shares of Netflix, Disney, WBD, Paramount and Comcast fell in premarket hours. President Donald Trump proposed a tariff on films shot outside the U.S.",
+            "date": "Mon, 05 May 2025 12:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Bullish"
+            "stock_ticker": "2H4.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Skechers to be acquired by 3G Capital in take-private deal, shares soar 25%",
+            "link": "https://www.cnbc.com/2025/05/05/skechers-to-be-acquired-by-3g-capital.html",
+            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
+            "date": "Mon, 05 May 2025 13:14:55 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SKX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "CNBC's Official Global Soccer Team Valuations 2025: Here's how the top 25 clubs in the world stack up",
+            "link": "https://www.cnbc.com/2025/05/05/cnbcs-official-global-soccer-team-valuations-2025.html",
+            "summary": "The 25 most valuable teams in the world are worth an average of $2.76 billion, according to CNBC's Official Global Soccer Valuations 2025.",
+            "date": "Mon, 05 May 2025 12:58:39 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TRUMP35336-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bill Ackman's Pershing Square strikes $900 million deal for more control of Howard Hughes",
+            "link": "https://www.cnbc.com/2025/05/05/bill-ackmans-pershing-square-strikes-900-million-deal-for-more-control-of-howard-hughes.html",
+            "summary": "Ackman has said he wants to turn the real estate company into a \"modern-day Berkshire Hathaway\" Ackman: \"I want to turn [Real estate] into a modern-day Buffett\"",
+            "date": "Mon, 05 May 2025 12:50:21 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BILL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "International stocks have been crushing U.S. equities. Morgan Stanley expects a reversal.",
+            "link": "https://www.marketwatch.com/story/international-stocks-have-been-crushing-u-s-equities-morgan-stanley-expects-a-reversal-d8eab5ab?mod=mw_rss_topstories",
+            "summary": "Mike Wilson, chief market strategist at Morgan Stanley, says he likes U.S. over international equities from here. Wilson: \"I think we're in for a very good year in the United States\"",
+            "date": "Mon, 05 May 2025 13:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GF=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The one-in-a-trillion event tying Taiwan’s dollar, Trump trade policy and the AI revolution all together",
+            "link": "https://www.marketwatch.com/story/the-one-in-a-trillion-event-tying-taiwans-dollar-trump-trade-policy-and-the-ai-revolution-all-together-8a988a24?mod=mw_rss_topstories",
+            "summary": "Bloomberg reports $767 billion of foreign assets held by Taiwan's life insurers. Taiwan’s currency is exploding higher, and along with it fears about what Bloomberg reports is $767billion of foreign Assets.",
+            "date": "Mon, 05 May 2025 12:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DIS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Billionaire Bill Ackman’s ‘modern Berkshire Hathaway’ has a long way to go to rival Warren Buffett",
+            "link": "https://www.marketwatch.com/story/billionaire-bill-ackmans-modern-berkshire-hathaway-has-a-long-way-to-go-to-rival-warren-buffett-00dc1e5f?mod=mw_rss_topstories",
+            "summary": "Howard Hughes Holdings has a market capitalization of $3.4 billion, compared with  Berkshire Hathaway’s market cap of about $1.2 trillion.",
+            "date": "Mon, 05 May 2025 12:45:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DE000SL0AUC8.SG",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why a potential Shell blockbuster deal for BP makes sense",
+            "link": "https://www.marketwatch.com/story/why-a-potential-shell-blockbuster-deal-for-bp-makes-sense-619ba11b?mod=mw_rss_topstories",
+            "summary": "Media reports said Shell may be looking to purchase rival BP. Observers say that could be the answer to lots of BP problems. Shell has not commented on the reports.",
+            "date": "Mon, 05 May 2025 12:37:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHYCX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s what I’ve learned after writing about Apple, Intel and Silicon Valley for over 30 years",
+            "link": "https://www.marketwatch.com/story/heres-what-ive-learned-after-writing-about-apple-intel-and-silicon-valley-for-over-30-years-605ea0a0?mod=mw_rss_topstories",
+            "summary": "History repeats itself in Silicon Valley. A few wacky stories are worth remembering and AI is getting creepier every day. A look at some of the wacky things that have happened in the tech industry.",
+            "date": "Mon, 05 May 2025 12:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WAT-P.V",
+            "impact": "Neutral"
         }
     ]
 }
