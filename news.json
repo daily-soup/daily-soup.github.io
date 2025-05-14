@@ -1,124 +1,124 @@
 {
-    "date": "2025-05-05",
+    "date": "2025-05-14",
     "news": [
         {
-            "title": "Berkshire Hathaway shares dip nearly 3% after shocking Buffett exit and an earnings decline",
-            "link": "https://www.cnbc.com/2025/05/05/berkshire-hathaway-shares-dip-nearly-3percent-after-shocking-buffett-exit-and-an-earnings-decline.html",
-            "summary": "Investors are processing Warren Buffett's surprise announcement to step down and envision a new path for the conglomerate after his legendary 60-year run.",
-            "date": "Mon, 05 May 2025 12:32:38 GMT",
+            "title": "AI research takes a backseat to profits as Silicon Valley prioritizes products over safety, experts say",
+            "link": "https://www.cnbc.com/2025/05/14/meta-google-openai-artificial-intelligence-safety.html",
+            "summary": "Tech companies are focusing on AI products over research, say experts. Industry experts are sounding the alarm about safety of AI products. They are concerned that the technology could be used to target people with disabilities.",
+            "date": "Wed, 14 May 2025 11:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BRK-B",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Hollywood studio stocks fall after Trump proposes foreign film tariff",
-            "link": "https://www.cnbc.com/2025/05/05/movie-studio-stocks-trump-foreign-film-tariff.html",
-            "summary": "Shares of Netflix, Disney, WBD, Paramount and Comcast fell in premarket hours. President Donald Trump proposed a tariff on films shot outside the U.S.",
-            "date": "Mon, 05 May 2025 12:37:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "2H4.F",
+            "stock_ticker": "AI",
             "impact": "Neutral"
         },
         {
-            "title": "Skechers to be acquired by 3G Capital in take-private deal, shares soar 25%",
-            "link": "https://www.cnbc.com/2025/05/05/skechers-to-be-acquired-by-3g-capital.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Mon, 05 May 2025 13:14:55 GMT",
+            "title": "CNBC's The China Connection newsletter: U.S.-China relations have changed",
+            "link": "https://www.cnbc.com/2025/05/14/cnbcs-the-china-connection-us-china-relations-have-changed.html",
+            "summary": "The world got a taste of an effective U.S.-China trade embargo, and there's no going back. The world got to see the impact of a trade embargo with China.",
+            "date": "Wed, 14 May 2025 13:17:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SKX",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "CNBC's Official Global Soccer Team Valuations 2025: Here's how the top 25 clubs in the world stack up",
-            "link": "https://www.cnbc.com/2025/05/05/cnbcs-official-global-soccer-team-valuations-2025.html",
-            "summary": "The 25 most valuable teams in the world are worth an average of $2.76 billion, according to CNBC's Official Global Soccer Valuations 2025.",
-            "date": "Mon, 05 May 2025 12:58:39 GMT",
+            "title": "Video podcasts are having a moment at media upfronts",
+            "link": "https://www.cnbc.com/2025/05/14/upfront-advertising-pitches-video-podcasts.html",
+            "summary": " Podcasts are taking the stage at media companies' annual pitch to advertisers. Podcasts, which are increasingly more popular as videos, are taking up the stage this year.",
+            "date": "Wed, 14 May 2025 13:15:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TRUMP35336-USD",
+            "stock_ticker": "ESPO",
             "impact": "Neutral"
         },
         {
-            "title": "Bill Ackman's Pershing Square strikes $900 million deal for more control of Howard Hughes",
-            "link": "https://www.cnbc.com/2025/05/05/bill-ackmans-pershing-square-strikes-900-million-deal-for-more-control-of-howard-hughes.html",
-            "summary": "Ackman has said he wants to turn the real estate company into a \"modern-day Berkshire Hathaway\" Ackman: \"I want to turn [Real estate] into a modern-day Buffett\"",
-            "date": "Mon, 05 May 2025 12:50:21 GMT",
+            "title": "Trump meets Syrian leader in Saudi Arabia the day after announcing end of U.S. sanctions",
+            "link": "https://www.cnbc.com/2025/05/14/trump-meets-with-syrian-leader-in-saudi-arabia.html",
+            "summary": "Saudi Arabia and Turkey played a key role in convincing Trump to lift sanctions on Syria and meet with al-Sharaa. Saudi Arabia, Turkey's leaders helped convince Trump to remove sanctions.",
+            "date": "Wed, 14 May 2025 12:00:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BILL",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "International stocks have been crushing U.S. equities. Morgan Stanley expects a reversal.",
-            "link": "https://www.marketwatch.com/story/international-stocks-have-been-crushing-u-s-equities-morgan-stanley-expects-a-reversal-d8eab5ab?mod=mw_rss_topstories",
-            "summary": "Mike Wilson, chief market strategist at Morgan Stanley, says he likes U.S. over international equities from here. Wilson: \"I think we're in for a very good year in the United States\"",
-            "date": "Mon, 05 May 2025 13:12:00 GMT",
+            "title": "'I like you too much': Trump and Saudi crown prince bask in their friendship",
+            "link": "https://www.cnbc.com/2025/05/14/trump-and-saudi-crown-prince-bask-in-friendship-during-riyadh-visit.html",
+            "summary": "U.S.-Saudi Investment Forum includes scores of the world's most powerful CEOs. Among them Elon Musk, Jensen Huang and Larry Fink.",
+            "date": "Wed, 14 May 2025 13:17:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GF=F",
+            "stock_ticker": "GADS",
             "impact": "Neutral"
         },
         {
-            "title": "The one-in-a-trillion event tying Taiwan’s dollar, Trump trade policy and the AI revolution all together",
-            "link": "https://www.marketwatch.com/story/the-one-in-a-trillion-event-tying-taiwans-dollar-trump-trade-policy-and-the-ai-revolution-all-together-8a988a24?mod=mw_rss_topstories",
-            "summary": "Bloomberg reports $767 billion of foreign assets held by Taiwan's life insurers. Taiwan’s currency is exploding higher, and along with it fears about what Bloomberg reports is $767billion of foreign Assets.",
-            "date": "Mon, 05 May 2025 12:58:00 GMT",
+            "title": "Warren Buffett’s worst money mistakes are actually a master class in how to invest",
+            "link": "https://www.marketwatch.com/story/warren-buffetts-worst-money-mistakes-are-a-master-class-in-how-to-invest-wisely-b30baa55?mod=mw_rss_topstories",
+            "summary": "Berkshire Hathaway has made a series of big mistakes in recent years. The company is now trying to right itself after a string of missteps.",
+            "date": "Wed, 14 May 2025 13:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DIS",
+            "stock_ticker": "WSEC11.SA",
             "impact": "Neutral"
         },
         {
-            "title": "Billionaire Bill Ackman’s ‘modern Berkshire Hathaway’ has a long way to go to rival Warren Buffett",
-            "link": "https://www.marketwatch.com/story/billionaire-bill-ackmans-modern-berkshire-hathaway-has-a-long-way-to-go-to-rival-warren-buffett-00dc1e5f?mod=mw_rss_topstories",
-            "summary": "Howard Hughes Holdings has a market capitalization of $3.4 billion, compared with  Berkshire Hathaway’s market cap of about $1.2 trillion.",
-            "date": "Mon, 05 May 2025 12:45:00 GMT",
+            "title": "Investors really want to believe Trump on tariffs — but the truth will hit them soon",
+            "link": "https://www.marketwatch.com/story/how-trumps-tariffs-are-ending-the-american-century-and-boosting-chinas-power-d1334919?mod=mw_rss_topstories",
+            "summary": "The 21st century now belongs to China and Asia, says Chinese President Xi Jinping. China is the world's second largest economy, after the U.S., and is the fastest growing region.",
+            "date": "Wed, 14 May 2025 13:07:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DE000SL0AUC8.SG",
+            "stock_ticker": "OHI",
             "impact": "Neutral"
         },
         {
-            "title": "Why a potential Shell blockbuster deal for BP makes sense",
-            "link": "https://www.marketwatch.com/story/why-a-potential-shell-blockbuster-deal-for-bp-makes-sense-619ba11b?mod=mw_rss_topstories",
-            "summary": "Media reports said Shell may be looking to purchase rival BP. Observers say that could be the answer to lots of BP problems. Shell has not commented on the reports.",
-            "date": "Mon, 05 May 2025 12:37:00 GMT",
+            "title": "This biotech’s stock rockets on oral obesity drug partnership with Wegovy parent",
+            "link": "https://www.marketwatch.com/story/this-biotechs-stock-rockets-on-oral-obesity-drug-partnership-with-wegovy-parent-56c8de52?mod=mw_rss_topstories",
+            "summary": "Novo Nordisk looks to harness Septerna’s broader GPCR drug pathways, which include GLP-1, for obesity and diabetes treatments.",
+            "date": "Wed, 14 May 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYCX",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s what I’ve learned after writing about Apple, Intel and Silicon Valley for over 30 years",
-            "link": "https://www.marketwatch.com/story/heres-what-ive-learned-after-writing-about-apple-intel-and-silicon-valley-for-over-30-years-605ea0a0?mod=mw_rss_topstories",
-            "summary": "History repeats itself in Silicon Valley. A few wacky stories are worth remembering and AI is getting creepier every day. A look at some of the wacky things that have happened in the tech industry.",
-            "date": "Mon, 05 May 2025 12:15:00 GMT",
+            "title": "I’m 65 and a widow with 5 children. Should I split my $1.1 million nest egg between them while I’m still alive?",
+            "link": "https://www.marketwatch.com/story/im-65-and-a-widow-with-5-grown-children-should-i-split-my-1-1-million-investment-account-between-them-8db13b56?mod=mw_rss_topstories",
+            "summary": "“I receive part of my late husband’s government annuity, which is enough for me to live off,” she says.",
+            "date": "Wed, 14 May 2025 12:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WAT-P.V",
+            "stock_ticker": "IBRX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s something the rich know about managing investment risk that can help you, too",
+            "link": "https://www.marketwatch.com/story/heres-something-the-rich-know-about-managing-investment-risk-that-can-help-you-too-7b15e035?mod=mw_rss_topstories",
+            "summary": "Alternative assets can stabilize your portfolio when the stock market wobbles. Farmland, timber and other alternative assets can stabilise your portfolio during a market wobble.",
+            "date": "Wed, 14 May 2025 12:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
             "impact": "Neutral"
         }
     ]
