@@ -1,107 +1,83 @@
 {
-    "date": "2025-05-14",
+    "date": "2025-05-15",
     "news": [
         {
-            "title": "AI research takes a backseat to profits as Silicon Valley prioritizes products over safety, experts say",
-            "link": "https://www.cnbc.com/2025/05/14/meta-google-openai-artificial-intelligence-safety.html",
-            "summary": "Tech companies are focusing on AI products over research, say experts. Industry experts are sounding the alarm about safety of AI products. They are concerned that the technology could be used to target people with disabilities.",
-            "date": "Wed, 14 May 2025 11:00:01 GMT",
+            "title": "Fed's Powell cautions about higher long-term rates as 'supply shocks' provide policy challenges",
+            "link": "https://www.cnbc.com/2025/05/15/feds-powell-cautions-about-higher-long-term-rates-as-supply-shocks-provide-policy-challenges.html",
+            "summary": "Powell said longer-term interest rates are likely to be higher as the economy changes and policy is in flux. Powell said Thursday that longer-than-expected interest rates will likely be higher.",
+            "date": "Thu, 15 May 2025 13:19:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "POWL",
             "impact": "Neutral"
         },
         {
-            "title": "CNBC's The China Connection newsletter: U.S.-China relations have changed",
-            "link": "https://www.cnbc.com/2025/05/14/cnbcs-the-china-connection-us-china-relations-have-changed.html",
-            "summary": "The world got a taste of an effective U.S.-China trade embargo, and there's no going back. The world got to see the impact of a trade embargo with China.",
-            "date": "Wed, 14 May 2025 13:17:01 GMT",
+            "title": "Dick's Sporting Goods to acquire Foot Locker for $2.4 billion in effort to corner Nike market",
+            "link": "https://www.cnbc.com/2025/05/15/dicks-sporting-goods-to-acquire-foot-locker-for-2point4-billion.html",
+            "summary": "The combined company will have a competitive edge in the Nike sneaker market. It will provide Dick's access to international markets, plus a younger consumer.",
+            "date": "Thu, 15 May 2025 12:23:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "DKS",
             "impact": "Neutral"
         },
         {
-            "title": "Video podcasts are having a moment at media upfronts",
-            "link": "https://www.cnbc.com/2025/05/14/upfront-advertising-pitches-video-podcasts.html",
-            "summary": " Podcasts are taking the stage at media companies' annual pitch to advertisers. Podcasts, which are increasingly more popular as videos, are taking up the stage this year.",
-            "date": "Wed, 14 May 2025 13:15:18 GMT",
+            "title": "Coinbase says hackers bribed staff to steal customer data and are demanding $20 million ransom",
+            "link": "https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html",
+            "summary": "Coinbase may cost up to $400 million to fix, the company estimated. The incident may cost the company up to £300 million to £400 million, it said.",
+            "date": "Thu, 15 May 2025 12:18:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ESPO",
-            "impact": "Neutral"
+            "stock_ticker": "COIN",
+            "impact": "Bullish"
         },
         {
-            "title": "Trump meets Syrian leader in Saudi Arabia the day after announcing end of U.S. sanctions",
-            "link": "https://www.cnbc.com/2025/05/14/trump-meets-with-syrian-leader-in-saudi-arabia.html",
-            "summary": "Saudi Arabia and Turkey played a key role in convincing Trump to lift sanctions on Syria and meet with al-Sharaa. Saudi Arabia, Turkey's leaders helped convince Trump to remove sanctions.",
-            "date": "Wed, 14 May 2025 12:00:20 GMT",
+            "title": "Trump says he doesn't want Apple building products in India: 'I had a little problem with Tim Cook'",
+            "link": "https://www.cnbc.com/2025/05/15/trump-told-tim-cook-he-doesnt-want-apple-building-iphones-in-india.html",
+            "summary": "Apple has been ramping up production in India with the aim of making around 25% of global iPhones in the country in the next few years.",
+            "date": "Thu, 15 May 2025 13:11:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Neutral"
+            "impact": "Bullish"
         },
         {
-            "title": "'I like you too much': Trump and Saudi crown prince bask in their friendship",
-            "link": "https://www.cnbc.com/2025/05/14/trump-and-saudi-crown-prince-bask-in-friendship-during-riyadh-visit.html",
-            "summary": "U.S.-Saudi Investment Forum includes scores of the world's most powerful CEOs. Among them Elon Musk, Jensen Huang and Larry Fink.",
-            "date": "Wed, 14 May 2025 13:17:55 GMT",
+            "title": "Walmart CFO says price hikes from tariffs could start later this month, as retailer beats on earnings",
+            "link": "https://www.cnbc.com/2025/05/15/walmart-wmt-q1-2026-earnings.html",
+            "summary": "Walmart's CFO says price increases from President Donald Trump's tariffs could start soon. Walmart beat first-quarter earnings expectations but missed on revenue.",
+            "date": "Thu, 15 May 2025 12:51:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GADS",
+            "stock_ticker": "WMT",
             "impact": "Neutral"
         },
         {
-            "title": "Warren Buffett’s worst money mistakes are actually a master class in how to invest",
-            "link": "https://www.marketwatch.com/story/warren-buffetts-worst-money-mistakes-are-a-master-class-in-how-to-invest-wisely-b30baa55?mod=mw_rss_topstories",
-            "summary": "Berkshire Hathaway has made a series of big mistakes in recent years. The company is now trying to right itself after a string of missteps.",
-            "date": "Wed, 14 May 2025 13:20:00 GMT",
+            "title": "Trump’s tax bill is Republicans’ big, bloated, $4 trillion headache",
+            "link": "https://www.marketwatch.com/story/trumps-tax-bill-is-the-republicans-big-bloated-4-trillion-headache-8388004b?mod=mw_rss_topstories",
+            "summary": "GOP lawmakers prioritize politics over economic growth. GOP lawmakers prioritise politics over growth. Republicans say they want to focus on jobs, not the economy.",
+            "date": "Thu, 15 May 2025 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WSEC11.SA",
+            "stock_ticker": "TRUMPSHIBA32302-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Investors really want to believe Trump on tariffs — but the truth will hit them soon",
-            "link": "https://www.marketwatch.com/story/how-trumps-tariffs-are-ending-the-american-century-and-boosting-chinas-power-d1334919?mod=mw_rss_topstories",
-            "summary": "The 21st century now belongs to China and Asia, says Chinese President Xi Jinping. China is the world's second largest economy, after the U.S., and is the fastest growing region.",
-            "date": "Wed, 14 May 2025 13:07:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OHI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This biotech’s stock rockets on oral obesity drug partnership with Wegovy parent",
-            "link": "https://www.marketwatch.com/story/this-biotechs-stock-rockets-on-oral-obesity-drug-partnership-with-wegovy-parent-56c8de52?mod=mw_rss_topstories",
-            "summary": "Novo Nordisk looks to harness Septerna’s broader GPCR drug pathways, which include GLP-1, for obesity and diabetes treatments.",
-            "date": "Wed, 14 May 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THISX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m 65 and a widow with 5 children. Should I split my $1.1 million nest egg between them while I’m still alive?",
-            "link": "https://www.marketwatch.com/story/im-65-and-a-widow-with-5-grown-children-should-i-split-my-1-1-million-investment-account-between-them-8db13b56?mod=mw_rss_topstories",
-            "summary": "“I receive part of my late husband’s government annuity, which is enough for me to live off,” she says.",
-            "date": "Wed, 14 May 2025 12:45:00 GMT",
+            "title": "‘I’m flabbergasted’: My friend wants to borrow $5,800 to save his home from foreclosure. What should I do?",
+            "link": "https://www.marketwatch.com/story/im-flabbergasted-my-friend-wants-to-borrow-5-800-to-save-his-home-from-foreclosure-what-should-i-do-c578b12b?mod=mw_rss_topstories",
+            "summary": "“I previously loaned a friend $7,000, and she later died,” he said. “I’m not going to let her die.”",
+            "date": "Thu, 15 May 2025 13:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,10 +86,34 @@
             "impact": "Neutral"
         },
         {
-            "title": "Here’s something the rich know about managing investment risk that can help you, too",
-            "link": "https://www.marketwatch.com/story/heres-something-the-rich-know-about-managing-investment-risk-that-can-help-you-too-7b15e035?mod=mw_rss_topstories",
-            "summary": "Alternative assets can stabilize your portfolio when the stock market wobbles. Farmland, timber and other alternative assets can stabilise your portfolio during a market wobble.",
-            "date": "Wed, 14 May 2025 12:15:00 GMT",
+            "title": "I have $50,000 in credit-card debt after my divorce, but received $30,000 after a car wreck. Do I buy a used Lexus?",
+            "link": "https://www.marketwatch.com/story/i-have-50-000-in-credit-card-debt-after-my-divorce-but-received-30-000-after-a-car-wreck-do-i-buy-a-used-lexus-6666fb78?mod=mw_rss_topstories",
+            "summary": "“I previously drove a fully loaded BMW X7, and driving a used Lexus feels like a big drop,” he says.",
+            "date": "Thu, 15 May 2025 13:07:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GLDY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Walmart concedes ‘magnitude of tariffs’ is pushing prices up after strong first quarter",
+            "link": "https://www.marketwatch.com/story/walmarts-stock-jumps-as-outlook-maintained-streak-of-earnings-beats-extended-4b2d557f?mod=mw_rss_topstories",
+            "summary": "Walmart CEO Doug McMillon described the company’s immediate challenge as navigating the impact of tariffs in the U.S. McMillon: “We’re going to have to be very, very careful.”",
+            "date": "Thu, 15 May 2025 13:07:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WMT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The retail buy-the-dip move paid off. What that crowd of investors is doing now, according to JPMorgan.",
+            "link": "https://www.marketwatch.com/story/the-retail-buy-the-dip-move-paid-off-what-that-crowd-of-investors-is-doing-now-according-to-jpmorgan-29276dbf?mod=mw_rss_topstories",
+            "summary": "JPMorgan says retail investors did well with a buy-the-dip strategy last month. But that crowd of investors is getting weary.",
+            "date": "Thu, 15 May 2025 12:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
