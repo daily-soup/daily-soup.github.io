@@ -1,124 +1,124 @@
 {
-    "date": "2025-05-15",
+    "date": "2025-05-16",
     "news": [
         {
-            "title": "Fed's Powell cautions about higher long-term rates as 'supply shocks' provide policy challenges",
-            "link": "https://www.cnbc.com/2025/05/15/feds-powell-cautions-about-higher-long-term-rates-as-supply-shocks-provide-policy-challenges.html",
-            "summary": "Powell said longer-term interest rates are likely to be higher as the economy changes and policy is in flux. Powell said Thursday that longer-than-expected interest rates will likely be higher.",
-            "date": "Thu, 15 May 2025 13:19:01 GMT",
+            "title": "Cable companies Charter and Cox agree to merge",
+            "link": "https://www.cnbc.com/2025/05/16/cable-rivals-charter-and-cox-to-merge.html",
+            "summary": "Charter Communications and Cox Communications, two of the largest cable companies in the U.S., have entered into an agreement to merge. The deal is expected to be completed by the end of the year.",
+            "date": "Fri, 16 May 2025 12:48:40 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "POWL",
+            "stock_ticker": "APWC",
             "impact": "Neutral"
         },
         {
-            "title": "Dick's Sporting Goods to acquire Foot Locker for $2.4 billion in effort to corner Nike market",
-            "link": "https://www.cnbc.com/2025/05/15/dicks-sporting-goods-to-acquire-foot-locker-for-2point4-billion.html",
-            "summary": "The combined company will have a competitive edge in the Nike sneaker market. It will provide Dick's access to international markets, plus a younger consumer.",
-            "date": "Thu, 15 May 2025 12:23:08 GMT",
+            "title": "How much would a 100% 'Made in the USA' vehicle cost? It's complicated",
+            "link": "https://www.cnbc.com/2025/05/16/made-in-the-usa-vehicle-cost.html",
+            "summary": "President Donald Trump wants automakers to build more vehicles in the U.S. with American parts. It's not as easy as it might seem.",
+            "date": "Fri, 16 May 2025 13:00:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DKS",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Coinbase says hackers bribed staff to steal customer data and are demanding $20 million ransom",
-            "link": "https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html",
-            "summary": "Coinbase may cost up to $400 million to fix, the company estimated. The incident may cost the company up to £300 million to £400 million, it said.",
-            "date": "Thu, 15 May 2025 12:18:15 GMT",
+            "title": "Novo Nordisk CEO to step down as Wegovy maker faces growing competition",
+            "link": "https://www.cnbc.com/2025/05/16/novo-nordisk-ceo-to-step-down-as-competition-weighs-on-share-price.html",
+            "summary": "Fruergaard Jørgensen will remain in his post \"for a period to support a smooth transition to new leadership,\" Danish pharmaceutical giant says.",
+            "date": "Fri, 16 May 2025 13:22:52 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COIN",
+            "stock_ticker": "NVO",
             "impact": "Bullish"
         },
         {
-            "title": "Trump says he doesn't want Apple building products in India: 'I had a little problem with Tim Cook'",
-            "link": "https://www.cnbc.com/2025/05/15/trump-told-tim-cook-he-doesnt-want-apple-building-iphones-in-india.html",
-            "summary": "Apple has been ramping up production in India with the aim of making around 25% of global iPhones in the country in the next few years.",
-            "date": "Thu, 15 May 2025 13:11:56 GMT",
+            "title": "Fortnite is now offline on iOS worldwide as Apple blocks game, Epic Games says",
+            "link": "https://www.cnbc.com/2025/05/16/fortnite-is-now-offline-on-ios-worldwide-as-apple-blocks-game-epic-games-says.html",
+            "summary": "Fortnite is now unavailable on iOS globally, Epic Games said Friday. Apple blocked a bid to reinstate the popular game on the App Store in the U.S.",
+            "date": "Fri, 16 May 2025 13:14:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Walmart CFO says price hikes from tariffs could start later this month, as retailer beats on earnings",
-            "link": "https://www.cnbc.com/2025/05/15/walmart-wmt-q1-2026-earnings.html",
-            "summary": "Walmart's CFO says price increases from President Donald Trump's tariffs could start soon. Walmart beat first-quarter earnings expectations but missed on revenue.",
-            "date": "Thu, 15 May 2025 12:51:17 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WMT",
+            "stock_ticker": "CADISK=X",
             "impact": "Neutral"
         },
         {
-            "title": "Trump’s tax bill is Republicans’ big, bloated, $4 trillion headache",
-            "link": "https://www.marketwatch.com/story/trumps-tax-bill-is-the-republicans-big-bloated-4-trillion-headache-8388004b?mod=mw_rss_topstories",
-            "summary": "GOP lawmakers prioritize politics over economic growth. GOP lawmakers prioritise politics over growth. Republicans say they want to focus on jobs, not the economy.",
-            "date": "Thu, 15 May 2025 13:15:00 GMT",
+            "title": "Mike Novogratz describes 'unfair, infuriating' path to Galaxy Digital's Nasdaq listing",
+            "link": "https://www.cnbc.com/2025/05/16/mike-novogratz-galaxy-digital-nasdaq-listing.html",
+            "summary": "Mike Novogratz’s Galaxy Digital will finally list on the Nasdaq. The move marks a hard-fought victory for the crypto mogul.",
+            "date": "Fri, 16 May 2025 13:00:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TRUMPSHIBA32302-USD",
+            "stock_ticker": "MKT28540-USD",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m flabbergasted’: My friend wants to borrow $5,800 to save his home from foreclosure. What should I do?",
-            "link": "https://www.marketwatch.com/story/im-flabbergasted-my-friend-wants-to-borrow-5-800-to-save-his-home-from-foreclosure-what-should-i-do-c578b12b?mod=mw_rss_topstories",
-            "summary": "“I previously loaned a friend $7,000, and she later died,” he said. “I’m not going to let her die.”",
-            "date": "Thu, 15 May 2025 13:12:00 GMT",
+            "title": "Virgin Galactic’s stock is skyrocketing. This is why.",
+            "link": "https://www.marketwatch.com/story/virgin-galactics-stock-is-skyrocketing-this-is-why-783216eb?mod=mw_rss_topstories",
+            "summary": "Virgin Galactic expects that private astronauts will pay more than $600,000 for a ticket on its new Delta class SpaceShips. Space-tourism company Virgin Galactic expects  private astronauts to pay more Than $600k for a Tickets on its New Delta Class SpaceShip.",
+            "date": "Fri, 16 May 2025 13:14:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "SPCE",
             "impact": "Neutral"
         },
         {
-            "title": "I have $50,000 in credit-card debt after my divorce, but received $30,000 after a car wreck. Do I buy a used Lexus?",
-            "link": "https://www.marketwatch.com/story/i-have-50-000-in-credit-card-debt-after-my-divorce-but-received-30-000-after-a-car-wreck-do-i-buy-a-used-lexus-6666fb78?mod=mw_rss_topstories",
-            "summary": "“I previously drove a fully loaded BMW X7, and driving a used Lexus feels like a big drop,” he says.",
-            "date": "Thu, 15 May 2025 13:07:00 GMT",
+            "title": "How Europe’s best investor picks stocks including GE Aerospace and Microsoft",
+            "link": "https://www.marketwatch.com/story/the-best-investor-europes-ever-had-on-why-he-likes-ge-aerospace-microsoft-and-rating-agencies-bfd44eb5?mod=mw_rss_topstories",
+            "summary": "Chris Hohn is knighted in the U.K. and founder of The Children’s Investment Fund. He was called the best investor Europe has ever had by Nicolai Tangen, head of Norway's sovereign wealth fund.",
+            "date": "Fri, 16 May 2025 13:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GLDY",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Walmart concedes ‘magnitude of tariffs’ is pushing prices up after strong first quarter",
-            "link": "https://www.marketwatch.com/story/walmarts-stock-jumps-as-outlook-maintained-streak-of-earnings-beats-extended-4b2d557f?mod=mw_rss_topstories",
-            "summary": "Walmart CEO Doug McMillon described the company’s immediate challenge as navigating the impact of tariffs in the U.S. McMillon: “We’re going to have to be very, very careful.”",
-            "date": "Thu, 15 May 2025 13:07:00 GMT",
+            "title": "My second wife says her 2 kids should inherit our estate, but I also have 2 kids. Is that fair?",
+            "link": "https://www.marketwatch.com/story/my-second-wife-says-her-2-kids-should-inherit-our-estate-but-i-also-have-2-kids-is-that-fair-22c71a86?mod=mw_rss_topstories",
+            "summary": "“I will leave the $1 million inheritance I received from my parents to my biological daughters,” he said. “I’ll leave it to my children.”",
+            "date": "Fri, 16 May 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WMT",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "The retail buy-the-dip move paid off. What that crowd of investors is doing now, according to JPMorgan.",
-            "link": "https://www.marketwatch.com/story/the-retail-buy-the-dip-move-paid-off-what-that-crowd-of-investors-is-doing-now-according-to-jpmorgan-29276dbf?mod=mw_rss_topstories",
-            "summary": "JPMorgan says retail investors did well with a buy-the-dip strategy last month. But that crowd of investors is getting weary.",
-            "date": "Thu, 15 May 2025 12:58:00 GMT",
+            "title": "Bank of America says conditions are emerging for these unloved stocks to thrive.",
+            "link": "https://www.marketwatch.com/story/bank-of-america-says-conditions-are-emerging-for-these-unloved-stocks-to-thrive-51da2f99?mod=mw_rss_topstories",
+            "summary": "Bank of America: Emerging markets are the next hot spot for investors. Here’s why it says they’re a good place to start.",
+            "date": "Fri, 16 May 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "SXB=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Home builders and buyers face bleak picture in the spring. Weak housing starts illustrate why.",
+            "link": "https://www.marketwatch.com/story/home-builders-and-buyers-face-bleak-picture-weak-housing-starts-illustrate-the-problem-e502967f?mod=mw_rss_topstories",
+            "summary": "For the third year in a row the picture in the housing market is bleak. Spring is usually the time when construction companies build more homes in anticipation of rising sales.",
+            "date": "Fri, 16 May 2025 12:55:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HD",
             "impact": "Neutral"
         }
     ]
