@@ -1,23 +1,59 @@
 {
-    "date": "2025-05-16",
+    "date": "2025-05-17",
     "news": [
         {
-            "title": "Cable companies Charter and Cox agree to merge",
-            "link": "https://www.cnbc.com/2025/05/16/cable-rivals-charter-and-cox-to-merge.html",
-            "summary": "Charter Communications and Cox Communications, two of the largest cable companies in the U.S., have entered into an agreement to merge. The deal is expected to be completed by the end of the year.",
-            "date": "Fri, 16 May 2025 12:48:40 GMT",
+            "title": "Moody's downgrades United States credit rating, citing growth in government debt",
+            "link": "https://www.cnbc.com/2025/05/16/moodys-downgrades-united-states-credit-rating-on-increase-in-government-debt.html",
+            "summary": "Moody's had been a holdout in keeping U.S. sovereign debt at the highest credit rating possible. The move brings the 116-year-old agency into line with its rivals.",
+            "date": "Sat, 17 May 2025 12:31:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "APWC",
+            "stock_ticker": "MCO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Grok's 'white genocide' auto responses show AI chatbots can be tampered with 'at will'",
+            "link": "https://www.cnbc.com/2025/05/17/groks-white-genocide-responses-show-gen-ai-tampered-with-at-will.html",
+            "summary": "Elon Musk's Grok chatbot is showing yet again why generative AI has a trust problem with users. Grok is a chatbot created by Musk's company, Tesla.",
+            "date": "Sat, 17 May 2025 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHWK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump wants coal to power AI data centers. The tech industry may need to make peace with that for now",
+            "link": "https://www.cnbc.com/2025/05/17/trump-wants-coal-to-power-ai-data-centers-the-tech-industry-is-wary-.html",
+            "summary": "President Donald Trump's push to revive the coal industry is running up against the tech sector's environmental goals. The tech sector is concerned about the impact of climate change.",
+            "date": "Sat, 17 May 2025 12:47:49 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Irenic snaps up a stake in Couchbase. Here are two tracks the firm can take to create value",
+            "link": "https://www.cnbc.com/2025/05/17/irenic-takes-a-stake-in-couchbase-two-tracks-the-firm-can-take-to-create-value.html",
+            "summary": "Activist Irenic has two paths to take at Couchbase to build value. \"Irenic\" is a founder and CEO of Couchbase, a social network for Couchbase users.",
+            "date": "Sat, 17 May 2025 12:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "UP",
             "impact": "Neutral"
         },
         {
             "title": "How much would a 100% 'Made in the USA' vehicle cost? It's complicated",
             "link": "https://www.cnbc.com/2025/05/16/made-in-the-usa-vehicle-cost.html",
             "summary": "President Donald Trump wants automakers to build more vehicles in the U.S. with American parts. It's not as easy as it might seem.",
-            "date": "Fri, 16 May 2025 13:00:02 GMT",
+            "date": "Fri, 16 May 2025 15:41:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,99 +62,63 @@
             "impact": "Neutral"
         },
         {
-            "title": "Novo Nordisk CEO to step down as Wegovy maker faces growing competition",
-            "link": "https://www.cnbc.com/2025/05/16/novo-nordisk-ceo-to-step-down-as-competition-weighs-on-share-price.html",
-            "summary": "Fruergaard Jørgensen will remain in his post \"for a period to support a smooth transition to new leadership,\" Danish pharmaceutical giant says.",
-            "date": "Fri, 16 May 2025 13:22:52 GMT",
+            "title": "‘We’re not wealthy’: My niece is marrying out of state and she has a honeymoon fund. Is that cheeky?",
+            "link": "https://www.marketwatch.com/story/were-not-wealthy-my-niece-is-marrying-out-of-state-and-she-has-a-honeymoon-fund-is-that-cheeky-18341770?mod=mw_rss_topstories",
+            "summary": "“We are making plans to attend just to show support. The invitation states that our presence is a gift in itself,” he said.",
+            "date": "Sat, 17 May 2025 13:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVO",
+            "stock_ticker": "HOWL",
             "impact": "Bullish"
         },
         {
-            "title": "Fortnite is now offline on iOS worldwide as Apple blocks game, Epic Games says",
-            "link": "https://www.cnbc.com/2025/05/16/fortnite-is-now-offline-on-ios-worldwide-as-apple-blocks-game-epic-games-says.html",
-            "summary": "Fortnite is now unavailable on iOS globally, Epic Games said Friday. Apple blocked a bid to reinstate the popular game on the App Store in the U.S.",
-            "date": "Fri, 16 May 2025 13:14:00 GMT",
+            "title": "Trump recession is off the table — but trouble not over for U.S. economy",
+            "link": "https://www.marketwatch.com/story/trump-recession-is-off-the-table-but-trouble-not-over-for-u-s-economy-e19ea3ea?mod=mw_rss_topstories",
+            "summary": "President Trump’s move to defuse an ugly trade war with China not only sparked a massive stock-market rally, but also drove down the chances of recession — for now.",
+            "date": "Sat, 17 May 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CADISK=X",
+            "stock_ticker": "DJT",
+            "impact": "Bearish"
+        },
+        {
+            "title": "An increasingly popular healthcare savings strategy could get more lucrative under GOP tax bill",
+            "link": "https://www.marketwatch.com/story/an-increasingly-popular-healthcare-savings-strategy-could-get-more-lucrative-under-gop-tax-bill-8d0a8df8?mod=mw_rss_topstories",
+            "summary": "The tax bill that advanced from the House Ways and Means Committee devotes a portion of provisions to broader rules on health-savings accounts.",
+            "date": "Sat, 17 May 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AN",
             "impact": "Neutral"
         },
         {
-            "title": "Mike Novogratz describes 'unfair, infuriating' path to Galaxy Digital's Nasdaq listing",
-            "link": "https://www.cnbc.com/2025/05/16/mike-novogratz-galaxy-digital-nasdaq-listing.html",
-            "summary": "Mike Novogratz’s Galaxy Digital will finally list on the Nasdaq. The move marks a hard-fought victory for the crypto mogul.",
-            "date": "Fri, 16 May 2025 13:00:11 GMT",
+            "title": "My father’s widow keeps sending me $200 checks in the mail. Why would she do this?",
+            "link": "https://www.marketwatch.com/story/my-fathers-widow-keeps-sending-me-200-checks-in-the-mail-why-would-she-do-this-a7697906?mod=mw_rss_topstories",
+            "summary": "“I sent a ‘thank you’ card and asked what it was for, but I got no answer,” she said.",
+            "date": "Sat, 17 May 2025 11:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MKT28540-USD",
+            "stock_ticker": "AUDMYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "Virgin Galactic’s stock is skyrocketing. This is why.",
-            "link": "https://www.marketwatch.com/story/virgin-galactics-stock-is-skyrocketing-this-is-why-783216eb?mod=mw_rss_topstories",
-            "summary": "Virgin Galactic expects that private astronauts will pay more than $600,000 for a ticket on its new Delta class SpaceShips. Space-tourism company Virgin Galactic expects  private astronauts to pay more Than $600k for a Tickets on its New Delta Class SpaceShip.",
-            "date": "Fri, 16 May 2025 13:14:00 GMT",
+            "title": "These 19 stocks at the intersection of AI and robotics could see big sales boosts",
+            "link": "https://www.marketwatch.com/story/these-19-stocks-at-the-intersection-of-ai-and-robotics-could-see-big-sales-boosts-41661bd4?mod=mw_rss_topstories",
+            "summary": "As AI makes robots smarter, there will be many new ways to use them. Investors can find opportunities around the world to invest in robots.",
+            "date": "Sat, 17 May 2025 11:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPCE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How Europe’s best investor picks stocks including GE Aerospace and Microsoft",
-            "link": "https://www.marketwatch.com/story/the-best-investor-europes-ever-had-on-why-he-likes-ge-aerospace-microsoft-and-rating-agencies-bfd44eb5?mod=mw_rss_topstories",
-            "summary": "Chris Hohn is knighted in the U.K. and founder of The Children’s Investment Fund. He was called the best investor Europe has ever had by Nicolai Tangen, head of Norway's sovereign wealth fund.",
-            "date": "Fri, 16 May 2025 13:10:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My second wife says her 2 kids should inherit our estate, but I also have 2 kids. Is that fair?",
-            "link": "https://www.marketwatch.com/story/my-second-wife-says-her-2-kids-should-inherit-our-estate-but-i-also-have-2-kids-is-that-fair-22c71a86?mod=mw_rss_topstories",
-            "summary": "“I will leave the $1 million inheritance I received from my parents to my biological daughters,” he said. “I’ll leave it to my children.”",
-            "date": "Fri, 16 May 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Bank of America says conditions are emerging for these unloved stocks to thrive.",
-            "link": "https://www.marketwatch.com/story/bank-of-america-says-conditions-are-emerging-for-these-unloved-stocks-to-thrive-51da2f99?mod=mw_rss_topstories",
-            "summary": "Bank of America: Emerging markets are the next hot spot for investors. Here’s why it says they’re a good place to start.",
-            "date": "Fri, 16 May 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SXB=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Home builders and buyers face bleak picture in the spring. Weak housing starts illustrate why.",
-            "link": "https://www.marketwatch.com/story/home-builders-and-buyers-face-bleak-picture-weak-housing-starts-illustrate-the-problem-e502967f?mod=mw_rss_topstories",
-            "summary": "For the third year in a row the picture in the housing market is bleak. Spring is usually the time when construction companies build more homes in anticipation of rising sales.",
-            "date": "Fri, 16 May 2025 12:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HD",
+            "stock_ticker": "ULVR.L",
             "impact": "Neutral"
         }
     ]
