@@ -1,35 +1,11 @@
 {
-    "date": "2025-05-17",
+    "date": "2025-05-18",
     "news": [
         {
-            "title": "Moody's downgrades United States credit rating, citing growth in government debt",
-            "link": "https://www.cnbc.com/2025/05/16/moodys-downgrades-united-states-credit-rating-on-increase-in-government-debt.html",
-            "summary": "Moody's had been a holdout in keeping U.S. sovereign debt at the highest credit rating possible. The move brings the 116-year-old agency into line with its rivals.",
-            "date": "Sat, 17 May 2025 12:31:27 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MCO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Grok's 'white genocide' auto responses show AI chatbots can be tampered with 'at will'",
-            "link": "https://www.cnbc.com/2025/05/17/groks-white-genocide-responses-show-gen-ai-tampered-with-at-will.html",
-            "summary": "Elon Musk's Grok chatbot is showing yet again why generative AI has a trust problem with users. Grok is a chatbot created by Musk's company, Tesla.",
-            "date": "Sat, 17 May 2025 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHWK",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump wants coal to power AI data centers. The tech industry may need to make peace with that for now",
-            "link": "https://www.cnbc.com/2025/05/17/trump-wants-coal-to-power-ai-data-centers-the-tech-industry-is-wary-.html",
-            "summary": "President Donald Trump's push to revive the coal industry is running up against the tech sector's environmental goals. The tech sector is concerned about the impact of climate change.",
-            "date": "Sat, 17 May 2025 12:47:49 GMT",
+            "title": "Trump meme coin dinner likely to include mostly non-Americans based on top $TRUMP holders",
+            "link": "https://www.cnbc.com/2025/05/18/trump-coin-dinner-to-include-mostly-non-americans-based-on-top-holders.html",
+            "summary": "The top 220 $TRUMP holders are supposedly being invited to a private dinner with President Donald Trump at his golf club outside of Washington, D.C.",
+            "date": "Sun, 18 May 2025 11:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,34 +14,82 @@
             "impact": "Bullish"
         },
         {
-            "title": "Irenic snaps up a stake in Couchbase. Here are two tracks the firm can take to create value",
-            "link": "https://www.cnbc.com/2025/05/17/irenic-takes-a-stake-in-couchbase-two-tracks-the-firm-can-take-to-create-value.html",
-            "summary": "Activist Irenic has two paths to take at Couchbase to build value. \"Irenic\" is a founder and CEO of Couchbase, a social network for Couchbase users.",
-            "date": "Sat, 17 May 2025 12:50:00 GMT",
+            "title": "Trump tells Walmart to 'eat the tariffs' after retailer warned it will raise prices",
+            "link": "https://www.cnbc.com/2025/05/17/trump-tells-walmart-to-eat-the-tariffs.html",
+            "summary": "Trump blasted Walmart after the retailer warned it would raise prices due to tariffs. Trump blasted Walmart over the retailer's decision to raise prices. Walmart said it was raising prices because of tariffs.",
+            "date": "Sat, 17 May 2025 21:40:13 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UP",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "How much would a 100% 'Made in the USA' vehicle cost? It's complicated",
-            "link": "https://www.cnbc.com/2025/05/16/made-in-the-usa-vehicle-cost.html",
-            "summary": "President Donald Trump wants automakers to build more vehicles in the U.S. with American parts. It's not as easy as it might seem.",
-            "date": "Fri, 16 May 2025 15:41:20 GMT",
+            "title": "Wealthy shoppers are splashing the cash on jewelry — so long as it's the right brand",
+            "link": "https://www.cnbc.com/2025/05/18/luxury-wealthy-shoppers-spend-on-jewelry-only-if-its-the-right-brand.html",
+            "summary": "The world's wealthiest are continuing to adorn themselves with the finest jewelry. Even as broader luxury shoppers pull back, jewelry sales continue to rise.",
+            "date": "Sun, 18 May 2025 05:35:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "0P0001J66Q",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump says he will call Putin, Zelenskyy, and NATO members on Monday to talk ceasefire, trade",
+            "link": "https://www.cnbc.com/2025/05/17/trump-to-call-putin-zelenskyy-nato-members-monday-to-talk-ceasefire.html",
+            "summary": "Trump said he would speak with Putin after the Russian president skipped peace talks between Russia and Ukraine in Turkey. Trump told reporters on Friday that he would talk with Putin.",
+            "date": "Sat, 17 May 2025 16:05:33 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "'Money is tight when you're a teacher': Student loan borrowers brace for wage garnishment",
+            "link": "https://www.cnbc.com/2025/05/18/student-loan-wage-garnishment-borrowers-brace.html",
+            "summary": "CNBC spoke with some of the student loan borrowers in default who are bracing for the consequences of wage garnishments and Social Security offsets.",
+            "date": "Sun, 18 May 2025 10:15:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IMXI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I have $50,000 in credit-card debt after my divorce, but received $30,000 after a car wreck. Do I buy a used Lexus?",
+            "link": "https://www.marketwatch.com/story/i-have-50-000-in-credit-card-debt-after-my-divorce-but-received-30-000-after-a-car-wreck-do-i-buy-a-used-lexus-6666fb78?mod=mw_rss_topstories",
+            "summary": "“I previously drove a fully loaded BMW X7, and driving a used Lexus feels like a big drop,” he says.",
+            "date": "Sun, 18 May 2025 13:14:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GADS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m 57 and ready to retire next year on $7,500 a month, but my wife says no. Who’s right?",
+            "link": "https://www.marketwatch.com/story/my-wife-says-no-im-57-and-ready-to-retire-next-year-on-7-500-a-month-whos-right-6e2e956a?mod=mw_rss_topstories",
+            "summary": "“I also have $300,000 in a 401(k),” he says. “My wife has a 403(b) that currently sits at $650,000.”",
+            "date": "Sun, 18 May 2025 12:14:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
             "title": "‘We’re not wealthy’: My niece is marrying out of state and she has a honeymoon fund. Is that cheeky?",
             "link": "https://www.marketwatch.com/story/were-not-wealthy-my-niece-is-marrying-out-of-state-and-she-has-a-honeymoon-fund-is-that-cheeky-18341770?mod=mw_rss_topstories",
             "summary": "“We are making plans to attend just to show support. The invitation states that our presence is a gift in itself,” he said.",
-            "date": "Sat, 17 May 2025 13:13:00 GMT",
+            "date": "Sun, 18 May 2025 11:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +98,27 @@
             "impact": "Bullish"
         },
         {
-            "title": "Trump recession is off the table — but trouble not over for U.S. economy",
-            "link": "https://www.marketwatch.com/story/trump-recession-is-off-the-table-but-trouble-not-over-for-u-s-economy-e19ea3ea?mod=mw_rss_topstories",
-            "summary": "President Trump’s move to defuse an ugly trade war with China not only sparked a massive stock-market rally, but also drove down the chances of recession — for now.",
-            "date": "Sat, 17 May 2025 13:00:00 GMT",
+            "title": "‘They will drown you too’: My co-worker found out I inherited money — and harassed me to give him a loan",
+            "link": "https://www.marketwatch.com/story/they-will-drown-you-too-my-co-worker-found-out-i-inherited-money-and-harassed-me-to-give-him-a-loan-0f645342?mod=mw_rss_topstories",
+            "summary": "“When I didn’t give him money, this co-worker became so enraged that he went on a whispering campaign,” she said.",
+            "date": "Sun, 18 May 2025 10:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Bearish"
-        },
-        {
-            "title": "An increasingly popular healthcare savings strategy could get more lucrative under GOP tax bill",
-            "link": "https://www.marketwatch.com/story/an-increasingly-popular-healthcare-savings-strategy-could-get-more-lucrative-under-gop-tax-bill-8d0a8df8?mod=mw_rss_topstories",
-            "summary": "The tax bill that advanced from the House Ways and Means Committee devotes a portion of provisions to broader rules on health-savings accounts.",
-            "date": "Sat, 17 May 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AN",
+            "stock_ticker": "SHW",
             "impact": "Neutral"
         },
         {
             "title": "My father’s widow keeps sending me $200 checks in the mail. Why would she do this?",
             "link": "https://www.marketwatch.com/story/my-fathers-widow-keeps-sending-me-200-checks-in-the-mail-why-would-she-do-this-a7697906?mod=mw_rss_topstories",
             "summary": "“I sent a ‘thank you’ card and asked what it was for, but I got no answer,” she said.",
-            "date": "Sat, 17 May 2025 11:20:00 GMT",
+            "date": "Sat, 17 May 2025 20:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "AUDMYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "These 19 stocks at the intersection of AI and robotics could see big sales boosts",
-            "link": "https://www.marketwatch.com/story/these-19-stocks-at-the-intersection-of-ai-and-robotics-could-see-big-sales-boosts-41661bd4?mod=mw_rss_topstories",
-            "summary": "As AI makes robots smarter, there will be many new ways to use them. Investors can find opportunities around the world to invest in robots.",
-            "date": "Sat, 17 May 2025 11:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ULVR.L",
             "impact": "Neutral"
         }
     ]
