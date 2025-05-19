@@ -1,71 +1,95 @@
 {
-    "date": "2025-05-18",
+    "date": "2025-05-19",
     "news": [
         {
-            "title": "Trump meme coin dinner likely to include mostly non-Americans based on top $TRUMP holders",
-            "link": "https://www.cnbc.com/2025/05/18/trump-coin-dinner-to-include-mostly-non-americans-based-on-top-holders.html",
-            "summary": "The top 220 $TRUMP holders are supposedly being invited to a private dinner with President Donald Trump at his golf club outside of Washington, D.C.",
-            "date": "Sun, 18 May 2025 11:00:01 GMT",
+            "title": "Fed's Bostic says he's 'leaning' toward just one rate cut this year",
+            "link": "https://www.cnbc.com/2025/05/19/feds-bostic-says-hes-leaning-toward-just-one-rate-cut-this-year.html",
+            "summary": "Bostic's comments come after a consumer sentiment survey last week showed Americans were worried about the potential of tariffs to push inflation higher. Bostic: \"I don't think there's any reason to think that the impact of tariffs on inflation is going to be much higher than it already is\"",
+            "date": "Mon, 19 May 2025 13:22:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Trump tells Walmart to 'eat the tariffs' after retailer warned it will raise prices",
-            "link": "https://www.cnbc.com/2025/05/17/trump-tells-walmart-to-eat-the-tariffs.html",
-            "summary": "Trump blasted Walmart after the retailer warned it would raise prices due to tariffs. Trump blasted Walmart over the retailer's decision to raise prices. Walmart said it was raising prices because of tariffs.",
-            "date": "Sat, 17 May 2025 21:40:13 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "HES",
             "impact": "Neutral"
         },
         {
-            "title": "Wealthy shoppers are splashing the cash on jewelry — so long as it's the right brand",
-            "link": "https://www.cnbc.com/2025/05/18/luxury-wealthy-shoppers-spend-on-jewelry-only-if-its-the-right-brand.html",
-            "summary": "The world's wealthiest are continuing to adorn themselves with the finest jewelry. Even as broader luxury shoppers pull back, jewelry sales continue to rise.",
-            "date": "Sun, 18 May 2025 05:35:20 GMT",
+            "title": "Bath & Body Works names recent Nike executive as its new CEO, effective immediately",
+            "link": "https://www.cnbc.com/2025/05/19/bath-body-works-daniel-heaf-ceo.html",
+            "summary": "Daniel Heaf was most recently Nike's chief transformation and strategy officer. His role was eliminated by the sneaker giant's new CEO Elliott Hill.",
+            "date": "Mon, 19 May 2025 12:41:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001J66Q",
+            "stock_ticker": "BBWI",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says he will call Putin, Zelenskyy, and NATO members on Monday to talk ceasefire, trade",
-            "link": "https://www.cnbc.com/2025/05/17/trump-to-call-putin-zelenskyy-nato-members-monday-to-talk-ceasefire.html",
-            "summary": "Trump said he would speak with Putin after the Russian president skipped peace talks between Russia and Ukraine in Turkey. Trump told reporters on Friday that he would talk with Putin.",
-            "date": "Sat, 17 May 2025 16:05:33 GMT",
+            "title": "Nvidia announces new tech to keep it at the center of AI development",
+            "link": "https://www.cnbc.com/2025/05/19/nvidia-announces-new-tech-to-keep-it-at-the-center-of-ai-development-.html",
+            "summary": "Nvidia CEO Jensen Huang made a slew of announcements and revealed new products on Monday. The company is aiming to sustain its leadership in AI computing.",
+            "date": "Mon, 19 May 2025 12:08:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "'Money is tight when you're a teacher': Student loan borrowers brace for wage garnishment",
-            "link": "https://www.cnbc.com/2025/05/18/student-loan-wage-garnishment-borrowers-brace.html",
-            "summary": "CNBC spoke with some of the student loan borrowers in default who are bracing for the consequences of wage garnishments and Social Security offsets.",
-            "date": "Sun, 18 May 2025 10:15:01 GMT",
+            "title": "Tariffs could signal decline of American influence in the world: Robert Reich",
+            "link": "https://www.cnbc.com/2025/05/19/trump-tariffs-could-signal-decline-of-american-influence-robert-reich.html",
+            "summary": "President Donald Trump's economic policy agenda could signal the end of U.S. influence, Robert Reich said in a recent episode of \"The Bottom Line\"",
+            "date": "Mon, 19 May 2025 12:33:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IMXI",
+            "stock_ticker": "FSS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Warren Buffett will not take the stage at next year's Berkshire Hathaway shareholder meeting",
+            "link": "https://www.cnbc.com/2025/05/19/buffett-wont-take-stage-at-next-years-berkshire-shareholder-meeting.html",
+            "summary": "The meeting will still take place in Omaha, Nebraska, and feature questions from shareholders. Greg Abel will be the CEO fielding questions. The meeting will take place on Wednesday.",
+            "date": "Mon, 19 May 2025 12:47:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WSEC11.SA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Is America the next Cyprus? Only one other Double-A rated country has ever defaulted",
+            "link": "https://www.marketwatch.com/story/the-u-s-now-has-a-rating-associated-with-a-1-in-100-default-chance-f767f8c8?mod=mw_rss_topstories",
+            "summary": " zero countries with a triple-A rating defaulted within 10 years of getting that gold-standard approval. Have a look at the default rate of sovereign issuers.",
+            "date": "Mon, 19 May 2025 13:22:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CADISK=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s the secret to valuing a startup investment like a venture capitalist",
+            "link": "https://www.marketwatch.com/story/heres-the-secret-to-valuing-a-startup-investment-like-a-venture-capitalist-0067c91a?mod=mw_rss_topstories",
+            "summary": "Early-stage bets are, more than anything, bets on leadership. This is what to look for. Early-stage investments are more about leadership than about business.",
+            "date": "Mon, 19 May 2025 13:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
             "title": "I have $50,000 in credit-card debt after my divorce, but received $30,000 after a car wreck. Do I buy a used Lexus?",
             "link": "https://www.marketwatch.com/story/i-have-50-000-in-credit-card-debt-after-my-divorce-but-received-30-000-after-a-car-wreck-do-i-buy-a-used-lexus-6666fb78?mod=mw_rss_topstories",
             "summary": "“I previously drove a fully loaded BMW X7, and driving a used Lexus feels like a big drop,” he says.",
-            "date": "Sun, 18 May 2025 13:14:00 GMT",
+            "date": "Mon, 19 May 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -77,7 +101,7 @@
             "title": "I’m 57 and ready to retire next year on $7,500 a month, but my wife says no. Who’s right?",
             "link": "https://www.marketwatch.com/story/my-wife-says-no-im-57-and-ready-to-retire-next-year-on-7-500-a-month-whos-right-6e2e956a?mod=mw_rss_topstories",
             "summary": "“I also have $300,000 in a 401(k),” he says. “My wife has a 403(b) that currently sits at $650,000.”",
-            "date": "Sun, 18 May 2025 12:14:00 GMT",
+            "date": "Mon, 19 May 2025 12:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,40 +110,16 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘We’re not wealthy’: My niece is marrying out of state and she has a honeymoon fund. Is that cheeky?",
-            "link": "https://www.marketwatch.com/story/were-not-wealthy-my-niece-is-marrying-out-of-state-and-she-has-a-honeymoon-fund-is-that-cheeky-18341770?mod=mw_rss_topstories",
-            "summary": "“We are making plans to attend just to show support. The invitation states that our presence is a gift in itself,” he said.",
-            "date": "Sun, 18 May 2025 11:12:00 GMT",
+            "title": "23andMe sells its most valuable asset. Regeneron promises to keep your DNA private.",
+            "link": "https://www.marketwatch.com/story/23andme-sells-its-most-valuable-asset-regeneron-promises-keep-your-dna-private-d8065fc7?mod=mw_rss_topstories",
+            "summary": " Regeneron said it will continue uninterrupted service of 23andMe’s consumer genome services after its purchase closes as expected in the third quarter of this year.",
+            "date": "Mon, 19 May 2025 12:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HOWL",
+            "stock_ticker": "MEHCQ",
             "impact": "Bullish"
-        },
-        {
-            "title": "‘They will drown you too’: My co-worker found out I inherited money — and harassed me to give him a loan",
-            "link": "https://www.marketwatch.com/story/they-will-drown-you-too-my-co-worker-found-out-i-inherited-money-and-harassed-me-to-give-him-a-loan-0f645342?mod=mw_rss_topstories",
-            "summary": "“When I didn’t give him money, this co-worker became so enraged that he went on a whispering campaign,” she said.",
-            "date": "Sun, 18 May 2025 10:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SHW",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My father’s widow keeps sending me $200 checks in the mail. Why would she do this?",
-            "link": "https://www.marketwatch.com/story/my-fathers-widow-keeps-sending-me-200-checks-in-the-mail-why-would-she-do-this-a7697906?mod=mw_rss_topstories",
-            "summary": "“I sent a ‘thank you’ card and asked what it was for, but I got no answer,” she said.",
-            "date": "Sat, 17 May 2025 20:12:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AUDMYR=X",
-            "impact": "Neutral"
         }
     ]
 }
