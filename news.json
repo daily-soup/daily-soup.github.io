@@ -1,107 +1,95 @@
 {
-    "date": "2025-05-19",
+    "date": "2025-05-20",
     "news": [
         {
-            "title": "Fed's Bostic says he's 'leaning' toward just one rate cut this year",
-            "link": "https://www.cnbc.com/2025/05/19/feds-bostic-says-hes-leaning-toward-just-one-rate-cut-this-year.html",
-            "summary": "Bostic's comments come after a consumer sentiment survey last week showed Americans were worried about the potential of tariffs to push inflation higher. Bostic: \"I don't think there's any reason to think that the impact of tariffs on inflation is going to be much higher than it already is\"",
-            "date": "Mon, 19 May 2025 13:22:41 GMT",
+            "title": "Levi Strauss to sell Dockers to brand management firm Authentic Brands Group",
+            "link": "https://www.cnbc.com/2025/05/20/levi-sells-dockers-to-authentic-brands-group.html",
+            "summary": "Levi's announced plans to sell Dockers to Authentic Brands Group. The brand management firm owns the IP for Forever 21, Reebok and other brands.",
+            "date": "Tue, 20 May 2025 12:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HES",
-            "impact": "Neutral"
+            "stock_ticker": "LEVI",
+            "impact": "Bullish"
         },
         {
-            "title": "Bath & Body Works names recent Nike executive as its new CEO, effective immediately",
-            "link": "https://www.cnbc.com/2025/05/19/bath-body-works-daniel-heaf-ceo.html",
-            "summary": "Daniel Heaf was most recently Nike's chief transformation and strategy officer. His role was eliminated by the sneaker giant's new CEO Elliott Hill.",
-            "date": "Mon, 19 May 2025 12:41:15 GMT",
+            "title": "D-Wave Quantum shares soar 20% as company releases latest computing system",
+            "link": "https://www.cnbc.com/2025/05/20/d-wave-quantum-releases-latest-computing-system.html",
+            "summary": "D-Wave Quantum's latest quantum computing system has hit the market, the company said Tuesday. D-Wave says it's the world's first quantum computing device.",
+            "date": "Tue, 20 May 2025 13:23:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBWI",
+            "stock_ticker": "QBTS",
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia announces new tech to keep it at the center of AI development",
-            "link": "https://www.cnbc.com/2025/05/19/nvidia-announces-new-tech-to-keep-it-at-the-center-of-ai-development-.html",
-            "summary": "Nvidia CEO Jensen Huang made a slew of announcements and revealed new products on Monday. The company is aiming to sustain its leadership in AI computing.",
-            "date": "Mon, 19 May 2025 12:08:11 GMT",
+            "title": "Trump allows New York offshore wind project after apparent gas pipeline compromise with state",
+            "link": "https://www.cnbc.com/2025/05/20/trump-allows-new-york-offshore-wind-project-after-apparent-gas-pipeline-compromise-with-state.html",
+            "summary": "Empire Wind 1 would have been the first offshore wind project to deliver electricity directly to New York City. The project was to have been built in the waters off Long Island.",
+            "date": "Tue, 20 May 2025 12:36:25 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Tariffs could signal decline of American influence in the world: Robert Reich",
-            "link": "https://www.cnbc.com/2025/05/19/trump-tariffs-could-signal-decline-of-american-influence-robert-reich.html",
-            "summary": "President Donald Trump's economic policy agenda could signal the end of U.S. influence, Robert Reich said in a recent episode of \"The Bottom Line\"",
-            "date": "Mon, 19 May 2025 12:33:16 GMT",
+            "title": "New report shows the staggering AI cash surge — and the rise of the 'zombiecorn'",
+            "link": "https://www.cnbc.com/2025/05/20/ai-startups-unicorns-zombiecorns.html",
+            "summary": "About 40% of the money raised by U.S. startups last year came from funds focused on AI. A new report from Silicon Valley Bank shows that.",
+            "date": "Tue, 20 May 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FSS",
-            "impact": "Neutral"
+            "stock_ticker": "NYM=F",
+            "impact": "Bullish"
         },
         {
-            "title": "Warren Buffett will not take the stage at next year's Berkshire Hathaway shareholder meeting",
-            "link": "https://www.cnbc.com/2025/05/19/buffett-wont-take-stage-at-next-years-berkshire-shareholder-meeting.html",
-            "summary": "The meeting will still take place in Omaha, Nebraska, and feature questions from shareholders. Greg Abel will be the CEO fielding questions. The meeting will take place on Wednesday.",
-            "date": "Mon, 19 May 2025 12:47:00 GMT",
+            "title": "Home Depot CFO says retailer doesn't plan to raise prices due to tariffs",
+            "link": "https://www.cnbc.com/2025/05/20/home-depot-hd-q1-2025-earnings.html",
+            "summary": "Home Depot reaffirmed its full-year guidance, even as it missed Wall Street's earnings estimates. Customers continued to put off bigger home projects.",
+            "date": "Tue, 20 May 2025 13:04:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WSEC11.SA",
+            "stock_ticker": "HD",
             "impact": "Neutral"
         },
         {
-            "title": "Is America the next Cyprus? Only one other Double-A rated country has ever defaulted",
-            "link": "https://www.marketwatch.com/story/the-u-s-now-has-a-rating-associated-with-a-1-in-100-default-chance-f767f8c8?mod=mw_rss_topstories",
-            "summary": " zero countries with a triple-A rating defaulted within 10 years of getting that gold-standard approval. Have a look at the default rate of sovereign issuers.",
-            "date": "Mon, 19 May 2025 13:22:00 GMT",
+            "title": "These 3 stock-market sectors can defy the growing ‘sell America’ trade",
+            "link": "https://www.marketwatch.com/story/the-sell-america-trade-is-back-but-it-never-really-left-fe5a10b5?mod=mw_rss_topstories",
+            "summary": "Tech, financials and healthcare are 3 relatively insulated U.S. stock-market sectors. Tech,Financials and Healthcare are three relatively insulated US stock- market sectors.",
+            "date": "Tue, 20 May 2025 13:18:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CADISK=X",
+            "stock_ticker": "30C=F",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s the secret to valuing a startup investment like a venture capitalist",
-            "link": "https://www.marketwatch.com/story/heres-the-secret-to-valuing-a-startup-investment-like-a-venture-capitalist-0067c91a?mod=mw_rss_topstories",
-            "summary": "Early-stage bets are, more than anything, bets on leadership. This is what to look for. Early-stage investments are more about leadership than about business.",
-            "date": "Mon, 19 May 2025 13:12:00 GMT",
+            "title": "My eldest son refused to share his father’s $500K inheritance with his siblings. Should I cut him off?",
+            "link": "https://www.marketwatch.com/story/my-eldest-son-refused-to-share-his-fathers-500k-inheritance-with-his-siblings-should-i-cut-him-off-8ce8c0f9?mod=mw_rss_topstories",
+            "summary": "“My son just said, ‘Dad didn’t want them to get anything,’” he said. “I’m just glad he’s OK.”",
+            "date": "Tue, 20 May 2025 13:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "I have $50,000 in credit-card debt after my divorce, but received $30,000 after a car wreck. Do I buy a used Lexus?",
-            "link": "https://www.marketwatch.com/story/i-have-50-000-in-credit-card-debt-after-my-divorce-but-received-30-000-after-a-car-wreck-do-i-buy-a-used-lexus-6666fb78?mod=mw_rss_topstories",
-            "summary": "“I previously drove a fully loaded BMW X7, and driving a used Lexus feels like a big drop,” he says.",
-            "date": "Mon, 19 May 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GADS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m 57 and ready to retire next year on $7,500 a month, but my wife says no. Who’s right?",
-            "link": "https://www.marketwatch.com/story/my-wife-says-no-im-57-and-ready-to-retire-next-year-on-7-500-a-month-whos-right-6e2e956a?mod=mw_rss_topstories",
-            "summary": "“I also have $300,000 in a 401(k),” he says. “My wife has a 403(b) that currently sits at $650,000.”",
-            "date": "Mon, 19 May 2025 12:59:00 GMT",
+            "title": "‘I’m an idiot’: I’m middle aged, earn $68,000 a year and have $39,000 in credit-card debt",
+            "link": "https://www.marketwatch.com/story/im-an-idiot-im-middle-aged-earn-68-000-a-year-and-have-39-000-in-credit-card-debt-2a9bd947?mod=mw_rss_topstories",
+            "summary": "“I plan on keeping the accounts open to protect my credit, but I will cut and toss all the cards so I can’t use them,” she said.",
+            "date": "Tue, 20 May 2025 13:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,16 +98,28 @@
             "impact": "Neutral"
         },
         {
-            "title": "23andMe sells its most valuable asset. Regeneron promises to keep your DNA private.",
-            "link": "https://www.marketwatch.com/story/23andme-sells-its-most-valuable-asset-regeneron-promises-keep-your-dna-private-d8065fc7?mod=mw_rss_topstories",
-            "summary": " Regeneron said it will continue uninterrupted service of 23andMe’s consumer genome services after its purchase closes as expected in the third quarter of this year.",
-            "date": "Mon, 19 May 2025 12:40:00 GMT",
+            "title": "He called the S&P 500 bottom. Now this stock trader can’t rule out a ‘flash crash.’",
+            "link": "https://www.marketwatch.com/story/this-stock-trader-called-a-bottom-for-the-s-p-500-heres-what-hes-saying-now-9405fc4c?mod=mw_rss_topstories",
+            "summary": "Theo Trade’s Jeff Bierman: “You have to be very careful how you approach this market.”",
+            "date": "Tue, 20 May 2025 13:08:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MEHCQ",
-            "impact": "Bullish"
+            "stock_ticker": "HE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Recession indicators are out of control. When will this madness end?",
+            "link": "https://www.marketwatch.com/story/recession-indicators-are-out-of-control-when-will-this-madness-end-a33ff597?mod=mw_rss_topstories",
+            "summary": "Jobless claims, retail sales and GDP appear to be a sign of a recession. Everything, it seems, except jobless claims and retail sales.",
+            "date": "Tue, 20 May 2025 12:36:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DE000SLA7TR2.SG",
+            "impact": "Neutral"
         }
     ]
 }
