@@ -1,124 +1,124 @@
 {
-    "date": "2025-05-20",
+    "date": "2025-05-21",
     "news": [
         {
-            "title": "Levi Strauss to sell Dockers to brand management firm Authentic Brands Group",
-            "link": "https://www.cnbc.com/2025/05/20/levi-sells-dockers-to-authentic-brands-group.html",
-            "summary": "Levi's announced plans to sell Dockers to Authentic Brands Group. The brand management firm owns the IP for Forever 21, Reebok and other brands.",
-            "date": "Tue, 20 May 2025 12:30:01 GMT",
+            "title": "Democratic Rep. Gerry Connolly of Virginia dies after battling cancer",
+            "link": "https://www.cnbc.com/2025/05/21/gerry-connolly-dies-cancer.html",
+            "summary": "Members of Congress pause their battle over President Donald Trump's massive tax bill to hold a moment of silence in Connolly's honor. Members of Congress paused their fight over President Trump'smassive tax bill.",
+            "date": "Wed, 21 May 2025 13:11:48 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LEVI",
+            "stock_ticker": "DEMZ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Target cuts sales outlook as retailer blames tariff uncertainty and backlash to DEI rollback",
+            "link": "https://www.cnbc.com/2025/05/21/target-tgt-q1-2025-earnings.html",
+            "summary": "Target missed first-quarter sales estimates and said it was setting up a new office to try to accelerate its turnaround. Target missed first quarter sales estimates.",
+            "date": "Wed, 21 May 2025 13:05:51 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TGT",
             "impact": "Bullish"
         },
         {
-            "title": "D-Wave Quantum shares soar 20% as company releases latest computing system",
-            "link": "https://www.cnbc.com/2025/05/20/d-wave-quantum-releases-latest-computing-system.html",
-            "summary": "D-Wave Quantum's latest quantum computing system has hit the market, the company said Tuesday. D-Wave says it's the world's first quantum computing device.",
-            "date": "Tue, 20 May 2025 13:23:26 GMT",
+            "title": "Sergey Brin points to where Google Glasses failed — and what Android XR gets right",
+            "link": "https://www.cnbc.com/2025/05/21/sergey-brin-google-glass-android-xr.html",
+            "summary": "Google co-founder Sergey Brin says he's learned from his \"mistakes\" since the failed Google Glass launch in 2013. Brin: \"I've learned from my mistakes\"",
+            "date": "Wed, 21 May 2025 13:12:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "QBTS",
+            "stock_ticker": "EAT",
             "impact": "Neutral"
         },
         {
-            "title": "Trump allows New York offshore wind project after apparent gas pipeline compromise with state",
-            "link": "https://www.cnbc.com/2025/05/20/trump-allows-new-york-offshore-wind-project-after-apparent-gas-pipeline-compromise-with-state.html",
-            "summary": "Empire Wind 1 would have been the first offshore wind project to deliver electricity directly to New York City. The project was to have been built in the waters off Long Island.",
-            "date": "Tue, 20 May 2025 12:36:25 GMT",
+            "title": "A ‘fundamental regime shift’ could be underway as investors rethink U.S. assets, ECB says",
+            "link": "https://www.cnbc.com/2025/05/21/a-fundamental-regime-shift-could-be-underway-as-investors-rethink-us-assets-ecb-says.html",
+            "summary": "The central bank discussed the recent spike in market volatility. In its latest Financial Stability Review, the central bank discusses the recent rise in volatility.",
+            "date": "Wed, 21 May 2025 12:58:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "A",
             "impact": "Neutral"
         },
         {
-            "title": "New report shows the staggering AI cash surge — and the rise of the 'zombiecorn'",
-            "link": "https://www.cnbc.com/2025/05/20/ai-startups-unicorns-zombiecorns.html",
-            "summary": "About 40% of the money raised by U.S. startups last year came from funds focused on AI. A new report from Silicon Valley Bank shows that.",
-            "date": "Tue, 20 May 2025 13:00:01 GMT",
+            "title": "Burger King targets families through movie partnerships in latest stage of turnaround",
+            "link": "https://www.cnbc.com/2025/05/21/burger-king-how-to-train-your-dragon-whoppers.html",
+            "summary": "The burger chain will sell new menu items inspired by the new \"How to Train Your Dragon\" movie. The menu items will be available at the chain's restaurants across the country.",
+            "date": "Wed, 21 May 2025 12:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NYM=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Home Depot CFO says retailer doesn't plan to raise prices due to tariffs",
-            "link": "https://www.cnbc.com/2025/05/20/home-depot-hd-q1-2025-earnings.html",
-            "summary": "Home Depot reaffirmed its full-year guidance, even as it missed Wall Street's earnings estimates. Customers continued to put off bigger home projects.",
-            "date": "Tue, 20 May 2025 13:04:54 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HD",
+            "stock_ticker": "RRGB",
             "impact": "Neutral"
         },
         {
-            "title": "These 3 stock-market sectors can defy the growing ‘sell America’ trade",
-            "link": "https://www.marketwatch.com/story/the-sell-america-trade-is-back-but-it-never-really-left-fe5a10b5?mod=mw_rss_topstories",
-            "summary": "Tech, financials and healthcare are 3 relatively insulated U.S. stock-market sectors. Tech,Financials and Healthcare are three relatively insulated US stock- market sectors.",
-            "date": "Tue, 20 May 2025 13:18:00 GMT",
+            "title": "Morgan Stanley turns bullish on U.S. stocks. Here’s why it says the market lows have already been made.",
+            "link": "https://www.marketwatch.com/story/morgan-stanley-turns-bullish-on-u-s-stocks-heres-why-it-says-the-market-lows-have-already-been-made-8c71bff2?mod=mw_rss_topstories",
+            "summary": "Morgan Stanley sees a more ‘synchronous’ earnings recovery for the U.S. ahead, aided by in part by Fed rate cuts next year.",
+            "date": "Wed, 21 May 2025 13:09:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "30C=F",
+            "stock_ticker": "JPM",
             "impact": "Neutral"
         },
         {
-            "title": "My eldest son refused to share his father’s $500K inheritance with his siblings. Should I cut him off?",
-            "link": "https://www.marketwatch.com/story/my-eldest-son-refused-to-share-his-fathers-500k-inheritance-with-his-siblings-should-i-cut-him-off-8ce8c0f9?mod=mw_rss_topstories",
-            "summary": "“My son just said, ‘Dad didn’t want them to get anything,’” he said. “I’m just glad he’s OK.”",
-            "date": "Tue, 20 May 2025 13:16:00 GMT",
+            "title": "This is why Nvidia’s CEO thinks U.S. export controls on chips haven’t worked",
+            "link": "https://www.marketwatch.com/story/this-is-why-nvidias-ceo-thinks-u-s-export-controls-on-chips-havent-worked-2c975709?mod=mw_rss_topstories",
+            "summary": "N Nvidia CEO Jensen Huang said U.S. export controls have only encouraged Chinese chip competitors. Huang said the controls have locked his company out of the market.",
+            "date": "Wed, 21 May 2025 12:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m an idiot’: I’m middle aged, earn $68,000 a year and have $39,000 in credit-card debt",
-            "link": "https://www.marketwatch.com/story/im-an-idiot-im-middle-aged-earn-68-000-a-year-and-have-39-000-in-credit-card-debt-2a9bd947?mod=mw_rss_topstories",
-            "summary": "“I plan on keeping the accounts open to protect my credit, but I will cut and toss all the cards so I can’t use them,” she said.",
-            "date": "Tue, 20 May 2025 13:13:00 GMT",
+            "title": "Tariff uncertainty, DEI backlash hurt Target’s results. CEO says price increases are ‘the very last resort.’",
+            "link": "https://www.marketwatch.com/story/targets-stock-drops-as-earnings-fall-below-forecasts-and-the-outlook-was-lowered-5e3012a3?mod=mw_rss_topstories",
+            "summary": "Target says it saw softer-than-expected sales and profit pressures in the first quarter. Target says the retail environment remained “highly challenging.”",
+            "date": "Wed, 21 May 2025 12:51:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "DEI",
             "impact": "Neutral"
         },
         {
-            "title": "He called the S&P 500 bottom. Now this stock trader can’t rule out a ‘flash crash.’",
-            "link": "https://www.marketwatch.com/story/this-stock-trader-called-a-bottom-for-the-s-p-500-heres-what-hes-saying-now-9405fc4c?mod=mw_rss_topstories",
-            "summary": "Theo Trade’s Jeff Bierman: “You have to be very careful how you approach this market.”",
-            "date": "Tue, 20 May 2025 13:08:00 GMT",
+            "title": "Hedge funds are shorting stocks again, boosting leverage to new record",
+            "link": "https://www.marketwatch.com/story/hedge-funds-are-shorting-stocks-again-boosting-leverage-to-new-record-4b7f4663?mod=mw_rss_topstories",
+            "summary": "Hedge funds have increased bearish bets to a four-year high, according to Goldman Sachs. Goldman Sachs: Bearish bets have increased to a 4-year highs.",
+            "date": "Wed, 21 May 2025 12:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HE",
+            "stock_ticker": "IUSE.L",
             "impact": "Neutral"
         },
         {
-            "title": "Recession indicators are out of control. When will this madness end?",
-            "link": "https://www.marketwatch.com/story/recession-indicators-are-out-of-control-when-will-this-madness-end-a33ff597?mod=mw_rss_topstories",
-            "summary": "Jobless claims, retail sales and GDP appear to be a sign of a recession. Everything, it seems, except jobless claims and retail sales.",
-            "date": "Tue, 20 May 2025 12:36:00 GMT",
+            "title": "Lowe’s beats Wall Street’s profit expectations to one-up rival Home Depot",
+            "link": "https://www.marketwatch.com/story/lowes-beat-wall-streets-profit-expectations-to-one-up-rival-home-depot-3ad7d8db?mod=mw_rss_topstories",
+            "summary": "Lowe’s said it faces housing-market headwinds and near-term economic uncertainty. But it kept its 2025 earnings projections in place.",
+            "date": "Wed, 21 May 2025 12:46:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DE000SLA7TR2.SG",
+            "stock_ticker": "LOW",
             "impact": "Neutral"
         }
     ]
