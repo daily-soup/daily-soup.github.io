@@ -1,11 +1,11 @@
 {
-    "date": "2025-05-22",
+    "date": "2025-05-23",
     "news": [
         {
-            "title": "Trump tax bill clears the House in a victory for Republicans, advances to the Senate",
-            "link": "https://www.cnbc.com/2025/05/22/rump-tax-bill-passes-the-house-advances-to-senate.html",
-            "summary": "The early morning vote along party lines came after 48 hours of furious negotiations to win over warring factions in the Republican conference. The vote was on a party-by-party basis.",
-            "date": "Thu, 22 May 2025 13:04:51 GMT",
+            "title": "Trump says a 25% tariff 'must be paid by Apple' on iPhones not made in the U.S.",
+            "link": "https://www.cnbc.com/2025/05/23/trump-tariff-apple-iphones-not-made-in-the-us.html",
+            "summary": "Shares of Apple were under pressure on Friday after Trump's post on Truth Social. Apple shares were down 0.7% on Friday morning.",
+            "date": "Fri, 23 May 2025 13:09:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +14,111 @@
             "impact": "Neutral"
         },
         {
-            "title": "Sam Altman's $6.4 billion bet on Jony Ive has Zuckerberg-like qualities",
-            "link": "https://www.cnbc.com/2025/05/22/sam-altmans-6point4-billion-bet-on-jony-ive-zuckerberg-like-qualities.html",
-            "summary": "OpenAI is making a big bet in purchasing Jony Ive's nascent startup, but it's a deal reminiscent of some made by Mark Zuckerberg.",
-            "date": "Thu, 22 May 2025 12:00:01 GMT",
+            "title": "Trump recommends 50% tariff on European Union starting June 1",
+            "link": "https://www.cnbc.com/2025/05/23/trump-recommends-50percent-tariff-on-european-union-starting-june-1.html",
+            "summary": "President Donald Trump says he is \"recommending a straight 50% Tariff on the European Union\" He complained that trade negotiations have stalled.",
+            "date": "Fri, 23 May 2025 13:18:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SAM",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Solar stocks plunge as Republican tax bill worse than feared for clean energy",
-            "link": "https://www.cnbc.com/2025/05/22/solar-stocks-plunge-as-republican-tax-bill-worse-than-feared-for-clean-energy.html",
-            "summary": "The Republican legislation takes a \"sledgehammer\" to the Inflation Reduction Act, Jefferies says. Jefferies: The legislation is a way to get rid of the inflation reduction act.",
-            "date": "Thu, 22 May 2025 13:11:25 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SEDG",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Person shot outside CIA headquarters by security guards",
-            "link": "https://www.cnbc.com/2025/05/22/cia-shooting-headquarters.html",
-            "summary": "The non-fatal shooting on CIA property occurred hours after two Israeli Embassy staff members were shot and killed outside D.C.'s Capital Jewish Museum.",
-            "date": "Thu, 22 May 2025 13:11:17 GMT",
+            "title": "Harvard sues Trump administration over international student enrollment ban",
+            "link": "https://www.cnbc.com/2025/05/23/harvard-sues-trump-international-student-enrollment.html",
+            "summary": "\"Without its international students, Harvard is not Harvard,\" the lawsuit by the private school against the Trump administration says. The lawsuit was filed in federal court in Washington, DC.",
+            "date": "Fri, 23 May 2025 13:22:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "QO=F",
+            "stock_ticker": "HRGN",
             "impact": "Neutral"
         },
         {
-            "title": "The Republican spending bill is sending yields soaring and creating a major market headache",
-            "link": "https://www.cnbc.com/2025/05/21/republican-spending-bill-driving-up-yields-and-creating-a-major-headache.html",
-            "summary": "For now, Wall Street experts are not optimistic about what happens from here. \"I don't think it's going to get much better,\" says one.",
-            "date": "Thu, 22 May 2025 11:41:05 GMT",
+            "title": "Nuclear stocks rally on report Trump will sign executive orders to support industry",
+            "link": "https://www.cnbc.com/2025/05/23/nuclear-stocks-rally-on-report-trump-to-sign-orders-to-support-industry.html",
+            "summary": "The president is scheduled to sign orders in the Oval Office at 1 p.m. ET. The White House schedule says the signing will take place in the White House East Room.",
+            "date": "Fri, 23 May 2025 12:29:32 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "NNE",
             "impact": "Neutral"
         },
         {
-            "title": "Two software companies are going public. The IPO market is getting up off the mat.",
-            "link": "https://www.marketwatch.com/story/two-software-companies-are-going-public-the-ipo-market-is-getting-up-off-the-mat-6776bc55?mod=mw_rss_topstories",
-            "summary": "The market for initial public offerings continues to gear up after an absence of deals in recent weeks. Initial public offerings have been on the decline in recent months.",
-            "date": "Thu, 22 May 2025 13:01:00 GMT",
+            "title": "Treasury yields stumble from highs as Trump ramps up trade war",
+            "link": "https://www.cnbc.com/2025/05/23/us-treasury-yields-investors-weigh-impact-of-trumps-tax-bill-.html",
+            "summary": "U.S. Treasury yields eased on Friday but remained elevated. Investors weighed the impact of President Donald Trump's tax bill on the economy.",
+            "date": "Fri, 23 May 2025 12:29:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TWO",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Jobless claims point to steady job growth in May",
-            "link": "https://www.marketwatch.com/story/jobless-claims-point-to-steady-job-growth-in-may-69e8aa87?mod=mw_rss_topstories",
-            "summary": "The big question in the coming months is whether payroll reductions accelerate as tariffs hit the economy. The U.S. economy is expected to grow at a rate of about 2.5 percent this year.",
-            "date": "Thu, 22 May 2025 12:59:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CLA18371-USD",
+            "stock_ticker": "ZB=F",
             "impact": "Neutral"
         },
         {
-            "title": "This investor banks on Munger’s advice to ride out volatility in markets and Tesla",
-            "link": "https://www.marketwatch.com/story/this-investor-banks-on-mungers-advice-to-ride-out-volatility-in-markets-and-tesla-fa535d7e?mod=mw_rss_topstories",
-            "summary": "Money manager Christopher Tsai says he pays scant attention to daily market ups and downs, except to look for stock opportunities. Tsai: \"I don't pay attention to what's going on in the market. I just look for opportunities\"",
-            "date": "Thu, 22 May 2025 12:53:00 GMT",
+            "title": "Apple’s stock falls as Trump makes a tariff threat on iPhones. Here’s why it’s misguided.",
+            "link": "https://www.marketwatch.com/story/apples-stock-falls-as-trump-makes-a-tariff-threat-on-iphones-heres-why-its-misguided-502c7fce?mod=mw_rss_topstories",
+            "summary": "President Donald Trump said Apple must pay a 25% tariff if it doesn't rely on domestic production of iPhones for the U.S. market.",
+            "date": "Fri, 23 May 2025 12:46:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "APPIX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These bonds can stand up to any inflation spike from budget battles and tax cuts",
+            "link": "https://www.marketwatch.com/story/these-bonds-can-stand-up-to-any-inflation-spike-from-budget-battles-and-tax-cuts-4f31d221?mod=mw_rss_topstories",
+            "summary": " Heightened market volatility creates a window for TIPS. TIPS are a type of Treasury Inflation-Protected Security (TIPS) with a fixed interest rate.",
+            "date": "Fri, 23 May 2025 12:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "UEEG.DE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s why GameStop’s stock has been in play again. It’s not a meme thing this time.",
+            "link": "https://www.marketwatch.com/story/heres-why-gamestops-stock-has-been-in-play-again-its-not-a-meme-thing-this-time-9e5a5be8?mod=mw_rss_topstories",
+            "summary": "Shares of videogame retailer and original meme stock GameStop are riding the bitcoin wave. GameStop is one of the biggest videogame retailers in the world.",
+            "date": "Fri, 23 May 2025 11:48:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHYCX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This hedge-fund manager has made about 50% in each of the last two years. Here’s his home run trade.",
+            "link": "https://www.marketwatch.com/story/this-hedge-fund-manager-has-made-about-50-in-each-of-the-last-two-years-heres-his-home-run-trade-e28a0608?mod=mw_rss_topstories",
+            "summary": "Rob Citrone thinks the U.S. will keep its exceptionalism and the economy will boom in 2026. Rob Citrone: The U.K. will continue to be one of the most successful economies in the world in the coming years.",
+            "date": "Fri, 23 May 2025 11:46:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "THISX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "BJ’s Wholesale’s stock rises as outlook maintained, despite a sales miss and tariffs",
-            "link": "https://www.marketwatch.com/story/bjs-wholesales-stock-rises-as-retailer-maintains-guidance-despite-q1-revenue-and-comparable-sales-miss-ef556452?mod=mw_rss_topstories",
-            "summary": "BJ's maintained its guidance while the broader retail sector is wrestling with the fallout from the Trump administration’s sweeping wave of tariffs.",
-            "date": "Thu, 22 May 2025 12:14:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BJ",
             "impact": "Neutral"
         },
         {
-            "title": "Here come the price hikes: Nike is increasing prices by up to 7%.",
-            "link": "https://www.marketwatch.com/story/here-come-the-price-hikes-nike-reportedly-is-increasing-prices-by-up-to-7-07fa38d2?mod=mw_rss_topstories",
-            "summary": "Nike reportedly is hiking prices by as much as 7%, according to various media reports. The apparel maker is not tying the cost increases directly to tariffs.",
-            "date": "Thu, 22 May 2025 12:09:00 GMT",
+            "title": "The ‘mother of all credit squeezes’ is coming — hang onto your wallet",
+            "link": "https://www.marketwatch.com/story/the-mother-of-all-credit-squeezes-is-coming-hang-onto-your-wallet-26a2280d?mod=mw_rss_topstories",
+            "summary": "Consumer confidence is buckling, and debt is mounting. Here’s how to steer your portfolio to avoid the pitfalls of investing in real estate.",
+            "date": "Fri, 23 May 2025 11:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FZSXX",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         }
     ]
