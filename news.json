@@ -1,23 +1,59 @@
 {
-    "date": "2025-05-23",
+    "date": "2025-05-24",
     "news": [
         {
-            "title": "Trump says a 25% tariff 'must be paid by Apple' on iPhones not made in the U.S.",
-            "link": "https://www.cnbc.com/2025/05/23/trump-tariff-apple-iphones-not-made-in-the-us.html",
-            "summary": "Shares of Apple were under pressure on Friday after Trump's post on Truth Social. Apple shares were down 0.7% on Friday morning.",
-            "date": "Fri, 23 May 2025 13:09:36 GMT",
+            "title": "At Trump's $148 million meme coin dinner, 'the food sucked' and security was lax, attendee says",
+            "link": "https://www.cnbc.com/2025/05/23/trump-meme-coin-dinner.html",
+            "summary": "Trump's meme coin dropped 16% the morning after a black-tie gala for buyers. Political backlash that threatens to derail stablecoin legislation.",
+            "date": "Fri, 23 May 2025 23:31:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "T",
             "impact": "Neutral"
         },
         {
-            "title": "Trump recommends 50% tariff on European Union starting June 1",
+            "title": "How the U.S. clean energy boom could go bust if Trump's 'big, beautiful bill' becomes law",
+            "link": "https://www.cnbc.com/2025/05/24/how-the-us-clean-energy-boom-could-go-bust-if-trumps-big-beautiful-bill-becomes-law.html",
+            "summary": "The legislation still has to pass the Senate and changes could still be made. The bill is expected to be voted on by the end of the year.",
+            "date": "Sat, 24 May 2025 12:49:25 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Companies turn to AI to navigate Trump tariff turbulence",
+            "link": "https://www.cnbc.com/2025/05/24/companies-turn-to-ai-to-navigate-trump-tariff-turbulence.html",
+            "summary": "Businesses are turning to artificial intelligence tools ranging from intelligent agents to predictive systems that can simulate changes in U.S. tariff policies. Businesses are Turning to Artificial Intelligence Tools ranging from Intelligent Agents to Predictive Systems.",
+            "date": "Sat, 24 May 2025 05:50:34 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LOW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "What the House Republican budget bill means for your money",
+            "link": "https://www.cnbc.com/2025/05/22/what-house-republican-big-beautiful-budget-bill-means-for-your-money.html",
+            "summary": "House Republicans advanced a multitrillion-dollar tax and spending package. The package could have sweeping impacts on household finances. The bill is expected to be passed by the end of the month.",
+            "date": "Fri, 23 May 2025 14:56:31 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WAT-P.V",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump calls for 50% tariff on EU, says he's 'not looking for a deal' with bloc",
             "link": "https://www.cnbc.com/2025/05/23/trump-recommends-50percent-tariff-on-european-union-starting-june-1.html",
-            "summary": "President Donald Trump says he is \"recommending a straight 50% Tariff on the European Union\" He complained that trade negotiations have stalled.",
-            "date": "Fri, 23 May 2025 13:18:12 GMT",
+            "summary": "U.S. President Donald Trump believes European Union proposals have not matched those from other trading partners, Treasury Secretary Scott Bessent said.",
+            "date": "Fri, 23 May 2025 19:30:25 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,99 +62,63 @@
             "impact": "Neutral"
         },
         {
-            "title": "Harvard sues Trump administration over international student enrollment ban",
-            "link": "https://www.cnbc.com/2025/05/23/harvard-sues-trump-international-student-enrollment.html",
-            "summary": "\"Without its international students, Harvard is not Harvard,\" the lawsuit by the private school against the Trump administration says. The lawsuit was filed in federal court in Washington, DC.",
-            "date": "Fri, 23 May 2025 13:22:27 GMT",
+            "title": "My wife and I are 73 and retired. Can we afford a $1.2 million home?",
+            "link": "https://www.marketwatch.com/story/my-wife-and-i-are-73-and-retired-can-we-afford-a-1-2-million-home-5ac8de41?mod=mw_rss_topstories",
+            "summary": "“We have $2.5 million in tax-deferred retirement accounts,” he says. “We’re in good shape.”",
+            "date": "Sat, 24 May 2025 13:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRGN",
+            "stock_ticker": "AUDMYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "Nuclear stocks rally on report Trump will sign executive orders to support industry",
-            "link": "https://www.cnbc.com/2025/05/23/nuclear-stocks-rally-on-report-trump-to-sign-orders-to-support-industry.html",
-            "summary": "The president is scheduled to sign orders in the Oval Office at 1 p.m. ET. The White House schedule says the signing will take place in the White House East Room.",
-            "date": "Fri, 23 May 2025 12:29:32 GMT",
+            "title": "‘We’re not wealthy’: My niece is marrying out of state and she has a honeymoon fund. Is that cheeky?",
+            "link": "https://www.marketwatch.com/story/were-not-wealthy-my-niece-is-marrying-out-of-state-and-she-has-a-honeymoon-fund-is-that-cheeky-18341770?mod=mw_rss_topstories",
+            "summary": "“We are making plans to attend just to show support. The invitation states that our presence is a gift in itself,” he said.",
+            "date": "Sat, 24 May 2025 12:44:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NNE",
-            "impact": "Neutral"
+            "stock_ticker": "HOWL",
+            "impact": "Bullish"
         },
         {
-            "title": "Treasury yields stumble from highs as Trump ramps up trade war",
-            "link": "https://www.cnbc.com/2025/05/23/us-treasury-yields-investors-weigh-impact-of-trumps-tax-bill-.html",
-            "summary": "U.S. Treasury yields eased on Friday but remained elevated. Investors weighed the impact of President Donald Trump's tax bill on the economy.",
-            "date": "Fri, 23 May 2025 12:29:15 GMT",
+            "title": "Rising bond yields give stock-market investors the yips. Watch these levels.",
+            "link": "https://www.marketwatch.com/story/rising-bond-yields-give-stock-market-investors-the-yips-watch-these-levels-d8e99584?mod=mw_rss_topstories",
+            "summary": "The bond market took center stage on Wall Street this week. It was moves in the bond market that took centerstage on Wall St. This week's bond market moves include:",
+            "date": "Sat, 24 May 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZB=F",
+            "stock_ticker": "0P0001QQP3.SZ",
             "impact": "Neutral"
         },
         {
-            "title": "Apple’s stock falls as Trump makes a tariff threat on iPhones. Here’s why it’s misguided.",
-            "link": "https://www.marketwatch.com/story/apples-stock-falls-as-trump-makes-a-tariff-threat-on-iphones-heres-why-its-misguided-502c7fce?mod=mw_rss_topstories",
-            "summary": "President Donald Trump said Apple must pay a 25% tariff if it doesn't rely on domestic production of iPhones for the U.S. market.",
-            "date": "Fri, 23 May 2025 12:46:00 GMT",
+            "title": "Apple has been the worst Big Tech stock lately. Here’s why investors are missing the big picture.",
+            "link": "https://www.marketwatch.com/story/apple-has-been-the-worst-big-tech-stock-lately-heres-why-investors-are-missing-the-big-picture-3fdfa582?mod=mw_rss_topstories",
+            "summary": "Apple’s stock has sold off on tariff fears, but the company still has a healthy business underpinned by a sticky ecosystem and robust array of services offerings.",
+            "date": "Sat, 24 May 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "APPIX",
+            "stock_ticker": "AAPL",
             "impact": "Neutral"
         },
         {
-            "title": "These bonds can stand up to any inflation spike from budget battles and tax cuts",
-            "link": "https://www.marketwatch.com/story/these-bonds-can-stand-up-to-any-inflation-spike-from-budget-battles-and-tax-cuts-4f31d221?mod=mw_rss_topstories",
-            "summary": " Heightened market volatility creates a window for TIPS. TIPS are a type of Treasury Inflation-Protected Security (TIPS) with a fixed interest rate.",
-            "date": "Fri, 23 May 2025 12:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "UEEG.DE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here’s why GameStop’s stock has been in play again. It’s not a meme thing this time.",
-            "link": "https://www.marketwatch.com/story/heres-why-gamestops-stock-has-been-in-play-again-its-not-a-meme-thing-this-time-9e5a5be8?mod=mw_rss_topstories",
-            "summary": "Shares of videogame retailer and original meme stock GameStop are riding the bitcoin wave. GameStop is one of the biggest videogame retailers in the world.",
-            "date": "Fri, 23 May 2025 11:48:00 GMT",
+            "title": "Why wealth rarely survives grandchildren — and how your family can beat the odds",
+            "link": "https://www.marketwatch.com/story/why-wealth-rarely-survives-grandchildren-and-how-your-family-can-beat-the-odds-0ec8cb9d?mod=mw_rss_topstories",
+            "summary": "The ‘Vanderbilt curse’ — making and losing a fortune in just three generations. 6 keys to avoiding the ‘Curse’ are among the top 10 things you need to do to avoid it.",
+            "date": "Sat, 24 May 2025 12:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "WHYCX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This hedge-fund manager has made about 50% in each of the last two years. Here’s his home run trade.",
-            "link": "https://www.marketwatch.com/story/this-hedge-fund-manager-has-made-about-50-in-each-of-the-last-two-years-heres-his-home-run-trade-e28a0608?mod=mw_rss_topstories",
-            "summary": "Rob Citrone thinks the U.S. will keep its exceptionalism and the economy will boom in 2026. Rob Citrone: The U.K. will continue to be one of the most successful economies in the world in the coming years.",
-            "date": "Fri, 23 May 2025 11:46:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THISX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The ‘mother of all credit squeezes’ is coming — hang onto your wallet",
-            "link": "https://www.marketwatch.com/story/the-mother-of-all-credit-squeezes-is-coming-hang-onto-your-wallet-26a2280d?mod=mw_rss_topstories",
-            "summary": "Consumer confidence is buckling, and debt is mounting. Here’s how to steer your portfolio to avoid the pitfalls of investing in real estate.",
-            "date": "Fri, 23 May 2025 11:45:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
             "impact": "Neutral"
         }
     ]
