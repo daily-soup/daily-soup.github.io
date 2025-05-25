@@ -1,6 +1,18 @@
 {
-    "date": "2025-05-24",
+    "date": "2025-05-25",
     "news": [
+        {
+            "title": "How the U.S. clean energy boom could go bust if Trump's 'big, beautiful bill' becomes law",
+            "link": "https://www.cnbc.com/2025/05/24/how-the-us-clean-energy-boom-could-go-bust-if-trumps-big-beautiful-bill-becomes-law.html",
+            "summary": "The legislation still has to pass the Senate and changes could still be made. The bill is expected to be voted on by the end of the year.",
+            "date": "Sun, 25 May 2025 10:45:34 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
         {
             "title": "At Trump's $148 million meme coin dinner, 'the food sucked' and security was lax, attendee says",
             "link": "https://www.cnbc.com/2025/05/23/trump-meme-coin-dinner.html",
@@ -14,15 +26,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "How the U.S. clean energy boom could go bust if Trump's 'big, beautiful bill' becomes law",
-            "link": "https://www.cnbc.com/2025/05/24/how-the-us-clean-energy-boom-could-go-bust-if-trumps-big-beautiful-bill-becomes-law.html",
-            "summary": "The legislation still has to pass the Senate and changes could still be made. The bill is expected to be voted on by the end of the year.",
-            "date": "Sat, 24 May 2025 12:49:25 GMT",
+            "title": "Starmer has delivered some key wins for the UK recently, so why is he so unpopular?",
+            "link": "https://www.cnbc.com/2025/05/25/starmer-has-delivered-key-wins-for-the-uk-so-why-is-he-so-unpopular.html",
+            "summary": "U.K. Prime Minister Keir Starmer has achieved some major economic wins for the U.K., but his popularity is at a record low.",
+            "date": "Sun, 25 May 2025 06:06:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "HAS",
             "impact": "Neutral"
         },
         {
@@ -38,22 +50,22 @@
             "impact": "Neutral"
         },
         {
-            "title": "What the House Republican budget bill means for your money",
-            "link": "https://www.cnbc.com/2025/05/22/what-house-republican-big-beautiful-budget-bill-means-for-your-money.html",
-            "summary": "House Republicans advanced a multitrillion-dollar tax and spending package. The package could have sweeping impacts on household finances. The bill is expected to be passed by the end of the month.",
-            "date": "Fri, 23 May 2025 14:56:31 GMT",
+            "title": "Top Wall Street analysts favor these stocks for the long haul",
+            "link": "https://www.cnbc.com/2025/05/25/top-wall-street-analysts-favor-these-stocks-for-the-long-haul.html",
+            "summary": "Here are three stocks favored by the Street's top pros, according to TipRanks. The stocks are Apple, Facebook and Microsoft. The stock market is down about 2% this year.",
+            "date": "Sun, 25 May 2025 10:38:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WAT-P.V",
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
-            "title": "Trump calls for 50% tariff on EU, says he's 'not looking for a deal' with bloc",
-            "link": "https://www.cnbc.com/2025/05/23/trump-recommends-50percent-tariff-on-european-union-starting-june-1.html",
-            "summary": "U.S. President Donald Trump believes European Union proposals have not matched those from other trading partners, Treasury Secretary Scott Bessent said.",
-            "date": "Fri, 23 May 2025 19:30:25 GMT",
+            "title": "Trump threatens Apple with 25% tariff: Is now a good time to buy an iPhone?",
+            "link": "https://www.marketwatch.com/story/is-now-a-good-time-to-buy-an-iphone-b77772f9?mod=mw_rss_topstories",
+            "summary": "President Donald Trump threatened Apple with 25% tariffs on any iPhone sold, but not made, in the U.S. On Friday, Apple announced it would be launching a new iPhone 5S and 5C.",
+            "date": "Sun, 25 May 2025 10:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,10 +74,22 @@
             "impact": "Neutral"
         },
         {
-            "title": "My wife and I are 73 and retired. Can we afford a $1.2 million home?",
-            "link": "https://www.marketwatch.com/story/my-wife-and-i-are-73-and-retired-can-we-afford-a-1-2-million-home-5ac8de41?mod=mw_rss_topstories",
-            "summary": "“We have $2.5 million in tax-deferred retirement accounts,” he says. “We’re in good shape.”",
-            "date": "Sat, 24 May 2025 13:06:00 GMT",
+            "title": "I’m hosting a Memorial Day barbecue. Would it be so bad to ask my guests to make financial contributions?",
+            "link": "https://www.marketwatch.com/story/im-hosting-a-memorial-day-barbecue-would-it-be-so-bad-to-ask-my-guests-to-make-financial-contributions-83eebe55?mod=mw_rss_topstories",
+            "summary": "“I have a credit-card bill I’m trying to pay off, which just got bigger due to a broken shower,” she said.",
+            "date": "Sun, 25 May 2025 09:48:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IMNN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My daughter’s boyfriend, a guest in my home, offered to powerwash part of my house — then demanded money",
+            "link": "https://www.marketwatch.com/story/my-daughters-boyfriend-a-guest-in-my-home-offered-to-powerwash-part-of-my-house-then-demanded-money-9ad16f4c?mod=mw_rss_topstories",
+            "summary": "“The amount was about what I would have paid to get the whole house done, and not just one side,’ he said.",
+            "date": "Sun, 25 May 2025 09:25:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,52 +98,28 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘We’re not wealthy’: My niece is marrying out of state and she has a honeymoon fund. Is that cheeky?",
-            "link": "https://www.marketwatch.com/story/were-not-wealthy-my-niece-is-marrying-out-of-state-and-she-has-a-honeymoon-fund-is-that-cheeky-18341770?mod=mw_rss_topstories",
-            "summary": "“We are making plans to attend just to show support. The invitation states that our presence is a gift in itself,” he said.",
-            "date": "Sat, 24 May 2025 12:44:00 GMT",
+            "title": "Ships are canceling crossings to U.S., and Trump’s new 50% E.U. tariff threat isn’t likely to help",
+            "link": "https://www.marketwatch.com/story/ships-are-canceling-crossings-to-u-s-and-trumps-new-50-e-u-tariff-threat-isnt-likely-to-help-a3152fb7?mod=mw_rss_topstories",
+            "summary": "President Trump has threatened new E.U. and smartphone tariffs. The spotlight is back on U.S. supply chains after the threat.",
+            "date": "Sat, 24 May 2025 18:54:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HOWL",
+            "stock_ticker": "MPCC.OL",
             "impact": "Bullish"
         },
         {
-            "title": "Rising bond yields give stock-market investors the yips. Watch these levels.",
-            "link": "https://www.marketwatch.com/story/rising-bond-yields-give-stock-market-investors-the-yips-watch-these-levels-d8e99584?mod=mw_rss_topstories",
-            "summary": "The bond market took center stage on Wall Street this week. It was moves in the bond market that took centerstage on Wall St. This week's bond market moves include:",
-            "date": "Sat, 24 May 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001QQP3.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Apple has been the worst Big Tech stock lately. Here’s why investors are missing the big picture.",
-            "link": "https://www.marketwatch.com/story/apple-has-been-the-worst-big-tech-stock-lately-heres-why-investors-are-missing-the-big-picture-3fdfa582?mod=mw_rss_topstories",
-            "summary": "Apple’s stock has sold off on tariff fears, but the company still has a healthy business underpinned by a sticky ecosystem and robust array of services offerings.",
-            "date": "Sat, 24 May 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAPL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why wealth rarely survives grandchildren — and how your family can beat the odds",
-            "link": "https://www.marketwatch.com/story/why-wealth-rarely-survives-grandchildren-and-how-your-family-can-beat-the-odds-0ec8cb9d?mod=mw_rss_topstories",
-            "summary": "The ‘Vanderbilt curse’ — making and losing a fortune in just three generations. 6 keys to avoiding the ‘Curse’ are among the top 10 things you need to do to avoid it.",
-            "date": "Sat, 24 May 2025 12:15:00 GMT",
+            "title": "Why this stock-market strategist expects no recession and zero rate cuts in 2025",
+            "link": "https://www.marketwatch.com/story/why-this-stock-market-strategist-expects-no-recession-and-zero-rate-cuts-in-2025-e18ae1cf?mod=mw_rss_topstories",
+            "summary": "Keith McCullough: U.S. bond market and currency are both going up. He says the two primary factors that lead him to make decisions in the bond market are both up. McCullough says he will make a decision on the dollar in coming days.",
+            "date": "Sat, 24 May 2025 17:26:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "WHYCX",
-            "impact": "Neutral"
+            "impact": "Bullish"
         }
     ]
 }
