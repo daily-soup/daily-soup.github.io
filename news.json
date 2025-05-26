@@ -1,71 +1,83 @@
 {
-    "date": "2025-05-25",
+    "date": "2025-05-26",
     "news": [
         {
-            "title": "How the U.S. clean energy boom could go bust if Trump's 'big, beautiful bill' becomes law",
-            "link": "https://www.cnbc.com/2025/05/24/how-the-us-clean-energy-boom-could-go-bust-if-trumps-big-beautiful-bill-becomes-law.html",
-            "summary": "The legislation still has to pass the Senate and changes could still be made. The bill is expected to be voted on by the end of the year.",
-            "date": "Sun, 25 May 2025 10:45:34 GMT",
+            "title": "Businesses are finding a workaround for tariffs — and it's entirely legal",
+            "link": "https://www.cnbc.com/2025/05/26/businesses-are-finding-a-tariff-workaround-the-first-sale-rule.html",
+            "summary": "The \"first sale rule\" is a concept in U.S. customs law. It allows importers to use the lowest cost of a good to calculate duties.",
+            "date": "Mon, 26 May 2025 05:04:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "0P0000XMM7",
             "impact": "Neutral"
         },
         {
-            "title": "At Trump's $148 million meme coin dinner, 'the food sucked' and security was lax, attendee says",
-            "link": "https://www.cnbc.com/2025/05/23/trump-meme-coin-dinner.html",
-            "summary": "Trump's meme coin dropped 16% the morning after a black-tie gala for buyers. Political backlash that threatens to derail stablecoin legislation.",
-            "date": "Fri, 23 May 2025 23:31:04 GMT",
+            "title": "Tech conferences are ramping up security to quell employee protests as political tensions rise",
+            "link": "https://www.cnbc.com/2025/05/26/tech-conferences-are-ramping-up-security-to-quell-employee-protests-.html",
+            "summary": "Conferences last week hosted by Microsoft and Google showed how much tech companies are investing in security. Microsoft, Google hosted security conferences last week.",
+            "date": "Mon, 26 May 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "T",
+            "stock_ticker": "TECH",
             "impact": "Neutral"
         },
         {
-            "title": "Starmer has delivered some key wins for the UK recently, so why is he so unpopular?",
-            "link": "https://www.cnbc.com/2025/05/25/starmer-has-delivered-key-wins-for-the-uk-so-why-is-he-so-unpopular.html",
-            "summary": "U.K. Prime Minister Keir Starmer has achieved some major economic wins for the U.K., but his popularity is at a record low.",
-            "date": "Sun, 25 May 2025 06:06:09 GMT",
+            "title": "‘Buckle up, this ride’s far from over': Trump’s EU tariffs delay is no guarantee trade tensions won't escalate, market watchers say",
+            "link": "https://www.cnbc.com/2025/05/26/trump-delays-eu-tariffs-but-more-volatility-could-be-on-the-way.html",
+            "summary": "U.S. President Donald Trump delayed the roll out of 50% tariffs on the European Union. Investors are being warned to \"buckle up\" for more volatility.",
+            "date": "Mon, 26 May 2025 11:06:23 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HAS",
-            "impact": "Neutral"
+            "stock_ticker": "BKE",
+            "impact": "Bullish"
         },
         {
-            "title": "Companies turn to AI to navigate Trump tariff turbulence",
-            "link": "https://www.cnbc.com/2025/05/24/companies-turn-to-ai-to-navigate-trump-tariff-turbulence.html",
-            "summary": "Businesses are turning to artificial intelligence tools ranging from intelligent agents to predictive systems that can simulate changes in U.S. tariff policies. Businesses are Turning to Artificial Intelligence Tools ranging from Intelligent Agents to Predictive Systems.",
-            "date": "Sat, 24 May 2025 05:50:34 GMT",
+            "title": "It's the last chance for Southwest plane tickets with two free checked bags, as policy ends in days",
+            "link": "https://www.cnbc.com/2025/05/26/southwest-airlines-checked-bag-fees.html",
+            "summary": "Southwest will start selling basic economy tickets on May 28. The airline will also start charging for checked bags for the first time in its history.",
+            "date": "Mon, 26 May 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LOW",
+            "stock_ticker": "SITS",
             "impact": "Neutral"
         },
         {
-            "title": "Top Wall Street analysts favor these stocks for the long haul",
-            "link": "https://www.cnbc.com/2025/05/25/top-wall-street-analysts-favor-these-stocks-for-the-long-haul.html",
-            "summary": "Here are three stocks favored by the Street's top pros, according to TipRanks. The stocks are Apple, Facebook and Microsoft. The stock market is down about 2% this year.",
-            "date": "Sun, 25 May 2025 10:38:04 GMT",
+            "title": "Chinese tech giants reveal how they're dealing with U.S. chip curbs to stay in the AI race",
+            "link": "https://www.cnbc.com/2025/05/26/tencent-baidu-reveal-how-theyre-dealing-with-us-ai-chip-curbs.html",
+            "summary": "Tencent and Baidu said stockpiling chips, optimizing AI models and using home-grown semiconductors have helped them progress with the tech.",
+            "date": "Mon, 26 May 2025 05:03:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "O39.SI",
             "impact": "Neutral"
         },
         {
-            "title": "Trump threatens Apple with 25% tariff: Is now a good time to buy an iPhone?",
-            "link": "https://www.marketwatch.com/story/is-now-a-good-time-to-buy-an-iphone-b77772f9?mod=mw_rss_topstories",
-            "summary": "President Donald Trump threatened Apple with 25% tariffs on any iPhone sold, but not made, in the U.S. On Friday, Apple announced it would be launching a new iPhone 5S and 5C.",
-            "date": "Sun, 25 May 2025 10:15:00 GMT",
+            "title": "‘He’s lied to us all’: My father is leaving my sister, brother and me a $450K lakefront property. We want to cut my brother out.",
+            "link": "https://www.marketwatch.com/story/hes-lied-to-us-all-my-father-is-leaving-my-sister-brother-and-me-a-450k-lakefront-property-we-want-to-cut-my-feckless-brother-out-8580a44d?mod=mw_rss_topstories",
+            "summary": "“My brother has lied to all of us, is generally untrustworthy, and does not pay his bills on time,” his sister said.",
+            "date": "Mon, 26 May 2025 10:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HES",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump said he would delay European Union tariffs until July 9. U.S. stock futures and Europe equities are rallying.",
+            "link": "https://www.marketwatch.com/story/trump-said-he-would-delay-european-union-tariffs-until-july-9-u-s-stock-futures-and-europe-equities-are-rallying-af5ab80b?mod=mw_rss_topstories",
+            "summary": "President Trump is delaying a 50% tariff jump for the European Union until July. Investors expressed relief that the move was delayed until the end of July.",
+            "date": "Mon, 26 May 2025 10:57:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,52 +86,40 @@
             "impact": "Neutral"
         },
         {
-            "title": "I’m hosting a Memorial Day barbecue. Would it be so bad to ask my guests to make financial contributions?",
-            "link": "https://www.marketwatch.com/story/im-hosting-a-memorial-day-barbecue-would-it-be-so-bad-to-ask-my-guests-to-make-financial-contributions-83eebe55?mod=mw_rss_topstories",
-            "summary": "“I have a credit-card bill I’m trying to pay off, which just got bigger due to a broken shower,” she said.",
-            "date": "Sun, 25 May 2025 09:48:00 GMT",
+            "title": "China EV-maker BYD has been grabbing market share from Tesla. Its shares are tanking after price cuts.",
+            "link": "https://www.marketwatch.com/story/china-ev-maker-byd-has-been-grabbing-market-share-from-tesla-its-shares-are-tanking-after-price-cuts-6bbbe0d3?mod=mw_rss_topstories",
+            "summary": "BYD stock tumbled in Hong Kong on Monday after price cuts to several models. BYD stock fell by more than 10 per cent on Monday.",
+            "date": "Mon, 26 May 2025 10:57:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IMNN",
+            "stock_ticker": "CHH=F",
             "impact": "Neutral"
         },
         {
-            "title": "My daughter’s boyfriend, a guest in my home, offered to powerwash part of my house — then demanded money",
-            "link": "https://www.marketwatch.com/story/my-daughters-boyfriend-a-guest-in-my-home-offered-to-powerwash-part-of-my-house-then-demanded-money-9ad16f4c?mod=mw_rss_topstories",
-            "summary": "“The amount was about what I would have paid to get the whole house done, and not just one side,’ he said.",
-            "date": "Sun, 25 May 2025 09:25:00 GMT",
+            "title": "‘Is this a good tax strategy or a sham transaction?’ My mother wants to give me her home. I have a plan to avoid taxes.",
+            "link": "https://www.marketwatch.com/story/is-this-a-good-tax-strategy-or-a-sham-transaction-my-mother-wants-to-give-me-her-home-i-have-a-plan-to-avoid-taxes-1a070006?mod=mw_rss_topstories",
+            "summary": "“If my mother gives her personal residence to me, my understanding is that I also get her adjusted cost basis,” she said.",
+            "date": "Mon, 26 May 2025 10:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUDMYR=X",
+            "stock_ticker": "TLT",
             "impact": "Neutral"
         },
         {
-            "title": "Ships are canceling crossings to U.S., and Trump’s new 50% E.U. tariff threat isn’t likely to help",
-            "link": "https://www.marketwatch.com/story/ships-are-canceling-crossings-to-u-s-and-trumps-new-50-e-u-tariff-threat-isnt-likely-to-help-a3152fb7?mod=mw_rss_topstories",
-            "summary": "President Trump has threatened new E.U. and smartphone tariffs. The spotlight is back on U.S. supply chains after the threat.",
-            "date": "Sat, 24 May 2025 18:54:00 GMT",
+            "title": "My husband used my money to renovate his house. Will I now get half of his property in a divorce?",
+            "link": "https://www.marketwatch.com/story/my-husband-and-i-used-joint-funds-to-renovate-and-prepare-his-house-for-sale-do-i-now-own-half-2959f5ea?mod=mw_rss_topstories",
+            "summary": "“My name is not on the deed to that rental home, but we have been married 15 years,” she says. “My wife and I have been together for 15 years. We have been very happy.”",
+            "date": "Mon, 26 May 2025 10:02:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MPCC.OL",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Why this stock-market strategist expects no recession and zero rate cuts in 2025",
-            "link": "https://www.marketwatch.com/story/why-this-stock-market-strategist-expects-no-recession-and-zero-rate-cuts-in-2025-e18ae1cf?mod=mw_rss_topstories",
-            "summary": "Keith McCullough: U.S. bond market and currency are both going up. He says the two primary factors that lead him to make decisions in the bond market are both up. McCullough says he will make a decision on the dollar in coming days.",
-            "date": "Sat, 24 May 2025 17:26:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHYCX",
-            "impact": "Bullish"
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
         }
     ]
 }
