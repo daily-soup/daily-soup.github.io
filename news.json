@@ -1,83 +1,59 @@
 {
-    "date": "2025-05-26",
+    "date": "2025-05-27",
     "news": [
         {
-            "title": "Businesses are finding a workaround for tariffs — and it's entirely legal",
-            "link": "https://www.cnbc.com/2025/05/26/businesses-are-finding-a-tariff-workaround-the-first-sale-rule.html",
-            "summary": "The \"first sale rule\" is a concept in U.S. customs law. It allows importers to use the lowest cost of a good to calculate duties.",
-            "date": "Mon, 26 May 2025 05:04:41 GMT",
+            "title": "JPMorgan Chase is heading upmarket to woo America’s millionaires",
+            "link": "https://www.cnbc.com/2025/05/27/jpmorgan-chase-wealth-management.html",
+            "summary": "The new locations, dubbed J.P. Morgan Financial Centers, have a feel and earth-tone color palette that sets them apart from the nearly 5,000 Chase branches.",
+            "date": "Tue, 27 May 2025 13:26:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0000XMM7",
+            "stock_ticker": "JPM",
             "impact": "Neutral"
         },
         {
-            "title": "Tech conferences are ramping up security to quell employee protests as political tensions rise",
-            "link": "https://www.cnbc.com/2025/05/26/tech-conferences-are-ramping-up-security-to-quell-employee-protests-.html",
-            "summary": "Conferences last week hosted by Microsoft and Google showed how much tech companies are investing in security. Microsoft, Google hosted security conferences last week.",
-            "date": "Mon, 26 May 2025 12:00:01 GMT",
+            "title": "Salesforce to acquire data management company Informatica in $8 billion deal",
+            "link": "https://www.cnbc.com/2025/05/27/salesforce-informatica-deal.html",
+            "summary": "Salesforce is buying cloud data management firm Informatica. The move will bolster the enterprise software giant's push into artificial intelligence. The deal is expected to close in the next few months.",
+            "date": "Tue, 27 May 2025 12:26:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TECH",
+            "stock_ticker": "CRM",
             "impact": "Neutral"
         },
         {
-            "title": "‘Buckle up, this ride’s far from over': Trump’s EU tariffs delay is no guarantee trade tensions won't escalate, market watchers say",
-            "link": "https://www.cnbc.com/2025/05/26/trump-delays-eu-tariffs-but-more-volatility-could-be-on-the-way.html",
-            "summary": "U.S. President Donald Trump delayed the roll out of 50% tariffs on the European Union. Investors are being warned to \"buckle up\" for more volatility.",
-            "date": "Mon, 26 May 2025 11:06:23 GMT",
+            "title": "NPR sues Trump over executive order cutting federal funding",
+            "link": "https://www.cnbc.com/2025/05/27/trump-npr-lawsuit-funding-order.html",
+            "summary": "National Public Radio sued President Donald Trump over his executive order to cease all federal funding for the broadcaster. National Public Radio is a public radio station based in New York.",
+            "date": "Tue, 27 May 2025 13:18:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BKE",
-            "impact": "Bullish"
+            "stock_ticker": "CHFNPR=X",
+            "impact": "Neutral"
         },
         {
-            "title": "It's the last chance for Southwest plane tickets with two free checked bags, as policy ends in days",
+            "title": "Southwest Airlines will start charging $35 for a checked bag tomorrow",
             "link": "https://www.cnbc.com/2025/05/26/southwest-airlines-checked-bag-fees.html",
             "summary": "Southwest will start selling basic economy tickets on May 28. The airline will also start charging for checked bags for the first time in its history.",
-            "date": "Mon, 26 May 2025 12:00:01 GMT",
+            "date": "Tue, 27 May 2025 11:45:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SITS",
+            "stock_ticker": "LUV",
             "impact": "Neutral"
         },
         {
-            "title": "Chinese tech giants reveal how they're dealing with U.S. chip curbs to stay in the AI race",
-            "link": "https://www.cnbc.com/2025/05/26/tencent-baidu-reveal-how-theyre-dealing-with-us-ai-chip-curbs.html",
-            "summary": "Tencent and Baidu said stockpiling chips, optimizing AI models and using home-grown semiconductors have helped them progress with the tech.",
-            "date": "Mon, 26 May 2025 05:03:53 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "O39.SI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘He’s lied to us all’: My father is leaving my sister, brother and me a $450K lakefront property. We want to cut my brother out.",
-            "link": "https://www.marketwatch.com/story/hes-lied-to-us-all-my-father-is-leaving-my-sister-brother-and-me-a-450k-lakefront-property-we-want-to-cut-my-feckless-brother-out-8580a44d?mod=mw_rss_topstories",
-            "summary": "“My brother has lied to all of us, is generally untrustworthy, and does not pay his bills on time,” his sister said.",
-            "date": "Mon, 26 May 2025 10:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HES",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump said he would delay European Union tariffs until July 9. U.S. stock futures and Europe equities are rallying.",
-            "link": "https://www.marketwatch.com/story/trump-said-he-would-delay-european-union-tariffs-until-july-9-u-s-stock-futures-and-europe-equities-are-rallying-af5ab80b?mod=mw_rss_topstories",
-            "summary": "President Trump is delaying a 50% tariff jump for the European Union until July. Investors expressed relief that the move was delayed until the end of July.",
-            "date": "Mon, 26 May 2025 10:57:00 GMT",
+            "title": "Trump administration moves to cut rest of Harvard contracts with federal government",
+            "link": "https://www.cnbc.com/2025/05/27/harvard-trump-administration-cut-federal-contracts.html",
+            "summary": "President Donald Trump suggested taking $3 billion in frozen grant money to Harvard and and give it to trade schools. President Donald Trump in a social media post suggested.",
+            "date": "Tue, 27 May 2025 12:42:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +62,63 @@
             "impact": "Neutral"
         },
         {
-            "title": "China EV-maker BYD has been grabbing market share from Tesla. Its shares are tanking after price cuts.",
-            "link": "https://www.marketwatch.com/story/china-ev-maker-byd-has-been-grabbing-market-share-from-tesla-its-shares-are-tanking-after-price-cuts-6bbbe0d3?mod=mw_rss_topstories",
-            "summary": "BYD stock tumbled in Hong Kong on Monday after price cuts to several models. BYD stock fell by more than 10 per cent on Monday.",
-            "date": "Mon, 26 May 2025 10:57:00 GMT",
+            "title": "Why wealth rarely survives grandchildren — and how your family can beat the odds",
+            "link": "https://www.marketwatch.com/story/why-wealth-rarely-survives-grandchildren-and-how-your-family-can-beat-the-odds-0ec8cb9d?mod=mw_rss_topstories",
+            "summary": "The ‘Vanderbilt curse’ — making and losing a fortune in just three generations. 6 keys to avoiding the ‘Curse’ are among the top 10 things you need to do to avoid it.",
+            "date": "Tue, 27 May 2025 13:26:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHH=F",
+            "stock_ticker": "WHYCX",
             "impact": "Neutral"
         },
         {
-            "title": "‘Is this a good tax strategy or a sham transaction?’ My mother wants to give me her home. I have a plan to avoid taxes.",
-            "link": "https://www.marketwatch.com/story/is-this-a-good-tax-strategy-or-a-sham-transaction-my-mother-wants-to-give-me-her-home-i-have-a-plan-to-avoid-taxes-1a070006?mod=mw_rss_topstories",
-            "summary": "“If my mother gives her personal residence to me, my understanding is that I also get her adjusted cost basis,” she said.",
-            "date": "Mon, 26 May 2025 10:04:00 GMT",
+            "title": "Why Obama’s former budget director is now sounding alarms about debt",
+            "link": "https://www.marketwatch.com/story/wolf-at-the-door-why-obamas-former-budget-director-is-now-sounding-alarms-about-debt-875f8ae9?mod=mw_rss_topstories",
+            "summary": "The time to worry about the U.S. budget deficit is now, says Obama’s former budget chief Peter Orszag.",
+            "date": "Tue, 27 May 2025 13:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TLT",
+            "stock_ticker": "WHY30867-USD",
             "impact": "Neutral"
         },
         {
-            "title": "My husband used my money to renovate his house. Will I now get half of his property in a divorce?",
-            "link": "https://www.marketwatch.com/story/my-husband-and-i-used-joint-funds-to-renovate-and-prepare-his-house-for-sale-do-i-now-own-half-2959f5ea?mod=mw_rss_topstories",
-            "summary": "“My name is not on the deed to that rental home, but we have been married 15 years,” she says. “My wife and I have been together for 15 years. We have been very happy.”",
-            "date": "Mon, 26 May 2025 10:02:00 GMT",
+            "title": "Retail investors aren’t scared of the stock market. That will only make the selloff worse.",
+            "link": "https://www.marketwatch.com/story/retail-investors-arent-scared-of-the-stock-market-that-will-only-make-the-selloff-worse-9015b686?mod=mw_rss_topstories",
+            "summary": "Regular investors have been “buying the dip’ aggressively. Remember: “Be fearful when others are greedy.’”",
+            "date": "Tue, 27 May 2025 13:09:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "SXR=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "After 25 years, I finally asked for separate checks — and my friends iced me out. Did I do something terrible?",
+            "link": "https://www.marketwatch.com/story/after-25-years-i-finally-asked-for-separate-checks-and-my-friends-iced-me-out-did-i-do-something-terrible-96ae66c5?mod=mw_rss_topstories",
+            "summary": "“With each year I got angrier and angrier, so it was time to move on,” he said. “With every year I became more and more angry.”",
+            "date": "Tue, 27 May 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AFTM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Business investment posts biggest drop in 6 months. Trade wars still disrupting economy.",
+            "link": "https://www.marketwatch.com/story/business-investment-posts-biggest-drop-in-6-months-trade-wars-still-disrupting-economy-046a92d1?mod=mw_rss_topstories",
+            "summary": "A key measure of business investment posted the biggest decline in six months in April. Companies froze spending to try to navigate on-again, off-again tariffs.",
+            "date": "Tue, 27 May 2025 12:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBM",
             "impact": "Neutral"
         }
     ]
