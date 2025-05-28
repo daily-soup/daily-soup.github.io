@@ -1,125 +1,125 @@
 {
-    "date": "2025-05-27",
+    "date": "2025-05-28",
     "news": [
         {
-            "title": "JPMorgan Chase is heading upmarket to woo America’s millionaires",
-            "link": "https://www.cnbc.com/2025/05/27/jpmorgan-chase-wealth-management.html",
-            "summary": "The new locations, dubbed J.P. Morgan Financial Centers, have a feel and earth-tone color palette that sets them apart from the nearly 5,000 Chase branches.",
-            "date": "Tue, 27 May 2025 13:26:45 GMT",
+            "title": "Abercrombie & Fitch soars 25% even as retailer slashes profit outlook due to tariffs",
+            "link": "https://www.cnbc.com/2025/05/28/abercrombie-fitch-anf-q1-2025-earnings.html",
+            "summary": "Abercrombie & Fitch's growth is slowing at its namesake brand. The company is expecting tariffs to reduce its earnings by $50 million.",
+            "date": "Wed, 28 May 2025 12:38:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JPM",
+            "stock_ticker": "ANF",
             "impact": "Neutral"
         },
         {
-            "title": "Salesforce to acquire data management company Informatica in $8 billion deal",
-            "link": "https://www.cnbc.com/2025/05/27/salesforce-informatica-deal.html",
-            "summary": "Salesforce is buying cloud data management firm Informatica. The move will bolster the enterprise software giant's push into artificial intelligence. The deal is expected to close in the next few months.",
-            "date": "Tue, 27 May 2025 12:26:47 GMT",
+            "title": "Elon Musk says Trump's spending bill undermines the work DOGE has been doing",
+            "link": "https://www.cnbc.com/2025/05/28/elon-musk-says-trumps-spending-bill-undermines-the-work-doge-has-been-doing.html",
+            "summary": "Musk criticized the Republican spending bill that recently made it through the House. Musk criticized the GOP spending bill as a waste of money. He also criticized the way it was written.",
+            "date": "Wed, 28 May 2025 12:14:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CRM",
+            "stock_ticker": "ELON",
             "impact": "Neutral"
         },
         {
-            "title": "NPR sues Trump over executive order cutting federal funding",
-            "link": "https://www.cnbc.com/2025/05/27/trump-npr-lawsuit-funding-order.html",
-            "summary": "National Public Radio sued President Donald Trump over his executive order to cease all federal funding for the broadcaster. National Public Radio is a public radio station based in New York.",
-            "date": "Tue, 27 May 2025 13:18:34 GMT",
+            "title": "Joby Aviation shares pop 13% as electric air taxi maker closes $250 million Toyota investment",
+            "link": "https://www.cnbc.com/2025/05/28/joby-aviation-shares-toyota.html",
+            "summary": "Joby has received the first $250 million of a $500 million investment from Toyota to support its air taxis. Joby announced that it received thefirst $250m of a first $500m investment fromToyota.",
+            "date": "Wed, 28 May 2025 13:11:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHFNPR=X",
+            "stock_ticker": "JOBY",
+            "impact": "Bullish"
+        },
+        {
+            "title": "GameStop shares rise as retailer meme stock buys first bitcoin batch, scooping up $500 million",
+            "link": "https://www.cnbc.com/2025/05/28/gamestop-shares-rise-as-retailer-meme-stock-buys-first-bitcoin-batch-scooping-up-500-million.html",
+            "summary": "The purchase, GameStop's first investment in bitcoin, was worth $512.6 million with bitcoin's price of $108,837 Wednesday.",
+            "date": "Wed, 28 May 2025 12:11:03 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GME",
             "impact": "Neutral"
         },
         {
-            "title": "Southwest Airlines will start charging $35 for a checked bag tomorrow",
-            "link": "https://www.cnbc.com/2025/05/26/southwest-airlines-checked-bag-fees.html",
-            "summary": "Southwest will start selling basic economy tickets on May 28. The airline will also start charging for checked bags for the first time in its history.",
-            "date": "Tue, 27 May 2025 11:45:20 GMT",
+            "title": "Hybrid leader Toyota targets major growth in plug-in vehicles amid industry's EV uncertainty",
+            "link": "https://www.cnbc.com/2025/05/28/toyota-plug-in-hybrid-evs-phev.html",
+            "summary": "Toyota plans to increase PHEVs from 2.4% last year to roughly 20% of its U.S. sales volume by 2030.",
+            "date": "Wed, 28 May 2025 12:03:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LUV",
+            "stock_ticker": "0P0001QM8S.ST",
             "impact": "Neutral"
         },
         {
-            "title": "Trump administration moves to cut rest of Harvard contracts with federal government",
-            "link": "https://www.cnbc.com/2025/05/27/harvard-trump-administration-cut-federal-contracts.html",
-            "summary": "President Donald Trump suggested taking $3 billion in frozen grant money to Harvard and and give it to trade schools. President Donald Trump in a social media post suggested.",
-            "date": "Tue, 27 May 2025 12:42:47 GMT",
+            "title": "Macy’s isn’t ‘broadly increasing price’ amid tariffs and will eat some costs",
+            "link": "https://www.marketwatch.com/story/macys-stock-rises-as-earnings-revenue-beats-offset-a-cut-to-profit-outlook-9dbbd9a6?mod=mw_rss_topstories",
+            "summary": "“We’re being incredibly surgical about the situation with tariffs,” said Macy’s Chief Financial Officer Adrian Mitchell.",
+            "date": "Wed, 28 May 2025 13:19:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why wealth rarely survives grandchildren — and how your family can beat the odds",
-            "link": "https://www.marketwatch.com/story/why-wealth-rarely-survives-grandchildren-and-how-your-family-can-beat-the-odds-0ec8cb9d?mod=mw_rss_topstories",
-            "summary": "The ‘Vanderbilt curse’ — making and losing a fortune in just three generations. 6 keys to avoiding the ‘Curse’ are among the top 10 things you need to do to avoid it.",
-            "date": "Tue, 27 May 2025 13:26:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHYCX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why Obama’s former budget director is now sounding alarms about debt",
-            "link": "https://www.marketwatch.com/story/wolf-at-the-door-why-obamas-former-budget-director-is-now-sounding-alarms-about-debt-875f8ae9?mod=mw_rss_topstories",
-            "summary": "The time to worry about the U.S. budget deficit is now, says Obama’s former budget chief Peter Orszag.",
-            "date": "Tue, 27 May 2025 13:20:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHY30867-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Retail investors aren’t scared of the stock market. That will only make the selloff worse.",
-            "link": "https://www.marketwatch.com/story/retail-investors-arent-scared-of-the-stock-market-that-will-only-make-the-selloff-worse-9015b686?mod=mw_rss_topstories",
-            "summary": "Regular investors have been “buying the dip’ aggressively. Remember: “Be fearful when others are greedy.’”",
-            "date": "Tue, 27 May 2025 13:09:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SXR=F",
+            "stock_ticker": "M",
             "impact": "Neutral"
         },
         {
             "title": "After 25 years, I finally asked for separate checks — and my friends iced me out. Did I do something terrible?",
             "link": "https://www.marketwatch.com/story/after-25-years-i-finally-asked-for-separate-checks-and-my-friends-iced-me-out-did-i-do-something-terrible-96ae66c5?mod=mw_rss_topstories",
             "summary": "“With each year I got angrier and angrier, so it was time to move on,” he said. “With every year I became more and more angry.”",
-            "date": "Tue, 27 May 2025 13:00:00 GMT",
+            "date": "Wed, 28 May 2025 13:02:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AFTM",
+            "stock_ticker": "AAG.V",
             "impact": "Neutral"
         },
         {
-            "title": "Business investment posts biggest drop in 6 months. Trade wars still disrupting economy.",
-            "link": "https://www.marketwatch.com/story/business-investment-posts-biggest-drop-in-6-months-trade-wars-still-disrupting-economy-046a92d1?mod=mw_rss_topstories",
-            "summary": "A key measure of business investment posted the biggest decline in six months in April. Companies froze spending to try to navigate on-again, off-again tariffs.",
-            "date": "Tue, 27 May 2025 12:50:00 GMT",
+            "title": "Abercrombie’s stock back in rally mode as outlook shows tariffs won’t hurt sales",
+            "link": "https://www.marketwatch.com/story/abercrombies-stock-back-in-rally-mode-as-outlook-shows-tariffs-wont-hurt-sales-e739cf2f?mod=mw_rss_topstories",
+            "summary": "Hollister reports a big jump in Hollister sales and an improved sales-growth outlook. Stock heads for best day in two years after a quarterly earnings beat.",
+            "date": "Wed, 28 May 2025 12:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBM",
+            "stock_ticker": "VTI",
             "impact": "Neutral"
+        },
+        {
+            "title": "The ‘TACO trade’ is the talk of Wall Street. Here’s one way to play it.",
+            "link": "https://www.marketwatch.com/story/the-taco-trade-is-the-talk-of-wall-street-heres-one-way-to-play-it-b4dea7be?mod=mw_rss_topstories",
+            "summary": "The ‘TACO trade’ has captured the mood as investors and analysts attempt to make sense of the roller-coaster market action.",
+            "date": "Wed, 28 May 2025 12:37:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The best scenario for 2025 is stocks go nowhere, says this strategist. Here’s where he says to camp out instead.",
+            "link": "https://www.marketwatch.com/story/the-best-scenario-for-2025-is-stocks-go-nowhere-says-this-strategist-heres-where-he-says-to-camp-out-instead-266c0914?mod=mw_rss_topstories",
+            "summary": "Fidelity Investments’ Jurrien Timmer calls this a “damned-if-you-do-market,” that’s setting up for a rangebound 2025.",
+            "date": "Wed, 28 May 2025 12:26:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Bullish"
         }
     ]
 }
