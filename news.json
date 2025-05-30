@@ -1,95 +1,71 @@
 {
-    "date": "2025-05-29",
+    "date": "2025-05-30",
     "news": [
         {
-            "title": "3 key takeaways from Nvidia's earnings: China blow, cloud strength and AI future",
-            "link": "https://www.cnbc.com/2025/05/29/nvidia-stock-earnings-china.html",
-            "summary": "The company's data center division continues to surge as companies, countries, and cloud providers snap up GPUs for artificial intelligence software. The company also continues to expand its cloud division.",
-            "date": "Thu, 29 May 2025 13:21:15 GMT",
+            "title": "Trump accuses China of violating preliminary trade deal",
+            "link": "https://www.cnbc.com/2025/05/30/trump-china-tariffs-trade-futures.html",
+            "summary": "The U.S. and China in mid-May agreed to a 90-day suspension on most tariffs after Trump slapped sky-high tariffs on the big trade partner.",
+            "date": "Fri, 30 May 2025 13:16:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SOXL",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Federal trade court strikes down Trump's reciprocal tariffs",
-            "link": "https://www.cnbc.com/2025/05/29/court-strikes-down-trump-reciprocal-tariffs.html",
-            "summary": "The Supreme Court could end up ruling if Trump has authority under the International Emergency Economic Powers Act to impose universal duties on imports. The case is expected to be heard by the end of the month.",
-            "date": "Thu, 29 May 2025 12:33:17 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZQ=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "United Airlines plans to return to JFK — again — in new partnership with JetBlue",
-            "link": "https://www.cnbc.com/2025/05/29/united-airlines-jetblue-airways-partnership-return-jfk.html",
-            "summary": "United and JetBlue announced a new partnership that will allow customers to earn and burn frequent flyer points on each other's airline. United and Jet Blue announced a partnership that allows customers to Earn and burn Frequent Flyer Points on Each other's Airline.",
-            "date": "Thu, 29 May 2025 13:08:35 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "UNH",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "E.l.f. Beauty to acquire Hailey Bieber skincare brand Rhode in deal valued up to $1 billion",
-            "link": "https://www.cnbc.com/2025/05/28/elf-beauty-to-acquire-hailey-bieber-brand-rhode-in-1-billion-deal.html",
-            "summary": "E.l.f. Beauty is acquiring Hailey Bieber's skincare brand Rhode for up to $1 billion as it looks to reach higher-income shoppers.",
-            "date": "Thu, 29 May 2025 12:27:58 GMT",
+            "title": "Inflation rate slipped to 2.1% in April, lower than expected, Fed’s preferred gauge shows",
+            "link": "https://www.cnbc.com/2025/05/30/inflation-rate-slipped-to-2point1percent-in-april-lower-than-expected-feds-preferred-gauge-shows.html",
+            "summary": "The personal consumption expenditures price index was expected to show a 2.2% annual rate in April. The personal consumption expenditure price index is a measure of inflation in the U.S.",
+            "date": "Fri, 30 May 2025 12:54:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELF",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Best Buy cuts full-year sales and profit guidance as tariffs raise cost of electronics",
-            "link": "https://www.cnbc.com/2025/05/29/best-buy-bby-q1-2026-earnings-.html",
-            "summary": "Best Buy posted better-than-expected first-quarter earnings but cut its outlook. President Donald Trump's tariffs raise the cost of imported electronics.",
-            "date": "Thu, 29 May 2025 13:00:16 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BBY",
+            "stock_ticker": "TCILX",
             "impact": "Neutral"
         },
         {
-            "title": "CEO confidence registers sharpest fall-off in a half-century, new survey finds",
-            "link": "https://www.marketwatch.com/story/ceo-confidence-plummets-by-the-most-in-a-half-century-new-survey-finds-58253216?mod=mw_rss_topstories",
-            "summary": "Chief executive confidence fell in the second quarter by the most in the nearly 50 years the poll has been conducted. A measure of chief executive confidence has fallen in the last three months.",
-            "date": "Thu, 29 May 2025 13:14:00 GMT",
+            "title": "Caviar and privacy: Airlines' business-class wars are here",
+            "link": "https://www.cnbc.com/2025/05/30/business-class-air-travel-united-delta-american.html",
+            "summary": "American and United are revamping their international business class. The two airlines will be flying from New York to London and from London to Paris. American and United will also be flying to Paris and Madrid.",
+            "date": "Fri, 30 May 2025 12:34:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^WCEO-TC",
+            "stock_ticker": "AMAL.RO",
             "impact": "Neutral"
         },
         {
-            "title": "Best Buy’s stock drops after it cuts profit outlook on tariff impact",
-            "link": "https://www.marketwatch.com/story/best-buys-stock-drops-after-it-cuts-profit-outlook-on-tariff-impact-ce97a764?mod=mw_rss_topstories",
-            "summary": "Best Buy predicts that tariffs will stay at current levels for the rest of the year. The company doesn't see a change in consumer behavior.",
-            "date": "Thu, 29 May 2025 13:02:00 GMT",
+            "title": "U.S. foreign tax bill sends jitters across Wall Street",
+            "link": "https://www.cnbc.com/2025/05/30/us-set-to-weaponize-taxes-on-foreign-investors-via-section-899.html",
+            "summary": "Trump's \"One Big Beautiful Bill Act,\" if enshrined into law, could transform the current trade conflict into a capital war, investment banks say.",
+            "date": "Fri, 30 May 2025 13:17:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBY",
+            "stock_ticker": "F1ESGA.SW",
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia results are proof the tech sector is worth investor loyalty, says strategist who recommended buying at April lows",
-            "link": "https://www.marketwatch.com/story/nvidia-results-are-proof-the-tech-sector-is-worth-investor-loyalty-says-strategist-who-recommending-buying-at-april-lows-f155ee83?mod=mw_rss_topstories",
-            "summary": "Ross Mayfield, investment strategist at Baird, says tech has been the ‘clearest opportunity’ in a year mired by politics.",
-            "date": "Thu, 29 May 2025 12:57:00 GMT",
+            "title": "As EVs stumble, automakers are bringing back a kind of hybrid that promises long range",
+            "link": "https://www.cnbc.com/2025/05/30/automakers-bringing-back-a-kind-of-hybrid-that-promises-long-range-.html",
+            "summary": "Extended range hybrid electric vehicle auto came and went with models like the Chevy Volt and BMW i3. But it may be poised for a comeback.",
+            "date": "Fri, 30 May 2025 13:04:09 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia needs to show investors the future. Its CEO is sure he’s found the answer.",
+            "link": "https://www.marketwatch.com/story/nvidias-next-act-bringing-ai-and-robots-into-your-life-d85a6fdc?mod=mw_rss_topstories",
+            "summary": "Jensen Huang, CEO of Nvidia, talks about the company's future. He says AI and robots are part of our daily lives, and Nvidia plays a key role.",
+            "date": "Fri, 30 May 2025 13:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "Jobless claims jump to 5-week high — but not because layoffs in the U.S. are rising",
-            "link": "https://www.marketwatch.com/story/jobless-claims-jump-to-5-week-high-but-not-because-layoffs-are-rising-a7891a22?mod=mw_rss_topstories",
-            "summary": "There’s little sign U.S. businesses are laying off more workers and preparing for bad times. Several months after the Trump White House triggered the biggest global trade wars in decades.",
-            "date": "Thu, 29 May 2025 12:54:00 GMT",
+            "title": "Airbnb’s stock is now a sell, as a weak summer for leisure travel looms, analyst says",
+            "link": "https://www.marketwatch.com/story/airbnbs-stock-is-now-a-sell-as-a-weak-summer-for-leisure-travel-looms-analyst-says-7c34f097?mod=mw_rss_topstories",
+            "summary": "Analysts cut price targets across the U.S. hotel sector. Expectations dip on wavering consumer confidence and a drop in inbound international travel.",
+            "date": "Fri, 30 May 2025 13:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CLA18371-USD",
+            "stock_ticker": "VTI",
             "impact": "Neutral"
         },
         {
-            "title": "Economy shrank 0.2% in the first quarter, updated GDP shows, as trade wars sapped U.S. growth",
-            "link": "https://www.marketwatch.com/story/economy-shrank-0-2-in-the-first-quarter-updated-gdp-shows-as-trade-wars-sapped-u-s-growth-56139c24?mod=mw_rss_topstories",
-            "summary": "U.S. GDP seen partly rebounding in second quarter. China's economy expected to grow by 0.3% in the second quarter, up 0.4%.",
-            "date": "Thu, 29 May 2025 12:45:00 GMT",
+            "title": "Inflation rate slows again and almost hits Fed’s 2% goal, but trade wars could spoil the party",
+            "link": "https://www.marketwatch.com/story/u-s-inflation-rate-slows-again-but-trade-wars-are-a-wild-card-ea1e4330?mod=mw_rss_topstories",
+            "summary": "The cost of living barely rose in April. The rate of inflation slowed even closer to prepandemic levels. It's unclear whether the recent progress can be sustained as the trade wars drag on.",
+            "date": "Fri, 30 May 2025 13:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001OXRE.F",
+            "stock_ticker": "TCILX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "United CEO says budget airlines ‘screw the customer’ — but apparently new partner JetBlue is an exception",
+            "link": "https://www.marketwatch.com/story/united-ceo-says-budget-airlines-screw-the-customer-but-apparently-new-partner-jetblue-is-an-exception-93f8fb8c?mod=mw_rss_topstories",
+            "summary": "Kirby was speaking at WSJ’s Future of Everything festival. Kirby: “Newark is safe” in the wake of outages and cancellations.",
+            "date": "Fri, 30 May 2025 12:43:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^WCEO-TC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Consumer spending softened as tariffs kicked in. Anxious Americans saved more in April.",
+            "link": "https://www.marketwatch.com/story/consumer-spending-softened-as-tariffs-kicked-in-anxious-americans-saved-more-in-april-7317128a?mod=mw_rss_topstories",
+            "summary": "Trade wars weigh on household spending in U.S. Household spending up 0.3% in July, down 0.4% in year-to-date.",
+            "date": "Fri, 30 May 2025 12:42:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "XPT=F",
             "impact": "Neutral"
         }
     ]
