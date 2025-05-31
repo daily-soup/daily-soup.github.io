@@ -1,124 +1,124 @@
 {
-    "date": "2025-05-30",
+    "date": "2025-05-31",
     "news": [
         {
-            "title": "Trump accuses China of violating preliminary trade deal",
-            "link": "https://www.cnbc.com/2025/05/30/trump-china-tariffs-trade-futures.html",
-            "summary": "The U.S. and China in mid-May agreed to a 90-day suspension on most tariffs after Trump slapped sky-high tariffs on the big trade partner.",
-            "date": "Fri, 30 May 2025 13:16:59 GMT",
+            "title": "Saylor's bitcoin buying strategy is 'exploding' globally, but Wall Street is skeptical",
+            "link": "https://www.cnbc.com/2025/05/31/saylor-bitcoin-buying-strategy-exploding-but-wall-street-skeptical.html",
+            "summary": "Michael Saylor says he's seen other companies replicate his strategy of using cash to buy bitcoin. Michael Saylor applauds efforts by other companies to replicate his Strategy of Using Cash to Buy Bitcoin.",
+            "date": "Sat, 31 May 2025 12:37:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "BTC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Inflation rate slipped to 2.1% in April, lower than expected, Fed’s preferred gauge shows",
-            "link": "https://www.cnbc.com/2025/05/30/inflation-rate-slipped-to-2point1percent-in-april-lower-than-expected-feds-preferred-gauge-shows.html",
-            "summary": "The personal consumption expenditures price index was expected to show a 2.2% annual rate in April. The personal consumption expenditure price index is a measure of inflation in the U.S.",
-            "date": "Fri, 30 May 2025 12:54:14 GMT",
+            "title": "Pentagon chief says ready to 'fight and win' against China, urges Asian allies to boost defense spending",
+            "link": "https://www.cnbc.com/2025/05/31/pentagon-chief-hegseth-says-us-ready-to-fight-and-win-against-china.html",
+            "summary": "Hegseth played up the U.S.'s enduring commitment to the Indo-Pacific region. He took swipes at the absence of China's defense minister Dong Jun.",
+            "date": "Sat, 31 May 2025 04:33:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TCILX",
+            "stock_ticker": "PENTAGON-SM.NS",
+            "impact": "Bullish"
+        },
+        {
+            "title": "DoorDash CEO Tony Xu is taking on the role of industry consolidator in food delivery",
+            "link": "https://www.cnbc.com/2025/05/31/doordash-ceo-tony-xu-is-new-industry-consolidator-in-food-delivery.html",
+            "summary": "DoorDash CEO Tony Xu has spent 12 years building his food delivery company from an upstart into a big acquirer. Xu: \"We're in the business of making people happy. We're not in it for the money\"",
+            "date": "Sat, 31 May 2025 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DASH",
+            "impact": "Bullish"
+        },
+        {
+            "title": "This is why Jamie Dimon is always so gloomy on the economy",
+            "link": "https://www.cnbc.com/2025/05/30/jpmorgan-chase-jamie-dimon-economy.html",
+            "summary": "JPMorgan Chase CEO Jamie Dimon has regularly warned that the U.S. economy faces perils. But even as he sounds the alarm, his bank is doing better than ever.",
+            "date": "Fri, 30 May 2025 18:59:12 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "S2819.MC",
             "impact": "Neutral"
         },
         {
-            "title": "Caviar and privacy: Airlines' business-class wars are here",
-            "link": "https://www.cnbc.com/2025/05/30/business-class-air-travel-united-delta-american.html",
-            "summary": "American and United are revamping their international business class. The two airlines will be flying from New York to London and from London to Paris. American and United will also be flying to Paris and Madrid.",
-            "date": "Fri, 30 May 2025 12:34:22 GMT",
+            "title": "Lyft is starting to make some right moves with urging from activist Engine Capital. What's next",
+            "link": "https://www.cnbc.com/2025/05/31/lyft-is-starting-to-make-some-right-moves-with-urging-from-activist-engine-capital-whats-next.html",
+            "summary": "Ken Squire breaks down the Engine position in Lyft. Ken Squire: Lyft's Engine position will be key to the success of the company. He says the company will need to be able to compete with Uber and Lyft.",
+            "date": "Sat, 31 May 2025 12:18:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMAL.RO",
+            "stock_ticker": "LYFT",
+            "impact": "Bearish"
+        },
+        {
+            "title": "‘The situation is extreme’: I’m 65 and leaving my estate to only one grandchild. Can the others contest my will?",
+            "link": "https://www.marketwatch.com/story/the-situation-is-extreme-im-65-and-leaving-my-estate-to-only-one-grandchild-can-the-others-contest-my-will-4d107fe1?mod=mw_rss_topstories",
+            "summary": "“I feel it is absolutely necessary to leave about 90% of what I have to just one grandchild,” he said.",
+            "date": "Sat, 31 May 2025 13:19:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. foreign tax bill sends jitters across Wall Street",
-            "link": "https://www.cnbc.com/2025/05/30/us-set-to-weaponize-taxes-on-foreign-investors-via-section-899.html",
-            "summary": "Trump's \"One Big Beautiful Bill Act,\" if enshrined into law, could transform the current trade conflict into a capital war, investment banks say.",
-            "date": "Fri, 30 May 2025 13:17:06 GMT",
+            "title": "Why the government’s debt problem is your borrowing problem — but also your opportunity to save",
+            "link": "https://www.marketwatch.com/story/why-the-governments-debt-problem-is-your-borrowing-problem-but-also-your-opportunity-to-save-1201543c?mod=mw_rss_topstories",
+            "summary": "People shopping for a car loan or a mortgage should understand the implications of high bond yields. People shopping for car loans or mortgages should understand high bond yield implications.",
+            "date": "Sat, 31 May 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "F1ESGA.SW",
+            "stock_ticker": "WHY30867-USD",
             "impact": "Neutral"
         },
         {
-            "title": "As EVs stumble, automakers are bringing back a kind of hybrid that promises long range",
-            "link": "https://www.cnbc.com/2025/05/30/automakers-bringing-back-a-kind-of-hybrid-that-promises-long-range-.html",
-            "summary": "Extended range hybrid electric vehicle auto came and went with models like the Chevy Volt and BMW i3. But it may be poised for a comeback.",
-            "date": "Fri, 30 May 2025 13:04:09 GMT",
+            "title": "Can media company spinoffs of brands like CNN and CNBC be good for investors? Here’s what history tells us.",
+            "link": "https://www.marketwatch.com/story/can-media-company-spinoffs-of-brands-like-cnn-and-cnbc-be-good-for-investors-heres-what-history-tells-us-44c9e2b8?mod=mw_rss_topstories",
+            "summary": "Recent corporate media spinoffs have been a mixed bag, with many failing due to the way they were set up, Wall Street analysts say.",
+            "date": "Sat, 31 May 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AS",
+            "stock_ticker": "CAN",
+            "impact": "Bullish"
+        },
+        {
+            "title": "‘I am getting very frustrated’: My mother’s adviser has not returned my calls. He manages $1 million. Is this normal?",
+            "link": "https://www.marketwatch.com/story/i-am-getting-very-frustrated-my-mothers-adviser-has-not-returned-my-calls-he-manages-1-million-is-this-normal-346d87ab?mod=mw_rss_topstories",
+            "summary": "“I am not used to this way of doing business,” he says. “I’m not a businessman. I’ve never been in this way.” “It’s a new way of life. I don’t know what to do with it.’",
+            "date": "Sat, 31 May 2025 11:32:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSLA",
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia needs to show investors the future. Its CEO is sure he’s found the answer.",
-            "link": "https://www.marketwatch.com/story/nvidias-next-act-bringing-ai-and-robots-into-your-life-d85a6fdc?mod=mw_rss_topstories",
-            "summary": "Jensen Huang, CEO of Nvidia, talks about the company's future. He says AI and robots are part of our daily lives, and Nvidia plays a key role.",
-            "date": "Fri, 30 May 2025 13:17:00 GMT",
+            "title": "These 3 corporate tax breaks in the Republican megabill look key for investors",
+            "link": "https://www.marketwatch.com/story/these-3-corporate-tax-breaks-in-the-republican-megabill-look-key-for-investors-c9b32ba6?mod=mw_rss_topstories",
+            "summary": "Many businesses have lost a trio of tax breaks that they have lost in the last few years. A key for many businesses has been to revive these tax breaks.",
+            "date": "Sat, 31 May 2025 11:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Airbnb’s stock is now a sell, as a weak summer for leisure travel looms, analyst says",
-            "link": "https://www.marketwatch.com/story/airbnbs-stock-is-now-a-sell-as-a-weak-summer-for-leisure-travel-looms-analyst-says-7c34f097?mod=mw_rss_topstories",
-            "summary": "Analysts cut price targets across the U.S. hotel sector. Expectations dip on wavering consumer confidence and a drop in inbound international travel.",
-            "date": "Fri, 30 May 2025 13:13:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Inflation rate slows again and almost hits Fed’s 2% goal, but trade wars could spoil the party",
-            "link": "https://www.marketwatch.com/story/u-s-inflation-rate-slows-again-but-trade-wars-are-a-wild-card-ea1e4330?mod=mw_rss_topstories",
-            "summary": "The cost of living barely rose in April. The rate of inflation slowed even closer to prepandemic levels. It's unclear whether the recent progress can be sustained as the trade wars drag on.",
-            "date": "Fri, 30 May 2025 13:06:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TCILX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "United CEO says budget airlines ‘screw the customer’ — but apparently new partner JetBlue is an exception",
-            "link": "https://www.marketwatch.com/story/united-ceo-says-budget-airlines-screw-the-customer-but-apparently-new-partner-jetblue-is-an-exception-93f8fb8c?mod=mw_rss_topstories",
-            "summary": "Kirby was speaking at WSJ’s Future of Everything festival. Kirby: “Newark is safe” in the wake of outages and cancellations.",
-            "date": "Fri, 30 May 2025 12:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "^WCEO-TC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Consumer spending softened as tariffs kicked in. Anxious Americans saved more in April.",
-            "link": "https://www.marketwatch.com/story/consumer-spending-softened-as-tariffs-kicked-in-anxious-americans-saved-more-in-april-7317128a?mod=mw_rss_topstories",
-            "summary": "Trade wars weigh on household spending in U.S. Household spending up 0.3% in July, down 0.4% in year-to-date.",
-            "date": "Fri, 30 May 2025 12:42:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "XPT=F",
+            "stock_ticker": "ZQ=F",
             "impact": "Neutral"
         }
     ]
