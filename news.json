@@ -1,71 +1,71 @@
 {
-    "date": "2025-06-03",
+    "date": "2025-06-04",
     "news": [
         {
-            "title": "Constellation Energy rallies 15% on Meta nuclear power deal",
-            "link": "https://www.cnbc.com/2025/06/03/meta-signs-nuclear-power-deal-with-constellation-energy-.html",
-            "summary": " Meta has signed a 20-year agreement to buy nuclear power from Constellation Energy. It is the latest in a wave of tech giants teaming up with the industry.",
-            "date": "Tue, 03 Jun 2025 12:58:33 GMT",
+            "title": "Private sector hiring rose by just 37,000 in May, the lowest in more than two years, ADP says",
+            "link": "https://www.cnbc.com/2025/06/04/adp-jobs-report-may-2025-.html",
+            "summary": "The report comes two days before the more closely watched nonfarm payrolls count. The Bureau of Labor Statistics will release its report two days later.",
+            "date": "Wed, 04 Jun 2025 13:23:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "STZ",
-            "impact": "Bullish"
-        },
-        {
-            "title": "U.S. growth forecast cut sharply by OECD as Trump tariffs sour global outlook",
-            "link": "https://www.cnbc.com/2025/06/03/us-growth-forecast-cut-further-by-oecd-as-trump-tariffs-sour-outlook.html",
-            "summary": "The U.S. economy is now expected to expand by just 1.6% in 2025. The global economy is set to grow by 2.9%.",
-            "date": "Tue, 03 Jun 2025 09:43:50 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "XOVR",
             "impact": "Neutral"
         },
         {
-            "title": "Ford reports 16% sales increase in May amid employee pricing, tariffs",
-            "link": "https://www.cnbc.com/2025/06/03/ford-auto-sales-may-tariffs.html",
-            "summary": "Ford reported a 16.3% year-over-year sales increase for May. The automaker continues an employee pricing program amid rising tariff costs.",
-            "date": "Tue, 03 Jun 2025 13:20:48 GMT",
+            "title": "Trump says 'Too Late' Powell must lower interest rates after weak ADP jobs report",
+            "link": "https://www.cnbc.com/2025/06/04/trump-powell-adp-jobs.html",
+            "summary": "Trump has branded Powell with the nickname \"Too Late\" as a criticism of the Fed Chair's continuing decision to hold interest rates steady.",
+            "date": "Wed, 04 Jun 2025 13:25:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FORD",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Alaska Airlines to make Europe debut with Rome flights next year",
-            "link": "https://www.cnbc.com/2025/06/03/alaska-airlines-europe-rome-flights.html",
-            "summary": "Alaska Airlines is planning to offer flights to Rome. The airline is also planning to launch flights to New York and Los Angeles. Alaska Airlines will also be offering flights to Paris, Madrid and Barcelona.",
-            "date": "Tue, 03 Jun 2025 13:07:54 GMT",
+            "title": "Trump says ‘extremely hard’ to make a deal with China’s Xi as trade stalemate fuels calls for leaders to talk",
+            "link": "https://www.cnbc.com/2025/06/04/trump-says-extremely-hard-to-make-a-deal-with-china-president-xi-.html",
+            "summary": "The two countries have blamed each other for violating a trade agreement reached in Switzerland on May 12. The two countries are now at odds over who is to blame for the alleged violation.",
+            "date": "Wed, 04 Jun 2025 10:40:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ALK",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Klarna takes on banks with debit card as it diversifies beyond buy now, pay later",
-            "link": "https://www.cnbc.com/2025/06/03/klarna-takes-on-banks-with-its-own-debit-card.html",
-            "summary": "Swedish fintech has been trying to shift its image from \"buy now, pay later\" poster child to a more all-encompassing banking player.",
-            "date": "Tue, 03 Jun 2025 11:04:26 GMT",
+            "title": "Average 401(k) balances drop 3% due to market volatility, Fidelity says",
+            "link": "https://www.cnbc.com/2025/06/04/average-401k-balances-fall-due-to-market-volatility-fidelity-says.html",
+            "summary": "Fidelity Investments is the largest 401(k) provider in the U.S. Retirement account balances fell in the first quarter of 2025.",
+            "date": "Wed, 04 Jun 2025 12:54:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ON",
+            "stock_ticker": "^DJI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Government collapse plunges Netherlands in turmoil ahead of key NATO summit",
+            "link": "https://www.cnbc.com/2025/06/04/dutch-government-collapse-strands-netherlands-ahead-of-key-nato-summit.html",
+            "summary": "Right-wing leader Geert Wilders' exit from government ended the already fragile Dutch coalition. Wilders had been in power for just 11 months.",
+            "date": "Wed, 04 Jun 2025 12:26:24 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DEA",
             "impact": "Neutral"
         },
         {
             "title": "‘I’m afraid to ask her’: My stepmother won’t show me my father’s will. What now?",
             "link": "https://www.marketwatch.com/story/im-afraid-to-ask-her-my-stepmother-wont-show-me-my-fathers-will-what-now-94da1a6f?mod=mw_rss_topstories",
             "summary": "“She treats my sibling and me as virtual strangers,” she said. “She’s like a stranger to me.”",
-            "date": "Tue, 03 Jun 2025 13:19:00 GMT",
+            "date": "Wed, 04 Jun 2025 13:08:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "What on Earth is going on with the American consumer?",
-            "link": "https://www.marketwatch.com/story/what-on-earth-is-going-on-with-the-american-consumer-d594ed5b?mod=mw_rss_topstories",
-            "summary": "U.S. workers are not sure whether to buy that new car — or brace for a recession. U.S.-born workers are the fastest-growing group in the world, according to a new survey.",
-            "date": "Tue, 03 Jun 2025 13:15:00 GMT",
+            "title": "The smart money has cashed out big from these trendy funds. Now managers want the rest of us to buy in.",
+            "link": "https://www.marketwatch.com/story/the-smart-money-has-cashed-out-big-from-these-trendy-funds-now-managers-want-the-rest-of-us-to-buy-in-40f8cd35?mod=mw_rss_topstories",
+            "summary": "Private-equity funds are increasingly available to retail investors. Be careful. Private- equity funds are often used to invest in real estate and real estate development.",
+            "date": "Wed, 04 Jun 2025 12:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WAT-P.V",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "OECD reduces U.S. economic-growth forecasts for 2025 and 2026. Again.",
-            "link": "https://www.marketwatch.com/story/oecd-chops-u-s-growth-forecasts-cites-risks-to-the-downside-as-tariffs-bite-42be736c?mod=mw_rss_topstories",
-            "summary": "The Paris-based global policy forum now sees U.S. growth at just 1.6% this year, and global growth at 2.9%.",
-            "date": "Tue, 03 Jun 2025 13:03:00 GMT",
+            "title": "Wells Fargo just got a green light from the Fed to grow. Here’s what it means for its business and its stock.",
+            "link": "https://www.marketwatch.com/story/wells-fargo-just-got-a-green-light-from-the-fed-to-grow-heres-what-it-means-for-its-business-and-its-stock-ecde4650?mod=mw_rss_topstories",
+            "summary": "Wells Fargo cleared major obstacle to its growth plans, opening the way for the bank to grow after years of restrictions related to its fake-accounts scandal.",
+            "date": "Wed, 04 Jun 2025 12:42:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^703511-USD-NETR",
+            "stock_ticker": "WFC",
             "impact": "Neutral"
         },
         {
-            "title": "Meta’s AI ambitions are sending this nuclear-power stock surging",
-            "link": "https://www.marketwatch.com/story/metas-ai-ambitions-are-sending-this-nuclear-power-stock-surging-ad9c91ae?mod=mw_rss_topstories",
-            "summary": " Meta announced a 20-year agreement with Constellation Energy for nuclear power to support its AI development. Tech giant Meta announced an agreement to use nuclear power for 20 years to power its AI research.",
-            "date": "Tue, 03 Jun 2025 13:03:00 GMT",
+            "title": "He spotted weight-loss drugs and AI before they became hot. Here’s this investor’s next big idea.",
+            "link": "https://www.marketwatch.com/story/he-spotted-weight-loss-drugs-and-ai-before-they-became-hot-heres-this-investors-next-big-idea-dfb6936e?mod=mw_rss_topstories",
+            "summary": "James van Geelen is the founder of Citrini Research. He is focused on the next stage of AI, surrounding humanoid robots.",
+            "date": "Wed, 04 Jun 2025 12:41:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "H1N.F",
-            "impact": "Bullish"
+            "stock_ticker": "HE",
+            "impact": "Neutral"
         },
         {
-            "title": "Why it’ll be a sizzling summer for these underdog stocks",
-            "link": "https://www.marketwatch.com/story/why-itll-be-a-sizzling-summer-for-these-underdog-stocks-1cd2ae60?mod=mw_rss_topstories",
-            "summary": "Evercore strategists say June is traditionally the best month to buy small-cap stocks. Small-caps have had a tough 2025 so far.",
-            "date": "Tue, 03 Jun 2025 12:56:00 GMT",
+            "title": "Trade wars dent hiring, ADP finds: Paltry 37,000 gain in private jobs smallest since 2023",
+            "link": "https://www.marketwatch.com/story/trade-wars-dent-hiring-adp-says-businesses-created-a-paltry-37-000-private-sector-jobs-last-month-3e99a317?mod=mw_rss_topstories",
+            "summary": "Privately run businesses created just 37,000 new jobs in May. It was the smallest increase in more than two years. The worst global trade wars since the 1930s spurred many firms to put a pause on hiring.",
+            "date": "Wed, 04 Jun 2025 12:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYCX",
+            "stock_ticker": "TTD",
             "impact": "Neutral"
         }
     ]
