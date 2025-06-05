@@ -1,23 +1,23 @@
 {
-    "date": "2025-06-04",
+    "date": "2025-06-05",
     "news": [
         {
-            "title": "Private sector hiring rose by just 37,000 in May, the lowest in more than two years, ADP says",
-            "link": "https://www.cnbc.com/2025/06/04/adp-jobs-report-may-2025-.html",
-            "summary": "The report comes two days before the more closely watched nonfarm payrolls count. The Bureau of Labor Statistics will release its report two days later.",
-            "date": "Wed, 04 Jun 2025 13:23:29 GMT",
+            "title": "Here's how tariffs could affect the price of goods like shoes and sweaters",
+            "link": "https://www.cnbc.com/2025/06/05/trump-tariffs-news-how-prices-could-change.html",
+            "summary": "A model from AlixPartners shows what items like sweaters and shoes imported from Vietnam could cost under President Donald Trump's tariff plans.",
+            "date": "Thu, 05 Jun 2025 13:28:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XOVR",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says 'Too Late' Powell must lower interest rates after weak ADP jobs report",
-            "link": "https://www.cnbc.com/2025/06/04/trump-powell-adp-jobs.html",
-            "summary": "Trump has branded Powell with the nickname \"Too Late\" as a criticism of the Fed Chair's continuing decision to hold interest rates steady.",
-            "date": "Wed, 04 Jun 2025 13:25:26 GMT",
+            "title": "Trump holds call with Xi, Chinese media says",
+            "link": "https://www.cnbc.com/2025/06/05/trump-held-call-with-xi-chinese-media-says.html",
+            "summary": "The call comes as trade relations between China and the U.S. have come under strain. The two sides tentatively agreed to lower tariffs in the weeks after the deal was reached.",
+            "date": "Thu, 05 Jun 2025 13:28:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,46 +26,58 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump says ‘extremely hard’ to make a deal with China’s Xi as trade stalemate fuels calls for leaders to talk",
-            "link": "https://www.cnbc.com/2025/06/04/trump-says-extremely-hard-to-make-a-deal-with-china-president-xi-.html",
-            "summary": "The two countries have blamed each other for violating a trade agreement reached in Switzerland on May 12. The two countries are now at odds over who is to blame for the alleged violation.",
-            "date": "Wed, 04 Jun 2025 10:40:03 GMT",
+            "title": "10-year Treasury yield falls after jobless claims increase",
+            "link": "https://www.cnbc.com/2025/06/05/us-treasury-yields-april-trade-data-initial-jobless-claims.html",
+            "summary": "U.S. Treasury yields held steady Thursday. Investors weigh the state of the economy following a slate of disappointing U.N. data.",
+            "date": "Thu, 05 Jun 2025 13:09:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "ZN=F",
             "impact": "Neutral"
         },
         {
-            "title": "Average 401(k) balances drop 3% due to market volatility, Fidelity says",
-            "link": "https://www.cnbc.com/2025/06/04/average-401k-balances-fall-due-to-market-volatility-fidelity-says.html",
-            "summary": "Fidelity Investments is the largest 401(k) provider in the U.S. Retirement account balances fell in the first quarter of 2025.",
-            "date": "Wed, 04 Jun 2025 12:54:07 GMT",
+            "title": "Nintendo Switch 2 hype leads to shortages, special store opening hours",
+            "link": "https://www.cnbc.com/2025/06/05/nintendo-switch-2-launch-shortages-special-opening-hours-amid-hype.html",
+            "summary": "Nintendo says it expects to sell 15 million Switch 2s in the fiscal year ending March 2026. Analysts say that estimate is conservative.",
+            "date": "Thu, 05 Jun 2025 13:20:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^DJI",
+            "stock_ticker": "NTDOY",
             "impact": "Neutral"
         },
         {
-            "title": "Government collapse plunges Netherlands in turmoil ahead of key NATO summit",
-            "link": "https://www.cnbc.com/2025/06/04/dutch-government-collapse-strands-netherlands-ahead-of-key-nato-summit.html",
-            "summary": "Right-wing leader Geert Wilders' exit from government ended the already fragile Dutch coalition. Wilders had been in power for just 11 months.",
-            "date": "Wed, 04 Jun 2025 12:26:24 GMT",
+            "title": "NBA team sponsorship revenue up 8% to $1.6 billion, boosted by jersey patches",
+            "link": "https://www.cnbc.com/2025/06/05/nba-team-sponsorship-up-jersey-patches.html",
+            "summary": "Growth in sponsorships comes on the heels of the NBA's landmark $77 billion media rights deal. The new deal begins next season.",
+            "date": "Thu, 05 Jun 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DEA",
+            "stock_ticker": "NBARX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Jobless claims jump to 8-month high. But it’s probably not a sign of rising layoffs resulting from trade wars.",
+            "link": "https://www.marketwatch.com/story/jobless-claims-jump-to-8-month-high-but-its-probably-not-a-sign-of-rising-layoffs-from-trade-wars-fa4371b7?mod=mw_rss_topstories",
+            "summary": "The number of people who applied for unemployment benefits last week jumped to an eight-month high. The details of the government’s report show little evidence of a tariff-related rise in layoffs.",
+            "date": "Thu, 05 Jun 2025 13:29:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CLA18371-USD",
             "impact": "Neutral"
         },
         {
             "title": "‘I’m afraid to ask her’: My stepmother won’t show me my father’s will. What now?",
             "link": "https://www.marketwatch.com/story/im-afraid-to-ask-her-my-stepmother-wont-show-me-my-fathers-will-what-now-94da1a6f?mod=mw_rss_topstories",
             "summary": "“She treats my sibling and me as virtual strangers,” she said. “She’s like a stranger to me.”",
-            "date": "Wed, 04 Jun 2025 13:08:00 GMT",
+            "date": "Thu, 05 Jun 2025 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "The smart money has cashed out big from these trendy funds. Now managers want the rest of us to buy in.",
-            "link": "https://www.marketwatch.com/story/the-smart-money-has-cashed-out-big-from-these-trendy-funds-now-managers-want-the-rest-of-us-to-buy-in-40f8cd35?mod=mw_rss_topstories",
-            "summary": "Private-equity funds are increasingly available to retail investors. Be careful. Private- equity funds are often used to invest in real estate and real estate development.",
-            "date": "Wed, 04 Jun 2025 12:45:00 GMT",
+            "title": "Buy-the-dip retail investors are getting bolder, just when the risks are getting bigger, say analysts",
+            "link": "https://www.marketwatch.com/story/buy-the-dip-retail-investors-are-getting-bolder-just-when-the-risks-are-getting-bigger-say-analysts-d06491c9?mod=mw_rss_topstories",
+            "summary": "Retail investors took a victory lap after their successful April buy-the-dip move. But analysts and strategists worry they are about to run into trouble.",
+            "date": "Thu, 05 Jun 2025 13:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "DIP31195-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Wells Fargo just got a green light from the Fed to grow. Here’s what it means for its business and its stock.",
-            "link": "https://www.marketwatch.com/story/wells-fargo-just-got-a-green-light-from-the-fed-to-grow-heres-what-it-means-for-its-business-and-its-stock-ecde4650?mod=mw_rss_topstories",
-            "summary": "Wells Fargo cleared major obstacle to its growth plans, opening the way for the bank to grow after years of restrictions related to its fake-accounts scandal.",
-            "date": "Wed, 04 Jun 2025 12:42:00 GMT",
+            "title": "Circle’s IPO pricing shows Wall Street is clamoring to buy stock in the stablecoin issuer",
+            "link": "https://www.marketwatch.com/story/circles-ipo-pricing-shows-wall-street-is-clamoring-to-buy-stock-in-the-stablecoin-issuer-7a2434ae?mod=mw_rss_topstories",
+            "summary": "Circle Internet is betting on wider use of its USDC digital currency. USDC is redeemable one-for-one with the U.S. dollar.",
+            "date": "Thu, 05 Jun 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFC",
+            "stock_ticker": "CIUEX",
             "impact": "Neutral"
         },
         {
-            "title": "He spotted weight-loss drugs and AI before they became hot. Here’s this investor’s next big idea.",
-            "link": "https://www.marketwatch.com/story/he-spotted-weight-loss-drugs-and-ai-before-they-became-hot-heres-this-investors-next-big-idea-dfb6936e?mod=mw_rss_topstories",
-            "summary": "James van Geelen is the founder of Citrini Research. He is focused on the next stage of AI, surrounding humanoid robots.",
-            "date": "Wed, 04 Jun 2025 12:41:00 GMT",
+            "title": "AI is ready to take over our wallets and spend our money for us. What could go wrong?",
+            "link": "https://www.marketwatch.com/story/ai-is-ready-to-take-over-our-wallets-and-spend-our-money-for-us-what-could-go-wrong-c834768b?mod=mw_rss_topstories",
+            "summary": "Artificial-intelligence agents help you shop, but are they following your wishes or shaping them? Are they following you wishes or are they shaping your wishes?",
+            "date": "Thu, 05 Jun 2025 12:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trade wars dent hiring, ADP finds: Paltry 37,000 gain in private jobs smallest since 2023",
-            "link": "https://www.marketwatch.com/story/trade-wars-dent-hiring-adp-says-businesses-created-a-paltry-37-000-private-sector-jobs-last-month-3e99a317?mod=mw_rss_topstories",
-            "summary": "Privately run businesses created just 37,000 new jobs in May. It was the smallest increase in more than two years. The worst global trade wars since the 1930s spurred many firms to put a pause on hiring.",
-            "date": "Wed, 04 Jun 2025 12:20:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TTD",
+            "stock_ticker": "AI",
             "impact": "Neutral"
         }
     ]
