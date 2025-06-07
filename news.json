@@ -1,47 +1,11 @@
 {
-    "date": "2025-06-06",
+    "date": "2025-06-07",
     "news": [
         {
-            "title": "U.S. payrolls increased 139,000 in May, more than expected; unemployment at 4.2%",
-            "link": "https://www.cnbc.com/2025/06/06/jobs-report-may-2025.html",
-            "summary": "Nonfarm payrolls were expected to increase 125,000 in May. The unemployment rate stayed at 4.2%. The economy is expected to grow by 0.3% in the second half of the year.",
-            "date": "Fri, 06 Jun 2025 12:54:24 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump 'not interested' in call with Musk, White House official says",
-            "link": "https://www.cnbc.com/2025/06/06/trump-musk-call-bill.html",
-            "summary": "Tesla CEO Elon Musk and President Trump launched a war of words at each other Thursday over Musk's criticism of the Republican's \"One Big, Beautiful\" tax bill.",
-            "date": "Fri, 06 Jun 2025 13:06:35 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Musk vs. Trump drama dominated in DC, but Germany's Merz quietly walked away with a win",
-            "link": "https://www.cnbc.com/2025/06/06/musk-vs-trump-dominated-yet-germanys-merz-walked-away-with-a-win.html",
-            "summary": "German Chancellor Friedrich Merz met with U.S. President Donald Trump. Merz had a full agenda as he met with the president.",
-            "date": "Fri, 06 Jun 2025 12:22:56 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "1I3.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Tesla climbs in premarket trading as stock reels from Trump-Musk drama",
-            "link": "https://www.cnbc.com/2025/06/06/tesla-jumps-5percent-in-premarket-trade-as-stock-reels-from-trump-musk-drama.html",
-            "summary": "The electric vehicle maker lost $152 billion in market cap Thursday as traders reacted to a public feud between Elon Musk and President Donald Trump. The market cap of the company was $1.2 trillion.",
-            "date": "Fri, 06 Jun 2025 13:09:46 GMT",
+            "title": "Tesla already had big problems. Then Musk went to battle with Trump",
+            "link": "https://www.cnbc.com/2025/06/06/tesla-already-had-big-problems-then-musk-went-to-battle-with-trump.html",
+            "summary": "Tesla has spent much of the year dealing with struggling sales and a deteriorating brand. Now CEO Elon Musk has drawn the ire of the president.",
+            "date": "Sat, 07 Jun 2025 12:37:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,75 +14,111 @@
             "impact": "Neutral"
         },
         {
-            "title": "Corporate layoffs have ramped up in recent weeks. Here are the companies making cuts",
-            "link": "https://www.cnbc.com/2025/06/05/corporate-layoffs-companies-making-job-cuts.html",
-            "summary": "Many companies lumped layoffs in with larger cost-cutting strategies. Some have cited artificial intelligence as a factor in layoffs. Some companies have cited Artificial Intelligence (AI) as a reason for layoffs.",
-            "date": "Thu, 05 Jun 2025 22:38:08 GMT",
+            "title": "Slate Auto: Inside the EV startup, stealth production facility backed by Jeff Bezos",
+            "link": "https://www.cnbc.com/2025/06/07/jeff-bezos-slate-auto-ev.html",
+            "summary": "Slate Auto hopes its modular, stripped-down vehicle will be the future of affordable EVs. Slate Auto's modular vehicle has a long road ahead.",
+            "date": "Sat, 07 Jun 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HYG",
+            "stock_ticker": "0P00017AOG.TO",
+            "impact": "Bearish"
+        },
+        {
+            "title": "'Bitcoin Family' hides crypto codes etched onto metal cards on four continents after recent kidnappings",
+            "link": "https://www.cnbc.com/2025/06/07/bitcoin-family-crypto-security-kidnappings.html",
+            "summary": "After a wave of crypto kidnappings, the ‘Bitcoin Family’ replaced its old security system with a decentralized, analog setup spread across four continents.",
+            "date": "Sat, 07 Jun 2025 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BTC=F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Morgan Stanley upgrades this mining stock as best pick to play rare earths",
+            "link": "https://www.cnbc.com/2025/06/07/morgan-stanley-upgrades-mining-stock-as-best-pick-to-play-rare-earths.html",
+            "summary": "Rare earth elements are at the center of the U.S.-China trade fight. They are crucial for electric vehicles and other advanced technology.",
+            "date": "Sat, 07 Jun 2025 12:15:04 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "JPM",
             "impact": "Neutral"
         },
         {
-            "title": "You can find real stock-market bargains now — if you’re willing to break with tradition",
-            "link": "https://www.marketwatch.com/story/heres-where-to-find-real-stock-market-bargains-now-you-just-have-to-be-willing-to-travel-6ab501ca?mod=mw_rss_topstories",
-            "summary": "These ETFs take you far from the U.S. market. These funds are focused on Europe, Asia and the Middle East. They are not focused on the United States, however.",
-            "date": "Fri, 06 Jun 2025 13:23:00 GMT",
+            "title": "Trump presses Fed chief Powell to cut interest rate by full point despite strong jobs report",
+            "link": "https://www.cnbc.com/2025/06/06/trump-powell-fed-rates.html",
+            "summary": "The number of U.S. jobs that was higher than expected makes it unlikely that the Federal Reserve will cut interest rates soon. An increase in the number of US jobs that were higher thanexpected makes it likely that the Fed will cut rates.",
+            "date": "Fri, 06 Jun 2025 17:42:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "YOU",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "After a public breakup, Trump and Musk may — or may not — be ready to tone down their spat. Tesla shares are rebounding.",
-            "link": "https://www.marketwatch.com/story/after-a-public-breakup-trump-musk-may-reportedly-be-ready-to-talk-tesla-shares-are-bouncing-396138b7?mod=mw_rss_topstories",
-            "summary": "White House staffers reportedly organized a telephone call between President Trump and Tesla CEO Elon Musk to keep Thursday’s public row from spiraling out of control.",
-            "date": "Fri, 06 Jun 2025 13:23:00 GMT",
+            "title": "A professor testing ChatGPT’s, DeepSeek’s and Grok’s stock-picking skills suggests stockbrokers should worry",
+            "link": "https://www.marketwatch.com/story/a-professor-testing-chatgpts-deepseeks-and-groks-stock-picking-skills-suggests-stockbrokers-should-worry-f54d583a?mod=mw_rss_topstories",
+            "summary": "Alejandro Lopez-Lira has been impressed with how current AI models can trade markets. He has created a video series to show how the technology can be used in the future.",
+            "date": "Sat, 07 Jun 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAG.V",
+            "stock_ticker": "A",
             "impact": "Neutral"
         },
         {
-            "title": "AI is out to control your wallet. Why you’ll need to future-proof your money.",
-            "link": "https://www.marketwatch.com/story/ai-is-ready-to-take-over-our-wallets-and-spend-our-money-for-us-what-could-go-wrong-c834768b?mod=mw_rss_topstories",
-            "summary": " AI is ready to take over our wallets. What could possibly go wrong? Plenty, as it turns out. Here's how to get your hands on one.",
-            "date": "Fri, 06 Jun 2025 13:11:00 GMT",
+            "title": "I help my elderly mother every day and drive her to appointments. Can I recoup my costs from her estate?",
+            "link": "https://www.marketwatch.com/story/i-help-my-elderly-mother-every-day-and-drive-her-to-appointments-can-i-recoup-my-costs-from-her-estate-60ebfd18?mod=mw_rss_topstories",
+            "summary": "“I don’t want to upset her while she’s living. Stress makes her condition worse,” she says.",
+            "date": "Sat, 07 Jun 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "OMDA",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Republicans want to curb federal student loans — and private lenders are ready to step in",
+            "link": "https://www.marketwatch.com/story/republicans-want-to-curb-federal-student-loans-and-private-lenders-are-ready-to-step-in-02c4e994?mod=mw_rss_topstories",
+            "summary": "It's been a dream in some right-leaning corners of the U.S. political sphere to privatize the student-loan system.",
+            "date": "Sat, 07 Jun 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WANT",
             "impact": "Neutral"
         },
         {
-            "title": "This investment turned $50,000 into $23 million in 10 years. Here’s why it’s still a buy.",
-            "link": "https://www.marketwatch.com/story/this-investment-turned-50-000-into-23-million-in-10-years-heres-why-its-still-a-buy-3678dab2?mod=mw_rss_topstories",
-            "summary": " Bitcoin is here to save your money from inflation and central-bank meddling. If you notice in time, you'll be able to use it to pay your bills.",
-            "date": "Fri, 06 Jun 2025 12:43:00 GMT",
+            "title": "I bought my mother-in-law a condo — and she took out a $30,000 car loan. Now she refuses to get a roommate.",
+            "link": "https://www.marketwatch.com/story/my-husband-and-i-bought-my-mother-in-law-a-condo-upkeep-costs-2-800-a-month-she-refuses-to-get-a-roommate-0083f89a?mod=mw_rss_topstories",
+            "summary": "“She has received a small inheritance, an annuity and also receives Social Security so she’s not penniless,” the family says.",
+            "date": "Sat, 07 Jun 2025 12:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "OMDA",
             "impact": "Neutral"
         },
         {
-            "title": "May jobs report shows soft 139,000 increase in new workers. Trade wars sap hiring.",
-            "link": "https://www.marketwatch.com/story/may-jobs-report-shows-139-000-new-workers-trade-wars-sap-hiring-52ef97d0?mod=mw_rss_topstories",
-            "summary": "The number of new jobs created in May slowed to 139,000, a sign the Trump trade wars are starting to make a dent in a resilient U.S. labor market.",
-            "date": "Fri, 06 Jun 2025 12:34:00 GMT",
+            "title": "Apple’s WWDC is a chance to change investors’ minds. Can the company deliver?",
+            "link": "https://www.marketwatch.com/story/apples-wwdc-is-a-chance-to-change-investors-minds-can-the-company-deliver-fead8681?mod=mw_rss_topstories",
+            "summary": "Apple’s stock has been dogged by concerns that the company is behind the curve on AI. Apple is one of the most valuable companies in the world, valued at more than $1 trillion.",
+            "date": "Sat, 07 Jun 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "1155.KL",
+            "stock_ticker": "APPIX",
             "impact": "Neutral"
         }
     ]
