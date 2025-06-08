@@ -1,59 +1,11 @@
 {
-    "date": "2025-06-07",
+    "date": "2025-06-08",
     "news": [
         {
-            "title": "Tesla already had big problems. Then Musk went to battle with Trump",
-            "link": "https://www.cnbc.com/2025/06/06/tesla-already-had-big-problems-then-musk-went-to-battle-with-trump.html",
-            "summary": "Tesla has spent much of the year dealing with struggling sales and a deteriorating brand. Now CEO Elon Musk has drawn the ire of the president.",
-            "date": "Sat, 07 Jun 2025 12:37:08 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TSLA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Slate Auto: Inside the EV startup, stealth production facility backed by Jeff Bezos",
-            "link": "https://www.cnbc.com/2025/06/07/jeff-bezos-slate-auto-ev.html",
-            "summary": "Slate Auto hopes its modular, stripped-down vehicle will be the future of affordable EVs. Slate Auto's modular vehicle has a long road ahead.",
-            "date": "Sat, 07 Jun 2025 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P00017AOG.TO",
-            "impact": "Bearish"
-        },
-        {
-            "title": "'Bitcoin Family' hides crypto codes etched onto metal cards on four continents after recent kidnappings",
-            "link": "https://www.cnbc.com/2025/06/07/bitcoin-family-crypto-security-kidnappings.html",
-            "summary": "After a wave of crypto kidnappings, the ‘Bitcoin Family’ replaced its old security system with a decentralized, analog setup spread across four continents.",
-            "date": "Sat, 07 Jun 2025 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BTC=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Morgan Stanley upgrades this mining stock as best pick to play rare earths",
-            "link": "https://www.cnbc.com/2025/06/07/morgan-stanley-upgrades-mining-stock-as-best-pick-to-play-rare-earths.html",
-            "summary": "Rare earth elements are at the center of the U.S.-China trade fight. They are crucial for electric vehicles and other advanced technology.",
-            "date": "Sat, 07 Jun 2025 12:15:04 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JPM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump presses Fed chief Powell to cut interest rate by full point despite strong jobs report",
-            "link": "https://www.cnbc.com/2025/06/06/trump-powell-fed-rates.html",
-            "summary": "The number of U.S. jobs that was higher than expected makes it unlikely that the Federal Reserve will cut interest rates soon. An increase in the number of US jobs that were higher thanexpected makes it likely that the Fed will cut rates.",
-            "date": "Fri, 06 Jun 2025 17:42:44 GMT",
+            "title": "Trump to deploy National Guard in response to Los Angeles immigration protests",
+            "link": "https://www.cnbc.com/2025/06/08/trump-national-guard-immigration-la-protests.html",
+            "summary": "California Gov. Gavin Newsom said that Trump was being \"purposefully inflammatory\" in sending National Guard troops to L.A. Newsom called the move a \"dangerous move\"",
+            "date": "Sun, 08 Jun 2025 13:16:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,46 +14,70 @@
             "impact": "Neutral"
         },
         {
-            "title": "A professor testing ChatGPT’s, DeepSeek’s and Grok’s stock-picking skills suggests stockbrokers should worry",
-            "link": "https://www.marketwatch.com/story/a-professor-testing-chatgpts-deepseeks-and-groks-stock-picking-skills-suggests-stockbrokers-should-worry-f54d583a?mod=mw_rss_topstories",
-            "summary": "Alejandro Lopez-Lira has been impressed with how current AI models can trade markets. He has created a video series to show how the technology can be used in the future.",
-            "date": "Sat, 07 Jun 2025 12:30:00 GMT",
+            "title": "Trump wants to bring manufacturing jobs back. The aviation industry can't hire fast enough",
+            "link": "https://www.cnbc.com/2025/06/08/trump-jobs-aviation-airplanes-engines.html",
+            "summary": "The aviation industry is facing a retirement wave of workers who make and fix airplanes. The retirement wave is expected to begin in the next few years.",
+            "date": "Sun, 08 Jun 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "I help my elderly mother every day and drive her to appointments. Can I recoup my costs from her estate?",
-            "link": "https://www.marketwatch.com/story/i-help-my-elderly-mother-every-day-and-drive-her-to-appointments-can-i-recoup-my-costs-from-her-estate-60ebfd18?mod=mw_rss_topstories",
-            "summary": "“I don’t want to upset her while she’s living. Stress makes her condition worse,” she says.",
-            "date": "Sat, 07 Jun 2025 12:30:00 GMT",
+            "title": "Trump says Elon Musk will face 'serious consequences' if he backs Democratic candidates",
+            "link": "https://www.cnbc.com/2025/06/07/trump-elon-musk-public-feud-.html",
+            "summary": "President Donald Trump says he thinks his relationship with Elon Musk is over. The pair have been feuding for months, but their public spat erupted this week.",
+            "date": "Sat, 07 Jun 2025 22:20:13 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OMDA",
+            "stock_ticker": "DJT",
             "impact": "Bullish"
         },
         {
-            "title": "Republicans want to curb federal student loans — and private lenders are ready to step in",
-            "link": "https://www.marketwatch.com/story/republicans-want-to-curb-federal-student-loans-and-private-lenders-are-ready-to-step-in-02c4e994?mod=mw_rss_topstories",
-            "summary": "It's been a dream in some right-leaning corners of the U.S. political sphere to privatize the student-loan system.",
-            "date": "Sat, 07 Jun 2025 12:30:00 GMT",
+            "title": "Top Wall Street analysts believe in the potential of these stocks despite macro woes",
+            "link": "https://www.cnbc.com/2025/06/08/wall-street-analysts-believe-in-these-stocks-potential-despite-macro-woes.html",
+            "summary": "TipRanks' analyst ranking service highlights three stocks favored by Wall Street's top pros. Nvidia, Salesforce and Salesforce are among the stocks on the list.",
+            "date": "Sun, 08 Jun 2025 11:06:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WANT",
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
-            "title": "I bought my mother-in-law a condo — and she took out a $30,000 car loan. Now she refuses to get a roommate.",
-            "link": "https://www.marketwatch.com/story/my-husband-and-i-bought-my-mother-in-law-a-condo-upkeep-costs-2-800-a-month-she-refuses-to-get-a-roommate-0083f89a?mod=mw_rss_topstories",
-            "summary": "“She has received a small inheritance, an annuity and also receives Social Security so she’s not penniless,” the family says.",
-            "date": "Sat, 07 Jun 2025 12:16:00 GMT",
+            "title": "Elon Musk appears to delete some explosive X posts amid feud with Trump",
+            "link": "https://www.cnbc.com/2025/06/07/trump-musk-x-posts-feud.html",
+            "summary": "Elon Musk and President Donald Trump have been involved in a public spat this week. Musk is the CEO of the electric car company Tesla. Trump is the President of the United States.",
+            "date": "Sat, 07 Jun 2025 16:12:54 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ELON",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How reliable is U.S. economic data? It’s a growing risk for investors awaiting the next Fed rate cut.",
+            "link": "https://www.marketwatch.com/story/how-reliable-is-u-s-economic-data-its-a-growing-risk-for-investors-awaiting-the-next-fed-rate-cut-f477bf0b?mod=mw_rss_topstories",
+            "summary": "Questions about inflation and labor-market data could influence the central bank’s decision-making, and potentially impact markets. The central bank is expected to keep its key rate at a record low of 1.5 percent.",
+            "date": "Sun, 08 Jun 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I have $1,000 in credit-card debt. Will I be able to hide my inheritance from the bank?",
+            "link": "https://www.marketwatch.com/story/i-have-a-1-000-bad-debt-can-my-credit-card-company-find-out-about-my-inheritance-2b35ebaf?mod=mw_rss_topstories",
+            "summary": "“The debt stems from over five years ago, and I forgot about it,” he said. “The money is in my bank account, and it’s not going anywhere.”",
+            "date": "Sun, 08 Jun 2025 12:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "Apple’s WWDC is a chance to change investors’ minds. Can the company deliver?",
-            "link": "https://www.marketwatch.com/story/apples-wwdc-is-a-chance-to-change-investors-minds-can-the-company-deliver-fead8681?mod=mw_rss_topstories",
-            "summary": "Apple’s stock has been dogged by concerns that the company is behind the curve on AI. Apple is one of the most valuable companies in the world, valued at more than $1 trillion.",
-            "date": "Sat, 07 Jun 2025 12:00:00 GMT",
+            "title": "Social Security’s new commissioner, rule reversals and cost cuts: Here’s everything that’s happening at the agency",
+            "link": "https://www.marketwatch.com/story/social-security-under-pressure-heres-whats-happening-now-f0c4b44a?mod=mw_rss_topstories",
+            "summary": "A Social Security “war room,” threats to shut the agency, worker buyouts and a restraining order — here’s a timeline of what has taken place so far this year.",
+            "date": "Sat, 07 Jun 2025 21:19:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "APPIX",
+            "stock_ticker": "SPT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Supreme Court grants DOGE access to Social Security data, days after Musk stepped down",
+            "link": "https://www.marketwatch.com/story/supreme-court-grants-doge-access-to-social-security-data-days-after-musk-stepped-down-3e097b61?mod=mw_rss_topstories",
+            "summary": "The decision is the latest development in a battle over the Department of Government Efficiency’s access to sensitive personal information. The decision is also the latest in a long-running battle over access to personal information by the government.",
+            "date": "Sat, 07 Jun 2025 20:17:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VR6.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Tony Awards: Here’s how one woman saw every Broadway show this season — for less than $50 a ticket on average",
+            "link": "https://www.marketwatch.com/story/this-theater-lover-saw-every-broadway-show-this-season-and-you-wont-believe-how-cheap-it-was-0b5495ec?mod=mw_rss_topstories",
+            "summary": "Liz Davenport used every trick in the discount playbook, including serving as a volunteer usher. She was able to get in for a fraction of the price she would normally pay.",
+            "date": "Sat, 07 Jun 2025 19:21:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BGRDF",
             "impact": "Neutral"
         }
     ]
