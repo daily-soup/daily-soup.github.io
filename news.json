@@ -1,124 +1,124 @@
 {
-    "date": "2025-06-10",
+    "date": "2025-06-11",
     "news": [
         {
-            "title": "Paramount to cut 3% of U.S. workforce as it deepens cost-cutting",
-            "link": "https://www.cnbc.com/2025/06/10/paramount-to-cut-3percent-of-us-workforce-as-it-deepens-cost-cutting.html",
-            "summary": ". It's the latest round of layoffs at Paramount as it contends with cord-cutting and prepares to merge with Skydance Media.",
-            "date": "Tue, 10 Jun 2025 12:48:22 GMT",
+            "title": "U.S. inflation rises 0.1% in May from prior month, less than expected",
+            "link": "https://www.cnbc.com/2025/06/11/cpi-inflation-may-2025.html",
+            "summary": "Consumer price index expected to rise 0.2% in May. 12-month inflation rate expected to be 2.4% for May.",
+            "date": "Wed, 11 Jun 2025 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PARA",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "As GOP weighs Obamacare cuts, the party's constituents are more likely to use marketplace coverage, poll finds",
-            "link": "https://www.cnbc.com/2025/06/10/gop-weighs-aca-marketplace-cuts-republicans-more-likely-to-use-it.html",
-            "summary": "Republicans are considering a massive domestic policy bill that would slash funding for Affordable Care Act exchanges. But many GOP voters rely on them, and the bill would hurt them.",
-            "date": "Tue, 10 Jun 2025 12:13:10 GMT",
+            "title": "JPMorgan's Jamie Dimon warns U.S. economy could soon 'deteriorate'",
+            "link": "https://www.cnbc.com/2025/06/11/jpmorgans-jamie-dimon-warns-us-economy-could-soon-deteriorate.html",
+            "summary": "\"Hopefully, it's just a little bit,\" Dimon says of the economy. \"Employment will come down a little. Inflation will go up,\" he says.",
+            "date": "Wed, 11 Jun 2025 13:15:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Anduril tops 2025 CNBC Disruptor 50 list as interest and investment in defense tech booms",
-            "link": "https://www.cnbc.com/2025/06/10/anduril-tops-cnbc-disruptor-50-list-as-interest-in-defense-tech-rises.html",
-            "summary": "Anduril is the No. 1 2025 CNBC Disruptor 50 company as the ties between Silicon Valley technology and the U.S. military increase.",
-            "date": "Tue, 10 Jun 2025 12:13:03 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TOPS",
+            "stock_ticker": "2JW.F",
             "impact": "Bullish"
         },
         {
-            "title": "Apple's WWDC underwhelms on AI, but software gets biggest facelift in over a decade",
-            "link": "https://www.cnbc.com/2025/06/09/apple-wwdc-underwhelms-on-ai-software-biggest-facelift-in-decade-.html",
-            "summary": "Apple investors waiting for the company to make a big push in artificial intelligence didn't have much reason for excitement at WWDC. Apple is expected to unveil a new version of its iOS operating system on June 12.",
-            "date": "Mon, 09 Jun 2025 23:42:58 GMT",
+            "title": "Trump says China will supply rare earths in 'done' deal",
+            "link": "https://www.cnbc.com/2025/06/11/trump-says-china-will-supply-rare-earths-in-done-deal.html",
+            "summary": "U.S. President Donald Trump said magnets and \"any necessary rare earths\" will be supplied up front by China as part of a trade agreement.",
+            "date": "Wed, 11 Jun 2025 13:11:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "APPIX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why the Switch 2 is so important for Nintendo",
-            "link": "https://www.cnbc.com/2025/06/10/why-the-switch-2-is-so-important-for-nintendo.html",
-            "summary": "Nintendo just released the Switch 2, its first new game console in eight years. Can it live up to the popularity of the first Switch?",
-            "date": "Tue, 10 Jun 2025 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHYCX",
+            "stock_ticker": "DJT",
             "impact": "Bullish"
         },
         {
-            "title": "My friend is getting divorced. Her husband offered to sign over their house. What’s he hiding?",
-            "link": "https://www.marketwatch.com/story/my-friend-is-getting-divorced-her-husband-says-take-the-house-is-there-a-catch-ca7ababc?mod=mw_rss_topstories",
-            "summary": "After a friend said that perhaps she’ll just settle for the house, her husband agreed and moved to file for divorce quickly. “After my friend said. perhaps she will just settle. for the home,” her husband said, “her husband agreed.”",
-            "date": "Tue, 10 Jun 2025 13:10:00 GMT",
+            "title": "Elon Musk says he regrets some social media posts he made about Trump",
+            "link": "https://www.cnbc.com/2025/06/11/elon-musk-says-he-regrets-some-social-media-posts-during-trump-showdown.html",
+            "summary": "Elon Musk said he regretted some of the social media posts he made last week. Musk was involved in an explosive public dispute with U.S. President Donald Trump.",
+            "date": "Wed, 11 Jun 2025 12:28:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "ELON",
             "impact": "Neutral"
         },
         {
-            "title": "Fund manager who sold Tesla, just in time, says investors are overlooking these tech bargains",
-            "link": "https://www.marketwatch.com/story/fund-manager-who-sold-tesla-just-in-time-says-investors-are-overlooking-these-tech-bargains-3cc91ad2?mod=mw_rss_topstories",
-            "summary": "The Future Funds’ Gary Black is waiting for Tesla to get a lot cheaper. Black is filling his funds with big tech bargains.",
-            "date": "Tue, 10 Jun 2025 13:07:00 GMT",
+            "title": "Nvidia CEO says quantum computing is reaching an 'inflection point'",
+            "link": "https://www.cnbc.com/2025/06/11/nvidia-ceo-says-quantum-computing-is-reaching-an-inflection-point.html",
+            "summary": "Nvidia CEO Jensen Huang says quantum computing is reaching an inflection point. He says it will start to solve real-world problems in the coming years.",
+            "date": "Wed, 11 Jun 2025 13:23:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FUND",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "Folgers coffee, Jif peanut butter parent aims to absorb some tariff costs for shoppers",
-            "link": "https://www.marketwatch.com/story/folgers-coffee-jif-peanut-butter-parent-aims-to-absorb-some-tariff-costs-for-shoppers-2b29dbe4?mod=mw_rss_topstories",
-            "summary": "Smucker's revenue outlook more closely matches Wall Street analyst estimates than its profit view. Smucker wants to keep prices as low as possible.",
-            "date": "Tue, 10 Jun 2025 12:50:00 GMT",
+            "title": "Congress is playing havoc with your investments. Here’s how to beat Washington’s game.",
+            "link": "https://www.marketwatch.com/story/congress-is-playing-havoc-with-your-investments-heres-how-to-beat-washingtons-game-4ab1bc1b?mod=mw_rss_topstories",
+            "summary": "Expect lawmakers to punt decisions and own stock in companies with top government-affairs teams that know the system. Expect lawmakers to own shares in companies that know how to get things done in Washington.",
+            "date": "Wed, 11 Jun 2025 13:24:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KC=F",
+            "stock_ticker": "CMIDX",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s how often V-shaped recoveries like April’s occur",
-            "link": "https://www.marketwatch.com/story/april-was-a-v-shaped-stock-market-recovery-for-the-ages-but-theyre-still-quite-rare-1d7335ef?mod=mw_rss_topstories",
-            "summary": "Kristina Hooper, chief market strategist at hedge-fund manager Man Group, crunched the numbers on V-shaped stock-market recoveries.",
-            "date": "Tue, 10 Jun 2025 12:37:00 GMT",
+            "title": "Here’s how the 55% U.S. tariffs on China are broken down",
+            "link": "https://www.marketwatch.com/story/heres-how-the-55-u-s-tariffs-on-china-are-broken-down-1457e40b?mod=mw_rss_topstories",
+            "summary": "The U.S. is “getting a total of 55% tariffs,” Trump said in a post on Truth Social. Trump said the tariffs will go into effect on January 1, 2018.",
+            "date": "Wed, 11 Jun 2025 13:24:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "HWM",
-            "impact": "Bullish"
+            "impact": "Neutral"
         },
         {
-            "title": "A rare space IPO is on deck. It could herald a wave of space-tech companies going public.",
-            "link": "https://www.marketwatch.com/story/a-rare-space-ipo-is-on-deck-it-could-herald-a-wave-of-space-tech-companies-going-public-565e2fa1?mod=mw_rss_topstories",
-            "summary": "Voyager Technology is set to go public this week, and could trigger a wave of other space-tech IPOs. Voyager Technology will be listed on the New York Stock Exchange under the symbol \"Voyage\"",
-            "date": "Tue, 10 Jun 2025 12:18:00 GMT",
+            "title": "Chewy’s stock slides as a dip in profitability disappoints investors with high expectations",
+            "link": "https://www.marketwatch.com/story/chewys-stock-slides-as-a-dip-in-profitability-disappoints-investors-with-high-expectations-bb2d720b?mod=mw_rss_topstories",
+            "summary": "Chewy Inc. took a hit to gross margin in its first-quarter results. The results came as a surprise to investors, who have been growing more optimistic.",
+            "date": "Wed, 11 Jun 2025 13:23:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
+            "stock_ticker": "CHYM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Inflation still not showing tariff-related spike, CPI shows. Muted prices open path for Fed rate cuts later in the year.",
+            "link": "https://www.marketwatch.com/story/inflation-still-not-showing-tariff-related-increase-cpi-shows-fed-expected-to-stay-on-hold-c9cfa941?mod=mw_rss_topstories",
+            "summary": "Consumer prices showed little sign of tariff-related increases for the third month in a row. This defies expectations of a significant rise in inflation tied to ongoing U.S. trade wars.",
+            "date": "Wed, 11 Jun 2025 13:20:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TCILX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why Goldman Sachs says high-flying tech stocks may be headed for a tough stretch",
+            "link": "https://www.marketwatch.com/story/goldman-says-market-is-heading-into-a-news-vacuum-and-theres-weakness-under-hood-8d338880?mod=mw_rss_topstories",
+            "summary": "Goldman Sachs: Tech stocks might just be starting to lose some of their recent steam. The market is headed toward a tougher period, says Goldman Sachs specialist.",
+            "date": "Wed, 11 Jun 2025 12:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHYCX",
             "impact": "Neutral"
         }
     ]
