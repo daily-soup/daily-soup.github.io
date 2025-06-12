@@ -1,95 +1,71 @@
 {
-    "date": "2025-06-11",
+    "date": "2025-06-12",
     "news": [
         {
-            "title": "U.S. inflation rises 0.1% in May from prior month, less than expected",
-            "link": "https://www.cnbc.com/2025/06/11/cpi-inflation-may-2025.html",
-            "summary": "Consumer price index expected to rise 0.2% in May. 12-month inflation rate expected to be 2.4% for May.",
-            "date": "Wed, 11 Jun 2025 13:15:00 GMT",
+            "title": "Boeing 787 bound for London with 242 aboard crashes after takeoff in India, casualties reported",
+            "link": "https://www.cnbc.com/2025/06/12/air-india-plane-crashes-at-ahmedabad-in-gujarat.html",
+            "summary": "The cause of the crash wasn’t immediately known and could take months to determine. The NTSB is investigating the crash. The crash happened on a busy highway near the city of San Francisco.",
+            "date": "Thu, 12 Jun 2025 13:26:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "JPMorgan's Jamie Dimon warns U.S. economy could soon 'deteriorate'",
-            "link": "https://www.cnbc.com/2025/06/11/jpmorgans-jamie-dimon-warns-us-economy-could-soon-deteriorate.html",
-            "summary": "\"Hopefully, it's just a little bit,\" Dimon says of the economy. \"Employment will come down a little. Inflation will go up,\" he says.",
-            "date": "Wed, 11 Jun 2025 13:15:04 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "2JW.F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Trump says China will supply rare earths in 'done' deal",
-            "link": "https://www.cnbc.com/2025/06/11/trump-says-china-will-supply-rare-earths-in-done-deal.html",
-            "summary": "U.S. President Donald Trump said magnets and \"any necessary rare earths\" will be supplied up front by China as part of a trade agreement.",
-            "date": "Wed, 11 Jun 2025 13:11:51 GMT",
+            "title": "Trump wanted an Iran nuclear deal fast. Now he may get military confrontation",
+            "link": "https://www.cnbc.com/2025/06/12/trump-wanted-an-iran-deal-fast-now-he-may-get-military-confrontation.html",
+            "summary": "The Pentagon ordered the withdrawal of some American personnel from embassies in Iraq, Kuwait and Bahrain. The move comes as tensions spike between the U.S., Israel and Iran.",
+            "date": "Thu, 12 Jun 2025 13:04:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Bullish"
+            "impact": "Neutral"
         },
         {
-            "title": "Elon Musk says he regrets some social media posts he made about Trump",
-            "link": "https://www.cnbc.com/2025/06/11/elon-musk-says-he-regrets-some-social-media-posts-during-trump-showdown.html",
-            "summary": "Elon Musk said he regretted some of the social media posts he made last week. Musk was involved in an explosive public dispute with U.S. President Donald Trump.",
-            "date": "Wed, 11 Jun 2025 12:28:34 GMT",
+            "title": "Meta files lawsuit against developer of CrushAI 'nudify' app",
+            "link": "https://www.cnbc.com/2025/06/12/meta-files-lawsuit-against-developer-of-crushai-nudify-app.html",
+            "summary": "The lawsuit is against Joy Timeline HK Ltd., which used Meta ads to promote an app that uses AI to take a photo of someone and create nude imagery of them.",
+            "date": "Thu, 12 Jun 2025 12:25:10 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELON",
+            "stock_ticker": "META",
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia CEO says quantum computing is reaching an 'inflection point'",
-            "link": "https://www.cnbc.com/2025/06/11/nvidia-ceo-says-quantum-computing-is-reaching-an-inflection-point.html",
-            "summary": "Nvidia CEO Jensen Huang says quantum computing is reaching an inflection point. He says it will start to solve real-world problems in the coming years.",
-            "date": "Wed, 11 Jun 2025 13:23:39 GMT",
+            "title": "GameStop shares tank on convertible bond offering to potentially buy more bitcoin",
+            "link": "https://www.cnbc.com/2025/06/12/gamestop-shares-tank-on-convertible-bond-offering-to-potentially-buy-more-bitcoin.html",
+            "summary": "The video game retailer announced plans for a $1.75 billion convertible notes. The notes will partially fund its bitcoin purchase. The deal is expected to be completed by the end of the year.",
+            "date": "Thu, 12 Jun 2025 12:22:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "GME",
             "impact": "Neutral"
         },
         {
-            "title": "Congress is playing havoc with your investments. Here’s how to beat Washington’s game.",
-            "link": "https://www.marketwatch.com/story/congress-is-playing-havoc-with-your-investments-heres-how-to-beat-washingtons-game-4ab1bc1b?mod=mw_rss_topstories",
-            "summary": "Expect lawmakers to punt decisions and own stock in companies with top government-affairs teams that know the system. Expect lawmakers to own shares in companies that know how to get things done in Washington.",
-            "date": "Wed, 11 Jun 2025 13:24:00 GMT",
+            "title": "Oil prices fall as traders watch Israel-Iran conflict",
+            "link": "https://www.cnbc.com/2025/06/12/oil-prices-today-middle-east-israel-iran-us.html",
+            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
+            "date": "Thu, 12 Jun 2025 13:16:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CMIDX",
+            "stock_ticker": "CL=F",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s how the 55% U.S. tariffs on China are broken down",
-            "link": "https://www.marketwatch.com/story/heres-how-the-55-u-s-tariffs-on-china-are-broken-down-1457e40b?mod=mw_rss_topstories",
-            "summary": "The U.S. is “getting a total of 55% tariffs,” Trump said in a post on Truth Social. Trump said the tariffs will go into effect on January 1, 2018.",
-            "date": "Wed, 11 Jun 2025 13:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Chewy’s stock slides as a dip in profitability disappoints investors with high expectations",
-            "link": "https://www.marketwatch.com/story/chewys-stock-slides-as-a-dip-in-profitability-disappoints-investors-with-high-expectations-bb2d720b?mod=mw_rss_topstories",
-            "summary": "Chewy Inc. took a hit to gross margin in its first-quarter results. The results came as a surprise to investors, who have been growing more optimistic.",
-            "date": "Wed, 11 Jun 2025 13:23:00 GMT",
+            "title": "I have $1,000 in credit-card debt. Will I be able to hide my inheritance from the bank?",
+            "link": "https://www.marketwatch.com/story/i-have-a-1-000-bad-debt-can-my-credit-card-company-find-out-about-my-inheritance-2b35ebaf?mod=mw_rss_topstories",
+            "summary": "“The debt stems from over five years ago, and I forgot about it,” he said. “The money is in my bank account, and it’s not going anywhere.”",
+            "date": "Thu, 12 Jun 2025 13:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "Inflation still not showing tariff-related spike, CPI shows. Muted prices open path for Fed rate cuts later in the year.",
-            "link": "https://www.marketwatch.com/story/inflation-still-not-showing-tariff-related-increase-cpi-shows-fed-expected-to-stay-on-hold-c9cfa941?mod=mw_rss_topstories",
-            "summary": "Consumer prices showed little sign of tariff-related increases for the third month in a row. This defies expectations of a significant rise in inflation tied to ongoing U.S. trade wars.",
-            "date": "Wed, 11 Jun 2025 13:20:00 GMT",
+            "title": "I’m in my 80s and have 2 kids. How do I choose between them to be my executor?",
+            "link": "https://www.marketwatch.com/story/we-have-2-children-one-has-legal-knowledge-and-lives-far-away-the-other-lacks-financial-savvy-but-lives-nearby-who-should-we-appoint-as-executor-937d1d4e?mod=mw_rss_topstories",
+            "summary": "‘One child has acquired significant knowledge of contracts, legal documents and business procedures, but will be relocating 1,500 miles’",
+            "date": "Thu, 12 Jun 2025 13:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TCILX",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "Why Goldman Sachs says high-flying tech stocks may be headed for a tough stretch",
-            "link": "https://www.marketwatch.com/story/goldman-says-market-is-heading-into-a-news-vacuum-and-theres-weakness-under-hood-8d338880?mod=mw_rss_topstories",
-            "summary": "Goldman Sachs: Tech stocks might just be starting to lose some of their recent steam. The market is headed toward a tougher period, says Goldman Sachs specialist.",
-            "date": "Wed, 11 Jun 2025 12:58:00 GMT",
+            "title": "A local restaurant has a 5% container charge and 3% kitchen-service fee. Is this as nuts as it sounds?",
+            "link": "https://www.marketwatch.com/story/things-are-going-loco-my-local-restaurant-charges-a-5-container-fee-and-3-kitchen-service-charge-is-this-nuts-15b88f15?mod=mw_rss_topstories",
+            "summary": "“It’s not about whether I can afford it or not,” she said of tipping. “Please don’t tell me to ‘eat at home if you can’n afford to tip’”",
+            "date": "Thu, 12 Jun 2025 13:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYCX",
+            "stock_ticker": "A",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Jobless claims hold steady at 8-month high. Economists blame the end of the school year.",
+            "link": "https://www.marketwatch.com/story/jobless-claims-hold-steady-at-8-month-high-economists-blame-end-of-school-year-2d6ef132?mod=mw_rss_topstories",
+            "summary": "There is “no evidence that the labor market is rolling over,” says one economist. While there are signs of softening, there is ‘no evidence’ that it’s ‘rolling over’",
+            "date": "Thu, 12 Jun 2025 12:56:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CLA18371-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Gundlach says gold is no longer for lunatics as the bond king says wait to buy the 30-year",
+            "link": "https://www.marketwatch.com/story/gundlach-says-gold-is-no-longer-for-lunatics-as-the-bond-king-says-wait-to-buy-the-30-year-4905f640?mod=mw_rss_topstories",
+            "summary": "Jeff Gundlach has a ton of ideas about where to invest right now. U.S. markets may be the least of those, he says.",
+            "date": "Thu, 12 Jun 2025 12:51:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GC=F",
             "impact": "Neutral"
         }
     ]
