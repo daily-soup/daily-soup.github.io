@@ -1,23 +1,11 @@
 {
-    "date": "2025-06-12",
+    "date": "2025-06-13",
     "news": [
         {
-            "title": "Boeing 787 bound for London with 242 aboard crashes after takeoff in India, casualties reported",
-            "link": "https://www.cnbc.com/2025/06/12/air-india-plane-crashes-at-ahmedabad-in-gujarat.html",
-            "summary": "The cause of the crash wasn’t immediately known and could take months to determine. The NTSB is investigating the crash. The crash happened on a busy highway near the city of San Francisco.",
-            "date": "Thu, 12 Jun 2025 13:26:31 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump wanted an Iran nuclear deal fast. Now he may get military confrontation",
-            "link": "https://www.cnbc.com/2025/06/12/trump-wanted-an-iran-deal-fast-now-he-may-get-military-confrontation.html",
-            "summary": "The Pentagon ordered the withdrawal of some American personnel from embassies in Iraq, Kuwait and Bahrain. The move comes as tensions spike between the U.S., Israel and Iran.",
-            "date": "Thu, 12 Jun 2025 13:04:36 GMT",
+            "title": "Trump urges Iran to reach nuclear deal 'before there is nothing left'",
+            "link": "https://www.cnbc.com/2025/06/13/trump-urges-iran-to-reach-nuclear-deal-before-there-is-nothing-left-.html",
+            "summary": "\"Iran must make a deal, before there is nothing left, and save what was once known as the Iranian Empire,\" Obama says.",
+            "date": "Fri, 13 Jun 2025 13:23:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,99 +14,111 @@
             "impact": "Neutral"
         },
         {
-            "title": "Meta files lawsuit against developer of CrushAI 'nudify' app",
-            "link": "https://www.cnbc.com/2025/06/12/meta-files-lawsuit-against-developer-of-crushai-nudify-app.html",
-            "summary": "The lawsuit is against Joy Timeline HK Ltd., which used Meta ads to promote an app that uses AI to take a photo of someone and create nude imagery of them.",
-            "date": "Thu, 12 Jun 2025 12:25:10 GMT",
+            "title": "Israel-Iran strikes likely just the opening salvo as region and markets brace for what comes next",
+            "link": "https://www.cnbc.com/2025/06/13/iran-launches-100-drones-at-israel-in-response-to-missile-attack.html",
+            "summary": "Israel's overnight missile barrage was the largest attack on the Islamic Republic since the Iran-Iraq war of the 1980s. Israel launched the missile barrage in response to Iran's missile tests.",
+            "date": "Fri, 13 Jun 2025 12:03:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "META",
+            "stock_ticker": "JUST",
             "impact": "Neutral"
         },
         {
-            "title": "GameStop shares tank on convertible bond offering to potentially buy more bitcoin",
-            "link": "https://www.cnbc.com/2025/06/12/gamestop-shares-tank-on-convertible-bond-offering-to-potentially-buy-more-bitcoin.html",
-            "summary": "The video game retailer announced plans for a $1.75 billion convertible notes. The notes will partially fund its bitcoin purchase. The deal is expected to be completed by the end of the year.",
-            "date": "Thu, 12 Jun 2025 12:22:50 GMT",
+            "title": "Israel attacks Iran, airstrikes kill armed forces and Revolutionary Guard chiefs",
+            "link": "https://www.cnbc.com/2025/06/12/israels-defense-minister-announces-special-situation-after-israeli-attack-on-iran.html",
+            "summary": "The United States did not participate in the military operation, but President Donald Trump was briefed on it beforehand. The U.S. military operation took place in Iraq and Syria.",
+            "date": "Fri, 13 Jun 2025 10:10:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GME",
+            "stock_ticker": "ILS=F",
             "impact": "Neutral"
         },
         {
-            "title": "Oil prices fall as traders watch Israel-Iran conflict",
-            "link": "https://www.cnbc.com/2025/06/12/oil-prices-today-middle-east-israel-iran-us.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Thu, 12 Jun 2025 13:16:04 GMT",
+            "title": "Air India crash: What to know about the first fatal Boeing Dreamliner tragedy",
+            "link": "https://www.cnbc.com/2025/06/12/air-india-crash-boeing-dreamliner-what-to-know.html",
+            "summary": "An Air India jet flying from Ahmedabad to London crashed shortly after takeoff into a fireball with 242 people aboard. The crash killed all 242 people on board.",
+            "date": "Fri, 13 Jun 2025 12:12:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "AIR",
             "impact": "Neutral"
         },
         {
-            "title": "I have $1,000 in credit-card debt. Will I be able to hide my inheritance from the bank?",
-            "link": "https://www.marketwatch.com/story/i-have-a-1-000-bad-debt-can-my-credit-card-company-find-out-about-my-inheritance-2b35ebaf?mod=mw_rss_topstories",
-            "summary": "“The debt stems from over five years ago, and I forgot about it,” he said. “The money is in my bank account, and it’s not going anywhere.”",
-            "date": "Thu, 12 Jun 2025 13:20:00 GMT",
+            "title": "Scale AI's Alexandr Wang confirms departure for Meta as part of $14.3 billion deal",
+            "link": "https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html",
+            "summary": " Meta is investing $14.3 billion into Scale AI, landing the startup's CEO Alexandr Wang to help the company's artificial intelligence efforts.",
+            "date": "Fri, 13 Jun 2025 04:01:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHYM",
+            "stock_ticker": "S05.F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "These investments are now your best defense after Israel launches attack on Iran",
+            "link": "https://www.marketwatch.com/story/israel-bombs-iran-these-investments-are-now-your-best-defense-b692c1be?mod=mw_rss_topstories",
+            "summary": "Gold, defense stocks and managing market volatility should be your portfolio priorities. Gold, defense stock and managing stock market volatility is a portfolio priorities for investors.",
+            "date": "Fri, 13 Jun 2025 13:18:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CLOV",
             "impact": "Neutral"
         },
         {
-            "title": "I’m in my 80s and have 2 kids. How do I choose between them to be my executor?",
-            "link": "https://www.marketwatch.com/story/we-have-2-children-one-has-legal-knowledge-and-lives-far-away-the-other-lacks-financial-savvy-but-lives-nearby-who-should-we-appoint-as-executor-937d1d4e?mod=mw_rss_topstories",
-            "summary": "‘One child has acquired significant knowledge of contracts, legal documents and business procedures, but will be relocating 1,500 miles’",
-            "date": "Thu, 12 Jun 2025 13:17:00 GMT",
+            "title": "Ellen DeGeneres set to take a huge loss on one of her last remaining L.A. homes as she knocks $5.4 million off original ask",
+            "link": "https://www.marketwatch.com/story/ellen-degeneres-set-to-take-a-huge-loss-on-one-of-her-last-remaining-l-a-homes-as-she-knocks-5-4-million-off-original-ask-74e3001a?mod=mw_rss_topstories",
+            "summary": "The home also offers sweeping views of the Los Angeles skyline. The home is located in the exclusive Brentwood neighborhood of Los Angeles. It is one of the most sought-after properties in the city.",
+            "date": "Fri, 13 Jun 2025 13:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "ELN.ST",
             "impact": "Neutral"
         },
         {
-            "title": "A local restaurant has a 5% container charge and 3% kitchen-service fee. Is this as nuts as it sounds?",
-            "link": "https://www.marketwatch.com/story/things-are-going-loco-my-local-restaurant-charges-a-5-container-fee-and-3-kitchen-service-charge-is-this-nuts-15b88f15?mod=mw_rss_topstories",
-            "summary": "“It’s not about whether I can afford it or not,” she said of tipping. “Please don’t tell me to ‘eat at home if you can’n afford to tip’”",
-            "date": "Thu, 12 Jun 2025 13:05:00 GMT",
+            "title": "My mother-in-law thought the world’s richest man needed Apple gift cards. How on Earth could she fall for this scam?",
+            "link": "https://www.marketwatch.com/story/my-mother-in-law-thought-the-worlds-richest-man-needed-apple-gift-cards-how-on-earth-could-she-fall-for-this-scam-39e3cfc5?mod=mw_rss_topstories",
+            "summary": "“Her siblings are all shocked that she would believe this,” her sister says. “Her parents are shocked, too. They’re all shocked.”",
+            "date": "Fri, 13 Jun 2025 13:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "Jobless claims hold steady at 8-month high. Economists blame the end of the school year.",
-            "link": "https://www.marketwatch.com/story/jobless-claims-hold-steady-at-8-month-high-economists-blame-end-of-school-year-2d6ef132?mod=mw_rss_topstories",
-            "summary": "There is “no evidence that the labor market is rolling over,” says one economist. While there are signs of softening, there is ‘no evidence’ that it’s ‘rolling over’",
-            "date": "Thu, 12 Jun 2025 12:56:00 GMT",
+            "title": "This Wall Street pro did a deep dive into Tesla — and calls the stock ‘tremendously overpriced.’ The charts show why.",
+            "link": "https://www.marketwatch.com/story/this-wall-street-pro-did-a-deep-dive-into-teslas-stock-and-came-up-empty-handed-6f7d67f2?mod=mw_rss_topstories",
+            "summary": "Tesla shares are priced on hopes for robotaxis, full self-driving cars and robots. Tesla’s shares are overvalued, priced on hoped-for robotaxis and robots, analysts say. Tesla shares are valued at more than $50 per share.",
+            "date": "Fri, 13 Jun 2025 13:09:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CLA18371-USD",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         },
         {
-            "title": "Gundlach says gold is no longer for lunatics as the bond king says wait to buy the 30-year",
-            "link": "https://www.marketwatch.com/story/gundlach-says-gold-is-no-longer-for-lunatics-as-the-bond-king-says-wait-to-buy-the-30-year-4905f640?mod=mw_rss_topstories",
-            "summary": "Jeff Gundlach has a ton of ideas about where to invest right now. U.S. markets may be the least of those, he says.",
-            "date": "Thu, 12 Jun 2025 12:51:00 GMT",
+            "title": "My retirement account has more than my wife’s — how should we split the money we save?",
+            "link": "https://www.marketwatch.com/story/my-retirement-account-has-more-than-my-wifes-how-should-we-split-the-money-we-save-814148e0?mod=mw_rss_topstories",
+            "summary": "“I don’t think we’ll be able to max out both employer plans and both IRAs each year,” he says.",
+            "date": "Fri, 13 Jun 2025 13:09:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GC=F",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         }
     ]
