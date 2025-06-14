@@ -1,11 +1,35 @@
 {
-    "date": "2025-06-13",
+    "date": "2025-06-14",
     "news": [
         {
-            "title": "Trump urges Iran to reach nuclear deal 'before there is nothing left'",
+            "title": "Israel warns 'Tehran will burn' if Iran continues missile strikes",
             "link": "https://www.cnbc.com/2025/06/13/trump-urges-iran-to-reach-nuclear-deal-before-there-is-nothing-left-.html",
-            "summary": "\"Iran must make a deal, before there is nothing left, and save what was once known as the Iranian Empire,\" Obama says.",
-            "date": "Fri, 13 Jun 2025 13:23:28 GMT",
+            "summary": "Israel's defense minister warns Iran that \"Tehran will burn\" if it keeps firing missiles at Israeli civilians. Israel's Defense Minister: \"Iranian regime will burn if it continues to fire missiles at Israel\"",
+            "date": "Sat, 14 Jun 2025 11:51:11 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EIS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bitcoin becoming 'more central’ to portfolios as its volatility cools, Coatue's Philippe Laffont says",
+            "link": "https://www.cnbc.com/2025/06/14/why-bitcoin-is-becoming-more-central-to-portfolios-per-coatues-laffont.html",
+            "summary": "Coatue founder Philippe Laffont discusses not investing in bitcoin sooner. He says the shrinking cost of getting in and the crypto's evolving role in a portfolio.",
+            "date": "Sat, 14 Jun 2025 13:17:16 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BTC=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump approves U.S. Steel merger with Japan’s Nippon after companies sign national security agreement",
+            "link": "https://www.cnbc.com/2025/06/13/trump-us-steel-nippon-deal.html",
+            "summary": "U.S. Steel's merger with Japan's Nippon Steel was approved by President Donald Trump on Friday. The companies signed a national security agreement with the United States.",
+            "date": "Sat, 14 Jun 2025 00:00:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,34 +38,22 @@
             "impact": "Neutral"
         },
         {
-            "title": "Israel-Iran strikes likely just the opening salvo as region and markets brace for what comes next",
-            "link": "https://www.cnbc.com/2025/06/13/iran-launches-100-drones-at-israel-in-response-to-missile-attack.html",
-            "summary": "Israel's overnight missile barrage was the largest attack on the Islamic Republic since the Iran-Iraq war of the 1980s. Israel launched the missile barrage in response to Iran's missile tests.",
-            "date": "Fri, 13 Jun 2025 12:03:55 GMT",
+            "title": "Oil jumps more than 7% on supply risk from Israel-Iran conflict",
+            "link": "https://www.cnbc.com/2025/06/12/oil-prices-surge-after-israel-launches-airstrikes-against-iran.html",
+            "summary": "Israel launched airstrikes against Iran without U.S. support. Crude futures jumped more than $5 a barrel on Friday after Israel launched airstrikes.",
+            "date": "Fri, 13 Jun 2025 19:24:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JUST",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Israel attacks Iran, airstrikes kill armed forces and Revolutionary Guard chiefs",
-            "link": "https://www.cnbc.com/2025/06/12/israels-defense-minister-announces-special-situation-after-israeli-attack-on-iran.html",
-            "summary": "The United States did not participate in the military operation, but President Donald Trump was briefed on it beforehand. The U.S. military operation took place in Iraq and Syria.",
-            "date": "Fri, 13 Jun 2025 10:10:19 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ILS=F",
-            "impact": "Neutral"
+            "stock_ticker": "CL=F",
+            "impact": "Bullish"
         },
         {
             "title": "Air India crash: What to know about the first fatal Boeing Dreamliner tragedy",
             "link": "https://www.cnbc.com/2025/06/12/air-india-crash-boeing-dreamliner-what-to-know.html",
             "summary": "An Air India jet flying from Ahmedabad to London crashed shortly after takeoff into a fireball with 242 people aboard. The crash killed all 242 people on board.",
-            "date": "Fri, 13 Jun 2025 12:12:09 GMT",
+            "date": "Sat, 14 Jun 2025 13:11:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,46 +62,46 @@
             "impact": "Neutral"
         },
         {
-            "title": "Scale AI's Alexandr Wang confirms departure for Meta as part of $14.3 billion deal",
-            "link": "https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html",
-            "summary": " Meta is investing $14.3 billion into Scale AI, landing the startup's CEO Alexandr Wang to help the company's artificial intelligence efforts.",
-            "date": "Fri, 13 Jun 2025 04:01:07 GMT",
+            "title": "My friend, 83, wants to add me to his bank account to pay his bills. What could go wrong?",
+            "link": "https://www.marketwatch.com/story/my-friend-83-wants-to-add-me-to-his-bank-account-to-pay-his-bills-what-could-go-wrong-812d6a03?mod=mw_rss_topstories",
+            "summary": "“He has no close family. I don’t want to place myself in a position of liability,” she says.",
+            "date": "Sat, 14 Jun 2025 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "S05.F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "These investments are now your best defense after Israel launches attack on Iran",
-            "link": "https://www.marketwatch.com/story/israel-bombs-iran-these-investments-are-now-your-best-defense-b692c1be?mod=mw_rss_topstories",
-            "summary": "Gold, defense stocks and managing market volatility should be your portfolio priorities. Gold, defense stock and managing stock market volatility is a portfolio priorities for investors.",
-            "date": "Fri, 13 Jun 2025 13:18:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CLOV",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "Ellen DeGeneres set to take a huge loss on one of her last remaining L.A. homes as she knocks $5.4 million off original ask",
-            "link": "https://www.marketwatch.com/story/ellen-degeneres-set-to-take-a-huge-loss-on-one-of-her-last-remaining-l-a-homes-as-she-knocks-5-4-million-off-original-ask-74e3001a?mod=mw_rss_topstories",
-            "summary": "The home also offers sweeping views of the Los Angeles skyline. The home is located in the exclusive Brentwood neighborhood of Los Angeles. It is one of the most sought-after properties in the city.",
-            "date": "Fri, 13 Jun 2025 13:17:00 GMT",
+            "title": "Why we cheap out on Father’s Day",
+            "link": "https://www.marketwatch.com/story/why-we-cheap-out-on-fathers-day-8d8f6b3a?mod=mw_rss_topstories",
+            "summary": "Americans spend $10 billion more on Mother's Day than Father's Day. What’s going on? CNN.com takes a look.",
+            "date": "Sat, 14 Jun 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELN.ST",
+            "stock_ticker": "WHYCX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "3 reasons that bitcoin in your 401(k) is still a terrible idea",
+            "link": "https://www.marketwatch.com/story/3-reasons-that-bitcoin-in-your-401-k-is-still-a-terrible-idea-1a319051?mod=mw_rss_topstories",
+            "summary": "The Labor Department is considering changes to its hiring practices. What is the Labor Department thinking? What are they thinking? Share your thoughts with CNN iReport.",
+            "date": "Sat, 14 Jun 2025 12:27:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ZQ=F",
             "impact": "Neutral"
         },
         {
             "title": "My mother-in-law thought the world’s richest man needed Apple gift cards. How on Earth could she fall for this scam?",
             "link": "https://www.marketwatch.com/story/my-mother-in-law-thought-the-worlds-richest-man-needed-apple-gift-cards-how-on-earth-could-she-fall-for-this-scam-39e3cfc5?mod=mw_rss_topstories",
             "summary": "“Her siblings are all shocked that she would believe this,” her sister says. “Her parents are shocked, too. They’re all shocked.”",
-            "date": "Fri, 13 Jun 2025 13:16:00 GMT",
+            "date": "Sat, 14 Jun 2025 12:11:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,28 +110,16 @@
             "impact": "Neutral"
         },
         {
-            "title": "This Wall Street pro did a deep dive into Tesla — and calls the stock ‘tremendously overpriced.’ The charts show why.",
-            "link": "https://www.marketwatch.com/story/this-wall-street-pro-did-a-deep-dive-into-teslas-stock-and-came-up-empty-handed-6f7d67f2?mod=mw_rss_topstories",
-            "summary": "Tesla shares are priced on hopes for robotaxis, full self-driving cars and robots. Tesla’s shares are overvalued, priced on hoped-for robotaxis and robots, analysts say. Tesla shares are valued at more than $50 per share.",
-            "date": "Fri, 13 Jun 2025 13:09:00 GMT",
+            "title": "How Trump wants to use the U.S. tax code to crack down on undocumented immigrants",
+            "link": "https://www.marketwatch.com/story/how-trump-wants-to-use-the-u-s-tax-code-to-crack-down-on-undocumented-immigrants-4f83c15a?mod=mw_rss_topstories",
+            "summary": "Republicans’ massive tax-and-spending bill limits income and cuts off tax breaks for undocumented immigrants. “But that’s the point,” the bill’S supporters say.",
+            "date": "Sat, 14 Jun 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My retirement account has more than my wife’s — how should we split the money we save?",
-            "link": "https://www.marketwatch.com/story/my-retirement-account-has-more-than-my-wifes-how-should-we-split-the-money-we-save-814148e0?mod=mw_rss_topstories",
-            "summary": "“I don’t think we’ll be able to max out both employer plans and both IRAs each year,” he says.",
-            "date": "Fri, 13 Jun 2025 13:09:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
+            "stock_ticker": "HWM",
+            "impact": "Bullish"
         }
     ]
 }
