@@ -1,71 +1,107 @@
 {
-    "date": "2025-06-16",
+    "date": "2025-06-17",
     "news": [
         {
-            "title": "Luxury credit card rivalry heats up as Amex, JPMorgan tease updates to their premier cards",
-            "link": "https://www.cnbc.com/2025/06/16/credit-cards-amex-platinum-chase-sapphire-get-2025-refresh.html",
-            "summary": "The long-running rivalry between the country's top premium credit cards is about to heat up again. The two banks have been at odds for more than a decade.",
-            "date": "Mon, 16 Jun 2025 12:25:31 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LUXE",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Trump Organization announces mobile plan, $499 smartphone",
-            "link": "https://www.cnbc.com/2025/06/16/trump-mobile-phone-plan.html",
-            "summary": "President Donald Trump and his businesses have rolled out numerous products during his political career, including watches, sneakers and Bibles. Trump's businesses have also rolled out watches, shoes, Bibles and other products.",
-            "date": "Mon, 16 Jun 2025 13:23:46 GMT",
+            "title": "Trump signals escalation in Israel-Iran conflict as he leaves G7 summit early",
+            "link": "https://www.cnbc.com/2025/06/17/g7-leaders-urge-de-escalation-in-middle-east-blame-iran-for-instability-and-terror-.html",
+            "summary": "The conflict prompted a statement from G7 leaders, affirming support for Israel. The statement also called for a resolution to the escalating tensions in the Middle East.",
+            "date": "Tue, 17 Jun 2025 12:33:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Neutral"
+            "impact": "Bullish"
         },
         {
-            "title": "Meta is finally bringing ads to WhatsApp",
-            "link": "https://www.cnbc.com/2025/06/16/meta-whatsapp-ads.html",
-            "summary": " Meta's plans to make WhatsApp a big business involve online ads. It's a major change for the communications app whose previous owners shunned advertising.",
-            "date": "Mon, 16 Jun 2025 13:00:01 GMT",
+            "title": "JPMorgan Chase unveils new Sapphire Reserve card perks and $795 annual fee",
+            "link": "https://www.cnbc.com/2025/06/17/chase-sapphire-reserve-credit-card-new-perks-fee.html",
+            "summary": "JPMorgan, the biggest U.S. bank by assets, shook up the card industry with the launch of the Sapphire Reserve almost a decade ago.",
+            "date": "Tue, 17 Jun 2025 12:15:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "META",
-            "impact": "Neutral"
+            "stock_ticker": "JPM",
+            "impact": "Bullish"
         },
         {
-            "title": "U.S. Steel shares rally as Trump approves Nippon takeover with unique government 'golden share'",
-            "link": "https://www.cnbc.com/2025/06/16/us-steel-rallies-as-trump-approves-nippon-takeover.html",
-            "summary": "U.S. Steel and Japan's Nippon Steel said Trump had approved their merger. They signed a national security agreement with the U.S., the companies said.",
-            "date": "Mon, 16 Jun 2025 12:14:07 GMT",
+            "title": "JetBlue to cut more flights, other costs with break-even 2025 'unlikely' due to weaker travel demand",
+            "link": "https://www.cnbc.com/2025/06/17/jetblue-cost-cuts.html",
+            "summary": "JetBlue CEO Joanna Geraghty told staff the carrier is further cutting costs. softer travel demand makes breakeven operating margins in 2025 unlikely.",
+            "date": "Tue, 17 Jun 2025 13:21:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "JBLU",
             "impact": "Neutral"
         },
         {
-            "title": "Suspect Vance Boelter apprehended in Minnesota lawmakers shooting case",
-            "link": "https://www.cnbc.com/2025/06/15/minnesota-shootings-suspect-manhunt-.html",
-            "summary": "Minnesota Democratic state Rep. Melissa Hortman and her husband, Mark, were killed. Boelter allegedly killed Hortman in what appears to be a politically motivated shooting.",
-            "date": "Mon, 16 Jun 2025 13:27:27 GMT",
+            "title": "Trump's $499 smartphone will likely be made in China",
+            "link": "https://www.cnbc.com/2025/06/17/trump-t1-mobile-phone-will-likely-be-made-in-china-experts.html",
+            "summary": "The Trump Organization's newly-announced T1 smartphone will likely be made in China, experts said. This is despite claims the device will be manufactured in the U.S.",
+            "date": "Tue, 17 Jun 2025 11:48:13 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SDSS",
+            "stock_ticker": "FUAJGX",
             "impact": "Neutral"
         },
         {
-            "title": "My mother-in-law, 95, has $400K in stocks. Would it be smarter taxwise to gift it to her kids — or leave it to them in her will?",
-            "link": "https://www.marketwatch.com/story/my-mother-in-law-95-has-400k-in-stocks-would-it-be-smarter-taxwise-to-gift-it-to-her-kids-or-leave-it-to-them-in-her-will-1ce355bb?mod=mw_rss_topstories",
-            "summary": "“What is the smartest way to go about this? Will she be taxed?” he asks. “What are the best ways to deal with this?’",
-            "date": "Mon, 16 Jun 2025 13:18:00 GMT",
+            "title": "Retail sales fell 0.9% in May, worse than expected as consumers pulled back",
+            "link": "https://www.cnbc.com/2025/06/17/retail-sales-may-2025-.html",
+            "summary": "Consumers spending pulled back sharply, weighed by declining gas sales and looming unease over where the economy is headed. Consumers spent less on cars, clothes, electronics, furniture and other items.",
+            "date": "Tue, 17 Jun 2025 13:26:37 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SXR=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This five-star fund manager says even smart investors have been missing the greatest theme of our time",
+            "link": "https://www.marketwatch.com/story/this-five-star-fund-manager-says-even-smart-investors-have-been-missing-the-greatest-theme-of-our-time-393b40ba?mod=mw_rss_topstories",
+            "summary": "Patrick Kelly, co-manager of a top-performing Alger fund, wants investors to wake up over AI before they miss a big opportunity.",
+            "date": "Tue, 17 Jun 2025 12:44:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "THISX",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Shoppers cut spending at retailers in May. Trade wars still a drag on the economy.",
+            "link": "https://www.marketwatch.com/story/shoppers-cut-spending-at-retailers-in-may-trade-wars-still-a-drag-on-the-economy-78270d68?mod=mw_rss_topstories",
+            "summary": "The latest snapshot of retail sales in May underscores the threat to U.S. growth. Simmering trade wars have created a sort of stop-and-start economy.",
+            "date": "Tue, 17 Jun 2025 12:40:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SHOPERSTOP.NS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "As Chase Sapphire Reserve raises fees to almost $800, is a $1,000-a-year premium credit card in sight?",
+            "link": "https://www.marketwatch.com/story/ready-to-pay-1-000-a-year-for-a-premium-credit-card-new-amex-chase-offers-could-raise-fees-experts-say-4a32d876?mod=mw_rss_topstories",
+            "summary": "The revamped American Express Platinum card teased this week is also expected to hike fees, experts say. The new card is expected to go on sale later this year.",
+            "date": "Tue, 17 Jun 2025 12:20:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My son, 39, will be released from prison in 2030. Do I leave him my $100K life insurance?",
+            "link": "https://www.marketwatch.com/story/my-son-39-will-be-released-from-prison-in-2030-do-i-leave-him-my-100k-life-insurance-6bfd622c?mod=mw_rss_topstories",
+            "summary": "“I am concerned about leaving a large sum of cash to a drug user,” she says. “I’m concerned about people using the money to buy drugs.”",
+            "date": "Tue, 17 Jun 2025 12:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m 68 and my 401(k) has dwindled to $82,000’: My husband committed financial infidelity and has $50,000 in credit-card debt. What now?",
-            "link": "https://www.marketwatch.com/story/im-68-and-my-401-k-has-dwindled-to-82-000-my-husband-committed-financial-infidelity-and-has-50-000-in-credit-card-debt-what-now-87582bdc?mod=mw_rss_topstories",
-            "summary": "“I have $3,000 in gold and Social Security income for me and my spouse makes $46,180 a year.”",
-            "date": "Mon, 16 Jun 2025 13:01:00 GMT",
+            "title": "This one-and-done heart-disease treatment just got a $1.3 billion endorsement from Eli Lilly",
+            "link": "https://www.marketwatch.com/story/this-one-and-done-heart-disease-treatment-just-got-a-1-3-billion-endorsement-from-eli-lilly-5c163b61?mod=mw_rss_topstories",
+            "summary": "Verve Therapeutics’ stock rallies by a record 80% on Eli Lilly’s premium purchase price for the drug-development company.",
+            "date": "Tue, 17 Jun 2025 12:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Deutsche Bank says looming tariff deadline and this other risk are what investors should care about now",
-            "link": "https://www.marketwatch.com/story/deutsche-bank-says-looming-tariff-deadline-and-this-other-risk-are-what-investors-should-care-about-now-6ae5e7ea?mod=mw_rss_topstories",
-            "summary": "Deutsche Bank says worry about a looming tariff deadline and inflation. Deutsche Bank: Concerns over looming tariffs and inflation are overblown. Bank says it is not worried about the threat of inflation.",
-            "date": "Mon, 16 Jun 2025 12:36:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DB",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Jaguar’s widely mocked branding campaign did boost interest, company says",
-            "link": "https://www.marketwatch.com/story/jaguars-widely-mocked-branding-campaign-did-boost-interest-company-says-e9173fba?mod=mw_rss_topstories",
-            "summary": "Jaguar's relaunch, targeted at a younger audience, did generate attention. Jaguar’s widely mocked relaunch was aimed at a young audience.",
-            "date": "Mon, 16 Jun 2025 12:26:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "7067.T",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Israel-Iran conflict poses three challenges for stocks that could slam market by up to 20%, warns RBC",
-            "link": "https://www.marketwatch.com/story/israel-iran-conflict-poses-three-challenges-for-stocks-that-could-slam-market-by-up-to-20-warns-rbc-5a98425d?mod=mw_rss_topstories",
-            "summary": "Spiking oil prices may muddle the Federal Reserve’s inflation forecasts. The Federal Reserve's inflation forecasts are based on an inflation rate of 2.4 percent.",
-            "date": "Mon, 16 Jun 2025 11:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "Z3N=F",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         }
     ]
