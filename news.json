@@ -1,124 +1,124 @@
 {
-    "date": "2025-06-17",
+    "date": "2025-06-18",
     "news": [
         {
-            "title": "Trump signals escalation in Israel-Iran conflict as he leaves G7 summit early",
-            "link": "https://www.cnbc.com/2025/06/17/g7-leaders-urge-de-escalation-in-middle-east-blame-iran-for-instability-and-terror-.html",
-            "summary": "The conflict prompted a statement from G7 leaders, affirming support for Israel. The statement also called for a resolution to the escalating tensions in the Middle East.",
-            "date": "Tue, 17 Jun 2025 12:33:29 GMT",
+            "title": "Iran threatens 'irreparable damage' if U.S. enters Israel conflict",
+            "link": "https://www.cnbc.com/2025/06/18/iran-threatens-irreparable-damage-if-us-enters-israel-conflict.html",
+            "summary": "U.S. President Donald Trump had on Tuesday called for Iran's \"UNCONDITIONAL SURRENDER!\" He had also called for an end to Iran's nuclear program.",
+            "date": "Wed, 18 Jun 2025 13:05:43 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "RANI3.SA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Oil analysts left scratching their heads over Israel-Iran conflict: 'Your guess is as good as mine'",
+            "link": "https://www.cnbc.com/2025/06/18/oil-prices-analysts-scratching-their-heads-over-isreal-iran-conflict.html",
+            "summary": "U.S. President Donald Trump called for an \"unconditional surrender\" from Iran. He warned Washington's patience was wearing thin.",
+            "date": "Wed, 18 Jun 2025 13:04:21 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CL=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The Fed is likely to keep rates the same but give a forecast that moves markets. What to expect",
+            "link": "https://www.cnbc.com/2025/06/17/the-fed-is-likely-to-keep-rates-the-same-but-give-a-forecast-that-moves-markets-what-to-expect.html",
+            "summary": "The meeting will feature important signals that still could move markets. While any movement on interest rates seems improbable, the meeting will have important signals.",
+            "date": "Tue, 17 Jun 2025 22:54:21 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Stellantis' Ram brand to offer industry-leading pickup truck warranty as part of turnaround plan",
+            "link": "https://www.cnbc.com/2025/06/18/ram-pickup-truck-warranty.html",
+            "summary": "The warranty covers the engine, transmission, transfer case, driveshafts, differentials, and axles for 10 years or 100,000 miles, whichever comes first.",
+            "date": "Wed, 18 Jun 2025 12:37:09 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "STLA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Sam Altman says Meta offered OpenAI staff $100 million bonuses, as Mark Zuckerberg ramps up AI poaching efforts",
+            "link": "https://www.cnbc.com/2025/06/18/sam-altman-says-meta-tried-to-poach-openai-staff-with-100-million-bonuses-mark-zuckerberg.html",
+            "summary": " Meta had sought to hire \"a lot of people\" from OpenAI. \"So far none of our best people have decided to take them up on that,\" Sam Altman said.",
+            "date": "Wed, 18 Jun 2025 12:28:43 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SAM",
             "impact": "Bullish"
         },
         {
-            "title": "JPMorgan Chase unveils new Sapphire Reserve card perks and $795 annual fee",
-            "link": "https://www.cnbc.com/2025/06/17/chase-sapphire-reserve-credit-card-new-perks-fee.html",
-            "summary": "JPMorgan, the biggest U.S. bank by assets, shook up the card industry with the launch of the Sapphire Reserve almost a decade ago.",
-            "date": "Tue, 17 Jun 2025 12:15:38 GMT",
+            "title": "Housing starts plummet to a five-year low as buyers stay on the sidelines",
+            "link": "https://www.marketwatch.com/story/housing-starts-plummet-to-a-five-year-low-as-buyers-stay-on-the-sidelines-9c6c3da0?mod=mw_rss_topstories",
+            "summary": "Rising inventory levels and weak buyer demand have resulted in homes sitting on the market for longer. Rising inventory levels have led to a shortage of homes for sale in the U.S.",
+            "date": "Wed, 18 Jun 2025 13:26:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JPM",
-            "impact": "Bullish"
-        },
-        {
-            "title": "JetBlue to cut more flights, other costs with break-even 2025 'unlikely' due to weaker travel demand",
-            "link": "https://www.cnbc.com/2025/06/17/jetblue-cost-cuts.html",
-            "summary": "JetBlue CEO Joanna Geraghty told staff the carrier is further cutting costs. softer travel demand makes breakeven operating margins in 2025 unlikely.",
-            "date": "Tue, 17 Jun 2025 13:21:22 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JBLU",
+            "stock_ticker": "CUS=F",
             "impact": "Neutral"
         },
         {
-            "title": "Trump's $499 smartphone will likely be made in China",
-            "link": "https://www.cnbc.com/2025/06/17/trump-t1-mobile-phone-will-likely-be-made-in-china-experts.html",
-            "summary": "The Trump Organization's newly-announced T1 smartphone will likely be made in China, experts said. This is despite claims the device will be manufactured in the U.S.",
-            "date": "Tue, 17 Jun 2025 11:48:13 GMT",
+            "title": "Trump’s pick to replace Fed Chair Powell could rock your mortgage and retirement. Buckle up.",
+            "link": "https://www.marketwatch.com/story/trumps-next-fed-picks-will-be-a-dramatic-showdown-with-your-mortgage-payment-and-retirement-savings-on-the-line-214d615a?mod=mw_rss_topstories",
+            "summary": "Understanding the president's thinking could protect your financial future. The president is testing the Fed’s limits —understanding his thinking could help you.",
+            "date": "Wed, 18 Jun 2025 13:25:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FUAJGX",
+            "stock_ticker": "PICK",
             "impact": "Neutral"
         },
         {
-            "title": "Retail sales fell 0.9% in May, worse than expected as consumers pulled back",
-            "link": "https://www.cnbc.com/2025/06/17/retail-sales-may-2025-.html",
-            "summary": "Consumers spending pulled back sharply, weighed by declining gas sales and looming unease over where the economy is headed. Consumers spent less on cars, clothes, electronics, furniture and other items.",
-            "date": "Tue, 17 Jun 2025 13:26:37 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SXR=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This five-star fund manager says even smart investors have been missing the greatest theme of our time",
-            "link": "https://www.marketwatch.com/story/this-five-star-fund-manager-says-even-smart-investors-have-been-missing-the-greatest-theme-of-our-time-393b40ba?mod=mw_rss_topstories",
-            "summary": "Patrick Kelly, co-manager of a top-performing Alger fund, wants investors to wake up over AI before they miss a big opportunity.",
-            "date": "Tue, 17 Jun 2025 12:44:00 GMT",
+            "title": "This steelmaker gives a bullish outlook two weeks after higher tariffs took effect",
+            "link": "https://www.marketwatch.com/story/this-steelmaker-gives-a-bullish-outlook-two-weeks-after-higher-tariffs-took-effect-398886aa?mod=mw_rss_topstories",
+            "summary": "Nucor’s stock surges after a bullish profit outlook, two weeks after higher steel tariffs took effect. Nucor is the largest U.S. steelmaker.",
+            "date": "Wed, 18 Jun 2025 13:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "THISX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Shoppers cut spending at retailers in May. Trade wars still a drag on the economy.",
-            "link": "https://www.marketwatch.com/story/shoppers-cut-spending-at-retailers-in-may-trade-wars-still-a-drag-on-the-economy-78270d68?mod=mw_rss_topstories",
-            "summary": "The latest snapshot of retail sales in May underscores the threat to U.S. growth. Simmering trade wars have created a sort of stop-and-start economy.",
-            "date": "Tue, 17 Jun 2025 12:40:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SHOPERSTOP.NS",
             "impact": "Neutral"
         },
         {
-            "title": "As Chase Sapphire Reserve raises fees to almost $800, is a $1,000-a-year premium credit card in sight?",
-            "link": "https://www.marketwatch.com/story/ready-to-pay-1-000-a-year-for-a-premium-credit-card-new-amex-chase-offers-could-raise-fees-experts-say-4a32d876?mod=mw_rss_topstories",
-            "summary": "The revamped American Express Platinum card teased this week is also expected to hike fees, experts say. The new card is expected to go on sale later this year.",
-            "date": "Tue, 17 Jun 2025 12:20:00 GMT",
+            "title": "U.S. added more than 1,000 millionaires every day last year, new report says",
+            "link": "https://www.marketwatch.com/story/u-s-added-more-than-1-000-millionaires-every-day-last-year-new-report-says-fc0e50fe?mod=mw_rss_topstories",
+            "summary": "The world is getting richer, but different places are doing it at different speeds. The U.S. is one of the fastest growing economies in the world.",
+            "date": "Wed, 18 Jun 2025 12:56:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AS",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "My son, 39, will be released from prison in 2030. Do I leave him my $100K life insurance?",
-            "link": "https://www.marketwatch.com/story/my-son-39-will-be-released-from-prison-in-2030-do-i-leave-him-my-100k-life-insurance-6bfd622c?mod=mw_rss_topstories",
-            "summary": "“I am concerned about leaving a large sum of cash to a drug user,” she says. “I’m concerned about people using the money to buy drugs.”",
-            "date": "Tue, 17 Jun 2025 12:17:00 GMT",
+            "title": "Jobless claims move lower, easing some concerns about labor market health",
+            "link": "https://www.marketwatch.com/story/jobless-claims-move-lower-easing-some-concerns-about-labor-market-health-d4ea9227?mod=mw_rss_topstories",
+            "summary": "Claims have moved higher since mid-May, according to the U.S. Bureau of Labor Statistics. Claims have been rising since the start of the year, the agency says.",
+            "date": "Wed, 18 Jun 2025 12:41:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This one-and-done heart-disease treatment just got a $1.3 billion endorsement from Eli Lilly",
-            "link": "https://www.marketwatch.com/story/this-one-and-done-heart-disease-treatment-just-got-a-1-3-billion-endorsement-from-eli-lilly-5c163b61?mod=mw_rss_topstories",
-            "summary": "Verve Therapeutics’ stock rallies by a record 80% on Eli Lilly’s premium purchase price for the drug-development company.",
-            "date": "Tue, 17 Jun 2025 12:13:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "CLA18371-USD",
             "impact": "Neutral"
         }
     ]
