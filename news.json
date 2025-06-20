@@ -1,124 +1,124 @@
 {
-    "date": "2025-06-19",
+    "date": "2025-06-20",
     "news": [
         {
-            "title": "SpaceX's Starship explodes during routine test in Texas",
-            "link": "https://www.cnbc.com/2025/06/19/spacexs-starship-explodes-during-routine-test-in-texas.html",
-            "summary": " Starship \"suffered a catastrophic failure and exploded,\" local authorities said. No injuries were reported at the time. An investigation into the incident is underway.",
-            "date": "Thu, 19 Jun 2025 12:00:59 GMT",
+            "title": "Fed Governor Waller says central bank could cut rates as early as July",
+            "link": "https://www.cnbc.com/2025/06/20/fed-governor-waller-says-central-bank-could-cut-rates-as-early-as-july.html",
+            "summary": "The central banker said he and his colleagues should move slowly but start to ease. He said inflation is now longer a major threat to the economy.",
+            "date": "Fri, 20 Jun 2025 13:19:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "STARSHIP28425-USD",
+            "stock_ticker": "ZQ=F",
             "impact": "Neutral"
         },
         {
-            "title": "How retail credit cards could bankrupt consumers with record high interest rates",
-            "link": "https://www.cnbc.com/2025/06/19/how-retail-credit-cards-could-bankrupt-consumers.html",
-            "summary": "Retail credit card debt is accounting for a greater proportion of overall debt in consumer bankruptcies. Retail credit card debts account for more than half of all consumer debt.",
-            "date": "Thu, 19 Jun 2025 13:11:36 GMT",
+            "title": "Europe and Iran to hold talks as Trump sets two-week deadline for U.S. strikes decision",
+            "link": "https://www.cnbc.com/2025/06/20/europe-iran-to-hold-talks-as-trump-sets-two-week-deadline-for-us-strikes-decision.html",
+            "summary": "European officials are hoping for a last-minute diplomatic breakthrough with Tehran to deter further escalations of the Middle East conflict. European officials hope for a final breakthrough with Iran to deter future escalations.",
+            "date": "Fri, 20 Jun 2025 13:06:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
-            "impact": "Bullish"
-        },
-        {
-            "title": "A 'terrible spiral of escalation': World braces for intensifying Iran-Israel conflict",
-            "link": "https://www.cnbc.com/2025/06/19/world-braces-for-intensifying-iran-israel-conflict.html",
-            "summary": "Iran and Israel continue to trade deadly blows. Chances at diplomacy are looking bleak as Iran and Israel trade increasingly deadly blows, says CNN's John Sutter.",
-            "date": "Thu, 19 Jun 2025 13:11:59 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
+            "stock_ticker": "KRW=F",
             "impact": "Neutral"
         },
         {
-            "title": "M&A market 'back to global financial crisis levels,' UN trade arm warns in downbeat economic outlook",
-            "link": "https://www.cnbc.com/2025/06/19/back-to-global-financial-crisis-levels-un-trade-agency-economic-warning.html",
-            "summary": "UN's trade agency, UNCTAD, sums up the global economic outlook in an annual report. Report: Higher risk, lower growth, and declining investment.",
-            "date": "Thu, 19 Jun 2025 10:47:47 GMT",
+            "title": "Meta, EssilorLuxottica unveil Oakley smart glasses",
+            "link": "https://www.cnbc.com/2025/06/20/meta-essilorluxottica-oakley-smart-glasses-hstn.html",
+            "summary": "Oakley Meta HSTN are AI smart glasses pitched toward athletes with a starting price of $399. Meta and EssilorLuxottica debut the Oakley Meta.",
+            "date": "Fri, 20 Jun 2025 13:16:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ASI=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Google looks likely to lose appeal against record $4.7 billion EU fine",
-            "link": "https://www.cnbc.com/2025/06/19/google-looks-likely-to-lose-appeal-against-record-4point7-billion-eu-fine.html",
-            "summary": "The fine relates to a long-running antitrust case surrounding Google's Android operating system. The fine relating to the long- running antitrust case is $2.05 billion.",
-            "date": "Thu, 19 Jun 2025 11:57:19 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GOOG",
+            "stock_ticker": "META",
             "impact": "Neutral"
         },
         {
-            "title": "Block out the noise and stay invested: Stock picks and advice from one of the world’s oldest mutual funds.",
+            "title": "In race to attract data centers, states forfeit hundreds of millions of dollars in tax revenue to tech companies",
+            "link": "https://www.cnbc.com/2025/06/20/tax-breaks-for-tech-giants-data-centers-mean-less-income-for-states.html",
+            "summary": "Amazon, Meta and Google are among the beneficiaries of state tax exemptions for data centers that help power AI. Amazon, Meta, Google and other tech giants benefit from tax exemptions on data centers.",
+            "date": "Fri, 20 Jun 2025 11:21:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CAI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Darden Restaurants beats earnings estimates, as Olive Garden parent predicts growth in 2026",
+            "link": "https://www.cnbc.com/2025/06/20/darden-restaurants-dri-q4-2025-earnings.html",
+            "summary": "Darden Restaurants beat Wall Street's earnings and revenue estimates. Olive Garden parent predicted solid growth for the fiscal year 2026. The company also expects solid growth in fiscal year 2020.",
+            "date": "Fri, 20 Jun 2025 12:16:59 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DRI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Stock picks and perspectives from a mutual fund approaching its hundredth anniversary",
             "link": "https://www.marketwatch.com/story/block-out-the-noise-and-stay-invested-stock-picks-and-advice-from-one-of-the-worlds-oldest-mutual-funds-aefddb17?mod=mw_rss_topstories",
-            "summary": "The Investment Company of America fund has rolled with World Wars and evolving economies. These are its stock picks. Since launching in 1934, the fund has made a profit every year.",
-            "date": "Thu, 19 Jun 2025 13:07:00 GMT",
+            "summary": "The Investment Company of America fund has rolled with world war and evolving economies. These are its stock picks. Since launching in 1934, the fund has made a profit on every dollar invested.",
+            "date": "Fri, 20 Jun 2025 13:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XYZ",
+            "stock_ticker": "VTI",
             "impact": "Neutral"
         },
         {
-            "title": "‘Everybody is in danger’ as budget cuts gut caregiving services",
-            "link": "https://www.marketwatch.com/story/everybody-is-in-danger-as-budget-cuts-gut-caregiving-services-21678732?mod=mw_rss_topstories",
-            "summary": "Ai-jen Poo is featured in Bradley Cooper’s PBS “Caregiving” documentary. Poo: “The story of caregiving in America is everyone’S story.”",
-            "date": "Thu, 19 Jun 2025 12:33:00 GMT",
+            "title": "CarMax sees strong used-car demand in the wake of tariffs. The stock is climbing.",
+            "link": "https://www.marketwatch.com/story/carmax-stock-climbs-on-q1-profit-and-revenue-beat-c8f6526f?mod=mw_rss_topstories",
+            "summary": "CarMax’s stock surges, as used-vehicle sales rise at the fastest rate in nearly four years. CarMax is the largest used car retailer in the U.S.",
+            "date": "Fri, 20 Jun 2025 12:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LMDCF",
+            "stock_ticker": "KMX",
             "impact": "Neutral"
         },
         {
-            "title": "Is the stock market open today for Juneteenth? Will the post office deliver mail?",
-            "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-juneteenth-will-the-post-office-deliver-mail-c6552f29?mod=mw_rss_topstories",
-            "summary": "Juneteenth is the newest federal holiday in the U.S. It marks the end of slavery in the United States. Here's what is closed on Juneteenth, June 19.",
-            "date": "Thu, 19 Jun 2025 11:08:00 GMT",
+            "title": "Why stablecoin play Circle’s stock is still a buy even after a sixfold rally",
+            "link": "https://www.marketwatch.com/story/why-stablecoin-play-circles-stock-is-still-a-buy-even-after-a-sixfold-rally-5ae6da08?mod=mw_rss_topstories",
+            "summary": "An analyst projects revenue growth of up to 30% a year for Circle Internet. Circle Internet is expected to outpace other fintechs.",
+            "date": "Fri, 20 Jun 2025 12:49:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CADISK=X",
+            "stock_ticker": "3823.T",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Home Depot continues its building-products expansion with reported bid for GMS",
+            "link": "https://www.marketwatch.com/story/home-depot-continues-its-building-products-expansion-with-reported-bid-for-gms-9fc5e8e7?mod=mw_rss_topstories",
+            "summary": "Home Depot made a buyout bid for buildings-products distributor GMS, the WSJ reported. Home Depot bought SRS Distribution for over $18 billion.",
+            "date": "Fri, 20 Jun 2025 12:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HOME",
             "impact": "Neutral"
         },
         {
-            "title": "Zero rate policy is back after Swiss cut, while Bank of England pauses after four cuts this year",
-            "link": "https://www.marketwatch.com/story/zero-interest-rate-policy-is-back-as-switzerland-cuts-rates-by-a-quarter-point-down-to-nothing-c05c26a8?mod=mw_rss_topstories",
-            "summary": "The Swiss National Bank lowered interest rates to zero on Thursday. The move is the latest in a string of interest rate cuts in recent years.",
-            "date": "Thu, 19 Jun 2025 11:02:00 GMT",
+            "title": "Trump officials paused and then resumed immigration raids in key economic sectors. Industry leaders say they’re still hopeful they can make their case.",
+            "link": "https://www.marketwatch.com/story/trump-officials-paused-then-resumed-immigration-raids-in-key-economic-sectors-industry-leaders-say-theyre-still-hopeful-about-making-their-case-30ae37c0?mod=mw_rss_topstories",
+            "summary": "One immigration expert says he doesn't expect any longer-term administration shift on raids. But he thinks maybe the pause had no real effect.",
+            "date": "Fri, 20 Jun 2025 11:57:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZROZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Global stocks fall, oil futures rise, on a report U.S. may soon strike Iran",
-            "link": "https://www.marketwatch.com/story/global-stocks-fall-oil-futures-rise-on-a-report-u-s-may-soon-strike-iran-234f474e?mod=mw_rss_topstories",
-            "summary": "Asian and European stocks fell on Thursday, and oil futures rose. Reports suggest a U.S. military strike against Iran could happen this weekend.",
-            "date": "Thu, 19 Jun 2025 09:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GEO=F",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         }
     ]
