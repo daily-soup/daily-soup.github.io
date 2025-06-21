@@ -1,124 +1,124 @@
 {
-    "date": "2025-06-20",
+    "date": "2025-06-21",
     "news": [
         {
-            "title": "Fed Governor Waller says central bank could cut rates as early as July",
-            "link": "https://www.cnbc.com/2025/06/20/fed-governor-waller-says-central-bank-could-cut-rates-as-early-as-july.html",
-            "summary": "The central banker said he and his colleagues should move slowly but start to ease. He said inflation is now longer a major threat to the economy.",
-            "date": "Fri, 20 Jun 2025 13:19:22 GMT",
+            "title": "After Zuckerberg spent billions on an AI 'dream team,' he has to deliver for Meta shareholders",
+            "link": "https://www.cnbc.com/2025/06/21/metas-zuckerberg-has-to-win-ai-after-billions-spent-on-dream-team.html",
+            "summary": " Meta CEO Mark Zuckerberg has been on a two-week spending binge, hiring the priciest AI developers in an effort to make up for past setbacks.",
+            "date": "Sat, 21 Jun 2025 10:28:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZQ=F",
-            "impact": "Neutral"
+            "stock_ticker": "AFTM",
+            "impact": "Bullish"
         },
         {
-            "title": "Europe and Iran to hold talks as Trump sets two-week deadline for U.S. strikes decision",
-            "link": "https://www.cnbc.com/2025/06/20/europe-iran-to-hold-talks-as-trump-sets-two-week-deadline-for-us-strikes-decision.html",
-            "summary": "European officials are hoping for a last-minute diplomatic breakthrough with Tehran to deter further escalations of the Middle East conflict. European officials hope for a final breakthrough with Iran to deter future escalations.",
-            "date": "Fri, 20 Jun 2025 13:06:20 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KRW=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Meta, EssilorLuxottica unveil Oakley smart glasses",
-            "link": "https://www.cnbc.com/2025/06/20/meta-essilorluxottica-oakley-smart-glasses-hstn.html",
-            "summary": "Oakley Meta HSTN are AI smart glasses pitched toward athletes with a starting price of $399. Meta and EssilorLuxottica debut the Oakley Meta.",
-            "date": "Fri, 20 Jun 2025 13:16:35 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "META",
-            "impact": "Neutral"
-        },
-        {
-            "title": "In race to attract data centers, states forfeit hundreds of millions of dollars in tax revenue to tech companies",
-            "link": "https://www.cnbc.com/2025/06/20/tax-breaks-for-tech-giants-data-centers-mean-less-income-for-states.html",
-            "summary": "Amazon, Meta and Google are among the beneficiaries of state tax exemptions for data centers that help power AI. Amazon, Meta, Google and other tech giants benefit from tax exemptions on data centers.",
-            "date": "Fri, 20 Jun 2025 11:21:07 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CAI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Darden Restaurants beats earnings estimates, as Olive Garden parent predicts growth in 2026",
-            "link": "https://www.cnbc.com/2025/06/20/darden-restaurants-dri-q4-2025-earnings.html",
-            "summary": "Darden Restaurants beat Wall Street's earnings and revenue estimates. Olive Garden parent predicted solid growth for the fiscal year 2026. The company also expects solid growth in fiscal year 2020.",
-            "date": "Fri, 20 Jun 2025 12:16:59 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DRI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Stock picks and perspectives from a mutual fund approaching its hundredth anniversary",
-            "link": "https://www.marketwatch.com/story/block-out-the-noise-and-stay-invested-stock-picks-and-advice-from-one-of-the-worlds-oldest-mutual-funds-aefddb17?mod=mw_rss_topstories",
-            "summary": "The Investment Company of America fund has rolled with world war and evolving economies. These are its stock picks. Since launching in 1934, the fund has made a profit on every dollar invested.",
-            "date": "Fri, 20 Jun 2025 13:13:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "CarMax sees strong used-car demand in the wake of tariffs. The stock is climbing.",
-            "link": "https://www.marketwatch.com/story/carmax-stock-climbs-on-q1-profit-and-revenue-beat-c8f6526f?mod=mw_rss_topstories",
-            "summary": "CarMax’s stock surges, as used-vehicle sales rise at the fastest rate in nearly four years. CarMax is the largest used car retailer in the U.S.",
-            "date": "Fri, 20 Jun 2025 12:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KMX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why stablecoin play Circle’s stock is still a buy even after a sixfold rally",
-            "link": "https://www.marketwatch.com/story/why-stablecoin-play-circles-stock-is-still-a-buy-even-after-a-sixfold-rally-5ae6da08?mod=mw_rss_topstories",
-            "summary": "An analyst projects revenue growth of up to 30% a year for Circle Internet. Circle Internet is expected to outpace other fintechs.",
-            "date": "Fri, 20 Jun 2025 12:49:00 GMT",
+            "title": "Why electricity prices are surging for U.S. households",
+            "link": "https://www.cnbc.com/2025/06/21/why-electricity-prices-are-surging-for-us-households.html",
+            "summary": "Electricity prices are outstripping the pace of inflation by a wide margin. Experts say the trend is likely to continue in coming years.",
+            "date": "Sat, 21 Jun 2025 09:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "3823.T",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Home Depot continues its building-products expansion with reported bid for GMS",
-            "link": "https://www.marketwatch.com/story/home-depot-continues-its-building-products-expansion-with-reported-bid-for-gms-9fc5e8e7?mod=mw_rss_topstories",
-            "summary": "Home Depot made a buyout bid for buildings-products distributor GMS, the WSJ reported. Home Depot bought SRS Distribution for over $18 billion.",
-            "date": "Fri, 20 Jun 2025 12:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HOME",
             "impact": "Neutral"
         },
         {
-            "title": "Trump officials paused and then resumed immigration raids in key economic sectors. Industry leaders say they’re still hopeful they can make their case.",
-            "link": "https://www.marketwatch.com/story/trump-officials-paused-then-resumed-immigration-raids-in-key-economic-sectors-industry-leaders-say-theyre-still-hopeful-about-making-their-case-30ae37c0?mod=mw_rss_topstories",
-            "summary": "One immigration expert says he doesn't expect any longer-term administration shift on raids. But he thinks maybe the pause had no real effect.",
-            "date": "Fri, 20 Jun 2025 11:57:00 GMT",
+            "title": "How regime change in Iran could affect global oil prices",
+            "link": "https://www.cnbc.com/2025/06/21/how-regime-change-in-iran-could-affect-global-oil-prices.html",
+            "summary": "Iran could attack Gulf energy infrastructure and oil tanker traffic, analysts say. If the Iranian leadership believes its survival is at stake, it could attack, they say.",
+            "date": "Sat, 21 Jun 2025 12:44:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How activist Barington Capital can collaborate with Victoria’s Secret to improve shareholder value",
+            "link": "https://www.cnbc.com/2025/06/21/how-activist-barington-can-collaborate-with-victorias-secret-to-improve-value.html",
+            "summary": "Barington is no stranger to Victoria's Secret, having been at L Brands prior to the spinoff of the lingerie retailer.",
+            "date": "Sat, 21 Jun 2025 12:42:55 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "A lesson for the West? Japan was better prepared than most for China’s rare-earth mineral squeeze",
+            "link": "https://www.cnbc.com/2025/06/20/rare-earths-japan-more-prepared-than-most-for-chinas-mineral-squeeze.html",
+            "summary": "Japan's transformation is seen as both a template for Western nations and a stark reminder of just how difficult it is to escape China's mineral orbit.",
+            "date": "Sat, 21 Jun 2025 08:47:45 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "A",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump’s pick to replace Fed Chair Powell could rock your mortgage and retirement. Buckle up.",
+            "link": "https://www.marketwatch.com/story/trumps-next-fed-picks-will-be-a-dramatic-showdown-with-your-mortgage-payment-and-retirement-savings-on-the-line-214d615a?mod=mw_rss_topstories",
+            "summary": "Understanding the president's thinking could protect your financial future. The president is testing the Fed’s limits —understanding his thinking could help you.",
+            "date": "Sat, 21 Jun 2025 13:20:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PICK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How Trump’s big bill will directly impact your wallet — from paying your taxes and healthcare to raising a child and owning a home",
+            "link": "https://www.marketwatch.com/story/how-trumps-big-bill-will-directly-impact-your-wallet-from-paying-your-taxes-and-healthcare-to-raising-a-child-and-owning-a-home-5e7ec705?mod=mw_rss_topstories",
+            "summary": "As the Senate debates the tax bill, here's what's at stake for your family and workplace. Here's what’s at stake.",
+            "date": "Sat, 21 Jun 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How can I buy my niece a home in her name only — without alienating or upsetting her husband?",
+            "link": "https://www.marketwatch.com/story/how-can-i-give-my-beloved-niece-a-home-in-her-name-only-without-alienating-her-husband-4b25781a?mod=mw_rss_topstories",
+            "summary": "They live in her husband’s home that he purchased prior to their marriage. “They live on the same property that they used to live in,” a source said. The couple has been married for more than a decade.",
+            "date": "Sat, 21 Jun 2025 11:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "As Trump blasts Fed to lower rates, it’s the bond market in need of convincing",
+            "link": "https://www.marketwatch.com/story/as-trump-blasts-fed-to-lower-rates-its-the-bond-market-in-need-of-convincing-b48a9ff7?mod=mw_rss_topstories",
+            "summary": "President Trump wants lower interest rates as two of his signature policy initiatives face looming deadlines. President Trump wants low interest rates to help boost the economy.",
+            "date": "Sat, 21 Jun 2025 11:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My sister and her husband died within days of each other. Their banks won’t let me access their safe-deposit boxes. What now?",
+            "link": "https://www.marketwatch.com/story/my-sister-and-her-husband-died-within-days-of-each-other-their-banks-wont-let-me-access-their-safe-deposit-boxes-what-now-fe982ffe?mod=mw_rss_topstories",
+            "summary": "“The bank suggested filing a claim for unclaimed property in the state where I reside,” she said. “TheBank suggested filing an unclaimedProperty claim in the State Where I reside.”",
+            "date": "Sat, 21 Jun 2025 10:59:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AUDMYR=X",
             "impact": "Neutral"
         }
     ]
