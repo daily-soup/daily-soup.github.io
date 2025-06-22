@@ -1,107 +1,83 @@
 {
-    "date": "2025-06-21",
+    "date": "2025-06-22",
     "news": [
         {
-            "title": "After Zuckerberg spent billions on an AI 'dream team,' he has to deliver for Meta shareholders",
-            "link": "https://www.cnbc.com/2025/06/21/metas-zuckerberg-has-to-win-ai-after-billions-spent-on-dream-team.html",
-            "summary": " Meta CEO Mark Zuckerberg has been on a two-week spending binge, hiring the priciest AI developers in an effort to make up for past setbacks.",
-            "date": "Sat, 21 Jun 2025 10:28:22 GMT",
+            "title": "Iran says it reserves all options after ‘outrageous’ U.S. strikes, launches fresh attacks on Israel",
+            "link": "https://www.cnbc.com/2025/06/22/iran-says-it-reserves-all-options-after-us-strikes-on-nuclear-sites.html",
+            "summary": "Iran launched its 20th wave of missile and drone strikes against Israeli military targets. Iran state-owned media Fars said the strikes were in response to Israel's actions in Syria.",
+            "date": "Sun, 22 Jun 2025 13:07:48 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AFTM",
+            "stock_ticker": "RANI3.SA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Hegseth claims Iran's nuclear ambitions 'obliterated' after U.S. strikes",
+            "link": "https://www.cnbc.com/2025/06/22/hegseth-iran-us-attack.html",
+            "summary": "Defense Secretary Pete Hegseth echoed remarks made by President Donald Trump Saturday following strikes on three major nuclear enrichment facilities in Iran. Heg Seth: \"We are not going to stand by and let Iran get its hands on our weapons\"",
+            "date": "Sun, 22 Jun 2025 13:07:36 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CLA18371-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "World leaders react after Trump says U.S. has bombed 3 nuclear sites in Iran, including Fordo",
+            "link": "https://www.cnbc.com/2025/06/21/world-leaders-react-after-trump-says-us-has-bombed-3-nuclear-sites-in-iran-including-fordo.html",
+            "summary": "World leaders react to U.S. attack on Iran's nuclear sites, including Fordo. President Donald Trump announced the attack Saturday. He called it a \"very successful attack\"",
+            "date": "Sun, 22 Jun 2025 11:35:04 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MVR=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Satellite images show activity at Iran's Fordo nuclear facility before U.S. air strikes",
+            "link": "https://www.cnbc.com/2025/06/22/satellite-images-show-activity-at-irans-fordo-before-us-air-strikes.html",
+            "summary": "Satellite imagery shows activity at Iran's Fordo nuclear facility prior to U.S. air strikes. Maxar Technologies released satellite imagery on Sunday showing activity at the facility.",
+            "date": "Sun, 22 Jun 2025 10:10:18 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GILT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump pledged to be a 'peacemaker' in the Middle East — now the United States is entering a new war",
+            "link": "https://www.cnbc.com/2025/06/21/trump-pledged-to-be-a-peacemaker-in-the-middle-east-now-the-united-states-is-entering-a-new-war.html",
+            "summary": "Five months ago, President Trump promised to be a peacemaker and a unifier. Tonight, the United States attacked Iran, hitting three nuclear sites in Fordo, Natanz, and Isfahan.",
+            "date": "Sun, 22 Jun 2025 06:32:10 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Investors brace for ‘unpredictable spillovers’ in markets after Trump announces Iran strikes",
+            "link": "https://www.marketwatch.com/story/trump-says-u-s-has-launched-attack-on-iran-nuclear-sites-as-investors-brace-for-unpredictable-spillovers-across-markets-0478de96?mod=mw_rss_topstories",
+            "summary": "U.S. joins Israel in attack on Iran's nuclear sites. Move puts the U.S in the middle of a Middle Eastern war. It could set up a potentially volatile market reaction.",
+            "date": "Sun, 22 Jun 2025 02:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "OHI",
             "impact": "Bullish"
         },
         {
-            "title": "Why electricity prices are surging for U.S. households",
-            "link": "https://www.cnbc.com/2025/06/21/why-electricity-prices-are-surging-for-us-households.html",
-            "summary": "Electricity prices are outstripping the pace of inflation by a wide margin. Experts say the trend is likely to continue in coming years.",
-            "date": "Sat, 21 Jun 2025 09:30:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "3823.T",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How regime change in Iran could affect global oil prices",
-            "link": "https://www.cnbc.com/2025/06/21/how-regime-change-in-iran-could-affect-global-oil-prices.html",
-            "summary": "Iran could attack Gulf energy infrastructure and oil tanker traffic, analysts say. If the Iranian leadership believes its survival is at stake, it could attack, they say.",
-            "date": "Sat, 21 Jun 2025 12:44:34 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How activist Barington Capital can collaborate with Victoria’s Secret to improve shareholder value",
-            "link": "https://www.cnbc.com/2025/06/21/how-activist-barington-can-collaborate-with-victorias-secret-to-improve-value.html",
-            "summary": "Barington is no stranger to Victoria's Secret, having been at L Brands prior to the spinoff of the lingerie retailer.",
-            "date": "Sat, 21 Jun 2025 12:42:55 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "A lesson for the West? Japan was better prepared than most for China’s rare-earth mineral squeeze",
-            "link": "https://www.cnbc.com/2025/06/20/rare-earths-japan-more-prepared-than-most-for-chinas-mineral-squeeze.html",
-            "summary": "Japan's transformation is seen as both a template for Western nations and a stark reminder of just how difficult it is to escape China's mineral orbit.",
-            "date": "Sat, 21 Jun 2025 08:47:45 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump’s pick to replace Fed Chair Powell could rock your mortgage and retirement. Buckle up.",
-            "link": "https://www.marketwatch.com/story/trumps-next-fed-picks-will-be-a-dramatic-showdown-with-your-mortgage-payment-and-retirement-savings-on-the-line-214d615a?mod=mw_rss_topstories",
-            "summary": "Understanding the president's thinking could protect your financial future. The president is testing the Fed’s limits —understanding his thinking could help you.",
-            "date": "Sat, 21 Jun 2025 13:20:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PICK",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How Trump’s big bill will directly impact your wallet — from paying your taxes and healthcare to raising a child and owning a home",
-            "link": "https://www.marketwatch.com/story/how-trumps-big-bill-will-directly-impact-your-wallet-from-paying-your-taxes-and-healthcare-to-raising-a-child-and-owning-a-home-5e7ec705?mod=mw_rss_topstories",
-            "summary": "As the Senate debates the tax bill, here's what's at stake for your family and workplace. Here's what’s at stake.",
-            "date": "Sat, 21 Jun 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How can I buy my niece a home in her name only — without alienating or upsetting her husband?",
-            "link": "https://www.marketwatch.com/story/how-can-i-give-my-beloved-niece-a-home-in-her-name-only-without-alienating-her-husband-4b25781a?mod=mw_rss_topstories",
-            "summary": "They live in her husband’s home that he purchased prior to their marriage. “They live on the same property that they used to live in,” a source said. The couple has been married for more than a decade.",
-            "date": "Sat, 21 Jun 2025 11:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "As Trump blasts Fed to lower rates, it’s the bond market in need of convincing",
+            "title": "As Trump badgers Fed to lower rates, it’s the bond market in need of convincing",
             "link": "https://www.marketwatch.com/story/as-trump-blasts-fed-to-lower-rates-its-the-bond-market-in-need-of-convincing-b48a9ff7?mod=mw_rss_topstories",
-            "summary": "President Trump wants lower interest rates as two of his signature policy initiatives face looming deadlines. President Trump wants low interest rates to help boost the economy.",
-            "date": "Sat, 21 Jun 2025 11:00:00 GMT",
+            "summary": "Trump wants to lower interest rates as two of his signature policy initiatives face looming deadlines. Trump wants to reduce interest rates and cut taxes on the wealthy.",
+            "date": "Sun, 22 Jun 2025 01:54:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "My sister and her husband died within days of each other. Their banks won’t let me access their safe-deposit boxes. What now?",
-            "link": "https://www.marketwatch.com/story/my-sister-and-her-husband-died-within-days-of-each-other-their-banks-wont-let-me-access-their-safe-deposit-boxes-what-now-fe982ffe?mod=mw_rss_topstories",
-            "summary": "“The bank suggested filing a claim for unclaimed property in the state where I reside,” she said. “TheBank suggested filing an unclaimedProperty claim in the State Where I reside.”",
-            "date": "Sat, 21 Jun 2025 10:59:00 GMT",
+            "title": "Trump pledged not to cut Medicare — but his budget bill does just that",
+            "link": "https://www.marketwatch.com/story/trump-pledged-not-to-cut-medicare-but-his-budget-bill-does-just-that-b69fb8d2?mod=mw_rss_topstories",
+            "summary": "The GOP megabill now under Senate consideration threatens healthcare insurance for more than 1 million seniors who rely on Medicare. The bill is called the Medicare Modernization Act of 2013.",
+            "date": "Sat, 21 Jun 2025 18:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUDMYR=X",
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The so-called SPAC king prepares to launch another: ‘The last time wasn’t a success by any means’",
+            "link": "https://www.marketwatch.com/story/the-so-called-spac-king-prepares-to-launch-another-the-last-time-wasnt-a-success-by-any-means-0426b24b?mod=mw_rss_topstories",
+            "summary": "The so-called SPAC king, who created a dozen special-purpose acquisition vehicles that lost investors billions of dollars, says he’s getting back in the business.",
+            "date": "Sat, 21 Jun 2025 18:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m 51, earn $129K and have $165K in my 401(k). Can I afford to retire when my husband, 59, draws Social Security at 62?",
+            "link": "https://www.marketwatch.com/story/im-51-earn-129k-and-my-401-k-has-165k-can-i-afford-to-retire-when-my-husband-59-draws-social-security-at-62-df96ad5f?mod=mw_rss_topstories",
+            "summary": "He is retired from a state job and receives a pension that nets around $3,600 per month, as well as lifelong health insurance for both of us.",
+            "date": "Sat, 21 Jun 2025 17:26:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         }
     ]
