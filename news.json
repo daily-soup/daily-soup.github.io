@@ -1,59 +1,35 @@
 {
-    "date": "2025-06-22",
+    "date": "2025-06-23",
     "news": [
         {
-            "title": "Iran says it reserves all options after ‘outrageous’ U.S. strikes, launches fresh attacks on Israel",
-            "link": "https://www.cnbc.com/2025/06/22/iran-says-it-reserves-all-options-after-us-strikes-on-nuclear-sites.html",
-            "summary": "Iran launched its 20th wave of missile and drone strikes against Israeli military targets. Iran state-owned media Fars said the strikes were in response to Israel's actions in Syria.",
-            "date": "Sun, 22 Jun 2025 13:07:48 GMT",
+            "title": "Tankers showing caution around Straight of Hormuz after U.S. attack on Iran nuclear sites",
+            "link": "https://www.cnbc.com/2025/06/23/tankers-reversing-course-from-strait-of-hormuz-following-us-attack-on-iran-nuclear-sites.html",
+            "summary": "A notable event occurred between early Sunday and early Monday, when at least six vessels diverted their courses. At least one ship was carrying more than 1,000 people.",
+            "date": "Mon, 23 Jun 2025 13:24:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3.SA",
+            "stock_ticker": "NAT",
             "impact": "Neutral"
         },
         {
-            "title": "Hegseth claims Iran's nuclear ambitions 'obliterated' after U.S. strikes",
-            "link": "https://www.cnbc.com/2025/06/22/hegseth-iran-us-attack.html",
-            "summary": "Defense Secretary Pete Hegseth echoed remarks made by President Donald Trump Saturday following strikes on three major nuclear enrichment facilities in Iran. Heg Seth: \"We are not going to stand by and let Iran get its hands on our weapons\"",
-            "date": "Sun, 22 Jun 2025 13:07:36 GMT",
+            "title": "Major U.S. health insurers say they will streamline controversial process for approving care",
+            "link": "https://www.cnbc.com/2025/06/23/prior-authorizations-us-insurers-to-change-approval-process.html",
+            "summary": "Insurers such as CVS and UnitedHealthcare will implement the changes across commercial, Medicare and Medicaid plans. The changes will benefit 257 million Americans.",
+            "date": "Mon, 23 Jun 2025 12:05:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CLA18371-USD",
+            "stock_ticker": "MDI.TO",
             "impact": "Neutral"
         },
         {
-            "title": "World leaders react after Trump says U.S. has bombed 3 nuclear sites in Iran, including Fordo",
-            "link": "https://www.cnbc.com/2025/06/21/world-leaders-react-after-trump-says-us-has-bombed-3-nuclear-sites-in-iran-including-fordo.html",
-            "summary": "World leaders react to U.S. attack on Iran's nuclear sites, including Fordo. President Donald Trump announced the attack Saturday. He called it a \"very successful attack\"",
-            "date": "Sun, 22 Jun 2025 11:35:04 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MVR=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Satellite images show activity at Iran's Fordo nuclear facility before U.S. air strikes",
-            "link": "https://www.cnbc.com/2025/06/22/satellite-images-show-activity-at-irans-fordo-before-us-air-strikes.html",
-            "summary": "Satellite imagery shows activity at Iran's Fordo nuclear facility prior to U.S. air strikes. Maxar Technologies released satellite imagery on Sunday showing activity at the facility.",
-            "date": "Sun, 22 Jun 2025 10:10:18 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GILT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump pledged to be a 'peacemaker' in the Middle East — now the United States is entering a new war",
-            "link": "https://www.cnbc.com/2025/06/21/trump-pledged-to-be-a-peacemaker-in-the-middle-east-now-the-united-states-is-entering-a-new-war.html",
-            "summary": "Five months ago, President Trump promised to be a peacemaker and a unifier. Tonight, the United States attacked Iran, hitting three nuclear sites in Fordo, Natanz, and Isfahan.",
-            "date": "Sun, 22 Jun 2025 06:32:10 GMT",
+            "title": "Trump Media approves $400 million stock buyback",
+            "link": "https://www.cnbc.com/2025/06/23/trump-media-stock.html",
+            "summary": "President Donald Trump indirectly owns more than 114 million shares of the company through a revocable trust. Trump is the largest shareholder of The Trump Organization.",
+            "date": "Mon, 23 Jun 2025 13:28:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,46 +38,58 @@
             "impact": "Neutral"
         },
         {
-            "title": "Investors brace for ‘unpredictable spillovers’ in markets after Trump announces Iran strikes",
-            "link": "https://www.marketwatch.com/story/trump-says-u-s-has-launched-attack-on-iran-nuclear-sites-as-investors-brace-for-unpredictable-spillovers-across-markets-0478de96?mod=mw_rss_topstories",
-            "summary": "U.S. joins Israel in attack on Iran's nuclear sites. Move puts the U.S in the middle of a Middle Eastern war. It could set up a potentially volatile market reaction.",
-            "date": "Sun, 22 Jun 2025 02:52:00 GMT",
+            "title": "Novo Nordisk ends deal with Hims & Hers over sales of Wegovy copycats; HIMS drops 20%",
+            "link": "https://www.cnbc.com/2025/06/23/novo-nordisk-ends-wegovy-deal-with-hims-hers.html",
+            "summary": "Novo Nordisk says Hims & Hers has \"failed to adhere to the law which prohibits mass sales of compounded drugs\" under the \"false guise\" of personalization.",
+            "date": "Mon, 23 Jun 2025 12:41:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OHI",
-            "impact": "Bullish"
-        },
-        {
-            "title": "As Trump badgers Fed to lower rates, it’s the bond market in need of convincing",
-            "link": "https://www.marketwatch.com/story/as-trump-blasts-fed-to-lower-rates-its-the-bond-market-in-need-of-convincing-b48a9ff7?mod=mw_rss_topstories",
-            "summary": "Trump wants to lower interest rates as two of his signature policy initiatives face looming deadlines. Trump wants to reduce interest rates and cut taxes on the wealthy.",
-            "date": "Sun, 22 Jun 2025 01:54:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AS",
+            "stock_ticker": "NVO",
             "impact": "Neutral"
         },
         {
-            "title": "Trump pledged not to cut Medicare — but his budget bill does just that",
-            "link": "https://www.marketwatch.com/story/trump-pledged-not-to-cut-medicare-but-his-budget-bill-does-just-that-b69fb8d2?mod=mw_rss_topstories",
-            "summary": "The GOP megabill now under Senate consideration threatens healthcare insurance for more than 1 million seniors who rely on Medicare. The bill is called the Medicare Modernization Act of 2013.",
-            "date": "Sat, 21 Jun 2025 18:55:00 GMT",
+            "title": "Vultr raises over $300 million in debt as Wall Street goes bigger in cloud infrastructure",
+            "link": "https://www.cnbc.com/2025/06/23/vultr-raises-300-million-in-debt-from-bank-of-america-citi-goldman.html",
+            "summary": "Vultr is trying to build more capacity to handle traditional applications as well as artificial intelligence models. Vultr wants to be able to handle both traditional and artificial intelligence applications.",
+            "date": "Mon, 23 Jun 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "0P0001HHJE.BO",
             "impact": "Neutral"
         },
         {
-            "title": "The so-called SPAC king prepares to launch another: ‘The last time wasn’t a success by any means’",
-            "link": "https://www.marketwatch.com/story/the-so-called-spac-king-prepares-to-launch-another-the-last-time-wasnt-a-success-by-any-means-0426b24b?mod=mw_rss_topstories",
-            "summary": "The so-called SPAC king, who created a dozen special-purpose acquisition vehicles that lost investors billions of dollars, says he’s getting back in the business.",
-            "date": "Sat, 21 Jun 2025 18:12:00 GMT",
+            "title": "How Trump’s Iran strike just made your stock portfolio great again",
+            "link": "https://www.marketwatch.com/story/howtrumps-iran-strike-just-made-your-stock-portfolio-great-again-777817ae?mod=mw_rss_topstories",
+            "summary": "Take a close look now at U.S. manufacturers, semiconductor producers, agricultural exporters, cybersecurity firms and defense contractors. Take a closeLook now at. U.N. Secretary-General Ban Ki-moon's speech to the United Nations.",
+            "date": "Mon, 23 Jun 2025 13:20:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "3823.T",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I’m 49 and have no debt except for a mortgage’: Should I take a $61,000 lump sum or $355 a month for life?",
+            "link": "https://www.marketwatch.com/story/im-49-and-have-no-debt-except-for-a-mortgage-should-i-take-a-61-000-lump-sum-or-355-a-month-for-life-7752f1c6?mod=mw_rss_topstories",
+            "summary": "“My S&amp;P 500 investments have roughly doubled every seven years,” he says. “I’m a big believer in long-term investing.”",
+            "date": "Mon, 23 Jun 2025 12:19:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The U.S. bull market is intact — and a key signal is coming from Tel Aviv, says this strategist",
+            "link": "https://www.marketwatch.com/story/the-u-s-bull-market-is-intact-and-a-key-signal-is-coming-from-tel-aviv-says-this-strategist-c085b605?mod=mw_rss_topstories",
+            "summary": "Tel Aviv stock market at record highs suggests investors are looking through the current crisis. Tel Aviv stock Market at Record High suggests Investors are Looking Through the Current Crisis.",
+            "date": "Mon, 23 Jun 2025 11:44:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +98,27 @@
             "impact": "Neutral"
         },
         {
-            "title": "I’m 51, earn $129K and have $165K in my 401(k). Can I afford to retire when my husband, 59, draws Social Security at 62?",
-            "link": "https://www.marketwatch.com/story/im-51-earn-129k-and-my-401-k-has-165k-can-i-afford-to-retire-when-my-husband-59-draws-social-security-at-62-df96ad5f?mod=mw_rss_topstories",
-            "summary": "He is retired from a state job and receives a pension that nets around $3,600 per month, as well as lifelong health insurance for both of us.",
-            "date": "Sat, 21 Jun 2025 17:26:00 GMT",
+            "title": "‘Is this normal?’ I’m 40 and inherited an IRA worth $650K. It has grown to $1M over five years. But I had a pro look at my investments and one-third are underperforming.",
+            "link": "https://www.marketwatch.com/story/is-this-normal-im-40-and-inherited-an-ira-worth-650k-it-has-grown-to-1m-over-five-years-but-i-had-a-pro-look-at-my-investments-and-one-third-are-underperforming-b855f50a?mod=mw_rss_topstories",
+            "summary": ". Have an issue with your financial planner or looking for a new one? Email questions or concerns to picks@marketwatch.com.",
+            "date": "Mon, 23 Jun 2025 11:32:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "CADISK=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These are the reasons to stay positive on stocks, according to Morgan Stanley",
+            "link": "https://www.marketwatch.com/story/these-are-the-reasons-to-stay-positive-on-stocks-according-to-morgan-stanley-91cf0edb?mod=mw_rss_topstories",
+            "summary": "Morgan Stanley interpret  current geopolitical turbulence as a chance to buy stocks. Morgan Stanley: 'We see this as a good time to buy shares in the U.S.'",
+            "date": "Mon, 23 Jun 2025 10:53:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ARE",
             "impact": "Neutral"
         }
     ]
