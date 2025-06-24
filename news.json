@@ -1,35 +1,47 @@
 {
-    "date": "2025-06-23",
+    "date": "2025-06-24",
     "news": [
         {
-            "title": "Tankers showing caution around Straight of Hormuz after U.S. attack on Iran nuclear sites",
-            "link": "https://www.cnbc.com/2025/06/23/tankers-reversing-course-from-strait-of-hormuz-following-us-attack-on-iran-nuclear-sites.html",
-            "summary": "A notable event occurred between early Sunday and early Monday, when at least six vessels diverted their courses. At least one ship was carrying more than 1,000 people.",
-            "date": "Mon, 23 Jun 2025 13:24:06 GMT",
+            "title": "Powell emphasizes Fed's obligation to prevent 'ongoing inflation problem' despite Trump criticism",
+            "link": "https://www.cnbc.com/2025/06/24/powell-emphasizes-feds-obligation-to-prevent-ongoing-inflation-problem-despite-trump-criticism.html",
+            "summary": "The cautious tones from Powell could further antagonize President Donald Trump, who has ramped up his long-standing criticism of Powell. The White House has not commented on Powell's remarks.",
+            "date": "Tue, 24 Jun 2025 12:33:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NAT",
-            "impact": "Neutral"
+            "stock_ticker": "POWL",
+            "impact": "Bullish"
         },
         {
-            "title": "Major U.S. health insurers say they will streamline controversial process for approving care",
-            "link": "https://www.cnbc.com/2025/06/23/prior-authorizations-us-insurers-to-change-approval-process.html",
-            "summary": "Insurers such as CVS and UnitedHealthcare will implement the changes across commercial, Medicare and Medicaid plans. The changes will benefit 257 million Americans.",
-            "date": "Mon, 23 Jun 2025 12:05:03 GMT",
+            "title": "Amazon bringing faster delivery to thousands of small towns and cities",
+            "link": "https://www.cnbc.com/2025/06/24/amazon-fast-delivery-small-towns-cities.html",
+            "summary": "Amazon previously said it would spend $4 billion by the end of 2026 to triple the size of its rural delivery network. Amazon.com is based in Seattle, Washington.",
+            "date": "Tue, 24 Jun 2025 12:51:48 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MDI.TO",
+            "stock_ticker": "AMZN",
             "impact": "Neutral"
         },
         {
-            "title": "Trump Media approves $400 million stock buyback",
-            "link": "https://www.cnbc.com/2025/06/23/trump-media-stock.html",
-            "summary": "President Donald Trump indirectly owns more than 114 million shares of the company through a revocable trust. Trump is the largest shareholder of The Trump Organization.",
-            "date": "Mon, 23 Jun 2025 13:28:53 GMT",
+            "title": "Crypto rules of the road framework unveiled by Republican senators",
+            "link": "https://www.cnbc.com/2025/06/24/crypto-rules-of-the-road-framework-unveiled-by-republican-senators-.html",
+            "summary": "Republican Sens. Tim Scott and Cynthia Lummis are pushing a crypto market structure bill. The bill would give digital asset companies clarity on regulations.",
+            "date": "Tue, 24 Jun 2025 12:36:13 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BITQ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump and the U.S. are totally committed to NATO, alliance chief says to reassure allies",
+            "link": "https://www.cnbc.com/2025/06/24/trump-and-the-us-are-totally-committed-to-nato-alliance-chief-says.html",
+            "summary": "Tensions between Washington, Canadian and European allies' defense spending have overshadowed NATO for a number of years. Tensions between U.S. and Canadian, European allies over defense spending has overshadowed NATO.",
+            "date": "Tue, 24 Jun 2025 12:29:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,58 +50,34 @@
             "impact": "Neutral"
         },
         {
-            "title": "Novo Nordisk ends deal with Hims & Hers over sales of Wegovy copycats; HIMS drops 20%",
-            "link": "https://www.cnbc.com/2025/06/23/novo-nordisk-ends-wegovy-deal-with-hims-hers.html",
-            "summary": "Novo Nordisk says Hims & Hers has \"failed to adhere to the law which prohibits mass sales of compounded drugs\" under the \"false guise\" of personalization.",
-            "date": "Mon, 23 Jun 2025 12:41:19 GMT",
+            "title": "Senators will stay in DC until Trump's 'big, beautiful bill' passes, Thune says",
+            "link": "https://www.cnbc.com/2025/06/23/trump-republicans-senate-thune-spending-bill.html",
+            "summary": "Sen. John Thune's comments are a sign of the growing pressure he faces to get Republican holdouts on board. Sen. Thune is a Republican from South Dakota and a member of the Senate GOP leadership.",
+            "date": "Tue, 24 Jun 2025 11:49:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVO",
+            "stock_ticker": "SHW",
             "impact": "Neutral"
         },
         {
-            "title": "Vultr raises over $300 million in debt as Wall Street goes bigger in cloud infrastructure",
-            "link": "https://www.cnbc.com/2025/06/23/vultr-raises-300-million-in-debt-from-bank-of-america-citi-goldman.html",
-            "summary": "Vultr is trying to build more capacity to handle traditional applications as well as artificial intelligence models. Vultr wants to be able to handle both traditional and artificial intelligence applications.",
-            "date": "Mon, 23 Jun 2025 13:00:01 GMT",
+            "title": "Krispy Kreme and McDonald’s end their doughnut partnership, as it didn’t make money",
+            "link": "https://www.marketwatch.com/story/krispy-kreme-and-mcdonalds-end-their-doughnut-partnership-as-it-didnt-make-money-d10b3088?mod=mw_rss_topstories",
+            "summary": "Fast-food giant and doughnut maker scrap their alliance, which rolled out nationally in March 2024, as demand kept falling. Fast-food giants and doughnuts maker scrap its alliance.",
+            "date": "Tue, 24 Jun 2025 13:22:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001HHJE.BO",
+            "stock_ticker": "DNUT",
             "impact": "Neutral"
         },
         {
-            "title": "How Trump’s Iran strike just made your stock portfolio great again",
-            "link": "https://www.marketwatch.com/story/howtrumps-iran-strike-just-made-your-stock-portfolio-great-again-777817ae?mod=mw_rss_topstories",
-            "summary": "Take a close look now at U.S. manufacturers, semiconductor producers, agricultural exporters, cybersecurity firms and defense contractors. Take a closeLook now at. U.N. Secretary-General Ban Ki-moon's speech to the United Nations.",
-            "date": "Mon, 23 Jun 2025 13:20:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "3823.T",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m 49 and have no debt except for a mortgage’: Should I take a $61,000 lump sum or $355 a month for life?",
-            "link": "https://www.marketwatch.com/story/im-49-and-have-no-debt-except-for-a-mortgage-should-i-take-a-61-000-lump-sum-or-355-a-month-for-life-7752f1c6?mod=mw_rss_topstories",
-            "summary": "“My S&amp;P 500 investments have roughly doubled every seven years,” he says. “I’m a big believer in long-term investing.”",
-            "date": "Mon, 23 Jun 2025 12:19:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The U.S. bull market is intact — and a key signal is coming from Tel Aviv, says this strategist",
-            "link": "https://www.marketwatch.com/story/the-u-s-bull-market-is-intact-and-a-key-signal-is-coming-from-tel-aviv-says-this-strategist-c085b605?mod=mw_rss_topstories",
-            "summary": "Tel Aviv stock market at record highs suggests investors are looking through the current crisis. Tel Aviv stock Market at Record High suggests Investors are Looking Through the Current Crisis.",
-            "date": "Mon, 23 Jun 2025 11:44:00 GMT",
+            "title": "Forget the ‘Magnificent Seven’ — these 7 cheap tech and AI stocks are better buys right now",
+            "link": "https://www.marketwatch.com/story/forget-the-magnificent-seven-these-7-cheap-tech-and-ai-stocks-are-better-buys-right-now-5ed65ad2?mod=mw_rss_topstories",
+            "summary": "This mutual-fund manager stays calm through uncertainty — and significantly outperforms the stock market. This mutual- fund manager stays Calm through Uncertainty.",
+            "date": "Tue, 24 Jun 2025 13:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘Is this normal?’ I’m 40 and inherited an IRA worth $650K. It has grown to $1M over five years. But I had a pro look at my investments and one-third are underperforming.",
-            "link": "https://www.marketwatch.com/story/is-this-normal-im-40-and-inherited-an-ira-worth-650k-it-has-grown-to-1m-over-five-years-but-i-had-a-pro-look-at-my-investments-and-one-third-are-underperforming-b855f50a?mod=mw_rss_topstories",
-            "summary": ". Have an issue with your financial planner or looking for a new one? Email questions or concerns to picks@marketwatch.com.",
-            "date": "Mon, 23 Jun 2025 11:32:00 GMT",
+            "title": "Powell says tariffs likely to boost inflation, mum on future rate cuts",
+            "link": "https://www.marketwatch.com/story/powell-says-tariffs-likely-to-boost-inflation-mum-on-future-rate-cuts-de495874?mod=mw_rss_topstories",
+            "summary": "Federal Reserve Chairman Jerome Powell gave little sign of when U.S. interest rates will be reduced again. He told Congress that tariffs are likely to push up inflation and “weigh on economic activity”",
+            "date": "Tue, 24 Jun 2025 12:44:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CADISK=X",
+            "stock_ticker": "POWL",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Here are the overlooked ways to play AI, crypto and quantum trends, says this tech investor",
+            "link": "https://www.marketwatch.com/story/here-are-the-overlooked-ways-to-play-ai-crypto-and-quantum-trends-says-this-tech-investor-1ddc12da?mod=mw_rss_topstories",
+            "summary": "Investor Eric Jackson identifies the overlooked companies that can benefit from crypto, artificial intelligence and quantum technologies. Jackson: \"Crypto is the next big thing in finance\"",
+            "date": "Tue, 24 Jun 2025 12:42:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FZSXX",
             "impact": "Neutral"
         },
         {
-            "title": "These are the reasons to stay positive on stocks, according to Morgan Stanley",
-            "link": "https://www.marketwatch.com/story/these-are-the-reasons-to-stay-positive-on-stocks-according-to-morgan-stanley-91cf0edb?mod=mw_rss_topstories",
-            "summary": "Morgan Stanley interpret  current geopolitical turbulence as a chance to buy stocks. Morgan Stanley: 'We see this as a good time to buy shares in the U.S.'",
-            "date": "Mon, 23 Jun 2025 10:53:00 GMT",
+            "title": "Mastercard makes a move toward stablecoins, in an effort to boost mainstream use",
+            "link": "https://www.marketwatch.com/story/mastercard-makes-a-move-toward-stablecoins-in-an-effort-to-boost-mainstream-use-cb94d5a7?mod=mw_rss_topstories",
+            "summary": "Stablecoins have come into greater focus by investors. Stablecoins are a form of digital money that can be traded on the internet. They can also be used to pay for goods and services.",
+            "date": "Tue, 24 Jun 2025 12:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ARE",
+            "stock_ticker": "MA",
             "impact": "Neutral"
         }
     ]
