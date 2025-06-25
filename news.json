@@ -1,83 +1,83 @@
 {
-    "date": "2025-06-24",
+    "date": "2025-06-25",
     "news": [
         {
-            "title": "Powell emphasizes Fed's obligation to prevent 'ongoing inflation problem' despite Trump criticism",
-            "link": "https://www.cnbc.com/2025/06/24/powell-emphasizes-feds-obligation-to-prevent-ongoing-inflation-problem-despite-trump-criticism.html",
-            "summary": "The cautious tones from Powell could further antagonize President Donald Trump, who has ramped up his long-standing criticism of Powell. The White House has not commented on Powell's remarks.",
-            "date": "Tue, 24 Jun 2025 12:33:17 GMT",
+            "title": "NATO allies agree to higher 5% defense spending target",
+            "link": "https://www.cnbc.com/2025/06/25/nato-allies-agree-to-higher-5percent-defense-spending-target.html",
+            "summary": "U.S. President Donald Trump has been exercising pressure for NATO allies to increase their defense spending across both of his terms in office. The United States has called on its allies to spend more on defense.",
+            "date": "Wed, 25 Jun 2025 13:26:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "POWL",
+            "stock_ticker": "NATO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bumble jumps 15% as dating company plans to axe 30% of workforce",
+            "link": "https://www.cnbc.com/2025/06/25/bumble-layoffs.html",
+            "summary": "Whitney Wolfe Herd, who stepped down as CEO at the beginning of 2024, returned to the role earlier this year. She will continue to serve as chairman of the board until 2024.",
+            "date": "Wed, 25 Jun 2025 13:08:37 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BMBL",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Amazon's Ring launches AI-generated security alerts",
+            "link": "https://www.cnbc.com/2025/06/25/amazon-ring-ai-notifications.html",
+            "summary": "The move is part of the smart home security company's plans to push deeper into AI. Ring CEO Jamie Siminoff said it's part of a larger strategy to push further into the field of AI.",
+            "date": "Wed, 25 Jun 2025 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RING",
+            "impact": "Neutral"
+        },
+        {
+            "title": "To land Meta’s massive $10 billion data center, Louisiana pulled out all the stops. Will it be worth it?",
+            "link": "https://www.cnbc.com/2025/06/25/meta-massive-data-center-louisiana-cost-jobs-energy-use.html",
+            "summary": " Meta is building the largest data center in the Western Hemisphere on a sprawling site in rural Northeastern Louisiana. The state gave up a lot to get it.",
+            "date": "Wed, 25 Jun 2025 12:47:37 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOPBRX=X",
             "impact": "Bullish"
         },
         {
-            "title": "Amazon bringing faster delivery to thousands of small towns and cities",
-            "link": "https://www.cnbc.com/2025/06/24/amazon-fast-delivery-small-towns-cities.html",
-            "summary": "Amazon previously said it would spend $4 billion by the end of 2026 to triple the size of its rural delivery network. Amazon.com is based in Seattle, Washington.",
-            "date": "Tue, 24 Jun 2025 12:51:48 GMT",
+            "title": "Tesla's European car sales nosedive for fifth month as customers switch to Chinese EVs",
+            "link": "https://www.cnbc.com/2025/06/25/teslas-european-car-sales-fall-as-customers-switch-to-chinese-evs.html",
+            "summary": "The U.S. EV maker has sustained brand and reputational damage in part due to CEO Elon Musk's incendiary rhetoric and political activity.",
+            "date": "Wed, 25 Jun 2025 12:49:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMZN",
+            "stock_ticker": "EHR=F",
             "impact": "Neutral"
         },
         {
-            "title": "Crypto rules of the road framework unveiled by Republican senators",
-            "link": "https://www.cnbc.com/2025/06/24/crypto-rules-of-the-road-framework-unveiled-by-republican-senators-.html",
-            "summary": "Republican Sens. Tim Scott and Cynthia Lummis are pushing a crypto market structure bill. The bill would give digital asset companies clarity on regulations.",
-            "date": "Tue, 24 Jun 2025 12:36:13 GMT",
+            "title": "Cheerios parent General Mills will sacrifice some profit to drive sales, and the stock is dropping",
+            "link": "https://www.marketwatch.com/story/cheerios-parent-general-mills-will-sacrifice-some-profit-to-drive-sales-and-the-stock-is-dropping-74919f1a?mod=mw_rss_topstories",
+            "summary": "General Mills will look to keep prices low, with a focus on sales growth. General Mills will also focus on keeping the price of its cereal at a low level.",
+            "date": "Wed, 25 Jun 2025 13:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BITQ",
+            "stock_ticker": "FYBR",
             "impact": "Neutral"
         },
         {
-            "title": "Trump and the U.S. are totally committed to NATO, alliance chief says to reassure allies",
-            "link": "https://www.cnbc.com/2025/06/24/trump-and-the-us-are-totally-committed-to-nato-alliance-chief-says.html",
-            "summary": "Tensions between Washington, Canadian and European allies' defense spending have overshadowed NATO for a number of years. Tensions between U.S. and Canadian, European allies over defense spending has overshadowed NATO.",
-            "date": "Tue, 24 Jun 2025 12:29:16 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Senators will stay in DC until Trump's 'big, beautiful bill' passes, Thune says",
-            "link": "https://www.cnbc.com/2025/06/23/trump-republicans-senate-thune-spending-bill.html",
-            "summary": "Sen. John Thune's comments are a sign of the growing pressure he faces to get Republican holdouts on board. Sen. Thune is a Republican from South Dakota and a member of the Senate GOP leadership.",
-            "date": "Tue, 24 Jun 2025 11:49:50 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SHW",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Krispy Kreme and McDonald’s end their doughnut partnership, as it didn’t make money",
-            "link": "https://www.marketwatch.com/story/krispy-kreme-and-mcdonalds-end-their-doughnut-partnership-as-it-didnt-make-money-d10b3088?mod=mw_rss_topstories",
-            "summary": "Fast-food giant and doughnut maker scrap their alliance, which rolled out nationally in March 2024, as demand kept falling. Fast-food giants and doughnuts maker scrap its alliance.",
-            "date": "Tue, 24 Jun 2025 13:22:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DNUT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Forget the ‘Magnificent Seven’ — these 7 cheap tech and AI stocks are better buys right now",
-            "link": "https://www.marketwatch.com/story/forget-the-magnificent-seven-these-7-cheap-tech-and-ai-stocks-are-better-buys-right-now-5ed65ad2?mod=mw_rss_topstories",
-            "summary": "This mutual-fund manager stays calm through uncertainty — and significantly outperforms the stock market. This mutual- fund manager stays Calm through Uncertainty.",
-            "date": "Tue, 24 Jun 2025 13:13:00 GMT",
+            "title": "The next great WFH trend will be ‘War from Home,’ says this strategist",
+            "link": "https://www.marketwatch.com/story/the-next-great-wfh-trend-will-be-war-from-home-says-this-strategist-18897c02?mod=mw_rss_topstories",
+            "summary": "The idea that warfare is conducted without troops actually on foreign soil will require investment into the defense sector, says a strategist. The big companies will need to invest in defense, says the strategist.",
+            "date": "Wed, 25 Jun 2025 12:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "Powell says tariffs likely to boost inflation, mum on future rate cuts",
-            "link": "https://www.marketwatch.com/story/powell-says-tariffs-likely-to-boost-inflation-mum-on-future-rate-cuts-de495874?mod=mw_rss_topstories",
-            "summary": "Federal Reserve Chairman Jerome Powell gave little sign of when U.S. interest rates will be reduced again. He told Congress that tariffs are likely to push up inflation and “weigh on economic activity”",
-            "date": "Tue, 24 Jun 2025 12:44:00 GMT",
+            "title": "Here’s one stock-market forecast you can bank on: No one will ever have a crystal ball",
+            "link": "https://www.marketwatch.com/story/heres-one-stock-market-forecast-you-can-bank-on-no-one-will-ever-have-a-crystal-ball-d7210258?mod=mw_rss_topstories",
+            "summary": "Don't mistake anecdotes for data. Evaluate a forecaster’s credibility before buying in — and don’t mistake anecdotes with data.",
+            "date": "Wed, 25 Jun 2025 12:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "POWL",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Here are the overlooked ways to play AI, crypto and quantum trends, says this tech investor",
-            "link": "https://www.marketwatch.com/story/here-are-the-overlooked-ways-to-play-ai-crypto-and-quantum-trends-says-this-tech-investor-1ddc12da?mod=mw_rss_topstories",
-            "summary": "Investor Eric Jackson identifies the overlooked companies that can benefit from crypto, artificial intelligence and quantum technologies. Jackson: \"Crypto is the next big thing in finance\"",
-            "date": "Tue, 24 Jun 2025 12:42:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FZSXX",
+            "stock_ticker": "SR1=F",
             "impact": "Neutral"
         },
         {
-            "title": "Mastercard makes a move toward stablecoins, in an effort to boost mainstream use",
-            "link": "https://www.marketwatch.com/story/mastercard-makes-a-move-toward-stablecoins-in-an-effort-to-boost-mainstream-use-cb94d5a7?mod=mw_rss_topstories",
-            "summary": "Stablecoins have come into greater focus by investors. Stablecoins are a form of digital money that can be traded on the internet. They can also be used to pay for goods and services.",
-            "date": "Tue, 24 Jun 2025 12:03:00 GMT",
+            "title": "Why more big companies like Sherwin-Williams are talking about immigration on their earnings calls",
+            "link": "https://www.marketwatch.com/story/why-more-big-companies-like-sherwin-williams-are-talking-about-immigration-on-their-earnings-calls-e71c9bf7?mod=mw_rss_topstories",
+            "summary": "There has been a surge in mentions of immigration in quarterly earnings calls of S&amp;P 500 companies. President Donald Trump and his fellow Republicans in Congress take tougher stances on immigration issues.",
+            "date": "Wed, 25 Jun 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MA",
+            "stock_ticker": "3823.T",
+            "impact": "Neutral"
+        },
+        {
+            "title": "FedEx’s profit forecast is sinking the stock, as tariffs weigh on shipments",
+            "link": "https://www.marketwatch.com/story/fedex-hopes-to-save-1-billion-this-fiscal-year-but-its-forecast-is-sinking-shares-d7322bf1?mod=mw_rss_topstories",
+            "summary": "FedEx forecast a fiscal first-quarter per-share profit that came in shy of Wall Street’s expectations. Shares of the package-delivery giant lower in after-hours trade.",
+            "date": "Wed, 25 Jun 2025 11:22:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "161216.SZ",
             "impact": "Neutral"
         }
     ]
