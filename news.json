@@ -1,124 +1,124 @@
 {
-    "date": "2025-06-25",
+    "date": "2025-06-26",
     "news": [
         {
-            "title": "NATO allies agree to higher 5% defense spending target",
-            "link": "https://www.cnbc.com/2025/06/25/nato-allies-agree-to-higher-5percent-defense-spending-target.html",
-            "summary": "U.S. President Donald Trump has been exercising pressure for NATO allies to increase their defense spending across both of his terms in office. The United States has called on its allies to spend more on defense.",
-            "date": "Wed, 25 Jun 2025 13:26:04 GMT",
+            "title": "How the stock market made it back to a new record — even with so much still to worry about",
+            "link": "https://www.cnbc.com/2025/06/26/how-the-stock-market-made-it-back-to-a-new-record-even-with-so-much-still-to-worry-about.html",
+            "summary": "The wall of worry has been crumbling with trade deals in motion and the economy remaining in solid shape. The economy is in good shape and the Wall of worry is crumbling.",
+            "date": "Thu, 26 Jun 2025 11:34:13 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NATO",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Bumble jumps 15% as dating company plans to axe 30% of workforce",
-            "link": "https://www.cnbc.com/2025/06/25/bumble-layoffs.html",
-            "summary": "Whitney Wolfe Herd, who stepped down as CEO at the beginning of 2024, returned to the role earlier this year. She will continue to serve as chairman of the board until 2024.",
-            "date": "Wed, 25 Jun 2025 13:08:37 GMT",
+            "title": "Pixar's 'Elio' is emblematic of a bigger headwind for Hollywood",
+            "link": "https://www.cnbc.com/2025/06/26/pixars-elio-is-emblematic-of-a-bigger-headwind-for-hollywood.html",
+            "summary": "\"Elio\" had a record low opening for the studio. Its performance is emblematic of a much wider trend in Hollywood: a reliance on sequels.",
+            "date": "Thu, 26 Jun 2025 12:48:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMBL",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Amazon's Ring launches AI-generated security alerts",
-            "link": "https://www.cnbc.com/2025/06/25/amazon-ring-ai-notifications.html",
-            "summary": "The move is part of the smart home security company's plans to push deeper into AI. Ring CEO Jamie Siminoff said it's part of a larger strategy to push further into the field of AI.",
-            "date": "Wed, 25 Jun 2025 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RING",
+            "stock_ticker": "ELROF",
             "impact": "Neutral"
         },
         {
-            "title": "To land Meta’s massive $10 billion data center, Louisiana pulled out all the stops. Will it be worth it?",
-            "link": "https://www.cnbc.com/2025/06/25/meta-massive-data-center-louisiana-cost-jobs-energy-use.html",
-            "summary": " Meta is building the largest data center in the Western Hemisphere on a sprawling site in rural Northeastern Louisiana. The state gave up a lot to get it.",
-            "date": "Wed, 25 Jun 2025 12:47:37 GMT",
+            "title": "Trump Organization scraps 'made in the USA' tag for its gold T1 smartphone",
+            "link": "https://www.cnbc.com/2025/06/26/trump-phone-website-removes-made-in-the-usa-tag-for-the-device.html",
+            "summary": "The Trump Organization has removed a reference to the recently-announced T1 smartphone being made in America. The T1 is a new smartphone from the Trump Organization. It is expected to go on sale later this year.",
+            "date": "Thu, 26 Jun 2025 12:20:23 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOPBRX=X",
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "PayPal teams up with the Big Ten and Big 12 to enable payments to student-athletes",
+            "link": "https://www.cnbc.com/2025/06/26/paypal-partners-with-big-ten-big-12-on-student-athlete-payments.html",
+            "summary": "PayPal will allow student-athletes to receive their compensation via the fintech company. A new partnership between the Big Ten and Big 12 conferences and PayPal.",
+            "date": "Thu, 26 Jun 2025 13:11:45 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PYPL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump administration moves to count crypto as a federal mortgage asset",
+            "link": "https://www.cnbc.com/2025/06/25/trump-crypto-mortgage.html",
+            "summary": "The Trump administration is ordering Fannie Mae and Freddie Mac to formally consider cryptocurrency as an asset in single-family mortgage loan risk assessments. The move is aimed at reducing the risk of a mortgage default.",
+            "date": "Wed, 25 Jun 2025 21:05:08 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My son, 39, will be released from prison in 2030. Do I leave him my $100K life insurance?",
+            "link": "https://www.marketwatch.com/story/my-son-39-will-be-released-from-prison-in-2030-do-i-leave-him-my-100k-life-insurance-6bfd622c?mod=mw_rss_topstories",
+            "summary": "“I am concerned about leaving a large sum of cash to a drug user,” she says. “I’m concerned about people using the money to buy drugs.”",
+            "date": "Thu, 26 Jun 2025 13:25:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AUDMYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This outlook shows why investors should maintain exposure to the ‘Magnificent Seven’",
+            "link": "https://www.marketwatch.com/story/this-outlook-shows-why-investors-should-maintain-exposure-to-the-magnificent-seven-d9939fc3?mod=mw_rss_topstories",
+            "summary": "Big Tech is expected to see double the earnings growth of the S&amp;P 500, as long as the group can maintain momentum in a key area.",
+            "date": "Thu, 26 Jun 2025 13:20:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "THISX",
             "impact": "Bullish"
         },
         {
-            "title": "Tesla's European car sales nosedive for fifth month as customers switch to Chinese EVs",
-            "link": "https://www.cnbc.com/2025/06/25/teslas-european-car-sales-fall-as-customers-switch-to-chinese-evs.html",
-            "summary": "The U.S. EV maker has sustained brand and reputational damage in part due to CEO Elon Musk's incendiary rhetoric and political activity.",
-            "date": "Wed, 25 Jun 2025 12:49:35 GMT",
+            "title": "Your Social Security check will be nearly 20% less if Congress doesn’t face facts soon",
+            "link": "https://www.marketwatch.com/story/your-social-security-check-will-be-nearly-20-less-if-congress-doesnt-face-facts-soon-889e9daf?mod=mw_rss_topstories",
+            "summary": "America’s retirement trust fund is expected to run dry by 2034. A U.S. economic downturn would only make a bad situation worse.",
+            "date": "Thu, 26 Jun 2025 13:18:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EHR=F",
+            "stock_ticker": "YOURF",
+            "impact": "Bearish"
+        },
+        {
+            "title": "‘I’m 68 and my 401(k) has dwindled to $82,000’: My husband committed financial infidelity and has $50,000 in credit-card debt. What now?",
+            "link": "https://www.marketwatch.com/story/im-68-and-my-401-k-has-dwindled-to-82-000-my-husband-committed-financial-infidelity-and-has-50-000-in-credit-card-debt-what-now-87582bdc?mod=mw_rss_topstories",
+            "summary": "“I have $3,000 in gold and Social Security income for me and my spouse makes $46,180 a year.”",
+            "date": "Thu, 26 Jun 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "Cheerios parent General Mills will sacrifice some profit to drive sales, and the stock is dropping",
-            "link": "https://www.marketwatch.com/story/cheerios-parent-general-mills-will-sacrifice-some-profit-to-drive-sales-and-the-stock-is-dropping-74919f1a?mod=mw_rss_topstories",
-            "summary": "General Mills will look to keep prices low, with a focus on sales growth. General Mills will also focus on keeping the price of its cereal at a low level.",
-            "date": "Wed, 25 Jun 2025 13:13:00 GMT",
+            "title": "Walgreens’ U.S. retail sales remain weak, but here’s why the stock is rising",
+            "link": "https://www.marketwatch.com/story/walgreens-boots-alliance-stock-rises-on-better-than-expected-sales-and-adjusted-profit-a793ec1a?mod=mw_rss_topstories",
+            "summary": "The drugstore industry is facing competition from the likes of Amazon.com Inc., as well as pressure on pharmacy-reimbursement rates for prescription drugs.",
+            "date": "Thu, 26 Jun 2025 12:57:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FYBR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The next great WFH trend will be ‘War from Home,’ says this strategist",
-            "link": "https://www.marketwatch.com/story/the-next-great-wfh-trend-will-be-war-from-home-says-this-strategist-18897c02?mod=mw_rss_topstories",
-            "summary": "The idea that warfare is conducted without troops actually on foreign soil will require investment into the defense sector, says a strategist. The big companies will need to invest in defense, says the strategist.",
-            "date": "Wed, 25 Jun 2025 12:06:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here’s one stock-market forecast you can bank on: No one will ever have a crystal ball",
-            "link": "https://www.marketwatch.com/story/heres-one-stock-market-forecast-you-can-bank-on-no-one-will-ever-have-a-crystal-ball-d7210258?mod=mw_rss_topstories",
-            "summary": "Don't mistake anecdotes for data. Evaluate a forecaster’s credibility before buying in — and don’t mistake anecdotes with data.",
-            "date": "Wed, 25 Jun 2025 12:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SR1=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why more big companies like Sherwin-Williams are talking about immigration on their earnings calls",
-            "link": "https://www.marketwatch.com/story/why-more-big-companies-like-sherwin-williams-are-talking-about-immigration-on-their-earnings-calls-e71c9bf7?mod=mw_rss_topstories",
-            "summary": "There has been a surge in mentions of immigration in quarterly earnings calls of S&amp;P 500 companies. President Donald Trump and his fellow Republicans in Congress take tougher stances on immigration issues.",
-            "date": "Wed, 25 Jun 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "3823.T",
-            "impact": "Neutral"
-        },
-        {
-            "title": "FedEx’s profit forecast is sinking the stock, as tariffs weigh on shipments",
-            "link": "https://www.marketwatch.com/story/fedex-hopes-to-save-1-billion-this-fiscal-year-but-its-forecast-is-sinking-shares-d7322bf1?mod=mw_rss_topstories",
-            "summary": "FedEx forecast a fiscal first-quarter per-share profit that came in shy of Wall Street’s expectations. Shares of the package-delivery giant lower in after-hours trade.",
-            "date": "Wed, 25 Jun 2025 11:22:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "161216.SZ",
+            "stock_ticker": "WBA",
             "impact": "Neutral"
         }
     ]
