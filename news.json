@@ -1,124 +1,124 @@
 {
-    "date": "2025-06-27",
+    "date": "2025-06-28",
     "news": [
         {
-            "title": "China confirms details of U.S. trade deal",
-            "link": "https://www.cnbc.com/2025/06/27/china-us-agree-details-of-london-trade-framework-trade-agreement-beijing.html",
-            "summary": "U.S. President Donald Trump said that both sides had signed a trade deal, without providing further details. The statement came after U.S.-China trade talks.",
-            "date": "Fri, 27 Jun 2025 12:46:17 GMT",
+            "title": "Deep inside U.S. economy, more sticker prices start going up due to tariffs, and inventory is headed down",
+            "link": "https://www.cnbc.com/2025/06/27/deep-inside-economy-more-sticker-prices-start-to-go-up-due-to-tariffs.html",
+            "summary": "There's a widespread move to adjust prices higher due to tariffs. Across U.S. distribution networks, inside retail and manufacturing warehouses, prices are going up.",
+            "date": "Fri, 27 Jun 2025 16:52:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MMC=F",
+            "stock_ticker": "DEEP",
             "impact": "Neutral"
         },
         {
-            "title": "Core inflation rate rose to 2.7% in May, more than expected, Fed’s preferred gauge shows",
-            "link": "https://www.cnbc.com/2025/06/27/pce-inflation-report-may-2025-.html",
-            "summary": "The PCE price index was projected to rise 0.1% in May, with the annual inflation rate at 2.3%, according to the Dow Jones consensus.",
-            "date": "Fri, 27 Jun 2025 13:24:26 GMT",
+            "title": "Stablecoins go mainstream: Why banks and credit card firms are issuing their own crypto tokens",
+            "link": "https://www.cnbc.com/2025/06/28/stablecoin-visa-mastercard-circle-jpmorgan.html",
+            "summary": "Mastercard, Visa and JPMorgan all making recent moves in the crypto token space. Stablecoins are seemingly everywhere, with Mastercard and Visa among the biggest players in the space.",
+            "date": "Sat, 28 Jun 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CRWV",
+            "stock_ticker": "GO",
             "impact": "Neutral"
         },
         {
-            "title": "Hemi V-8 engines and mechanical bull rides: Inside Stellantis' plan to revive its Ram Trucks brand after yearslong sales declines",
-            "link": "https://www.cnbc.com/2025/06/27/stellantis-ram-trucks-tim-kuniskis.html",
-            "summary": "Ram CEO Tim Kuniskis' turnaround plan for Stellantis' truck brand includes the return of Hemi V-8 engines, mechanical bulls and other untraditional plans.",
-            "date": "Fri, 27 Jun 2025 12:00:02 GMT",
+            "title": "How China could shut down auto factories around the world",
+            "link": "https://www.cnbc.com/2025/06/28/how-china-could-shut-down-auto-factories-around-the-world.html",
+            "summary": "China dominates the world’s production and processing of rare earth elements. A sudden export restriction sent the auto industry into panic. China dominates the World's production and Processing of Rare Earth Elements.",
+            "date": "Sat, 28 Jun 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HME.V",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "We checked out Tesla's supervised, invite-only robotaxi launch. Here's what we saw",
-            "link": "https://www.cnbc.com/2025/06/27/what-we-saw-at-teslas-supervised-invite-only-robotaxi-launch.html",
-            "summary": "CEO Elon Musk has been promising that Tesla vehicles were on the cusp of full autonomy. Since 2016, Musk has said that Tesla cars were on their way to being fully autonomous.",
-            "date": "Fri, 27 Jun 2025 12:00:02 GMT",
+            "title": "At 20 years old, Reddit is defending its data and fighting AI with AI",
+            "link": "https://www.cnbc.com/2025/06/28/reddit-20-fighting-ai-defending-data.html",
+            "summary": "After two decades, Reddit faces the emergence of AI chatbots that threaten to inhale its vast swaths of data and siphon its users.",
+            "date": "Sat, 28 Jun 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFC",
+            "stock_ticker": "T",
             "impact": "Neutral"
         },
         {
-            "title": "Trump's war against the Powell Fed has taken another political turn",
-            "link": "https://www.cnbc.com/2025/06/26/trumps-war-against-the-powell-fed-has-taken-another-political-turn.html",
-            "summary": "The words now could signal action. Trump's name-calling of Powell isn't particularly new. But the words now may signal action in the future.",
-            "date": "Thu, 26 Jun 2025 18:31:09 GMT",
+            "title": "What we know so far about Jeff Bezos' $50 million star-studded luxury Venice wedding",
+            "link": "https://www.cnbc.com/2025/06/27/jeff-bezos-50-million-venice-wedding-what-we-know.html",
+            "summary": "Some 200 celebrities and business elite attend. Guests include Ivanka Trump, Usher and Usher. The event was held at the Trump International Hotel in Washington, D.C.",
+            "date": "Fri, 27 Jun 2025 15:15:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WAR",
+            "stock_ticker": "WAT-P.V",
             "impact": "Neutral"
         },
         {
-            "title": "Nike’s stock is headed for a ‘swoosh’-shaped recovery after years of pain, analyst says",
-            "link": "https://www.marketwatch.com/story/nikes-stock-is-headed-for-a-swoosh-shaped-recovery-after-years-of-pain-analyst-says-c5109e1f?mod=mw_rss_topstories",
-            "summary": "Nike Inc. has endured a tough few years marked by weaker demand and its own struggles to adapt to shifting trends. The athletic-gear and sneaker maker's fourth-quarter results Thursday were hardly spectacular.",
-            "date": "Fri, 27 Jun 2025 13:22:00 GMT",
+            "title": "Most American weddings are a lot more extravagant than the nuptials of Amazon’s Jeff Bezos",
+            "link": "https://www.marketwatch.com/story/most-american-weddings-are-a-lot-more-extravagant-than-the-jeff-bezos-and-lauren-sanchez-nuptials-739a5748?mod=mw_rss_topstories",
+            "summary": "Americans spend an average of $33,000 on their big day. That's equivalent to between 25% and 50% of their annual household income.",
+            "date": "Sat, 28 Jun 2025 13:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JCAP",
+            "stock_ticker": "0P0001J0EZ.SW",
             "impact": "Neutral"
         },
         {
-            "title": "Consumers cut spending on cars and other goods when tariffs kicked in. What will they do next?",
-            "link": "https://www.marketwatch.com/story/consumers-cut-spending-on-cars-and-other-goods-when-tariffs-kicked-in-what-will-they-do-next-a11e7fc8?mod=mw_rss_topstories",
-            "summary": "Consumer spending falls in May for first time in four months. U.S. consumer spending down 0.3% in May, down 0% from April.",
-            "date": "Fri, 27 Jun 2025 12:56:00 GMT",
+            "title": "AI could wipe out entire Wall Street teams. Here’s who will have staying power.",
+            "link": "https://www.marketwatch.com/story/ai-could-wipe-out-entire-wall-street-teams-heres-who-will-have-staying-power-bfdd657d?mod=mw_rss_topstories",
+            "summary": "“The number of people used, whether it be a junior banker, analyst or a salesperson, you just don’t need to throw bodies at it anymore,” he says.",
+            "date": "Sat, 28 Jun 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CMS-PB",
+            "stock_ticker": "AI",
             "impact": "Neutral"
         },
         {
-            "title": "Inflation creeps higher in May and dims chances of the Fed cutting interest rates soon",
-            "link": "https://www.marketwatch.com/story/inflatio-not-showing-much-sign-of-tariff-tied-increase-but-fed-still-not-aiming-to-cut-rates-soon-c1d9f62d?mod=mw_rss_topstories",
-            "summary": "The cost of living rose slowly in May for the third month in a row. The rate of inflation is probably still too high for the Federal Reserve to cut interest rates soon.",
-            "date": "Fri, 27 Jun 2025 12:43:00 GMT",
+            "title": "‘I am horrified’: My company won’t allow me to tip more than 15% for Ubers. Do I explain this to the driver?",
+            "link": "https://www.marketwatch.com/story/i-am-horrified-my-company-wont-allow-me-to-tip-more-than-15-for-ubers-do-i-explain-this-to-the-driver-a79d7f98?mod=mw_rss_topstories",
+            "summary": "“I would never even consider tipping less than 20% if it were a personal ride,” she says. “I’m a big fan of tipping at least 20%.”",
+            "date": "Sat, 28 Jun 2025 12:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TCILX",
+            "stock_ticker": "KW=F",
             "impact": "Neutral"
         },
         {
-            "title": "This guy has 45 credit cards. Here’s what you can learn from his strategy.",
-            "link": "https://www.marketwatch.com/story/this-guy-has-45-credit-cards-heres-what-you-can-learn-from-his-strategy-b1355185?mod=mw_rss_topstories",
-            "summary": "Dave Grossman carries a “Costanza wallet,” and he says he’s reaped rewards aplenty as a result.",
-            "date": "Fri, 27 Jun 2025 12:36:00 GMT",
+            "title": "Can a baby bonus really make Americans have more kids? Here’s what big families say.",
+            "link": "https://www.marketwatch.com/story/can-a-baby-bonus-really-make-americans-have-more-kids-heres-what-big-families-say-8db649dd?mod=mw_rss_topstories",
+            "summary": "Large families share how they’re making it work in this economy. Up at 4:45 a.m., driving a 12-passenger van, and no big vacations.",
+            "date": "Sat, 28 Jun 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "S2819.MC",
-            "impact": "Neutral"
+            "stock_ticker": "CAN",
+            "impact": "Bullish"
         },
         {
-            "title": "Why a breakthrough on rare earths is easing U.S.-China trade tensions",
-            "link": "https://www.marketwatch.com/story/the-u-s-and-china-just-struck-a-deal-on-rare-earths-this-is-why-its-easing-trade-tensions-14359d7b?mod=mw_rss_topstories",
-            "summary": "President Donald Trump said a deal had been signed “yesterday’ with China. He offered no details on what the deal was or when it would be signed.",
-            "date": "Fri, 27 Jun 2025 12:28:00 GMT",
+            "title": "My sister and her husband died within days of each other. Their banks won’t let me access their safe-deposit boxes. What now?",
+            "link": "https://www.marketwatch.com/story/my-sister-and-her-husband-died-within-days-of-each-other-their-banks-wont-let-me-access-their-safe-deposit-boxes-what-now-fe982ffe?mod=mw_rss_topstories",
+            "summary": "“The bank suggested filing a claim for unclaimed property in the state where I reside,” she said. “TheBank suggested filing an unclaimedProperty claim in the State Where I reside.”",
+            "date": "Sat, 28 Jun 2025 11:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "3823.T",
+            "stock_ticker": "AUDMYR=X",
             "impact": "Neutral"
         }
     ]
