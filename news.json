@@ -1,40 +1,28 @@
 {
-    "date": "2025-06-28",
+    "date": "2025-06-29",
     "news": [
         {
-            "title": "Deep inside U.S. economy, more sticker prices start going up due to tariffs, and inventory is headed down",
-            "link": "https://www.cnbc.com/2025/06/27/deep-inside-economy-more-sticker-prices-start-to-go-up-due-to-tariffs.html",
-            "summary": "There's a widespread move to adjust prices higher due to tariffs. Across U.S. distribution networks, inside retail and manufacturing warehouses, prices are going up.",
-            "date": "Fri, 27 Jun 2025 16:52:37 GMT",
+            "title": "Trump's 'big, beautiful bill' clears key Senate hurdle after high drama",
+            "link": "https://www.cnbc.com/2025/06/28/trump-spending-bill-senate.html",
+            "summary": "The vote came after hours of uncertainty over whether the massive package could secure enough Republican votes to move to a final Senate vote. The vote came as the Senate is expected to vote on the measure in the next few days.",
+            "date": "Sun, 29 Jun 2025 03:55:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DEEP",
+            "stock_ticker": "BBAI",
             "impact": "Neutral"
         },
         {
-            "title": "Stablecoins go mainstream: Why banks and credit card firms are issuing their own crypto tokens",
-            "link": "https://www.cnbc.com/2025/06/28/stablecoin-visa-mastercard-circle-jpmorgan.html",
-            "summary": "Mastercard, Visa and JPMorgan all making recent moves in the crypto token space. Stablecoins are seemingly everywhere, with Mastercard and Visa among the biggest players in the space.",
-            "date": "Sat, 28 Jun 2025 12:00:01 GMT",
+            "title": "Tesla's IPO was 15 years ago. The stock is up almost 300-fold since then",
+            "link": "https://www.cnbc.com/2025/06/29/teslas-ipo-was-15-years-ago-the-stock-is-up-300-fold-since-then.html",
+            "summary": "A $10,000 investment in Tesla at the time of its 2010 IPO would now be worth close to $3 million. The company went public in 2010 and is now worth more than $30 billion.",
+            "date": "Sun, 29 Jun 2025 11:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How China could shut down auto factories around the world",
-            "link": "https://www.cnbc.com/2025/06/28/how-china-could-shut-down-auto-factories-around-the-world.html",
-            "summary": "China dominates the world’s production and processing of rare earth elements. A sudden export restriction sent the auto industry into panic. China dominates the World's production and Processing of Rare Earth Elements.",
-            "date": "Sat, 28 Jun 2025 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "IPO",
             "impact": "Neutral"
         },
         {
@@ -50,6 +38,18 @@
             "impact": "Neutral"
         },
         {
+            "title": "Top Wall Street analysts like these 3 dividend stocks for enhanced returns",
+            "link": "https://www.cnbc.com/2025/06/29/top-wall-street-analysts-like-these-3-dividend-stocks-for-enhanced-returns.html",
+            "summary": "TipRanks' analyst ranking service discusses three dividend-paying stocks. McDonald's and Halliburton, favored by Wall Street's top pros, are discussed.",
+            "date": "Sun, 29 Jun 2025 11:17:52 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOP",
+            "impact": "Neutral"
+        },
+        {
             "title": "What we know so far about Jeff Bezos' $50 million star-studded luxury Venice wedding",
             "link": "https://www.cnbc.com/2025/06/27/jeff-bezos-50-million-venice-wedding-what-we-know.html",
             "summary": "Some 200 celebrities and business elite attend. Guests include Ivanka Trump, Usher and Usher. The event was held at the Trump International Hotel in Washington, D.C.",
@@ -62,34 +62,22 @@
             "impact": "Neutral"
         },
         {
-            "title": "Most American weddings are a lot more extravagant than the nuptials of Amazon’s Jeff Bezos",
-            "link": "https://www.marketwatch.com/story/most-american-weddings-are-a-lot-more-extravagant-than-the-jeff-bezos-and-lauren-sanchez-nuptials-739a5748?mod=mw_rss_topstories",
-            "summary": "Americans spend an average of $33,000 on their big day. That's equivalent to between 25% and 50% of their annual household income.",
-            "date": "Sat, 28 Jun 2025 13:13:00 GMT",
+            "title": "My job is offering me a payout. Should I take a $61,000 lump sum or $355 a month for life?",
+            "link": "https://www.marketwatch.com/story/im-49-and-have-no-debt-except-for-a-mortgage-should-i-take-a-61-000-lump-sum-or-355-a-month-for-life-7752f1c6?mod=mw_rss_topstories",
+            "summary": "“My S&amp;P 500 investments have roughly doubled every seven years,” he says. “I’m a big believer in long-term investing.”",
+            "date": "Sun, 29 Jun 2025 13:19:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001J0EZ.SW",
-            "impact": "Neutral"
-        },
-        {
-            "title": "AI could wipe out entire Wall Street teams. Here’s who will have staying power.",
-            "link": "https://www.marketwatch.com/story/ai-could-wipe-out-entire-wall-street-teams-heres-who-will-have-staying-power-bfdd657d?mod=mw_rss_topstories",
-            "summary": "“The number of people used, whether it be a junior banker, analyst or a salesperson, you just don’t need to throw bodies at it anymore,” he says.",
-            "date": "Sat, 28 Jun 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AI",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
             "title": "‘I am horrified’: My company won’t allow me to tip more than 15% for Ubers. Do I explain this to the driver?",
             "link": "https://www.marketwatch.com/story/i-am-horrified-my-company-wont-allow-me-to-tip-more-than-15-for-ubers-do-i-explain-this-to-the-driver-a79d7f98?mod=mw_rss_topstories",
             "summary": "“I would never even consider tipping less than 20% if it were a personal ride,” she says. “I’m a big fan of tipping at least 20%.”",
-            "date": "Sat, 28 Jun 2025 12:15:00 GMT",
+            "date": "Sun, 29 Jun 2025 12:23:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "Can a baby bonus really make Americans have more kids? Here’s what big families say.",
-            "link": "https://www.marketwatch.com/story/can-a-baby-bonus-really-make-americans-have-more-kids-heres-what-big-families-say-8db649dd?mod=mw_rss_topstories",
-            "summary": "Large families share how they’re making it work in this economy. Up at 4:45 a.m., driving a 12-passenger van, and no big vacations.",
-            "date": "Sat, 28 Jun 2025 12:00:00 GMT",
+            "title": "My brother stole $100K from my mom to buy bitcoin. Do I convince her to sue him?",
+            "link": "https://www.marketwatch.com/story/he-is-so-manipulative-my-brother-stole-100k-from-my-mom-to-buy-bitcoin-do-i-convince-her-to-sue-him-4d1e6206?mod=mw_rss_topstories",
+            "summary": "“He’s so manipulative,” she says of her ex-boyfriend. “He's so manipulative.”",
+            "date": "Sun, 29 Jun 2025 11:09:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CAN",
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Robinhood’s Vlad Tenev has led a trading revolution to become a new Wall Street power",
+            "link": "https://www.marketwatch.com/story/robinhoods-vlad-tenev-has-led-a-trading-revolution-to-become-a-new-wall-street-power-6a73bf9b?mod=mw_rss_topstories",
+            "summary": "Vlad Tenev is shaking up the financial order. Backed by an army of retail traders, he is taking on the world of finance.",
+            "date": "Sat, 28 Jun 2025 19:11:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HAS",
             "impact": "Bullish"
         },
         {
-            "title": "My sister and her husband died within days of each other. Their banks won’t let me access their safe-deposit boxes. What now?",
-            "link": "https://www.marketwatch.com/story/my-sister-and-her-husband-died-within-days-of-each-other-their-banks-wont-let-me-access-their-safe-deposit-boxes-what-now-fe982ffe?mod=mw_rss_topstories",
-            "summary": "“The bank suggested filing a claim for unclaimed property in the state where I reside,” she said. “TheBank suggested filing an unclaimedProperty claim in the State Where I reside.”",
-            "date": "Sat, 28 Jun 2025 11:45:00 GMT",
+            "title": "Trump administration eyes cuts to student-loan forgiveness for public servants",
+            "link": "https://www.marketwatch.com/story/trump-administration-eyes-cuts-to-student-loan-forgiveness-for-public-servants-9f183139?mod=mw_rss_topstories",
+            "summary": "The proposed regulatory text would ban certain employers from being eligible for Public Service Loan Forgiveness. The proposed text from the Education Department would ban some employers from be eligible for PSLF.",
+            "date": "Sat, 28 Jun 2025 17:56:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUDMYR=X",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         }
     ]
