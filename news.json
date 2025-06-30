@@ -1,11 +1,35 @@
 {
-    "date": "2025-06-29",
+    "date": "2025-06-30",
     "news": [
+        {
+            "title": "Canada rescinds digital services tax after Trump cuts off U.S. trade talks",
+            "link": "https://www.cnbc.com/2025/06/30/canada-rescinds-digital-services-tax-after-trump-cuts-off-us-trade-talks.html",
+            "summary": "The move comes after U.S. President Donald Trump announced over the weekend that he will be \"terminating ALL discussions on Trade with Canada\"",
+            "date": "Mon, 30 Jun 2025 13:13:43 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AC.TO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Moderna's flu vaccine shows positive late-stage trial results, paving way for combination Covid shot",
+            "link": "https://www.cnbc.com/2025/06/30/modernas-flu-vaccine-shows-positive-trial-results-paving-way-for-combo-shot.html",
+            "summary": "Moderna's combination jab targeting Covid-19 and influenza is in phase three study data. Moderna is developing the jab to treat both flu and the flu virus.",
+            "date": "Mon, 30 Jun 2025 13:12:47 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FLR",
+            "impact": "Neutral"
+        },
         {
             "title": "Trump's 'big, beautiful bill' clears key Senate hurdle after high drama",
             "link": "https://www.cnbc.com/2025/06/28/trump-spending-bill-senate.html",
             "summary": "The vote came after hours of uncertainty over whether the massive package could secure enough Republican votes to move to a final Senate vote. The vote came as the Senate is expected to vote on the measure in the next few days.",
-            "date": "Sun, 29 Jun 2025 03:55:16 GMT",
+            "date": "Mon, 30 Jun 2025 10:58:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,58 +38,58 @@
             "impact": "Neutral"
         },
         {
-            "title": "Tesla's IPO was 15 years ago. The stock is up almost 300-fold since then",
-            "link": "https://www.cnbc.com/2025/06/29/teslas-ipo-was-15-years-ago-the-stock-is-up-300-fold-since-then.html",
-            "summary": "A $10,000 investment in Tesla at the time of its 2010 IPO would now be worth close to $3 million. The company went public in 2010 and is now worth more than $30 billion.",
-            "date": "Sun, 29 Jun 2025 11:00:01 GMT",
+            "title": "Wall Street strategist Tom Lee is aiming to create the MicroStrategy of Ethereum",
+            "link": "https://www.cnbc.com/2025/06/30/wall-street-strategist-tom-lee-is-aiming-to-create-the-microstrategy-of-ethereum.html",
+            "summary": "Tom Lee of Fundstrat was appointed Chairman of the Board of Directors of BitMine Immersion Technologies, effective Monday. Tom Lee was appointed chairman of the board of directors of Bit mine Imm immersion Technologies.",
+            "date": "Mon, 30 Jun 2025 12:23:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IPO",
+            "stock_ticker": "GWLLF",
             "impact": "Neutral"
         },
         {
-            "title": "At 20 years old, Reddit is defending its data and fighting AI with AI",
-            "link": "https://www.cnbc.com/2025/06/28/reddit-20-fighting-ai-defending-data.html",
-            "summary": "After two decades, Reddit faces the emergence of AI chatbots that threaten to inhale its vast swaths of data and siphon its users.",
-            "date": "Sat, 28 Jun 2025 12:00:01 GMT",
+            "title": "Google makes first foray into fusion in venture with MIT spinoff Commonwealth Fusion Systems",
+            "link": "https://www.cnbc.com/2025/06/30/google-partnership-commonwealth-fusion-systems.html",
+            "summary": "Google announces partnership with Commonwealth Fusion Systems. Commonwealth Fusion is a private company spun off from the Massachusetts Institute of Technology. Here is what to know.",
+            "date": "Mon, 30 Jun 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "T",
+            "stock_ticker": "GOOG",
             "impact": "Neutral"
         },
         {
-            "title": "Top Wall Street analysts like these 3 dividend stocks for enhanced returns",
-            "link": "https://www.cnbc.com/2025/06/29/top-wall-street-analysts-like-these-3-dividend-stocks-for-enhanced-returns.html",
-            "summary": "TipRanks' analyst ranking service discusses three dividend-paying stocks. McDonald's and Halliburton, favored by Wall Street's top pros, are discussed.",
-            "date": "Sun, 29 Jun 2025 11:17:52 GMT",
+            "title": "That cash request could be an AI deepfake stealing your money. Here’s how to wise up.",
+            "link": "https://www.marketwatch.com/story/is-that-you-needing-cash-or-is-ai-stealing-your-money-heres-how-to-wise-up-5426e4db?mod=mw_rss_topstories",
+            "summary": "Financial advisers and other investment professionals must become more savvy about cybercrime, experts say. Financial advisers and others must become better at spotting and preventing cybercrime.",
+            "date": "Mon, 30 Jun 2025 13:22:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "TSTS",
             "impact": "Neutral"
         },
         {
-            "title": "What we know so far about Jeff Bezos' $50 million star-studded luxury Venice wedding",
-            "link": "https://www.cnbc.com/2025/06/27/jeff-bezos-50-million-venice-wedding-what-we-know.html",
-            "summary": "Some 200 celebrities and business elite attend. Guests include Ivanka Trump, Usher and Usher. The event was held at the Trump International Hotel in Washington, D.C.",
-            "date": "Fri, 27 Jun 2025 15:15:17 GMT",
+            "title": "These precious metals can tell you if stocks will rise or fall. Here’s what they’re saying now.",
+            "link": "https://www.marketwatch.com/story/these-precious-metals-can-tell-you-if-stocks-will-rise-or-fall-heres-what-theyre-saying-now-446c219c?mod=mw_rss_topstories",
+            "summary": "The gold-platinum ratio has plunged. If this market-timing indicator is correct, stock prices will follow. The stock market is down 2.7% this year.",
+            "date": "Mon, 30 Jun 2025 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WAT-P.V",
+            "stock_ticker": "WPM",
             "impact": "Neutral"
         },
         {
-            "title": "My job is offering me a payout. Should I take a $61,000 lump sum or $355 a month for life?",
-            "link": "https://www.marketwatch.com/story/im-49-and-have-no-debt-except-for-a-mortgage-should-i-take-a-61-000-lump-sum-or-355-a-month-for-life-7752f1c6?mod=mw_rss_topstories",
-            "summary": "“My S&amp;P 500 investments have roughly doubled every seven years,” he says. “I’m a big believer in long-term investing.”",
-            "date": "Sun, 29 Jun 2025 13:19:00 GMT",
+            "title": "‘My life has changed dramatically’: I’m 51, ‘medically retired’ and planning to move to a cheaper state. Can we do it?",
+            "link": "https://www.marketwatch.com/story/my-life-has-changed-dramatically-im-51-medically-retired-and-planning-to-move-to-a-cheaper-state-can-we-do-it-3e186fe5?mod=mw_rss_topstories",
+            "summary": "\"We have $247,000 in our portfolio, $105k in a 403(b), $61k in another stock account and $15k in traditional IRA,\" she says.",
+            "date": "Mon, 30 Jun 2025 13:11:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,52 +98,28 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘I am horrified’: My company won’t allow me to tip more than 15% for Ubers. Do I explain this to the driver?",
-            "link": "https://www.marketwatch.com/story/i-am-horrified-my-company-wont-allow-me-to-tip-more-than-15-for-ubers-do-i-explain-this-to-the-driver-a79d7f98?mod=mw_rss_topstories",
-            "summary": "“I would never even consider tipping less than 20% if it were a personal ride,” she says. “I’m a big fan of tipping at least 20%.”",
-            "date": "Sun, 29 Jun 2025 12:23:00 GMT",
+            "title": "How the Supreme Court just juiced these S&P 500 winners — and turbocharged your 401(k)",
+            "link": "https://www.marketwatch.com/story/how-the-supreme-court-just-juiced-these-s-p-500-winners-and-turbocharged-your-401-k-127ec86c?mod=mw_rss_topstories",
+            "summary": "U.S. companies could see their regulatory burden get lighter. But the stock market hasn’t yet priced this in, analysts say.",
+            "date": "Mon, 30 Jun 2025 13:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KW=F",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "My brother stole $100K from my mom to buy bitcoin. Do I convince her to sue him?",
-            "link": "https://www.marketwatch.com/story/he-is-so-manipulative-my-brother-stole-100k-from-my-mom-to-buy-bitcoin-do-i-convince-her-to-sue-him-4d1e6206?mod=mw_rss_topstories",
-            "summary": "“He’s so manipulative,” she says of her ex-boyfriend. “He's so manipulative.”",
-            "date": "Sun, 29 Jun 2025 11:09:00 GMT",
+            "title": "Solar stocks’ losses are nuclear’s gain, as Elon Musk takes swipe at budget bill",
+            "link": "https://www.marketwatch.com/story/solar-stocks-losses-are-nuclears-gain-as-elon-musk-takes-swipe-at-budget-bill-491f5f73?mod=mw_rss_topstories",
+            "summary": "The Senate’s tax-and-spending bill gives a boost to nuclear power stocks, but knocks down shares of solar companies.",
+            "date": "Mon, 30 Jun 2025 12:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Robinhood’s Vlad Tenev has led a trading revolution to become a new Wall Street power",
-            "link": "https://www.marketwatch.com/story/robinhoods-vlad-tenev-has-led-a-trading-revolution-to-become-a-new-wall-street-power-6a73bf9b?mod=mw_rss_topstories",
-            "summary": "Vlad Tenev is shaking up the financial order. Backed by an army of retail traders, he is taking on the world of finance.",
-            "date": "Sat, 28 Jun 2025 19:11:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HAS",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Trump administration eyes cuts to student-loan forgiveness for public servants",
-            "link": "https://www.marketwatch.com/story/trump-administration-eyes-cuts-to-student-loan-forgiveness-for-public-servants-9f183139?mod=mw_rss_topstories",
-            "summary": "The proposed regulatory text would ban certain employers from being eligible for Public Service Loan Forgiveness. The proposed text from the Education Department would ban some employers from be eligible for PSLF.",
-            "date": "Sat, 28 Jun 2025 17:56:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
+            "stock_ticker": "SEDG",
+            "impact": "Bearish"
         }
     ]
 }
