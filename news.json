@@ -1,125 +1,125 @@
 {
-    "date": "2025-06-30",
+    "date": "2025-07-01",
     "news": [
         {
-            "title": "Canada rescinds digital services tax after Trump cuts off U.S. trade talks",
-            "link": "https://www.cnbc.com/2025/06/30/canada-rescinds-digital-services-tax-after-trump-cuts-off-us-trade-talks.html",
-            "summary": "The move comes after U.S. President Donald Trump announced over the weekend that he will be \"terminating ALL discussions on Trade with Canada\"",
-            "date": "Mon, 30 Jun 2025 13:13:43 GMT",
+            "title": "Tesla shares tumble after Trump says DOGE should look at Elon Musk's subsidies",
+            "link": "https://www.cnbc.com/2025/07/01/tesla-shares-tumble-after-trump-says-doge-should-look-at-elon-musks-subsidies.html",
+            "summary": "Musk has criticized the tax and spending bill the president is pushing. Musk supported Trump's campaign and also served as an adviser to the White House.",
+            "date": "Tue, 01 Jul 2025 13:13:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AC.TO",
+            "stock_ticker": "TSLA",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Senate sets new record for longest vote-a-rama as Trump's 'big, beautiful bill' teeters",
+            "link": "https://www.cnbc.com/2025/06/30/senate-amendments-trump-megabill.html",
+            "summary": "Senators worked through the night on amendments to President Donald Trump's \"big, beautiful\" spending bill. A final vote could come Tuesday.",
+            "date": "Tue, 01 Jul 2025 12:57:43 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SENATE-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Moderna's flu vaccine shows positive late-stage trial results, paving way for combination Covid shot",
-            "link": "https://www.cnbc.com/2025/06/30/modernas-flu-vaccine-shows-positive-trial-results-paving-way-for-combo-shot.html",
-            "summary": "Moderna's combination jab targeting Covid-19 and influenza is in phase three study data. Moderna is developing the jab to treat both flu and the flu virus.",
-            "date": "Mon, 30 Jun 2025 13:12:47 GMT",
+            "title": "Online shopping see biggest slowdown in over decade as tariffs disrupt e-commerce: Survey",
+            "link": "https://www.cnbc.com/2025/07/01/online-retail-sees-biggest-slowdown-in-decade-tariffs-hit-e-commerce.html",
+            "summary": "Online shopping sector faces most disruptive period in over a decade as a result of President Trump's global trade war, according to an AlixPartners survey.",
+            "date": "Tue, 01 Jul 2025 13:14:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FLR",
+            "stock_ticker": "GLBE",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Watch Fed chief Jerome Powell speak at an ECB panel in Portugal",
+            "link": "https://www.cnbc.com/2025/07/01/fed-powell-ecb-panel-portugal.html",
+            "summary": "The stream is slated to start at 9:30 a.m. ET. The event will be streamed live on CNN.com and the CNN iReport app.",
+            "date": "Tue, 01 Jul 2025 13:21:47 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "A31.SI",
             "impact": "Neutral"
         },
         {
-            "title": "Trump's 'big, beautiful bill' clears key Senate hurdle after high drama",
-            "link": "https://www.cnbc.com/2025/06/28/trump-spending-bill-senate.html",
-            "summary": "The vote came after hours of uncertainty over whether the massive package could secure enough Republican votes to move to a final Senate vote. The vote came as the Senate is expected to vote on the measure in the next few days.",
-            "date": "Mon, 30 Jun 2025 10:58:16 GMT",
+            "title": "Elon Musk's xAI raises $10 billion in debt and equity as it steps up challenge to OpenAI",
+            "link": "https://www.cnbc.com/2025/07/01/elon-musk-xai-raises-10-billion-in-debt-and-equity.html",
+            "summary": " xAI will use the money to build out its AI infrastructure and develop its Grok chatbot. The funding will go towards xAI's efforts to build a chatbot and AI infrastructure.",
+            "date": "Tue, 01 Jul 2025 12:37:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBAI",
+            "stock_ticker": "ELON",
             "impact": "Neutral"
         },
         {
-            "title": "Wall Street strategist Tom Lee is aiming to create the MicroStrategy of Ethereum",
-            "link": "https://www.cnbc.com/2025/06/30/wall-street-strategist-tom-lee-is-aiming-to-create-the-microstrategy-of-ethereum.html",
-            "summary": "Tom Lee of Fundstrat was appointed Chairman of the Board of Directors of BitMine Immersion Technologies, effective Monday. Tom Lee was appointed chairman of the board of directors of Bit mine Imm immersion Technologies.",
-            "date": "Mon, 30 Jun 2025 12:23:07 GMT",
+            "title": "Is the stock market open on the Fourth of July — and will it close early on July 3? What about FedEx, UPS and mail delivery?",
+            "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-the-fourth-of-july-and-will-it-close-early-on-july-3-what-about-fedex-ups-and-mail-delivery-26eaf161?mod=mw_rss_topstories",
+            "summary": " Independence Day comes with many closures — although it may be a good time to hit the stores. There are many stores that will be closed for the holiday.",
+            "date": "Tue, 01 Jul 2025 13:23:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GWLLF",
+            "stock_ticker": "CADISK=X",
             "impact": "Neutral"
         },
         {
-            "title": "Google makes first foray into fusion in venture with MIT spinoff Commonwealth Fusion Systems",
-            "link": "https://www.cnbc.com/2025/06/30/google-partnership-commonwealth-fusion-systems.html",
-            "summary": "Google announces partnership with Commonwealth Fusion Systems. Commonwealth Fusion is a private company spun off from the Massachusetts Institute of Technology. Here is what to know.",
-            "date": "Mon, 30 Jun 2025 13:00:01 GMT",
+            "title": "Why out-of-favor Apple holds the key to tech stocks in the coming weeks",
+            "link": "https://www.marketwatch.com/story/why-out-of-favor-apple-holds-the-key-to-tech-stocks-in-the-coming-weeks-baa32371?mod=mw_rss_topstories",
+            "summary": "Mark Newton, head of technical strategy at Fundstrat, says Apple shares could be ready to finally shine and drive a bigger tech rally.",
+            "date": "Tue, 01 Jul 2025 13:11:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOOG",
+            "stock_ticker": "WHYCX",
             "impact": "Neutral"
         },
         {
-            "title": "That cash request could be an AI deepfake stealing your money. Here’s how to wise up.",
-            "link": "https://www.marketwatch.com/story/is-that-you-needing-cash-or-is-ai-stealing-your-money-heres-how-to-wise-up-5426e4db?mod=mw_rss_topstories",
-            "summary": "Financial advisers and other investment professionals must become more savvy about cybercrime, experts say. Financial advisers and others must become better at spotting and preventing cybercrime.",
-            "date": "Mon, 30 Jun 2025 13:22:00 GMT",
+            "title": "Tesla’s stock falls as the Musk-Trump cease-fire is broken. What happened in Round 1.",
+            "link": "https://www.marketwatch.com/story/tesla-stock-fall-as-the-musk-trump-ceasefire-is-broken-what-happened-in-round-one-5b531875?mod=mw_rss_topstories",
+            "summary": "Musk and Trump have  broken out again, placing Tesla shares in the spotlight. Disagreement between Musk and Trump has broken out once again. Tesla shares are up more than 10 per cent.",
+            "date": "Tue, 01 Jul 2025 12:29:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSTS",
+            "stock_ticker": "VTI",
             "impact": "Neutral"
         },
         {
-            "title": "These precious metals can tell you if stocks will rise or fall. Here’s what they’re saying now.",
-            "link": "https://www.marketwatch.com/story/these-precious-metals-can-tell-you-if-stocks-will-rise-or-fall-heres-what-theyre-saying-now-446c219c?mod=mw_rss_topstories",
-            "summary": "The gold-platinum ratio has plunged. If this market-timing indicator is correct, stock prices will follow. The stock market is down 2.7% this year.",
-            "date": "Mon, 30 Jun 2025 13:15:00 GMT",
+            "title": "Gold’s momentum is fading — and a pullback is coming, says HSBC analyst",
+            "link": "https://www.marketwatch.com/story/golds-momentum-is-fading-and-a-pullback-is-coming-says-hsbc-analyst-585418f3?mod=mw_rss_topstories",
+            "summary": ". Surprisingly, the Israeli-Iran crisis did not propel gold prices higher. It did not push the dollar higher, however, as the dollar fell against the yen.",
+            "date": "Tue, 01 Jul 2025 12:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WPM",
+            "stock_ticker": "^XAU",
             "impact": "Neutral"
         },
         {
-            "title": "‘My life has changed dramatically’: I’m 51, ‘medically retired’ and planning to move to a cheaper state. Can we do it?",
-            "link": "https://www.marketwatch.com/story/my-life-has-changed-dramatically-im-51-medically-retired-and-planning-to-move-to-a-cheaper-state-can-we-do-it-3e186fe5?mod=mw_rss_topstories",
-            "summary": "\"We have $247,000 in our portfolio, $105k in a 403(b), $61k in another stock account and $15k in traditional IRA,\" she says.",
-            "date": "Mon, 30 Jun 2025 13:11:00 GMT",
+            "title": "I’m a stay-at-home mom. Do I take a part-time job to spend more time with my kids — or get a job for six figures?",
+            "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-for-10-years-do-i-take-a-part-time-job-to-spend-more-time-with-my-kids-or-get-a-job-for-six-figures-5cfe7788?mod=mw_rss_topstories",
+            "summary": "“So much of my head has been filled with thoughts of needing to be the best, the brightest, the wealthiest,” he says.",
+            "date": "Tue, 01 Jul 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "BMNR",
             "impact": "Neutral"
-        },
-        {
-            "title": "How the Supreme Court just juiced these S&P 500 winners — and turbocharged your 401(k)",
-            "link": "https://www.marketwatch.com/story/how-the-supreme-court-just-juiced-these-s-p-500-winners-and-turbocharged-your-401-k-127ec86c?mod=mw_rss_topstories",
-            "summary": "U.S. companies could see their regulatory burden get lighter. But the stock market hasn’t yet priced this in, analysts say.",
-            "date": "Mon, 30 Jun 2025 13:06:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Solar stocks’ losses are nuclear’s gain, as Elon Musk takes swipe at budget bill",
-            "link": "https://www.marketwatch.com/story/solar-stocks-losses-are-nuclears-gain-as-elon-musk-takes-swipe-at-budget-bill-491f5f73?mod=mw_rss_topstories",
-            "summary": "The Senate’s tax-and-spending bill gives a boost to nuclear power stocks, but knocks down shares of solar companies.",
-            "date": "Mon, 30 Jun 2025 12:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SEDG",
-            "impact": "Bearish"
         }
     ]
 }
