@@ -1,124 +1,124 @@
 {
-    "date": "2025-07-01",
+    "date": "2025-07-02",
     "news": [
         {
-            "title": "Tesla shares tumble after Trump says DOGE should look at Elon Musk's subsidies",
-            "link": "https://www.cnbc.com/2025/07/01/tesla-shares-tumble-after-trump-says-doge-should-look-at-elon-musks-subsidies.html",
-            "summary": "Musk has criticized the tax and spending bill the president is pushing. Musk supported Trump's campaign and also served as an adviser to the White House.",
-            "date": "Tue, 01 Jul 2025 13:13:42 GMT",
+            "title": "The private sector lost 33,000 jobs in June, badly missing expectations for a 100,000 increase, ADP says",
+            "link": "https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html",
+            "summary": " Economists polled by Dow Jones forecasted an increase of 100,000 for the month. The U.S. economy is expected to grow by 1.4 million in the second quarter.",
+            "date": "Wed, 02 Jul 2025 12:40:51 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Microsoft laying off about 9,000 employees in latest round of cuts",
+            "link": "https://www.cnbc.com/2025/07/02/microsoft-laying-off-about-9000-employees-in-latest-round-of-cuts.html",
+            "summary": "Microsoft surpassed expectations on revenue and profit but is slimming down across ranks, organizations and geographies. Microsoft surpassed expectations for revenue and profits but is shrinking across ranks and organizations.",
+            "date": "Wed, 02 Jul 2025 13:11:33 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MSFT",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Tesla reports 14% decline in vehicle deliveries, marking second straight year-over-year drop",
+            "link": "https://www.cnbc.com/2025/07/02/tesla-tsla-q2-2025-vehicle-delivery-and-production-numbers.html",
+            "summary": "Tesla reported another year-over-year decline in vehicle deliveries. Company faces increased competition from lower-cost rivals. Tesla is the world's second-largest electric car maker.",
+            "date": "Wed, 02 Jul 2025 13:19:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "TSLA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Senate sets new record for longest vote-a-rama as Trump's 'big, beautiful bill' teeters",
-            "link": "https://www.cnbc.com/2025/06/30/senate-amendments-trump-megabill.html",
-            "summary": "Senators worked through the night on amendments to President Donald Trump's \"big, beautiful\" spending bill. A final vote could come Tuesday.",
-            "date": "Tue, 01 Jul 2025 12:57:43 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SENATE-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Online shopping see biggest slowdown in over decade as tariffs disrupt e-commerce: Survey",
-            "link": "https://www.cnbc.com/2025/07/01/online-retail-sees-biggest-slowdown-in-decade-tariffs-hit-e-commerce.html",
-            "summary": "Online shopping sector faces most disruptive period in over a decade as a result of President Trump's global trade war, according to an AlixPartners survey.",
-            "date": "Tue, 01 Jul 2025 13:14:50 GMT",
+            "title": "House Republicans don't have the votes yet to pass Trump's megabill",
+            "link": "https://www.cnbc.com/2025/07/01/house-republicans-trump-megabill.html",
+            "summary": "It's unclear how many House Republicans are firm \"no\" votes and how many are wavering. Speaker Mike Johnson does not have a lot of wiggle room.",
+            "date": "Wed, 02 Jul 2025 13:15:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GLBE",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Watch Fed chief Jerome Powell speak at an ECB panel in Portugal",
-            "link": "https://www.cnbc.com/2025/07/01/fed-powell-ecb-panel-portugal.html",
-            "summary": "The stream is slated to start at 9:30 a.m. ET. The event will be streamed live on CNN.com and the CNN iReport app.",
-            "date": "Tue, 01 Jul 2025 13:21:47 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A31.SI",
+            "stock_ticker": "FLL",
             "impact": "Neutral"
         },
         {
-            "title": "Elon Musk's xAI raises $10 billion in debt and equity as it steps up challenge to OpenAI",
-            "link": "https://www.cnbc.com/2025/07/01/elon-musk-xai-raises-10-billion-in-debt-and-equity.html",
-            "summary": " xAI will use the money to build out its AI infrastructure and develop its Grok chatbot. The funding will go towards xAI's efforts to build a chatbot and AI infrastructure.",
-            "date": "Tue, 01 Jul 2025 12:37:56 GMT",
+            "title": "A bare-bones deal is Europe's best hope in trade talks with the U.S., sources say",
+            "link": "https://www.cnbc.com/2025/07/02/a-bare-bones-deal-is-europes-best-hope-in-trade-talks-with-the-us-sources-say.html",
+            "summary": "The U.S. and EU are down to the wire to strike a so-far elusive trade agreement by early July. The two sides are expected to reach an agreement by the end of the month.",
+            "date": "Wed, 02 Jul 2025 12:36:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELON",
+            "stock_ticker": "A",
+            "impact": "Bearish"
+        },
+        {
+            "title": "My wife and I have $7,000 a month in pensions and Social Security, plus $140,000 cash. Can we afford to retire?",
+            "link": "https://www.marketwatch.com/story/my-wife-and-i-have-7-000-in-pensions-140-000-in-cash-plus-social-security-can-we-afford-to-retire-14fd44f1?mod=mw_rss_topstories",
+            "summary": "“My wife of 20 years is a Japanese national and lives in the U.S. as a permanent resident,” he said.",
+            "date": "Wed, 02 Jul 2025 13:25:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "Is the stock market open on the Fourth of July — and will it close early on July 3? What about FedEx, UPS and mail delivery?",
-            "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-the-fourth-of-july-and-will-it-close-early-on-july-3-what-about-fedex-ups-and-mail-delivery-26eaf161?mod=mw_rss_topstories",
-            "summary": " Independence Day comes with many closures — although it may be a good time to hit the stores. There are many stores that will be closed for the holiday.",
-            "date": "Tue, 01 Jul 2025 13:23:00 GMT",
+            "title": "The last holdout bears are Democrats, these strategists say. Their capitulation could fuel the next leg higher for stocks.",
+            "link": "https://www.marketwatch.com/story/the-last-holdout-bears-are-democrats-say-strategists-their-capitulation-could-fuel-the-next-leg-higher-for-stocks-e815134f?mod=mw_rss_topstories",
+            "summary": "The stock market has seen a historic rally this spring, but not all investors are on board. Ned Davis researchers point the finger at Democrats.",
+            "date": "Wed, 02 Jul 2025 13:23:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CADISK=X",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "Why out-of-favor Apple holds the key to tech stocks in the coming weeks",
-            "link": "https://www.marketwatch.com/story/why-out-of-favor-apple-holds-the-key-to-tech-stocks-in-the-coming-weeks-baa32371?mod=mw_rss_topstories",
-            "summary": "Mark Newton, head of technical strategy at Fundstrat, says Apple shares could be ready to finally shine and drive a bigger tech rally.",
-            "date": "Tue, 01 Jul 2025 13:11:00 GMT",
+            "title": "Paramount’s settlement with Trump could open the door to a Skydance deal",
+            "link": "https://www.marketwatch.com/story/paramounts-settlement-with-trump-could-open-the-door-to-a-skydance-deal-e954ad90?mod=mw_rss_topstories",
+            "summary": "Paramount Global’s $8 billion merger with Skydance Media has faced opposition from the Trump administration. The merger is expected to be completed by the end of 2015.",
+            "date": "Wed, 02 Jul 2025 13:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYCX",
+            "stock_ticker": "LSAA.L",
             "impact": "Neutral"
         },
         {
-            "title": "Tesla’s stock falls as the Musk-Trump cease-fire is broken. What happened in Round 1.",
-            "link": "https://www.marketwatch.com/story/tesla-stock-fall-as-the-musk-trump-ceasefire-is-broken-what-happened-in-round-one-5b531875?mod=mw_rss_topstories",
-            "summary": "Musk and Trump have  broken out again, placing Tesla shares in the spotlight. Disagreement between Musk and Trump has broken out once again. Tesla shares are up more than 10 per cent.",
-            "date": "Tue, 01 Jul 2025 12:29:00 GMT",
+            "title": "U.K. chancellor’s troubles show it’s hard to implement the austerity that Musk and Dalio want",
+            "link": "https://www.marketwatch.com/story/u-k-chancellors-troubles-shows-its-hard-to-implement-the-austerity-that-musk-and-dalio-want-df6c6748?mod=mw_rss_topstories",
+            "summary": "Prime Minister Keir Starmer declined to say Chancellor Rachel Reeves would be in her position through the next election. He was asked by Conservative leader Kemi Badenoch.",
+            "date": "Wed, 02 Jul 2025 13:11:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VTI",
+            "stock_ticker": "0P0001K955.L",
             "impact": "Neutral"
         },
         {
-            "title": "Gold’s momentum is fading — and a pullback is coming, says HSBC analyst",
-            "link": "https://www.marketwatch.com/story/golds-momentum-is-fading-and-a-pullback-is-coming-says-hsbc-analyst-585418f3?mod=mw_rss_topstories",
-            "summary": ". Surprisingly, the Israeli-Iran crisis did not propel gold prices higher. It did not push the dollar higher, however, as the dollar fell against the yen.",
-            "date": "Tue, 01 Jul 2025 12:12:00 GMT",
+            "title": "ADP says the economy lost jobs for the first time since 2023 due to trade wars",
+            "link": "https://www.marketwatch.com/story/adp-says-economy-loses-jobs-for-the-first-time-since2023-due-to-trade-wars-3507db19?mod=mw_rss_topstories",
+            "summary": "Privately run businesses reduced jobs in June for the first time in more than two years, ADP said. U.S. trade wars created a “hesitancy to hire and a reluctance to replace departing workers,” the company said.",
+            "date": "Wed, 02 Jul 2025 13:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^XAU",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m a stay-at-home mom. Do I take a part-time job to spend more time with my kids — or get a job for six figures?",
-            "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-for-10-years-do-i-take-a-part-time-job-to-spend-more-time-with-my-kids-or-get-a-job-for-six-figures-5cfe7788?mod=mw_rss_topstories",
-            "summary": "“So much of my head has been filled with thoughts of needing to be the best, the brightest, the wealthiest,” he says.",
-            "date": "Tue, 01 Jul 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "ADP",
             "impact": "Neutral"
         }
     ]
