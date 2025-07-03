@@ -1,124 +1,124 @@
 {
-    "date": "2025-07-02",
+    "date": "2025-07-03",
     "news": [
         {
-            "title": "The private sector lost 33,000 jobs in June, badly missing expectations for a 100,000 increase, ADP says",
-            "link": "https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html",
-            "summary": " Economists polled by Dow Jones forecasted an increase of 100,000 for the month. The U.S. economy is expected to grow by 1.4 million in the second quarter.",
-            "date": "Wed, 02 Jul 2025 12:40:51 GMT",
+            "title": "U.S. payrolls increased by 147,000 in June, more than expected",
+            "link": "https://www.cnbc.com/2025/07/03/jobs-report-june-2025.html",
+            "summary": "Nonfarm payrolls were expected to increase 110,000 in June. The unemployment rate was forecast to rise to 4.3%. The economy is expected to grow by 0.3% in the second quarter.",
+            "date": "Thu, 03 Jul 2025 13:06:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Microsoft laying off about 9,000 employees in latest round of cuts",
-            "link": "https://www.cnbc.com/2025/07/02/microsoft-laying-off-about-9000-employees-in-latest-round-of-cuts.html",
-            "summary": "Microsoft surpassed expectations on revenue and profit but is slimming down across ranks, organizations and geographies. Microsoft surpassed expectations for revenue and profits but is shrinking across ranks and organizations.",
-            "date": "Wed, 02 Jul 2025 13:11:33 GMT",
+            "title": "Fourth of July barbeque prices have risen since Trump imposed tariffs, congressional analysis says",
+            "link": "https://www.cnbc.com/2025/07/03/fourth-of-july-barbeque-prices-are-rising-congressional-analysis-says.html",
+            "summary": "Americans may spend more on barbeque items such as beer and outdoor chairs at their Fourth of July celebrations this year, according to a congressional report.",
+            "date": "Thu, 03 Jul 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MSFT",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Tesla reports 14% decline in vehicle deliveries, marking second straight year-over-year drop",
-            "link": "https://www.cnbc.com/2025/07/02/tesla-tsla-q2-2025-vehicle-delivery-and-production-numbers.html",
-            "summary": "Tesla reported another year-over-year decline in vehicle deliveries. Company faces increased competition from lower-cost rivals. Tesla is the world's second-largest electric car maker.",
-            "date": "Wed, 02 Jul 2025 13:19:16 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TSLA",
+            "stock_ticker": "6682.HK",
             "impact": "Neutral"
         },
         {
-            "title": "House Republicans don't have the votes yet to pass Trump's megabill",
-            "link": "https://www.cnbc.com/2025/07/01/house-republicans-trump-megabill.html",
-            "summary": "It's unclear how many House Republicans are firm \"no\" votes and how many are wavering. Speaker Mike Johnson does not have a lot of wiggle room.",
-            "date": "Wed, 02 Jul 2025 13:15:45 GMT",
+            "title": "House vote on Big, Beautiful Bill moves ahead after Republican defectors flip",
+            "link": "https://www.cnbc.com/2025/07/03/trump-megabill-house-vote.html",
+            "summary": "The late-night vote to begin final debate marked a win for Republican leadership seeking to deliver on Trump's second term policy agenda. The final debate will take place on Wednesday night.",
+            "date": "Thu, 03 Jul 2025 13:17:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FLL",
+            "stock_ticker": "GLASF",
             "impact": "Neutral"
         },
         {
-            "title": "A bare-bones deal is Europe's best hope in trade talks with the U.S., sources say",
-            "link": "https://www.cnbc.com/2025/07/02/a-bare-bones-deal-is-europes-best-hope-in-trade-talks-with-the-us-sources-say.html",
-            "summary": "The U.S. and EU are down to the wire to strike a so-far elusive trade agreement by early July. The two sides are expected to reach an agreement by the end of the month.",
-            "date": "Wed, 02 Jul 2025 12:36:55 GMT",
+            "title": "Airlines face investors after strong— but cheaper — July 4 holiday",
+            "link": "https://www.cnbc.com/2025/07/03/summer-travel-airlines-july-4.html",
+            "summary": "Major airlines pulled their 2025 forecasts earlier this year, blaming economic uncertainty. Airline executives blamed economic uncertainty for pulling out of the 2025 plan.",
+            "date": "Thu, 03 Jul 2025 13:13:10 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
-            "impact": "Bearish"
-        },
-        {
-            "title": "My wife and I have $7,000 a month in pensions and Social Security, plus $140,000 cash. Can we afford to retire?",
-            "link": "https://www.marketwatch.com/story/my-wife-and-i-have-7-000-in-pensions-140-000-in-cash-plus-social-security-can-we-afford-to-retire-14fd44f1?mod=mw_rss_topstories",
-            "summary": "“My wife of 20 years is a Japanese national and lives in the U.S. as a permanent resident,” he said.",
-            "date": "Wed, 02 Jul 2025 13:25:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "AAL",
             "impact": "Neutral"
         },
         {
-            "title": "The last holdout bears are Democrats, these strategists say. Their capitulation could fuel the next leg higher for stocks.",
-            "link": "https://www.marketwatch.com/story/the-last-holdout-bears-are-democrats-say-strategists-their-capitulation-could-fuel-the-next-leg-higher-for-stocks-e815134f?mod=mw_rss_topstories",
-            "summary": "The stock market has seen a historic rally this spring, but not all investors are on board. Ned Davis researchers point the finger at Democrats.",
-            "date": "Wed, 02 Jul 2025 13:23:00 GMT",
+            "title": "Apple's China iPhone sales grows for the first time in two years",
+            "link": "https://www.cnbc.com/2025/07/03/apple-china-iphone-sales-grew-for-the-first-time-in-two-years.html",
+            "summary": "Apple is facing intense competition in China from a resurgent Huawei. Apple is facing fierce competition from Huawei in China. The two companies are expected to go head-to-head in the coming months.",
+            "date": "Thu, 03 Jul 2025 11:54:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "APPIX",
             "impact": "Neutral"
         },
         {
-            "title": "Paramount’s settlement with Trump could open the door to a Skydance deal",
-            "link": "https://www.marketwatch.com/story/paramounts-settlement-with-trump-could-open-the-door-to-a-skydance-deal-e954ad90?mod=mw_rss_topstories",
-            "summary": "Paramount Global’s $8 billion merger with Skydance Media has faced opposition from the Trump administration. The merger is expected to be completed by the end of 2015.",
-            "date": "Wed, 02 Jul 2025 13:17:00 GMT",
+            "title": "What drove Del Monte Foods into filing for bankruptcy? Blame foodies.",
+            "link": "https://www.marketwatch.com/story/how-fresh-is-best-foodies-helped-drive-del-monte-foods-into-filing-for-bankruptcy-8a26f83a?mod=mw_rss_topstories",
+            "summary": "The iconic canned fruits-and-vegetables brand has struggled to keep up with the changing grocery landscape, experts say. The iconic canned fruit and vegetable brand has been in trouble for years. The company has been struggling to keep pace with changing grocery landscapes.",
+            "date": "Thu, 03 Jul 2025 13:02:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LSAA.L",
+            "stock_ticker": "WAT-P.V",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Can Sean ‘Diddy’ Combs recover financially now that he’s been found not guilty of the worst charges?",
+            "link": "https://www.marketwatch.com/story/can-sean-diddy-combs-and-his-business-empire-recover-financially-now-that-hes-been-found-not-guilty-of-some-charges-13c7084f?mod=mw_rss_topstories",
+            "summary": "The hip-hop mogul has already seen his net worth plummet from $900 million to $400 million, according to one estimate. His net worth has been estimated to be between $100 million and $200 million.",
+            "date": "Thu, 03 Jul 2025 12:55:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CAN",
             "impact": "Neutral"
         },
         {
-            "title": "U.K. chancellor’s troubles show it’s hard to implement the austerity that Musk and Dalio want",
-            "link": "https://www.marketwatch.com/story/u-k-chancellors-troubles-shows-its-hard-to-implement-the-austerity-that-musk-and-dalio-want-df6c6748?mod=mw_rss_topstories",
-            "summary": "Prime Minister Keir Starmer declined to say Chancellor Rachel Reeves would be in her position through the next election. He was asked by Conservative leader Kemi Badenoch.",
-            "date": "Wed, 02 Jul 2025 13:11:00 GMT",
+            "title": "This fund returned 21% in May alone buying ‘left-for-dead’ stocks — and it has a new target",
+            "link": "https://www.marketwatch.com/story/this-fund-returned-21-in-may-alone-buying-left-for-dead-stocks-and-it-has-a-new-target-af651843?mod=mw_rss_topstories",
+            "summary": "Some of the bets made in the 2022 sell-off started to come good for Whetstone Capital this spring. An average holding period of three years meant some of the investments started to pay off.",
+            "date": "Thu, 03 Jul 2025 12:53:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001K955.L",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         },
         {
-            "title": "ADP says the economy lost jobs for the first time since 2023 due to trade wars",
-            "link": "https://www.marketwatch.com/story/adp-says-economy-loses-jobs-for-the-first-time-since2023-due-to-trade-wars-3507db19?mod=mw_rss_topstories",
-            "summary": "Privately run businesses reduced jobs in June for the first time in more than two years, ADP said. U.S. trade wars created a “hesitancy to hire and a reluctance to replace departing workers,” the company said.",
-            "date": "Wed, 02 Jul 2025 13:10:00 GMT",
+            "title": "‘I’m single’: At 70, I have $500,000 in stocks and $220,000 in savings. How do I invest my $130,000 windfall?",
+            "link": "https://www.marketwatch.com/story/im-single-at-70-i-have-500-000-in-stocks-and-220-000-in-savings-how-do-i-invest-my-130-000-windfall-366baeb8?mod=mw_rss_topstories",
+            "summary": "“I’m receiving enough Social Security to live on,” she says. “I'm receiving enough social Security to living on.”",
+            "date": "Thu, 03 Jul 2025 12:44:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ADP",
+            "stock_ticker": "BMNR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "What time does the stock market close today — and is it open on the Fourth of July? What about FedEx, UPS and mail delivery?",
+            "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-the-fourth-of-july-and-will-it-close-early-on-july-3-what-about-fedex-ups-and-mail-delivery-26eaf161?mod=mw_rss_topstories",
+            "summary": " Independence Day comes with many closures — although it may be a good time to hit the stores. There are many stores that will be closed for the holiday.",
+            "date": "Thu, 03 Jul 2025 12:42:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WAT-P.V",
             "impact": "Neutral"
         }
     ]
