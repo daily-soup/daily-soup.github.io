@@ -1,107 +1,83 @@
 {
-    "date": "2025-07-03",
+    "date": "2025-07-04",
     "news": [
         {
-            "title": "U.S. payrolls increased by 147,000 in June, more than expected",
-            "link": "https://www.cnbc.com/2025/07/03/jobs-report-june-2025.html",
-            "summary": "Nonfarm payrolls were expected to increase 110,000 in June. The unemployment rate was forecast to rise to 4.3%. The economy is expected to grow by 0.3% in the second quarter.",
-            "date": "Thu, 03 Jul 2025 13:06:18 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fourth of July barbeque prices have risen since Trump imposed tariffs, congressional analysis says",
-            "link": "https://www.cnbc.com/2025/07/03/fourth-of-july-barbeque-prices-are-rising-congressional-analysis-says.html",
-            "summary": "Americans may spend more on barbeque items such as beer and outdoor chairs at their Fourth of July celebrations this year, according to a congressional report.",
-            "date": "Thu, 03 Jul 2025 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "6682.HK",
-            "impact": "Neutral"
-        },
-        {
-            "title": "House vote on Big, Beautiful Bill moves ahead after Republican defectors flip",
-            "link": "https://www.cnbc.com/2025/07/03/trump-megabill-house-vote.html",
-            "summary": "The late-night vote to begin final debate marked a win for Republican leadership seeking to deliver on Trump's second term policy agenda. The final debate will take place on Wednesday night.",
-            "date": "Thu, 03 Jul 2025 13:17:30 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GLASF",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Airlines face investors after strong— but cheaper — July 4 holiday",
-            "link": "https://www.cnbc.com/2025/07/03/summer-travel-airlines-july-4.html",
-            "summary": "Major airlines pulled their 2025 forecasts earlier this year, blaming economic uncertainty. Airline executives blamed economic uncertainty for pulling out of the 2025 plan.",
-            "date": "Thu, 03 Jul 2025 13:13:10 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Apple's China iPhone sales grows for the first time in two years",
-            "link": "https://www.cnbc.com/2025/07/03/apple-china-iphone-sales-grew-for-the-first-time-in-two-years.html",
-            "summary": "Apple is facing intense competition in China from a resurgent Huawei. Apple is facing fierce competition from Huawei in China. The two companies are expected to go head-to-head in the coming months.",
-            "date": "Thu, 03 Jul 2025 11:54:26 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "APPIX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "What drove Del Monte Foods into filing for bankruptcy? Blame foodies.",
-            "link": "https://www.marketwatch.com/story/how-fresh-is-best-foodies-helped-drive-del-monte-foods-into-filing-for-bankruptcy-8a26f83a?mod=mw_rss_topstories",
-            "summary": "The iconic canned fruits-and-vegetables brand has struggled to keep up with the changing grocery landscape, experts say. The iconic canned fruit and vegetable brand has been in trouble for years. The company has been struggling to keep pace with changing grocery landscapes.",
-            "date": "Thu, 03 Jul 2025 13:02:00 GMT",
+            "title": "What Trump’s 'one big beautiful' tax-and-spending bill means for your money",
+            "link": "https://www.cnbc.com/guide/what-trumps-one-big-beautiful-bill-means-for-your-money/",
+            "summary": "Congress has passed President Donald Trump's tax and spending package. Here's what the megabill could mean for your money. Here’s what it could mean in the long run.",
+            "date": "Thu, 03 Jul 2025 19:57:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "WAT-P.V",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Can Sean ‘Diddy’ Combs recover financially now that he’s been found not guilty of the worst charges?",
-            "link": "https://www.marketwatch.com/story/can-sean-diddy-combs-and-his-business-empire-recover-financially-now-that-hes-been-found-not-guilty-of-some-charges-13c7084f?mod=mw_rss_topstories",
-            "summary": "The hip-hop mogul has already seen his net worth plummet from $900 million to $400 million, according to one estimate. His net worth has been estimated to be between $100 million and $200 million.",
-            "date": "Thu, 03 Jul 2025 12:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CAN",
             "impact": "Neutral"
         },
         {
-            "title": "This fund returned 21% in May alone buying ‘left-for-dead’ stocks — and it has a new target",
-            "link": "https://www.marketwatch.com/story/this-fund-returned-21-in-may-alone-buying-left-for-dead-stocks-and-it-has-a-new-target-af651843?mod=mw_rss_topstories",
-            "summary": "Some of the bets made in the 2022 sell-off started to come good for Whetstone Capital this spring. An average holding period of three years meant some of the investments started to pay off.",
-            "date": "Thu, 03 Jul 2025 12:53:00 GMT",
+            "title": "From mustard makeovers to beef tallow, six food and beverage trends that could take over",
+            "link": "https://www.cnbc.com/2025/07/04/2025-food-trends-beef-tallow-mustard-flavored-olive-oil.html",
+            "summary": "The Summer Fancy Foods Show returned to the Jacob K. Javits Convention Center in New York. The event was hosted by the Specialty Foods Association.",
+            "date": "Fri, 04 Jul 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "KITL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "CNBC Daily Open: Divergence between official and ADP jobs reports reveals two labor markets",
+            "link": "https://www.cnbc.com/2025/07/04/cnbc-daily-open-official-and-adp-jobs-reports-reveal-2-labor-markets.html",
+            "summary": "The huge divergence between the ADP and BLS reports could point to a growing schism in the U.S. labor market. It could also point to the possibility of a recession in coming months.",
+            "date": "Fri, 04 Jul 2025 06:30:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FCNBCA.FGI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Apple scores big victory with 'F1,' but AI is still a major problem in Cupertino",
+            "link": "https://www.cnbc.com/2025/07/04/apple-f1-artificial-intelligence.html",
+            "summary": "Wall Street's reaction to the company's AI announcements at WWDC suggest there's some trouble underneath the hood. While \"F1\" was a victory lap for Apple, Wall Street's Reaction to the Company's AI Announcements suggest there may be some trouble ahead.",
+            "date": "Fri, 04 Jul 2025 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAPL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump's Vietnam pact takes aim at China — but it raises more questions than answers",
+            "link": "https://www.cnbc.com/2025/07/04/trumps-vietnam-pact-targets-china-raises-questions-than-answers.html",
+            "summary": "The trade pact's scant details have left economists wondering about what it would mean for the flow of Chinese goods rerouted through the country.",
+            "date": "Fri, 04 Jul 2025 10:53:50 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VNM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "S&P 500 futures and dollar dip as Trump revives tariff tension",
+            "link": "https://www.marketwatch.com/story/s-p-500-futures-and-dollar-dip-as-trump-revives-tariff-tension-2cc83ada?mod=mw_rss_topstories",
+            "summary": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of New York for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots.",
+            "date": "Fri, 04 Jul 2025 13:01:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^GSPC",
             "impact": "Neutral"
         },
         {
             "title": "‘I’m single’: At 70, I have $500,000 in stocks and $220,000 in savings. How do I invest my $130,000 windfall?",
             "link": "https://www.marketwatch.com/story/im-single-at-70-i-have-500-000-in-stocks-and-220-000-in-savings-how-do-i-invest-my-130-000-windfall-366baeb8?mod=mw_rss_topstories",
             "summary": "“I’m receiving enough Social Security to live on,” she says. “I'm receiving enough social Security to living on.”",
-            "date": "Thu, 03 Jul 2025 12:44:00 GMT",
+            "date": "Fri, 04 Jul 2025 12:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,16 +86,40 @@
             "impact": "Neutral"
         },
         {
-            "title": "What time does the stock market close today — and is it open on the Fourth of July? What about FedEx, UPS and mail delivery?",
-            "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-the-fourth-of-july-and-will-it-close-early-on-july-3-what-about-fedex-ups-and-mail-delivery-26eaf161?mod=mw_rss_topstories",
-            "summary": " Independence Day comes with many closures — although it may be a good time to hit the stores. There are many stores that will be closed for the holiday.",
-            "date": "Thu, 03 Jul 2025 12:42:00 GMT",
+            "title": "‘My whole financial world is upside down’: I’m ‘medically retired’ at 51 with $428K in stocks. Is this enough to live on?",
+            "link": "https://www.marketwatch.com/story/my-life-has-changed-dramatically-im-51-medically-retired-and-planning-to-move-to-a-cheaper-state-can-we-do-it-3e186fe5?mod=mw_rss_topstories",
+            "summary": "“We don’t know where we will retire. It could be South Carolina, Georgia, Alabama, Mississippi or Texas,” he says.",
+            "date": "Fri, 04 Jul 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WAT-P.V",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
+        },
+        {
+            "title": "Defense stock surge triggers one of the hottest ETF launches in European history",
+            "link": "https://www.marketwatch.com/story/defense-stock-surge-triggers-one-of-the-hottest-etf-launches-in-european-history-23aff504?mod=mw_rss_topstories",
+            "summary": "A new EuropeanETF that invests in defense stocks has quickly amassed assets. A new European ETF that invests into defense stocks is quickly accumulating assets.",
+            "date": "Fri, 04 Jul 2025 12:16:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KTOS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘Finance makes me break out in hives’: I inherited $240K from my parents. Do I pay off my $258K mortgage and give up my job?",
+            "link": "https://www.marketwatch.com/story/finance-makes-me-break-out-in-hives-i-inherited-240k-from-my-parents-do-i-pay-off-my-258k-mortgage-and-give-up-my-job-cb06c4a5?mod=mw_rss_topstories",
+            "summary": "“I inherited $240K. Do I pay off my $258K mortgage and downsize my house and job?” asks one.",
+            "date": "Fri, 04 Jul 2025 11:55:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KREF",
+            "impact": "Bearish"
         }
     ]
 }
