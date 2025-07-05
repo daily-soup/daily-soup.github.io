@@ -1,40 +1,16 @@
 {
-    "date": "2025-07-04",
+    "date": "2025-07-05",
     "news": [
         {
-            "title": "What Trump’s 'one big beautiful' tax-and-spending bill means for your money",
-            "link": "https://www.cnbc.com/guide/what-trumps-one-big-beautiful-bill-means-for-your-money/",
-            "summary": "Congress has passed President Donald Trump's tax and spending package. Here's what the megabill could mean for your money. Here’s what it could mean in the long run.",
-            "date": "Thu, 03 Jul 2025 19:57:42 GMT",
+            "title": "OPEC+ members agree to larger-than-expected oil production hike in August",
+            "link": "https://www.cnbc.com/2025/07/05/opec-members-agree-larger-than-expected-oil-production-hike-in-august.html",
+            "summary": "Eight OPEC+ producers agreed to lift crude output by 548,000 barrels per day in August. That exceeds the anticipated 411,000 barrel per day rate.",
+            "date": "Sat, 05 Jul 2025 11:06:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WAT-P.V",
-            "impact": "Neutral"
-        },
-        {
-            "title": "From mustard makeovers to beef tallow, six food and beverage trends that could take over",
-            "link": "https://www.cnbc.com/2025/07/04/2025-food-trends-beef-tallow-mustard-flavored-olive-oil.html",
-            "summary": "The Summer Fancy Foods Show returned to the Jacob K. Javits Convention Center in New York. The event was hosted by the Specialty Foods Association.",
-            "date": "Fri, 04 Jul 2025 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KITL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "CNBC Daily Open: Divergence between official and ADP jobs reports reveals two labor markets",
-            "link": "https://www.cnbc.com/2025/07/04/cnbc-daily-open-official-and-adp-jobs-reports-reveal-2-labor-markets.html",
-            "summary": "The huge divergence between the ADP and BLS reports could point to a growing schism in the U.S. labor market. It could also point to the possibility of a recession in coming months.",
-            "date": "Fri, 04 Jul 2025 06:30:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FCNBCA.FGI",
+            "stock_ticker": "75Z.DU",
             "impact": "Neutral"
         },
         {
@@ -50,76 +26,100 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump's Vietnam pact takes aim at China — but it raises more questions than answers",
-            "link": "https://www.cnbc.com/2025/07/04/trumps-vietnam-pact-targets-china-raises-questions-than-answers.html",
-            "summary": "The trade pact's scant details have left economists wondering about what it would mean for the flow of Chinese goods rerouted through the country.",
-            "date": "Fri, 04 Jul 2025 10:53:50 GMT",
+            "title": "Musk backs Sen. Paul's criticism of Trump's megabill in first comment since it passed",
+            "link": "https://www.cnbc.com/2025/07/04/musk-trump-megabill.html",
+            "summary": "Musk has blasted President Donald Trump's \"One Big Beautiful Bill\" Musk has called out the potential for the spending package to increase the national debt.",
+            "date": "Fri, 04 Jul 2025 15:08:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VNM",
+            "stock_ticker": "MUSK24800-USD",
             "impact": "Neutral"
         },
         {
-            "title": "S&P 500 futures and dollar dip as Trump revives tariff tension",
-            "link": "https://www.marketwatch.com/story/s-p-500-futures-and-dollar-dip-as-trump-revives-tariff-tension-2cc83ada?mod=mw_rss_topstories",
-            "summary": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of New York for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots.",
-            "date": "Fri, 04 Jul 2025 13:01:00 GMT",
+            "title": "OpenAI CEO Sam Altman says he's 'politically homeless' in July 4 post bashing Democrats",
+            "link": "https://www.cnbc.com/2025/07/04/openai-altman-july-4-zohran-mamdani.html",
+            "summary": "\"We should encourage people to make tons of money and then also find ways to widely distribute wealth and share the compounding magic of capitalism,\" he wrote.",
+            "date": "Fri, 04 Jul 2025 15:50:52 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^GSPC",
+            "stock_ticker": "OPERATOR-USD",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m single’: At 70, I have $500,000 in stocks and $220,000 in savings. How do I invest my $130,000 windfall?",
-            "link": "https://www.marketwatch.com/story/im-single-at-70-i-have-500-000-in-stocks-and-220-000-in-savings-how-do-i-invest-my-130-000-windfall-366baeb8?mod=mw_rss_topstories",
-            "summary": "“I’m receiving enough Social Security to live on,” she says. “I'm receiving enough social Security to living on.”",
-            "date": "Fri, 04 Jul 2025 12:55:00 GMT",
+            "title": "Ethereum is powering Wall Street's future. The crypto scene at Cannes shows how far it's come",
+            "link": "https://www.cnbc.com/2025/07/04/the-ethcc-crypto-scene-at-cannes-shows-how-far-ethereum-has-come.html",
+            "summary": "Ethernium’s institutional adoption is accelerating. BlackRock, Deutsche Bank, Coinbase, and Kraken all building directly on its rails.",
+            "date": "Sat, 05 Jul 2025 08:41:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "ETH-USD",
             "impact": "Neutral"
         },
         {
-            "title": "‘My whole financial world is upside down’: I’m ‘medically retired’ at 51 with $428K in stocks. Is this enough to live on?",
-            "link": "https://www.marketwatch.com/story/my-life-has-changed-dramatically-im-51-medically-retired-and-planning-to-move-to-a-cheaper-state-can-we-do-it-3e186fe5?mod=mw_rss_topstories",
-            "summary": "“We don’t know where we will retire. It could be South Carolina, Georgia, Alabama, Mississippi or Texas,” he says.",
-            "date": "Fri, 04 Jul 2025 12:30:00 GMT",
+            "title": "Investors traded a record $6.6 trillion worth of stock in the first half of 2025",
+            "link": "https://www.marketwatch.com/story/investors-traded-a-record-6-6-trillion-worth-of-stock-in-the-first-half-of-2025-981f9ade?mod=mw_rss_topstories",
+            "summary": "Individual investors traded a record amount of stocks in the first half of the year. Tariffs, market volatility and war in the Middle East couldn’t slow down the buying spree.",
+            "date": "Sat, 05 Jul 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Defense stock surge triggers one of the hottest ETF launches in European history",
-            "link": "https://www.marketwatch.com/story/defense-stock-surge-triggers-one-of-the-hottest-etf-launches-in-european-history-23aff504?mod=mw_rss_topstories",
-            "summary": "A new EuropeanETF that invests in defense stocks has quickly amassed assets. A new European ETF that invests into defense stocks is quickly accumulating assets.",
-            "date": "Fri, 04 Jul 2025 12:16:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KTOS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘Finance makes me break out in hives’: I inherited $240K from my parents. Do I pay off my $258K mortgage and give up my job?",
-            "link": "https://www.marketwatch.com/story/finance-makes-me-break-out-in-hives-i-inherited-240k-from-my-parents-do-i-pay-off-my-258k-mortgage-and-give-up-my-job-cb06c4a5?mod=mw_rss_topstories",
-            "summary": "“I inherited $240K. Do I pay off my $258K mortgage and downsize my house and job?” asks one.",
-            "date": "Fri, 04 Jul 2025 11:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KREF",
+            "stock_ticker": "OHI",
             "impact": "Bearish"
+        },
+        {
+            "title": "Now that the megabill has passed, expect a ton of short-term debt to be sold to finance the government’s deficit",
+            "link": "https://www.marketwatch.com/story/now-that-the-megabill-has-passed-expect-a-ton-of-short-term-treasury-bills-to-be-auctioned-to-finance-the-governments-deficit-900681f3?mod=mw_rss_topstories",
+            "summary": "Wall Street will be watching to see how new Treasury supply to fund the U.S. deficit will be absorbed. New Treasury supply will be used to pay for new spending programs.",
+            "date": "Fri, 04 Jul 2025 23:43:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NOW",
+            "impact": "Bullish"
+        },
+        {
+            "title": "You’re running out of time to buy an EV before Trump’s big bill kills the $7,500 tax credit on electric vehicles",
+            "link": "https://www.marketwatch.com/story/youre-running-out-of-time-to-buy-an-ev-before-trumps-big-bill-kills-the-7-500-tax-credit-on-electric-vehicles-309c1d1e?mod=mw_rss_topstories",
+            "summary": "The $7,500 tax credit that car shoppers can use for new EV purchases is set to expire at the end of September. The tax and spending bill passed the House of Representatives on Thursday.",
+            "date": "Fri, 04 Jul 2025 23:40:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "C8Q.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Will Trump’s megabill cut your taxes? Check this number on your tax return for the answer.",
+            "link": "https://www.marketwatch.com/story/will-trumps-megabill-cut-your-taxes-check-this-number-on-your-tax-return-for-the-answer-4813a4d8?mod=mw_rss_topstories",
+            "summary": "Tax breaks in the megabill, like no taxes on tips and overtime, only apply to people at certain income levels. Tax breaks like no tax on tips, overtime, and other benefits are only available to people with certain incomes.",
+            "date": "Fri, 04 Jul 2025 23:37:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SHW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Tax breaks and spending cuts: Here are the winners and losers in Trump’s big bill",
+            "link": "https://www.marketwatch.com/story/trumps-big-bill-just-passed-the-house-here-are-the-winners-and-losers-as-it-goes-to-his-desk-f1f8ea47?mod=mw_rss_topstories",
+            "summary": "The GOP megabill has new tax breaks aimed at low- and moderate-income households. It also has spending cuts that could make it harder for some to receive public assistance or hold onto health insurance.",
+            "date": "Fri, 04 Jul 2025 23:36:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TAX",
+            "impact": "Neutral"
         }
     ]
 }
