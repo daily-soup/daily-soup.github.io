@@ -1,124 +1,124 @@
 {
-    "date": "2025-07-05",
+    "date": "2025-07-06",
     "news": [
         {
-            "title": "OPEC+ members agree to larger-than-expected oil production hike in August",
-            "link": "https://www.cnbc.com/2025/07/05/opec-members-agree-larger-than-expected-oil-production-hike-in-august.html",
-            "summary": "Eight OPEC+ producers agreed to lift crude output by 548,000 barrels per day in August. That exceeds the anticipated 411,000 barrel per day rate.",
-            "date": "Sat, 05 Jul 2025 11:06:57 GMT",
+            "title": "Elon Musk says he has formed a new U.S. political party, the 'America Party'",
+            "link": "https://www.cnbc.com/2025/07/05/elon-musk-america-party-democrats-trump.html",
+            "summary": "Elon Musk says the new party would focus \"on just 2 or 3 Senate seats and 8 to 10 House districts\" Musk, the world's richest man, is the founder of the electric car company Tesla.",
+            "date": "Sat, 05 Jul 2025 21:45:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "75Z.DU",
+            "stock_ticker": "ELON",
             "impact": "Neutral"
         },
         {
-            "title": "Apple scores big victory with 'F1,' but AI is still a major problem in Cupertino",
-            "link": "https://www.cnbc.com/2025/07/04/apple-f1-artificial-intelligence.html",
-            "summary": "Wall Street's reaction to the company's AI announcements at WWDC suggest there's some trouble underneath the hood. While \"F1\" was a victory lap for Apple, Wall Street's Reaction to the Company's AI Announcements suggest there may be some trouble ahead.",
-            "date": "Fri, 04 Jul 2025 12:00:01 GMT",
+            "title": "Trade deadlines and oil drama set the stage for a crunch week in global markets",
+            "link": "https://www.cnbc.com/2025/07/06/trade-deadlines-and-oil-drama-set-the-stage-for-a-crunch-week-in-global-markets.html",
+            "summary": "This is the weekly lookahead at the key global events that could move markets and shape policy. This week, we look at the events in the Middle East, Asia, Europe and Africa.",
+            "date": "Sun, 06 Jul 2025 07:24:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAPL",
+            "stock_ticker": "CRU.VI",
             "impact": "Neutral"
         },
         {
-            "title": "Musk backs Sen. Paul's criticism of Trump's megabill in first comment since it passed",
-            "link": "https://www.cnbc.com/2025/07/04/musk-trump-megabill.html",
-            "summary": "Musk has blasted President Donald Trump's \"One Big Beautiful Bill\" Musk has called out the potential for the spending package to increase the national debt.",
-            "date": "Fri, 04 Jul 2025 15:08:06 GMT",
+            "title": "The CEO mindset is shifting. It’s no longer all about winning",
+            "link": "https://www.cnbc.com/2025/07/06/the-ceo-mindset-is-shifting-its-no-longer-all-about-winning.html",
+            "summary": "Today’s leaders must embrace failure, adapt fast, and lead through uncertainty, tech disruption, and political pressure. The CEO playbook is evolving.",
+            "date": "Sun, 06 Jul 2025 07:23:32 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MUSK24800-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "OpenAI CEO Sam Altman says he's 'politically homeless' in July 4 post bashing Democrats",
-            "link": "https://www.cnbc.com/2025/07/04/openai-altman-july-4-zohran-mamdani.html",
-            "summary": "\"We should encourage people to make tons of money and then also find ways to widely distribute wealth and share the compounding magic of capitalism,\" he wrote.",
-            "date": "Fri, 04 Jul 2025 15:50:52 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OPERATOR-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Ethereum is powering Wall Street's future. The crypto scene at Cannes shows how far it's come",
-            "link": "https://www.cnbc.com/2025/07/04/the-ethcc-crypto-scene-at-cannes-shows-how-far-ethereum-has-come.html",
-            "summary": "Ethernium’s institutional adoption is accelerating. BlackRock, Deutsche Bank, Coinbase, and Kraken all building directly on its rails.",
-            "date": "Sat, 05 Jul 2025 08:41:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ETH-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Investors traded a record $6.6 trillion worth of stock in the first half of 2025",
-            "link": "https://www.marketwatch.com/story/investors-traded-a-record-6-6-trillion-worth-of-stock-in-the-first-half-of-2025-981f9ade?mod=mw_rss_topstories",
-            "summary": "Individual investors traded a record amount of stocks in the first half of the year. Tariffs, market volatility and war in the Middle East couldn’t slow down the buying spree.",
-            "date": "Sat, 05 Jul 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OHI",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Now that the megabill has passed, expect a ton of short-term debt to be sold to finance the government’s deficit",
-            "link": "https://www.marketwatch.com/story/now-that-the-megabill-has-passed-expect-a-ton-of-short-term-treasury-bills-to-be-auctioned-to-finance-the-governments-deficit-900681f3?mod=mw_rss_topstories",
-            "summary": "Wall Street will be watching to see how new Treasury supply to fund the U.S. deficit will be absorbed. New Treasury supply will be used to pay for new spending programs.",
-            "date": "Fri, 04 Jul 2025 23:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NOW",
+            "stock_ticker": "BA",
             "impact": "Bullish"
         },
         {
-            "title": "You’re running out of time to buy an EV before Trump’s big bill kills the $7,500 tax credit on electric vehicles",
-            "link": "https://www.marketwatch.com/story/youre-running-out-of-time-to-buy-an-ev-before-trumps-big-bill-kills-the-7-500-tax-credit-on-electric-vehicles-309c1d1e?mod=mw_rss_topstories",
-            "summary": "The $7,500 tax credit that car shoppers can use for new EV purchases is set to expire at the end of September. The tax and spending bill passed the House of Representatives on Thursday.",
-            "date": "Fri, 04 Jul 2025 23:40:00 GMT",
+            "title": "Rep. Mark Green resigns from Congress, leaving Speaker Johnson with an even narrower Republican majority in the House",
+            "link": "https://www.cnbc.com/2025/07/05/rep-mark-green-announces-resignation.html",
+            "summary": "Rep. Mark Green said he was returning to the private sector to start his own business. He did not share details about the business. Green was a member of the House Ways and Means Committee.",
+            "date": "Sat, 05 Jul 2025 22:08:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "C8Q.F",
+            "stock_ticker": "REPL",
             "impact": "Neutral"
         },
         {
-            "title": "Will Trump’s megabill cut your taxes? Check this number on your tax return for the answer.",
-            "link": "https://www.marketwatch.com/story/will-trumps-megabill-cut-your-taxes-check-this-number-on-your-tax-return-for-the-answer-4813a4d8?mod=mw_rss_topstories",
-            "summary": "Tax breaks in the megabill, like no taxes on tips and overtime, only apply to people at certain income levels. Tax breaks like no tax on tips, overtime, and other benefits are only available to people with certain incomes.",
-            "date": "Fri, 04 Jul 2025 23:37:00 GMT",
+            "title": "Top Wall Street analysts are pounding the table on these 3 stocks",
+            "link": "https://www.cnbc.com/2025/07/06/top-wall-street-analysts-are-pounding-the-table-on-these-3-stocks.html",
+            "summary": "TipRanks' analyst ranking service highlights three stocks, including Dell Technologies and Amazon, favored by Wall Street's top pros. TipRanks: Dell Technologies, Amazon, and Dell Technologies are among the best stocks to buy.",
+            "date": "Sun, 06 Jul 2025 12:58:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHW",
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
-            "title": "Tax breaks and spending cuts: Here are the winners and losers in Trump’s big bill",
-            "link": "https://www.marketwatch.com/story/trumps-big-bill-just-passed-the-house-here-are-the-winners-and-losers-as-it-goes-to-his-desk-f1f8ea47?mod=mw_rss_topstories",
-            "summary": "The GOP megabill has new tax breaks aimed at low- and moderate-income households. It also has spending cuts that could make it harder for some to receive public assistance or hold onto health insurance.",
-            "date": "Fri, 04 Jul 2025 23:36:00 GMT",
+            "title": "Can Sean ‘Diddy’ Combs recover financially now that he’s been found not guilty of the worst charges?",
+            "link": "https://www.marketwatch.com/story/can-sean-diddy-combs-and-his-business-empire-recover-financially-now-that-hes-been-found-not-guilty-of-some-charges-13c7084f?mod=mw_rss_topstories",
+            "summary": "The hip-hop mogul has already seen his net worth plummet from $900 million to $400 million, according to one estimate. His net worth has been estimated to be between $100 million and $200 million.",
+            "date": "Sun, 06 Jul 2025 13:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TAX",
+            "stock_ticker": "CAN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I’m single’: At 70, I have $500,000 in stocks and $220,000 in savings. How do I invest my $130,000 windfall?",
+            "link": "https://www.marketwatch.com/story/im-single-at-70-i-have-500-000-in-stocks-and-220-000-in-savings-how-do-i-invest-my-130-000-windfall-366baeb8?mod=mw_rss_topstories",
+            "summary": "“I’m receiving enough Social Security to live on,” she says. “I'm receiving enough social Security to living on.”",
+            "date": "Sun, 06 Jul 2025 13:08:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BMNR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘She’s in a shaky marriage that could soon end’: Will my daughter’s husband get my IRA when I die?",
+            "link": "https://www.marketwatch.com/story/shes-in-a-shaky-marriage-that-could-soon-end-will-my-daughters-husband-get-my-ira-when-i-die-b4afb418?mod=mw_rss_topstories",
+            "summary": "“I’m 84 and widowed. My daughter is the beneficiary of my IRA and the successor trustee for my revocable living trust,” he said.",
+            "date": "Sun, 06 Jul 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SHESHAINDS.BO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The stock-market rally is broadening beyond Big Tech. Will consumer stocks bounce back in the second half of the year?",
+            "link": "https://www.marketwatch.com/story/the-stock-market-rally-is-broadening-beyond-big-tech-will-consumer-stocks-bounce-back-in-the-second-half-of-the-year-2101ea92?mod=mw_rss_topstories",
+            "summary": "The S&amp;P 500 and the Nasdaq Composite are at all-time highs. From cyclicals to small caps, more stocks are joining the charge.",
+            "date": "Sun, 06 Jul 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Stock-market investors went from panic to ‘Goldilocks.’ Are they getting ahead of themselves?",
+            "link": "https://www.marketwatch.com/story/stock-market-investors-went-from-panic-to-goldilocks-are-they-getting-ahead-of-themselves-1617fa69?mod=mw_rss_topstories",
+            "summary": "Will “strength beget strength” as stock-market investors await a key tariff deadline? The U.S. is set to hit a key deadline on tariffs on July 6.",
+            "date": "Sun, 06 Jul 2025 12:01:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VTI",
             "impact": "Neutral"
         }
     ]
