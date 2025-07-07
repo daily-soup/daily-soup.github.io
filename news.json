@@ -1,41 +1,29 @@
 {
-    "date": "2025-07-06",
+    "date": "2025-07-07",
     "news": [
         {
-            "title": "Elon Musk says he has formed a new U.S. political party, the 'America Party'",
-            "link": "https://www.cnbc.com/2025/07/05/elon-musk-america-party-democrats-trump.html",
-            "summary": "Elon Musk says the new party would focus \"on just 2 or 3 Senate seats and 8 to 10 House districts\" Musk, the world's richest man, is the founder of the electric car company Tesla.",
-            "date": "Sat, 05 Jul 2025 21:45:59 GMT",
+            "title": "Tesla shares drop 7% in premarket trading after Elon Musk says he is launching a political party",
+            "link": "https://www.cnbc.com/2025/07/07/tesla-tsla-shares-today.html",
+            "summary": "Elon Musk said he would form a new political party called the \"America Party\" Musk said the party would focus on electric cars and space travel. The party would be called the America Party.",
+            "date": "Mon, 07 Jul 2025 08:58:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELON",
+            "stock_ticker": "TSLA",
             "impact": "Neutral"
         },
         {
-            "title": "Trade deadlines and oil drama set the stage for a crunch week in global markets",
-            "link": "https://www.cnbc.com/2025/07/06/trade-deadlines-and-oil-drama-set-the-stage-for-a-crunch-week-in-global-markets.html",
-            "summary": "This is the weekly lookahead at the key global events that could move markets and shape policy. This week, we look at the events in the Middle East, Asia, Europe and Africa.",
-            "date": "Sun, 06 Jul 2025 07:24:47 GMT",
+            "title": "Trump threatens extra 10% tariff on countries that align with 'Anti-American' BRICS policies",
+            "link": "https://www.cnbc.com/2025/07/07/trump-says-countries-aligning-with-brics-bloc-will-face-extra-tariff.html",
+            "summary": "The U.S. will start delivering letters on Monday, detailing tariff rates and any agreements reached with various trading partners. The letters will be delivered to the White House, the State Department, the Treasury Department and other agencies.",
+            "date": "Mon, 07 Jul 2025 07:37:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CRU.VI",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
-        },
-        {
-            "title": "The CEO mindset is shifting. It’s no longer all about winning",
-            "link": "https://www.cnbc.com/2025/07/06/the-ceo-mindset-is-shifting-its-no-longer-all-about-winning.html",
-            "summary": "Today’s leaders must embrace failure, adapt fast, and lead through uncertainty, tech disruption, and political pressure. The CEO playbook is evolving.",
-            "date": "Sun, 06 Jul 2025 07:23:32 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Bullish"
         },
         {
             "title": "Rep. Mark Green resigns from Congress, leaving Speaker Johnson with an even narrower Republican majority in the House",
@@ -46,79 +34,91 @@
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "REPL",
+            "stock_ticker": "RSG",
             "impact": "Neutral"
         },
         {
-            "title": "Top Wall Street analysts are pounding the table on these 3 stocks",
-            "link": "https://www.cnbc.com/2025/07/06/top-wall-street-analysts-are-pounding-the-table-on-these-3-stocks.html",
-            "summary": "TipRanks' analyst ranking service highlights three stocks, including Dell Technologies and Amazon, favored by Wall Street's top pros. TipRanks: Dell Technologies, Amazon, and Dell Technologies are among the best stocks to buy.",
-            "date": "Sun, 06 Jul 2025 12:58:02 GMT",
+            "title": "Nvidia challenger Groq expands with first European data center",
+            "link": "https://www.cnbc.com/2025/07/07/ai-chip-startup-groq-expands-with-first-european-data-center.html",
+            "summary": "Groq, which is backed by investment arms of Samsung and Cisco, said the data center will be in Helsinki, Finland. Groq is based in New York, with offices in London and San Francisco.",
+            "date": "Mon, 07 Jul 2025 07:59:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "Can Sean ‘Diddy’ Combs recover financially now that he’s been found not guilty of the worst charges?",
-            "link": "https://www.marketwatch.com/story/can-sean-diddy-combs-and-his-business-empire-recover-financially-now-that-hes-been-found-not-guilty-of-some-charges-13c7084f?mod=mw_rss_topstories",
-            "summary": "The hip-hop mogul has already seen his net worth plummet from $900 million to $400 million, according to one estimate. His net worth has been estimated to be between $100 million and $200 million.",
-            "date": "Sun, 06 Jul 2025 13:13:00 GMT",
+            "title": "How Netflix keeps luring big-name directors away from the traditional box office",
+            "link": "https://www.cnbc.com/2025/07/07/netflix-directors-streaming.html",
+            "summary": "Rian Johnson, Greta Gerwig and Guillermo del Toro are working with Netflix. They have lucrative contracts, creative freedom and a big audience.",
+            "date": "Mon, 07 Jul 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CAN",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m single’: At 70, I have $500,000 in stocks and $220,000 in savings. How do I invest my $130,000 windfall?",
-            "link": "https://www.marketwatch.com/story/im-single-at-70-i-have-500-000-in-stocks-and-220-000-in-savings-how-do-i-invest-my-130-000-windfall-366baeb8?mod=mw_rss_topstories",
-            "summary": "“I’m receiving enough Social Security to live on,” she says. “I'm receiving enough social Security to living on.”",
-            "date": "Sun, 06 Jul 2025 13:08:00 GMT",
+            "title": "‘We are blessed’: My husband is inheriting a $1 million home. Should he put it in my name too?",
+            "link": "https://www.marketwatch.com/story/we-are-blessed-my-husband-is-inheriting-a-1-million-home-should-he-put-it-in-my-name-too-68341b1b?mod=mw_rss_topstories",
+            "summary": "“We do not live in a community-property state. We have one son who is now a young adult,” she says.",
+            "date": "Mon, 07 Jul 2025 13:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "WFC",
             "impact": "Neutral"
         },
         {
-            "title": "‘She’s in a shaky marriage that could soon end’: Will my daughter’s husband get my IRA when I die?",
-            "link": "https://www.marketwatch.com/story/shes-in-a-shaky-marriage-that-could-soon-end-will-my-daughters-husband-get-my-ira-when-i-die-b4afb418?mod=mw_rss_topstories",
-            "summary": "“I’m 84 and widowed. My daughter is the beneficiary of my IRA and the successor trustee for my revocable living trust,” he said.",
-            "date": "Sun, 06 Jul 2025 13:00:00 GMT",
+            "title": "Amazon’s Prime Day sale is longer than ever — and even more important than usual for the company. Here’s why.",
+            "link": "https://www.marketwatch.com/story/amazons-prime-day-sale-is-longer-than-ever-and-even-more-important-than-usual-for-the-company-heres-why-dcc41d58?mod=mw_rss_topstories",
+            "summary": "MarketWatch polling suggests interest in Amazon’s super-sized Prime Day is muted. BofA analysts say the longer event suggests Amazon has more capacity to offer discounts, despite tariff fears.",
+            "date": "Mon, 07 Jul 2025 13:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHESHAINDS.BO",
-            "impact": "Neutral"
+            "stock_ticker": "SWVXX",
+            "impact": "Bullish"
         },
         {
-            "title": "The stock-market rally is broadening beyond Big Tech. Will consumer stocks bounce back in the second half of the year?",
-            "link": "https://www.marketwatch.com/story/the-stock-market-rally-is-broadening-beyond-big-tech-will-consumer-stocks-bounce-back-in-the-second-half-of-the-year-2101ea92?mod=mw_rss_topstories",
-            "summary": "The S&amp;P 500 and the Nasdaq Composite are at all-time highs. From cyclicals to small caps, more stocks are joining the charge.",
-            "date": "Sun, 06 Jul 2025 12:30:00 GMT",
+            "title": "Stay buckled up — the market ride is going to get wilder still, says this strategist",
+            "link": "https://www.marketwatch.com/story/stay-buckled-up-the-market-ride-is-going-to-get-wilder-still-says-this-strategist-8daacc18?mod=mw_rss_topstories",
+            "summary": "High valuations and revived trade angst may pressure stocks in coming months, say analysts. High valuations, revived trade anxiety may pressure stock prices, they say.",
+            "date": "Mon, 07 Jul 2025 12:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "4K4.F",
             "impact": "Neutral"
         },
         {
-            "title": "Stock-market investors went from panic to ‘Goldilocks.’ Are they getting ahead of themselves?",
-            "link": "https://www.marketwatch.com/story/stock-market-investors-went-from-panic-to-goldilocks-are-they-getting-ahead-of-themselves-1617fa69?mod=mw_rss_topstories",
-            "summary": "Will “strength beget strength” as stock-market investors await a key tariff deadline? The U.S. is set to hit a key deadline on tariffs on July 6.",
-            "date": "Sun, 06 Jul 2025 12:01:00 GMT",
+            "title": "Don’t buy Wells Fargo’s stock at current prices, analyst says",
+            "link": "https://www.marketwatch.com/story/dont-buy-wells-fargos-stock-at-current-prices-analyst-says-c08ffc4d?mod=mw_rss_topstories",
+            "summary": "Analyst downgrades Wells Fargo’s stock and upgrades U.S. Bancorp. Regional banks gain favor after big runups by the largest banks.",
+            "date": "Mon, 07 Jul 2025 12:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VTI",
+            "stock_ticker": "RFV.F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Another health insurer has issued a profit warning. But its stock is climbing.",
+            "link": "https://www.marketwatch.com/story/another-health-insurer-has-issued-a-profit-warning-but-its-stock-is-climbing-ae93fd9a?mod=mw_rss_topstories",
+            "summary": "Molina Healthcare cuts its profit outlook, but its stock is rising after tumbling last week in response to rival Centene’s warning.",
+            "date": "Mon, 07 Jul 2025 12:19:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "XAV=F",
             "impact": "Neutral"
         }
     ]
