@@ -1,23 +1,47 @@
 {
-    "date": "2025-07-07",
+    "date": "2025-07-08",
     "news": [
         {
-            "title": "Tesla shares drop 7% in premarket trading after Elon Musk says he is launching a political party",
-            "link": "https://www.cnbc.com/2025/07/07/tesla-tsla-shares-today.html",
-            "summary": "Elon Musk said he would form a new political party called the \"America Party\" Musk said the party would focus on electric cars and space travel. The party would be called the America Party.",
-            "date": "Mon, 07 Jul 2025 08:58:01 GMT",
+            "title": "Tech founders call on Sequoia Capital to denounce VC Shaun Maguire's Mamdani comments",
+            "link": "https://www.cnbc.com/2025/07/07/founders-sign-letter-to-sequoia-on-shaun-maguires-mamdani-remarks.html",
+            "summary": "Shaun Maguire, an outspoken Trump supporter, is getting publicly criticized for recent posts about New York City Democratic mayoral candidate Zohran Mamdani.",
+            "date": "Tue, 08 Jul 2025 13:25:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSLA",
+            "stock_ticker": "TECH",
+            "impact": "Bullish"
+        },
+        {
+            "title": "CNBC's Most Valuable Sports Empires 2025: Here's how the top 20 empires in the world stack up",
+            "link": "https://www.cnbc.com/2025/07/08/cnbcs-most-valuable-sports-empires-2025-how-the-worlds-top-20-empires-rank.html",
+            "summary": "The world's 20 most valuable sports ownership groups are worth a combined $225 billion, according to CNBC's Most Valuable Sports Empires 2025.",
+            "date": "Tue, 08 Jul 2025 10:04:57 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P00014M8C.F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "'Big beautiful bill' may help some seniors on Social Security. But it doesn't eliminate taxes on benefits",
+            "link": "https://www.cnbc.com/2025/07/07/why-big-beautiful-bill-doesnt-end-taxes-on-social-security-benefits.html",
+            "summary": "Experts weigh in on the tax relief some seniors may expect to see. President Donald Trump has signed the \"big beautiful\" bill into law.",
+            "date": "Tue, 08 Jul 2025 12:24:11 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BBAI",
             "impact": "Neutral"
         },
         {
-            "title": "Trump threatens extra 10% tariff on countries that align with 'Anti-American' BRICS policies",
-            "link": "https://www.cnbc.com/2025/07/07/trump-says-countries-aligning-with-brics-bloc-will-face-extra-tariff.html",
-            "summary": "The U.S. will start delivering letters on Monday, detailing tariff rates and any agreements reached with various trading partners. The letters will be delivered to the White House, the State Department, the Treasury Department and other agencies.",
-            "date": "Mon, 07 Jul 2025 07:37:54 GMT",
+            "title": "Trump announces steep tariffs on 14 countries starting Aug. 1",
+            "link": "https://www.cnbc.com/2025/07/07/trump-tariffs-trade-letters-japan.html",
+            "summary": "President Donald Trump shared screenshots of signed form letters dictating new tariff rates to the leaders of 14 countries. President Donald Trump, in social media posts, shared screenshots.",
+            "date": "Tue, 08 Jul 2025 11:46:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,34 +50,22 @@
             "impact": "Neutral"
         },
         {
-            "title": "Rep. Mark Green resigns from Congress, leaving Speaker Johnson with an even narrower Republican majority in the House",
-            "link": "https://www.cnbc.com/2025/07/05/rep-mark-green-announces-resignation.html",
-            "summary": "Rep. Mark Green said he was returning to the private sector to start his own business. He did not share details about the business. Green was a member of the House Ways and Means Committee.",
-            "date": "Sat, 05 Jul 2025 22:08:04 GMT",
+            "title": "'Revenge savings' can boost your bottom line, experts say — here's how to get started",
+            "link": "https://www.cnbc.com/2025/07/08/how-to-get-started-with-revenge-savings.html",
+            "summary": "Saving more money is a perennial resolution, but emotions shouldn't drive that habit, financial experts say. Instead, be intentional. Here's how to get started.",
+            "date": "Tue, 08 Jul 2025 13:25:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RSG",
+            "stock_ticker": "0P0001BAUR.BO",
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia challenger Groq expands with first European data center",
-            "link": "https://www.cnbc.com/2025/07/07/ai-chip-startup-groq-expands-with-first-european-data-center.html",
-            "summary": "Groq, which is backed by investment arms of Samsung and Cisco, said the data center will be in Helsinki, Finland. Groq is based in New York, with offices in London and San Francisco.",
-            "date": "Mon, 07 Jul 2025 07:59:22 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NVDA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How Netflix keeps luring big-name directors away from the traditional box office",
-            "link": "https://www.cnbc.com/2025/07/07/netflix-directors-streaming.html",
-            "summary": "Rian Johnson, Greta Gerwig and Guillermo del Toro are working with Netflix. They have lucrative contracts, creative freedom and a big audience.",
-            "date": "Mon, 07 Jul 2025 13:00:01 GMT",
+            "title": "How to use AI to find the best Amazon Prime Day deals",
+            "link": "https://www.marketwatch.com/story/how-to-use-ai-to-find-the-best-amazon-prime-day-deals-6dedb8c9?mod=mw_rss_topstories",
+            "summary": "Generative-AI models can help shoppers find the best deals this Prime Day. More consumers are using artificial intelligence to shop, and generative- AI models can be used to help.",
+            "date": "Tue, 08 Jul 2025 13:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,63 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘We are blessed’: My husband is inheriting a $1 million home. Should he put it in my name too?",
-            "link": "https://www.marketwatch.com/story/we-are-blessed-my-husband-is-inheriting-a-1-million-home-should-he-put-it-in-my-name-too-68341b1b?mod=mw_rss_topstories",
-            "summary": "“We do not live in a community-property state. We have one son who is now a young adult,” she says.",
-            "date": "Mon, 07 Jul 2025 13:27:00 GMT",
+            "title": "Treasury rout grows as tariffs and supply test demand after tax and spending bill",
+            "link": "https://www.marketwatch.com/story/treasury-rout-grows-as-tariffs-and-supply-test-demand-after-tax-and-spending-bill-cd602515?mod=mw_rss_topstories",
+            "summary": "U.S. government debt will face a crucial test from investors this week. The Treasury is readying a series of Treasury auctions to raise cash.",
+            "date": "Tue, 08 Jul 2025 13:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFC",
+            "stock_ticker": "ZB=F",
             "impact": "Neutral"
         },
         {
-            "title": "Amazon’s Prime Day sale is longer than ever — and even more important than usual for the company. Here’s why.",
-            "link": "https://www.marketwatch.com/story/amazons-prime-day-sale-is-longer-than-ever-and-even-more-important-than-usual-for-the-company-heres-why-dcc41d58?mod=mw_rss_topstories",
-            "summary": "MarketWatch polling suggests interest in Amazon’s super-sized Prime Day is muted. BofA analysts say the longer event suggests Amazon has more capacity to offer discounts, despite tariff fears.",
-            "date": "Mon, 07 Jul 2025 13:03:00 GMT",
+            "title": "Goldman Sachs lifts its S&P 500 forecasts. Strategists say these three investment moves are crucial.",
+            "link": "https://www.marketwatch.com/story/goldman-sachs-lifts-its-s-p-500-forecasts-strategists-say-these-three-investment-moves-are-crucial-c7d2a661?mod=mw_rss_topstories",
+            "summary": " Goldman say resilient earnings, earlier and bigger Fed rate cuts and more investor buying of stocks will drive the S&amp;P 500 higher from here.",
+            "date": "Tue, 08 Jul 2025 13:08:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SWVXX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Stay buckled up — the market ride is going to get wilder still, says this strategist",
-            "link": "https://www.marketwatch.com/story/stay-buckled-up-the-market-ride-is-going-to-get-wilder-still-says-this-strategist-8daacc18?mod=mw_rss_topstories",
-            "summary": "High valuations and revived trade angst may pressure stocks in coming months, say analysts. High valuations, revived trade anxiety may pressure stock prices, they say.",
-            "date": "Mon, 07 Jul 2025 12:50:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "4K4.F",
+            "stock_ticker": "GS",
             "impact": "Neutral"
         },
         {
-            "title": "Don’t buy Wells Fargo’s stock at current prices, analyst says",
-            "link": "https://www.marketwatch.com/story/dont-buy-wells-fargos-stock-at-current-prices-analyst-says-c08ffc4d?mod=mw_rss_topstories",
-            "summary": "Analyst downgrades Wells Fargo’s stock and upgrades U.S. Bancorp. Regional banks gain favor after big runups by the largest banks.",
-            "date": "Mon, 07 Jul 2025 12:43:00 GMT",
+            "title": "WeightWatchers emerges from bankruptcy, and it’s now taking aim at menopause",
+            "link": "https://www.marketwatch.com/story/weightwatchers-emerges-from-bankruptcy-and-is-taking-aim-at-menopause-96661116?mod=mw_rss_topstories",
+            "summary": "WeightWatchers stock was surging after the company emerged from bankruptcy two months after it was announced. WeightWatcher’s stock is now up more than 30%.",
+            "date": "Tue, 08 Jul 2025 13:08:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RFV.F",
+            "stock_ticker": "KITL",
             "impact": "Bullish"
         },
         {
-            "title": "Another health insurer has issued a profit warning. But its stock is climbing.",
-            "link": "https://www.marketwatch.com/story/another-health-insurer-has-issued-a-profit-warning-but-its-stock-is-climbing-ae93fd9a?mod=mw_rss_topstories",
-            "summary": "Molina Healthcare cuts its profit outlook, but its stock is rising after tumbling last week in response to rival Centene’s warning.",
-            "date": "Mon, 07 Jul 2025 12:19:00 GMT",
+            "title": "Here’s what is most likely to cause a summer market crisis, according to Deutsche Bank",
+            "link": "https://www.marketwatch.com/story/market-crises-are-most-common-in-the-summer-deutsche-bank-identifies-the-most-likely-culprits-if-there-was-one-this-time-9df28fa1?mod=mw_rss_topstories",
+            "summary": "The third quarter can often be accompanied by market turmoil. With thin liquidity and lots of market players absent, the third quarter is often a volatile time.",
+            "date": "Tue, 08 Jul 2025 12:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XAV=F",
+            "stock_ticker": "WAT-P.V",
             "impact": "Neutral"
         }
     ]
