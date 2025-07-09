@@ -1,124 +1,124 @@
 {
-    "date": "2025-07-08",
+    "date": "2025-07-09",
     "news": [
         {
-            "title": "Tech founders call on Sequoia Capital to denounce VC Shaun Maguire's Mamdani comments",
-            "link": "https://www.cnbc.com/2025/07/07/founders-sign-letter-to-sequoia-on-shaun-maguires-mamdani-remarks.html",
-            "summary": "Shaun Maguire, an outspoken Trump supporter, is getting publicly criticized for recent posts about New York City Democratic mayoral candidate Zohran Mamdani.",
-            "date": "Tue, 08 Jul 2025 13:25:03 GMT",
+            "title": "Trump's tariffs on cars, copper, drugs, aluminum could hit harder than other levies",
+            "link": "https://www.cnbc.com/2025/07/09/trump-trade-tariffs-cars-copper.html",
+            "summary": "The sector-specific tariffs are putting pressure on businesses and foreign nations as they try to navigate Trump's constantly evolving trade agenda. The tariffs are aimed at industries such as aerospace, defense, energy and finance.",
+            "date": "Wed, 09 Jul 2025 13:12:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TECH",
-            "impact": "Bullish"
-        },
-        {
-            "title": "CNBC's Most Valuable Sports Empires 2025: Here's how the top 20 empires in the world stack up",
-            "link": "https://www.cnbc.com/2025/07/08/cnbcs-most-valuable-sports-empires-2025-how-the-worlds-top-20-empires-rank.html",
-            "summary": "The world's 20 most valuable sports ownership groups are worth a combined $225 billion, according to CNBC's Most Valuable Sports Empires 2025.",
-            "date": "Tue, 08 Jul 2025 10:04:57 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P00014M8C.F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "'Big beautiful bill' may help some seniors on Social Security. But it doesn't eliminate taxes on benefits",
-            "link": "https://www.cnbc.com/2025/07/07/why-big-beautiful-bill-doesnt-end-taxes-on-social-security-benefits.html",
-            "summary": "Experts weigh in on the tax relief some seniors may expect to see. President Donald Trump has signed the \"big beautiful\" bill into law.",
-            "date": "Tue, 08 Jul 2025 12:24:11 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BBAI",
+            "stock_ticker": "ON",
             "impact": "Neutral"
         },
         {
-            "title": "Trump announces steep tariffs on 14 countries starting Aug. 1",
-            "link": "https://www.cnbc.com/2025/07/07/trump-tariffs-trade-letters-japan.html",
-            "summary": "President Donald Trump shared screenshots of signed form letters dictating new tariff rates to the leaders of 14 countries. President Donald Trump, in social media posts, shared screenshots.",
-            "date": "Tue, 08 Jul 2025 11:46:51 GMT",
+            "title": "Hims & Hers to offer generic semaglutide in Canada as Novo Nordisk patent lapses",
+            "link": "https://www.cnbc.com/2025/07/09/hims-hers-generic-semaglutide-novo-nordisk-ozempic-wegovy-canada.html",
+            "summary": "Novo Nordisk will lose patent protection on its branded semaglutide drugs Ozempic and Wegovy in Canada after not paying maintenance fee in 2019.",
+            "date": "Wed, 09 Jul 2025 13:01:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "HIMS",
             "impact": "Neutral"
         },
         {
-            "title": "'Revenge savings' can boost your bottom line, experts say — here's how to get started",
-            "link": "https://www.cnbc.com/2025/07/08/how-to-get-started-with-revenge-savings.html",
-            "summary": "Saving more money is a perennial resolution, but emotions shouldn't drive that habit, financial experts say. Instead, be intentional. Here's how to get started.",
-            "date": "Tue, 08 Jul 2025 13:25:29 GMT",
+            "title": "Copper now costs way more in the U.S. than elsewhere. This could hit its economy hard",
+            "link": "https://www.cnbc.com/2025/07/09/us-copper-price-premium-economic-consequences.html",
+            "summary": "The huge discrepancy in U.S. prices compared to those elsewhere is expected to have a major economic impact. The huge discrepancy is due to be caused by a huge increase in the cost of living in the United States.",
+            "date": "Wed, 09 Jul 2025 13:17:43 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001BAUR.BO",
+            "stock_ticker": "HG=F",
             "impact": "Neutral"
         },
         {
-            "title": "How to use AI to find the best Amazon Prime Day deals",
-            "link": "https://www.marketwatch.com/story/how-to-use-ai-to-find-the-best-amazon-prime-day-deals-6dedb8c9?mod=mw_rss_topstories",
-            "summary": "Generative-AI models can help shoppers find the best deals this Prime Day. More consumers are using artificial intelligence to shop, and generative- AI models can be used to help.",
-            "date": "Tue, 08 Jul 2025 13:16:00 GMT",
+            "title": "BNY Mellon will have custody of Ripple's new stablecoin as institutional interest in crypto swells",
+            "link": "https://www.cnbc.com/2025/07/09/bny-mellon-will-have-custody-of-ripples-new-stablecoin.html",
+            "summary": "BNY Mellon will be the primary custodian for the Ripple's U.S. dollar-pegged stablecoin reserves. The two companies jointly announced Wednesday.",
+            "date": "Wed, 09 Jul 2025 11:41:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "BNY",
             "impact": "Neutral"
         },
         {
-            "title": "Treasury rout grows as tariffs and supply test demand after tax and spending bill",
-            "link": "https://www.marketwatch.com/story/treasury-rout-grows-as-tariffs-and-supply-test-demand-after-tax-and-spending-bill-cd602515?mod=mw_rss_topstories",
-            "summary": "U.S. government debt will face a crucial test from investors this week. The Treasury is readying a series of Treasury auctions to raise cash.",
-            "date": "Tue, 08 Jul 2025 13:10:00 GMT",
+            "title": "Homebuyers finally responded, after mortgage rates hit lowest level in three months",
+            "link": "https://www.cnbc.com/2025/07/09/homebuyers-finally-responded-as-mortgage-rates-dropped.html",
+            "summary": "Mortgage demand took a big jump higher, as rates continue to fall to their lowest level in three months. Mortgage interest rates are now at their lowest levels in more than three years.",
+            "date": "Wed, 09 Jul 2025 11:53:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZB=F",
+            "stock_ticker": "AAG.V",
             "impact": "Neutral"
         },
         {
-            "title": "Goldman Sachs lifts its S&P 500 forecasts. Strategists say these three investment moves are crucial.",
-            "link": "https://www.marketwatch.com/story/goldman-sachs-lifts-its-s-p-500-forecasts-strategists-say-these-three-investment-moves-are-crucial-c7d2a661?mod=mw_rss_topstories",
-            "summary": " Goldman say resilient earnings, earlier and bigger Fed rate cuts and more investor buying of stocks will drive the S&amp;P 500 higher from here.",
-            "date": "Tue, 08 Jul 2025 13:08:00 GMT",
+            "title": "This big-name adviser says avoiding crypto is now a more speculative investment move than buying it",
+            "link": "https://www.marketwatch.com/story/why-this-veteran-advisor-says-its-speculative-not-to-have-crypto-in-portfolios-61abf24c?mod=mw_rss_topstories",
+            "summary": "Ric Edelman argues that the time to invest in cryptocurrencies is now, while 95% of the world is still asleep. Ric Edelman is the founder and CEO of digital asset management firm, Edelman Capital.",
+            "date": "Wed, 09 Jul 2025 12:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GS",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         },
         {
-            "title": "WeightWatchers emerges from bankruptcy, and it’s now taking aim at menopause",
-            "link": "https://www.marketwatch.com/story/weightwatchers-emerges-from-bankruptcy-and-is-taking-aim-at-menopause-96661116?mod=mw_rss_topstories",
-            "summary": "WeightWatchers stock was surging after the company emerged from bankruptcy two months after it was announced. WeightWatcher’s stock is now up more than 30%.",
-            "date": "Tue, 08 Jul 2025 13:08:00 GMT",
+            "title": "Home sellers have gotten tired of cutting prices. So they’re yanking their houses off the market.",
+            "link": "https://www.marketwatch.com/story/sellers-have-gotten-tired-of-cutting-prices-in-these-real-estate-markets-so-theyre-yanking-their-houses-off-the-market-4f9e06ee?mod=mw_rss_topstories",
+            "summary": "Home sellers in some of the nation’s worst housing markets are tired of cutting prices. So they’re pulling their listings.",
+            "date": "Wed, 09 Jul 2025 12:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KITL",
-            "impact": "Bullish"
+            "stock_ticker": "HOME",
+            "impact": "Neutral"
         },
         {
-            "title": "Here’s what is most likely to cause a summer market crisis, according to Deutsche Bank",
-            "link": "https://www.marketwatch.com/story/market-crises-are-most-common-in-the-summer-deutsche-bank-identifies-the-most-likely-culprits-if-there-was-one-this-time-9df28fa1?mod=mw_rss_topstories",
-            "summary": "The third quarter can often be accompanied by market turmoil. With thin liquidity and lots of market players absent, the third quarter is often a volatile time.",
-            "date": "Tue, 08 Jul 2025 12:12:00 GMT",
+            "title": "I put my $500K inheritance into a joint account with my husband. Can I leave half of it to my son from a previous marriage?",
+            "link": "https://www.marketwatch.com/story/i-put-my-500k-inheritance-into-a-joint-account-with-my-husband-can-i-leave-half-of-it-to-my-son-from-a-previous-marriage-ede3e879?mod=mw_rss_topstories",
+            "summary": "“If I predecease my husband, my will states that my son will receive half of this account,” she said.",
+            "date": "Wed, 09 Jul 2025 12:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WAT-P.V",
+            "stock_ticker": "KW=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I do all the yard work, cooking and cleaning’: I live with my daughter and her lazy boyfriend. She wants me to buy her house. Do I say yes?",
+            "link": "https://www.marketwatch.com/story/there-is-tension-in-the-house-i-live-with-my-daughter-and-her-lazy-boyfriend-she-wants-me-to-buy-her-house-09080e4b?mod=mw_rss_topstories",
+            "summary": "“When I say anything, I am immediately wrong, unless my daughter wants something,” he says. “When he says anything, he is immediately wrong.”",
+            "date": "Wed, 09 Jul 2025 12:37:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KW=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This early-warning indicator is telling the stock market that a recession is more likely",
+            "link": "https://www.marketwatch.com/story/this-early-warning-indicator-is-telling-the-stock-market-that-a-recession-is-more-likely-825f2b87?mod=mw_rss_topstories",
+            "summary": "If you're like many U.S. consumers, you’re more worried now about money than ever before. If you're worried about money, you're more worried about your bank account than ever.",
+            "date": "Wed, 09 Jul 2025 12:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         }
     ]
