@@ -1,107 +1,107 @@
 {
-    "date": "2025-07-09",
+    "date": "2025-07-10",
     "news": [
         {
-            "title": "Trump's tariffs on cars, copper, drugs, aluminum could hit harder than other levies",
-            "link": "https://www.cnbc.com/2025/07/09/trump-trade-tariffs-cars-copper.html",
-            "summary": "The sector-specific tariffs are putting pressure on businesses and foreign nations as they try to navigate Trump's constantly evolving trade agenda. The tariffs are aimed at industries such as aerospace, defense, energy and finance.",
-            "date": "Wed, 09 Jul 2025 13:12:46 GMT",
+            "title": "Pentagon to become largest shareholder in rare earth miner MP Materials; shares surge 60%",
+            "link": "https://www.cnbc.com/2025/07/10/pentagon-to-become-largest-shareholder-in-rare-earth-magnet-maker-mp-materials.html",
+            "summary": "Interior Secretary Doug Burgum said in April the Trump administration was considering equity investments in critical mineral producers to compete with China. Burgum: \"We need to make sure that we have the resources that we need to compete\"",
+            "date": "Thu, 10 Jul 2025 13:25:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ON",
+            "stock_ticker": "PENTAGON-SM.NS",
             "impact": "Neutral"
         },
         {
-            "title": "Hims & Hers to offer generic semaglutide in Canada as Novo Nordisk patent lapses",
-            "link": "https://www.cnbc.com/2025/07/09/hims-hers-generic-semaglutide-novo-nordisk-ozempic-wegovy-canada.html",
-            "summary": "Novo Nordisk will lose patent protection on its branded semaglutide drugs Ozempic and Wegovy in Canada after not paying maintenance fee in 2019.",
-            "date": "Wed, 09 Jul 2025 13:01:47 GMT",
+            "title": "Ferrero to buy cereal maker WK Kellogg for $3.1 billion; Kellogg shares jump 30%",
+            "link": "https://www.cnbc.com/2025/07/09/cereal-maker-wk-kellogg-shares-jump-report-possible-deal-with-ferrero.html",
+            "summary": "The standalone cereal business WK Kellogg began trading in 2023. It will be the world's largest maker of breakfast cereals. The company is expected to be worth more than $20 billion by 2018.",
+            "date": "Thu, 10 Jul 2025 13:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HIMS",
+            "stock_ticker": "TOPBRX=X",
             "impact": "Neutral"
         },
         {
-            "title": "Copper now costs way more in the U.S. than elsewhere. This could hit its economy hard",
-            "link": "https://www.cnbc.com/2025/07/09/us-copper-price-premium-economic-consequences.html",
-            "summary": "The huge discrepancy in U.S. prices compared to those elsewhere is expected to have a major economic impact. The huge discrepancy is due to be caused by a huge increase in the cost of living in the United States.",
-            "date": "Wed, 09 Jul 2025 13:17:43 GMT",
+            "title": "Delta shares jump 10% after airline reinstates 2025 profit outlook as CEO says bookings stabilized",
+            "link": "https://www.cnbc.com/2025/07/10/delta-air-lines-dal-2q-2025-earnings.html",
+            "summary": "Delta cut its 2025 forecast after tariffs and hesitant consumers hit the brakes on trips this year. Delta: Tariffs, hesitant consumers have led to a slowdown in air travel.",
+            "date": "Thu, 10 Jul 2025 13:22:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HG=F",
+            "stock_ticker": "DAL",
             "impact": "Neutral"
         },
         {
-            "title": "BNY Mellon will have custody of Ripple's new stablecoin as institutional interest in crypto swells",
-            "link": "https://www.cnbc.com/2025/07/09/bny-mellon-will-have-custody-of-ripples-new-stablecoin.html",
-            "summary": "BNY Mellon will be the primary custodian for the Ripple's U.S. dollar-pegged stablecoin reserves. The two companies jointly announced Wednesday.",
-            "date": "Wed, 09 Jul 2025 11:41:45 GMT",
+            "title": "America's Top States for Business 2025: The full rankings",
+            "link": "https://www.cnbc.com/2025/07/10/top-states-for-business-americas-2025-the-full-rankings.html",
+            "summary": "CNBC unveils its 19th annual America's Top States for Business ranking. It scores all 50 states on 128 different metrics in 10 key categories of competitiveness.",
+            "date": "Thu, 10 Jul 2025 12:40:23 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BNY",
+            "stock_ticker": "LAC",
             "impact": "Neutral"
         },
         {
-            "title": "Homebuyers finally responded, after mortgage rates hit lowest level in three months",
-            "link": "https://www.cnbc.com/2025/07/09/homebuyers-finally-responded-as-mortgage-rates-dropped.html",
-            "summary": "Mortgage demand took a big jump higher, as rates continue to fall to their lowest level in three months. Mortgage interest rates are now at their lowest levels in more than three years.",
-            "date": "Wed, 09 Jul 2025 11:53:34 GMT",
+            "title": "Trump's 'big beautiful bill' cuts food stamps for millions — the average family may lose $146 per month, report finds",
+            "link": "https://www.cnbc.com/2025/07/10/trumps-big-beautiful-bill-cuts-snap-for-millions-of-families.html",
+            "summary": "A new law includes the largest-ever cuts to Supplemental Nutrition Assistance Program benefits. Here's how much that may reduce what families can spend on food.",
+            "date": "Thu, 10 Jul 2025 12:59:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAG.V",
+            "stock_ticker": "BBAI",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Palantir’s stock is up 400% in a year. Here’s why one vocal bull sees more gains ahead.",
+            "link": "https://www.marketwatch.com/story/palantirs-stock-is-up-400-in-a-year-heres-why-one-vocal-bull-sees-more-gains-ahead-2812f78c?mod=mw_rss_topstories",
+            "summary": "The company stands to benefit from growing commercial and federal demand for its artificial intelligence platform, Wedbush analysts say. The company is expected to report results for the first quarter of 2014 on Monday.",
+            "date": "Thu, 10 Jul 2025 13:21:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VTI",
             "impact": "Neutral"
         },
         {
-            "title": "This big-name adviser says avoiding crypto is now a more speculative investment move than buying it",
-            "link": "https://www.marketwatch.com/story/why-this-veteran-advisor-says-its-speculative-not-to-have-crypto-in-portfolios-61abf24c?mod=mw_rss_topstories",
-            "summary": "Ric Edelman argues that the time to invest in cryptocurrencies is now, while 95% of the world is still asleep. Ric Edelman is the founder and CEO of digital asset management firm, Edelman Capital.",
-            "date": "Wed, 09 Jul 2025 12:55:00 GMT",
+            "title": "The SALT deduction is now much more generous. Here’s how to get the most out of the tax break.",
+            "link": "https://www.marketwatch.com/story/the-salt-deduction-is-now-much-more-generous-heres-how-to-get-the-most-out-of-the-tax-break-b7b2400e?mod=mw_rss_topstories",
+            "summary": "The new SALT deduction is a write-off for state and local taxes. Here's what you need to know about the new law. How does the new Salt deduction work?",
+            "date": "Thu, 10 Jul 2025 13:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "Home sellers have gotten tired of cutting prices. So they’re yanking their houses off the market.",
-            "link": "https://www.marketwatch.com/story/sellers-have-gotten-tired-of-cutting-prices-in-these-real-estate-markets-so-theyre-yanking-their-houses-off-the-market-4f9e06ee?mod=mw_rss_topstories",
-            "summary": "Home sellers in some of the nation’s worst housing markets are tired of cutting prices. So they’re pulling their listings.",
-            "date": "Wed, 09 Jul 2025 12:43:00 GMT",
+            "title": "Airline stocks soar, lifted by Delta’s earnings beat and restored full-year guidance",
+            "link": "https://www.marketwatch.com/story/delta-stock-soars-lifted-by-better-than-expected-earnings-and-restored-full-year-guidance-6ca4514f?mod=mw_rss_topstories",
+            "summary": "Delta Air Lines Inc. stock shot up toward a four-month high in premarket trading Thursday. Air carrier topped Wall Street’s estimates for second-quarter profit and revenue and restored its full-year guidance.",
+            "date": "Thu, 10 Jul 2025 13:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HOME",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I put my $500K inheritance into a joint account with my husband. Can I leave half of it to my son from a previous marriage?",
-            "link": "https://www.marketwatch.com/story/i-put-my-500k-inheritance-into-a-joint-account-with-my-husband-can-i-leave-half-of-it-to-my-son-from-a-previous-marriage-ede3e879?mod=mw_rss_topstories",
-            "summary": "“If I predecease my husband, my will states that my son will receive half of this account,” she said.",
-            "date": "Wed, 09 Jul 2025 12:40:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KW=F",
-            "impact": "Neutral"
+            "stock_ticker": "AAL",
+            "impact": "Bullish"
         },
         {
             "title": "‘I do all the yard work, cooking and cleaning’: I live with my daughter and her lazy boyfriend. She wants me to buy her house. Do I say yes?",
             "link": "https://www.marketwatch.com/story/there-is-tension-in-the-house-i-live-with-my-daughter-and-her-lazy-boyfriend-she-wants-me-to-buy-her-house-09080e4b?mod=mw_rss_topstories",
             "summary": "“When I say anything, I am immediately wrong, unless my daughter wants something,” he says. “When he says anything, he is immediately wrong.”",
-            "date": "Wed, 09 Jul 2025 12:37:00 GMT",
+            "date": "Thu, 10 Jul 2025 13:09:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "This early-warning indicator is telling the stock market that a recession is more likely",
-            "link": "https://www.marketwatch.com/story/this-early-warning-indicator-is-telling-the-stock-market-that-a-recession-is-more-likely-825f2b87?mod=mw_rss_topstories",
-            "summary": "If you're like many U.S. consumers, you’re more worried now about money than ever before. If you're worried about money, you're more worried about your bank account than ever.",
-            "date": "Wed, 09 Jul 2025 12:05:00 GMT",
+            "title": "A $500 billion wall of money will lift the stock market in the second half, says JPMorgan",
+            "link": "https://www.marketwatch.com/story/a-500-billion-wall-of-money-will-lift-the-stock-market-in-the-second-half-says-jpmorgan-838171fb?mod=mw_rss_topstories",
+            "summary": "JPMorgan strategists say retail investors will help drive stock gains this year. Foreign investors could pitch in, too, the bank says.",
+            "date": "Thu, 10 Jul 2025 13:08:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "A",
             "impact": "Neutral"
         }
     ]
