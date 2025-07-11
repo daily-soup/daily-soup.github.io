@@ -1,124 +1,124 @@
 {
-    "date": "2025-07-10",
+    "date": "2025-07-11",
     "news": [
         {
-            "title": "Pentagon to become largest shareholder in rare earth miner MP Materials; shares surge 60%",
-            "link": "https://www.cnbc.com/2025/07/10/pentagon-to-become-largest-shareholder-in-rare-earth-magnet-maker-mp-materials.html",
-            "summary": "Interior Secretary Doug Burgum said in April the Trump administration was considering equity investments in critical mineral producers to compete with China. Burgum: \"We need to make sure that we have the resources that we need to compete\"",
-            "date": "Thu, 10 Jul 2025 13:25:59 GMT",
+            "title": "Trump budget chief Vought ramps up criticism of Powell, vows investigation into Fed renovations",
+            "link": "https://www.cnbc.com/2025/07/11/trump-budget-chief-vought-ramps-up-criticism-of-powell-vows-investigation-into-fed-renovations.html",
+            "summary": "Office of Management and Budget Director Russell Vought spoke Friday to CNBC's \"Squawk Box\" Vought: \"We're going to have to work together to find a way to get things done\"",
+            "date": "Fri, 11 Jul 2025 13:25:40 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PENTAGON-SM.NS",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Ferrero to buy cereal maker WK Kellogg for $3.1 billion; Kellogg shares jump 30%",
-            "link": "https://www.cnbc.com/2025/07/09/cereal-maker-wk-kellogg-shares-jump-report-possible-deal-with-ferrero.html",
-            "summary": "The standalone cereal business WK Kellogg began trading in 2023. It will be the world's largest maker of breakfast cereals. The company is expected to be worth more than $20 billion by 2018.",
-            "date": "Thu, 10 Jul 2025 13:17:00 GMT",
+            "title": "Trump announces 35% tariffs on Canada starting Aug. 1, warns of higher levies if Ottawa retaliates",
+            "link": "https://www.cnbc.com/2025/07/11/trump-announces-35percent-tariffs-on-canada-starting-aug-1.html",
+            "summary": "President Donald Trump announced a 35% tariff on Canadian imports, starting Aug. 1. It is the latest letter to a trade partner that threatens high rates.",
+            "date": "Fri, 11 Jul 2025 11:38:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOPBRX=X",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Delta shares jump 10% after airline reinstates 2025 profit outlook as CEO says bookings stabilized",
-            "link": "https://www.cnbc.com/2025/07/10/delta-air-lines-dal-2q-2025-earnings.html",
-            "summary": "Delta cut its 2025 forecast after tariffs and hesitant consumers hit the brakes on trips this year. Delta: Tariffs, hesitant consumers have led to a slowdown in air travel.",
-            "date": "Thu, 10 Jul 2025 13:22:12 GMT",
+            "title": "Goldman Sachs is piloting its first autonomous coder in major AI milestone for Wall Street",
+            "link": "https://www.cnbc.com/2025/07/11/goldman-sachs-autonomous-coder-pilot-marks-major-ai-milestone.html",
+            "summary": "The arrival of agentic AI at Goldman Sachs, in which programs don't just help with tasks but execute complex jobs, signals a shift on Wall Street.",
+            "date": "Fri, 11 Jul 2025 12:11:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DAL",
+            "stock_ticker": "GS",
             "impact": "Neutral"
         },
         {
-            "title": "America's Top States for Business 2025: The full rankings",
-            "link": "https://www.cnbc.com/2025/07/10/top-states-for-business-americas-2025-the-full-rankings.html",
-            "summary": "CNBC unveils its 19th annual America's Top States for Business ranking. It scores all 50 states on 128 different metrics in 10 key categories of competitiveness.",
-            "date": "Thu, 10 Jul 2025 12:40:23 GMT",
+            "title": "FDA to consider drug affordability when granting new vouchers to speed up approvals, Makary says",
+            "link": "https://www.cnbc.com/2025/07/11/fda-to-consider-drug-affordability-when-speeding-up-approvals-makary.html",
+            "summary": "It is unclear how the Trump administration will consider affordability when reviewing a drug. Prices are usually determined after an approval in the U.S.",
+            "date": "Fri, 11 Jul 2025 13:21:40 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LAC",
+            "stock_ticker": "AEF2.HA",
             "impact": "Neutral"
         },
         {
-            "title": "Trump's 'big beautiful bill' cuts food stamps for millions — the average family may lose $146 per month, report finds",
-            "link": "https://www.cnbc.com/2025/07/10/trumps-big-beautiful-bill-cuts-snap-for-millions-of-families.html",
-            "summary": "A new law includes the largest-ever cuts to Supplemental Nutrition Assistance Program benefits. Here's how much that may reduce what families can spend on food.",
-            "date": "Thu, 10 Jul 2025 12:59:49 GMT",
+            "title": "Bitcoin flies to new all-time highs, topping $118,000 as institutions pile into ETFs",
+            "link": "https://www.cnbc.com/2025/07/11/crypto-market-today.html",
+            "summary": "Bitcoin and ether ETFs saw their second biggest day of inflows ever. Investors built on this week's rally and pushed prices to new records overnight.",
+            "date": "Fri, 11 Jul 2025 12:37:32 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBAI",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Palantir’s stock is up 400% in a year. Here’s why one vocal bull sees more gains ahead.",
-            "link": "https://www.marketwatch.com/story/palantirs-stock-is-up-400-in-a-year-heres-why-one-vocal-bull-sees-more-gains-ahead-2812f78c?mod=mw_rss_topstories",
-            "summary": "The company stands to benefit from growing commercial and federal demand for its artificial intelligence platform, Wedbush analysts say. The company is expected to report results for the first quarter of 2014 on Monday.",
-            "date": "Thu, 10 Jul 2025 13:21:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
+            "stock_ticker": "BTC-USD",
             "impact": "Neutral"
         },
         {
-            "title": "The SALT deduction is now much more generous. Here’s how to get the most out of the tax break.",
-            "link": "https://www.marketwatch.com/story/the-salt-deduction-is-now-much-more-generous-heres-how-to-get-the-most-out-of-the-tax-break-b7b2400e?mod=mw_rss_topstories",
-            "summary": "The new SALT deduction is a write-off for state and local taxes. Here's what you need to know about the new law. How does the new Salt deduction work?",
-            "date": "Thu, 10 Jul 2025 13:20:00 GMT",
+            "title": "How some pros use options to trade Nvidia and other tech stocks while limiting risk",
+            "link": "https://www.marketwatch.com/story/how-some-pros-use-options-to-trade-nvidia-and-other-tech-stocks-while-limiting-risk-5b9ef3be?mod=mw_rss_topstories",
+            "summary": "With Nvidia’s stock at record highs, some investors might be wary of buying. Options strategists suggest other ways to play the name.",
+            "date": "Fri, 11 Jul 2025 13:14:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Jorts and ‘quiet’ western wear are helping Levi’s stave off the impact of tariffs",
+            "link": "https://www.marketwatch.com/story/levi-strauss-now-expects-sales-to-increase-this-year-despite-higher-tariffs-8d852172?mod=mw_rss_topstories",
+            "summary": "“With the 90s and Y2K fashion in full swing, longer and looser-style shorts are in high demand,” Levi’s CEO says.",
+            "date": "Fri, 11 Jul 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LLY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The new $40,000 cap on SALT deductions in Trump’s big bill aids homeowners most in these states",
+            "link": "https://www.marketwatch.com/story/heres-where-the-new-40-000-salt-deduction-in-trumps-big-bill-helps-homeowners-the-most-277e306b?mod=mw_rss_topstories",
+            "summary": "Home prices could creep up in high-tax areas as more home buyers seek to benefit from the SALT deduction. Home prices could also rise in high tax areas if more people seek to take advantage of the tax break.",
+            "date": "Fri, 11 Jul 2025 12:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Airline stocks soar, lifted by Delta’s earnings beat and restored full-year guidance",
-            "link": "https://www.marketwatch.com/story/delta-stock-soars-lifted-by-better-than-expected-earnings-and-restored-full-year-guidance-6ca4514f?mod=mw_rss_topstories",
-            "summary": "Delta Air Lines Inc. stock shot up toward a four-month high in premarket trading Thursday. Air carrier topped Wall Street’s estimates for second-quarter profit and revenue and restored its full-year guidance.",
-            "date": "Thu, 10 Jul 2025 13:20:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAL",
             "impact": "Bullish"
         },
         {
-            "title": "‘I do all the yard work, cooking and cleaning’: I live with my daughter and her lazy boyfriend. She wants me to buy her house. Do I say yes?",
-            "link": "https://www.marketwatch.com/story/there-is-tension-in-the-house-i-live-with-my-daughter-and-her-lazy-boyfriend-she-wants-me-to-buy-her-house-09080e4b?mod=mw_rss_topstories",
-            "summary": "“When I say anything, I am immediately wrong, unless my daughter wants something,” he says. “When he says anything, he is immediately wrong.”",
-            "date": "Thu, 10 Jul 2025 13:09:00 GMT",
+            "title": "Why Robinhood’s stock is falling while crypto peers and bitcoin surge",
+            "link": "https://www.marketwatch.com/story/why-robinhoods-stock-is-falling-while-crypto-peers-and-bitcoin-surge-b39ef09f?mod=mw_rss_topstories",
+            "summary": "Robinhood’s stock is falling while those of other crypto-related companies are rallying. Florida's attorney general launched an investigation into the company's Robinhood Crypto subsidiary.",
+            "date": "Fri, 11 Jul 2025 12:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KW=F",
+            "stock_ticker": "WHYDX",
             "impact": "Neutral"
         },
         {
-            "title": "A $500 billion wall of money will lift the stock market in the second half, says JPMorgan",
-            "link": "https://www.marketwatch.com/story/a-500-billion-wall-of-money-will-lift-the-stock-market-in-the-second-half-says-jpmorgan-838171fb?mod=mw_rss_topstories",
-            "summary": "JPMorgan strategists say retail investors will help drive stock gains this year. Foreign investors could pitch in, too, the bank says.",
-            "date": "Thu, 10 Jul 2025 13:08:00 GMT",
+            "title": "AMC’s stock is climbing, lifted by Wedbush’s upgrade amid an improving box office",
+            "link": "https://www.marketwatch.com/story/amcs-stock-is-climbing-lifted-by-wedbushs-upgrade-amid-an-improving-box-office-09eeacbf?mod=mw_rss_topstories",
+            "summary": " Wedbush turned bullish on AMC’s stock, citing a more consistent movie-release slate over the next several quarters and prospects for market share gains.",
+            "date": "Fri, 11 Jul 2025 12:36:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
+            "stock_ticker": "VTI",
             "impact": "Neutral"
         }
     ]
