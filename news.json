@@ -1,11 +1,35 @@
 {
-    "date": "2025-07-11",
+    "date": "2025-07-12",
     "news": [
+        {
+            "title": "Trump announces 30% tariffs on EU and Mexico",
+            "link": "https://www.cnbc.com/2025/07/12/trump-tariffs-european-union-eu-mexico-trade.html",
+            "summary": "President Donald Trump has sent similar letters to 23 other U.S. trading partners this week. The countries include Canada, Japan and Brazil.",
+            "date": "Sat, 12 Jul 2025 13:09:17 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Treasury posts unexpected surplus in June as tariff receipts surge",
+            "link": "https://www.cnbc.com/2025/07/11/treasury-posts-unexpected-surplus-in-june-as-tariff-receipts-surge.html",
+            "summary": "Last month saw a surplus of a little more than $27 billion, following a $316 billion deficit in May. The U.S. posted a $317 billion deficit last month, followed by a deficit of $316.5 billion in April.",
+            "date": "Fri, 11 Jul 2025 18:54:59 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ZB=F",
+            "impact": "Neutral"
+        },
         {
             "title": "Trump budget chief Vought ramps up criticism of Powell, vows investigation into Fed renovations",
             "link": "https://www.cnbc.com/2025/07/11/trump-budget-chief-vought-ramps-up-criticism-of-powell-vows-investigation-into-fed-renovations.html",
-            "summary": "Office of Management and Budget Director Russell Vought spoke Friday to CNBC's \"Squawk Box\" Vought: \"We're going to have to work together to find a way to get things done\"",
-            "date": "Fri, 11 Jul 2025 13:25:40 GMT",
+            "summary": "Office of Management and Budget Director Russell Vought spoke Friday on CNBC's \"Squawk Box\" Vought: \"We're going to have to work together to get things done\"",
+            "date": "Fri, 11 Jul 2025 16:22:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,58 +38,70 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump announces 35% tariffs on Canada starting Aug. 1, warns of higher levies if Ottawa retaliates",
-            "link": "https://www.cnbc.com/2025/07/11/trump-announces-35percent-tariffs-on-canada-starting-aug-1.html",
-            "summary": "President Donald Trump announced a 35% tariff on Canadian imports, starting Aug. 1. It is the latest letter to a trade partner that threatens high rates.",
-            "date": "Fri, 11 Jul 2025 11:38:21 GMT",
+            "title": "Google hires Windsurf CEO Varun Mohan, others in $2.4 billion AI talent deal",
+            "link": "https://www.cnbc.com/2025/07/11/google-windsurf-ceo-varun-mohan-latest-ai-talent-deal-.html",
+            "summary": "Google wants its AI models to become bigger in coding. It has now hired the CEO of one of the top startups in that area. Google wants to become a bigger player in the field of AI.",
+            "date": "Sat, 12 Jul 2025 03:31:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
+            "stock_ticker": "GOOG",
+            "impact": "Bullish"
         },
         {
-            "title": "Goldman Sachs is piloting its first autonomous coder in major AI milestone for Wall Street",
-            "link": "https://www.cnbc.com/2025/07/11/goldman-sachs-autonomous-coder-pilot-marks-major-ai-milestone.html",
-            "summary": "The arrival of agentic AI at Goldman Sachs, in which programs don't just help with tasks but execute complex jobs, signals a shift on Wall Street.",
-            "date": "Fri, 11 Jul 2025 12:11:35 GMT",
+            "title": "Judge orders Trump administration to halt indiscriminate immigration stops, arrests in California",
+            "link": "https://www.cnbc.com/2025/07/11/judge-orders-trump-administration-to-halt-indiscriminate-immigration-stops-arrests-in-california.html",
+            "summary": "A federal judge on Friday ordered the Trump administration to halt indiscriminate immigration stops and arrests in seven California counties. The seven counties, including Los Angeles, include Los Angeles and San Diego.",
+            "date": "Sat, 12 Jul 2025 02:36:10 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GS",
+            "stock_ticker": "IUF.F",
             "impact": "Neutral"
         },
         {
-            "title": "FDA to consider drug affordability when granting new vouchers to speed up approvals, Makary says",
-            "link": "https://www.cnbc.com/2025/07/11/fda-to-consider-drug-affordability-when-speeding-up-approvals-makary.html",
-            "summary": "It is unclear how the Trump administration will consider affordability when reviewing a drug. Prices are usually determined after an approval in the U.S.",
-            "date": "Fri, 11 Jul 2025 13:21:40 GMT",
+            "title": "‘I’m in California and plan to stay here’: I’m 61, lost my job and live off my $425K IRA. My house has $650K in equity. Do I sell?",
+            "link": "https://www.marketwatch.com/story/im-in-california-and-plan-to-stay-here-im-61-lost-my-job-and-live-off-my-425k-ira-my-house-has-650k-in-equity-do-i-sell-5c7ffaad?mod=mw_rss_topstories",
+            "summary": "“A very stressful year-long job search yielded less than satisfactory results,” she said. “I’m very happy to be back in the U.S.”",
+            "date": "Sat, 12 Jul 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AEF2.HA",
+            "stock_ticker": "BMNR",
             "impact": "Neutral"
         },
         {
-            "title": "Bitcoin flies to new all-time highs, topping $118,000 as institutions pile into ETFs",
-            "link": "https://www.cnbc.com/2025/07/11/crypto-market-today.html",
-            "summary": "Bitcoin and ether ETFs saw their second biggest day of inflows ever. Investors built on this week's rally and pushed prices to new records overnight.",
-            "date": "Fri, 11 Jul 2025 12:37:32 GMT",
+            "title": "When my friend was on her deathbed, her parents took $25,000 in cash and won’t give it to her son. Do we tell him?",
+            "link": "https://www.marketwatch.com/story/when-my-friend-was-on-her-deathbed-her-parents-took-25-000-in-cash-and-wont-give-it-to-her-son-do-we-tell-him-717d90bc?mod=mw_rss_topstories",
+            "summary": "“They are a very religious family. These are the same people who hug the altar every week,” says a friend of the family.",
+            "date": "Sat, 12 Jul 2025 12:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BTC-USD",
+            "stock_ticker": "WHEN",
             "impact": "Neutral"
         },
         {
-            "title": "How some pros use options to trade Nvidia and other tech stocks while limiting risk",
-            "link": "https://www.marketwatch.com/story/how-some-pros-use-options-to-trade-nvidia-and-other-tech-stocks-while-limiting-risk-5b9ef3be?mod=mw_rss_topstories",
-            "summary": "With Nvidia’s stock at record highs, some investors might be wary of buying. Options strategists suggest other ways to play the name.",
-            "date": "Fri, 11 Jul 2025 13:14:00 GMT",
+            "title": "My partner’s parents offered us a loan to buy a house. What could go wrong?",
+            "link": "https://www.marketwatch.com/story/my-partners-parents-offered-us-a-loan-to-buy-a-house-what-could-go-wrong-b6db4174?mod=mw_rss_topstories",
+            "summary": "“We are not interested in marrying at the moment and we each have our own assets,” he said. “We each have their own assets.”",
+            "date": "Sat, 12 Jul 2025 12:06:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SGDMYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How to keep your kid’s Roblox or Fortnite habit from wrecking your credit-card bill",
+            "link": "https://www.marketwatch.com/story/how-to-keep-your-kids-roblox-or-fortnite-habit-from-wrecking-your-credit-card-bill-220ea139?mod=mw_rss_topstories",
+            "summary": "It's too easy for young gamers to see digital payments as “free money.” Here are some tips for talking to kids about finance.",
+            "date": "Sat, 12 Jul 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "Jorts and ‘quiet’ western wear are helping Levi’s stave off the impact of tariffs",
-            "link": "https://www.marketwatch.com/story/levi-strauss-now-expects-sales-to-increase-this-year-despite-higher-tariffs-8d852172?mod=mw_rss_topstories",
-            "summary": "“With the 90s and Y2K fashion in full swing, longer and looser-style shorts are in high demand,” Levi’s CEO says.",
-            "date": "Fri, 11 Jul 2025 13:00:00 GMT",
+            "title": "I’m 70, a widow and struggled financially. How do I let go of the resentment I feel towards my wealthy, unhelpful brother?",
+            "link": "https://www.marketwatch.com/story/im-70-a-widow-and-struggled-financially-how-do-i-let-go-of-the-resentment-i-feel-towards-my-wealthy-unhelpful-brother-52a61211?mod=mw_rss_topstories",
+            "summary": "“I’m now doing better financially than I ever thought I would. My house in Tucson is valued at $416,000.”",
+            "date": "Sat, 12 Jul 2025 11:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LLY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The new $40,000 cap on SALT deductions in Trump’s big bill aids homeowners most in these states",
-            "link": "https://www.marketwatch.com/story/heres-where-the-new-40-000-salt-deduction-in-trumps-big-bill-helps-homeowners-the-most-277e306b?mod=mw_rss_topstories",
-            "summary": "Home prices could creep up in high-tax areas as more home buyers seek to benefit from the SALT deduction. Home prices could also rise in high tax areas if more people seek to take advantage of the tax break.",
-            "date": "Fri, 11 Jul 2025 12:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Why Robinhood’s stock is falling while crypto peers and bitcoin surge",
-            "link": "https://www.marketwatch.com/story/why-robinhoods-stock-is-falling-while-crypto-peers-and-bitcoin-surge-b39ef09f?mod=mw_rss_topstories",
-            "summary": "Robinhood’s stock is falling while those of other crypto-related companies are rallying. Florida's attorney general launched an investigation into the company's Robinhood Crypto subsidiary.",
-            "date": "Fri, 11 Jul 2025 12:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHYDX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "AMC’s stock is climbing, lifted by Wedbush’s upgrade amid an improving box office",
-            "link": "https://www.marketwatch.com/story/amcs-stock-is-climbing-lifted-by-wedbushs-upgrade-amid-an-improving-box-office-09eeacbf?mod=mw_rss_topstories",
-            "summary": " Wedbush turned bullish on AMC’s stock, citing a more consistent movie-release slate over the next several quarters and prospects for market share gains.",
-            "date": "Fri, 11 Jul 2025 12:36:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
+            "stock_ticker": "BMNR",
             "impact": "Neutral"
         }
     ]
