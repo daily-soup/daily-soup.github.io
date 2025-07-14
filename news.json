@@ -1,23 +1,35 @@
 {
-    "date": "2025-07-13",
+    "date": "2025-07-14",
     "news": [
         {
-            "title": "Trump announces 30% tariffs on EU and Mexico, starting Aug. 1",
-            "link": "https://www.cnbc.com/2025/07/12/trump-tariffs-european-union-eu-mexico-trade.html",
-            "summary": "President Donald Trump has sent similar letters to 23 other U.S. trading partners this week. The countries include Canada, Japan and Brazil.",
-            "date": "Sat, 12 Jul 2025 20:33:31 GMT",
+            "title": "Musk says he does not support a merger between Tesla and xAI but backs investment",
+            "link": "https://www.cnbc.com/2025/07/14/elon-musk-says-he-does-not-support-a-merger-between-tesla-and-xai.html",
+            "summary": "Elon Musk owns X, xAI and Tesla and is contemplating the future business relationship between them all. Elon Musk owns x, x AI and Tesla.",
+            "date": "Mon, 14 Jul 2025 09:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "MUSK24800-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bitcoin surpasses $120,000 to record highs ahead of U.S. lawmakers' 'Crypto Week'",
+            "link": "https://www.cnbc.com/2025/07/14/bitcoin-hits-new-all-time-high-above-120000-fueled-by-etf-inflows-crypto.html",
+            "summary": "Bitcoin extends a rally to rise to a new record above $120,000 on Monday. The rise was fueled by a rally in bitcoin ETFs and",
+            "date": "Mon, 14 Jul 2025 10:22:16 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MBT=F",
             "impact": "Neutral"
         },
         {
             "title": "Federal Reserve quietly responds to Trump administration attacks over renovation",
             "link": "https://www.cnbc.com/2025/07/12/federal-reserve-trump-renovation-attacks.html",
             "summary": "The central bank is quietly pushing back with a new \"Frequently Asked Questions\" page on its website. The page defends the central bank's renovation.",
-            "date": "Sat, 12 Jul 2025 20:20:32 GMT",
+            "date": "Mon, 14 Jul 2025 13:00:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,70 +38,34 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump threatens to revoke comedian Rosie O’Donnell's citizenship",
-            "link": "https://www.cnbc.com/2025/07/12/trump-citizenship-rosie-odonell.html",
-            "summary": "President Donald Trump is threatening to use the executive branch to target his opponents. It's a dramatic escalation of President Donald Trump's threats to target opponents.",
-            "date": "Sat, 12 Jul 2025 19:26:48 GMT",
+            "title": "Athlete-backed Jams takes on peanut butter and jelly, protein craze",
+            "link": "https://www.cnbc.com/2025/07/14/athlete-backed-jams-takes-on-peanut-butter-and-jelly-protein-craze.html",
+            "summary": "Athlete backed Jams hopes to capitalize on the peanut butter and jelly craze. Jams is a brand of peanut butter, jelly and jelly products.",
+            "date": "Mon, 14 Jul 2025 12:34:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "JAMSHRI.BO",
             "impact": "Neutral"
         },
         {
-            "title": "Top Wall Street analysts are upbeat about these dividend-paying stocks",
-            "link": "https://www.cnbc.com/2025/07/13/top-wall-street-analysts-are-upbeat-about-these-dividend-paying-stocks.html",
-            "summary": "TipRanks' analyst ranking service highlights three dividend-paying stocks. ConocoPhillips and U.S. Bancorp are favored by Wall Street's top pros.",
-            "date": "Sun, 13 Jul 2025 11:44:51 GMT",
+            "title": "He bought a side table from Mexico. Tariffs added a surprise $1,170 fee at delivery",
+            "link": "https://www.cnbc.com/2025/07/13/trump-tariff-surprise-delivery-fees.html",
+            "summary": "Businesses typically pass tariff costs onto consumers through higher prices. Sometimes, that process is less subtle. Businesses typicallyPass tariff costs on to consumers throughHigher prices.",
+            "date": "Sun, 13 Jul 2025 10:35:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "HE",
             "impact": "Neutral"
         },
         {
-            "title": "Global week ahead: Trade tensions cloud earnings and the G20 heads south",
-            "link": "https://www.cnbc.com/2025/07/13/global-week-ahead-trade-tensions-cloud-earnings-and-the-g20-heads-south.html",
-            "summary": "The G20 meetings in South Africa next week come at an interesting time for the country. The country will be hosting the G20 summit from November 19 to 20.",
-            "date": "Sun, 13 Jul 2025 06:15:42 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GEO=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "When my friend was on her deathbed, her parents took $25,000 in cash and won’t give it to her son. Do we tell him?",
-            "link": "https://www.marketwatch.com/story/when-my-friend-was-on-her-deathbed-her-parents-took-25-000-in-cash-and-wont-give-it-to-her-son-do-we-tell-him-717d90bc?mod=mw_rss_topstories",
-            "summary": "“They are a very religious family. These are the same people who hug the altar every week,” says a friend of the family.",
-            "date": "Sun, 13 Jul 2025 11:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHEN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘We are blessed’: My husband is inheriting a $1 million home. Should he put it in my name too?",
-            "link": "https://www.marketwatch.com/story/we-are-blessed-my-husband-is-inheriting-a-1-million-home-should-he-put-it-in-my-name-too-68341b1b?mod=mw_rss_topstories",
-            "summary": "“We do not live in a community-property state. We have one son who is now a young adult,” she says.",
-            "date": "Sat, 12 Jul 2025 22:35:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WFC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m 85 with 2 kids and $4 million. My daughter wants a larger share of my estate than my son to compensate for unequal treatment by her father.",
-            "link": "https://www.marketwatch.com/story/im-85-with-2-kids-and-4-million-my-daughter-wants-a-larger-share-of-my-estate-than-my-son-to-compensate-for-unequal-treatment-by-her-father-7ea3b2d1?mod=mw_rss_topstories",
-            "summary": "“My daughter has severe health issues — lymphoma, which is now in remission,” she says. “My son has severe mental health issues.” “I’m very proud of him. He’s a great kid.’",
-            "date": "Sat, 12 Jul 2025 22:15:00 GMT",
+            "title": "‘I’m in California and plan to stay here’: I’m 61, lost my job and live off my $425K IRA. My house has $650K in equity. Do I sell?",
+            "link": "https://www.marketwatch.com/story/im-in-california-and-plan-to-stay-here-im-61-lost-my-job-and-live-off-my-425k-ira-my-house-has-650k-in-equity-do-i-sell-5c7ffaad?mod=mw_rss_topstories",
+            "summary": "“A very stressful year-long job search yielded less than satisfactory results,” she said. “I’m very happy to be back in the U.S.”",
+            "date": "Mon, 14 Jul 2025 12:51:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "I put my $500K inheritance into a joint account with my husband. Can I leave half of it to my son from a previous marriage?",
-            "link": "https://www.marketwatch.com/story/i-put-my-500k-inheritance-into-a-joint-account-with-my-husband-can-i-leave-half-of-it-to-my-son-from-a-previous-marriage-ede3e879?mod=mw_rss_topstories",
-            "summary": "“If I predecease my husband, my will states that my son will receive half of this account,” she said.",
-            "date": "Sat, 12 Jul 2025 21:14:00 GMT",
+            "title": "AstraZeneca shares show signs of life after successful trials of hypertension drug",
+            "link": "https://www.marketwatch.com/story/astrazeneca-shares-show-signs-of-life-after-successful-trials-of-hypertension-drug-b63741e5?mod=mw_rss_topstories",
+            "summary": "Baxdostat trials showed immense promise for huge available market. Bax dostat is being developed by the Swiss drug company Novo Nordisk.",
+            "date": "Mon, 14 Jul 2025 12:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KW=F",
+            "stock_ticker": "AZN",
             "impact": "Neutral"
         },
         {
-            "title": "I’m 70, a widow and struggled financially. How do I let go of the resentment I feel towards my wealthy, unhelpful brother?",
-            "link": "https://www.marketwatch.com/story/im-70-a-widow-and-struggled-financially-how-do-i-let-go-of-the-resentment-i-feel-towards-my-wealthy-unhelpful-brother-52a61211?mod=mw_rss_topstories",
-            "summary": "“I’m now doing better financially than I ever thought I would. My house in Tucson is valued at $416,000.”",
-            "date": "Sat, 12 Jul 2025 20:09:00 GMT",
+            "title": "Not just the taco trade — why stocks should be resilient to tariff news, says Morgan Stanley",
+            "link": "https://www.marketwatch.com/story/not-just-the-taco-trade-why-stocks-should-be-resilient-to-tariff-news-says-morgan-stanley-0d601fd4?mod=mw_rss_topstories",
+            "summary": "The U.S. investment bank goes through the reasons why the stock market keeps rising as new and higher tariff levels get announced. The bank says there are a number of factors that are behind the recent stock market gains.",
+            "date": "Mon, 14 Jul 2025 12:39:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "ZN=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Treat your credit score with the respect you would treat a lover",
+            "link": "https://www.marketwatch.com/story/treat-your-credit-score-with-the-respect-you-would-treat-a-lover-2e1bc245?mod=mw_rss_topstories",
+            "summary": "FICO has said it will introduce “buy now, pay later’ loan data into its credit-scoring models. FICO will use loan data to help improve credit scores.",
+            "date": "Mon, 14 Jul 2025 12:38:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "8996.TW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s why this is a golden age for banks — but some of their stocks may be too high",
+            "link": "https://www.marketwatch.com/story/heres-why-this-is-a-golden-age-for-banks-but-some-their-stocks-may-be-too-high-e2a99300?mod=mw_rss_topstories",
+            "summary": "Most big bank stocks appear fully valued, based on analysts’ price targets. While there are some exceptions among the 20 largest banks, most are fully valued.",
+            "date": "Mon, 14 Jul 2025 12:28:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHYDX",
             "impact": "Neutral"
         }
     ]
