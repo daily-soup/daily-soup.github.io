@@ -1,125 +1,125 @@
 {
-    "date": "2025-07-14",
+    "date": "2025-07-15",
     "news": [
         {
-            "title": "Musk says he does not support a merger between Tesla and xAI but backs investment",
-            "link": "https://www.cnbc.com/2025/07/14/elon-musk-says-he-does-not-support-a-merger-between-tesla-and-xai.html",
-            "summary": "Elon Musk owns X, xAI and Tesla and is contemplating the future business relationship between them all. Elon Musk owns x, x AI and Tesla.",
-            "date": "Mon, 14 Jul 2025 09:13:00 GMT",
+            "title": "Inflation picks up again in June, rising at 2.7% annual rate",
+            "link": "https://www.cnbc.com/2025/07/15/cpi-inflation-report-june-2025.html",
+            "summary": "Consumer price index in June was expected to increase 2.7% from a year ago, according to the Dow Jones consensus estimate. The consumer price index is a measure of inflation in the United States.",
+            "date": "Tue, 15 Jul 2025 13:16:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MUSK24800-USD",
+            "stock_ticker": "WIW",
             "impact": "Neutral"
         },
         {
-            "title": "Bitcoin surpasses $120,000 to record highs ahead of U.S. lawmakers' 'Crypto Week'",
-            "link": "https://www.cnbc.com/2025/07/14/bitcoin-hits-new-all-time-high-above-120000-fueled-by-etf-inflows-crypto.html",
-            "summary": "Bitcoin extends a rally to rise to a new record above $120,000 on Monday. The rise was fueled by a rally in bitcoin ETFs and",
-            "date": "Mon, 14 Jul 2025 10:22:16 GMT",
+            "title": "JPMorgan Chase tops estimates on stronger-than-expected trading, investment banking",
+            "link": "https://www.cnbc.com/2025/07/15/jpmorgan-chase-jpm-earnings-q2-2025.html",
+            "summary": "JPMorgan Chase will give investors a view into how U.S. consumers and corporations fared in the second quarter. The bank will report its results on Thursday.",
+            "date": "Tue, 15 Jul 2025 12:47:48 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MBT=F",
+            "stock_ticker": "JPM",
             "impact": "Neutral"
         },
         {
-            "title": "Federal Reserve quietly responds to Trump administration attacks over renovation",
-            "link": "https://www.cnbc.com/2025/07/12/federal-reserve-trump-renovation-attacks.html",
-            "summary": "The central bank is quietly pushing back with a new \"Frequently Asked Questions\" page on its website. The page defends the central bank's renovation.",
-            "date": "Mon, 14 Jul 2025 13:00:33 GMT",
+            "title": "'Lost their identity': Why Target is struggling to win over shoppers and investors",
+            "link": "https://www.cnbc.com/2025/07/15/target-stock-and-sales-fall-as-ceo-brian-cornell-contract-ends.html",
+            "summary": "Target is trying to bounce back from lower store traffic, inventory issues and customer backlash. Target has been struggling with low sales and inventory issues.",
+            "date": "Tue, 15 Jul 2025 11:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZQ=F",
+            "stock_ticker": "HID-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Athlete-backed Jams takes on peanut butter and jelly, protein craze",
-            "link": "https://www.cnbc.com/2025/07/14/athlete-backed-jams-takes-on-peanut-butter-and-jelly-protein-craze.html",
-            "summary": "Athlete backed Jams hopes to capitalize on the peanut butter and jelly craze. Jams is a brand of peanut butter, jelly and jelly products.",
-            "date": "Mon, 14 Jul 2025 12:34:01 GMT",
+            "title": "Google to invest $25 billion in data centers and AI infrastructure across largest U.S. electric grid",
+            "link": "https://www.cnbc.com/2025/07/15/google-to-invest-25-billion-in-data-centers-ai-infrastructure-in-pjm.html",
+            "summary": "Google will also spend more than $3 billion to modernize two hydropower plants in Pennsylvania to help meet growing demand from data centers in the region.",
+            "date": "Tue, 15 Jul 2025 11:54:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JAMSHRI.BO",
+            "stock_ticker": "GOOG",
             "impact": "Neutral"
         },
         {
-            "title": "He bought a side table from Mexico. Tariffs added a surprise $1,170 fee at delivery",
-            "link": "https://www.cnbc.com/2025/07/13/trump-tariff-surprise-delivery-fees.html",
-            "summary": "Businesses typically pass tariff costs onto consumers through higher prices. Sometimes, that process is less subtle. Businesses typicallyPass tariff costs on to consumers throughHigher prices.",
-            "date": "Sun, 13 Jul 2025 10:35:01 GMT",
+            "title": "Trump's 'big beautiful' bill could add $3.4 trillion to federal deficits in the next 10 years—what it means for your wallet",
+            "link": "https://www.cnbc.com/2025/07/15/trump-tax-cuts-will-cost-trillions-of-dollars.html",
+            "summary": "President Trump's new spending bill will increase federal deficits, adding to the debt load. The debt load has already grown more than 50% since 2020.",
+            "date": "Tue, 15 Jul 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HE",
+            "stock_ticker": "BBAI",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m in California and plan to stay here’: I’m 61, lost my job and live off my $425K IRA. My house has $650K in equity. Do I sell?",
-            "link": "https://www.marketwatch.com/story/im-in-california-and-plan-to-stay-here-im-61-lost-my-job-and-live-off-my-425k-ira-my-house-has-650k-in-equity-do-i-sell-5c7ffaad?mod=mw_rss_topstories",
-            "summary": "“A very stressful year-long job search yielded less than satisfactory results,” she said. “I’m very happy to be back in the U.S.”",
-            "date": "Mon, 14 Jul 2025 12:51:00 GMT",
+            "title": "Wells Fargo snaps streak of revenue misses, but here’s why the stock is falling",
+            "link": "https://www.marketwatch.com/story/wells-fargo-beats-revenue-expectations-but-stock-falls-as-net-interest-income-misses-7646dfa4?mod=mw_rss_topstories",
+            "summary": "Wells Fargo's stock falls as net interest income misses expectations. Full-year growth outlook was lowered to offset profit and revenue beats. Wells Fargo’s stock falls.",
+            "date": "Tue, 15 Jul 2025 13:11:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "WFC",
             "impact": "Neutral"
         },
         {
-            "title": "AstraZeneca shares show signs of life after successful trials of hypertension drug",
-            "link": "https://www.marketwatch.com/story/astrazeneca-shares-show-signs-of-life-after-successful-trials-of-hypertension-drug-b63741e5?mod=mw_rss_topstories",
-            "summary": "Baxdostat trials showed immense promise for huge available market. Bax dostat is being developed by the Swiss drug company Novo Nordisk.",
-            "date": "Mon, 14 Jul 2025 12:50:00 GMT",
+            "title": "Inflation shows biggest rise in 5 months. CPI dims slim chance of Fed rate cut in July.",
+            "link": "https://www.marketwatch.com/story/inflation-shows-biggest-increase-in-five-months-dims-chances-of-fed-interest-rate-cut-soon-ef1068a3?mod=mw_rss_topstories",
+            "summary": "Consumer prices posted the biggest increase in June in five months. The increase is likely to keep the Federal Reserve from cutting interest rates soon. There only scattered signs of tariff-related inflation.",
+            "date": "Tue, 15 Jul 2025 12:41:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AZN",
+            "stock_ticker": "WIW",
             "impact": "Neutral"
         },
         {
-            "title": "Not just the taco trade — why stocks should be resilient to tariff news, says Morgan Stanley",
-            "link": "https://www.marketwatch.com/story/not-just-the-taco-trade-why-stocks-should-be-resilient-to-tariff-news-says-morgan-stanley-0d601fd4?mod=mw_rss_topstories",
-            "summary": "The U.S. investment bank goes through the reasons why the stock market keeps rising as new and higher tariff levels get announced. The bank says there are a number of factors that are behind the recent stock market gains.",
-            "date": "Mon, 14 Jul 2025 12:39:00 GMT",
+            "title": "‘I enjoy vacations to Europe’: I’m 75, have $1 million in an IRA and $2.4 million in real estate. Why do I feel guilty?",
+            "link": "https://www.marketwatch.com/story/i-enjoy-vacations-to-europe-im-75-have-1-million-in-an-ira-and-2-4-million-in-real-estate-why-do-i-feel-guilty-c0d0b30a?mod=mw_rss_topstories",
+            "summary": "“When I become debilitated, I plan to end my life at Dignitas,” he says. “We have no long-term-care insurance.”",
+            "date": "Tue, 15 Jul 2025 12:39:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZN=F",
+            "stock_ticker": "KW=F",
             "impact": "Neutral"
         },
         {
-            "title": "Treat your credit score with the respect you would treat a lover",
-            "link": "https://www.marketwatch.com/story/treat-your-credit-score-with-the-respect-you-would-treat-a-lover-2e1bc245?mod=mw_rss_topstories",
-            "summary": "FICO has said it will introduce “buy now, pay later’ loan data into its credit-scoring models. FICO will use loan data to help improve credit scores.",
-            "date": "Mon, 14 Jul 2025 12:38:00 GMT",
+            "title": "China is about to shock the U.S. economy again. Economists who predicted the first offer a plan to fight back.",
+            "link": "https://www.marketwatch.com/story/china-is-about-to-shock-the-u-s-economy-again-economists-who-predicted-the-first-offer-a-plan-to-fight-back-3ce328df?mod=mw_rss_topstories",
+            "summary": "Two economics professors say the U.S. is facing another big shock from China. They say it could be worse than the first. They have a survival plan.",
+            "date": "Tue, 15 Jul 2025 12:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "8996.TW",
+            "stock_ticker": "CHH=F",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s why this is a golden age for banks — but some of their stocks may be too high",
-            "link": "https://www.marketwatch.com/story/heres-why-this-is-a-golden-age-for-banks-but-some-their-stocks-may-be-too-high-e2a99300?mod=mw_rss_topstories",
-            "summary": "Most big bank stocks appear fully valued, based on analysts’ price targets. While there are some exceptions among the 20 largest banks, most are fully valued.",
-            "date": "Mon, 14 Jul 2025 12:28:00 GMT",
+            "title": "ASML gets a downgrade ahead of results. Key client Intel is to blame.",
+            "link": "https://www.marketwatch.com/story/asml-gets-a-downgrade-ahead-of-results-key-client-intel-is-to-blame-6c724db2?mod=mw_rss_topstories",
+            "summary": "ASML Holding, the microchip-equipment maker that produces the sophisticated machines used to develop semiconductors, caught a broker downgrade just ahead of its second-quarter results.",
+            "date": "Tue, 15 Jul 2025 12:14:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYDX",
-            "impact": "Neutral"
+            "stock_ticker": "ASML",
+            "impact": "Bearish"
         }
     ]
 }
