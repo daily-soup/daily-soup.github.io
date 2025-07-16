@@ -1,95 +1,95 @@
 {
-    "date": "2025-07-15",
+    "date": "2025-07-16",
     "news": [
         {
-            "title": "Inflation picks up again in June, rising at 2.7% annual rate",
-            "link": "https://www.cnbc.com/2025/07/15/cpi-inflation-report-june-2025.html",
-            "summary": "Consumer price index in June was expected to increase 2.7% from a year ago, according to the Dow Jones consensus estimate. The consumer price index is a measure of inflation in the United States.",
-            "date": "Tue, 15 Jul 2025 13:16:05 GMT",
+            "title": "Wholesale inflation measure was unchanged in June",
+            "link": "https://www.cnbc.com/2025/07/16/ppi-inflation-report-june-2025.html",
+            "summary": "The producer price index for June was expected to increase 0.2%, according to the Dow Jones consensus estimate. The index was up 0.3% in May, and 0.4% in April.",
+            "date": "Wed, 16 Jul 2025 13:20:40 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WIW",
+            "stock_ticker": "COST",
             "impact": "Neutral"
         },
         {
-            "title": "JPMorgan Chase tops estimates on stronger-than-expected trading, investment banking",
-            "link": "https://www.cnbc.com/2025/07/15/jpmorgan-chase-jpm-earnings-q2-2025.html",
-            "summary": "JPMorgan Chase will give investors a view into how U.S. consumers and corporations fared in the second quarter. The bank will report its results on Thursday.",
-            "date": "Tue, 15 Jul 2025 12:47:48 GMT",
+            "title": "Goldman Sachs tops estimates as traders generate $840 million more revenue than expected",
+            "link": "https://www.cnbc.com/2025/07/16/goldman-sachs-gs-earnings-q2-2025-.html",
+            "summary": "Trading desks across Wall Street have benefited as President Donald Trump's tariff policies have roiled markets for bonds, currencies, commodities and stocks.",
+            "date": "Wed, 16 Jul 2025 12:46:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JPM",
+            "stock_ticker": "GS",
             "impact": "Neutral"
         },
         {
-            "title": "'Lost their identity': Why Target is struggling to win over shoppers and investors",
-            "link": "https://www.cnbc.com/2025/07/15/target-stock-and-sales-fall-as-ceo-brian-cornell-contract-ends.html",
-            "summary": "Target is trying to bounce back from lower store traffic, inventory issues and customer backlash. Target has been struggling with low sales and inventory issues.",
-            "date": "Tue, 15 Jul 2025 11:00:01 GMT",
+            "title": "Nvidia CEO Jensen Huang wants to sell more advanced chips to China after H20 ban is lifted",
+            "link": "https://www.cnbc.com/2025/07/16/nvidia-ceo-wants-to-sell-advanced-chips-to-china-after-h20-ban-lifted.html",
+            "summary": "Nvidia CEO Jensen Huang visited Beijing after the U.S. allowed its H20 chip to be sold in China. Huang: \"I think it's a good thing that we have the H20 in China\"",
+            "date": "Wed, 16 Jul 2025 12:17:40 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HID-USD",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "Google to invest $25 billion in data centers and AI infrastructure across largest U.S. electric grid",
-            "link": "https://www.cnbc.com/2025/07/15/google-to-invest-25-billion-in-data-centers-ai-infrastructure-in-pjm.html",
-            "summary": "Google will also spend more than $3 billion to modernize two hydropower plants in Pennsylvania to help meet growing demand from data centers in the region.",
-            "date": "Tue, 15 Jul 2025 11:54:00 GMT",
+            "title": "Bank of America puts up mixed results as net interest income misses analysts' expectations",
+            "link": "https://www.cnbc.com/2025/07/16/bank-of-america-bac-earnings-q2-2025.html",
+            "summary": "Bank of America put out a mixed quarter, exceeding estimates on EPS and missing on revenue. Bank of America missed on revenue and one of its main drivers, net interest income.",
+            "date": "Wed, 16 Jul 2025 12:38:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOOG",
+            "stock_ticker": "BAC",
             "impact": "Neutral"
         },
         {
-            "title": "Trump's 'big beautiful' bill could add $3.4 trillion to federal deficits in the next 10 years—what it means for your wallet",
-            "link": "https://www.cnbc.com/2025/07/15/trump-tax-cuts-will-cost-trillions-of-dollars.html",
-            "summary": "President Trump's new spending bill will increase federal deficits, adding to the debt load. The debt load has already grown more than 50% since 2020.",
-            "date": "Tue, 15 Jul 2025 13:00:01 GMT",
+            "title": "As media reckons with strategic shifts, a new crop of leaders is coming into play",
+            "link": "https://www.cnbc.com/2025/07/16/media-shifts-new-crop-of-leaders.html",
+            "summary": "Those with backgrounds in finance and dealmaking are increasingly reshaping the landscape of Hollywood. In an industry that's long been run by storied Hollywood executives, those with finance backgrounds are becoming more prominent.",
+            "date": "Wed, 16 Jul 2025 12:41:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBAI",
+            "stock_ticker": "AS",
             "impact": "Neutral"
         },
         {
-            "title": "Wells Fargo snaps streak of revenue misses, but here’s why the stock is falling",
-            "link": "https://www.marketwatch.com/story/wells-fargo-beats-revenue-expectations-but-stock-falls-as-net-interest-income-misses-7646dfa4?mod=mw_rss_topstories",
-            "summary": "Wells Fargo's stock falls as net interest income misses expectations. Full-year growth outlook was lowered to offset profit and revenue beats. Wells Fargo’s stock falls.",
-            "date": "Tue, 15 Jul 2025 13:11:00 GMT",
+            "title": "Goldman Sachs’s stock gains as equities trading helps fuel a big earnings beat",
+            "link": "https://www.marketwatch.com/story/goldman-sachs-stock-jumps-after-a-big-earnings-beat-amid-strength-in-investment-banking-and-equities-businesses-bed07056?mod=mw_rss_topstories",
+            "summary": "Goldman Sachs’s stock rallies as its market-trading businesses shine. Morgan Stanley saw investment-banking revenue slip. Goldman Sachs is the world's largest investment bank.",
+            "date": "Wed, 16 Jul 2025 13:22:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFC",
+            "stock_ticker": "GS",
             "impact": "Neutral"
         },
         {
-            "title": "Inflation shows biggest rise in 5 months. CPI dims slim chance of Fed rate cut in July.",
-            "link": "https://www.marketwatch.com/story/inflation-shows-biggest-increase-in-five-months-dims-chances-of-fed-interest-rate-cut-soon-ef1068a3?mod=mw_rss_topstories",
-            "summary": "Consumer prices posted the biggest increase in June in five months. The increase is likely to keep the Federal Reserve from cutting interest rates soon. There only scattered signs of tariff-related inflation.",
-            "date": "Tue, 15 Jul 2025 12:41:00 GMT",
+            "title": "The market’s been wrong on the Fed for three straight years — this Deutsche Bank strategist says it’s now looking like four.",
+            "link": "https://www.marketwatch.com/story/the-markets-been-wrong-on-the-fed-for-three-straight-years-this-deutsche-bank-strategist-says-its-now-looking-like-four-729f74d1?mod=mw_rss_topstories",
+            "summary": "Deutsche Bank strategist Henry Allen says markets are complacent over inflation. But tariffs are making that a dangerous viewpoint right now, he says.",
+            "date": "Wed, 16 Jul 2025 12:53:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WIW",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "‘I enjoy vacations to Europe’: I’m 75, have $1 million in an IRA and $2.4 million in real estate. Why do I feel guilty?",
+            "title": "‘I enjoy vacations to Europe’: I’m 75 and have $1 million in an IRA. Why do I feel guilty?",
             "link": "https://www.marketwatch.com/story/i-enjoy-vacations-to-europe-im-75-have-1-million-in-an-ira-and-2-4-million-in-real-estate-why-do-i-feel-guilty-c0d0b30a?mod=mw_rss_topstories",
             "summary": "“When I become debilitated, I plan to end my life at Dignitas,” he says. “We have no long-term-care insurance.”",
-            "date": "Tue, 15 Jul 2025 12:39:00 GMT",
+            "date": "Wed, 16 Jul 2025 12:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,28 +98,28 @@
             "impact": "Neutral"
         },
         {
-            "title": "China is about to shock the U.S. economy again. Economists who predicted the first offer a plan to fight back.",
-            "link": "https://www.marketwatch.com/story/china-is-about-to-shock-the-u-s-economy-again-economists-who-predicted-the-first-offer-a-plan-to-fight-back-3ce328df?mod=mw_rss_topstories",
-            "summary": "Two economics professors say the U.S. is facing another big shock from China. They say it could be worse than the first. They have a survival plan.",
-            "date": "Tue, 15 Jul 2025 12:38:00 GMT",
+            "title": "Rick Santelli describes how he got a quick lesson with his first trade",
+            "link": "https://www.marketwatch.com/story/rick-santelli-describes-how-he-got-a-quick-lesson-with-his-first-trade-a0cc7a49?mod=mw_rss_topstories",
+            "summary": "The veteran CNBC reporter recalled the ups and downs of his first trade. He also recalled the highs and lows of being a trader for the first time.",
+            "date": "Wed, 16 Jul 2025 12:51:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHH=F",
-            "impact": "Neutral"
+            "stock_ticker": "RICK",
+            "impact": "Bullish"
         },
         {
-            "title": "ASML gets a downgrade ahead of results. Key client Intel is to blame.",
-            "link": "https://www.marketwatch.com/story/asml-gets-a-downgrade-ahead-of-results-key-client-intel-is-to-blame-6c724db2?mod=mw_rss_topstories",
-            "summary": "ASML Holding, the microchip-equipment maker that produces the sophisticated machines used to develop semiconductors, caught a broker downgrade just ahead of its second-quarter results.",
-            "date": "Tue, 15 Jul 2025 12:14:00 GMT",
+            "title": "Wholesale prices are flat in June, PPI shows, and point to muted effect of tariffs on inflation",
+            "link": "https://www.marketwatch.com/story/wholesale-prices-are-flat-in-june-ppi-shows-and-point-to-muted-effect-of-tariffs-on-inflation-52e82839?mod=mw_rss_topstories",
+            "summary": "Wholesale prices were unchanged in June and showed only a mild effect from U.S. tariffs. It adds to the growing view that trade wars won’t lead to a big increase in inflation.",
+            "date": "Wed, 16 Jul 2025 12:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ASML",
-            "impact": "Bearish"
+            "stock_ticker": "COST",
+            "impact": "Neutral"
         }
     ]
 }
