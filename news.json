@@ -1,125 +1,125 @@
 {
-    "date": "2025-07-17",
+    "date": "2025-07-18",
     "news": [
         {
-            "title": "Shares of high fructose syrup producer ADM tumble after Trump says Coca-Cola agrees to use real cane sugar",
-            "link": "https://www.cnbc.com/2025/07/17/high-fructose-syrup-producer-adm-stock-falls-after-trump-says-coca-cola-to-use-real-cane-sugar.html",
-            "summary": "Archer-Daniels-Midland plummeted on Thursday after President Trump said that Coca-Cola has agreed to use real cane sugar in its drinks in the U.S.",
-            "date": "Thu, 17 Jul 2025 13:18:09 GMT",
+            "title": "Chevron completes Hess acquisition after defeating Exxon in dispute over Guyana oil assets",
+            "link": "https://www.cnbc.com/2025/07/18/chevron-defeats-exxon-in-dispute-over-guyana-oil-assets-clearing-path-for-hess-acquisition.html",
+            "summary": "Chevron has prevailed against Exxon Mobil in a dispute over Hess Corporation's offshore oil assets in the South American nation of Guyana. Hess is a subsidiary of Chevron, which is based in California.",
+            "date": "Fri, 18 Jul 2025 13:07:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ALM",
+            "stock_ticker": "CVX",
             "impact": "Neutral"
         },
         {
-            "title": "Uber inks six-year robotaxi deal with Lucid, invests $300 million in EV company",
-            "link": "https://www.cnbc.com/2025/07/17/uber-lucid-robotaxi-partnership-300-million-20000-nuro.html",
-            "summary": "Uber, Lucid and autonomous vehicle startup Nuro are joining forces to deploy more than 20,000 robotaxis as demand for driverless cars kicks into high gear.",
-            "date": "Thu, 17 Jul 2025 12:42:48 GMT",
+            "title": "How the EU is preparing to reach a tariff deal in Trump's game of chicken",
+            "link": "https://www.cnbc.com/2025/07/18/trumps-game-of-chicken-how-the-eu-is-pitching-to-reach-a-tariff-deal.html",
+            "summary": "The European Union is pushing to secure a trade deal with the U.S. ahead of President Donald Trump's Aug. 1 deadline. The EU is hoping to reach a deal before the end of the year.",
+            "date": "Fri, 18 Jul 2025 09:49:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UBER",
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "As streaming services chase profitability, kids’ content is king",
+            "link": "https://www.cnbc.com/2025/07/18/kids-content-streaming-companies-chase-profits.html",
+            "summary": "Kids' programming like \"CoComelon\" and \"Bluey\" is becoming an important tool in retaining streaming customers as the services chase profitability.",
+            "date": "Fri, 18 Jul 2025 13:15:18 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Fed Chair Powell responds to White House questions about HQ renovation",
+            "link": "https://www.cnbc.com/2025/07/17/powell-trump-vought-renovation.html",
+            "summary": "Federal Reserve Chairman Jerome Powell responded to OMB director Russ Vought's stern letter. Powell pointed him to a public website and previous statements.",
+            "date": "Thu, 17 Jul 2025 23:02:13 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ZQ=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "'Trump accounts' come with a $1,000 baby bonus. Then the rules get complicated, tax experts say",
+            "link": "https://www.cnbc.com/2025/07/18/big-beautiful-bill-childrens-trump-account-rules-are-complicated.html",
+            "summary": "Children born in 2025 through 2028 will receive a $1,000 deposit into a Trump account. Here's how the accounts work.",
+            "date": "Fri, 18 Jul 2025 10:15:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Only six dividend stocks pass a screen for quality — with yields up to 6.58%",
+            "link": "https://www.marketwatch.com/story/only-six-dividend-stocks-pass-a-screen-for-quality-with-yields-up-to-6-58-f2a4b156?mod=mw_rss_topstories",
+            "summary": "Investors need to look beyond yields to reduce the risk of suffering dividend cuts. Income-seeking investors need toLook beyond yields. Dividends need to be protected from the risks of inflation.",
+            "date": "Fri, 18 Jul 2025 13:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TI02.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Schwab’s stock approaches all-time high as 1 million new brokerage accounts boost profit",
+            "link": "https://www.marketwatch.com/story/schwabs-stock-approaches-all-time-high-as-1-million-new-brokerage-accounts-boost-profit-197c6a4a?mod=mw_rss_topstories",
+            "summary": "Charles Schwab's stock briefly sees record territory after an earnings beat. Charles Schwab’s stock briefly saw record territory following an earnings beating.",
+            "date": "Fri, 18 Jul 2025 12:42:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VWAV",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The kitchen sink has been thrown at the economy. Here’s why it’s not causing a recession.",
+            "link": "https://www.marketwatch.com/story/the-kitchen-sink-has-been-thrown-at-the-economy-heres-why-its-not-causing-a-recession-6ddf7a3a?mod=mw_rss_topstories",
+            "summary": "Low unemployment fuels spending, and more spending keeps unemployment low. Low unemployment fuels Spending, and More Spending keeps Unemployment Low. Low Unemployment fuels Spending,. and More spending keeps Unemployment low.",
+            "date": "Fri, 18 Jul 2025 12:27:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘Even God would get fired.’ The lessons this fund manager is taking from stock-market drawdowns and recoveries.",
+            "link": "https://www.marketwatch.com/story/even-god-would-get-fired-the-lessons-this-fund-manager-is-taking-from-stock-market-drawdowns-and-recoveries-a4800248?mod=mw_rss_topstories",
+            "summary": "One fund manager says studies on the drawdowns in the stock market shows the need to hold high-quality companies for the long term. He says studies show the need for long-term investing.",
+            "date": "Fri, 18 Jul 2025 12:07:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EVEN",
+            "impact": "Bearish"
+        },
+        {
+            "title": "American Express earnings show healthy spending — including on these fancy categories",
+            "link": "https://www.marketwatch.com/story/american-express-earnings-show-healthy-growth-in-spending-67eb26a4?mod=mw_rss_topstories",
+            "summary": "Amex saw 7% growth in spending last quarter. Spending on front-of-cabin plane tickets and ‘high-value’ lodging transactions was up more than that.",
+            "date": "Fri, 18 Jul 2025 11:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAL",
             "impact": "Bullish"
-        },
-        {
-            "title": "Disney's spent 70 years funneling IP into its theme parks. Here's why it works",
-            "link": "https://www.cnbc.com/2025/07/17/disney-ip-anchors-theme-parks.html",
-            "summary": "Disney's portfolio of intellectual property has been the bedrock of its theme parks since Disneyland first opened 70 years ago in 1955. Disney's portfolio is made up of more than 1,000 patents, trademarks and copyrights.",
-            "date": "Thu, 17 Jul 2025 13:13:26 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPENTA.BO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "PepsiCo earnings beat estimates even as U.S. demand falls",
-            "link": "https://www.cnbc.com/2025/07/17/pepsico-pep-q2-2025-earnings.html",
-            "summary": "PepsiCo reiterated its full-year outlook after its quarterly earnings and revenue topped estimates. PepsiCo also raised its forecast for the full year.",
-            "date": "Thu, 17 Jul 2025 13:08:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PEP",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Crypto regulation bills move forward after record-setting House vote",
-            "link": "https://www.cnbc.com/2025/07/16/crypto-house-federal-reserve-currency.html",
-            "summary": "President Donald Trump intervened Tuesday evening to get the holdouts on board. The second attempt to advance a pair of crypto bills came after President Donald Trump intervening Tuesday evening.",
-            "date": "Thu, 17 Jul 2025 03:40:08 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BITQ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "These market whales may hold the key to the stock market’s next move, says former trader",
-            "link": "https://www.marketwatch.com/story/these-whales-are-almost-finished-loading-up-on-u-s-stocks-so-its-time-to-start-reducing-risk-says-former-trader-6d1d3d9d?mod=mw_rss_topstories",
-            "summary": "Former institutional trader Kevin Muir flags caution on chasing this market. Muir sees some big market whales nearing the end of a U.S. stock buying spree.",
-            "date": "Thu, 17 Jul 2025 13:14:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MME=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Inside the great ETF boom of 2025: ‘How do you navigate all this?’",
-            "link": "https://www.marketwatch.com/story/inside-the-great-etf-boom-of-2025-how-do-you-navigate-all-this-093f773f?mod=mw_rss_topstories",
-            "summary": "A record flood of new cash. Hedge-fund and private-equity firms getting in. Exchange-traded funds are the big investing story of the year.",
-            "date": "Thu, 17 Jul 2025 13:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "4488.T",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why this ex-Goldman strategist now at Citadel is bullish on stocks — until September",
-            "link": "https://www.marketwatch.com/story/dont-fade-the-stock-market-yet-says-former-goldman-tactical-strategist-now-at-citadel-9ee17d87?mod=mw_rss_topstories",
-            "summary": "Scott Rubner, a former Goldman Sachs tactical strategist now at Citadel Securities, said it’s too soon to fade the stock market given factors including corporate stock buybacks.",
-            "date": "Thu, 17 Jul 2025 12:56:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHYPE-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "GE’s stock leaps to 25-year high after blowout earnings, as jet engine orders soar",
-            "link": "https://www.marketwatch.com/story/ge-aerospaces-stock-jumps-toward-a-25-year-high-after-full-year-outlook-gets-a-bit-boost-8555d930?mod=mw_rss_topstories",
-            "summary": "GE Aerospace’s stock rises toward a 25-year high after earnings beat expectations on multiple fronts and the full-year outlook saw a big increase.",
-            "date": "Thu, 17 Jul 2025 12:56:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GES",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Retail sales snap back after trade wars die down. Economy still expanding at decent pace.",
-            "link": "https://www.marketwatch.com/story/retail-sales-snap-back-after-tariffs-are-dialed-down-economy-still-expanding-at-decent-pace-c40313e0?mod=mw_rss_topstories",
-            "summary": "Sales at retailers rebounded in June after the White House dialed back high U.S. tariffs. Consumers temporarily shrugged off trade wars and spent more on cars, clothes, do-it-yourself projects and dining out.",
-            "date": "Thu, 17 Jul 2025 12:40:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SXR=F",
-            "impact": "Neutral"
         }
     ]
 }
