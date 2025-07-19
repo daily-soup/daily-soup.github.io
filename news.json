@@ -1,95 +1,11 @@
 {
-    "date": "2025-07-18",
+    "date": "2025-07-19",
     "news": [
         {
-            "title": "Chevron completes Hess acquisition after defeating Exxon in dispute over Guyana oil assets",
-            "link": "https://www.cnbc.com/2025/07/18/chevron-defeats-exxon-in-dispute-over-guyana-oil-assets-clearing-path-for-hess-acquisition.html",
-            "summary": "Chevron has prevailed against Exxon Mobil in a dispute over Hess Corporation's offshore oil assets in the South American nation of Guyana. Hess is a subsidiary of Chevron, which is based in California.",
-            "date": "Fri, 18 Jul 2025 13:07:22 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CVX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How the EU is preparing to reach a tariff deal in Trump's game of chicken",
-            "link": "https://www.cnbc.com/2025/07/18/trumps-game-of-chicken-how-the-eu-is-pitching-to-reach-a-tariff-deal.html",
-            "summary": "The European Union is pushing to secure a trade deal with the U.S. ahead of President Donald Trump's Aug. 1 deadline. The EU is hoping to reach a deal before the end of the year.",
-            "date": "Fri, 18 Jul 2025 09:49:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "As streaming services chase profitability, kids’ content is king",
-            "link": "https://www.cnbc.com/2025/07/18/kids-content-streaming-companies-chase-profits.html",
-            "summary": "Kids' programming like \"CoComelon\" and \"Bluey\" is becoming an important tool in retaining streaming customers as the services chase profitability.",
-            "date": "Fri, 18 Jul 2025 13:15:18 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fed Chair Powell responds to White House questions about HQ renovation",
-            "link": "https://www.cnbc.com/2025/07/17/powell-trump-vought-renovation.html",
-            "summary": "Federal Reserve Chairman Jerome Powell responded to OMB director Russ Vought's stern letter. Powell pointed him to a public website and previous statements.",
-            "date": "Thu, 17 Jul 2025 23:02:13 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZQ=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "'Trump accounts' come with a $1,000 baby bonus. Then the rules get complicated, tax experts say",
-            "link": "https://www.cnbc.com/2025/07/18/big-beautiful-bill-childrens-trump-account-rules-are-complicated.html",
-            "summary": "Children born in 2025 through 2028 will receive a $1,000 deposit into a Trump account. Here's how the accounts work.",
-            "date": "Fri, 18 Jul 2025 10:15:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Only six dividend stocks pass a screen for quality — with yields up to 6.58%",
-            "link": "https://www.marketwatch.com/story/only-six-dividend-stocks-pass-a-screen-for-quality-with-yields-up-to-6-58-f2a4b156?mod=mw_rss_topstories",
-            "summary": "Investors need to look beyond yields to reduce the risk of suffering dividend cuts. Income-seeking investors need toLook beyond yields. Dividends need to be protected from the risks of inflation.",
-            "date": "Fri, 18 Jul 2025 13:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TI02.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Schwab’s stock approaches all-time high as 1 million new brokerage accounts boost profit",
-            "link": "https://www.marketwatch.com/story/schwabs-stock-approaches-all-time-high-as-1-million-new-brokerage-accounts-boost-profit-197c6a4a?mod=mw_rss_topstories",
-            "summary": "Charles Schwab's stock briefly sees record territory after an earnings beat. Charles Schwab’s stock briefly saw record territory following an earnings beating.",
-            "date": "Fri, 18 Jul 2025 12:42:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VWAV",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The kitchen sink has been thrown at the economy. Here’s why it’s not causing a recession.",
-            "link": "https://www.marketwatch.com/story/the-kitchen-sink-has-been-thrown-at-the-economy-heres-why-its-not-causing-a-recession-6ddf7a3a?mod=mw_rss_topstories",
-            "summary": "Low unemployment fuels spending, and more spending keeps unemployment low. Low unemployment fuels Spending, and More Spending keeps Unemployment Low. Low Unemployment fuels Spending,. and More spending keeps Unemployment low.",
-            "date": "Fri, 18 Jul 2025 12:27:00 GMT",
+            "title": "Unraveling the legal, economic and market ramifications if Trump tries to fire Fed Chair Powell",
+            "link": "https://www.cnbc.com/2025/07/19/unraveling-the-legal-economic-and-market-ramifications-if-trump-tries-to-fire-fed-chair-powell.html",
+            "summary": "There are no easy answers. The tempestuous situation poses myriad thorny questions for which there are noeasy answers. It's not clear what the future holds for the White House.",
+            "date": "Sat, 19 Jul 2025 12:59:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +14,111 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘Even God would get fired.’ The lessons this fund manager is taking from stock-market drawdowns and recoveries.",
-            "link": "https://www.marketwatch.com/story/even-god-would-get-fired-the-lessons-this-fund-manager-is-taking-from-stock-market-drawdowns-and-recoveries-a4800248?mod=mw_rss_topstories",
-            "summary": "One fund manager says studies on the drawdowns in the stock market shows the need to hold high-quality companies for the long term. He says studies show the need for long-term investing.",
-            "date": "Fri, 18 Jul 2025 12:07:00 GMT",
+            "title": "Trump sues Murdoch for $10 billion over WSJ story on Epstein birthday letter",
+            "link": "https://www.cnbc.com/2025/07/18/trump-sues-epstein-murdoch-wsj.html",
+            "summary": "President Trump is under increasing pressure to have the Justice Department release files about the late pedophile Jeffrey Epstein. The Justice Department is expected to release the files this week.",
+            "date": "Sat, 19 Jul 2025 01:42:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EVEN",
-            "impact": "Bearish"
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
         },
         {
-            "title": "American Express earnings show healthy spending — including on these fancy categories",
-            "link": "https://www.marketwatch.com/story/american-express-earnings-show-healthy-growth-in-spending-67eb26a4?mod=mw_rss_topstories",
-            "summary": "Amex saw 7% growth in spending last quarter. Spending on front-of-cabin plane tickets and ‘high-value’ lodging transactions was up more than that.",
-            "date": "Fri, 18 Jul 2025 11:58:00 GMT",
+            "title": "‘30% is untenable’: From Irish whiskey to Italian cheese, Trump's tariff threat rattles EU exporters",
+            "link": "https://www.cnbc.com/2025/07/19/from-irish-whiskey-to-italian-cheese-us-tariffs-rattle-eu-exporters.html",
+            "summary": "\"At that 30% level ... it will be a lose-lose situation,\" one distillery boss told CNBC. \"It's going to be a very, very difficult time for us,\" he said.",
+            "date": "Sat, 19 Jul 2025 05:00:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAL",
+            "stock_ticker": "ZQ=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Block shares soar 10% on entry into S&P 500",
+            "link": "https://www.cnbc.com/2025/07/18/block-shares-soar-on-entry-into-sp-500.html",
+            "summary": " Block is joining the S&amp;P 500, replacing Hess as of July 23. Block will be the first African-American woman to serve as chairman and CEO of a Fortune 500 company.",
+            "date": "Sat, 19 Jul 2025 00:26:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "XYZ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Justice Department asks court to unseal Epstein, Maxwell grand jury transcripts",
+            "link": "https://www.cnbc.com/2025/07/18/epstein-maxwell-grand-jury-trump.html",
+            "summary": "The Trump administration's handling of the so-called Epstein files has spurred a growing backlash from within the president's own MAGA base.",
+            "date": "Fri, 18 Jul 2025 23:03:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "K6Z.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My daughter has $500K in med-school expenses. Can my wife and I afford to pay it off?",
+            "link": "https://www.marketwatch.com/story/my-daughter-has-500k-in-med-school-expenses-can-my-wife-and-i-afford-to-pay-it-off-556d4def?mod=mw_rss_topstories",
+            "summary": "“Our annual income is $140,000. We are both on Medicare,” she says. “Our family is very happy.”",
+            "date": "Sat, 19 Jul 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AUDMYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I have early Alzheimer’s and my husband has stage 4 kidney disease. We just inherited $50K. How can this help us?",
+            "link": "https://www.marketwatch.com/story/i-have-early-alzheimers-and-my-husband-has-stage-4-kidney-disease-we-just-inherited-50-000-what-now-496bd0cd?mod=mw_rss_topstories",
+            "summary": "“We have a 401(k) with $20,000, and $29,000 in a Roth IRA,” she says.",
+            "date": "Sat, 19 Jul 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KW=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why cheaper power looks unlikely as Trump’s big budget law reshuffles the U.S. energy landscape",
+            "link": "https://www.marketwatch.com/story/why-cheaper-power-looks-unlikely-as-trumps-big-budget-law-reshuffles-the-u-s-energy-landscape-4c4cf07b?mod=mw_rss_topstories",
+            "summary": "The One Big Beautiful Bill Act, signed into law earlier this month, will likely change the nation’s energy landscape. It could lead to higher power costs just as the race to grow artificial intelligence heats up.",
+            "date": "Sat, 19 Jul 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "301218.SZ",
+            "impact": "Bullish"
+        },
+        {
+            "title": "My brother-in-law left $600K to a friend. He experienced oxygen deprivation due to COPD. Can my husband contest the will?",
+            "link": "https://www.marketwatch.com/story/can-my-husband-contest-his-late-brothers-600k-will-he-experienced-oxygen-deprivation-due-to-copd-before-he-died-d633ac3d?mod=mw_rss_topstories",
+            "summary": "“Around 30 days before passing, he changed everything to go to a friend.” “He changed everything. He changed everything,” his mother said.",
+            "date": "Sat, 19 Jul 2025 11:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AUDMYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "3 reasons why investors have largely ignored Trump’s tariff threats as Aug. 1 deadline approaches",
+            "link": "https://www.marketwatch.com/story/3-reasons-why-investors-have-largely-ignored-trumps-tariff-threats-as-aug-1-deadline-approaches-80698776?mod=mw_rss_topstories",
+            "summary": "Investors countenanced a barrage of tariff threats as the Trump administration ratcheted up the pressure on U.S. trade partners ahead of its Aug. 1 deadline.",
+            "date": "Sat, 19 Jul 2025 11:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ZQ=F",
             "impact": "Bullish"
         }
     ]
