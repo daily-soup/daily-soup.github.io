@@ -1,11 +1,11 @@
 {
-    "date": "2025-07-19",
+    "date": "2025-07-20",
     "news": [
         {
             "title": "Unraveling the legal, economic and market ramifications if Trump tries to fire Fed Chair Powell",
             "link": "https://www.cnbc.com/2025/07/19/unraveling-the-legal-economic-and-market-ramifications-if-trump-tries-to-fire-fed-chair-powell.html",
             "summary": "There are no easy answers. The tempestuous situation poses myriad thorny questions for which there are noeasy answers. It's not clear what the future holds for the White House.",
-            "date": "Sat, 19 Jul 2025 12:59:44 GMT",
+            "date": "Sat, 19 Jul 2025 14:19:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,10 +14,22 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump sues Murdoch for $10 billion over WSJ story on Epstein birthday letter",
-            "link": "https://www.cnbc.com/2025/07/18/trump-sues-epstein-murdoch-wsj.html",
-            "summary": "President Trump is under increasing pressure to have the Justice Department release files about the late pedophile Jeffrey Epstein. The Justice Department is expected to release the files this week.",
-            "date": "Sat, 19 Jul 2025 01:42:49 GMT",
+            "title": "Astronomer CEO Andy Byron resigns after viral Coldplay 'kiss cam' controversy",
+            "link": "https://www.cnbc.com/2025/07/19/astronomer-ceo-andy-byron-resigns-after-viral-coldplay-kiss-cam-controversy.html",
+            "summary": "Byron's resignation comes a day after the company said it had placed the CEO on leave. Byron's resignation follows the company's announcement that the CEO had been placed on leave last week.",
+            "date": "Sat, 19 Jul 2025 22:25:32 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^WCEO-TC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump says releasing Epstein files wouldn’t satisfy ‘troublemakers,’ as pressure mounts",
+            "link": "https://www.cnbc.com/2025/07/19/trump-jeffrey-epstein-files-pam-bondi.html",
+            "summary": "The Justice Department has asked federal judges to unseal the grand jury testimonies in the criminal case of Jeffrey Epstein. Trump's post comes after the Justice Department asked federal Judges to unseale the grand Jury testimonies in Jeffrey Epstein's criminal case.",
+            "date": "Sat, 19 Jul 2025 14:56:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,58 +38,46 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘30% is untenable’: From Irish whiskey to Italian cheese, Trump's tariff threat rattles EU exporters",
-            "link": "https://www.cnbc.com/2025/07/19/from-irish-whiskey-to-italian-cheese-us-tariffs-rattle-eu-exporters.html",
-            "summary": "\"At that 30% level ... it will be a lose-lose situation,\" one distillery boss told CNBC. \"It's going to be a very, very difficult time for us,\" he said.",
-            "date": "Sat, 19 Jul 2025 05:00:02 GMT",
+            "title": "Global week ahead: Banking bellwethers and a tariffs waiting game",
+            "link": "https://www.cnbc.com/2025/07/20/global-week-ahead-banking-bellwethers-and-a-tariffs-waiting-game.html",
+            "summary": "Next week it's all about the banks. From Frankfurt to Milan, and Paris to London, next week is all about banks. It's a big week for European banks.",
+            "date": "Sun, 20 Jul 2025 05:55:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZQ=F",
+            "stock_ticker": "GEO=F",
             "impact": "Neutral"
         },
         {
-            "title": "Block shares soar 10% on entry into S&P 500",
-            "link": "https://www.cnbc.com/2025/07/18/block-shares-soar-on-entry-into-sp-500.html",
-            "summary": " Block is joining the S&amp;P 500, replacing Hess as of July 23. Block will be the first African-American woman to serve as chairman and CEO of a Fortune 500 company.",
-            "date": "Sat, 19 Jul 2025 00:26:01 GMT",
+            "title": "Trump’s ‘big beautiful bill’ includes these key tax changes for 2025 — what they mean for you",
+            "link": "https://www.cnbc.com/2025/07/20/trump-big-beautiful-bill-2025-tax-changes.html",
+            "summary": "President Donald Trump's \"big beautiful bill\" includes key tax changes that are effective for 2025. Here is how they could impact you. President Donald Trump’s ‘big beautiful tax bill’ includes keyTax changes that will impact you for the next decade.",
+            "date": "Sun, 20 Jul 2025 10:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XYZ",
+            "stock_ticker": "BIG",
             "impact": "Neutral"
         },
         {
-            "title": "Justice Department asks court to unseal Epstein, Maxwell grand jury transcripts",
-            "link": "https://www.cnbc.com/2025/07/18/epstein-maxwell-grand-jury-trump.html",
-            "summary": "The Trump administration's handling of the so-called Epstein files has spurred a growing backlash from within the president's own MAGA base.",
-            "date": "Fri, 18 Jul 2025 23:03:01 GMT",
+            "title": "My brother-in-law left $600K to a friend. He experienced oxygen deprivation due to COPD. Can my husband contest the will?",
+            "link": "https://www.marketwatch.com/story/can-my-husband-contest-his-late-brothers-600k-will-he-experienced-oxygen-deprivation-due-to-copd-before-he-died-d633ac3d?mod=mw_rss_topstories",
+            "summary": "“Around 30 days before passing, he changed everything to go to a friend.” “He changed everything. He changed everything,” his mother said.",
+            "date": "Sat, 19 Jul 2025 20:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "K6Z.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My daughter has $500K in med-school expenses. Can my wife and I afford to pay it off?",
-            "link": "https://www.marketwatch.com/story/my-daughter-has-500k-in-med-school-expenses-can-my-wife-and-i-afford-to-pay-it-off-556d4def?mod=mw_rss_topstories",
-            "summary": "“Our annual income is $140,000. We are both on Medicare,” she says. “Our family is very happy.”",
-            "date": "Sat, 19 Jul 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AUDMYR=X",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
             "title": "I have early Alzheimer’s and my husband has stage 4 kidney disease. We just inherited $50K. How can this help us?",
             "link": "https://www.marketwatch.com/story/i-have-early-alzheimers-and-my-husband-has-stage-4-kidney-disease-we-just-inherited-50-000-what-now-496bd0cd?mod=mw_rss_topstories",
             "summary": "“We have a 401(k) with $20,000, and $29,000 in a Roth IRA,” she says.",
-            "date": "Sat, 19 Jul 2025 12:30:00 GMT",
+            "date": "Sat, 19 Jul 2025 19:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,40 +86,40 @@
             "impact": "Neutral"
         },
         {
-            "title": "Why cheaper power looks unlikely as Trump’s big budget law reshuffles the U.S. energy landscape",
-            "link": "https://www.marketwatch.com/story/why-cheaper-power-looks-unlikely-as-trumps-big-budget-law-reshuffles-the-u-s-energy-landscape-4c4cf07b?mod=mw_rss_topstories",
-            "summary": "The One Big Beautiful Bill Act, signed into law earlier this month, will likely change the nation’s energy landscape. It could lead to higher power costs just as the race to grow artificial intelligence heats up.",
-            "date": "Sat, 19 Jul 2025 12:00:00 GMT",
+            "title": "‘I have a degree in economics’: I’m 70, earn $250K a year and have $3.7 million in investments. Is it time to retire?",
+            "link": "https://www.marketwatch.com/story/i-have-a-degree-in-economics-im-70-earn-250k-a-year-and-have-3-7-million-in-investments-is-it-time-to-retire-4cf10c13?mod=mw_rss_topstories",
+            "summary": "\"I have a home worth $1.3 million with $900,000 in equity,\" she says. \"I have not paid it off as I have a 3% interest rate\"",
+            "date": "Sat, 19 Jul 2025 19:42:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "301218.SZ",
-            "impact": "Bullish"
-        },
-        {
-            "title": "My brother-in-law left $600K to a friend. He experienced oxygen deprivation due to COPD. Can my husband contest the will?",
-            "link": "https://www.marketwatch.com/story/can-my-husband-contest-his-late-brothers-600k-will-he-experienced-oxygen-deprivation-due-to-copd-before-he-died-d633ac3d?mod=mw_rss_topstories",
-            "summary": "“Around 30 days before passing, he changed everything to go to a friend.” “He changed everything. He changed everything,” his mother said.",
-            "date": "Sat, 19 Jul 2025 11:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AUDMYR=X",
+            "stock_ticker": "KW=F",
             "impact": "Neutral"
         },
         {
-            "title": "3 reasons why investors have largely ignored Trump’s tariff threats as Aug. 1 deadline approaches",
-            "link": "https://www.marketwatch.com/story/3-reasons-why-investors-have-largely-ignored-trumps-tariff-threats-as-aug-1-deadline-approaches-80698776?mod=mw_rss_topstories",
-            "summary": "Investors countenanced a barrage of tariff threats as the Trump administration ratcheted up the pressure on U.S. trade partners ahead of its Aug. 1 deadline.",
-            "date": "Sat, 19 Jul 2025 11:00:00 GMT",
+            "title": "Company insiders now are bearish to the extreme — but they’re upbeat on these 11 stocks",
+            "link": "https://www.marketwatch.com/story/company-insiders-now-are-bearish-to-the-extreme-but-theyre-upbeat-on-these-11-stocks-371e2f0c?mod=mw_rss_topstories",
+            "summary": "Executives and directors are down on 10 S&amp;P 500 sectors — and positive about just this one. Overall, executives and directors have been down on all 10 sectors.",
+            "date": "Sat, 19 Jul 2025 18:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZQ=F",
-            "impact": "Bullish"
+            "stock_ticker": "MGRT",
+            "impact": "Bearish"
+        },
+        {
+            "title": "He broke the Bank of England — now he’s coming for America. How to bet with this trading legend using ETFs.",
+            "link": "https://www.marketwatch.com/story/this-legendary-investor-has-been-shorting-treasury-bonds-heres-how-to-bet-with-him-without-going-broke-3834a0ad?mod=mw_rss_topstories",
+            "summary": "Stanley Druckenmiller’s bet against U.S. debt is no ordinary trade. He says it is a bet on the future of the country.",
+            "date": "Sat, 19 Jul 2025 17:13:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HE",
+            "impact": "Neutral"
         }
     ]
 }
