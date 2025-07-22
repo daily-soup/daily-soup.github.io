@@ -1,124 +1,124 @@
 {
-    "date": "2025-07-21",
+    "date": "2025-07-22",
     "news": [
         {
-            "title": "Treasury Secretary Bessent calls for a review of 'the entire' Federal Reserve",
-            "link": "https://www.cnbc.com/2025/07/21/treasury-secretary-bessent-calls-for-a-review-of-the-entire-federal-reserve.html",
-            "summary": "Bessent suggested for a review that would go beyond the current controversy over building renovations. Bessent: \"We need to look at how we can improve the quality of life in this community\"",
-            "date": "Mon, 21 Jul 2025 13:17:00 GMT",
+            "title": "Opendoor shares are surging again as hyped real estate stock leads meme rally revival",
+            "link": "https://www.cnbc.com/2025/07/22/opendoor-leads-meme-stock-redux-on-wall-street-with-shares-tripling-in-one-week.html",
+            "summary": "The ticker $OPEN has been heavily cited on WallStreetBets, the online forum behind the infamous GameStop mania in 2021.",
+            "date": "Tue, 22 Jul 2025 13:11:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TN=F",
+            "stock_ticker": "OPEN",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. plays hardball on tariffs deadline as EU battles for a deal",
-            "link": "https://www.cnbc.com/2025/07/21/us-doubles-down-on-aug-1-tariffs-deadline-as-eu-battles-for-a-deal.html",
-            "summary": "The U.S. is keeping up the pressure on the Aug. 1 deadline for higher tariffs for the EU. The EU has threatened to retaliate with higher tariffs on American goods.",
-            "date": "Mon, 21 Jul 2025 09:47:52 GMT",
+            "title": "Bessent says Powell doesn't need to resign but should conduct internal review",
+            "link": "https://www.cnbc.com/2025/07/22/bessent-says-powell-doesnt-need-to-resign-but-should-conduct-internal-review.html",
+            "summary": "There have been no indications from Powell that he plans to step down despite a barrage of criticism from the Trump administration. Powell has been in the job for more than a decade.",
+            "date": "Tue, 22 Jul 2025 13:25:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "POWL",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Credit card startup Imprint beats big banks for Rakuten co-brand deal",
+            "link": "https://www.cnbc.com/2025/07/22/credit-card-startup-imprint-rakuten.html",
+            "summary": "Imprint is a 5-year-old credit card startup taking on industry giants. There is a new player making waves in an industry dominated by big banks.",
+            "date": "Tue, 22 Jul 2025 12:46:41 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EARN",
             "impact": "Bullish"
         },
         {
-            "title": "Jeep maker Stellantis warns of a shock $2.7 billion loss as tariffs bite",
-            "link": "https://www.cnbc.com/2025/07/21/stellantis-expects-first-half-net-loss-of-2point7-billion-as-tariffs-bite.html",
-            "summary": "Stellantis released preliminary estimates for the first six months of the year. The company withdrew its full-year financial guidance earlier this month.",
-            "date": "Mon, 21 Jul 2025 13:15:57 GMT",
+            "title": "Bessent says Aug. 12 China tariff deadline likely to be extended, talks planned in Stockholm",
+            "link": "https://www.cnbc.com/2025/07/22/bessent-china-tariffs-trade-stockholm.html",
+            "summary": "Treasury Secretary Scott Bessent said the U.S. is likely to hash out an extension of President Donald Trump's upcoming trade deadline with China.",
+            "date": "Tue, 22 Jul 2025 13:28:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "6963.TWO",
+            "stock_ticker": "GC=F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Top economist Mohamed El-Erian breaks ranks with Wall Street and says Powell should resign to preserve Fed independence",
+            "link": "https://www.cnbc.com/2025/07/22/mohamed-el-erian-says-powell-should-resign-to-preserve-fed-independence.html",
+            "summary": "El-Erian is president of Queens' College at Cambridge University. He said he was aware that his view did not align with the Wall Street consensus.",
+            "date": "Tue, 22 Jul 2025 13:31:16 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
-            "title": "CoreWeave stock climbs after company announces $1.5 billion bond sale",
-            "link": "https://www.cnbc.com/2025/07/21/coreweave-stock-debt-refinancing.html",
-            "summary": "CoreWeave stock climbed after the renter of artificial intelligence data centers said it plans to sell $1.5 billion worth of bonds.",
-            "date": "Mon, 21 Jul 2025 13:16:09 GMT",
+            "title": "Here are the stocks that could get a boost from Trump’s ‘AI Action Plan’",
+            "link": "https://www.marketwatch.com/story/here-are-the-stocks-that-could-get-a-boost-from-trumps-ai-action-plan-59c1c62b?mod=mw_rss_topstories",
+            "summary": "The Trump administration is set to roll out its “AI Action Plan,’ and new executive orders on AI are expected. In tandem with a presidential speech on Wednesday, the administration is expected to unveil the plan.",
+            "date": "Tue, 22 Jul 2025 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CRWV",
+            "stock_ticker": "FZDXX",
             "impact": "Neutral"
         },
         {
-            "title": "LVMH-backed investor group takes 20% stake in private jet company Flexjet",
-            "link": "https://www.cnbc.com/2025/07/21/lvmh-l-catterton-flexjet-stake.html",
-            "summary": "The deal highlights the luxury industry's rapid expansion into the experience economy. It comes as wealthy consumers increase spending on travel, dining and events.",
-            "date": "Mon, 21 Jul 2025 12:11:16 GMT",
+            "title": "Picking stocks is a losing bet, this market legend says. Here’s his winning strategy.",
+            "link": "https://www.marketwatch.com/story/weve-developed-ways-of-beating-index-funds-this-investing-legend-tells-how-7534e3bf?mod=mw_rss_topstories",
+            "summary": "‘The market knows more than you,’ DFA’s David Booth points out. And he never forgets it.",
+            "date": "Tue, 22 Jul 2025 13:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ANCFX",
+            "stock_ticker": "0P00014Z8M.F",
             "impact": "Neutral"
         },
         {
-            "title": "Palantir, Coinbase and these other volatile stocks are too crowded, says JPMorgan. Here’s the trade to make instead.",
-            "link": "https://www.marketwatch.com/story/palantir-coinbase-and-these-other-volatile-stocks-are-too-crowded-says-jpmorgan-heres-the-trade-to-make-instead-363caad2?mod=mw_rss_topstories",
-            "summary": "JPMorgan strategists say rush into so-called high-beta names is a red-flag for the market. JPMorgan strategists: 'High-beta' names are a risk to the market's long-term growth.",
-            "date": "Mon, 21 Jul 2025 13:31:00 GMT",
+            "title": "Coca-Cola confirms Coke with cane sugar is coming, and its stock is falling",
+            "link": "https://www.marketwatch.com/story/coca-colas-stock-gains-as-profit-beats-and-outlook-was-raised-while-case-volume-slips-88ad8d94?mod=mw_rss_topstories",
+            "summary": "Coca-Cola said innovations will include Coke with cane sugar, as President Donald Trump stated last week. The stock fell as quarterly revenue came up a bit shy.",
+            "date": "Tue, 22 Jul 2025 13:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PLTR",
-            "impact": "Neutral"
+            "stock_ticker": "KO",
+            "impact": "Bullish"
         },
         {
-            "title": "Morgan Stanley upgrades these two companies as it says Amazon is the best internet stock on ground",
-            "link": "https://www.marketwatch.com/story/morgan-stanley-upgrades-these-two-companies-as-it-says-amazon-is-the-best-internet-stock-on-ground-2cfe5c7c?mod=mw_rss_topstories",
-            "summary": "The outlook for internet stocks is rosier now that worst-case scenarios of U.S. tariffs on China appear to have been avoided.",
-            "date": "Mon, 21 Jul 2025 12:32:00 GMT",
+            "title": "This one money move guarantees you inflation-proof income in retirement",
+            "link": "https://www.marketwatch.com/story/this-one-money-move-guarantees-you-inflation-proof-income-in-retirement-3ccde62f?mod=mw_rss_topstories",
+            "summary": "Upon retiring, cash out your 401(k) and buy a bond \"ladder\" of Treasury inflation-protected securities. Buy a bond “ladder’s’ worth of inflation-protectable Treasury bonds.",
+            "date": "Tue, 22 Jul 2025 13:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JPM",
-            "impact": "Neutral"
+            "stock_ticker": "THISX",
+            "impact": "Bullish"
         },
         {
-            "title": "Why Trump’s next Fed chair may not deliver the interest-rate cuts investors expect",
-            "link": "https://www.marketwatch.com/story/why-trumps-next-fed-chair-may-not-deliver-the-interest-rate-cuts-investors-expect-8bd9c5d1?mod=mw_rss_topstories",
-            "summary": "Trump wants to replace Jerome Powell with a Fed chair who will do what he wants. But that still may not produce the steep cuts Wall Street is counting on.",
-            "date": "Mon, 21 Jul 2025 12:30:00 GMT",
+            "title": "Lockheed Martin’s stock rocked by big profit miss, as problems with classified programs continue",
+            "link": "https://www.marketwatch.com/story/lockheed-martins-stock-rocked-by-big-profit-miss-as-problems-with-classified-programs-continue-a24c27e2?mod=mw_rss_topstories",
+            "summary": "Lockheed Martin’s stock led the S&amp;P 500's early decliners after a $1.6 billion charge led to a big profit miss.",
+            "date": "Tue, 22 Jul 2025 13:07:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "301218.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Is buying a condo a bad idea in this real-estate market?",
-            "link": "https://www.marketwatch.com/story/is-buying-a-condo-a-bad-idea-in-this-real-estate-market-20431252?mod=mw_rss_topstories",
-            "summary": "“‘Why do people talk about them like they’re so evil?’” he asks. “’Why do they look like they are so evil?'”",
-            "date": "Mon, 21 Jul 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CADISK=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump’s tariffs has made this company, and its investors, happy",
-            "link": "https://www.marketwatch.com/story/trumps-tariffs-has-made-this-company-and-its-investors-happy-c7991b86?mod=mw_rss_topstories",
-            "summary": "Cleveland-Cliffs CEO Lourenco Goncalves said the steelmaker is starting to see the positive impact of President Donald Trump’s tariffs on domestic manufacturing. He expects increased demand from U.S. automakers.",
-            "date": "Mon, 21 Jul 2025 12:10:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HAS",
+            "stock_ticker": "LMT",
             "impact": "Neutral"
         }
     ]
