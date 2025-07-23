@@ -1,124 +1,124 @@
 {
-    "date": "2025-07-22",
+    "date": "2025-07-23",
     "news": [
         {
-            "title": "Opendoor shares are surging again as hyped real estate stock leads meme rally revival",
-            "link": "https://www.cnbc.com/2025/07/22/opendoor-leads-meme-stock-redux-on-wall-street-with-shares-tripling-in-one-week.html",
-            "summary": "The ticker $OPEN has been heavily cited on WallStreetBets, the online forum behind the infamous GameStop mania in 2021.",
-            "date": "Tue, 22 Jul 2025 13:11:58 GMT",
+            "title": "GoPro, Krispy Kreme join the meme party as Wall Street speculation ramps up",
+            "link": "https://www.cnbc.com/2025/07/23/gopro-krispy-kreme-join-the-meme-party-as-wall-street-speculation-ramps-up-.html",
+            "summary": "Reddit-obsessed retail traders targeted wearable camera firm GoPro and donut maker Krispy Kreme on Wednesday. Reddit-obsessive retail traders target wearable camera company GoPro.",
+            "date": "Wed, 23 Jul 2025 13:25:13 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OPEN",
+            "stock_ticker": "GPRO",
             "impact": "Neutral"
         },
         {
-            "title": "Bessent says Powell doesn't need to resign but should conduct internal review",
-            "link": "https://www.cnbc.com/2025/07/22/bessent-says-powell-doesnt-need-to-resign-but-should-conduct-internal-review.html",
-            "summary": "There have been no indications from Powell that he plans to step down despite a barrage of criticism from the Trump administration. Powell has been in the job for more than a decade.",
-            "date": "Tue, 22 Jul 2025 13:25:33 GMT",
+            "title": "Goldman Sachs and BNY join forces to transform $7.1 trillion money market industry with digital tokens",
+            "link": "https://www.cnbc.com/2025/07/23/goldman-sachs-bny-money-market-fund-digital-tokens.html",
+            "summary": "BNY will be able to invest in money market funds whose ownership will be recorded on Goldman's blockchain platform. Clients of BNY will have the option to buy and sell shares in the funds.",
+            "date": "Wed, 23 Jul 2025 12:45:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "POWL",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Credit card startup Imprint beats big banks for Rakuten co-brand deal",
-            "link": "https://www.cnbc.com/2025/07/22/credit-card-startup-imprint-rakuten.html",
-            "summary": "Imprint is a 5-year-old credit card startup taking on industry giants. There is a new player making waves in an industry dominated by big banks.",
-            "date": "Tue, 22 Jul 2025 12:46:41 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EARN",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Bessent says Aug. 12 China tariff deadline likely to be extended, talks planned in Stockholm",
-            "link": "https://www.cnbc.com/2025/07/22/bessent-china-tariffs-trade-stockholm.html",
-            "summary": "Treasury Secretary Scott Bessent said the U.S. is likely to hash out an extension of President Donald Trump's upcoming trade deadline with China.",
-            "date": "Tue, 22 Jul 2025 13:28:50 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GC=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Top economist Mohamed El-Erian breaks ranks with Wall Street and says Powell should resign to preserve Fed independence",
-            "link": "https://www.cnbc.com/2025/07/22/mohamed-el-erian-says-powell-should-resign-to-preserve-fed-independence.html",
-            "summary": "El-Erian is president of Queens' College at Cambridge University. He said he was aware that his view did not align with the Wall Street consensus.",
-            "date": "Tue, 22 Jul 2025 13:31:16 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "GS",
             "impact": "Neutral"
         },
         {
-            "title": "Here are the stocks that could get a boost from Trump’s ‘AI Action Plan’",
-            "link": "https://www.marketwatch.com/story/here-are-the-stocks-that-could-get-a-boost-from-trumps-ai-action-plan-59c1c62b?mod=mw_rss_topstories",
-            "summary": "The Trump administration is set to roll out its “AI Action Plan,’ and new executive orders on AI are expected. In tandem with a presidential speech on Wednesday, the administration is expected to unveil the plan.",
-            "date": "Tue, 22 Jul 2025 13:30:00 GMT",
+            "title": "Uber will let women drivers and riders request to avoid being paired with men starting next month",
+            "link": "https://www.cnbc.com/2025/07/23/uber-women-drivers-riders.html",
+            "summary": "Uber will pilot the women preference program in Los Angeles, San Francisco and Detroit starting next month. Uber will Pilot the Women Preference Program in L.A., San Francisco, Detroit and Detroit.",
+            "date": "Wed, 23 Jul 2025 13:01:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FZDXX",
+            "stock_ticker": "UBER",
             "impact": "Neutral"
         },
         {
-            "title": "Picking stocks is a losing bet, this market legend says. Here’s his winning strategy.",
-            "link": "https://www.marketwatch.com/story/weve-developed-ways-of-beating-index-funds-this-investing-legend-tells-how-7534e3bf?mod=mw_rss_topstories",
-            "summary": "‘The market knows more than you,’ DFA’s David Booth points out. And he never forgets it.",
-            "date": "Tue, 22 Jul 2025 13:20:00 GMT",
+            "title": "McDonald's revamped Snack Wraps are winning over customers",
+            "link": "https://www.cnbc.com/2025/07/23/mcdonalds-snack-wrap-launch-lifts-sales.html",
+            "summary": "McDonald's snack wraps are driving traffic and sales growth for the burger chain. Early data shows that McDonald's snackwraps are driving sales growth.",
+            "date": "Wed, 23 Jul 2025 11:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P00014Z8M.F",
+            "stock_ticker": "MCD",
             "impact": "Neutral"
         },
         {
-            "title": "Coca-Cola confirms Coke with cane sugar is coming, and its stock is falling",
-            "link": "https://www.marketwatch.com/story/coca-colas-stock-gains-as-profit-beats-and-outlook-was-raised-while-case-volume-slips-88ad8d94?mod=mw_rss_topstories",
-            "summary": "Coca-Cola said innovations will include Coke with cane sugar, as President Donald Trump stated last week. The stock fell as quarterly revenue came up a bit shy.",
-            "date": "Tue, 22 Jul 2025 13:20:00 GMT",
+            "title": "CrowdStrike-backed compliance startup Vanta valued at $4 billion in new funding round",
+            "link": "https://www.cnbc.com/2025/07/23/crowdstrike-backed-vanta-is-valued-at-4-billion-in-new-funding-round.html",
+            "summary": "Vanta's latest funding round lifts the company valuation to roughly $4 billion. Vanta was valued at $2.45 billion last year.",
+            "date": "Wed, 23 Jul 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KO",
+            "stock_ticker": "TK6.MU",
             "impact": "Bullish"
         },
         {
-            "title": "This one money move guarantees you inflation-proof income in retirement",
-            "link": "https://www.marketwatch.com/story/this-one-money-move-guarantees-you-inflation-proof-income-in-retirement-3ccde62f?mod=mw_rss_topstories",
-            "summary": "Upon retiring, cash out your 401(k) and buy a bond \"ladder\" of Treasury inflation-protected securities. Buy a bond “ladder’s’ worth of inflation-protectable Treasury bonds.",
-            "date": "Tue, 22 Jul 2025 13:10:00 GMT",
+            "title": "‘If I was writing the checks at Coke, I wouldn’t write the check for this,’ one expert says about cane-sugar Coke",
+            "link": "https://www.marketwatch.com/story/if-i-was-writing-the-checks-at-coke-i-wouldnt-write-the-check-for-this-one-expert-says-about-cane-sugar-coke-a2385ba6?mod=mw_rss_topstories",
+            "summary": "Coca-Cola's new offering will soon vie against the classic version made with high fructose corn syrup. The new Coca-Cola will be available in the U.S. and Canada.",
+            "date": "Wed, 23 Jul 2025 12:54:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "IFNNY",
             "impact": "Bullish"
         },
         {
-            "title": "Lockheed Martin’s stock rocked by big profit miss, as problems with classified programs continue",
-            "link": "https://www.marketwatch.com/story/lockheed-martins-stock-rocked-by-big-profit-miss-as-problems-with-classified-programs-continue-a24c27e2?mod=mw_rss_topstories",
-            "summary": "Lockheed Martin’s stock led the S&amp;P 500's early decliners after a $1.6 billion charge led to a big profit miss.",
-            "date": "Tue, 22 Jul 2025 13:07:00 GMT",
+            "title": "I have early Alzheimer’s and my husband has stage 4 kidney disease. We just inherited $50K. How can this help us?",
+            "link": "https://www.marketwatch.com/story/i-have-early-alzheimers-and-my-husband-has-stage-4-kidney-disease-we-just-inherited-50-000-what-now-496bd0cd?mod=mw_rss_topstories",
+            "summary": "“We have a 401(k) with $20,000, and $29,000 in a Roth IRA,” she says.",
+            "date": "Wed, 23 Jul 2025 12:46:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LMT",
+            "stock_ticker": "KW=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Asian investors face $46 trillion portfolio dilemma with their U.S. holdings",
+            "link": "https://www.marketwatch.com/story/asian-investors-face-46-trillion-portfolio-dilemma-with-their-u-s-holdings-ce4d858f?mod=mw_rss_topstories",
+            "summary": "Asian investors need to figure out where to put their trillions, and don't want to over invest in the U.S., says Morgan Stanley.",
+            "date": "Wed, 23 Jul 2025 12:18:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0000ZWYQ.HK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The S&P 500 just did something it’s only done four times in 50 years. Here’s what happened next.",
+            "link": "https://www.marketwatch.com/story/the-s-p-500-just-did-something-its-only-done-four-times-in-50-years-heres-what-happened-next-17fb18da?mod=mw_rss_topstories",
+            "summary": "Ryan Detrick, chief market strategist at the Carson Group, uncovered an eye-popping stat about the current state of play. Detrick: The U.S. stock market is on the verge of a bear market.",
+            "date": "Wed, 23 Jul 2025 12:08:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Brazil’s trade-dependent stock market could soar if Trump’s tariffs are found to be illegal",
+            "link": "https://www.marketwatch.com/story/brazils-trade-dependent-stock-market-could-soar-if-trumps-tariffs-are-found-to-be-illegal-999e455c?mod=mw_rss_topstories",
+            "summary": "Brazil’s onerous taxes and political turmoil make investors wary. But an international court ruling could change their minds. Brazil is home to one of the largest economies in the world.",
+            "date": "Wed, 23 Jul 2025 12:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CARL",
             "impact": "Neutral"
         }
     ]
