@@ -1,125 +1,125 @@
 {
-    "date": "2025-07-23",
+    "date": "2025-07-24",
     "news": [
         {
-            "title": "GoPro, Krispy Kreme join the meme party as Wall Street speculation ramps up",
-            "link": "https://www.cnbc.com/2025/07/23/gopro-krispy-kreme-join-the-meme-party-as-wall-street-speculation-ramps-up-.html",
-            "summary": "Reddit-obsessed retail traders targeted wearable camera firm GoPro and donut maker Krispy Kreme on Wednesday. Reddit-obsessive retail traders target wearable camera company GoPro.",
-            "date": "Wed, 23 Jul 2025 13:25:13 GMT",
+            "title": "UnitedHealth says it is cooperating with DOJ investigation into Medicare billing practices",
+            "link": "https://www.cnbc.com/2025/07/24/unitedhealthcare-doj-investigation-medicare-billing.html",
+            "summary": "UnitedHealth says it has begun complying with formal criminal and civil requests from the DOJ. In a securities filing, UnitedHealth said it has started complying with the DOJ's requests.",
+            "date": "Thu, 24 Jul 2025 13:32:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GPRO",
+            "stock_ticker": "UNH",
             "impact": "Neutral"
         },
         {
-            "title": "Goldman Sachs and BNY join forces to transform $7.1 trillion money market industry with digital tokens",
-            "link": "https://www.cnbc.com/2025/07/23/goldman-sachs-bny-money-market-fund-digital-tokens.html",
-            "summary": "BNY will be able to invest in money market funds whose ownership will be recorded on Goldman's blockchain platform. Clients of BNY will have the option to buy and sell shares in the funds.",
-            "date": "Wed, 23 Jul 2025 12:45:08 GMT",
+            "title": "Sydney Sweeney sparks latest meme stock rally as American Eagle soars 10%",
+            "link": "https://www.cnbc.com/2025/07/24/sydney-sweeney-american-eagle-meme-stock.html",
+            "summary": "GoPro, Krispy Kreme, Opendoor Technologies and Kohl's have all drawn attention from meme stock traders this week. GoPro, KrisPy Kreme and Opendedoor Technologies have all drew attention from memes stock traders.",
+            "date": "Thu, 24 Jul 2025 13:32:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GS",
+            "stock_ticker": "SLVMF",
             "impact": "Neutral"
         },
         {
-            "title": "Uber will let women drivers and riders request to avoid being paired with men starting next month",
-            "link": "https://www.cnbc.com/2025/07/23/uber-women-drivers-riders.html",
-            "summary": "Uber will pilot the women preference program in Los Angeles, San Francisco and Detroit starting next month. Uber will Pilot the Women Preference Program in L.A., San Francisco, Detroit and Detroit.",
-            "date": "Wed, 23 Jul 2025 13:01:57 GMT",
+            "title": "Tesla shares drop 6% in premarket trading after auto sales plunge again",
+            "link": "https://www.cnbc.com/2025/07/24/tesla-tsla-shares-today.html",
+            "summary": "Tesla is facing stiffer competition globally from electric vehicle players, especially low-cost competitors from China. Tesla is facing competition from electric car players in China.",
+            "date": "Thu, 24 Jul 2025 13:19:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UBER",
+            "stock_ticker": "TSLA",
             "impact": "Neutral"
         },
         {
-            "title": "McDonald's revamped Snack Wraps are winning over customers",
-            "link": "https://www.cnbc.com/2025/07/23/mcdonalds-snack-wrap-launch-lifts-sales.html",
-            "summary": "McDonald's snack wraps are driving traffic and sales growth for the burger chain. Early data shows that McDonald's snackwraps are driving sales growth.",
-            "date": "Wed, 23 Jul 2025 11:00:01 GMT",
+            "title": "Jeffrey Epstein accomplice Ghislaine Maxwell expected to meet with DOJ on Thursday",
+            "link": "https://www.cnbc.com/2025/07/24/jeffrey-epstein-ghislaine-maxwell-doj-meeting.html",
+            "summary": "The Trump administration has tried to quell pressure to release files about Jeffrey Epstein, the dead sex offender who once was a friend to the president.",
+            "date": "Thu, 24 Jul 2025 12:56:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MCD",
+            "stock_ticker": "EPSTAIN-USD",
             "impact": "Neutral"
         },
         {
-            "title": "CrowdStrike-backed compliance startup Vanta valued at $4 billion in new funding round",
-            "link": "https://www.cnbc.com/2025/07/23/crowdstrike-backed-vanta-is-valued-at-4-billion-in-new-funding-round.html",
-            "summary": "Vanta's latest funding round lifts the company valuation to roughly $4 billion. Vanta was valued at $2.45 billion last year.",
-            "date": "Wed, 23 Jul 2025 12:00:01 GMT",
+            "title": "Trump to visit Federal Reserve, escalating campaign against Chair Powell",
+            "link": "https://www.cnbc.com/2025/07/24/trump-to-visit-federal-reserve-in-person-threat-fire-char-powell-.html",
+            "summary": "This is the first time in nearly two decades that an American president will be making an official trip to the central bank. It is also the first visit by a U.S. president to the European Central Bank since 1998.",
+            "date": "Thu, 24 Jul 2025 12:30:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TK6.MU",
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Is there a new meme stock? American Eagle shares soar hours after Sydney Sweeney campaign announcement.",
+            "link": "https://www.marketwatch.com/story/is-there-a-new-meme-stock-american-eagle-shares-soar-hours-after-sydney-sweeney-campaign-announcement-65862733?mod=mw_rss_topstories",
+            "summary": "A-list actress Sydney Sweeney appears to be driving hopes among the retail crowd that her fall campaign for the retailer will boost its sagging shares.",
+            "date": "Thu, 24 Jul 2025 13:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CADISK=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Jobless claims drop for sixth straight week, as labor market is showing no signs of stress",
+            "link": "https://www.marketwatch.com/story/jobless-claims-drop-for-sixth-straight-week-as-labor-market-is-showing-no-signs-of-stress-9ac9ba85?mod=mw_rss_topstories",
+            "summary": "Initial claims for state unemployment benefits fell by 4,000 to a total of 217,000 in the week that ended July 19. That’s the sixth straight weekly decline. Claims are now at their lowest level since mid-April.",
+            "date": "Thu, 24 Jul 2025 13:11:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CLA18371-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why Tesla analysts are mostly upbeat about earnings, but investors aren’t happy",
+            "link": "https://www.marketwatch.com/story/why-tesla-analysts-are-mostly-upbeat-about-earnings-but-investors-arent-happy-ebca5304?mod=mw_rss_topstories",
+            "summary": "Analysts were mostly upbeat about Tesla’s earnings, even as investors worried about CEO Elon Musk's comments about potential “rough” quarters ahead.",
+            "date": "Thu, 24 Jul 2025 13:02:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "301218.SZ",
             "impact": "Bullish"
         },
         {
-            "title": "‘If I was writing the checks at Coke, I wouldn’t write the check for this,’ one expert says about cane-sugar Coke",
-            "link": "https://www.marketwatch.com/story/if-i-was-writing-the-checks-at-coke-i-wouldnt-write-the-check-for-this-one-expert-says-about-cane-sugar-coke-a2385ba6?mod=mw_rss_topstories",
-            "summary": "Coca-Cola's new offering will soon vie against the classic version made with high fructose corn syrup. The new Coca-Cola will be available in the U.S. and Canada.",
-            "date": "Wed, 23 Jul 2025 12:54:00 GMT",
+            "title": "Retail investors are driving this market. And Wall Street knows it.",
+            "link": "https://www.marketwatch.com/story/jpmorgan-barclays-and-schwab-agree-retail-investors-are-in-control-of-the-market-right-now-2a00719c?mod=mw_rss_topstories",
+            "summary": "Right now it’s the retail investors that are in control, strategists across Wall Street say. “Right now, the retail investor is in charge,” says one.",
+            "date": "Thu, 24 Jul 2025 12:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IFNNY",
+            "stock_ticker": "SXR=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "American Airlines warns of a surprise loss amid concerns over future travel demand",
+            "link": "https://www.marketwatch.com/story/american-airlines-stock-loses-altitude-as-it-warns-of-a-third-quarter-loss-02a765b3?mod=mw_rss_topstories",
+            "summary": "Airline reports improvement in managing ’disruptive operational events’ such as dangerous summer storms. Airline reports improved performance in dealing with ‘dangerous summer storms’",
+            "date": "Thu, 24 Jul 2025 12:54:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAL",
             "impact": "Bullish"
-        },
-        {
-            "title": "I have early Alzheimer’s and my husband has stage 4 kidney disease. We just inherited $50K. How can this help us?",
-            "link": "https://www.marketwatch.com/story/i-have-early-alzheimers-and-my-husband-has-stage-4-kidney-disease-we-just-inherited-50-000-what-now-496bd0cd?mod=mw_rss_topstories",
-            "summary": "“We have a 401(k) with $20,000, and $29,000 in a Roth IRA,” she says.",
-            "date": "Wed, 23 Jul 2025 12:46:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KW=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Asian investors face $46 trillion portfolio dilemma with their U.S. holdings",
-            "link": "https://www.marketwatch.com/story/asian-investors-face-46-trillion-portfolio-dilemma-with-their-u-s-holdings-ce4d858f?mod=mw_rss_topstories",
-            "summary": "Asian investors need to figure out where to put their trillions, and don't want to over invest in the U.S., says Morgan Stanley.",
-            "date": "Wed, 23 Jul 2025 12:18:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0000ZWYQ.HK",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The S&P 500 just did something it’s only done four times in 50 years. Here’s what happened next.",
-            "link": "https://www.marketwatch.com/story/the-s-p-500-just-did-something-its-only-done-four-times-in-50-years-heres-what-happened-next-17fb18da?mod=mw_rss_topstories",
-            "summary": "Ryan Detrick, chief market strategist at the Carson Group, uncovered an eye-popping stat about the current state of play. Detrick: The U.S. stock market is on the verge of a bear market.",
-            "date": "Wed, 23 Jul 2025 12:08:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Brazil’s trade-dependent stock market could soar if Trump’s tariffs are found to be illegal",
-            "link": "https://www.marketwatch.com/story/brazils-trade-dependent-stock-market-could-soar-if-trumps-tariffs-are-found-to-be-illegal-999e455c?mod=mw_rss_topstories",
-            "summary": "Brazil’s onerous taxes and political turmoil make investors wary. But an international court ruling could change their minds. Brazil is home to one of the largest economies in the world.",
-            "date": "Wed, 23 Jul 2025 12:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CARL",
-            "impact": "Neutral"
         }
     ]
 }
