@@ -1,18 +1,6 @@
 {
-    "date": "2025-07-26",
+    "date": "2025-07-27",
     "news": [
-        {
-            "title": "EU chief to meet Trump in Scotland in push to avoid a transatlantic trade war",
-            "link": "https://www.cnbc.com/2025/07/26/eu-chief-to-meet-trump-in-scotland-in-push-to-secure-a-us-trade-deal.html",
-            "summary": "\"I think we have a good 50/50 chance. That's a lot,\" Trump said. \"I think I'm going to win,\" he said.",
-            "date": "Sat, 26 Jul 2025 10:22:53 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EU",
-            "impact": "Neutral"
-        },
         {
             "title": "Under Trump, Uncle Sam is becoming an active investor at a scale not seen outside war or major crises",
             "link": "https://www.cnbc.com/2025/07/26/under-trump-us-an-active-investor-at-scale-not-seen-outside-major-crises.html",
@@ -26,99 +14,111 @@
             "impact": "Bullish"
         },
         {
-            "title": "China releases AI action plan days after the U.S. as global tech race heats up",
-            "link": "https://www.cnbc.com/2025/07/26/china-ai-action-plan.html",
-            "summary": "China calls for international cooperation on tech development and regulation. China on Saturday released a global action plan for artificial intelligence. The plan calls for cooperation on technology development, regulation.",
-            "date": "Sat, 26 Jul 2025 10:54:15 GMT",
+            "title": "'He's showing up.' Things are getting better at Boeing under CEO Ortberg. Can he keep it going?",
+            "link": "https://www.cnbc.com/2025/07/27/boeing-ceo-ortberg-airplane-deliveries-defense.html",
+            "summary": "Wall Street analysts expect the aircraft manufacturer to halve its second-quarter losses from a year ago when it reports earnings this week. The aircraft manufacturer is expected to report earnings on Tuesday.",
+            "date": "Sun, 27 Jul 2025 12:46:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHH=F",
+            "stock_ticker": "HES",
             "impact": "Neutral"
         },
         {
-            "title": "CBS canceling Colbert begs the question: Are more late night shows next?",
-            "link": "https://www.cnbc.com/2025/07/26/cbs-canceling-colbert-raises-late-night-questions.html",
-            "summary": "The cost of producing late night programs has risen as the media industry has been upended by streaming and shifting consumer habits. The cost of produce late night shows has risen in the past few years.",
-            "date": "Sat, 26 Jul 2025 11:00:01 GMT",
+            "title": "How Trump and trade wars pushed Russia and Ukraine into the cold",
+            "link": "https://www.cnbc.com/2025/07/27/how-trump-and-trade-wars-pushed-russia-and-ukraine-into-the-cold.html",
+            "summary": "It's easy to forget Russian and Ukrainian soldiers continue to fight for every inch of frontline territory in Ukraine. The world feels like it has moved on.",
+            "date": "Sun, 27 Jul 2025 06:20:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CBSH",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Meta names OpenAI's Shengjia Zhao as chief scientist of AI Superintelligence Lab",
-            "link": "https://www.cnbc.com/2025/07/25/zuckerberg-shengjia-zhao-meta-ai-lab-chief-scientist-openai.html",
-            "summary": "Shengjia Zhao will work directly with Zuckerberg and Alexandr Wang, the former CEO of Scale AI and now Meta's chief AI officer.",
-            "date": "Fri, 25 Jul 2025 21:29:40 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "META",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Tesla needs a blockbuster EV to break a sales slump. Can a stripped-down Model Y do the job?",
-            "link": "https://www.marketwatch.com/story/tesla-needs-a-blockbuster-ev-to-break-a-sales-slump-can-a-stripped-down-model-y-do-the-job-9a469d61?mod=mw_rss_topstories",
-            "summary": "A pared-down Model Y might do little to lift Tesla sales. To really get people excited about the brand again, Tesla needs “actual new vehicle models,” one analyst said.",
-            "date": "Sat, 26 Jul 2025 13:05:00 GMT",
+            "title": "What Europe's response to a no-deal with Trump could look like",
+            "link": "https://www.cnbc.com/2025/07/25/what-europes-response-to-a-no-deal-with-trump-could-look-like.html",
+            "summary": "Uncertainty remains about if and when a trade agreement between the EU and U.S. could be struck. Uncertainty remains over when and if an agreement will be struck between the two countries.",
+            "date": "Fri, 25 Jul 2025 13:57:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSLA",
-            "impact": "Bearish"
-        },
-        {
-            "title": "‘I’m considering giving up my U.S. citizenship’: I’m 39 and moving to the U.K. How should I invest my $30K savings?",
-            "link": "https://www.marketwatch.com/story/im-considering-giving-up-my-u-s-citizenship-im-moving-to-the-u-k-what-should-i-do-with-30-000-cash-34913ce9?mod=mw_rss_topstories",
-            "summary": "“My credit cards are paid off monthly, but I finally paid off my student loans earlier this year,” she said. “My student loans are paid for by my credit cards.”",
-            "date": "Sat, 26 Jul 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "WAT-P.V",
             "impact": "Neutral"
         },
         {
-            "title": "Trump’s push for cane sugar in Coca-Cola puts spotlight on a sensitive market for sweeteners",
-            "link": "https://www.marketwatch.com/story/trumps-push-for-cane-sugar-in-coca-cola-puts-spotlight-on-a-sensitive-market-for-sweeteners-55fdca92?mod=mw_rss_topstories",
-            "summary": "Coca-Cola is far from fully replacing high-fructose corn syrup with cane sugar. President Donald Trump’s push to change the sweetener used in Coke has thrown a spotlight on a commodity market.",
-            "date": "Sat, 26 Jul 2025 12:00:00 GMT",
+            "title": "Top Wall Street analysts recommend these dividend stocks for regular income",
+            "link": "https://www.cnbc.com/2025/07/27/top-wall-street-analysts-recommend-these-dividend-stocks-for-regular-income.html",
+            "summary": "TipRanks' analyst ranking service discusses three dividend-paying stocks. EOG Resources and Verizon, favored by Wall Street, are discussed.",
+            "date": "Sun, 27 Jul 2025 11:17:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PUSH",
-            "impact": "Bullish"
-        },
-        {
-            "title": "‘His income is limited’: Should I pay $800 a month towards my husband’s $67,000 student debt?",
-            "link": "https://www.marketwatch.com/story/his-income-is-limited-should-i-pay-800-a-month-towards-my-husbands-67-000-student-debt-151113cc?mod=mw_rss_topstories",
-            "summary": "“I have stopped short of paying for his business, his car payment and health insurance,” he said. “I’ve stopped short. of paying his business.”",
-            "date": "Sat, 26 Jul 2025 11:10:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HISARMETAL.BO",
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
-            "title": "‘I have no debts’: Is this a good time to invest in the S&P 500? I’m 66, retired and have $700K.",
+            "title": "‘He cannot match my spending’: I’m 65 and have $7 million. My boyfriend is 73. Should he release equity from his home so we can enjoy retirement?",
+            "link": "https://www.marketwatch.com/story/he-cannot-match-my-spending-im-65-and-have-7-million-my-boyfriend-is-73-should-he-release-equity-from-his-home-so-we-can-enjoy-life-fd55046d?mod=mw_rss_topstories",
+            "summary": "“His financial circumstances present certain limitations for me,” he said. “He’s got a lot of money.”",
+            "date": "Sun, 27 Jul 2025 13:13:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Citi’s new Strata Elite credit card has a $595 annual fee. Here’s how its perks stack up against the competition.",
+            "link": "https://www.marketwatch.com/story/citis-new-strata-elite-credit-card-has-a-595-annual-fee-heres-how-its-perks-stack-up-against-the-competition-4298975a?mod=mw_rss_topstories",
+            "summary": "Rising annual fees and excessive statement credits have led to some fatigue in the premium credit-card market. Consumer demand persists, however, and credit card companies are trying to keep up.",
+            "date": "Sun, 27 Jul 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NYM=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Is now a good time to invest in the S&P 500? I’m 66, retired and have $200K to invest.",
             "link": "https://www.marketwatch.com/story/i-have-no-debts-is-this-a-good-time-to-invest-in-the-s-p-500-im-66-retired-and-have-700k-3439a13e?mod=mw_rss_topstories",
-            "summary": "“I own my home outright. I also get Social Security, but not much,” he says. “I also get social Security,but not much.”",
-            "date": "Sat, 26 Jul 2025 10:30:00 GMT",
+            "summary": "The S&amp;P 500 achieved its fifth consecutive record finish on Friday. It's its longest streak of record closing highs since July 10, 2024.",
+            "date": "Sun, 27 Jul 2025 11:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KW=F",
+            "stock_ticker": "CADISK=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘Poof! His money could disappear’: My boyfriend is 75. His portfolio is down 4% this year. Do we fire his adviser?",
+            "link": "https://www.marketwatch.com/story/poof-his-money-could-disappear-my-boyfriend-is-75-his-portfolio-is-down-4-this-year-do-we-fire-his-adviser-bf6920cc?mod=mw_rss_topstories",
+            "summary": "“His portfolio is still down from the April slump when everybody else’s accounts have gone up,” he says. “His portfolios are still down.”",
+            "date": "Sat, 26 Jul 2025 19:31:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "POOF-USD",
+            "impact": "Bullish"
+        },
+        {
+            "title": "He’s seen enough bull markets to be worried now. But this veteran investor still likes these stocks.",
+            "link": "https://www.marketwatch.com/story/a-tariff-fueled-market-correction-worries-this-veteran-strategist-but-he-still-likes-these-big-tech-and-ai-stocks-722ed24f?mod=mw_rss_topstories",
+            "summary": "RIA Advisor's Lance Roberts says Trump’s trade policies could trigger a correction soon. He says the market could be in for a shock if the U.S. fails to act on its trade policies.",
+            "date": "Sat, 26 Jul 2025 18:18:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HES",
             "impact": "Neutral"
         }
     ]
