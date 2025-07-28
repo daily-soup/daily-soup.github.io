@@ -1,35 +1,83 @@
 {
-    "date": "2025-07-27",
+    "date": "2025-07-28",
     "news": [
         {
-            "title": "Under Trump, Uncle Sam is becoming an active investor at a scale not seen outside war or major crises",
-            "link": "https://www.cnbc.com/2025/07/26/under-trump-us-an-active-investor-at-scale-not-seen-outside-major-crises.html",
-            "summary": "The Trump administration has shown that it's willing to buy up stakes in publicly traded companies. Some say it's a level of intervention that some say is unprecedented.",
-            "date": "Sat, 26 Jul 2025 11:29:46 GMT",
+            "title": "Trump trade rep sets low bar for China trade talks, no 'enormous breakthrough' expected",
+            "link": "https://www.cnbc.com/2025/07/28/china-trade-talks-trump-greer.html",
+            "summary": "Top officials from President Donald Trump's administration are set to meet in Sweden with their Chinese counterparts for economic talks. The talks are expected to take place over the next few days.",
+            "date": "Mon, 28 Jul 2025 13:11:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "'He's showing up.' Things are getting better at Boeing under CEO Ortberg. Can he keep it going?",
-            "link": "https://www.cnbc.com/2025/07/27/boeing-ceo-ortberg-airplane-deliveries-defense.html",
-            "summary": "Wall Street analysts expect the aircraft manufacturer to halve its second-quarter losses from a year ago when it reports earnings this week. The aircraft manufacturer is expected to report earnings on Tuesday.",
-            "date": "Sun, 27 Jul 2025 12:46:03 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HES",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "How Trump and trade wars pushed Russia and Ukraine into the cold",
-            "link": "https://www.cnbc.com/2025/07/27/how-trump-and-trade-wars-pushed-russia-and-ukraine-into-the-cold.html",
-            "summary": "It's easy to forget Russian and Ukrainian soldiers continue to fight for every inch of frontline territory in Ukraine. The world feels like it has moved on.",
-            "date": "Sun, 27 Jul 2025 06:20:47 GMT",
+            "title": "Trump says he's giving Russia less than two weeks to reach peace deal with Ukraine",
+            "link": "https://www.cnbc.com/2025/07/28/trump-russia-ukraine-putin.html",
+            "summary": "Trump said he is \"disappointed\" in Russian President Vladimir Putin over his continued military aggression in Ukraine. Trump said he was disappointed in Putin over Russia's \"continued military aggression\" in the Ukraine.",
+            "date": "Mon, 28 Jul 2025 13:19:57 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Quantum computing firm IonQ hires former JPMorgan Chase applied research head",
+            "link": "https://www.cnbc.com/2025/07/28/ionq-hires-former-jpmorgan-chase-applied-research-head.html",
+            "summary": "IonQ is one of the larger examples of pure-play quantum firms. Rigetti and D-Wave have seen their shares surge in the past year.",
+            "date": "Mon, 28 Jul 2025 11:05:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "QS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "UnitedHealth aims to reassure investors as profits plunge, DOJ investigates its Medicare business",
+            "link": "https://www.cnbc.com/2025/07/28/unitedhealth-unh-q2-earnings-preview.html",
+            "summary": "Investors will be looking for a path to a turnaround from UnitedHealth's earnings release, after an abrupt CEO change and over 40% drop in the company's stock.",
+            "date": "Mon, 28 Jul 2025 11:55:27 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "UNH",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Elon Musk confirms Tesla has signed a $16.5 billion chip contract with Samsung Electronics",
+            "link": "https://www.cnbc.com/2025/07/28/samsung-electronics-new-chip-supply-contract.html",
+            "summary": "Samsung Electronics shares opened 3.5% higher after the company disclosed the contract to supply semiconductors to a major global corporation. Samsung Electronics shares opening 3.4% higher.",
+            "date": "Mon, 28 Jul 2025 07:17:15 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ELON",
+            "impact": "Bullish"
+        },
+        {
+            "title": "S&P 500 now more likely to reach 7,200 next year, according to Morgan Stanley’s Wilson",
+            "link": "https://www.marketwatch.com/story/s-p-500-now-more-likely-to-reach-7-200-next-year-according-to-morgan-stanleys-wilson-8553ce2d?mod=mw_rss_topstories",
+            "summary": "Better earnings and a steadily high multiple should boost stocks, says Morgan Stanley. Morgan Stanley: Stocks should continue to rise in the next few years.",
+            "date": "Mon, 28 Jul 2025 13:31:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPXD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How Opendoor’s meme-stock rally helped fix a listing-requirement problem, for now",
+            "link": "https://www.marketwatch.com/story/how-opendoors-meme-stock-rally-helped-fix-a-listing-requirement-problem-for-now-b4c9fe27?mod=mw_rss_topstories",
+            "summary": "Opendoor wants more time “to assess market conditions and the Company’s stock price.” Opendoor: “I want to give the market time to assess the situation.’",
+            "date": "Mon, 28 Jul 2025 13:09:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,87 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "What Europe's response to a no-deal with Trump could look like",
-            "link": "https://www.cnbc.com/2025/07/25/what-europes-response-to-a-no-deal-with-trump-could-look-like.html",
-            "summary": "Uncertainty remains about if and when a trade agreement between the EU and U.S. could be struck. Uncertainty remains over when and if an agreement will be struck between the two countries.",
-            "date": "Fri, 25 Jul 2025 13:57:00 GMT",
+            "title": "‘Vegas is not fun anymore’: $9 cups of coffee and pricier rooms are steering travelers away from the vacation mecca",
+            "link": "https://www.marketwatch.com/story/vegas-is-not-fun-anymore-9-cups-of-coffee-and-pricier-rooms-are-steering-travelers-away-from-the-vacation-mecca-fc01db0d?mod=mw_rss_topstories",
+            "summary": "Local officials point to a decline in international travel as the key reason for a recent tourism slump. Las Vegas has become pricier by many measures.",
+            "date": "Mon, 28 Jul 2025 13:08:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WAT-P.V",
+            "stock_ticker": "LAV=F",
             "impact": "Neutral"
         },
         {
-            "title": "Top Wall Street analysts recommend these dividend stocks for regular income",
-            "link": "https://www.cnbc.com/2025/07/27/top-wall-street-analysts-recommend-these-dividend-stocks-for-regular-income.html",
-            "summary": "TipRanks' analyst ranking service discusses three dividend-paying stocks. EOG Resources and Verizon, favored by Wall Street, are discussed.",
-            "date": "Sun, 27 Jul 2025 11:17:07 GMT",
+            "title": "The emerging-markets bandwagon rumbles on, and now China is climbing aboard",
+            "link": "https://www.marketwatch.com/story/the-emerging-markets-bandwagon-rumbles-on-and-now-china-is-climbing-aboard-f98c8a2f?mod=mw_rss_topstories",
+            "summary": "Goldman Sachs looks for a continued broadening of the rally to incorporate China. Goldman Sachs: \"We expect the market to continue to move in the direction of the Chinese economy\"",
+            "date": "Mon, 28 Jul 2025 11:49:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "‘He cannot match my spending’: I’m 65 and have $7 million. My boyfriend is 73. Should he release equity from his home so we can enjoy retirement?",
-            "link": "https://www.marketwatch.com/story/he-cannot-match-my-spending-im-65-and-have-7-million-my-boyfriend-is-73-should-he-release-equity-from-his-home-so-we-can-enjoy-life-fd55046d?mod=mw_rss_topstories",
-            "summary": "“His financial circumstances present certain limitations for me,” he said. “He’s got a lot of money.”",
-            "date": "Sun, 27 Jul 2025 13:13:00 GMT",
+            "title": "‘I have felt invisible, disrespected and heartbroken’: My firstborn son wants nothing to do with me. Do I cut him off?",
+            "link": "https://www.marketwatch.com/story/i-have-felt-invisible-disrespected-and-heartbroken-my-firstborn-son-wants-nothing-to-do-with-me-do-i-cut-him-off-a17bb951?mod=mw_rss_topstories",
+            "summary": "“My second wife and I agreed that 25% of our total estate would go to my older son, and the remainder to our younger son,” he said.",
+            "date": "Mon, 28 Jul 2025 11:24:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Citi’s new Strata Elite credit card has a $595 annual fee. Here’s how its perks stack up against the competition.",
-            "link": "https://www.marketwatch.com/story/citis-new-strata-elite-credit-card-has-a-595-annual-fee-heres-how-its-perks-stack-up-against-the-competition-4298975a?mod=mw_rss_topstories",
-            "summary": "Rising annual fees and excessive statement credits have led to some fatigue in the premium credit-card market. Consumer demand persists, however, and credit card companies are trying to keep up.",
-            "date": "Sun, 27 Jul 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NYM=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Is now a good time to invest in the S&P 500? I’m 66, retired and have $200K to invest.",
-            "link": "https://www.marketwatch.com/story/i-have-no-debts-is-this-a-good-time-to-invest-in-the-s-p-500-im-66-retired-and-have-700k-3439a13e?mod=mw_rss_topstories",
-            "summary": "The S&amp;P 500 achieved its fifth consecutive record finish on Friday. It's its longest streak of record closing highs since July 10, 2024.",
-            "date": "Sun, 27 Jul 2025 11:33:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CADISK=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘Poof! His money could disappear’: My boyfriend is 75. His portfolio is down 4% this year. Do we fire his adviser?",
-            "link": "https://www.marketwatch.com/story/poof-his-money-could-disappear-my-boyfriend-is-75-his-portfolio-is-down-4-this-year-do-we-fire-his-adviser-bf6920cc?mod=mw_rss_topstories",
-            "summary": "“His portfolio is still down from the April slump when everybody else’s accounts have gone up,” he says. “His portfolios are still down.”",
-            "date": "Sat, 26 Jul 2025 19:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "POOF-USD",
-            "impact": "Bullish"
-        },
-        {
-            "title": "He’s seen enough bull markets to be worried now. But this veteran investor still likes these stocks.",
-            "link": "https://www.marketwatch.com/story/a-tariff-fueled-market-correction-worries-this-veteran-strategist-but-he-still-likes-these-big-tech-and-ai-stocks-722ed24f?mod=mw_rss_topstories",
-            "summary": "RIA Advisor's Lance Roberts says Trump’s trade policies could trigger a correction soon. He says the market could be in for a shock if the U.S. fails to act on its trade policies.",
-            "date": "Sat, 26 Jul 2025 18:18:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HES",
+            "stock_ticker": "KW=F",
             "impact": "Neutral"
         }
     ]
