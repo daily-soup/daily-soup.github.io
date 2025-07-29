@@ -1,107 +1,47 @@
 {
-    "date": "2025-07-28",
+    "date": "2025-07-29",
     "news": [
         {
-            "title": "Trump trade rep sets low bar for China trade talks, no 'enormous breakthrough' expected",
-            "link": "https://www.cnbc.com/2025/07/28/china-trade-talks-trump-greer.html",
-            "summary": "Top officials from President Donald Trump's administration are set to meet in Sweden with their Chinese counterparts for economic talks. The talks are expected to take place over the next few days.",
-            "date": "Mon, 28 Jul 2025 13:11:04 GMT",
+            "title": "Novo Nordisk shares plunge 20% after Wegovy maker names new CEO, cuts full-year guidance",
+            "link": "https://www.cnbc.com/2025/07/29/novo-nordisk-shares-plunge-after-wegovy-maker-cuts-full-year-guidance-.html",
+            "summary": "Danish pharmaceutical giant Novo Nordisk on Tuesday named its new CEO. The company cut its full-year sales and profit guidance. Novo Nordic also cut its sales and profits guidance for 2014.",
+            "date": "Tue, 29 Jul 2025 12:48:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "NVO",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says he's giving Russia less than two weeks to reach peace deal with Ukraine",
-            "link": "https://www.cnbc.com/2025/07/28/trump-russia-ukraine-putin.html",
-            "summary": "Trump said he is \"disappointed\" in Russian President Vladimir Putin over his continued military aggression in Ukraine. Trump said he was disappointed in Putin over Russia's \"continued military aggression\" in the Ukraine.",
-            "date": "Mon, 28 Jul 2025 13:19:57 GMT",
+            "title": "Bessent, Warsh, Hassett are the leading contenders to get Fed chair job, CNBC survey finds",
+            "link": "https://www.cnbc.com/2025/07/29/bessent-warsh-hassett-are-the-leading-contenders-to-get-fed-chair-job-cnbc-survey-finds.html",
+            "summary": "A virtual three-way tie to replace Fed Chair Jerome Powell as Fed chair when his term expires. It's a virtual three -way tie for the job. Powell's term expires in 2018.",
+            "date": "Tue, 29 Jul 2025 12:55:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "ARE",
             "impact": "Neutral"
         },
         {
-            "title": "Quantum computing firm IonQ hires former JPMorgan Chase applied research head",
-            "link": "https://www.cnbc.com/2025/07/28/ionq-hires-former-jpmorgan-chase-applied-research-head.html",
-            "summary": "IonQ is one of the larger examples of pure-play quantum firms. Rigetti and D-Wave have seen their shares surge in the past year.",
-            "date": "Mon, 28 Jul 2025 11:05:01 GMT",
+            "title": "Apple opens manufacturing academy in Detroit as Trump ramps up pressure to invest in U.S.",
+            "link": "https://www.cnbc.com/2025/07/29/apple-opens-manufacturing-academy-in-detroit-as-part-of-us-push-.html",
+            "summary": "The Apple Manufacturing Academy is opening in downtown Detroit, with a focus on artificial intelligence. The academy is expected to be open by the end of the year.",
+            "date": "Tue, 29 Jul 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "QS",
-            "impact": "Neutral"
+            "stock_ticker": "AAPL",
+            "impact": "Bearish"
         },
         {
-            "title": "UnitedHealth aims to reassure investors as profits plunge, DOJ investigates its Medicare business",
-            "link": "https://www.cnbc.com/2025/07/28/unitedhealth-unh-q2-earnings-preview.html",
-            "summary": "Investors will be looking for a path to a turnaround from UnitedHealth's earnings release, after an abrupt CEO change and over 40% drop in the company's stock.",
-            "date": "Mon, 28 Jul 2025 11:55:27 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "UNH",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Elon Musk confirms Tesla has signed a $16.5 billion chip contract with Samsung Electronics",
-            "link": "https://www.cnbc.com/2025/07/28/samsung-electronics-new-chip-supply-contract.html",
-            "summary": "Samsung Electronics shares opened 3.5% higher after the company disclosed the contract to supply semiconductors to a major global corporation. Samsung Electronics shares opening 3.4% higher.",
-            "date": "Mon, 28 Jul 2025 07:17:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ELON",
-            "impact": "Bullish"
-        },
-        {
-            "title": "S&P 500 now more likely to reach 7,200 next year, according to Morgan Stanley’s Wilson",
-            "link": "https://www.marketwatch.com/story/s-p-500-now-more-likely-to-reach-7-200-next-year-according-to-morgan-stanleys-wilson-8553ce2d?mod=mw_rss_topstories",
-            "summary": "Better earnings and a steadily high multiple should boost stocks, says Morgan Stanley. Morgan Stanley: Stocks should continue to rise in the next few years.",
-            "date": "Mon, 28 Jul 2025 13:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPXD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How Opendoor’s meme-stock rally helped fix a listing-requirement problem, for now",
-            "link": "https://www.marketwatch.com/story/how-opendoors-meme-stock-rally-helped-fix-a-listing-requirement-problem-for-now-b4c9fe27?mod=mw_rss_topstories",
-            "summary": "Opendoor wants more time “to assess market conditions and the Company’s stock price.” Opendoor: “I want to give the market time to assess the situation.’",
-            "date": "Mon, 28 Jul 2025 13:09:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘Vegas is not fun anymore’: $9 cups of coffee and pricier rooms are steering travelers away from the vacation mecca",
-            "link": "https://www.marketwatch.com/story/vegas-is-not-fun-anymore-9-cups-of-coffee-and-pricier-rooms-are-steering-travelers-away-from-the-vacation-mecca-fc01db0d?mod=mw_rss_topstories",
-            "summary": "Local officials point to a decline in international travel as the key reason for a recent tourism slump. Las Vegas has become pricier by many measures.",
-            "date": "Mon, 28 Jul 2025 13:08:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LAV=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The emerging-markets bandwagon rumbles on, and now China is climbing aboard",
-            "link": "https://www.marketwatch.com/story/the-emerging-markets-bandwagon-rumbles-on-and-now-china-is-climbing-aboard-f98c8a2f?mod=mw_rss_topstories",
-            "summary": "Goldman Sachs looks for a continued broadening of the rally to incorporate China. Goldman Sachs: \"We expect the market to continue to move in the direction of the Chinese economy\"",
-            "date": "Mon, 28 Jul 2025 11:49:00 GMT",
+            "title": "Boeing slashes losses as CEO touts 'our turnaround year'",
+            "link": "https://www.cnbc.com/2025/07/29/boeing-ba-2q-2025-earnings.html",
+            "summary": "Boeing slashed its quarterly losses as sales jumped after it delivered the most airplanes since 2018. Boeing slashes quarterly losses as sales jump after it delivers the most airplane since 2018 and delivers the most ever.",
+            "date": "Tue, 29 Jul 2025 13:04:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘I have felt invisible, disrespected and heartbroken’: My firstborn son wants nothing to do with me. Do I cut him off?",
-            "link": "https://www.marketwatch.com/story/i-have-felt-invisible-disrespected-and-heartbroken-my-firstborn-son-wants-nothing-to-do-with-me-do-i-cut-him-off-a17bb951?mod=mw_rss_topstories",
-            "summary": "“My second wife and I agreed that 25% of our total estate would go to my older son, and the remainder to our younger son,” he said.",
-            "date": "Mon, 28 Jul 2025 11:24:00 GMT",
+            "title": "Cash App opens up to Apple Pay and Google Pay for the first time",
+            "link": "https://www.cnbc.com/2025/07/29/cash-app-pools-apple-pay-google-pay.html",
+            "summary": "PayPal’s Venmo continues to gain ground, reporting more than 20% year-over-year revenue growth in the second quarter.",
+            "date": "Tue, 29 Jul 2025 13:32:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KW=F",
+            "stock_ticker": "CASH",
+            "impact": "Neutral"
+        },
+        {
+            "title": "3 reasons why the stock market is on the brink of losing 5%-10% — and what to do now",
+            "link": "https://www.marketwatch.com/story/3-reasons-why-the-stock-market-is-on-the-brink-of-losing-5-10-and-what-to-do-now-91bcf13e?mod=mw_rss_topstories",
+            "summary": "What could go wrong? Cautious insiders, euphoric investors and seasonal weakness. What could go right? Shareholders, traders and analysts weigh in on what they think is going wrong.",
+            "date": "Tue, 29 Jul 2025 13:26:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ZQ=F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "The stock market’s worst month is coming up. Should you sell in August?",
+            "link": "https://www.marketwatch.com/story/the-stock-markets-worst-month-is-coming-up-should-you-sell-in-august-28713a7c?mod=mw_rss_topstories",
+            "summary": "September typically is a loser. August’s return depends on the index you track. September is the worst month for the S&P 500.",
+            "date": "Tue, 29 Jul 2025 13:16:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Home prices post smallest increase in nearly two years, offering buyers a reprieve",
+            "link": "https://www.marketwatch.com/story/home-prices-post-smallest-increase-in-nearly-two-years-offering-buyers-a-reprieve-3c3a4e83?mod=mw_rss_topstories",
+            "summary": "Home prices in the 20 biggest metros in the U.S. continued to slow. The housing market weakened under the weight of high mortgage rates and increasing unaffordability.",
+            "date": "Tue, 29 Jul 2025 13:13:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HOME",
+            "impact": "Neutral"
+        },
+        {
+            "title": "IMF lifts U.S. growth outlook on lower tariffs and upbeat markets",
+            "link": "https://www.marketwatch.com/story/imf-lifts-u-s-growth-outlook-on-lower-tariffs-and-upbeat-markets-441b970a?mod=mw_rss_topstories",
+            "summary": "The factors holding it up are viewed as temporary. While global growth is seen as resilient, the factors holding up growth are seen as short-term.",
+            "date": "Tue, 29 Jul 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IMF",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Trade deficit sinks to 22-month low as businesses try to time Trump tariffs. GDP to get boost.",
+            "link": "https://www.marketwatch.com/story/trade-deficit-sinks-to-22-month-low-as-businesses-try-to-time-trump-tariffs-gdp-to-get-boost-05c3d569?mod=mw_rss_topstories",
+            "summary": "The nation’s trade deficit in goods sank 11% in June to a 22-month low. U.S. companies grappled with on-again, off-again Trump tariffs.",
+            "date": "Tue, 29 Jul 2025 12:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TTD",
             "impact": "Neutral"
         }
     ]
