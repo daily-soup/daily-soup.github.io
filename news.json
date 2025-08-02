@@ -1,23 +1,35 @@
 {
-    "date": "2025-08-01",
+    "date": "2025-08-02",
     "news": [
         {
-            "title": "U.S. added just 73,000 jobs in July and numbers for prior months were revised much lower",
-            "link": "https://www.cnbc.com/2025/08/01/jobs-report-july-2025.html",
-            "summary": "Nonfarm payrolls were expected to increase by 100,000 in July, according to the Dow Jones consensus estimate. The economy is expected to grow by 0.4 percent in July.",
-            "date": "Fri, 01 Aug 2025 13:28:47 GMT",
+            "title": "Berkshire Hathaway operating earnings dip 4% as conglomerate braces for tariff impact",
+            "link": "https://www.cnbc.com/2025/08/02/berkshire-hathaway-brk-earnings-q2-2025.html",
+            "summary": "Berkshire's operating profit dipped 4% year over year to $11.16 billion in the second quarter. The company's net income was $2.2 billion, down from $3.1 billion a year earlier.",
+            "date": "Sat, 02 Aug 2025 12:52:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "BRK-B",
             "impact": "Neutral"
         },
         {
-            "title": "Fed governors Bowman, Waller explain their dissents, say waiting to cut rates threatens economy",
-            "link": "https://www.cnbc.com/2025/08/01/fed-governors-bowman-waller-explain-their-dissents-say-waiting-to-cut-rates-threatens-economy.html",
-            "summary": "Two Federal Reserve officials who voted against holding a key interest rate explained their decisions Friday. Two Fed officials voted this week against holding an interest rate in place.",
-            "date": "Fri, 01 Aug 2025 12:57:18 GMT",
+            "title": "Trump fires commissioner of labor statistics after weaker-than-expected jobs figures slam markets",
+            "link": "https://www.cnbc.com/2025/08/01/trump-erika-mcentarfer-jobs-report-fired.html",
+            "summary": "Trump accused BLS Commissioner Erika McEntarfer of being a political appointee who was manipulating jobs data. Trump accused McEntrfer of manipulating jobsData.",
+            "date": "Sat, 02 Aug 2025 00:01:47 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Fed Governor Kugler is resigning, giving Trump a nominee on committee that sets interest rates",
+            "link": "https://www.cnbc.com/2025/08/01/federal-reserve-governor-kugler-part-of-the-committee-that-sets-interest-rates-is-resigning.html",
+            "summary": "The resignation now paves the way for Trump to put his own nominee in for the Board of Governors. Trump's own nominee for the board is expected to be announced later this week.",
+            "date": "Fri, 01 Aug 2025 21:49:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,100 +38,88 @@
             "impact": "Neutral"
         },
         {
-            "title": "Ray Dalio sells his last remaining stake in Bridgewater, steps away from hedge fund's board",
-            "link": "https://www.cnbc.com/2025/08/01/ray-dalio-sells-his-last-remaining-stake-in-bridgewater-steps-away-from-hedge-funds-board.html",
-            "summary": "Bridgewater completed the final transition of Dalio's equity shares, wrapping up his management transition started in 2022. Dalio will remain as a non-executive director of Bridgewater until at least 2018.",
-            "date": "Fri, 01 Aug 2025 13:27:19 GMT",
+            "title": "Here's where the jobs are in this slowing economy",
+            "link": "https://www.cnbc.com/2025/08/01/heres-where-the-jobs-are-in-this-slowing-economy.html",
+            "summary": "July's much weaker-than-expected job growth was supported primarily by the health-care sector, data from the Bureau of Labor Statistics released Friday shows.",
+            "date": "Fri, 01 Aug 2025 15:04:23 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RAY",
+            "stock_ticker": "TVTV",
             "impact": "Bullish"
         },
         {
-            "title": "Millions of student loan borrowers could see their debt grow as interest-free break ends",
-            "link": "https://www.cnbc.com/2025/08/01/student-loan-interest-free-save-forbearance-ends.html",
-            "summary": "Borrowers who remain in the so-called SAVE forbearance could see their education debt grow if they don't make payments large enough to cover accruing interest.",
-            "date": "Fri, 01 Aug 2025 12:47:26 GMT",
+            "title": "JFK airport's $9.5 billion international terminal is taking shape. See what's inside",
+            "link": "https://www.cnbc.com/2025/08/02/jfk-airport-new-international-terminal.html",
+            "summary": "JFK's new fully-international-travel dedicated terminal opens in mid-2026. The terminal will be the world's first of its kind.",
+            "date": "Sat, 02 Aug 2025 13:18:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GEO=F",
+            "stock_ticker": "JFKOF",
             "impact": "Neutral"
         },
         {
-            "title": "How much are Southwest's new assigned seats? It depends",
-            "link": "https://www.cnbc.com/2025/08/01/southwest-airlines-assigned-seat-price.html",
-            "summary": "Southwest put its first-ever assigned seats on sale this week. The move ends more than half a century of open seating on the airline.",
-            "date": "Fri, 01 Aug 2025 11:42:18 GMT",
+            "title": "Afraid to leave your job right now? Here’s how to stay put without killing your career.",
+            "link": "https://www.marketwatch.com/story/afraid-to-leave-your-job-right-now-heres-how-to-stay-put-without-killing-your-career-989565fe?mod=mw_rss_topstories",
+            "summary": "Friday’s jobs report is good news for those who have been feeling guilty about not looking for a new job. The jobs report shows that the U.S. economy is improving.",
+            "date": "Sat, 02 Aug 2025 12:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "TOPBRX=X",
             "impact": "Neutral"
         },
         {
-            "title": "Student-loan interest restarts today for millions. This is what you can do.",
-            "link": "https://www.marketwatch.com/story/student-loan-interest-restarts-today-for-millions-this-is-what-you-can-do-e2d3e974?mod=mw_rss_topstories",
-            "summary": "Borrowers enrolled in the SAVE plan will see their balances start to tick up. Borrowers will be able to pay back the money they borrowed through the plan.",
-            "date": "Fri, 01 Aug 2025 13:27:00 GMT",
+            "title": "Don’t blame Jerome Powell — or the Fed — if you can’t afford to buy a house right now",
+            "link": "https://www.marketwatch.com/story/dont-blame-jerome-powell-or-the-fed-if-you-cant-afford-to-buy-a-house-right-now-92b04c0f?mod=mw_rss_topstories",
+            "summary": "Trump says high interest rates are keeping Americans from buying houses. There’s more to it than that. Trump: “I’m going to make it very easy for people to buy houses.”",
+            "date": "Sat, 02 Aug 2025 12:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AST=F",
+            "stock_ticker": "DBI-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Private-credit ETFs are here. Why your retirement account may be their next target.",
+            "link": "https://www.marketwatch.com/story/private-credit-etfs-are-here-why-your-retirement-account-may-be-their-next-target-71a282be?mod=mw_rss_topstories",
+            "summary": "Private-credit ETFs aren’t in 401(k)s yet, but they are Wall Street’s latest effort to bring private assets to the masses.",
+            "date": "Sat, 02 Aug 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HYIN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s what the E.U. and South Korea trade deals mean for U.S. natural-gas investors",
+            "link": "https://www.marketwatch.com/story/heres-what-the-e-u-and-south-korea-trade-deals-mean-for-u-s-natural-gas-investors-ec03e0b9?mod=mw_rss_topstories",
+            "summary": "The European Union and South Korea have pledged to buy billions of dollars’ worth of energy products under trade deals with the Trump administration. The White House aims to capitalize on the U.S. as the world’s largest exporter of liquefied natural gas.",
+            "date": "Sat, 02 Aug 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WAT-P.V",
             "impact": "Bullish"
         },
         {
-            "title": "I’m in my 60s. My salary is not keeping up with inflation. Do I jump ship?",
-            "link": "https://www.marketwatch.com/story/i-keep-getting-the-same-song-and-dance-my-salary-has-not-kept-up-with-inflation-is-my-company-cheating-me-ebcbfc53?mod=mw_rss_topstories",
-            "summary": "“If my salary had kept pace with inflation, I would be earning an additional $17,000 a year,” she says.",
-            "date": "Fri, 01 Aug 2025 13:19:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMNR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Switzerland shocked by 39% Trump tariffs. One economist says America isn’t the ‘big market’ it used to be.",
-            "link": "https://www.marketwatch.com/story/switzerland-shocked-by-39-trump-tariffs-one-economist-says-america-isnt-the-big-market-it-used-to-be-417bdc60?mod=mw_rss_topstories",
-            "summary": "Switzerland was looking at a 31% tariff rate for its exports to the U.S. That's now 39% barring a further deal, and some are reeling.",
-            "date": "Fri, 01 Aug 2025 12:59:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RIG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I told him that wouldn’t fly’: My 90-year-old mother’s adviser pushed her to change her beneficiaries. What is going on?",
-            "link": "https://www.marketwatch.com/story/i-told-him-that-wouldnt-fly-my-90-year-old-mothers-adviser-changed-the-beneficiaries-on-her-accounts-what-is-going-on-dbba0312?mod=mw_rss_topstories",
-            "summary": "“He said, ‘I’m just trying to help.’” she says of the man who tried to help her.",
-            "date": "Fri, 01 Aug 2025 12:53:00 GMT",
+            "title": "‘I have never been asked for money before’: My friend wants to borrow $1,600 to pay her rent. Do I say yes?",
+            "link": "https://www.marketwatch.com/story/i-have-never-been-asked-for-money-before-my-friend-wants-to-borrow-1-600-to-pay-her-rent-do-i-say-yes-5c67148f?mod=mw_rss_topstories",
+            "summary": "“I have heard mixed reviews on lending people money,” he says. “I’m not sure what the future holds for me.”",
+            "date": "Sat, 02 Aug 2025 11:26:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "STRC",
             "impact": "Neutral"
-        },
-        {
-            "title": "Will your spouse automatically inherit your 401(k)?",
-            "link": "https://www.marketwatch.com/story/will-your-spouse-automatically-inherit-your-401-k-59ac8126?mod=mw_rss_topstories",
-            "summary": "\"What happens if the participant gets married again, but doesn’t update the beneficiary to be their new spouse? “ asks the lawyer. “What happens If the participant Gets Married Again, but Doesn't Update the Beneficiary to be Their New spouse?\"",
-            "date": "Fri, 01 Aug 2025 12:50:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SHW",
-            "impact": "Bullish"
         }
     ]
 }
