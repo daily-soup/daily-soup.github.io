@@ -1,124 +1,124 @@
 {
-    "date": "2025-08-03",
+    "date": "2025-08-04",
     "news": [
         {
-            "title": "Ethereum turns 10: From scrappy experiment to Wall Street’s invisible backbone",
-            "link": "https://www.cnbc.com/2025/08/02/ethereum-turns-10-from-scrappy-experiment-to-wall-streets-invisible-backbone.html",
-            "summary": "Once dismissed as a side project to bitcoin, the blockchain now powers stablecoins, tokenized assets, and the payment rails of major banks.",
-            "date": "Sun, 03 Aug 2025 00:03:44 GMT",
+            "title": "Trump set to name replacements at the Fed and Bureau of Labor Statistics in coming days",
+            "link": "https://www.cnbc.com/2025/08/04/trump-set-to-name-replacements-at-the-fed-and-bls-in-coming-days.html",
+            "summary": "Both spots opened up Friday through the resignation of Fed Governor Adriana Kugler and the firing of Erika McEntarfer at the BLS.",
+            "date": "Mon, 04 Aug 2025 12:34:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ETH-USD",
-            "impact": "Neutral"
+            "stock_ticker": "DJT",
+            "impact": "Bullish"
         },
         {
-            "title": "Figma CEO's path from college dropout and Thiel fellow to tech billionaire",
-            "link": "https://www.cnbc.com/2025/08/03/figma-ceo-dylan-fields-path-from-college-dropout-to-billionaire.html",
-            "summary": "Figma's CEO owns a stake worth about $6.6 billion. After Figma's first two days of trading on the NYSE, 33-year-old CEO Dylan Field owns about $5 billion.",
-            "date": "Sun, 03 Aug 2025 12:00:01 GMT",
+            "title": "Swiss tensions run high as clock ticks on U.S. tariff deadline",
+            "link": "https://www.cnbc.com/2025/08/04/swiss-tensions-run-high-as-clock-ticks-on-us-tariff-deadline.html",
+            "summary": "U.S. President Donald Trump last week said he would impose 39% tariffs on Swiss goods starting later this week. The Swiss government says it is preparing for a possible trade war with the United States.",
+            "date": "Mon, 04 Aug 2025 13:07:52 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FIG",
+            "stock_ticker": "SJY=F",
             "impact": "Neutral"
         },
         {
-            "title": "Berkshire Hathaway operating earnings dip 4% as conglomerate braces for tariff impact",
-            "link": "https://www.cnbc.com/2025/08/02/berkshire-hathaway-brk-earnings-q2-2025.html",
-            "summary": "Berkshire's operating profit dipped 4% year over year to $11.16 billion in the second quarter. The company's net income was $2.2 billion, down from $3.1 billion a year earlier.",
-            "date": "Sat, 02 Aug 2025 12:52:05 GMT",
+            "title": "Berkshire shares dip after earnings decline, lack of buybacks disappoint investors",
+            "link": "https://www.cnbc.com/2025/08/04/berkshire-shares-dip-after-earnings-decline-lack-of-buybacks-disappoint-investors-.html",
+            "summary": "Berkshire Hathaway writes down its Kraft Heinz stake. The move was a big write-down for Berkshire's underperforming Kraft HeinZ stake.",
+            "date": "Mon, 04 Aug 2025 13:05:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BRK-B",
-            "impact": "Neutral"
+            "impact": "Bearish"
         },
         {
-            "title": "The AI 'algorithmic audit' could be coming to hotel room checkout",
-            "link": "https://www.cnbc.com/2025/08/03/ai-audit-coming-for-hotel-room-checkout-travel-costs.html",
-            "summary": " AI is already influencing bills at the car rental counter. Your hotel room charges and dinner check could be next. It could also be used to determine how much you pay for utilities.",
-            "date": "Sun, 03 Aug 2025 12:30:01 GMT",
+            "title": "Legal AI startup Harvey hits $100 million in annual recurring revenue",
+            "link": "https://www.cnbc.com/2025/08/04/legal-ai-startup-harvey-revenue.html",
+            "summary": "Harvey launched in 2022 after the founders experimented with OpenAI's large language model GPT-3, which came out before its viral AI chatbot, ChatGPT.",
+            "date": "Mon, 04 Aug 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "LZ",
             "impact": "Neutral"
         },
         {
-            "title": "Top Wall Street analysts pick these 3 stocks for their growth potential",
-            "link": "https://www.cnbc.com/2025/08/03/top-wall-street-analysts-pick-these-3-stocks-for-their-growth-potential.html",
-            "summary": "TipRanks' analyst ranking service discusses three stocks, including MongoDB and ServiceNow. TipRanks: MongoDB, ServiceNow, favored by Wall Street.",
-            "date": "Sun, 03 Aug 2025 12:53:32 GMT",
+            "title": "More than 3,000 Boeing defense workers go on strike after rejecting contract",
+            "link": "https://www.cnbc.com/2025/08/04/boeing-defense-workers-go-on-strike-after-rejecting-contract.html",
+            "summary": "Boeing defense workers go on strike. More than 3,000 Boeing defense workers in Washington, D.C. Strike is over pay and benefits.",
+            "date": "Mon, 04 Aug 2025 12:47:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "0P0001JSE7.SI",
             "impact": "Neutral"
         },
         {
-            "title": "‘The sky has not fallen — yet’: Is it time to start worrying about a U.S. recession?",
-            "link": "https://www.marketwatch.com/story/the-sky-has-not-fallen-yet-a-recession-has-been-predicted-for-years-is-it-time-to-stop-worrying-46eac7db?mod=mw_rss_topstories",
-            "summary": "The economy added just 73,000 new jobs in July. GDP rose by 3% in the second quarter, but the economy added only 73,00 new jobs.",
-            "date": "Sun, 03 Aug 2025 11:06:00 GMT",
+            "title": "Why weak jobs data means investors should cut back bets on big U.S. tech names",
+            "link": "https://www.marketwatch.com/story/why-weak-jobs-data-means-investors-should-cut-back-bets-on-big-u-s-tech-names-be13fbe5?mod=mw_rss_topstories",
+            "summary": "The Fed cutting rates tends to see the equalweighted S&amp;P 500 outperform, Jefferies says. The Fed also tends to cut interest rates at a faster pace than other major central banks.",
+            "date": "Mon, 04 Aug 2025 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "301218.SZ",
             "impact": "Neutral"
         },
         {
-            "title": "‘I have never been asked for money before’: My friend wants to borrow $1,600 to pay her rent. Do I say yes?",
-            "link": "https://www.marketwatch.com/story/i-have-never-been-asked-for-money-before-my-friend-wants-to-borrow-1-600-to-pay-her-rent-do-i-say-yes-5c67148f?mod=mw_rss_topstories",
-            "summary": "“I have heard mixed reviews on lending people money,” he says. “I’m not sure what the future holds for me.”",
-            "date": "Sun, 03 Aug 2025 10:45:00 GMT",
+            "title": "Denim in the dining room? Some luxury cruise travelers say they’re not on board with the idea.",
+            "link": "https://www.marketwatch.com/story/luxury-cruise-lines-are-relaxing-their-evening-dress-codes-but-is-denim-at-dinner-too-much-1e28ab2b?mod=mw_rss_topstories",
+            "summary": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Visit CNN.com/Travel each week for a new gallery of snapshots.",
+            "date": "Mon, 04 Aug 2025 13:25:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AXINR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Will my spouse automatically inherit my 401(k)?",
-            "link": "https://www.marketwatch.com/story/will-your-spouse-automatically-inherit-your-401-k-59ac8126?mod=mw_rss_topstories",
-            "summary": "\"What happens if the participant gets married again, but doesn’t update the beneficiary to be their new spouse? “ asks the lawyer. “What happens If the participant Gets Married Again, but Doesn't Update the Beneficiary to be Their New spouse?\"",
-            "date": "Sun, 03 Aug 2025 10:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SHW",
+            "stock_ticker": "NDL.BO",
             "impact": "Bullish"
         },
         {
-            "title": "‘I worked at 14, had an 8.8% mortgage rate and drove used cars’: Did boomers really have it easier than millennials?",
-            "link": "https://www.marketwatch.com/story/i-worked-at-14-had-an-8-8-mortgage-rate-and-drove-used-cars-did-boomers-really-have-it-easier-than-millennials-bdc012a2?mod=mw_rss_topstories",
-            "summary": "‘We were frugal, using coupons, discount stores, shopping during the sales and eating leftovers,’ one baby-boomer reader writes.",
-            "date": "Sun, 03 Aug 2025 10:15:00 GMT",
+            "title": "Tyson’s chicken business is growing, while beef is losing money even as prices jump",
+            "link": "https://www.marketwatch.com/story/tysons-chicken-business-is-growing-while-beef-is-losing-money-even-as-prices-jump-a7866720?mod=mw_rss_topstories",
+            "summary": "Tyson’s stock rises as earnings beat expectations, as strength in the chicken business offset weakness in beef. Tyson shares are up 1.7% to $50.50.",
+            "date": "Mon, 04 Aug 2025 13:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AXINR",
-            "impact": "Bullish"
+            "stock_ticker": "RBO.JO",
+            "impact": "Neutral"
         },
         {
-            "title": "A court could strike down Trump’s tariffs—and blow a hole in the U.S. budget",
-            "link": "https://www.marketwatch.com/story/a-court-could-strike-down-trumps-tariffsand-blow-a-hole-in-the-u-s-budget-04a467ad?mod=mw_rss_topstories",
-            "summary": "Trump administration lawyers are trying to save ‘liberation day’ tariffs. They risk losing billions in government revenue if they don’t.",
-            "date": "Sun, 03 Aug 2025 04:01:00 GMT",
+            "title": "Wayfair’s stock surges as a sales beat points to a recovery in the furniture market",
+            "link": "https://www.marketwatch.com/story/wayfairs-stock-surges-as-a-sales-beat-points-to-a-recovery-in-the-furniture-market-ce101ac3?mod=mw_rss_topstories",
+            "summary": "Shares of Wayfair are climbing toward the highest prices seen in more than a year. Wayfair's earnings beat expectations, sending its share price to a record high.",
+            "date": "Mon, 04 Aug 2025 12:47:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
+            "stock_ticker": "RUBI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Elon Musk to get $29 billion richer after pay package approved. Tesla’s stock jumps.",
+            "link": "https://www.marketwatch.com/story/elon-musk-to-get-29-billion-richer-as-his-pay-package-is-approved-teslas-stock-jumps-a5c0d979?mod=mw_rss_topstories",
+            "summary": "CEO Elon Musk's pay package was approved. That could boost his stake in the company to more than 500 million shares. Tesla’s stock was set to climb Monday.",
+            "date": "Mon, 04 Aug 2025 11:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ELON",
             "impact": "Neutral"
         }
     ]
