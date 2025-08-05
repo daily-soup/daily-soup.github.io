@@ -1,107 +1,107 @@
 {
-    "date": "2025-08-04",
+    "date": "2025-08-05",
     "news": [
         {
-            "title": "Trump set to name replacements at the Fed and Bureau of Labor Statistics in coming days",
-            "link": "https://www.cnbc.com/2025/08/04/trump-set-to-name-replacements-at-the-fed-and-bls-in-coming-days.html",
-            "summary": "Both spots opened up Friday through the resignation of Fed Governor Adriana Kugler and the firing of Erika McEntarfer at the BLS.",
-            "date": "Mon, 04 Aug 2025 12:34:04 GMT",
+            "title": "Trump says Treasury Secretary Bessent 'does not want' to be Fed chair, but 4 others in running",
+            "link": "https://www.cnbc.com/2025/08/05/trump-says-treasury-secretary-bessent-does-not-want-to-be-fed-chair-but-4-others-in-running.html",
+            "summary": "U.S. President Donald Trump spoke Tuesday morning on CNBC's \"Squawk Box\" He spoke about the economy and his plans for the future.",
+            "date": "Tue, 05 Aug 2025 12:41:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Swiss tensions run high as clock ticks on U.S. tariff deadline",
-            "link": "https://www.cnbc.com/2025/08/04/swiss-tensions-run-high-as-clock-ticks-on-us-tariff-deadline.html",
-            "summary": "U.S. President Donald Trump last week said he would impose 39% tariffs on Swiss goods starting later this week. The Swiss government says it is preparing for a possible trade war with the United States.",
-            "date": "Mon, 04 Aug 2025 13:07:52 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SJY=F",
             "impact": "Neutral"
         },
         {
-            "title": "Berkshire shares dip after earnings decline, lack of buybacks disappoint investors",
-            "link": "https://www.cnbc.com/2025/08/04/berkshire-shares-dip-after-earnings-decline-lack-of-buybacks-disappoint-investors-.html",
-            "summary": "Berkshire Hathaway writes down its Kraft Heinz stake. The move was a big write-down for Berkshire's underperforming Kraft HeinZ stake.",
-            "date": "Mon, 04 Aug 2025 13:05:45 GMT",
+            "title": "Palo Alto CEO Nikesh Arora confronts Wall Street skeptics after company’s biggest bet yet",
+            "link": "https://www.cnbc.com/2025/08/05/palo-alto-ceo-nikesh-aroras-25-billion-bet-on-cyberark-stock-down.html",
+            "summary": "Palo Alto Networks' market cap has increased sixfold since Nikesh Arora joined as CEO in 2018. But not all investors are sold on his latest deal.",
+            "date": "Tue, 05 Aug 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BRK-B",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Legal AI startup Harvey hits $100 million in annual recurring revenue",
-            "link": "https://www.cnbc.com/2025/08/04/legal-ai-startup-harvey-revenue.html",
-            "summary": "Harvey launched in 2022 after the founders experimented with OpenAI's large language model GPT-3, which came out before its viral AI chatbot, ChatGPT.",
-            "date": "Mon, 04 Aug 2025 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LZ",
+            "stock_ticker": "PANW",
             "impact": "Neutral"
         },
         {
-            "title": "More than 3,000 Boeing defense workers go on strike after rejecting contract",
-            "link": "https://www.cnbc.com/2025/08/04/boeing-defense-workers-go-on-strike-after-rejecting-contract.html",
-            "summary": "Boeing defense workers go on strike. More than 3,000 Boeing defense workers in Washington, D.C. Strike is over pay and benefits.",
-            "date": "Mon, 04 Aug 2025 12:47:45 GMT",
+            "title": "Palantir stock pops 7% after blowout quarter driven by AI, efficiency demand",
+            "link": "https://www.cnbc.com/2025/08/05/palantir-stock-earnings-ai-karp.html",
+            "summary": "Palantir shares popped more than 7% after the software analytics provider lifted its full-year outlook. Palantir is benefitting from ongoing AI tailwinds.",
+            "date": "Tue, 05 Aug 2025 13:29:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001JSE7.SI",
+            "stock_ticker": "PLTR",
             "impact": "Neutral"
         },
         {
-            "title": "Why weak jobs data means investors should cut back bets on big U.S. tech names",
-            "link": "https://www.marketwatch.com/story/why-weak-jobs-data-means-investors-should-cut-back-bets-on-big-u-s-tech-names-be13fbe5?mod=mw_rss_topstories",
-            "summary": "The Fed cutting rates tends to see the equalweighted S&amp;P 500 outperform, Jefferies says. The Fed also tends to cut interest rates at a faster pace than other major central banks.",
-            "date": "Mon, 04 Aug 2025 13:30:00 GMT",
+            "title": "Pfizer hikes 2025 profit outlook on cost cuts, strong quarterly results",
+            "link": "https://www.cnbc.com/2025/08/05/pfizer-pfe-q2-2025-earnings-report.html",
+            "summary": "The results come as Pfizer and other drugmakers grapple with Trump's calls to lower U.S. drug prices and brace for his planned tariffs on pharmaceuticals.",
+            "date": "Tue, 05 Aug 2025 13:26:57 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PFE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Russia weighs into U.S.-India tariff spat, saying New Delhi can choose its own trade partners",
+            "link": "https://www.cnbc.com/2025/08/05/russia-weighs-into-us-india-tariff-spat.html",
+            "summary": "The Kremlin commented on Tuesday that Trump's comments were \"attempts to force countries to stop trade relations with Russia\" The Kremlin said that the comments were intended to \"stop trade relations\" with Russia.",
+            "date": "Tue, 05 Aug 2025 12:31:13 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LEER.DE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s why Trump’s excuses for firing the jobs-data chief don’t make sense",
+            "link": "https://www.marketwatch.com/story/heres-why-trumps-excuses-for-firing-jobs-data-chief-erika-mcentarfer-dont-add-up-3844f471?mod=mw_rss_topstories",
+            "summary": "Let's not pretend that President Trump fired the Bureau of Labor Statistics commissioner on Friday because of supposed “inaccuracies” like these.",
+            "date": "Tue, 05 Aug 2025 13:32:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "301218.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Denim in the dining room? Some luxury cruise travelers say they’re not on board with the idea.",
-            "link": "https://www.marketwatch.com/story/luxury-cruise-lines-are-relaxing-their-evening-dress-codes-but-is-denim-at-dinner-too-much-1e28ab2b?mod=mw_rss_topstories",
-            "summary": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Visit CNN.com/Travel each week for a new gallery of snapshots.",
-            "date": "Mon, 04 Aug 2025 13:25:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NDL.BO",
             "impact": "Bullish"
         },
         {
-            "title": "Tyson’s chicken business is growing, while beef is losing money even as prices jump",
-            "link": "https://www.marketwatch.com/story/tysons-chicken-business-is-growing-while-beef-is-losing-money-even-as-prices-jump-a7866720?mod=mw_rss_topstories",
-            "summary": "Tyson’s stock rises as earnings beat expectations, as strength in the chicken business offset weakness in beef. Tyson shares are up 1.7% to $50.50.",
-            "date": "Mon, 04 Aug 2025 13:04:00 GMT",
+            "title": "Caterpillar expects up to $1.5 billion in tariff costs this year, and the stock is falling",
+            "link": "https://www.marketwatch.com/story/caterpillars-stock-falls-after-profit-misses-expectations-again-to-offset-a-raised-outlook-d92aa1b6?mod=mw_rss_topstories",
+            "summary": "Caterpillar shares seesawed back into the red in early trading Tuesday. The maker of construction and mining equipment missed second-quarter profit expectations but beat on sales.",
+            "date": "Tue, 05 Aug 2025 13:18:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RBO.JO",
+            "stock_ticker": "CAT",
             "impact": "Neutral"
         },
         {
-            "title": "Wayfair’s stock surges as a sales beat points to a recovery in the furniture market",
-            "link": "https://www.marketwatch.com/story/wayfairs-stock-surges-as-a-sales-beat-points-to-a-recovery-in-the-furniture-market-ce101ac3?mod=mw_rss_topstories",
-            "summary": "Shares of Wayfair are climbing toward the highest prices seen in more than a year. Wayfair's earnings beat expectations, sending its share price to a record high.",
-            "date": "Mon, 04 Aug 2025 12:47:00 GMT",
+            "title": "Trump narrows Fed chair list: Bessent is out, while these two rise in rankings",
+            "link": "https://www.marketwatch.com/story/trump-narrows-fed-chair-list-bessent-is-out-while-these-two-rise-in-rankings-ad023277?mod=mw_rss_topstories",
+            "summary": "President Donald Trump said Tuesday that he’s considering four people to be his nominee to head the Federal Reserve. Treasury Secretary Scott Bessent isn’t one of them.",
+            "date": "Tue, 05 Aug 2025 13:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I have never been asked for money before’: My friend wants to borrow $1,600 to pay her rent. Do I say yes?",
+            "link": "https://www.marketwatch.com/story/i-have-never-been-asked-for-money-before-my-friend-wants-to-borrow-1-600-to-pay-her-rent-do-i-say-yes-5c67148f?mod=mw_rss_topstories",
+            "summary": "“I have heard mixed reviews on lending people money,” he says. “I’m not sure what the future holds for me.”",
+            "date": "Tue, 05 Aug 2025 12:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "Elon Musk to get $29 billion richer after pay package approved. Tesla’s stock jumps.",
-            "link": "https://www.marketwatch.com/story/elon-musk-to-get-29-billion-richer-as-his-pay-package-is-approved-teslas-stock-jumps-a5c0d979?mod=mw_rss_topstories",
-            "summary": "CEO Elon Musk's pay package was approved. That could boost his stake in the company to more than 500 million shares. Tesla’s stock was set to climb Monday.",
-            "date": "Mon, 04 Aug 2025 11:52:00 GMT",
+            "title": "These five unseen drivers could propel the bull market even higher, according to this Wall Street veteran",
+            "link": "https://www.marketwatch.com/story/these-five-unseen-drivers-could-propel-the-bull-market-even-higher-according-to-this-wall-street-veteran-e8570ca6?mod=mw_rss_topstories",
+            "summary": "The stock market could soar even higher if these pillars of strength are unleashed, says Jim Paulsen of Paulsen Perspectives. Paulsen: The pillars of the economy could be the key to the stock market's future.",
+            "date": "Tue, 05 Aug 2025 12:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELON",
+            "stock_ticker": "FIVE",
             "impact": "Neutral"
         }
     ]
