@@ -1,11 +1,35 @@
 {
-    "date": "2025-08-05",
+    "date": "2025-08-06",
     "news": [
         {
-            "title": "Trump says Treasury Secretary Bessent 'does not want' to be Fed chair, but 4 others in running",
-            "link": "https://www.cnbc.com/2025/08/05/trump-says-treasury-secretary-bessent-does-not-want-to-be-fed-chair-but-4-others-in-running.html",
-            "summary": "U.S. President Donald Trump spoke Tuesday morning on CNBC's \"Squawk Box\" He spoke about the economy and his plans for the future.",
-            "date": "Tue, 05 Aug 2025 12:41:36 GMT",
+            "title": "Disney earnings top expectations as streaming, parks offset TV headwinds",
+            "link": "https://www.cnbc.com/2025/08/06/disney-dis-earnings-q3-2025.html",
+            "summary": "Disney reported quarterly results Wednesday, posting earnings that topped expectations but revenue that came in just shy of analyst projections. Disney reported quarterly Results Wednesday.",
+            "date": "Wed, 06 Aug 2025 13:00:28 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DIS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Uber beats on revenue, announces $20 billion stock buyback",
+            "link": "https://www.cnbc.com/2025/08/06/uber-stock-q2-2025-earnings.html",
+            "summary": "Uber's revenue climbed 18% from a year earlier, topping analysts' estimates. Uber's CEO Travis Kalanick says the company will continue to focus on safety and security.",
+            "date": "Wed, 06 Aug 2025 12:58:37 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "UBER",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump views foreign investment pledges as gifts. Trade partners say that's way off the mark",
+            "link": "https://www.cnbc.com/2025/08/06/trump-trade-tariffs-investment-pledge.html",
+            "summary": "Foreign investment pledges are at the center of several major Trump trade deals. One question underpinning the pledges is how they might actually be enforced.",
+            "date": "Wed, 06 Aug 2025 13:21:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +38,87 @@
             "impact": "Neutral"
         },
         {
-            "title": "Palo Alto CEO Nikesh Arora confronts Wall Street skeptics after company’s biggest bet yet",
-            "link": "https://www.cnbc.com/2025/08/05/palo-alto-ceo-nikesh-aroras-25-billion-bet-on-cyberark-stock-down.html",
-            "summary": "Palo Alto Networks' market cap has increased sixfold since Nikesh Arora joined as CEO in 2018. But not all investors are sold on his latest deal.",
-            "date": "Tue, 05 Aug 2025 12:00:01 GMT",
+            "title": "McDonald's sees U.S. sales rebound, but concerns about low-income consumers linger",
+            "link": "https://www.cnbc.com/2025/08/06/mcdonalds-mcd-q2-2025-earnings.html",
+            "summary": "Shares of McDonald's have risen roughly 3% this year. The fast-food giant has a market cap of nearly $220 billion. The company's stock is up about 3% so far in 2014.",
+            "date": "Wed, 06 Aug 2025 13:26:52 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PANW",
+            "stock_ticker": "MCD",
             "impact": "Neutral"
         },
         {
-            "title": "Palantir stock pops 7% after blowout quarter driven by AI, efficiency demand",
-            "link": "https://www.cnbc.com/2025/08/05/palantir-stock-earnings-ai-karp.html",
-            "summary": "Palantir shares popped more than 7% after the software analytics provider lifted its full-year outlook. Palantir is benefitting from ongoing AI tailwinds.",
-            "date": "Tue, 05 Aug 2025 13:29:08 GMT",
+            "title": "Musk says Tesla is training an upgraded Full Self-Driving model which could be released next month",
+            "link": "https://www.cnbc.com/2025/08/06/tesla-training-improved-full-self-driving-fsd-model-could-release-next-month.html",
+            "summary": "Elon Musk said the new Full Self-Driving model will have a larger parameter size and improved video performance. Elon Musk: The new Full self-driving car will be available by the end of the year.",
+            "date": "Wed, 06 Aug 2025 09:52:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PLTR",
+            "stock_ticker": "EMSKF",
             "impact": "Neutral"
         },
         {
-            "title": "Pfizer hikes 2025 profit outlook on cost cuts, strong quarterly results",
-            "link": "https://www.cnbc.com/2025/08/05/pfizer-pfe-q2-2025-earnings-report.html",
-            "summary": "The results come as Pfizer and other drugmakers grapple with Trump's calls to lower U.S. drug prices and brace for his planned tariffs on pharmaceuticals.",
-            "date": "Tue, 05 Aug 2025 13:26:57 GMT",
+            "title": "A tech-driven growth boom will trump tariffs and trade wars",
+            "link": "https://www.marketwatch.com/story/a-tech-driven-growth-boom-will-trump-tariffs-and-trade-wars-3f3f9e0e?mod=mw_rss_topstories",
+            "summary": "The president's policies are stagflationary, but they cannot derail America’s dynamic private sector, writes Julian Zelizer. Zelizer: ‘The president’’ ‘I’m not worried about the economy,’ he says.",
+            "date": "Wed, 06 Aug 2025 13:24:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PFE",
+            "stock_ticker": "A",
             "impact": "Neutral"
         },
         {
-            "title": "Russia weighs into U.S.-India tariff spat, saying New Delhi can choose its own trade partners",
-            "link": "https://www.cnbc.com/2025/08/05/russia-weighs-into-us-india-tariff-spat.html",
-            "summary": "The Kremlin commented on Tuesday that Trump's comments were \"attempts to force countries to stop trade relations with Russia\" The Kremlin said that the comments were intended to \"stop trade relations\" with Russia.",
-            "date": "Tue, 05 Aug 2025 12:31:13 GMT",
+            "title": "‘Historical trends are no longer working.’ This strategist says retail investors are completely baffling Wall Street.",
+            "link": "https://www.marketwatch.com/story/all-historical-trends-are-no-longer-working-this-strategist-says-retail-investors-are-completely-baffling-wall-street-03b90199?mod=mw_rss_topstories",
+            "summary": "Nationwide strategist Mark Hackett says the battle to control Wall Street is so far veering in favor of retail investors. Hackett: \"I think we're going to see a lot more retail investors on Wall Street in the future\"",
+            "date": "Wed, 06 Aug 2025 13:09:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LEER.DE",
+            "stock_ticker": "DSPY",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s why Trump’s excuses for firing the jobs-data chief don’t make sense",
-            "link": "https://www.marketwatch.com/story/heres-why-trumps-excuses-for-firing-jobs-data-chief-erika-mcentarfer-dont-add-up-3844f471?mod=mw_rss_topstories",
-            "summary": "Let's not pretend that President Trump fired the Bureau of Labor Statistics commissioner on Friday because of supposed “inaccuracies” like these.",
-            "date": "Tue, 05 Aug 2025 13:32:00 GMT",
+            "title": "Walt Disney leans hard into streaming as its future",
+            "link": "https://www.marketwatch.com/story/walt-disney-blows-past-profit-estimates-after-inking-major-deals-with-nfl-and-wwe-93ed721e?mod=mw_rss_topstories",
+            "summary": "Disney announced earlier that it had reached a deal to sell 10% of ESPN to the NFL in exchange for the NFL’s media properties.",
+            "date": "Wed, 06 Aug 2025 13:02:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "301218.SZ",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Caterpillar expects up to $1.5 billion in tariff costs this year, and the stock is falling",
-            "link": "https://www.marketwatch.com/story/caterpillars-stock-falls-after-profit-misses-expectations-again-to-offset-a-raised-outlook-d92aa1b6?mod=mw_rss_topstories",
-            "summary": "Caterpillar shares seesawed back into the red in early trading Tuesday. The maker of construction and mining equipment missed second-quarter profit expectations but beat on sales.",
-            "date": "Tue, 05 Aug 2025 13:18:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CAT",
+            "stock_ticker": "DIS",
             "impact": "Neutral"
         },
         {
-            "title": "Trump narrows Fed chair list: Bessent is out, while these two rise in rankings",
-            "link": "https://www.marketwatch.com/story/trump-narrows-fed-chair-list-bessent-is-out-while-these-two-rise-in-rankings-ad023277?mod=mw_rss_topstories",
-            "summary": "President Donald Trump said Tuesday that he’s considering four people to be his nominee to head the Federal Reserve. Treasury Secretary Scott Bessent isn’t one of them.",
-            "date": "Tue, 05 Aug 2025 13:05:00 GMT",
+            "title": "‘I’m scared to lose’: I have $140K in a 401(k) and earn $45K a year. Can I retire in 20 years?",
+            "link": "https://www.marketwatch.com/story/im-scared-to-lose-too-much-in-risky-investments-i-have-140k-in-a-401-k-and-earn-45k-a-year-can-i-retire-in-20-years-239aaf81?mod=mw_rss_topstories",
+            "summary": "“My 401(k) retirement planner shows I’ll likely be short $1,500 every month during my retirement.”",
+            "date": "Wed, 06 Aug 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "‘I have never been asked for money before’: My friend wants to borrow $1,600 to pay her rent. Do I say yes?",
-            "link": "https://www.marketwatch.com/story/i-have-never-been-asked-for-money-before-my-friend-wants-to-borrow-1-600-to-pay-her-rent-do-i-say-yes-5c67148f?mod=mw_rss_topstories",
-            "summary": "“I have heard mixed reviews on lending people money,” he says. “I’m not sure what the future holds for me.”",
-            "date": "Tue, 05 Aug 2025 12:59:00 GMT",
+            "title": "Bank of England on course for slowest ever pace of rate cuts. But without the abuse.",
+            "link": "https://www.marketwatch.com/story/bank-of-england-on-course-for-slowest-ever-pace-of-rate-cuts-but-without-the-abuse-9e323573?mod=mw_rss_topstories",
+            "summary": "The U.K. is expected to see borrowing cuts cut on Thursday. The cuts are expected to come from the European Union and the Bank of England.",
+            "date": "Wed, 06 Aug 2025 12:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RUBI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "These five unseen drivers could propel the bull market even higher, according to this Wall Street veteran",
-            "link": "https://www.marketwatch.com/story/these-five-unseen-drivers-could-propel-the-bull-market-even-higher-according-to-this-wall-street-veteran-e8570ca6?mod=mw_rss_topstories",
-            "summary": "The stock market could soar even higher if these pillars of strength are unleashed, says Jim Paulsen of Paulsen Perspectives. Paulsen: The pillars of the economy could be the key to the stock market's future.",
-            "date": "Tue, 05 Aug 2025 12:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FIVE",
+            "stock_ticker": "SXB=F",
             "impact": "Neutral"
         }
     ]
