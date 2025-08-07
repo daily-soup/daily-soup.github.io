@@ -1,35 +1,35 @@
 {
-    "date": "2025-08-06",
+    "date": "2025-08-07",
     "news": [
         {
-            "title": "Disney earnings top expectations as streaming, parks offset TV headwinds",
-            "link": "https://www.cnbc.com/2025/08/06/disney-dis-earnings-q3-2025.html",
-            "summary": "Disney reported quarterly results Wednesday, posting earnings that topped expectations but revenue that came in just shy of analyst projections. Disney reported quarterly Results Wednesday.",
-            "date": "Wed, 06 Aug 2025 13:00:28 GMT",
+            "title": "Eli Lilly hikes 2025 outlook, tops quarterly estimates as Mounjaro, Zepbound sales soar",
+            "link": "https://www.cnbc.com/2025/08/07/eli-lilly-lly-q2-2025-earnings-report.html",
+            "summary": "Eli Lilly hiked its 2025 guidance and posted second-quarter earnings that topped estimates. Strong demand for its blockbuster weight loss and diabetes drugs.",
+            "date": "Thu, 07 Aug 2025 11:54:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DIS",
+            "stock_ticker": "LLY",
             "impact": "Neutral"
         },
         {
-            "title": "Uber beats on revenue, announces $20 billion stock buyback",
-            "link": "https://www.cnbc.com/2025/08/06/uber-stock-q2-2025-earnings.html",
-            "summary": "Uber's revenue climbed 18% from a year earlier, topping analysts' estimates. Uber's CEO Travis Kalanick says the company will continue to focus on safety and security.",
-            "date": "Wed, 06 Aug 2025 12:58:37 GMT",
+            "title": "Intel shares drop after Trump calls for CEO to resign immediately",
+            "link": "https://www.cnbc.com/2025/08/07/intel-ceo-trump-lip-bu-tan.html",
+            "summary": "Intel shares were under pressure Thursday after President Donald Trump called for the chipmaker's CEO to resign immediately. Intel shares wereunder pressure Thursday following President Trump's call for the CEO's resignation.",
+            "date": "Thu, 07 Aug 2025 12:53:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UBER",
+            "stock_ticker": "INTC",
             "impact": "Neutral"
         },
         {
-            "title": "Trump views foreign investment pledges as gifts. Trade partners say that's way off the mark",
-            "link": "https://www.cnbc.com/2025/08/06/trump-trade-tariffs-investment-pledge.html",
-            "summary": "Foreign investment pledges are at the center of several major Trump trade deals. One question underpinning the pledges is how they might actually be enforced.",
-            "date": "Wed, 06 Aug 2025 13:21:44 GMT",
+            "title": "Trump order will allow alternative assets like cryptocurrencies, private equity in 401(k)s",
+            "link": "https://www.cnbc.com/2025/08/07/trump-order-will-allow-alternative-assets-like-cryptocurrencies-private-equity-in-401ks.html",
+            "summary": "The executive order will direct the U.S. Secretary of Labor to review fiduciary guidance on private market investments in 401(k) and other defined-contribution plans.",
+            "date": "Thu, 07 Aug 2025 11:59:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,88 +38,88 @@
             "impact": "Neutral"
         },
         {
-            "title": "McDonald's sees U.S. sales rebound, but concerns about low-income consumers linger",
-            "link": "https://www.cnbc.com/2025/08/06/mcdonalds-mcd-q2-2025-earnings.html",
-            "summary": "Shares of McDonald's have risen roughly 3% this year. The fast-food giant has a market cap of nearly $220 billion. The company's stock is up about 3% so far in 2014.",
-            "date": "Wed, 06 Aug 2025 13:26:52 GMT",
+            "title": "What the world's biggest chipmakers are doing to stave off Trump's tariffs",
+            "link": "https://www.cnbc.com/2025/08/07/chip-stocks-jump-after-trump-semiconductor-tariffs-on-us-footprint.html",
+            "summary": "Shares of major chip stocks rose as investors bet these companies' U.S. investments may help mitigate President Trump's proposed 100% semiconductor tariffs.",
+            "date": "Thu, 07 Aug 2025 11:52:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MCD",
+            "stock_ticker": "WAT-P.V",
             "impact": "Neutral"
         },
         {
-            "title": "Musk says Tesla is training an upgraded Full Self-Driving model which could be released next month",
-            "link": "https://www.cnbc.com/2025/08/06/tesla-training-improved-full-self-driving-fsd-model-could-release-next-month.html",
-            "summary": "Elon Musk said the new Full Self-Driving model will have a larger parameter size and improved video performance. Elon Musk: The new Full self-driving car will be available by the end of the year.",
-            "date": "Wed, 06 Aug 2025 09:52:58 GMT",
+            "title": "Democrats question Google's Trump talks over censorship suit and possible 'quid-pro-quo' deal",
+            "link": "https://www.cnbc.com/2025/08/07/google-trump-settlement-democrats.html",
+            "summary": "A group of Democratic senators wrote a letter to Google expressing concern over a possible settlement between the company and President Trump. The letter was part of a letter from the senators to Google CEO Sundar Pichai.",
+            "date": "Thu, 07 Aug 2025 13:21:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EMSKF",
+            "stock_ticker": "DJT",
+            "impact": "Bullish"
+        },
+        {
+            "title": "There are few assets hated like coal — why this dirty fuel may have a future",
+            "link": "https://www.marketwatch.com/story/there-are-few-assets-hated-like-coal-why-this-dirty-fuel-may-have-a-future-451aa548?mod=mw_rss_topstories",
+            "summary": "The stocks are cheap and demand demise predictions are coming down. Is coal making a comeback? The stocks are Cheap and Demand Demise predictions are Coming down. The coal stocks are cheaper and demand Demises are Coming Down.",
+            "date": "Thu, 07 Aug 2025 13:23:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MAY-USD",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Trump calls for Intel’s CEO to go. Lawmakers have focused on his ties to China.",
+            "link": "https://www.marketwatch.com/story/trump-calls-for-intels-ceo-to-go-lawmakers-have-focused-on-his-ties-to-china-768390cc?mod=mw_rss_topstories",
+            "summary": "Intel stock is falling as Trump’s comments open the door for potentially more leadership drama at the chip giant. Intel stock is down 2.7% on Monday.",
+            "date": "Thu, 07 Aug 2025 13:03:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "A tech-driven growth boom will trump tariffs and trade wars",
-            "link": "https://www.marketwatch.com/story/a-tech-driven-growth-boom-will-trump-tariffs-and-trade-wars-3f3f9e0e?mod=mw_rss_topstories",
-            "summary": "The president's policies are stagflationary, but they cannot derail America’s dynamic private sector, writes Julian Zelizer. Zelizer: ‘The president’’ ‘I’m not worried about the economy,’ he says.",
-            "date": "Wed, 06 Aug 2025 13:24:00 GMT",
+            "title": "Still no sign of rising layoffs in jobless claims. U.S. has a low-hire, low-fire labor market.",
+            "link": "https://www.marketwatch.com/story/still-no-sign-of-rising-layoffs-in-jobless-claims-u-s-has-a-low-hire-low-fire-labor-market-20319685?mod=mw_rss_topstories",
+            "summary": "As long as most people who have a job keep their jobs, they are likely to continue to spend at levels that support a growing economy and stave off a recession.",
+            "date": "Thu, 07 Aug 2025 12:54:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
-            "impact": "Neutral"
+            "stock_ticker": "SBSW",
+            "impact": "Bullish"
         },
         {
-            "title": "‘Historical trends are no longer working.’ This strategist says retail investors are completely baffling Wall Street.",
-            "link": "https://www.marketwatch.com/story/all-historical-trends-are-no-longer-working-this-strategist-says-retail-investors-are-completely-baffling-wall-street-03b90199?mod=mw_rss_topstories",
-            "summary": "Nationwide strategist Mark Hackett says the battle to control Wall Street is so far veering in favor of retail investors. Hackett: \"I think we're going to see a lot more retail investors on Wall Street in the future\"",
-            "date": "Wed, 06 Aug 2025 13:09:00 GMT",
+            "title": "Moon exploration company Firefly’s IPO pricing shows investor demand keeps rising",
+            "link": "https://www.marketwatch.com/story/moon-exploration-company-fireflys-ipo-pricing-shows-investor-demand-keeps-rising-14ae123f?mod=mw_rss_topstories",
+            "summary": "Space exploration company Firefly Aerospace’s stock is set to begin trading on the Nasdaq under the ticker symbol “FLY” following its upsized IPO.",
+            "date": "Thu, 07 Aug 2025 12:14:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DSPY",
-            "impact": "Neutral"
+            "stock_ticker": "MLTX",
+            "impact": "Bullish"
         },
         {
-            "title": "Walt Disney leans hard into streaming as its future",
-            "link": "https://www.marketwatch.com/story/walt-disney-blows-past-profit-estimates-after-inking-major-deals-with-nfl-and-wwe-93ed721e?mod=mw_rss_topstories",
-            "summary": "Disney announced earlier that it had reached a deal to sell 10% of ESPN to the NFL in exchange for the NFL’s media properties.",
-            "date": "Wed, 06 Aug 2025 13:02:00 GMT",
+            "title": "Eli Lilly’s weight-loss pill didn’t work so well, and the stock is tumbling",
+            "link": "https://www.marketwatch.com/story/pfizers-stock-set-for-worst-day-in-26-years-as-trial-data-from-oral-weight-loss-pill-disappoints-6dd9dda2?mod=mw_rss_topstories",
+            "summary": "Lilly’s stock was tumbling as disappointing trial data for an oral weight-loss pill offset an upbeat earnings report and outlook.",
+            "date": "Thu, 07 Aug 2025 11:54:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DIS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m scared to lose’: I have $140K in a 401(k) and earn $45K a year. Can I retire in 20 years?",
-            "link": "https://www.marketwatch.com/story/im-scared-to-lose-too-much-in-risky-investments-i-have-140k-in-a-401-k-and-earn-45k-a-year-can-i-retire-in-20-years-239aaf81?mod=mw_rss_topstories",
-            "summary": "“My 401(k) retirement planner shows I’ll likely be short $1,500 every month during my retirement.”",
-            "date": "Wed, 06 Aug 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Bank of England on course for slowest ever pace of rate cuts. But without the abuse.",
-            "link": "https://www.marketwatch.com/story/bank-of-england-on-course-for-slowest-ever-pace-of-rate-cuts-but-without-the-abuse-9e323573?mod=mw_rss_topstories",
-            "summary": "The U.K. is expected to see borrowing cuts cut on Thursday. The cuts are expected to come from the European Union and the Bank of England.",
-            "date": "Wed, 06 Aug 2025 12:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SXB=F",
-            "impact": "Neutral"
+            "stock_ticker": "LLY",
+            "impact": "Bullish"
         }
     ]
 }
