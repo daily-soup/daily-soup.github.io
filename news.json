@@ -1,125 +1,125 @@
 {
-    "date": "2025-08-07",
+    "date": "2025-08-08",
     "news": [
         {
-            "title": "Eli Lilly hikes 2025 outlook, tops quarterly estimates as Mounjaro, Zepbound sales soar",
-            "link": "https://www.cnbc.com/2025/08/07/eli-lilly-lly-q2-2025-earnings-report.html",
-            "summary": "Eli Lilly hiked its 2025 guidance and posted second-quarter earnings that topped estimates. Strong demand for its blockbuster weight loss and diabetes drugs.",
-            "date": "Thu, 07 Aug 2025 11:54:27 GMT",
+            "title": "How Tim Cook convinced Trump to drop made-in-USA iPhone — for now",
+            "link": "https://www.cnbc.com/2025/08/07/apples-tim-cook-convinced-trump-to-drop-made-in-usa-iphone-for-now.html",
+            "summary": "Apple plans to spend about $600 billion over four years in the U.S. Apple CEO Tim Cook went to the White House to announce the plans.",
+            "date": "Fri, 08 Aug 2025 12:42:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LLY",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Intel shares drop after Trump calls for CEO to resign immediately",
-            "link": "https://www.cnbc.com/2025/08/07/intel-ceo-trump-lip-bu-tan.html",
-            "summary": "Intel shares were under pressure Thursday after President Donald Trump called for the chipmaker's CEO to resign immediately. Intel shares wereunder pressure Thursday following President Trump's call for the CEO's resignation.",
-            "date": "Thu, 07 Aug 2025 12:53:44 GMT",
+            "title": "Tesla exec leading development of chip tech and Dojo supercomputer is leaving company",
+            "link": "https://www.cnbc.com/2025/08/07/tesla-vp-pete-bannon-developing-chip-tech-dojo-supercomputer-leaving.html",
+            "summary": "Pete Bannon, who joined Tesla from Apple in 2016, is leaving the electric vehicle maker. He will be replaced by Elon Musk, Tesla's co-founder and CEO.",
+            "date": "Thu, 07 Aug 2025 23:42:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "INTC",
+            "stock_ticker": "TSLA",
             "impact": "Neutral"
         },
         {
-            "title": "Trump order will allow alternative assets like cryptocurrencies, private equity in 401(k)s",
-            "link": "https://www.cnbc.com/2025/08/07/trump-order-will-allow-alternative-assets-like-cryptocurrencies-private-equity-in-401ks.html",
-            "summary": "The executive order will direct the U.S. Secretary of Labor to review fiduciary guidance on private market investments in 401(k) and other defined-contribution plans.",
-            "date": "Thu, 07 Aug 2025 11:59:14 GMT",
+            "title": "Government-backed MP Materials surges as loss narrows on record rare earth oxide production",
+            "link": "https://www.cnbc.com/2025/08/08/government-backed-mp-materials-surges-as-loss-narrows-on-record-rare-earth-oxide-production.html",
+            "summary": "MP Materials shares are rising after its financial results gave investors hope that the rare earth miner is moving toward profitability. MP Materials is a rare earth mining company.",
+            "date": "Fri, 08 Aug 2025 13:09:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "MP",
             "impact": "Neutral"
         },
         {
-            "title": "What the world's biggest chipmakers are doing to stave off Trump's tariffs",
-            "link": "https://www.cnbc.com/2025/08/07/chip-stocks-jump-after-trump-semiconductor-tariffs-on-us-footprint.html",
-            "summary": "Shares of major chip stocks rose as investors bet these companies' U.S. investments may help mitigate President Trump's proposed 100% semiconductor tariffs.",
-            "date": "Thu, 07 Aug 2025 11:52:21 GMT",
+            "title": "Crocs CEO says consumer environment is 'concerning,' will reduce orders in the second half",
+            "link": "https://www.cnbc.com/2025/08/08/crocs-reducing-order-volume-second-half-cautious-consumer.html",
+            "summary": "Shares of Crocs shed nearly 30% Thursday after the company issued the stark warnings. Crocs shares were down nearly 20% on Thursday morning.",
+            "date": "Fri, 08 Aug 2025 12:29:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WAT-P.V",
+            "stock_ticker": "CROX",
             "impact": "Neutral"
         },
         {
-            "title": "Democrats question Google's Trump talks over censorship suit and possible 'quid-pro-quo' deal",
-            "link": "https://www.cnbc.com/2025/08/07/google-trump-settlement-democrats.html",
-            "summary": "A group of Democratic senators wrote a letter to Google expressing concern over a possible settlement between the company and President Trump. The letter was part of a letter from the senators to Google CEO Sundar Pichai.",
-            "date": "Thu, 07 Aug 2025 13:21:15 GMT",
+            "title": "OpenStore’s demise marks endgame for once-booming e-commerce aggregator market",
+            "link": "https://www.cnbc.com/2025/08/08/openstore-demise-endgame-for-once-booming-ecommerce-aggregator-market.html",
+            "summary": "OpenStore is rebranding under its Jack Archer menswear label. The company shuttering many of the Shopify storefronts it acquired and laying off staffers.",
+            "date": "Fri, 08 Aug 2025 12:40:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Bullish"
-        },
-        {
-            "title": "There are few assets hated like coal — why this dirty fuel may have a future",
-            "link": "https://www.marketwatch.com/story/there-are-few-assets-hated-like-coal-why-this-dirty-fuel-may-have-a-future-451aa548?mod=mw_rss_topstories",
-            "summary": "The stocks are cheap and demand demise predictions are coming down. Is coal making a comeback? The stocks are Cheap and Demand Demise predictions are Coming down. The coal stocks are cheaper and demand Demises are Coming Down.",
-            "date": "Thu, 07 Aug 2025 13:23:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MAY-USD",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Trump calls for Intel’s CEO to go. Lawmakers have focused on his ties to China.",
-            "link": "https://www.marketwatch.com/story/trump-calls-for-intels-ceo-to-go-lawmakers-have-focused-on-his-ties-to-china-768390cc?mod=mw_rss_topstories",
-            "summary": "Intel stock is falling as Trump’s comments open the door for potentially more leadership drama at the chip giant. Intel stock is down 2.7% on Monday.",
-            "date": "Thu, 07 Aug 2025 13:03:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "MKS.L",
             "impact": "Neutral"
         },
         {
-            "title": "Still no sign of rising layoffs in jobless claims. U.S. has a low-hire, low-fire labor market.",
-            "link": "https://www.marketwatch.com/story/still-no-sign-of-rising-layoffs-in-jobless-claims-u-s-has-a-low-hire-low-fire-labor-market-20319685?mod=mw_rss_topstories",
-            "summary": "As long as most people who have a job keep their jobs, they are likely to continue to spend at levels that support a growing economy and stave off a recession.",
-            "date": "Thu, 07 Aug 2025 12:54:00 GMT",
+            "title": "‘I’m scared to lose’: I have $140K in a 401(k) and earn $45K a year. Can I retire in 20 years?",
+            "link": "https://www.marketwatch.com/story/im-scared-to-lose-too-much-in-risky-investments-i-have-140k-in-a-401-k-and-earn-45k-a-year-can-i-retire-in-20-years-239aaf81?mod=mw_rss_topstories",
+            "summary": "“My 401(k) retirement planner shows I’ll likely be short $1,500 every month during my retirement.”",
+            "date": "Fri, 08 Aug 2025 13:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SBSW",
-            "impact": "Bullish"
+            "stock_ticker": "BMNR",
+            "impact": "Neutral"
         },
         {
-            "title": "Moon exploration company Firefly’s IPO pricing shows investor demand keeps rising",
-            "link": "https://www.marketwatch.com/story/moon-exploration-company-fireflys-ipo-pricing-shows-investor-demand-keeps-rising-14ae123f?mod=mw_rss_topstories",
-            "summary": "Space exploration company Firefly Aerospace’s stock is set to begin trading on the Nasdaq under the ticker symbol “FLY” following its upsized IPO.",
-            "date": "Thu, 07 Aug 2025 12:14:00 GMT",
+            "title": "‘I have a great mortgage rate’: I need $80K to buy my husband out of our home. Do I raid my $180K Roth IRA?",
+            "link": "https://www.marketwatch.com/story/i-need-80k-to-buy-my-husband-out-of-our-home-do-i-raid-my-180k-roth-ira-73460355?mod=mw_rss_topstories",
+            "summary": "“I have two young children. I’m very proud of them,” she said. “I’ve always been proud of my children.”",
+            "date": "Fri, 08 Aug 2025 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MLTX",
-            "impact": "Bullish"
+            "stock_ticker": "FLY",
+            "impact": "Neutral"
         },
         {
-            "title": "Eli Lilly’s weight-loss pill didn’t work so well, and the stock is tumbling",
-            "link": "https://www.marketwatch.com/story/pfizers-stock-set-for-worst-day-in-26-years-as-trial-data-from-oral-weight-loss-pill-disappoints-6dd9dda2?mod=mw_rss_topstories",
-            "summary": "Lilly’s stock was tumbling as disappointing trial data for an oral weight-loss pill offset an upbeat earnings report and outlook.",
-            "date": "Thu, 07 Aug 2025 11:54:00 GMT",
+            "title": "Under Armour’s stock dives, as CEO doesn’t like what tariffs are doing to profits",
+            "link": "https://www.marketwatch.com/story/under-armours-stock-dives-on-a-weak-outlook-with-tariffs-and-a-slowing-economy-to-blame-8552d1ff?mod=mw_rss_topstories",
+            "summary": "Under Armour's fiscal second quarter outlook fell below Wall Street’s expectations. The company again did not provide full-year outlooks.",
+            "date": "Fri, 08 Aug 2025 13:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LLY",
-            "impact": "Bullish"
+            "stock_ticker": "UA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "U.S. Open prize money this year is the most ever given out at a tennis tournament: $90 million",
+            "link": "https://www.marketwatch.com/story/u-s-open-prize-money-this-year-is-the-most-ever-given-out-at-a-tennis-tournament-90-million-3dd9cfee?mod=mw_rss_topstories",
+            "summary": "The men's and women's singles winners will each earn $5 million at the 2025 U.S. Open. The tournament will be held in New York City.",
+            "date": "Fri, 08 Aug 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HRC=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Wendy’s cuts profit outlook as U.S. sales stay weak. Its stock heads for a 5-year low.",
+            "link": "https://www.marketwatch.com/story/wendys-cuts-profit-outlook-but-stock-rises-54dca5a2?mod=mw_rss_topstories",
+            "summary": "CEO Ken Cook said the company has “more work to do” to improve its U.S. business. Sales fell for a second straight quarter.",
+            "date": "Fri, 08 Aug 2025 12:53:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WEN",
+            "impact": "Neutral"
         }
     ]
 }
