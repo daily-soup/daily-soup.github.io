@@ -1,11 +1,23 @@
 {
-    "date": "2025-08-08",
+    "date": "2025-08-09",
     "news": [
         {
-            "title": "How Tim Cook convinced Trump to drop made-in-USA iPhone — for now",
-            "link": "https://www.cnbc.com/2025/08/07/apples-tim-cook-convinced-trump-to-drop-made-in-usa-iphone-for-now.html",
-            "summary": "Apple plans to spend about $600 billion over four years in the U.S. Apple CEO Tim Cook went to the White House to announce the plans.",
-            "date": "Fri, 08 Aug 2025 12:42:45 GMT",
+            "title": "Apple has its best week since July 2020 after White House visit",
+            "link": "https://www.cnbc.com/2025/08/08/apple-has-best-week-since-july-2020-after-tim-cooks-white-house-visit.html",
+            "summary": "Apple is the third-most valuable company, behind Microsoft and Nvidia and ahead of Google and Amazon. Apple is also the most profitable company in the world.",
+            "date": "Fri, 08 Aug 2025 21:02:29 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAPL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How one real estate startup is taking on record heat this summer",
+            "link": "https://www.cnbc.com/2025/08/09/real-estate-startup-runwise-cre-heating-cooling.html",
+            "summary": "Runwise combines future weather algorithms with a wireless temperature sensor network that speaks to a central control system. Runwise will be available in the U.S. later this year.",
+            "date": "Sat, 09 Aug 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,58 +26,46 @@
             "impact": "Neutral"
         },
         {
-            "title": "Tesla exec leading development of chip tech and Dojo supercomputer is leaving company",
-            "link": "https://www.cnbc.com/2025/08/07/tesla-vp-pete-bannon-developing-chip-tech-dojo-supercomputer-leaving.html",
-            "summary": "Pete Bannon, who joined Tesla from Apple in 2016, is leaving the electric vehicle maker. He will be replaced by Elon Musk, Tesla's co-founder and CEO.",
-            "date": "Thu, 07 Aug 2025 23:42:06 GMT",
+            "title": "The new American shopping mall is less Macy's, more church, bowling, Barnes & Noble",
+            "link": "https://www.cnbc.com/2025/08/09/americas-dying-shopping-malls-have-surprising-rebound-in-store.html",
+            "summary": "Macy's and Sears close, and Claire's declares bankruptcy. New success is arriving from businesses that lead to retail \"cross-shopping\"",
+            "date": "Sat, 09 Aug 2025 12:30:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSLA",
-            "impact": "Neutral"
+            "stock_ticker": "BA",
+            "impact": "Bullish"
         },
         {
-            "title": "Government-backed MP Materials surges as loss narrows on record rare earth oxide production",
-            "link": "https://www.cnbc.com/2025/08/08/government-backed-mp-materials-surges-as-loss-narrows-on-record-rare-earth-oxide-production.html",
-            "summary": "MP Materials shares are rising after its financial results gave investors hope that the rare earth miner is moving toward profitability. MP Materials is a rare earth mining company.",
-            "date": "Fri, 08 Aug 2025 13:09:12 GMT",
+            "title": "Activist Carronade spots a hidden gem in Viasat’s business. How the firm may unlock value",
+            "link": "https://www.cnbc.com/2025/08/09/activist-carronade-spots-a-hidden-gem-in-viasats-business-how-the-firm-may-unlock-value.html",
+            "summary": "Activist investor calls Viasat's Defense and Advanced Technologies business a 'crown jewel' that may be due for a spinoff or IPO.",
+            "date": "Sat, 09 Aug 2025 11:57:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MP",
+            "stock_ticker": "ACTV",
             "impact": "Neutral"
         },
         {
-            "title": "Crocs CEO says consumer environment is 'concerning,' will reduce orders in the second half",
-            "link": "https://www.cnbc.com/2025/08/08/crocs-reducing-order-volume-second-half-cautious-consumer.html",
-            "summary": "Shares of Crocs shed nearly 30% Thursday after the company issued the stark warnings. Crocs shares were down nearly 20% on Thursday morning.",
-            "date": "Fri, 08 Aug 2025 12:29:12 GMT",
+            "title": "Intel CEO responds to 'misinformation' and Trump threat in letter to employees",
+            "link": "https://www.cnbc.com/2025/08/08/intel-ceo-responds-to-misinformation-and-trump-threat-in-letter.html",
+            "summary": "Intel CEO Lip-Bu Tan addressed \"misinformation\" about his previous roles on Thursday. President Donald Trump called for Tan's resignation on Wednesday.",
+            "date": "Fri, 08 Aug 2025 18:06:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CROX",
+            "stock_ticker": "INTC",
             "impact": "Neutral"
         },
         {
-            "title": "OpenStore’s demise marks endgame for once-booming e-commerce aggregator market",
-            "link": "https://www.cnbc.com/2025/08/08/openstore-demise-endgame-for-once-booming-ecommerce-aggregator-market.html",
-            "summary": "OpenStore is rebranding under its Jack Archer menswear label. The company shuttering many of the Shopify storefronts it acquired and laying off staffers.",
-            "date": "Fri, 08 Aug 2025 12:40:47 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MKS.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m scared to lose’: I have $140K in a 401(k) and earn $45K a year. Can I retire in 20 years?",
-            "link": "https://www.marketwatch.com/story/im-scared-to-lose-too-much-in-risky-investments-i-have-140k-in-a-401-k-and-earn-45k-a-year-can-i-retire-in-20-years-239aaf81?mod=mw_rss_topstories",
-            "summary": "“My 401(k) retirement planner shows I’ll likely be short $1,500 every month during my retirement.”",
-            "date": "Fri, 08 Aug 2025 13:31:00 GMT",
+            "title": "‘I’m tired of corporate America’: My wife and I have $1.65 million. I’m 61. Can I retire already?",
+            "link": "https://www.marketwatch.com/story/im-tired-of-corporate-america-my-wife-and-i-have-1-65-million-im-61-can-i-retire-already-b125f48a?mod=mw_rss_topstories",
+            "summary": "“My annual income is $108,000,” she says. “I’m not rich, but I’ve got a good life.”",
+            "date": "Sat, 09 Aug 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘I have a great mortgage rate’: I need $80K to buy my husband out of our home. Do I raid my $180K Roth IRA?",
-            "link": "https://www.marketwatch.com/story/i-need-80k-to-buy-my-husband-out-of-our-home-do-i-raid-my-180k-roth-ira-73460355?mod=mw_rss_topstories",
-            "summary": "“I have two young children. I’m very proud of them,” she said. “I’ve always been proud of my children.”",
-            "date": "Fri, 08 Aug 2025 13:30:00 GMT",
+            "title": "Amazon documentary exposes ‘neglect and pain’ in many nursing homes. It’s only going to get worse.",
+            "link": "https://www.marketwatch.com/story/amazon-documentary-exposes-neglect-and-pain-in-many-nursing-homes-its-only-going-to-get-worse-6531f5f3?mod=mw_rss_topstories",
+            "summary": "The filmmaker’s mom suffered from chemical restraints, infections and dehydration. Here's how you can protect your family members. The filmmaker's mom was in a medically-induced coma for more than a week.",
+            "date": "Sat, 09 Aug 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FLY",
+            "stock_ticker": "AMZN",
             "impact": "Neutral"
         },
         {
-            "title": "Under Armour’s stock dives, as CEO doesn’t like what tariffs are doing to profits",
-            "link": "https://www.marketwatch.com/story/under-armours-stock-dives-on-a-weak-outlook-with-tariffs-and-a-slowing-economy-to-blame-8552d1ff?mod=mw_rss_topstories",
-            "summary": "Under Armour's fiscal second quarter outlook fell below Wall Street’s expectations. The company again did not provide full-year outlooks.",
-            "date": "Fri, 08 Aug 2025 13:28:00 GMT",
+            "title": "‘Things are getting tougher’: I’m struggling with $145,000 in debt. Should I refinance my 3.5% mortgage?",
+            "link": "https://www.marketwatch.com/story/things-are-getting-tougher-im-struggling-with-145-000-in-debt-should-i-refinance-my-3-5-mortgage-6a7962c9?mod=mw_rss_topstories",
+            "summary": "“I’m in my upper 40s and have $300,000 in my 401(k),” he says. “I'm in my mid-40s. I’ve got a 401(K) that’s worth $300k.”",
+            "date": "Sat, 09 Aug 2025 12:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UA",
+            "stock_ticker": "SNSR.L",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Trump wants private assets in 401(k)s. How do everyday investors value them?",
+            "link": "https://www.marketwatch.com/story/trump-wants-private-assets-in-401-k-s-how-do-everyday-investors-value-them-d30e3e6f?mod=mw_rss_topstories",
+            "summary": "Private assets might soon be on the menu for your workplace retirement plan. But remember: These investments don't come with a price tag you can check every day.",
+            "date": "Sat, 09 Aug 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. Open prize money this year is the most ever given out at a tennis tournament: $90 million",
-            "link": "https://www.marketwatch.com/story/u-s-open-prize-money-this-year-is-the-most-ever-given-out-at-a-tennis-tournament-90-million-3dd9cfee?mod=mw_rss_topstories",
-            "summary": "The men's and women's singles winners will each earn $5 million at the 2025 U.S. Open. The tournament will be held in New York City.",
-            "date": "Fri, 08 Aug 2025 13:00:00 GMT",
+            "title": "‘This scam stuff is going to get worse’: A man approached me in my car — he had a crazy story",
+            "link": "https://www.marketwatch.com/story/this-scam-stuff-is-going-to-get-worse-a-man-approached-me-in-my-car-he-had-a-crazy-story-ccd885d3?mod=mw_rss_topstories",
+            "summary": "“I got rid of him by asking for a business card and a company name, and he bugged out,” she says.",
+            "date": "Sat, 09 Aug 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Wendy’s cuts profit outlook as U.S. sales stay weak. Its stock heads for a 5-year low.",
-            "link": "https://www.marketwatch.com/story/wendys-cuts-profit-outlook-but-stock-rises-54dca5a2?mod=mw_rss_topstories",
-            "summary": "CEO Ken Cook said the company has “more work to do” to improve its U.S. business. Sales fell for a second straight quarter.",
-            "date": "Fri, 08 Aug 2025 12:53:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WEN",
+            "stock_ticker": "S2819.MC",
             "impact": "Neutral"
         }
     ]
