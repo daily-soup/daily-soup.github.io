@@ -1,71 +1,71 @@
 {
-    "date": "2025-08-09",
+    "date": "2025-08-10",
     "news": [
         {
-            "title": "Apple has its best week since July 2020 after White House visit",
-            "link": "https://www.cnbc.com/2025/08/08/apple-has-best-week-since-july-2020-after-tim-cooks-white-house-visit.html",
-            "summary": "Apple is the third-most valuable company, behind Microsoft and Nvidia and ahead of Google and Amazon. Apple is also the most profitable company in the world.",
-            "date": "Fri, 08 Aug 2025 21:02:29 GMT",
+            "title": "AI is creating new billionaires at a record pace",
+            "link": "https://www.cnbc.com/2025/08/10/ai-artificial-intelligence-billionaires-wealth.html",
+            "summary": "With time, and IPOs, many of today's private AI fortunes will eventually become more liquid, providing a historic opportunity for wealth management firms.",
+            "date": "Sun, 10 Aug 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAPL",
+            "stock_ticker": "AI",
             "impact": "Neutral"
         },
         {
-            "title": "How one real estate startup is taking on record heat this summer",
-            "link": "https://www.cnbc.com/2025/08/09/real-estate-startup-runwise-cre-heating-cooling.html",
-            "summary": "Runwise combines future weather algorithms with a wireless temperature sensor network that speaks to a central control system. Runwise will be available in the U.S. later this year.",
-            "date": "Sat, 09 Aug 2025 12:00:01 GMT",
+            "title": "AI agents are being drafted into the cyber defense forces of corporations",
+            "link": "https://www.cnbc.com/2025/08/10/ai-agents-drafted-into-cybersecurity-defense-forces-of-companies.html",
+            "summary": "Agentic AI is being deployed as a new line of defense. Cybercriminal organizations use more sophisticated AI for phishing attacks and other hacks.",
+            "date": "Sun, 10 Aug 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "AI",
             "impact": "Neutral"
         },
         {
-            "title": "The new American shopping mall is less Macy's, more church, bowling, Barnes & Noble",
-            "link": "https://www.cnbc.com/2025/08/09/americas-dying-shopping-malls-have-surprising-rebound-in-store.html",
-            "summary": "Macy's and Sears close, and Claire's declares bankruptcy. New success is arriving from businesses that lead to retail \"cross-shopping\"",
-            "date": "Sat, 09 Aug 2025 12:30:02 GMT",
+            "title": "What private assets in 401(k) plans mean for investors: 'You’re only asking for trouble,' one advisor says",
+            "link": "https://www.cnbc.com/2025/08/07/trump-private-assets-retirement-plans.html",
+            "summary": "Millions of investors may soon have access to private assets in their 401(k) or other workplace retirement plans. What to know about the risks and rewards.",
+            "date": "Thu, 07 Aug 2025 19:50:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Activist Carronade spots a hidden gem in Viasat’s business. How the firm may unlock value",
-            "link": "https://www.cnbc.com/2025/08/09/activist-carronade-spots-a-hidden-gem-in-viasats-business-how-the-firm-may-unlock-value.html",
-            "summary": "Activist investor calls Viasat's Defense and Advanced Technologies business a 'crown jewel' that may be due for a spinoff or IPO.",
-            "date": "Sat, 09 Aug 2025 11:57:05 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ACTV",
+            "stock_ticker": "WAT-P.V",
             "impact": "Neutral"
         },
         {
-            "title": "Intel CEO responds to 'misinformation' and Trump threat in letter to employees",
-            "link": "https://www.cnbc.com/2025/08/08/intel-ceo-responds-to-misinformation-and-trump-threat-in-letter.html",
-            "summary": "Intel CEO Lip-Bu Tan addressed \"misinformation\" about his previous roles on Thursday. President Donald Trump called for Tan's resignation on Wednesday.",
-            "date": "Fri, 08 Aug 2025 18:06:51 GMT",
+            "title": "Top Wall Street analysts recommend these dividend stocks for steady income",
+            "link": "https://www.cnbc.com/2025/08/10/top-wall-street-analysts-recommend-these-dividend-stocks-for-steady-income.html",
+            "summary": "TipRanks' analyst ranking service discusses three dividend-paying stocks, including Chevron and AT&amp;T. TipRanks: Chevron, AT&T and Chevron are three of the best dividend paying stocks.",
+            "date": "Sun, 10 Aug 2025 12:00:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "INTC",
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m tired of corporate America’: My wife and I have $1.65 million. I’m 61. Can I retire already?",
-            "link": "https://www.marketwatch.com/story/im-tired-of-corporate-america-my-wife-and-i-have-1-65-million-im-61-can-i-retire-already-b125f48a?mod=mw_rss_topstories",
-            "summary": "“My annual income is $108,000,” she says. “I’m not rich, but I’ve got a good life.”",
-            "date": "Sat, 09 Aug 2025 13:00:00 GMT",
+            "title": "We spent $104 million turning an abandoned 19th-century college in NYC into luxury apartments—take a look inside",
+            "link": "https://www.cnbc.com/2025/08/09/abandoned-st-johns-university-the-hartby-apartment-building.html",
+            "summary": "The Hartby in Brooklyn, New York was formerly St. John's College before the school closed in 1972. The Hartby is located on the site of the former campus.",
+            "date": "Sat, 09 Aug 2025 15:00:02 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WFC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I’m scared to lose’: I have $140K in a 401(k) and earn $45K a year. Can I retire in 20 years?",
+            "link": "https://www.marketwatch.com/story/im-scared-to-lose-too-much-in-risky-investments-i-have-140k-in-a-401-k-and-earn-45k-a-year-can-i-retire-in-20-years-239aaf81?mod=mw_rss_topstories",
+            "summary": "“My 401(k) retirement planner shows I’ll likely be short $1,500 every month during my retirement.”",
+            "date": "Sun, 10 Aug 2025 12:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,52 +74,52 @@
             "impact": "Neutral"
         },
         {
-            "title": "Amazon documentary exposes ‘neglect and pain’ in many nursing homes. It’s only going to get worse.",
-            "link": "https://www.marketwatch.com/story/amazon-documentary-exposes-neglect-and-pain-in-many-nursing-homes-its-only-going-to-get-worse-6531f5f3?mod=mw_rss_topstories",
-            "summary": "The filmmaker’s mom suffered from chemical restraints, infections and dehydration. Here's how you can protect your family members. The filmmaker's mom was in a medically-induced coma for more than a week.",
-            "date": "Sat, 09 Aug 2025 13:00:00 GMT",
+            "title": "‘I have a great mortgage rate’: I need $80K to buy my husband out of our home. Do I raid my $180K Roth IRA?",
+            "link": "https://www.marketwatch.com/story/i-need-80k-to-buy-my-husband-out-of-our-home-do-i-raid-my-180k-roth-ira-73460355?mod=mw_rss_topstories",
+            "summary": "“I have two young children. I’m very proud of them,” she said. “I’ve always been proud of my children.”",
+            "date": "Sun, 10 Aug 2025 12:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMZN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘Things are getting tougher’: I’m struggling with $145,000 in debt. Should I refinance my 3.5% mortgage?",
-            "link": "https://www.marketwatch.com/story/things-are-getting-tougher-im-struggling-with-145-000-in-debt-should-i-refinance-my-3-5-mortgage-6a7962c9?mod=mw_rss_topstories",
-            "summary": "“I’m in my upper 40s and have $300,000 in my 401(k),” he says. “I'm in my mid-40s. I’ve got a 401(K) that’s worth $300k.”",
-            "date": "Sat, 09 Aug 2025 12:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SNSR.L",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Trump wants private assets in 401(k)s. How do everyday investors value them?",
-            "link": "https://www.marketwatch.com/story/trump-wants-private-assets-in-401-k-s-how-do-everyday-investors-value-them-d30e3e6f?mod=mw_rss_topstories",
-            "summary": "Private assets might soon be on the menu for your workplace retirement plan. But remember: These investments don't come with a price tag you can check every day.",
-            "date": "Sat, 09 Aug 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "FLY",
             "impact": "Neutral"
         },
         {
             "title": "‘This scam stuff is going to get worse’: A man approached me in my car — he had a crazy story",
             "link": "https://www.marketwatch.com/story/this-scam-stuff-is-going-to-get-worse-a-man-approached-me-in-my-car-he-had-a-crazy-story-ccd885d3?mod=mw_rss_topstories",
             "summary": "“I got rid of him by asking for a business card and a company name, and he bugged out,” she says.",
-            "date": "Sat, 09 Aug 2025 12:00:00 GMT",
+            "date": "Sun, 10 Aug 2025 12:02:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "S2819.MC",
             "impact": "Neutral"
+        },
+        {
+            "title": "My late husband’s employer is forcing me to take 10% 401(k) distributions. Help!",
+            "link": "https://www.marketwatch.com/story/my-late-husbands-employer-is-forcing-me-to-take-10-401-k-distributions-help-fe94579c?mod=mw_rss_topstories",
+            "summary": "A company representative said the account needed to be emptied within a 10-year period, he says. “A company rep said the accounts needed to have been emptied within 10 years,” he says, “and they were.”",
+            "date": "Sat, 09 Aug 2025 19:39:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AUDMYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘Things are getting tougher’: I’m struggling with $145,000 in debt. Should I refinance my 3.5% mortgage?",
+            "link": "https://www.marketwatch.com/story/things-are-getting-tougher-im-struggling-with-145-000-in-debt-should-i-refinance-my-3-5-mortgage-6a7962c9?mod=mw_rss_topstories",
+            "summary": "“I’m in my upper 40s and have $300,000 in my 401(k),” he says. “I'm in my mid-40s. I’ve got a 401(K) that’s worth $300k.”",
+            "date": "Sat, 09 Aug 2025 19:28:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SNSR.SW",
+            "impact": "Bullish"
         }
     ]
 }
