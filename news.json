@@ -1,35 +1,11 @@
 {
-    "date": "2025-08-10",
+    "date": "2025-08-11",
     "news": [
         {
-            "title": "AI is creating new billionaires at a record pace",
-            "link": "https://www.cnbc.com/2025/08/10/ai-artificial-intelligence-billionaires-wealth.html",
-            "summary": "With time, and IPOs, many of today's private AI fortunes will eventually become more liquid, providing a historic opportunity for wealth management firms.",
-            "date": "Sun, 10 Aug 2025 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "AI agents are being drafted into the cyber defense forces of corporations",
-            "link": "https://www.cnbc.com/2025/08/10/ai-agents-drafted-into-cybersecurity-defense-forces-of-companies.html",
-            "summary": "Agentic AI is being deployed as a new line of defense. Cybercriminal organizations use more sophisticated AI for phishing attacks and other hacks.",
-            "date": "Sun, 10 Aug 2025 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "What private assets in 401(k) plans mean for investors: 'You’re only asking for trouble,' one advisor says",
-            "link": "https://www.cnbc.com/2025/08/07/trump-private-assets-retirement-plans.html",
-            "summary": "Millions of investors may soon have access to private assets in their 401(k) or other workplace retirement plans. What to know about the risks and rewards.",
-            "date": "Thu, 07 Aug 2025 19:50:12 GMT",
+            "title": "What Trump's Nvidia and AMD China deal means for the world",
+            "link": "https://www.cnbc.com/2025/08/11/trump-nvidia-amd-china-chip-revenue-deal-implications.html",
+            "summary": " AMD and Nvidia get access to a huge market. Analysts said the deal to give some China revenue to the U.S. government is positive for both companies.",
+            "date": "Mon, 11 Aug 2025 12:54:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,88 +14,112 @@
             "impact": "Neutral"
         },
         {
-            "title": "Top Wall Street analysts recommend these dividend stocks for steady income",
-            "link": "https://www.cnbc.com/2025/08/10/top-wall-street-analysts-recommend-these-dividend-stocks-for-steady-income.html",
-            "summary": "TipRanks' analyst ranking service discusses three dividend-paying stocks, including Chevron and AT&amp;T. TipRanks: Chevron, AT&T and Chevron are three of the best dividend paying stocks.",
-            "date": "Sun, 10 Aug 2025 12:00:42 GMT",
+            "title": "Paramount buys UFC rights in $7.7 billion, 7-year deal in first major move post-Skydance merger",
+            "link": "https://www.cnbc.com/2025/08/11/paramount-buys-ufc-rights-skydance-merger.html",
+            "summary": "The deal will eliminate the pay-per-view model used by ESPN in its current UFC deal. All events will be available for no extra charge on Paramount+.",
+            "date": "Mon, 11 Aug 2025 13:04:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "PARA",
             "impact": "Neutral"
         },
         {
-            "title": "We spent $104 million turning an abandoned 19th-century college in NYC into luxury apartments—take a look inside",
-            "link": "https://www.cnbc.com/2025/08/09/abandoned-st-johns-university-the-hartby-apartment-building.html",
-            "summary": "The Hartby in Brooklyn, New York was formerly St. John's College before the school closed in 1972. The Hartby is located on the site of the former campus.",
-            "date": "Sat, 09 Aug 2025 15:00:02 GMT",
+            "title": "Bitcoin retakes $120,000, ether touches 2021 highs after breaking key $4,000 level",
+            "link": "https://www.cnbc.com/2025/08/11/crypto-market-today.html",
+            "summary": "Bitcoin is a stone's throw from its all-time high after an overnight rally. ether also propelled ether to levels not seen since 2021.",
+            "date": "Mon, 11 Aug 2025 12:43:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFC",
+            "stock_ticker": "BTC=F",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m scared to lose’: I have $140K in a 401(k) and earn $45K a year. Can I retire in 20 years?",
+            "title": "C3 AI stock falls 30% as CEO Siebel calls preliminary sales numbers 'completely unacceptable'",
+            "link": "https://www.cnbc.com/2025/08/11/c3-ai-stock-ceo-thomas-siebel.html",
+            "summary": "C3 AI shares tumbled after it announced preliminary financial results and a restructuring of its global sales and services organization. C3 AI is a global leader in the field of artificial intelligence.",
+            "date": "Mon, 11 Aug 2025 13:25:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Lithium stocks surge after Chinese mine suspends production",
+            "link": "https://www.cnbc.com/2025/08/11/lithium-stocks-surge-after-chinese-mine-suspends-production.html",
+            "summary": "CATL suspended production at the Yichun Project after the mine's permit expired Saturday. The company says the mine will not resume production until the permit is renewed.",
+            "date": "Mon, 11 Aug 2025 12:54:26 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LTH=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I have $140,000 in a 401(k) and earn $45,000 a year. Can I retire in 20 years?",
             "link": "https://www.marketwatch.com/story/im-scared-to-lose-too-much-in-risky-investments-i-have-140k-in-a-401-k-and-earn-45k-a-year-can-i-retire-in-20-years-239aaf81?mod=mw_rss_topstories",
             "summary": "“My 401(k) retirement planner shows I’ll likely be short $1,500 every month during my retirement.”",
-            "date": "Sun, 10 Aug 2025 12:17:00 GMT",
+            "date": "Mon, 11 Aug 2025 13:11:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I have a great mortgage rate’: I need $80K to buy my husband out of our home. Do I raid my $180K Roth IRA?",
-            "link": "https://www.marketwatch.com/story/i-need-80k-to-buy-my-husband-out-of-our-home-do-i-raid-my-180k-roth-ira-73460355?mod=mw_rss_topstories",
-            "summary": "“I have two young children. I’m very proud of them,” she said. “I’ve always been proud of my children.”",
-            "date": "Sun, 10 Aug 2025 12:13:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FLY",
+            "stock_ticker": "YM=F",
             "impact": "Neutral"
         },
         {
             "title": "‘This scam stuff is going to get worse’: A man approached me in my car — he had a crazy story",
             "link": "https://www.marketwatch.com/story/this-scam-stuff-is-going-to-get-worse-a-man-approached-me-in-my-car-he-had-a-crazy-story-ccd885d3?mod=mw_rss_topstories",
             "summary": "“I got rid of him by asking for a business card and a company name, and he bugged out,” she says.",
-            "date": "Sun, 10 Aug 2025 12:02:00 GMT",
+            "date": "Mon, 11 Aug 2025 13:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "S2819.MC",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         },
         {
-            "title": "My late husband’s employer is forcing me to take 10% 401(k) distributions. Help!",
-            "link": "https://www.marketwatch.com/story/my-late-husbands-employer-is-forcing-me-to-take-10-401-k-distributions-help-fe94579c?mod=mw_rss_topstories",
-            "summary": "A company representative said the account needed to be emptied within a 10-year period, he says. “A company rep said the accounts needed to have been emptied within 10 years,” he says, “and they were.”",
-            "date": "Sat, 09 Aug 2025 19:39:00 GMT",
+            "title": "These lithium stocks are surging as a mine in China goes offline. Can the rally continue?",
+            "link": "https://www.marketwatch.com/story/these-lithium-stocks-are-surging-as-a-mine-in-china-goes-offline-can-the-rally-continue-e0e04e87?mod=mw_rss_topstories",
+            "summary": "The supply of metal used for electric vehicles and computer batteries has been growing. But stocks of lithium companies are rallying as another mine shuts down.",
+            "date": "Mon, 11 Aug 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUDMYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘Things are getting tougher’: I’m struggling with $145,000 in debt. Should I refinance my 3.5% mortgage?",
-            "link": "https://www.marketwatch.com/story/things-are-getting-tougher-im-struggling-with-145-000-in-debt-should-i-refinance-my-3-5-mortgage-6a7962c9?mod=mw_rss_topstories",
-            "summary": "“I’m in my upper 40s and have $300,000 in my 401(k),” he says. “I'm in my mid-40s. I’ve got a 401(K) that’s worth $300k.”",
-            "date": "Sat, 09 Aug 2025 19:28:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SNSR.SW",
+            "stock_ticker": "LTH=F",
             "impact": "Bullish"
+        },
+        {
+            "title": "AMC sees moviegoers spending record amounts — and its stock surges. ‘Choke on that!’ says CEO.",
+            "link": "https://www.marketwatch.com/story/amc-sees-moviegoers-spending-record-amounts-and-its-stock-surges-72b55800?mod=mw_rss_topstories",
+            "summary": " AMC's CEO had a blunt message as the movie-theater chain is riding a rebound. AMC’s CEO said the company needs to focus on its core business. The company has more than 2,000 theaters.",
+            "date": "Mon, 11 Aug 2025 12:26:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AMC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Dot-com parallel leads to fear of what’s next for this record-busting stock market",
+            "link": "https://www.marketwatch.com/story/dot-com-parallel-leads-to-fear-of-whats-next-for-this-record-busting-stock-market-ade76619?mod=mw_rss_topstories",
+            "summary": "A new chart offers some parallels between current markets and the Internet boom and bust. How much of a problem is tech dominance? Few seem willing to bet against it right now.",
+            "date": "Mon, 11 Aug 2025 12:24:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PAR8665-USD",
+            "impact": "Neutral"
         }
     ]
 }
