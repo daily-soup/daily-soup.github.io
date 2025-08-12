@@ -1,83 +1,83 @@
 {
-    "date": "2025-08-11",
+    "date": "2025-08-12",
     "news": [
         {
-            "title": "What Trump's Nvidia and AMD China deal means for the world",
-            "link": "https://www.cnbc.com/2025/08/11/trump-nvidia-amd-china-chip-revenue-deal-implications.html",
-            "summary": " AMD and Nvidia get access to a huge market. Analysts said the deal to give some China revenue to the U.S. government is positive for both companies.",
-            "date": "Mon, 11 Aug 2025 12:54:04 GMT",
+            "title": "Consumer prices rise 2.7% annually in July, less than expected amid tariff worries",
+            "link": "https://www.cnbc.com/2025/08/12/cpi-inflation-report-july-2025.html",
+            "summary": " CPI was projected to increase 0.2% in July and 2.8% for a year ago on headline, and 0.3% and 3% on core.",
+            "date": "Tue, 12 Aug 2025 12:59:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WAT-P.V",
+            "stock_ticker": "XPT=F",
             "impact": "Neutral"
         },
         {
-            "title": "Paramount buys UFC rights in $7.7 billion, 7-year deal in first major move post-Skydance merger",
-            "link": "https://www.cnbc.com/2025/08/11/paramount-buys-ufc-rights-skydance-merger.html",
-            "summary": "The deal will eliminate the pay-per-view model used by ESPN in its current UFC deal. All events will be available for no extra charge on Paramount+.",
-            "date": "Mon, 11 Aug 2025 13:04:49 GMT",
+            "title": "Spirit Airlines warns it might not be able to survive without more cash",
+            "link": "https://www.cnbc.com/2025/08/12/spirit-airlines-warns-it-might-not-be-able-to-survive-without-more-cash.html",
+            "summary": "Spirit AIrlines issued a going-concern warning in its quarterly report. Spirit AIrline is one of the world's largest independent oil and gas operators.",
+            "date": "Tue, 12 Aug 2025 11:31:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PARA",
+            "stock_ticker": "SPR",
             "impact": "Neutral"
         },
         {
-            "title": "Bitcoin retakes $120,000, ether touches 2021 highs after breaking key $4,000 level",
-            "link": "https://www.cnbc.com/2025/08/11/crypto-market-today.html",
-            "summary": "Bitcoin is a stone's throw from its all-time high after an overnight rally. ether also propelled ether to levels not seen since 2021.",
-            "date": "Mon, 11 Aug 2025 12:43:20 GMT",
+            "title": "Circle shares rise as second-quarter revenue jumps 53% on strong stablecoin growth",
+            "link": "https://www.cnbc.com/2025/08/12/circle-crcl-earnings-q2-2025.html",
+            "summary": "Circle shares jumped Tuesday after reporting its first quarterly earnings as a publicly listed company. Circle shares jumped 6.7% on Tuesday.",
+            "date": "Tue, 12 Aug 2025 12:03:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BTC=F",
+            "stock_ticker": "CRCL",
             "impact": "Neutral"
         },
         {
-            "title": "C3 AI stock falls 30% as CEO Siebel calls preliminary sales numbers 'completely unacceptable'",
-            "link": "https://www.cnbc.com/2025/08/11/c3-ai-stock-ceo-thomas-siebel.html",
-            "summary": "C3 AI shares tumbled after it announced preliminary financial results and a restructuring of its global sales and services organization. C3 AI is a global leader in the field of artificial intelligence.",
-            "date": "Mon, 11 Aug 2025 13:25:00 GMT",
+            "title": "Musk threatens 'immediate' legal action against Apple over alleged antitrust violations",
+            "link": "https://www.cnbc.com/2025/08/12/musk-threatens-immediate-legal-action-against-apple-over-alleged-antitrust-violations.html",
+            "summary": "ChatGPT was ranked No. 1 in the top free apps section of the American iOS store. Apple has tied up with OpenAI to integrate ChatGPT into its products.",
+            "date": "Tue, 12 Aug 2025 13:18:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
-            "impact": "Neutral"
+            "stock_ticker": "MUSK24800-USD",
+            "impact": "Bullish"
         },
         {
-            "title": "Lithium stocks surge after Chinese mine suspends production",
-            "link": "https://www.cnbc.com/2025/08/11/lithium-stocks-surge-after-chinese-mine-suspends-production.html",
-            "summary": "CATL suspended production at the Yichun Project after the mine's permit expired Saturday. The company says the mine will not resume production until the permit is renewed.",
-            "date": "Mon, 11 Aug 2025 12:54:26 GMT",
+            "title": "Tesla is hiring robotaxi test drivers in New York City, but company hasn't applied for permits",
+            "link": "https://www.cnbc.com/2025/08/12/tesla-hiring-robotaxi-test-drivers-in-nyc-hasnt-applied-for-permits.html",
+            "summary": "Tesla is recruiting test drivers for \"automated driving systems\" in Queens. Tesla hasn't applied for permits to test its autonomous vehicles on New York streets.",
+            "date": "Tue, 12 Aug 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LTH=F",
+            "stock_ticker": "TSLA",
             "impact": "Neutral"
         },
         {
-            "title": "I have $140,000 in a 401(k) and earn $45,000 a year. Can I retire in 20 years?",
-            "link": "https://www.marketwatch.com/story/im-scared-to-lose-too-much-in-risky-investments-i-have-140k-in-a-401-k-and-earn-45k-a-year-can-i-retire-in-20-years-239aaf81?mod=mw_rss_topstories",
-            "summary": "“My 401(k) retirement planner shows I’ll likely be short $1,500 every month during my retirement.”",
-            "date": "Mon, 11 Aug 2025 13:11:00 GMT",
+            "title": "CPI manipulation isn’t an investor’s biggest concern. Watch this economic indicator instead.",
+            "link": "https://www.marketwatch.com/story/cpi-manipulation-isnt-an-investors-biggest-concern-watch-this-economic-indicator-instead-95467865?mod=mw_rss_topstories",
+            "summary": "Inflation figures have come under suspicion. But manipulating the jobs data is much tougher to detect. Inflation figures are under suspicion, but manipulating jobs data much more difficult.",
+            "date": "Tue, 12 Aug 2025 13:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "YM=F",
+            "stock_ticker": "PMTS",
             "impact": "Neutral"
         },
         {
-            "title": "‘This scam stuff is going to get worse’: A man approached me in my car — he had a crazy story",
-            "link": "https://www.marketwatch.com/story/this-scam-stuff-is-going-to-get-worse-a-man-approached-me-in-my-car-he-had-a-crazy-story-ccd885d3?mod=mw_rss_topstories",
-            "summary": "“I got rid of him by asking for a business card and a company name, and he bugged out,” she says.",
-            "date": "Mon, 11 Aug 2025 13:03:00 GMT",
+            "title": "This SpaceX rival’s stock is skyrocketing as space’s ‘game of phones’ heats up",
+            "link": "https://www.marketwatch.com/story/this-spacex-rivals-stock-is-skyrocketing-as-spaces-game-of-phones-heats-up-8779337c?mod=mw_rss_topstories",
+            "summary": "Shares of AST SpaceMobile are soaring, as it has cemented its place as a rival to Elon Musk’s Starlink.",
+            "date": "Tue, 12 Aug 2025 13:22:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,40 +86,40 @@
             "impact": "Neutral"
         },
         {
-            "title": "These lithium stocks are surging as a mine in China goes offline. Can the rally continue?",
-            "link": "https://www.marketwatch.com/story/these-lithium-stocks-are-surging-as-a-mine-in-china-goes-offline-can-the-rally-continue-e0e04e87?mod=mw_rss_topstories",
-            "summary": "The supply of metal used for electric vehicles and computer batteries has been growing. But stocks of lithium companies are rallying as another mine shuts down.",
-            "date": "Mon, 11 Aug 2025 13:00:00 GMT",
+            "title": "Key inflation rate shows biggest rise in 6 months, CPI shows, but Fed rate cut still appears in play",
+            "link": "https://www.marketwatch.com/story/key-inflation-rate-shows-biggest-rise-in-6-months-cpi-shows-but-fed-rate-cut-still-appears-in-play-63b2f5a3?mod=mw_rss_topstories",
+            "summary": "Key measure of consumer prices in July posted the biggest increase in six months. Inflation is showing some upward pressure from tariffs but perhaps not enough to deter the Federal Reserve from cutting interest rates soon.",
+            "date": "Tue, 12 Aug 2025 12:41:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LTH=F",
+            "stock_ticker": "KEY",
             "impact": "Bullish"
         },
         {
-            "title": "AMC sees moviegoers spending record amounts — and its stock surges. ‘Choke on that!’ says CEO.",
-            "link": "https://www.marketwatch.com/story/amc-sees-moviegoers-spending-record-amounts-and-its-stock-surges-72b55800?mod=mw_rss_topstories",
-            "summary": " AMC's CEO had a blunt message as the movie-theater chain is riding a rebound. AMC’s CEO said the company needs to focus on its core business. The company has more than 2,000 theaters.",
-            "date": "Mon, 11 Aug 2025 12:26:00 GMT",
+            "title": "Why 6,500 can be a launching pad for the S&P 500, according to this trader",
+            "link": "https://www.marketwatch.com/story/why-6-500-can-be-a-launching-pad-for-the-s-p-500-according-to-this-trader-dcf44cdf?mod=mw_rss_topstories",
+            "summary": "In thin summer markets round numbers become magnets, says a popular newsletter author. In thin summer market round numbers are a magnet for investors, says the author.",
+            "date": "Tue, 12 Aug 2025 12:35:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMC",
+            "stock_ticker": "301218.SZ",
             "impact": "Neutral"
         },
         {
-            "title": "Dot-com parallel leads to fear of what’s next for this record-busting stock market",
-            "link": "https://www.marketwatch.com/story/dot-com-parallel-leads-to-fear-of-whats-next-for-this-record-busting-stock-market-ade76619?mod=mw_rss_topstories",
-            "summary": "A new chart offers some parallels between current markets and the Internet boom and bust. How much of a problem is tech dominance? Few seem willing to bet against it right now.",
-            "date": "Mon, 11 Aug 2025 12:24:00 GMT",
+            "title": "Investors bid up for Bullish’s IPO as the CoinDesk parent gets set to go public",
+            "link": "https://www.marketwatch.com/story/investors-bid-up-for-bullishs-ipo-as-the-coindesk-parent-gets-set-to-go-public-03f32f61?mod=mw_rss_topstories",
+            "summary": "Bullish is set to go public in the coming days, and is expected to be valued at up to $5 billion. Bullish will be listed on the New York Stock Exchange and the Nasdaq.",
+            "date": "Tue, 12 Aug 2025 12:18:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PAR8665-USD",
-            "impact": "Neutral"
+            "stock_ticker": "OHI",
+            "impact": "Bullish"
         }
     ]
 }
