@@ -1,125 +1,125 @@
 {
-    "date": "2025-08-12",
+    "date": "2025-08-13",
     "news": [
         {
-            "title": "Consumer prices rise 2.7% annually in July, less than expected amid tariff worries",
-            "link": "https://www.cnbc.com/2025/08/12/cpi-inflation-report-july-2025.html",
-            "summary": " CPI was projected to increase 0.2% in July and 2.8% for a year ago on headline, and 0.3% and 3% on core.",
-            "date": "Tue, 12 Aug 2025 12:59:15 GMT",
+            "title": "Trump considering 11 candidates for Fed chair, including David Zervos and Rick Rieder, sources say",
+            "link": "https://www.cnbc.com/2025/08/13/trump-considering-11-candidates-for-fed-chair-including-david-zervos-and-rick-rieder-sources-say.html",
+            "summary": "The size of the Fed Chair candidate list and the process described suggest a decision is not imminent. A decision could take a considerable amount of time.",
+            "date": "Wed, 13 Aug 2025 13:28:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XPT=F",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Spirit Airlines warns it might not be able to survive without more cash",
-            "link": "https://www.cnbc.com/2025/08/12/spirit-airlines-warns-it-might-not-be-able-to-survive-without-more-cash.html",
-            "summary": "Spirit AIrlines issued a going-concern warning in its quarterly report. Spirit AIrline is one of the world's largest independent oil and gas operators.",
-            "date": "Tue, 12 Aug 2025 11:31:51 GMT",
+            "title": "How Big Tech is paying its way out of Trump's tariffs",
+            "link": "https://www.cnbc.com/2025/08/13/nvidia-amd-and-apple-big-tech-is-paying-its-way-out-of-trump-tariffs.html",
+            "summary": "The deals show just how important it is for the world's largest companies to find some tariff relief. Analysts say the deals show how important tariff relief is to the global economy.",
+            "date": "Wed, 13 Aug 2025 12:00:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPR",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Circle shares rise as second-quarter revenue jumps 53% on strong stablecoin growth",
-            "link": "https://www.cnbc.com/2025/08/12/circle-crcl-earnings-q2-2025.html",
-            "summary": "Circle shares jumped Tuesday after reporting its first quarterly earnings as a publicly listed company. Circle shares jumped 6.7% on Tuesday.",
-            "date": "Tue, 12 Aug 2025 12:03:51 GMT",
+            "title": "Weekly mortgage refinancing demand shoots 23% higher, with riskier loans making a comeback",
+            "link": "https://www.cnbc.com/2025/08/13/weekly-mortgage-refinancing-shoots-23percent-higher.html",
+            "summary": "Mortgage rates dropped again last week, spurring big demand for mortgage refinancing. ARM loans also increased, as they offer lower rates.",
+            "date": "Wed, 13 Aug 2025 12:03:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CRCL",
+            "stock_ticker": "NVDW",
             "impact": "Neutral"
         },
         {
-            "title": "Musk threatens 'immediate' legal action against Apple over alleged antitrust violations",
-            "link": "https://www.cnbc.com/2025/08/12/musk-threatens-immediate-legal-action-against-apple-over-alleged-antitrust-violations.html",
-            "summary": "ChatGPT was ranked No. 1 in the top free apps section of the American iOS store. Apple has tied up with OpenAI to integrate ChatGPT into its products.",
-            "date": "Tue, 12 Aug 2025 13:18:03 GMT",
+            "title": "Trump tells Goldman Sachs CEO David Solomon to replace bank's economist over tariff predictions",
+            "link": "https://www.cnbc.com/2025/08/12/trump-solomon-goldman-sachs-economist-tariffs.html",
+            "summary": "President Donald Trump said Goldman Sachs boss David Solomon should \"just focus on being a DJ\" if he does not get a new economist. Trump said Solomon should get a job as a DJ instead of an economist.",
+            "date": "Tue, 12 Aug 2025 21:30:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MUSK24800-USD",
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+            "link": "https://www.cnbc.com/2025/08/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+            "summary": "Wait for the CoreWeave lockup to expire, and major insider buying at Club name Eli Lilly. The lockup is set to expire at the end of the month.",
+            "date": "Wed, 13 Aug 2025 13:06:27 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "7962.T",
             "impact": "Bullish"
         },
         {
-            "title": "Tesla is hiring robotaxi test drivers in New York City, but company hasn't applied for permits",
-            "link": "https://www.cnbc.com/2025/08/12/tesla-hiring-robotaxi-test-drivers-in-nyc-hasnt-applied-for-permits.html",
-            "summary": "Tesla is recruiting test drivers for \"automated driving systems\" in Queens. Tesla hasn't applied for permits to test its autonomous vehicles on New York streets.",
-            "date": "Tue, 12 Aug 2025 12:00:01 GMT",
+            "title": "​Trump has perfected a tax on corporate America — just don’t call it a tax. Here’s how it could affect stocks.",
+            "link": "https://www.marketwatch.com/story/trumps-nvidia-deal-opens-a-pay-to-play-toll-road-to-do-business-in-america-investors-will-feel-every-bump-5601f2f7?mod=mw_rss_topstories",
+            "summary": "Trump’s Nvidia deal opens a multibillion-dollar  ‘pay to play’ floodgate to do business. If you can’t afford the toll, don't approach the booth.",
+            "date": "Wed, 13 Aug 2025 13:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSLA",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "CPI manipulation isn’t an investor’s biggest concern. Watch this economic indicator instead.",
-            "link": "https://www.marketwatch.com/story/cpi-manipulation-isnt-an-investors-biggest-concern-watch-this-economic-indicator-instead-95467865?mod=mw_rss_topstories",
-            "summary": "Inflation figures have come under suspicion. But manipulating the jobs data is much tougher to detect. Inflation figures are under suspicion, but manipulating jobs data much more difficult.",
-            "date": "Tue, 12 Aug 2025 13:28:00 GMT",
+            "title": "Hims & Hers CEO sells $33 million in stock after a massive rally",
+            "link": "https://www.marketwatch.com/story/hims-hers-ceo-sells-33-million-in-stock-after-a-massive-rally-7d78322f?mod=mw_rss_topstories",
+            "summary": "The company says the sales came from indirect holdings and were for “tax and philanthropic purposes.” The company says it sold the shares for tax and philanthropy purposes.",
+            "date": "Wed, 13 Aug 2025 13:11:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PMTS",
+            "stock_ticker": "HIMS",
             "impact": "Neutral"
         },
         {
-            "title": "This SpaceX rival’s stock is skyrocketing as space’s ‘game of phones’ heats up",
-            "link": "https://www.marketwatch.com/story/this-spacex-rivals-stock-is-skyrocketing-as-spaces-game-of-phones-heats-up-8779337c?mod=mw_rss_topstories",
-            "summary": "Shares of AST SpaceMobile are soaring, as it has cemented its place as a rival to Elon Musk’s Starlink.",
-            "date": "Tue, 12 Aug 2025 13:22:00 GMT",
+            "title": "Chili’s parent offers fresh sign that consumers are still eating out. The stock surges.",
+            "link": "https://www.marketwatch.com/story/chilis-parent-offers-fresh-sign-that-consumers-are-still-eating-out-the-stock-surges-5acc7f1f?mod=mw_rss_topstories",
+            "summary": "Brinker's stock surges, as the Chili's as strong traffic growth led to better-than-expected quarterly sales. Brinker’s stock surges.",
+            "date": "Wed, 13 Aug 2025 13:11:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "FYBR",
             "impact": "Neutral"
         },
         {
-            "title": "Key inflation rate shows biggest rise in 6 months, CPI shows, but Fed rate cut still appears in play",
-            "link": "https://www.marketwatch.com/story/key-inflation-rate-shows-biggest-rise-in-6-months-cpi-shows-but-fed-rate-cut-still-appears-in-play-63b2f5a3?mod=mw_rss_topstories",
-            "summary": "Key measure of consumer prices in July posted the biggest increase in six months. Inflation is showing some upward pressure from tariffs but perhaps not enough to deter the Federal Reserve from cutting interest rates soon.",
-            "date": "Tue, 12 Aug 2025 12:41:00 GMT",
+            "title": "Perplexity wants to buy Google Chrome. Wall Street dismisses the notion as a stunt.",
+            "link": "https://www.marketwatch.com/story/perplexity-wants-to-buy-google-chrome-heres-why-wall-street-doubts-it-will-happen-7b366c3a?mod=mw_rss_topstories",
+            "summary": "AI startup has put in a $34.5 billion bid to buy Chrome as a key antitrust ruling looms. But analysts say the price looks low and Google is unlikely to be selling.",
+            "date": "Wed, 13 Aug 2025 12:48:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KEY",
+            "stock_ticker": "PPLXTY-USD",
             "impact": "Bullish"
         },
         {
-            "title": "Why 6,500 can be a launching pad for the S&P 500, according to this trader",
-            "link": "https://www.marketwatch.com/story/why-6-500-can-be-a-launching-pad-for-the-s-p-500-according-to-this-trader-dcf44cdf?mod=mw_rss_topstories",
-            "summary": "In thin summer markets round numbers become magnets, says a popular newsletter author. In thin summer market round numbers are a magnet for investors, says the author.",
-            "date": "Tue, 12 Aug 2025 12:35:00 GMT",
+            "title": "Why Deutsche Bank says it’s time to short the 10-year Treasury",
+            "link": "https://www.marketwatch.com/story/why-deutsche-bank-says-its-time-to-short-the-10-year-treasury-a3bf5b28?mod=mw_rss_topstories",
+            "summary": "Market is overestimating how far the Fed will cut rates, analysts say. The Fed is expected to cut rates by a quarter of a percentage point in December.",
+            "date": "Wed, 13 Aug 2025 12:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "301218.SZ",
             "impact": "Neutral"
-        },
-        {
-            "title": "Investors bid up for Bullish’s IPO as the CoinDesk parent gets set to go public",
-            "link": "https://www.marketwatch.com/story/investors-bid-up-for-bullishs-ipo-as-the-coindesk-parent-gets-set-to-go-public-03f32f61?mod=mw_rss_topstories",
-            "summary": "Bullish is set to go public in the coming days, and is expected to be valued at up to $5 billion. Bullish will be listed on the New York Stock Exchange and the Nasdaq.",
-            "date": "Tue, 12 Aug 2025 12:18:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OHI",
-            "impact": "Bullish"
         }
     ]
 }
