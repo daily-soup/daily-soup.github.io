@@ -1,11 +1,11 @@
 {
-    "date": "2025-08-14",
+    "date": "2025-08-15",
     "news": [
         {
-            "title": "Wholesale prices rose 0.9% in July, much more than expected",
-            "link": "https://www.cnbc.com/2025/08/14/ppi-inflation-report-july-2025-.html",
-            "summary": "The producer price index was expected to show a 0.2% increase for July, according to the Dow Jones consensus estimate. The consumer price index is expected to rise 0.3% for July.",
-            "date": "Thu, 14 Aug 2025 13:25:26 GMT",
+            "title": "Who will Trump pick for Fed chair? Hear from all the candidates in their own words",
+            "link": "https://www.cnbc.com/2025/08/15/what-trumps-fed-chair-candidates-have-had-to-say-in-cnbc-interviews.html",
+            "summary": "President Trump's short list to replace Jerome Powell as Fed chair has turned into a long list of nearly a dozen possible candidates. President Trump has said he wants to replace Powell with someone with more Wall Street experience.",
+            "date": "Fri, 15 Aug 2025 12:26:25 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,70 +14,34 @@
             "impact": "Neutral"
         },
         {
-            "title": "Economist Sumerlin confirms he's in the running for Fed chair, backs big interest rate cut",
-            "link": "https://www.cnbc.com/2025/08/14/economist-sumerlin-confirms-hes-in-the-running-for-fed-chair-backs-big-interest-rate-cut.html",
-            "summary": "Sumerlin: Lowering the Fed's key rate would be an easy decision now. Sumerlin said on CNBC that lowering the Fed’s key rates would be a easy decision.",
-            "date": "Thu, 14 Aug 2025 12:20:11 GMT",
+            "title": "DC sues Trump over federal takeover of police force",
+            "link": "https://www.cnbc.com/2025/08/15/dc-sues-trump-police.html",
+            "summary": "Trump federalizes the police department of Washington, D.C., and orders the deployment of National Guard troops in the capital city. Trump also orders the use of the National Guard to protect the White House.",
+            "date": "Fri, 15 Aug 2025 13:20:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001RQR9.F",
+            "stock_ticker": "DC",
             "impact": "Neutral"
         },
         {
-            "title": "Cadillac unveils 'Elevated Velocity' electric crossover concept car",
-            "link": "https://www.cnbc.com/2025/08/14/cadillac-elevated-velocity-concept-car-ev.html",
-            "summary": "Cadillac Elevated Velocity is a new concept car aimed at building on the brand's all-electric luxury crossover segment. General Motors unveiled the concept car at an event in Detroit.",
-            "date": "Thu, 14 Aug 2025 13:00:01 GMT",
+            "title": "Nothing is off the table as Trump and Putin set to meet",
+            "link": "https://www.cnbc.com/2025/08/15/nothing-is-off-the-table-as-trump-and-putin-set-to-meet.html",
+            "summary": "\"Trump wants to exhaust all options to have a peaceful end to war,\" the White House says. Whether those \"options\" are good or bad for Ukraine is key.",
+            "date": "Fri, 15 Aug 2025 12:51:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VEL",
+            "stock_ticker": "BON30611-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Kodak faces financial struggles even as Gen Z sparks a film resurgence",
-            "link": "https://www.cnbc.com/2025/08/14/kodak-going-concern-gen-z-film.html",
-            "summary": "Film camera company Kodak indicated it may need to file for bankruptcy. But Gen Z is showing a renewed interest in retro tech and aesthetics.",
-            "date": "Thu, 14 Aug 2025 11:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KODK",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Google faces loss of Chrome as Perplexity bid adds drama to looming breakup decision",
-            "link": "https://www.cnbc.com/2025/08/13/google-antitrust-chrome-perplexity-ai-youtube.html",
-            "summary": "Perplexity AI's offer of $34.5 billion for Google's Chrome browser is a lot lower than where some analysts value the business.",
-            "date": "Wed, 13 Aug 2025 22:37:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GOOG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m confused!’ Why does President Trump want a rate cut so badly?",
-            "link": "https://www.marketwatch.com/story/im-confused-why-does-president-trump-want-a-rate-cut-so-badly-whats-wall-streets-view-ce9a72f9?mod=mw_rss_topstories",
-            "summary": "Moneyist reader raises questions in the aftermath of the latest inflation data. A letter from a worried, wary Moneyist reader raised questions about the inflation figures.",
-            "date": "Thu, 14 Aug 2025 13:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMNR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Warren Buffett has secretly invested $5 billion into a mystery stock — and the trail leads to this industrial giant",
-            "link": "https://www.marketwatch.com/story/warren-buffett-has-secretly-invested-5-billion-into-a-mystery-stock-and-the-trail-leads-to-this-industrial-giant-ad2dbef6?mod=mw_rss_topstories",
-            "summary": "Buy the stock or an industrial-sector ETF — but get ahead of Berkshire Hathaway’s big reveal. The company is expected to announce a major shake-up in the near future.",
-            "date": "Thu, 14 Aug 2025 13:23:00 GMT",
+            "title": "Warren Buffett's Berkshire Hathaway reveals new stake in beleaguered insurer UnitedHealth",
+            "link": "https://www.cnbc.com/2025/08/14/warren-buffetts-berkshire-hathaway-unh.html",
+            "summary": "The Omaha, Nebraska-based conglomerate bought more than 5 million shares in the health-care firm for a stake worth about $1.6 billion at the end of June.",
+            "date": "Fri, 15 Aug 2025 12:12:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "Millennial and Gen Z customers are flocking to Coach. So why is Tapestry’s stock tanking?",
-            "link": "https://www.marketwatch.com/story/millennial-and-gen-z-customers-are-flocking-to-coach-so-why-is-tapestrys-stock-tanking-80679a91?mod=mw_rss_topstories",
-            "summary": "Tapestry shares fall sharply after results from the Coach and Kate Spade parent weren't good enough to justify another record high. Shares of fashion-brand company Tapestry were falling sharply.",
-            "date": "Thu, 14 Aug 2025 13:18:00 GMT",
+            "title": "Summer travel isn't as easy as it used to be for airlines",
+            "link": "https://www.cnbc.com/2025/08/15/airlines-summer-travel-changes-american-delta-united-southwest-jetblue.html",
+            "summary": "Airlines are seeing an earlier drop-off in summer travel as children return to school earlier. Airlines are also seeing an early drop- off in business travel as well.",
+            "date": "Fri, 15 Aug 2025 11:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "7GX2.MU",
+            "stock_ticker": "20S.F",
             "impact": "Neutral"
         },
         {
-            "title": "Wholesale prices post biggest surge in three years, PPI shows, in sign of tariff-related inflation",
-            "link": "https://www.marketwatch.com/story/wholesale-prices-post-biggest-surge-in-three-years-ppi-shows-sign-of-tariff-related-inflation-1cdc1dde?mod=mw_rss_topstories",
-            "summary": "The cost of wholesale goods and services posted the biggest increase in July in three years. The increase could herald a sizable acceleration in price increases tied to higher U.S. tariffs.",
-            "date": "Thu, 14 Aug 2025 12:36:00 GMT",
+            "title": "Energy traders have already baked Alaska into the price, says BofA strategist. What could come next.",
+            "link": "https://www.marketwatch.com/story/energy-traders-have-already-baked-alaska-into-the-price-says-bofa-strategist-244d9d97?mod=mw_rss_topstories",
+            "summary": " Strategist notes S&amp;P 500 price-to-book at record high, that Fed rate cuts threaten the dollar, and that energy bear market could get worse.",
+            "date": "Fri, 15 Aug 2025 13:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COST",
-            "impact": "Bullish"
+            "stock_ticker": "XAE=F",
+            "impact": "Neutral"
         },
         {
-            "title": "Clash of the titans: The hottest momentum stock meets the most notorious short seller",
-            "link": "https://www.marketwatch.com/story/clash-of-the-titans-the-hottest-momentum-stock-meets-the-most-notorious-short-seller-d96fd270?mod=mw_rss_topstories",
-            "summary": "Palantir is the best gainer this year in the S&amp;P 500. Andrew Left says he is shorting Palantir.",
-            "date": "Thu, 14 Aug 2025 12:35:00 GMT",
+            "title": "My wife and I are in our 50s and have $11 million. We’re not leaving it to our kids. Is that wrong?",
+            "link": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
+            "summary": "“We have retired from full-time work,” says the couple. “We’re not going to do it anymore.” “It’s time to go home.’",
+            "date": "Fri, 15 Aug 2025 12:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COL20672-USD",
+            "stock_ticker": "AUDMYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "20 stocks in the S&P 500 that are high achievers this earnings season",
+            "link": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-are-high-achievers-this-earnings-season-17b99522?mod=mw_rss_topstories",
+            "summary": "These companies have shown the largest increases in sales per share while also improving profit margins. These companies have also improved their profit margins by more than 50 per cent.",
+            "date": "Fri, 15 Aug 2025 12:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "QM=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I’m tired of corporate America’: My wife and I have $1.65 million. I’m 61. Can I retire already?",
+            "link": "https://www.marketwatch.com/story/im-tired-of-corporate-america-my-wife-and-i-have-1-65-million-im-61-can-i-retire-already-b125f48a?mod=mw_rss_topstories",
+            "summary": "“My annual income is $108,000,” she says. “I’m not rich, but I’ve got a good life.”",
+            "date": "Fri, 15 Aug 2025 12:49:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BMNR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Can my wife claim spousal Social Security as a permanent resident from Ukraine?",
+            "link": "https://www.marketwatch.com/story/can-my-wife-claim-spousal-social-security-as-a-permanent-resident-from-ukraine-e003bfd9?mod=mw_rss_topstories",
+            "summary": "“She’s only worked since 2021 and won’t be able to work six more years,’’ says her mother. “She has to stop now.”",
+            "date": "Fri, 15 Aug 2025 12:47:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CAN",
             "impact": "Neutral"
         }
     ]
