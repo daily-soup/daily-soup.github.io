@@ -1,107 +1,95 @@
 {
-    "date": "2025-08-15",
+    "date": "2025-08-16",
     "news": [
         {
-            "title": "Who will Trump pick for Fed chair? Hear from all the candidates in their own words",
-            "link": "https://www.cnbc.com/2025/08/15/what-trumps-fed-chair-candidates-have-had-to-say-in-cnbc-interviews.html",
-            "summary": "President Trump's short list to replace Jerome Powell as Fed chair has turned into a long list of nearly a dozen possible candidates. President Trump has said he wants to replace Powell with someone with more Wall Street experience.",
-            "date": "Fri, 15 Aug 2025 12:26:25 GMT",
+            "title": "Trump hails meeting with Putin as 'productive' after talks over Ukraine fail to reach a breakthrough",
+            "link": "https://www.cnbc.com/2025/08/16/trump-putin-alaska-summit-ukraine-no-breakthrough-.html",
+            "summary": "Trump: \"There's no deal until there's a deal\" following Friday meeting with Obama. Trump says he will continue to meet with Obama until a deal is reached.",
+            "date": "Sat, 16 Aug 2025 05:31:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COST",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "DC sues Trump over federal takeover of police force",
-            "link": "https://www.cnbc.com/2025/08/15/dc-sues-trump-police.html",
-            "summary": "Trump federalizes the police department of Washington, D.C., and orders the deployment of National Guard troops in the capital city. Trump also orders the use of the National Guard to protect the White House.",
-            "date": "Fri, 15 Aug 2025 13:20:27 GMT",
+            "title": "OpenAI in talks to sell around $6 billion in stock at roughly $500 billion valuation",
+            "link": "https://www.cnbc.com/2025/08/15/openai-6-billion-stock-500-billion-valuation.html",
+            "summary": "The talks are still in early stages and the details could change. The talks between the two sides are expected to continue for a few more months.",
+            "date": "Fri, 15 Aug 2025 21:57:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DC",
+            "stock_ticker": "OPENAI-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Nothing is off the table as Trump and Putin set to meet",
-            "link": "https://www.cnbc.com/2025/08/15/nothing-is-off-the-table-as-trump-and-putin-set-to-meet.html",
-            "summary": "\"Trump wants to exhaust all options to have a peaceful end to war,\" the White House says. Whether those \"options\" are good or bad for Ukraine is key.",
-            "date": "Fri, 15 Aug 2025 12:51:26 GMT",
+            "title": "Samsung taking market share from Apple in U.S. as foldable phones gain momentum",
+            "link": "https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html",
+            "summary": "Samsung introduced two folding phones in July that are garnering praise on social media. Samsung is putting pressure on Apple to deliver new types of iPhones.",
+            "date": "Sat, 16 Aug 2025 13:20:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BON30611-USD",
+            "stock_ticker": "005930.KS",
             "impact": "Neutral"
         },
         {
-            "title": "Warren Buffett's Berkshire Hathaway reveals new stake in beleaguered insurer UnitedHealth",
-            "link": "https://www.cnbc.com/2025/08/14/warren-buffetts-berkshire-hathaway-unh.html",
-            "summary": "The Omaha, Nebraska-based conglomerate bought more than 5 million shares in the health-care firm for a stake worth about $1.6 billion at the end of June.",
-            "date": "Fri, 15 Aug 2025 12:12:15 GMT",
+            "title": "Tech IPOs are roaring after 'years of Prohibition' — it may be too good",
+            "link": "https://www.cnbc.com/2025/08/15/tech-ipos-bullish-figma-circle-roaring-after-years-of-prohibition-.html",
+            "summary": "Bullish's IPO this week is another sign that the market is swinging wide open after a prolonged dry spell. Bullish will go public with a public offering of common stock.",
+            "date": "Fri, 15 Aug 2025 22:44:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PWR.AX",
+            "stock_ticker": "TECH",
             "impact": "Neutral"
         },
         {
-            "title": "Summer travel isn't as easy as it used to be for airlines",
-            "link": "https://www.cnbc.com/2025/08/15/airlines-summer-travel-changes-american-delta-united-southwest-jetblue.html",
-            "summary": "Airlines are seeing an earlier drop-off in summer travel as children return to school earlier. Airlines are also seeing an early drop- off in business travel as well.",
-            "date": "Fri, 15 Aug 2025 11:30:01 GMT",
+            "title": "Engine Capital takes a stake in Avantor. Activist sees several ways to create value",
+            "link": "https://www.cnbc.com/2025/08/16/engine-capital-takes-a-stake-in-avantor-activist-sees-several-ways-to-create-value.html",
+            "summary": "Avantor's underperformance is a consequence of self-inflicted mistakes, says Engine. Engine believes that Avantor has a flawed leadership team and framework.",
+            "date": "Sat, 16 Aug 2025 12:19:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "20S.F",
+            "stock_ticker": "SCIA",
             "impact": "Neutral"
         },
         {
-            "title": "Energy traders have already baked Alaska into the price, says BofA strategist. What could come next.",
-            "link": "https://www.marketwatch.com/story/energy-traders-have-already-baked-alaska-into-the-price-says-bofa-strategist-244d9d97?mod=mw_rss_topstories",
-            "summary": " Strategist notes S&amp;P 500 price-to-book at record high, that Fed rate cuts threaten the dollar, and that energy bear market could get worse.",
-            "date": "Fri, 15 Aug 2025 13:17:00 GMT",
+            "title": "‘I’ve been kept in poverty’: Do I take a $70K job at 74 and lose my Section 8 housing allowance?",
+            "link": "https://www.marketwatch.com/story/should-i-apply-for-a-70k-a-year-job-at-74-and-risk-losing-my-section-8-housing-allowance-9932217d?mod=mw_rss_topstories",
+            "summary": "“After the age of 50, I really only had sporadic contract work and I had to sell my house,” he says.",
+            "date": "Sat, 16 Aug 2025 13:09:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XAE=F",
+            "stock_ticker": "IVE",
             "impact": "Neutral"
         },
         {
-            "title": "My wife and I are in our 50s and have $11 million. We’re not leaving it to our kids. Is that wrong?",
-            "link": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
-            "summary": "“We have retired from full-time work,” says the couple. “We’re not going to do it anymore.” “It’s time to go home.’",
-            "date": "Fri, 15 Aug 2025 12:55:00 GMT",
+            "title": "Inflation alarm bells went off again and prices are rising. Just how bad is it going to get?",
+            "link": "https://www.marketwatch.com/story/inflation-alarm-bells-went-off-again-and-prices-are-rising-just-how-bad-is-it-going-to-get-6659c921?mod=mw_rss_topstories",
+            "summary": "The biggest increase in wholesale prices in three and a half years stunned Wall Street. But is tariff-related inflation really set to soar? The proof is far from ironclad.",
+            "date": "Sat, 16 Aug 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUDMYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "20 stocks in the S&P 500 that are high achievers this earnings season",
-            "link": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-are-high-achievers-this-earnings-season-17b99522?mod=mw_rss_topstories",
-            "summary": "These companies have shown the largest increases in sales per share while also improving profit margins. These companies have also improved their profit margins by more than 50 per cent.",
-            "date": "Fri, 15 Aug 2025 12:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "QM=F",
+            "stock_ticker": "TCILX",
             "impact": "Neutral"
         },
         {
             "title": "‘I’m tired of corporate America’: My wife and I have $1.65 million. I’m 61. Can I retire already?",
             "link": "https://www.marketwatch.com/story/im-tired-of-corporate-america-my-wife-and-i-have-1-65-million-im-61-can-i-retire-already-b125f48a?mod=mw_rss_topstories",
             "summary": "“My annual income is $108,000,” she says. “I’m not rich, but I’ve got a good life.”",
-            "date": "Fri, 15 Aug 2025 12:49:00 GMT",
+            "date": "Sat, 16 Aug 2025 12:14:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,16 +98,28 @@
             "impact": "Neutral"
         },
         {
-            "title": "Can my wife claim spousal Social Security as a permanent resident from Ukraine?",
-            "link": "https://www.marketwatch.com/story/can-my-wife-claim-spousal-social-security-as-a-permanent-resident-from-ukraine-e003bfd9?mod=mw_rss_topstories",
-            "summary": "“She’s only worked since 2021 and won’t be able to work six more years,’’ says her mother. “She has to stop now.”",
-            "date": "Fri, 15 Aug 2025 12:47:00 GMT",
+            "title": "Why nearly 7 in 10 new college grads are looking for jobs close to family",
+            "link": "https://www.marketwatch.com/story/why-nearly-7-in-10-new-college-grads-are-looking-for-jobs-close-to-family-405316fd?mod=mw_rss_topstories",
+            "summary": "Gen Z college graduates are prioritizing work-life balance and saving money when selecting their first job. Gen Z college grads are prioritising work- life balance and savings when selecting a job.",
+            "date": "Sat, 16 Aug 2025 12:07:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CAN",
+            "stock_ticker": "301218.SZ",
             "impact": "Neutral"
+        },
+        {
+            "title": "Getting married when you’re older can be a financial minefield. How to protect yourself.",
+            "link": "https://www.marketwatch.com/story/getting-married-when-youre-older-can-be-a-financial-minefield-how-to-protect-yourself-3e4edf0f?mod=mw_rss_topstories",
+            "summary": "When retirees tie the knot, prenups really matter. Skip them at your peril, experts say. \"Prenups are a big part of the deal when you're getting married,\" says one expert.",
+            "date": "Sat, 16 Aug 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHEN",
+            "impact": "Bullish"
         }
     ]
 }
