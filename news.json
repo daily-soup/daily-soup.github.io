@@ -1,35 +1,11 @@
 {
-    "date": "2025-08-16",
+    "date": "2025-08-17",
     "news": [
-        {
-            "title": "Trump hails meeting with Putin as 'productive' after talks over Ukraine fail to reach a breakthrough",
-            "link": "https://www.cnbc.com/2025/08/16/trump-putin-alaska-summit-ukraine-no-breakthrough-.html",
-            "summary": "Trump: \"There's no deal until there's a deal\" following Friday meeting with Obama. Trump says he will continue to meet with Obama until a deal is reached.",
-            "date": "Sat, 16 Aug 2025 05:31:31 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "OpenAI in talks to sell around $6 billion in stock at roughly $500 billion valuation",
-            "link": "https://www.cnbc.com/2025/08/15/openai-6-billion-stock-500-billion-valuation.html",
-            "summary": "The talks are still in early stages and the details could change. The talks between the two sides are expected to continue for a few more months.",
-            "date": "Fri, 15 Aug 2025 21:57:35 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OPENAI-USD",
-            "impact": "Neutral"
-        },
         {
             "title": "Samsung taking market share from Apple in U.S. as foldable phones gain momentum",
             "link": "https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html",
             "summary": "Samsung introduced two folding phones in July that are garnering praise on social media. Samsung is putting pressure on Apple to deliver new types of iPhones.",
-            "date": "Sat, 16 Aug 2025 13:20:21 GMT",
+            "date": "Sat, 16 Aug 2025 20:50:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,88 +14,112 @@
             "impact": "Neutral"
         },
         {
-            "title": "Tech IPOs are roaring after 'years of Prohibition' — it may be too good",
-            "link": "https://www.cnbc.com/2025/08/15/tech-ipos-bullish-figma-circle-roaring-after-years-of-prohibition-.html",
-            "summary": "Bullish's IPO this week is another sign that the market is swinging wide open after a prolonged dry spell. Bullish will go public with a public offering of common stock.",
-            "date": "Fri, 15 Aug 2025 22:44:18 GMT",
+            "title": "Bill Gates meets Willy Wonka: How Epic's 82-year-old billionaire CEO, Judy Faulkner, built her software factory",
+            "link": "https://www.cnbc.com/2025/08/16/how-epics-82-year-old-ceo-judy-faulkner-built-her-software-factory.html",
+            "summary": "Judy Faulkner has run Epic Systems for 46 years. She has a detailed plan for what happens when she's no longer the boss.",
+            "date": "Sat, 16 Aug 2025 15:58:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TECH",
+            "stock_ticker": "BILL",
             "impact": "Neutral"
         },
         {
-            "title": "Engine Capital takes a stake in Avantor. Activist sees several ways to create value",
-            "link": "https://www.cnbc.com/2025/08/16/engine-capital-takes-a-stake-in-avantor-activist-sees-several-ways-to-create-value.html",
-            "summary": "Avantor's underperformance is a consequence of self-inflicted mistakes, says Engine. Engine believes that Avantor has a flawed leadership team and framework.",
-            "date": "Sat, 16 Aug 2025 12:19:05 GMT",
+            "title": "Trump warned by top Senate Democrats to rethink advanced AI chip sales to China",
+            "link": "https://www.cnbc.com/2025/08/16/senate-democrats-letter-trump-advanced-ai-chip-sales-china.html",
+            "summary": "Top Senate Democrats warned Trump about AI chip deal with China in an open letter in August. On Aug. 15, top Senate Democrats sent a letter to the president warning him about the deal.",
+            "date": "Sat, 16 Aug 2025 18:39:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SCIA",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’ve been kept in poverty’: Do I take a $70K job at 74 and lose my Section 8 housing allowance?",
-            "link": "https://www.marketwatch.com/story/should-i-apply-for-a-70k-a-year-job-at-74-and-risk-losing-my-section-8-housing-allowance-9932217d?mod=mw_rss_topstories",
-            "summary": "“After the age of 50, I really only had sporadic contract work and I had to sell my house,” he says.",
-            "date": "Sat, 16 Aug 2025 13:09:00 GMT",
+            "title": "U.S. delegation's India visit reportedly called off as trade tensions simmer",
+            "link": "https://www.cnbc.com/2025/08/17/us-delegation-india-visit-called-off-as-trade-tensions-simmer-.html",
+            "summary": "The visit that was expected to take place between Aug. 25 and Aug. 29 will likely be rescheduled, NDTV reported, citing people familiar with the matter.",
+            "date": "Sun, 17 Aug 2025 04:09:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IVE",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Inflation alarm bells went off again and prices are rising. Just how bad is it going to get?",
-            "link": "https://www.marketwatch.com/story/inflation-alarm-bells-went-off-again-and-prices-are-rising-just-how-bad-is-it-going-to-get-6659c921?mod=mw_rss_topstories",
-            "summary": "The biggest increase in wholesale prices in three and a half years stunned Wall Street. But is tariff-related inflation really set to soar? The proof is far from ironclad.",
-            "date": "Sat, 16 Aug 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TCILX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m tired of corporate America’: My wife and I have $1.65 million. I’m 61. Can I retire already?",
-            "link": "https://www.marketwatch.com/story/im-tired-of-corporate-america-my-wife-and-i-have-1-65-million-im-61-can-i-retire-already-b125f48a?mod=mw_rss_topstories",
-            "summary": "“My annual income is $108,000,” she says. “I’m not rich, but I’ve got a good life.”",
-            "date": "Sat, 16 Aug 2025 12:14:00 GMT",
+            "title": "I’m a couples therapist — here are 5 reasons why people risk everything for an affair",
+            "link": "https://www.cnbc.com/2025/08/17/heres-why-people-risk-everything-for-an-affair-couples-therapist.html",
+            "summary": "There are five surprisingly common psychological pitfalls that can make someone risk everything for an affair, according to a couples therapist. There are five Surprisingly common Psychological pitfalls that Can make Someone Risk Everything for an Affair.",
+            "date": "Sun, 17 Aug 2025 01:35:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BMNR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why nearly 7 in 10 new college grads are looking for jobs close to family",
-            "link": "https://www.marketwatch.com/story/why-nearly-7-in-10-new-college-grads-are-looking-for-jobs-close-to-family-405316fd?mod=mw_rss_topstories",
-            "summary": "Gen Z college graduates are prioritizing work-life balance and saving money when selecting their first job. Gen Z college grads are prioritising work- life balance and savings when selecting a job.",
-            "date": "Sat, 16 Aug 2025 12:07:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "301218.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Getting married when you’re older can be a financial minefield. How to protect yourself.",
-            "link": "https://www.marketwatch.com/story/getting-married-when-youre-older-can-be-a-financial-minefield-how-to-protect-yourself-3e4edf0f?mod=mw_rss_topstories",
-            "summary": "When retirees tie the knot, prenups really matter. Skip them at your peril, experts say. \"Prenups are a big part of the deal when you're getting married,\" says one expert.",
-            "date": "Sat, 16 Aug 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHEN",
             "impact": "Bullish"
+        },
+        {
+            "title": "Teachers spending big on classroom supplies can look forward to broader tax breaks — but there’s a catch",
+            "link": "https://www.marketwatch.com/story/teachers-spending-big-on-classroom-supplies-can-look-forward-to-broader-tax-breaks-but-theres-a-catch-8d2d2bbf?mod=mw_rss_topstories",
+            "summary": "The IRS already offers a educator expense deduction. Here's what's next for the tax code. The next step will be to change the definition of what constitutes an educator expense.",
+            "date": "Sun, 17 Aug 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^SPXRETIT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My wife and I are in our 50s and have $11 million. We’re not leaving it to our kids. Is that wrong?",
+            "link": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
+            "summary": "“We have retired from full-time work,” says the couple. “We’re not going to do it anymore.” “It’s time to go home.’",
+            "date": "Sun, 17 Aug 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AUDMYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I am a senior citizen’: My car needs $3,500 for repairs, but only has a trade-in value of $6,000. Do I bother fixing it?",
+            "link": "https://www.marketwatch.com/story/i-am-retired-and-not-wealthy-my-car-needs-3-500-for-repairs-but-only-has-a-trade-in-value-of-6-000-do-i-bother-fixing-it-e81d225e?mod=mw_rss_topstories",
+            "summary": "What is the ‘tipping point’ for keeping one’s old car versus trading it in?” asks CNN iReport.",
+            "date": "Sun, 17 Aug 2025 11:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NUTR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My aunt barely spends any money. Will we receive the contents of her safe-deposit box when she dies?",
+            "link": "https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories",
+            "summary": "“I am asking for my mom, who is on a fixed income. It would be a nice boon,” she says.",
+            "date": "Sun, 17 Aug 2025 10:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AUDMYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "3 ways to make sure the ‘great wealth transfer’ enriches your family",
+            "link": "https://www.marketwatch.com/story/how-to-break-the-cycle-of-entitlement-so-your-heirs-value-their-privilege-and-your-money-2c8cd8ab?mod=mw_rss_topstories",
+            "summary": "From ‘affluenza’ to abundance: How to teach heirs to value their privilege — and your money. How do you teach your children to appreciate their privilege and their money?",
+            "date": "Sat, 16 Aug 2025 19:02:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "QQXL",
+            "impact": "Neutral"
         }
     ]
 }
