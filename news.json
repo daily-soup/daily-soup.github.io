@@ -1,124 +1,124 @@
 {
-    "date": "2025-08-17",
+    "date": "2025-08-18",
     "news": [
         {
-            "title": "Samsung taking market share from Apple in U.S. as foldable phones gain momentum",
-            "link": "https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html",
-            "summary": "Samsung introduced two folding phones in July that are garnering praise on social media. Samsung is putting pressure on Apple to deliver new types of iPhones.",
-            "date": "Sat, 16 Aug 2025 20:50:56 GMT",
+            "title": "Bitcoin sinks to $115,000 after hitting its newest record, as macro concerns spark liquidation wave",
+            "link": "https://www.cnbc.com/2025/08/18/crypto-market-today.html",
+            "summary": "The crypto market tumbled to begin the week as heightened macro concerns triggered more than $500 million in long liquidations. The market is now trading around $3,000 per coin.",
+            "date": "Mon, 18 Aug 2025 12:16:10 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "005930.KS",
+            "stock_ticker": "BTC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Bill Gates meets Willy Wonka: How Epic's 82-year-old billionaire CEO, Judy Faulkner, built her software factory",
-            "link": "https://www.cnbc.com/2025/08/16/how-epics-82-year-old-ceo-judy-faulkner-built-her-software-factory.html",
-            "summary": "Judy Faulkner has run Epic Systems for 46 years. She has a detailed plan for what happens when she's no longer the boss.",
-            "date": "Sat, 16 Aug 2025 15:58:36 GMT",
+            "title": "When 'invest like the 1%' fails: How Yieldstreet's real estate bets left customers with massive losses",
+            "link": "https://www.cnbc.com/2025/08/18/yieldstreet-real-estate-bets-customer-losses.html",
+            "summary": "Yieldstreet customers say they face huge losses on real estate investments. Yieldstreet is a private markets startup that invests in real estate.",
+            "date": "Mon, 18 Aug 2025 12:27:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BILL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump warned by top Senate Democrats to rethink advanced AI chip sales to China",
-            "link": "https://www.cnbc.com/2025/08/16/senate-democrats-letter-trump-advanced-ai-chip-sales-china.html",
-            "summary": "Top Senate Democrats warned Trump about AI chip deal with China in an open letter in August. On Aug. 15, top Senate Democrats sent a letter to the president warning him about the deal.",
-            "date": "Sat, 16 Aug 2025 18:39:59 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. delegation's India visit reportedly called off as trade tensions simmer",
-            "link": "https://www.cnbc.com/2025/08/17/us-delegation-india-visit-called-off-as-trade-tensions-simmer-.html",
-            "summary": "The visit that was expected to take place between Aug. 25 and Aug. 29 will likely be rescheduled, NDTV reported, citing people familiar with the matter.",
-            "date": "Sun, 17 Aug 2025 04:09:31 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m a couples therapist — here are 5 reasons why people risk everything for an affair",
-            "link": "https://www.cnbc.com/2025/08/17/heres-why-people-risk-everything-for-an-affair-couples-therapist.html",
-            "summary": "There are five surprisingly common psychological pitfalls that can make someone risk everything for an affair, according to a couples therapist. There are five Surprisingly common Psychological pitfalls that Can make Someone Risk Everything for an Affair.",
-            "date": "Sun, 17 Aug 2025 01:35:41 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "WHEN",
             "impact": "Bullish"
         },
         {
-            "title": "Teachers spending big on classroom supplies can look forward to broader tax breaks — but there’s a catch",
-            "link": "https://www.marketwatch.com/story/teachers-spending-big-on-classroom-supplies-can-look-forward-to-broader-tax-breaks-but-theres-a-catch-8d2d2bbf?mod=mw_rss_topstories",
-            "summary": "The IRS already offers a educator expense deduction. Here's what's next for the tax code. The next step will be to change the definition of what constitutes an educator expense.",
-            "date": "Sun, 17 Aug 2025 13:00:00 GMT",
+            "title": "Three things Europe wants as leaders prepare to meet Trump",
+            "link": "https://www.cnbc.com/2025/08/18/three-things-europe-wants-as-leaders-prepare-to-meet-trump.html",
+            "summary": "Seven EU leaders are traveling to the U.S. on Monday looking to bring Washington on the side of Ukraine. They will meet with President Barack Obama and other world leaders.",
+            "date": "Mon, 18 Aug 2025 11:01:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^SPXRETIT",
+            "stock_ticker": "SR3=F",
             "impact": "Neutral"
         },
         {
-            "title": "My wife and I are in our 50s and have $11 million. We’re not leaving it to our kids. Is that wrong?",
-            "link": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
-            "summary": "“We have retired from full-time work,” says the couple. “We’re not going to do it anymore.” “It’s time to go home.’",
-            "date": "Sun, 17 Aug 2025 12:00:00 GMT",
+            "title": "Versant to rename MSNBC, drop famed peacock logos in Comcast separation",
+            "link": "https://www.cnbc.com/2025/08/18/comcast-versant-rename-msnbc-peacock-logos.html",
+            "summary": " Versant is set to split from Comcast's NBCUniversal. Versant will become a separate company under a new name. The new name, Versant, is expected to be announced later this year.",
+            "date": "Mon, 18 Aug 2025 13:11:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUDMYR=X",
+            "stock_ticker": "BANGN",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Novo Nordisk offers diabetes drug Ozempic for less than half the price for cash-paying U.S. patients",
+            "link": "https://www.cnbc.com/2025/08/18/novo-nordisk-offers-diabetes-drug-ozempic-for-steep-cash-discount.html",
+            "summary": "Patients can pay $499 in cash per month for three dose sizes of Ozempic through the company's direct-to-consumer pharmacy and GoodRx, among other platforms.",
+            "date": "Mon, 18 Aug 2025 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVO",
             "impact": "Neutral"
         },
         {
-            "title": "‘I am a senior citizen’: My car needs $3,500 for repairs, but only has a trade-in value of $6,000. Do I bother fixing it?",
-            "link": "https://www.marketwatch.com/story/i-am-retired-and-not-wealthy-my-car-needs-3-500-for-repairs-but-only-has-a-trade-in-value-of-6-000-do-i-bother-fixing-it-e81d225e?mod=mw_rss_topstories",
-            "summary": "What is the ‘tipping point’ for keeping one’s old car versus trading it in?” asks CNN iReport.",
-            "date": "Sun, 17 Aug 2025 11:05:00 GMT",
+            "title": "Advisers are too quick to sell winners. One firm found a solution.",
+            "link": "https://www.marketwatch.com/story/advisers-are-too-quick-to-sell-winners-one-firm-found-a-solution-4a5b8ea0?mod=mw_rss_topstories",
+            "summary": "A brokerage discussed a novel solution to what’s known as the disposition effect. The effect is selling winners too early and losers too late.",
+            "date": "Mon, 18 Aug 2025 13:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NUTR",
+            "stock_ticker": "FGOMX",
             "impact": "Neutral"
         },
         {
-            "title": "My aunt barely spends any money. Will we receive the contents of her safe-deposit box when she dies?",
-            "link": "https://www.marketwatch.com/story/i-personally-dont-care-about-her-money-what-happens-to-my-aunts-safe-deposit-box-after-she-dies-e35546ad?mod=mw_rss_topstories",
-            "summary": "“I am asking for my mom, who is on a fixed income. It would be a nice boon,” she says.",
-            "date": "Sun, 17 Aug 2025 10:00:00 GMT",
+            "title": "Cruise-ship water slides are coming under scrutiny after Royal Caribbean incident",
+            "link": "https://www.marketwatch.com/story/how-safe-are-cruise-ship-water-slides-a-recent-incident-on-a-royal-caribbean-sailing-begs-the-question-7c565d82?mod=mw_rss_topstories",
+            "summary": "The slides are an increasingly popular attraction on many of the mega vessels operated by cruise lines. The slides are available on all major cruise lines, from Royal Caribbean to Costa Rica.",
+            "date": "Mon, 18 Aug 2025 13:21:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUDMYR=X",
+            "stock_ticker": "KYRI.AT",
             "impact": "Neutral"
         },
         {
-            "title": "3 ways to make sure the ‘great wealth transfer’ enriches your family",
-            "link": "https://www.marketwatch.com/story/how-to-break-the-cycle-of-entitlement-so-your-heirs-value-their-privilege-and-your-money-2c8cd8ab?mod=mw_rss_topstories",
-            "summary": "From ‘affluenza’ to abundance: How to teach heirs to value their privilege — and your money. How do you teach your children to appreciate their privilege and their money?",
-            "date": "Sat, 16 Aug 2025 19:02:00 GMT",
+            "title": "How social media convinces investors they’re the next Warren Buffett — or smarter",
+            "link": "https://www.marketwatch.com/story/how-social-media-convinces-investors-theyre-the-next-warren-buffett-or-smarter-a1f258c6?mod=mw_rss_topstories",
+            "summary": "Internet investing sites and tips give people a false — and costly — sense of their abilities, studies show. Legendary investor Howard Marks has a solution.",
+            "date": "Mon, 18 Aug 2025 12:29:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "QQXL",
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How one strategist solves the great market paradox playing out right now",
+            "link": "https://www.marketwatch.com/story/how-one-strategist-solves-the-great-market-paradox-playing-out-right-now-9dd123ea?mod=mw_rss_topstories",
+            "summary": "The market is not oblivious to risks right now. It’s well aware of them but maintaining equilibrium in the process. The market is well aware that it is in danger of overreacting.",
+            "date": "Mon, 18 Aug 2025 12:06:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Without this Jackson Hole signal, stocks could slide 15% in the fall, says one strategist",
+            "link": "https://www.marketwatch.com/story/without-this-signal-at-from-powell-at-jackson-hole-stocks-could-slide-15-says-this-strategist-887b0673?mod=mw_rss_topstories",
+            "summary": " Fed Chair Powell’s speech may disappoint investors, according to Evercore”s Emanuel. Emanuel: “I don’t think we’ve seen the peak of the Fed.”",
+            "date": "Mon, 18 Aug 2025 12:01:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DE000SLA7NE3.SG",
             "impact": "Neutral"
         }
     ]
