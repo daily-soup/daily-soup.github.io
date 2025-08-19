@@ -1,124 +1,124 @@
 {
-    "date": "2025-08-18",
+    "date": "2025-08-19",
     "news": [
         {
-            "title": "Bitcoin sinks to $115,000 after hitting its newest record, as macro concerns spark liquidation wave",
-            "link": "https://www.cnbc.com/2025/08/18/crypto-market-today.html",
-            "summary": "The crypto market tumbled to begin the week as heightened macro concerns triggered more than $500 million in long liquidations. The market is now trading around $3,000 per coin.",
-            "date": "Mon, 18 Aug 2025 12:16:10 GMT",
+            "title": "Silicon Valley's AI deals are creating zombie startups: 'You hollowed out the organization'",
+            "link": "https://www.cnbc.com/2025/08/19/how-ai-zombie-deals-work-meta-google.html",
+            "summary": "Tech giants have spent billions to buy top talent from startups, leaving behind shell companies. Unable to make big AI purchases because of regulatory hurdles.",
+            "date": "Tue, 19 Aug 2025 12:36:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BTC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "When 'invest like the 1%' fails: How Yieldstreet's real estate bets left customers with massive losses",
-            "link": "https://www.cnbc.com/2025/08/18/yieldstreet-real-estate-bets-customer-losses.html",
-            "summary": "Yieldstreet customers say they face huge losses on real estate investments. Yieldstreet is a private markets startup that invests in real estate.",
-            "date": "Mon, 18 Aug 2025 12:27:56 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHEN",
+            "stock_ticker": "SIMO",
             "impact": "Bullish"
         },
         {
-            "title": "Three things Europe wants as leaders prepare to meet Trump",
-            "link": "https://www.cnbc.com/2025/08/18/three-things-europe-wants-as-leaders-prepare-to-meet-trump.html",
-            "summary": "Seven EU leaders are traveling to the U.S. on Monday looking to bring Washington on the side of Ukraine. They will meet with President Barack Obama and other world leaders.",
-            "date": "Mon, 18 Aug 2025 11:01:58 GMT",
+            "title": "Bessent says interviews for 'incredible group' of potential Fed chairs will start after Labor Day",
+            "link": "https://www.cnbc.com/2025/08/19/bessent-says-interviews-for-incredible-group-of-potential-fed-chairs-will-start-after-labor-day.html",
+            "summary": "Bessent confirmed the race to replace current Chair Jerome Powell is between 11 candidates. In a CNBC interview, Bessent said there are 11 candidates in the running to replace Powell.",
+            "date": "Tue, 19 Aug 2025 12:31:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SR3=F",
+            "stock_ticker": "FOR",
             "impact": "Neutral"
         },
         {
-            "title": "Versant to rename MSNBC, drop famed peacock logos in Comcast separation",
-            "link": "https://www.cnbc.com/2025/08/18/comcast-versant-rename-msnbc-peacock-logos.html",
-            "summary": " Versant is set to split from Comcast's NBCUniversal. Versant will become a separate company under a new name. The new name, Versant, is expected to be announced later this year.",
-            "date": "Mon, 18 Aug 2025 13:11:38 GMT",
+            "title": "Trump promised Ukraine 'security guarantees': Here's what they could look like",
+            "link": "https://www.cnbc.com/2025/08/19/security-guarantees-are-coming-for-ukraine-putting-europe-on-the-hook.html",
+            "summary": "Trump says security guarantees for Ukraine would be \"provided\" by European countries with \"coordination\" with the U.S. The talks are taking place in Washington, D.C.",
+            "date": "Tue, 19 Aug 2025 08:56:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BANGN",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Novo Nordisk offers diabetes drug Ozempic for less than half the price for cash-paying U.S. patients",
-            "link": "https://www.cnbc.com/2025/08/18/novo-nordisk-offers-diabetes-drug-ozempic-for-steep-cash-discount.html",
-            "summary": "Patients can pay $499 in cash per month for three dose sizes of Ozempic through the company's direct-to-consumer pharmacy and GoodRx, among other platforms.",
-            "date": "Mon, 18 Aug 2025 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NVO",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Advisers are too quick to sell winners. One firm found a solution.",
-            "link": "https://www.marketwatch.com/story/advisers-are-too-quick-to-sell-winners-one-firm-found-a-solution-4a5b8ea0?mod=mw_rss_topstories",
-            "summary": "A brokerage discussed a novel solution to what’s known as the disposition effect. The effect is selling winners too early and losers too late.",
-            "date": "Mon, 18 Aug 2025 13:28:00 GMT",
+            "title": "Best Buy launches third-party marketplace as it looks for sales drivers",
+            "link": "https://www.cnbc.com/2025/08/19/best-buy-launches-third-party-marketplace.html",
+            "summary": "Retailers are using third-party sellers to expand their assortment. The move helps drive higher profits and attract advertising dollars. It joins other retailers that have used the tactic to increase their sales.",
+            "date": "Tue, 19 Aug 2025 10:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FGOMX",
+            "stock_ticker": "BBY",
             "impact": "Neutral"
         },
         {
-            "title": "Cruise-ship water slides are coming under scrutiny after Royal Caribbean incident",
-            "link": "https://www.marketwatch.com/story/how-safe-are-cruise-ship-water-slides-a-recent-incident-on-a-royal-caribbean-sailing-begs-the-question-7c565d82?mod=mw_rss_topstories",
-            "summary": "The slides are an increasingly popular attraction on many of the mega vessels operated by cruise lines. The slides are available on all major cruise lines, from Royal Caribbean to Costa Rica.",
-            "date": "Mon, 18 Aug 2025 13:21:00 GMT",
+            "title": "Intel is getting a $2 billion investment from SoftBank",
+            "link": "https://www.cnbc.com/2025/08/18/intel-is-getting-a-2-billion-investment-from-softbank.html",
+            "summary": "SoftBank will pay $23 per share for Intel's common stock, acquiring roughly 2% of the struggling chipmaker. SoftBank will buy Intel for roughly $23 billion.",
+            "date": "Tue, 19 Aug 2025 00:42:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KYRI.AT",
+            "stock_ticker": "INTC",
             "impact": "Neutral"
         },
         {
-            "title": "How social media convinces investors they’re the next Warren Buffett — or smarter",
-            "link": "https://www.marketwatch.com/story/how-social-media-convinces-investors-theyre-the-next-warren-buffett-or-smarter-a1f258c6?mod=mw_rss_topstories",
-            "summary": "Internet investing sites and tips give people a false — and costly — sense of their abilities, studies show. Legendary investor Howard Marks has a solution.",
-            "date": "Mon, 18 Aug 2025 12:29:00 GMT",
+            "title": "Gold has crushed stocks, bonds and even bitcoin in 2025. This banking giant just got more bullish.",
+            "link": "https://www.marketwatch.com/story/gold-has-crushed-stocks-bonds-and-even-bitcoin-in-2025-this-banking-giant-just-got-more-bullish-9071df48?mod=mw_rss_topstories",
+            "summary": "UBS Global Wealth Management strategists see plenty of drivers to keep pushing gold beyond the record run it has seen in 2025. UBS: Gold will hit $1,400 per ounce by 2025.",
+            "date": "Tue, 19 Aug 2025 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "GC=F",
             "impact": "Neutral"
         },
         {
-            "title": "How one strategist solves the great market paradox playing out right now",
-            "link": "https://www.marketwatch.com/story/how-one-strategist-solves-the-great-market-paradox-playing-out-right-now-9dd123ea?mod=mw_rss_topstories",
-            "summary": "The market is not oblivious to risks right now. It’s well aware of them but maintaining equilibrium in the process. The market is well aware that it is in danger of overreacting.",
-            "date": "Mon, 18 Aug 2025 12:06:00 GMT",
+            "title": "Viking Therapeutics’ stock tumbles after results of oral weight-loss drug trial. It has company.",
+            "link": "https://www.marketwatch.com/story/viking-therapeutics-stock-tumbles-after-results-of-oral-weight-loss-drug-trial-it-has-company-ea09cbc7?mod=mw_rss_topstories",
+            "summary": "Viking Therapeutics announced that a trial showed its oral weight-loss drug works. Like a larger rival, its stock price immediately suffered.",
+            "date": "Tue, 19 Aug 2025 13:11:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "VKTX",
             "impact": "Neutral"
         },
         {
-            "title": "Without this Jackson Hole signal, stocks could slide 15% in the fall, says one strategist",
-            "link": "https://www.marketwatch.com/story/without-this-signal-at-from-powell-at-jackson-hole-stocks-could-slide-15-says-this-strategist-887b0673?mod=mw_rss_topstories",
-            "summary": " Fed Chair Powell’s speech may disappoint investors, according to Evercore”s Emanuel. Emanuel: “I don’t think we’ve seen the peak of the Fed.”",
-            "date": "Mon, 18 Aug 2025 12:01:00 GMT",
+            "title": "European defense stocks in retreat. Ukraine peace could derail the rally.",
+            "link": "https://www.marketwatch.com/story/european-defense-stocks-in-retreat-ukraine-peace-could-derail-the-rally-c5cd8873?mod=mw_rss_topstories",
+            "summary": "Prospect of peace may crimp demand in the sector that has rallied this year. Prospect of peace could crimp Demand in the Sector that has Rallyed this Year.",
+            "date": "Tue, 19 Aug 2025 12:07:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DE000SLA7NE3.SG",
+            "stock_ticker": "EDP=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My wife and I are in our 50s and have $11 million. We’re not leaving it to our kids. Is that wrong?",
+            "link": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
+            "summary": "“We have retired from full-time work,” says the couple. “We’re not going to do it anymore.” “It’s time to go home.’",
+            "date": "Tue, 19 Aug 2025 11:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Home Depot sees U.S. sales accelerate, suggesting home-improvement slump may be over",
+            "link": "https://www.marketwatch.com/story/home-depots-stock-falls-after-another-profit-miss-but-home-improvement-projects-increase-ac3742c1?mod=mw_rss_topstories",
+            "summary": "Home Depot is seeing customers engaging more broadly in smaller home-improvement projects. Home Depot: We're seeing customers engage more broadly with small home- Improvement projects.",
+            "date": "Tue, 19 Aug 2025 11:45:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HD",
             "impact": "Neutral"
         }
     ]
