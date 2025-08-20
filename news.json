@@ -1,35 +1,35 @@
 {
-    "date": "2025-08-19",
+    "date": "2025-08-20",
     "news": [
         {
-            "title": "Silicon Valley's AI deals are creating zombie startups: 'You hollowed out the organization'",
-            "link": "https://www.cnbc.com/2025/08/19/how-ai-zombie-deals-work-meta-google.html",
-            "summary": "Tech giants have spent billions to buy top talent from startups, leaving behind shell companies. Unable to make big AI purchases because of regulatory hurdles.",
-            "date": "Tue, 19 Aug 2025 12:36:59 GMT",
+            "title": "Target shares tumble 10% as retailer picks new CEO, says sales fell again",
+            "link": "https://www.cnbc.com/2025/08/20/target-tgt-q2-2025-earnings.html",
+            "summary": "Investors are looking for signs that the struggling big-box retailer Target is getting back on track. Target is one of the largest retailers in the U.S.",
+            "date": "Wed, 20 Aug 2025 13:02:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SIMO",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Bessent says interviews for 'incredible group' of potential Fed chairs will start after Labor Day",
-            "link": "https://www.cnbc.com/2025/08/19/bessent-says-interviews-for-incredible-group-of-potential-fed-chairs-will-start-after-labor-day.html",
-            "summary": "Bessent confirmed the race to replace current Chair Jerome Powell is between 11 candidates. In a CNBC interview, Bessent said there are 11 candidates in the running to replace Powell.",
-            "date": "Tue, 19 Aug 2025 12:31:38 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FOR",
+            "stock_ticker": "TGT",
             "impact": "Neutral"
         },
         {
-            "title": "Trump promised Ukraine 'security guarantees': Here's what they could look like",
-            "link": "https://www.cnbc.com/2025/08/19/security-guarantees-are-coming-for-ukraine-putting-europe-on-the-hook.html",
-            "summary": "Trump says security guarantees for Ukraine would be \"provided\" by European countries with \"coordination\" with the U.S. The talks are taking place in Washington, D.C.",
-            "date": "Tue, 19 Aug 2025 08:56:16 GMT",
+            "title": "Hassett likely to be Trump's pick for Fed chief, though Warsh is more qualified, CNBC survey finds",
+            "link": "https://www.cnbc.com/2025/08/20/hassett-likely-to-be-trumps-pick-for-fed-chief-though-warsh-is-more-qualified-cnbc-survey-finds.html",
+            "summary": "The NEC director firmly led when asked who the president will choose from among 11 names being considered. The president is expected to make a decision by the end of the month.",
+            "date": "Wed, 20 Aug 2025 13:23:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "QQXL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump slams 'anti-American' pushback after fresh delay to Arizona copper mine",
+            "link": "https://www.cnbc.com/2025/08/20/copper-trump-slams-anti-american-pushback-over-arizona-project.html",
+            "summary": "Rio Tinto and BHP have been trying to develop Resolution Copper for roughly two decades. Two of the world's largest mining firms have been working on the project for years.",
+            "date": "Wed, 20 Aug 2025 09:28:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,70 +38,70 @@
             "impact": "Neutral"
         },
         {
-            "title": "Best Buy launches third-party marketplace as it looks for sales drivers",
-            "link": "https://www.cnbc.com/2025/08/19/best-buy-launches-third-party-marketplace.html",
-            "summary": "Retailers are using third-party sellers to expand their assortment. The move helps drive higher profits and attract advertising dollars. It joins other retailers that have used the tactic to increase their sales.",
-            "date": "Tue, 19 Aug 2025 10:00:01 GMT",
+            "title": "Trump snapped up more than $100 million in bonds while in office",
+            "link": "https://www.cnbc.com/2025/08/20/trump-splurged-on-more-than-100-million-in-bonds-since-taking-office.html",
+            "summary": "The U.S. president has purchased hundreds of bonds issued by companies, local governments and school boards. The bonds were issued by the companies and local governments.",
+            "date": "Wed, 20 Aug 2025 12:57:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBY",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Intel is getting a $2 billion investment from SoftBank",
-            "link": "https://www.cnbc.com/2025/08/18/intel-is-getting-a-2-billion-investment-from-softbank.html",
-            "summary": "SoftBank will pay $23 per share for Intel's common stock, acquiring roughly 2% of the struggling chipmaker. SoftBank will buy Intel for roughly $23 billion.",
-            "date": "Tue, 19 Aug 2025 00:42:06 GMT",
+            "title": "Claire's sells most of its North American business after filing for bankruptcy",
+            "link": "https://www.cnbc.com/2025/08/20/claires-bankrupt-ames-watson-sale.html",
+            "summary": "Claire's announced Wednesday that it is selling most of its North American business. The move is an effort to stave off liquidation after filing for bankruptcy.",
+            "date": "Wed, 20 Aug 2025 13:00:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "INTC",
-            "impact": "Neutral"
+            "stock_ticker": "PXM.WA",
+            "impact": "Bullish"
         },
         {
-            "title": "Gold has crushed stocks, bonds and even bitcoin in 2025. This banking giant just got more bullish.",
-            "link": "https://www.marketwatch.com/story/gold-has-crushed-stocks-bonds-and-even-bitcoin-in-2025-this-banking-giant-just-got-more-bullish-9071df48?mod=mw_rss_topstories",
-            "summary": "UBS Global Wealth Management strategists see plenty of drivers to keep pushing gold beyond the record run it has seen in 2025. UBS: Gold will hit $1,400 per ounce by 2025.",
-            "date": "Tue, 19 Aug 2025 13:15:00 GMT",
+            "title": "Home Depot put up some of its best numbers in years. Did tariff-related price increases move the needle?",
+            "link": "https://www.marketwatch.com/story/home-depot-put-up-some-of-its-best-numbers-in-years-did-tariff-related-price-increases-move-the-needle-a79e1e18?mod=mw_rss_topstories",
+            "summary": "One analyst says a pullback in promotional deals raised prices, possibly due to “a desire to protect margins in a tariffed environment”",
+            "date": "Wed, 20 Aug 2025 13:23:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GC=F",
+            "stock_ticker": "HD",
             "impact": "Neutral"
         },
         {
-            "title": "Viking Therapeutics’ stock tumbles after results of oral weight-loss drug trial. It has company.",
-            "link": "https://www.marketwatch.com/story/viking-therapeutics-stock-tumbles-after-results-of-oral-weight-loss-drug-trial-it-has-company-ea09cbc7?mod=mw_rss_topstories",
-            "summary": "Viking Therapeutics announced that a trial showed its oral weight-loss drug works. Like a larger rival, its stock price immediately suffered.",
-            "date": "Tue, 19 Aug 2025 13:11:00 GMT",
+            "title": "Meredith Whitney famously called the 2008 financial crisis. Here’s the new problem with the U.S. economy, she says",
+            "link": "https://www.marketwatch.com/story/meredith-whitney-famously-called-the-2008-financial-crisis-heres-the-new-problem-with-the-u-s-economy-she-says-7b0aa8f9?mod=mw_rss_topstories",
+            "summary": "Meredith Whitney is worried about a bifurcated economy. Here is how she’s playing that. Meredith Whitney: I’m worried about an economy that doesn’t work.",
+            "date": "Wed, 20 Aug 2025 13:23:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VKTX",
+            "stock_ticker": "MEREDITH-USD",
             "impact": "Neutral"
         },
         {
-            "title": "European defense stocks in retreat. Ukraine peace could derail the rally.",
-            "link": "https://www.marketwatch.com/story/european-defense-stocks-in-retreat-ukraine-peace-could-derail-the-rally-c5cd8873?mod=mw_rss_topstories",
-            "summary": "Prospect of peace may crimp demand in the sector that has rallied this year. Prospect of peace could crimp Demand in the Sector that has Rallyed this Year.",
-            "date": "Tue, 19 Aug 2025 12:07:00 GMT",
+            "title": "TJ Maxx parent’s stock jumps toward a record as consumers flock to its off-price goods",
+            "link": "https://www.marketwatch.com/story/tj-maxx-parents-stock-jumps-toward-a-record-as-consumers-flock-to-its-off-price-goods-05d36eba?mod=mw_rss_topstories",
+            "summary": "TJ Maxx parent’s stock rallies toward a record after an earnings beat and raised outlook. The company also raised its outlook for the year.",
+            "date": "Wed, 20 Aug 2025 13:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EDP=F",
+            "stock_ticker": "TJSBRX=X",
             "impact": "Neutral"
         },
         {
-            "title": "My wife and I are in our 50s and have $11 million. We’re not leaving it to our kids. Is that wrong?",
-            "link": "https://www.marketwatch.com/story/am-i-delusional-my-wife-and-i-are-in-our-50s-and-have-11-million-were-not-leaving-it-to-our-kids-is-that-wrong-198022f2?mod=mw_rss_topstories",
-            "summary": "“We have retired from full-time work,” says the couple. “We’re not going to do it anymore.” “It’s time to go home.’",
-            "date": "Tue, 19 Aug 2025 11:50:00 GMT",
+            "title": "My friend’s father gifted her Tesla and Google stock. They could be worth millions. Will they be split 50/50 in her divorce?",
+            "link": "https://www.marketwatch.com/story/are-tesla-and-google-stocks-received-as-a-gift-subject-to-division-in-a-divorce-18834c76?mod=mw_rss_topstories",
+            "summary": "“My friend is working on an exit plan,” he says. “My friends are working on a plan.”",
+            "date": "Wed, 20 Aug 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "Home Depot sees U.S. sales accelerate, suggesting home-improvement slump may be over",
-            "link": "https://www.marketwatch.com/story/home-depots-stock-falls-after-another-profit-miss-but-home-improvement-projects-increase-ac3742c1?mod=mw_rss_topstories",
-            "summary": "Home Depot is seeing customers engaging more broadly in smaller home-improvement projects. Home Depot: We're seeing customers engage more broadly with small home- Improvement projects.",
-            "date": "Tue, 19 Aug 2025 11:45:00 GMT",
+            "title": "Estée Lauder to cut up to 7,000 jobs as China and duty-free sales stay weak",
+            "link": "https://www.marketwatch.com/story/estee-lauder-to-cut-up-to-7-000-jobs-as-china-and-duty-free-sales-stay-weak-82092ee3?mod=mw_rss_topstories",
+            "summary": "Estée Lauder's stock drops after announcement of jobs cuts and a profit warning. Estée Lauder’s stock drops following announcement of. jobs cuts, profit warning and a stock drop.",
+            "date": "Wed, 20 Aug 2025 12:57:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HD",
+            "stock_ticker": "EL",
             "impact": "Neutral"
         }
     ]
