@@ -1,71 +1,107 @@
 {
-    "date": "2025-08-22",
+    "date": "2025-08-23",
     "news": [
         {
-            "title": "Tariffs aren't dealing a huge blow to big retailers and consumers — yet. Here are key earnings takeaways",
+            "title": "Higher tariffs are kicking in. Here's what Walmart and other retailers said about their impact",
             "link": "https://www.cnbc.com/2025/08/22/retail-earnings-walmart-target-home-depot-discuss-tariffs.html",
             "summary": "Consumer spending has largely stayed strong so far. The pinch from higher duties hasn't been as severe as some companies had feared. The U.S. economy is expected to grow at a strong rate in the second quarter.",
-            "date": "Fri, 22 Aug 2025 13:14:20 GMT",
+            "date": "Fri, 22 Aug 2025 17:18:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "5254.T",
+            "stock_ticker": "FAHFX",
             "impact": "Neutral"
         },
         {
-            "title": "Fed Chair Powell set to deliver big Jackson Hole speech Friday. Here's what Wall Street expects",
-            "link": "https://www.cnbc.com/2025/08/21/powell-to-deliver-jackson-hole-speech-friday-what-wall-street-expects.html",
-            "summary": "Powell is set to deliver what almost certainly will be his last keynote address at the central bank's annual conclave. Powell is expected to speak at the conclave on Thursday.",
-            "date": "Fri, 22 Aug 2025 02:08:40 GMT",
+            "title": "U.S. government takes 10% stake in Intel, as Trump expands control over private sector",
+            "link": "https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html",
+            "summary": "The U.S. government has taken a 10% stake in chipmaker Intel. Commerce Secretary Howard Lutnick said the move was in the interest of national security.",
+            "date": "Fri, 22 Aug 2025 21:12:48 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZQ=F",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "FBI raids home of John Bolton, former Trump national security advisor",
-            "link": "https://www.cnbc.com/2025/08/22/fbi-raid-john-bolton-trump-patel.html",
-            "summary": "FBI Director Kash Patel tweeted “NO ONE is above the law… @FBI agents on mission\" as agents searched the home of John Bolton.",
-            "date": "Fri, 22 Aug 2025 12:59:01 GMT",
+            "title": "Businesses bringing back recession specials could be the latest sign of deteriorating consumer sentiment",
+            "link": "https://www.cnbc.com/2025/08/23/recession-specials-could-be-the-latest-sign-of-deteriorating-consumer-sentiment.html",
+            "summary": "The term \"recession\" has popped up again as a selling point this summer. It may provide a look at how businesses are reacting to consumer sentiment.",
+            "date": "Sat, 23 Aug 2025 11:50:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FBIO",
-            "impact": "Neutral"
+            "stock_ticker": "0P00019M2M.F",
+            "impact": "Bullish"
         },
         {
-            "title": "Cracker Barrel faces social media pushback on new logo, brand refresh",
-            "link": "https://www.cnbc.com/2025/08/21/cracker-barrel-cbrl-new-logo-branding.html",
-            "summary": "Shares of Cracker Barrel dropped roughly 7% on Thursday. The restaurant unveiled its new logo earlier this week as part of a larger brand refresh.",
-            "date": "Fri, 22 Aug 2025 13:09:43 GMT",
+            "title": "Medtronic makes two key additions to its board. How activist Elliott can build shareholder value",
+            "link": "https://www.cnbc.com/2025/08/23/medtronic-makes-two-key-additions-to-its-board-how-activist-elliott-can-build-shareholder-value.html",
+            "summary": "The stage seems to be set for a long-term mutually beneficial relationship between the parties. The stage is set for the two countries to work together for the betterment of the world.",
+            "date": "Sat, 23 Aug 2025 11:51:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CBRL",
+            "stock_ticker": "MDT",
             "impact": "Neutral"
         },
         {
-            "title": "John Deere faces a crossroads amid decreasing demand, increasing investments",
-            "link": "https://www.cnbc.com/2025/08/22/john-deere-demand-layoffs.html",
-            "summary": "John Deere has reported significant hits from weaker agricultural demand. Wall Street still sees optimism for the company's road ahead. John Deere shares are up 2.7% this year, the biggest gain in the Dow Jones Industrial Average.",
-            "date": "Fri, 22 Aug 2025 13:07:00 GMT",
+            "title": "Ghislaine Maxwell interview released by DOJ; Epstein procurer questioned about Trump",
+            "link": "https://www.cnbc.com/2025/08/22/ghislaine-maxwell-transcripts-trump-epstein-doj.html",
+            "summary": "The Trump administration has been criticized for reneging on promises to release files about sex offenders Jeffrey Epstein and Ghislaine Maxwell. The White House has said it will release files on Epstein and Maxwell.",
+            "date": "Fri, 22 Aug 2025 22:14:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JNJ",
+            "stock_ticker": "300751.SZ",
             "impact": "Neutral"
         },
         {
-            "title": "I’m a widow living off Social Security. I have $200K in a brokerage account, so why am I ignored?",
-            "link": "https://www.marketwatch.com/story/im-a-widow-living-off-social-security-i-have-200k-in-a-brokerage-account-so-why-am-i-ignored-c01398e4?mod=mw_rss_topstories",
-            "summary": "“I had to hunt high and low to have them sell my Tesla stock because it was tanking,” he said. “I was like, ‘What is going on?’”",
-            "date": "Fri, 22 Aug 2025 13:21:00 GMT",
+            "title": "Who can actually buy a house today? Meet the ‘elite’ buyers achieving the American dream.",
+            "link": "https://www.marketwatch.com/story/who-can-actually-buy-a-house-today-meet-the-elite-buyers-achieving-the-american-dream-a9151846?mod=mw_rss_topstories",
+            "summary": "The share of first-time home buyers is at a historic low. Yet they haven’t entirely disappeared. The U.S. housing market is booming, but it’s still a long way from full recovery.",
+            "date": "Sat, 23 Aug 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "COST",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘It’s like a psychological ceiling’: Why fast-food chains are trying to stay below $10 in their pricing",
+            "link": "https://www.marketwatch.com/story/its-like-a-psychological-ceiling-why-fast-food-chains-are-trying-to-stay-below-10-in-their-pricing-a12362cc?mod=mw_rss_topstories",
+            "summary": "Consumers don’t consider it a bargain if you cross into double-digit territory, experts say. The average price of a home in the U.S. is about $1.2 million.",
+            "date": "Sat, 23 Aug 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ITSA4.SA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I’ve been kept in poverty’: Do I take a $70K job at 74 and lose my Section 8 housing allowance?",
+            "link": "https://www.marketwatch.com/story/should-i-apply-for-a-70k-a-year-job-at-74-and-risk-losing-my-section-8-housing-allowance-9932217d?mod=mw_rss_topstories",
+            "summary": "“After the age of 50, I really only had sporadic contract work and I had to sell my house,” he says.",
+            "date": "Sat, 23 Aug 2025 12:08:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IVE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m 32 and only have $8,000 saved in my 401(k) so far. How do I get more aggressive?",
+            "link": "https://www.marketwatch.com/story/im-32-and-only-have-8-000-saved-in-my-401-k-so-far-how-do-i-get-more-aggressive-bd4d4510?mod=mw_rss_topstories",
+            "summary": "The answer doesn’t have anything to do with which investments you choose. The answer is that it’s up to you.",
+            "date": "Sat, 23 Aug 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "As a nurse, I’ve seen people use their power of attorney to take advantage of their parents. Watch out for these warnings.",
-            "link": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
-            "summary": "“Even if someone has millions of dollars in retirement, that won’t keep them from being trapped in the hospital,” he says.",
-            "date": "Fri, 22 Aug 2025 13:00:00 GMT",
+            "title": "Please stop asking me to be your best man — I’ve spent $4,400 on one wedding and can’t afford it anymore",
+            "link": "https://www.marketwatch.com/story/please-stop-asking-me-to-be-your-best-man-ive-spent-4-400-on-one-wedding-and-cant-afford-it-anymore-2001b192?mod=mw_rss_topstories",
+            "summary": "The wedding will cost me thousands of dollars. Guilt over how good a friend I am is colliding with the financial reality that this wedding is costing me thousands.",
+            "date": "Sat, 23 Aug 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Have critics gotten the Trump tariffs all wrong? Here’s a case for why they will help the economy.",
-            "link": "https://www.marketwatch.com/story/have-critics-gotten-the-trump-tariffs-all-wrong-heres-a-case-for-why-they-will-help-the-economy-caf1c1f8?mod=mw_rss_topstories",
-            "summary": "The U.S. is moving away from free trade, at least under the Trump administration. “Managed trade” is in, and it might not be all that bad for the United States.",
-            "date": "Fri, 22 Aug 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HVT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I learned a hard lesson’: My ex-husband gambled away our $900,000 life savings. Do I use my 401(k) to buy a home?",
-            "link": "https://www.marketwatch.com/story/i-learned-a-hard-lesson-my-ex-husband-gambled-away-our-900-000-life-savings-do-i-use-my-401-k-to-buy-a-home-182e026a?mod=mw_rss_topstories",
-            "summary": "“I have about $80,000 in my 401(k) and $10,00 in savings,” she says. “I’m very happy.”",
-            "date": "Fri, 22 Aug 2025 12:50:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DBGI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Cracker Barrel’s logo change sparks fury, online and on Wall Street",
-            "link": "https://www.marketwatch.com/story/cracker-barrel-stock-falls-7-after-new-logo-causes-a-stir-3b6d0fe8?mod=mw_rss_topstories",
-            "summary": "More than 558,000 posts on social media including Donald Trump Jr. ‘When people love a brand, they don’t always like change,’  a branding expert says.",
-            "date": "Fri, 22 Aug 2025 12:40:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CBRL",
+            "stock_ticker": "OSS",
             "impact": "Neutral"
         }
     ]
