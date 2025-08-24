@@ -1,28 +1,16 @@
 {
-    "date": "2025-08-23",
+    "date": "2025-08-24",
     "news": [
         {
             "title": "Higher tariffs are kicking in. Here's what Walmart and other retailers said about their impact",
             "link": "https://www.cnbc.com/2025/08/22/retail-earnings-walmart-target-home-depot-discuss-tariffs.html",
             "summary": "Consumer spending has largely stayed strong so far. The pinch from higher duties hasn't been as severe as some companies had feared. The U.S. economy is expected to grow at a strong rate in the second quarter.",
-            "date": "Fri, 22 Aug 2025 17:18:49 GMT",
+            "date": "Sat, 23 Aug 2025 21:36:25 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "FAHFX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. government takes 10% stake in Intel, as Trump expands control over private sector",
-            "link": "https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html",
-            "summary": "The U.S. government has taken a 10% stake in chipmaker Intel. Commerce Secretary Howard Lutnick said the move was in the interest of national security.",
-            "date": "Fri, 22 Aug 2025 21:12:48 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
@@ -38,70 +26,46 @@
             "impact": "Bullish"
         },
         {
-            "title": "Medtronic makes two key additions to its board. How activist Elliott can build shareholder value",
-            "link": "https://www.cnbc.com/2025/08/23/medtronic-makes-two-key-additions-to-its-board-how-activist-elliott-can-build-shareholder-value.html",
-            "summary": "The stage seems to be set for a long-term mutually beneficial relationship between the parties. The stage is set for the two countries to work together for the betterment of the world.",
-            "date": "Sat, 23 Aug 2025 11:51:36 GMT",
+            "title": "From American Eagle to Swatch, why brands seem to keep getting it so wrong",
+            "link": "https://www.cnbc.com/2025/08/24/american-eagle-swatch-sanex-why-brands-keep-getting-ads-so-wrong.html",
+            "summary": "American Eagle, Swatch and Sanex have all sparked backlash recently over their seemingly tone deaf campaigns. American Eagle and Swatch have been accused of being tone deaf.",
+            "date": "Sun, 24 Aug 2025 06:03:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MDT",
+            "stock_ticker": "WFCF",
             "impact": "Neutral"
         },
         {
-            "title": "Ghislaine Maxwell interview released by DOJ; Epstein procurer questioned about Trump",
-            "link": "https://www.cnbc.com/2025/08/22/ghislaine-maxwell-transcripts-trump-epstein-doj.html",
-            "summary": "The Trump administration has been criticized for reneging on promises to release files about sex offenders Jeffrey Epstein and Ghislaine Maxwell. The White House has said it will release files on Epstein and Maxwell.",
-            "date": "Fri, 22 Aug 2025 22:14:18 GMT",
+            "title": "Meta to unveil Hypernova smart glasses with a display, wristband at Connect next month",
+            "link": "https://www.cnbc.com/2025/08/22/meta-hypernova-ar-glasses-wristband.html",
+            "summary": " Meta's glasses are codenamed Hypernova and will include a small display in the right lens of the device, people familiar with the matter told CNBC.",
+            "date": "Fri, 22 Aug 2025 22:14:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "300751.SZ",
+            "stock_ticker": "META",
             "impact": "Neutral"
         },
         {
-            "title": "Who can actually buy a house today? Meet the ‘elite’ buyers achieving the American dream.",
-            "link": "https://www.marketwatch.com/story/who-can-actually-buy-a-house-today-meet-the-elite-buyers-achieving-the-american-dream-a9151846?mod=mw_rss_topstories",
-            "summary": "The share of first-time home buyers is at a historic low. Yet they haven’t entirely disappeared. The U.S. housing market is booming, but it’s still a long way from full recovery.",
-            "date": "Sat, 23 Aug 2025 13:00:00 GMT",
+            "title": "Global week ahead: Trump’s Nobel dreams meet economic reality",
+            "link": "https://www.cnbc.com/2025/08/24/global-week-ahead-trumps-nobel-dreams-meet-economic-reality.html",
+            "summary": "Nobel Laureates are set to meet in Lindau, Germany this week. The Nobel Laureates will meet with President Barack Obama and German Chancellor Angela Merkel.",
+            "date": "Sun, 24 Aug 2025 06:04:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COST",
+            "stock_ticker": "HSONP",
             "impact": "Neutral"
         },
         {
-            "title": "‘It’s like a psychological ceiling’: Why fast-food chains are trying to stay below $10 in their pricing",
-            "link": "https://www.marketwatch.com/story/its-like-a-psychological-ceiling-why-fast-food-chains-are-trying-to-stay-below-10-in-their-pricing-a12362cc?mod=mw_rss_topstories",
-            "summary": "Consumers don’t consider it a bargain if you cross into double-digit territory, experts say. The average price of a home in the U.S. is about $1.2 million.",
-            "date": "Sat, 23 Aug 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ITSA4.SA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’ve been kept in poverty’: Do I take a $70K job at 74 and lose my Section 8 housing allowance?",
-            "link": "https://www.marketwatch.com/story/should-i-apply-for-a-70k-a-year-job-at-74-and-risk-losing-my-section-8-housing-allowance-9932217d?mod=mw_rss_topstories",
-            "summary": "“After the age of 50, I really only had sporadic contract work and I had to sell my house,” he says.",
-            "date": "Sat, 23 Aug 2025 12:08:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IVE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m 32 and only have $8,000 saved in my 401(k) so far. How do I get more aggressive?",
-            "link": "https://www.marketwatch.com/story/im-32-and-only-have-8-000-saved-in-my-401-k-so-far-how-do-i-get-more-aggressive-bd4d4510?mod=mw_rss_topstories",
-            "summary": "The answer doesn’t have anything to do with which investments you choose. The answer is that it’s up to you.",
-            "date": "Sat, 23 Aug 2025 12:00:00 GMT",
+            "title": "I’m a widow with $200,000 in a brokerage account. So why am I treated so poorly?",
+            "link": "https://www.marketwatch.com/story/im-a-widow-living-off-social-security-i-have-200k-in-a-brokerage-account-so-why-am-i-ignored-c01398e4?mod=mw_rss_topstories",
+            "summary": "“I had to hunt high and low to have them sell my Tesla stock because it was tanking,” he said. “I was like, ‘What is going on?’”",
+            "date": "Sun, 24 Aug 2025 12:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "Please stop asking me to be your best man — I’ve spent $4,400 on one wedding and can’t afford it anymore",
-            "link": "https://www.marketwatch.com/story/please-stop-asking-me-to-be-your-best-man-ive-spent-4-400-on-one-wedding-and-cant-afford-it-anymore-2001b192?mod=mw_rss_topstories",
-            "summary": "The wedding will cost me thousands of dollars. Guilt over how good a friend I am is colliding with the financial reality that this wedding is costing me thousands.",
-            "date": "Sat, 23 Aug 2025 12:00:00 GMT",
+            "title": "‘The money went into his account’: Is my father trying to swindle me out of my grandparents’ $800K home?",
+            "link": "https://www.marketwatch.com/story/the-money-went-into-his-account-is-my-father-trying-to-swindle-me-out-of-my-grandparents-800k-home-7176ba11?mod=mw_rss_topstories",
+            "summary": "“I came across a letter from my father’s bank showing a wire transfer of $195,000 from the buyer,” she says.",
+            "date": "Sun, 24 Aug 2025 11:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OSS",
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Are you middle class? No, you’re not. Here’s why.",
+            "link": "https://www.marketwatch.com/story/are-you-middle-class-no-youre-not-heres-why-afcdf304?mod=mw_rss_topstories",
+            "summary": "The middle class is dead. Long live the middle class. The middle class has been dead for a long time. It's time for a new generation of middle-class Americans.",
+            "date": "Sun, 24 Aug 2025 11:37:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ARE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m getting a $100K personal-injury settlement. Will my estranged wife get any of it?",
+            "link": "https://www.marketwatch.com/story/im-getting-a-100k-personal-injury-settlement-will-my-estranged-wife-get-any-of-it-6bd723ba?mod=mw_rss_topstories",
+            "summary": "“After we were hit by two major hurricanes, my wife secretly kept the disaster-recovery assistance money,” he said.",
+            "date": "Sun, 24 Aug 2025 11:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BMNR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m $28,000 in debt. My credit score is suffering. How do I get out of this mess?",
+            "link": "https://www.marketwatch.com/story/ive-struggled-in-every-way-my-brother-passed-away-and-im-28-000-in-debt-how-do-i-get-out-of-this-mess-f6c3f3f3?mod=mw_rss_topstories",
+            "summary": "“I had no credit-card debt until about four years ago. My husband went back to school,” she says. “I was like, ‘Oh my God, I’m in trouble.’”",
+            "date": "Sun, 24 Aug 2025 09:57:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BMNR",
             "impact": "Neutral"
         }
     ]
