@@ -1,95 +1,107 @@
 {
-    "date": "2025-08-24",
+    "date": "2025-08-25",
     "news": [
         {
-            "title": "Higher tariffs are kicking in. Here's what Walmart and other retailers said about their impact",
-            "link": "https://www.cnbc.com/2025/08/22/retail-earnings-walmart-target-home-depot-discuss-tariffs.html",
-            "summary": "Consumer spending has largely stayed strong so far. The pinch from higher duties hasn't been as severe as some companies had feared. The U.S. economy is expected to grow at a strong rate in the second quarter.",
-            "date": "Sat, 23 Aug 2025 21:36:25 GMT",
+            "title": "Trump says government will make deals like Intel stake 'all day long'",
+            "link": "https://www.cnbc.com/2025/08/25/white-houses-hassett-says-government-likely-to-continue-taking-stakes-in-companies-similar-to-intel-deal.html",
+            "summary": "Trump boasted about the government's new stake in Intel and said he's determined to do more similar deals. Trump: \"I'm looking forward to doing more deals like this\"",
+            "date": "Mon, 25 Aug 2025 13:24:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FAHFX",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Businesses bringing back recession specials could be the latest sign of deteriorating consumer sentiment",
-            "link": "https://www.cnbc.com/2025/08/23/recession-specials-could-be-the-latest-sign-of-deteriorating-consumer-sentiment.html",
-            "summary": "The term \"recession\" has popped up again as a selling point this summer. It may provide a look at how businesses are reacting to consumer sentiment.",
-            "date": "Sat, 23 Aug 2025 11:50:20 GMT",
+            "title": "Nvidia faces Wall Street's high expectations two years into AI boom",
+            "link": "https://www.cnbc.com/2025/08/25/nvidia-q2-earnings-preview-expectations-blackwell-china-h20.html",
+            "summary": "N Nvidia's business started transforming two years ago, as demand for processors to power AI workloads transformed the chipmaker. Nvidia is now one of the world's largest chipmakers, with a market value of more than $30 billion.",
+            "date": "Mon, 25 Aug 2025 12:46:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P00019M2M.F",
+            "stock_ticker": "NVDA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Keurig Dr Pepper to buy Dutch coffee company JDE Peet's in $18 billion deal",
+            "link": "https://www.cnbc.com/2025/08/25/keurig-dr-pepper-to-acquire-dutch-coffee-company-jde-peets-for-18-billion.html",
+            "summary": "Keurig Dr Pepper will split its beverage and coffee units into two separate U.S.-listed firms. After its planned acquisition of Dutch coffee company JDE Peet's, Keurig will split into two companies.",
+            "date": "Mon, 25 Aug 2025 13:12:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KDP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Evergrande’s $50 billion rise and fall leaves scars on China's property sector",
+            "link": "https://www.cnbc.com/2025/08/25/evergrandes-rise-and-fall-leaves-scars-on-chinas-property-sector.html",
+            "summary": "\"The state-owned developers will end up running the entire industry,\" Brian McCarthy, managing principal at Macrolens, told CNBC. \"The state will be in charge of everything,\" he said.",
+            "date": "Mon, 25 Aug 2025 11:56:32 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ES=F",
             "impact": "Bullish"
         },
         {
-            "title": "From American Eagle to Swatch, why brands seem to keep getting it so wrong",
-            "link": "https://www.cnbc.com/2025/08/24/american-eagle-swatch-sanex-why-brands-keep-getting-ads-so-wrong.html",
-            "summary": "American Eagle, Swatch and Sanex have all sparked backlash recently over their seemingly tone deaf campaigns. American Eagle and Swatch have been accused of being tone deaf.",
-            "date": "Sun, 24 Aug 2025 06:03:44 GMT",
+            "title": "Elon Musk's xAI secretly dropped its benefit corporation status while fighting OpenAI",
+            "link": "https://www.cnbc.com/2025/08/25/elon-musk-xai-dropped-public-benefit-corp-status-while-fighting-openai.html",
+            "summary": "Elon Musk started xAI as a public benefit corporation, but dropped that distinction last year as the company's operations in Memphis, Tennessee were expanding.",
+            "date": "Mon, 25 Aug 2025 12:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFCF",
+            "stock_ticker": "ELON",
             "impact": "Neutral"
         },
         {
-            "title": "Meta to unveil Hypernova smart glasses with a display, wristband at Connect next month",
-            "link": "https://www.cnbc.com/2025/08/22/meta-hypernova-ar-glasses-wristband.html",
-            "summary": " Meta's glasses are codenamed Hypernova and will include a small display in the right lens of the device, people familiar with the matter told CNBC.",
-            "date": "Fri, 22 Aug 2025 22:14:39 GMT",
+            "title": "Apple is blowing its chance for AI leadership — but what else would you expect?",
+            "link": "https://www.marketwatch.com/story/apple-is-blowing-its-chance-for-ai-leadership-but-what-else-would-you-expect-88bc1ed2?mod=mw_rss_topstories",
+            "summary": "With AI, anyone playing it safe will get left behind. Apple no longer innovates —instead, it waits. And with AI, any company that plays it safe is going to be left behind too.",
+            "date": "Mon, 25 Aug 2025 13:21:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "META",
+            "stock_ticker": "AAPL",
             "impact": "Neutral"
         },
         {
-            "title": "Global week ahead: Trump’s Nobel dreams meet economic reality",
-            "link": "https://www.cnbc.com/2025/08/24/global-week-ahead-trumps-nobel-dreams-meet-economic-reality.html",
-            "summary": "Nobel Laureates are set to meet in Lindau, Germany this week. The Nobel Laureates will meet with President Barack Obama and German Chancellor Angela Merkel.",
-            "date": "Sun, 24 Aug 2025 06:04:12 GMT",
+            "title": "Bitcoin has surrendered the rally. Why it didn’t bounce after a whale unloaded the cryptocurrency.",
+            "link": "https://www.marketwatch.com/story/bitcoin-has-surrendered-the-rally-why-it-didnt-bounce-after-a-whale-unloaded-the-cryptocurrency-c68636d2?mod=mw_rss_topstories",
+            "summary": "A whale sold a chunk of bitcoin over the weekend, and on Monday, the cryptocurrency was dragging the rest of the sector south. The price of bitcoin was down 1.7% on Monday.",
+            "date": "Mon, 25 Aug 2025 13:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HSONP",
+            "stock_ticker": "BTC=F",
             "impact": "Neutral"
         },
         {
-            "title": "I’m a widow with $200,000 in a brokerage account. So why am I treated so poorly?",
-            "link": "https://www.marketwatch.com/story/im-a-widow-living-off-social-security-i-have-200k-in-a-brokerage-account-so-why-am-i-ignored-c01398e4?mod=mw_rss_topstories",
-            "summary": "“I had to hunt high and low to have them sell my Tesla stock because it was tanking,” he said. “I was like, ‘What is going on?’”",
-            "date": "Sun, 24 Aug 2025 12:37:00 GMT",
+            "title": "AI stocks are in a bubble. Why are so many investors refusing to believe it?",
+            "link": "https://www.marketwatch.com/story/ai-stocks-are-in-a-bubble-why-are-so-many-investors-refusing-to-believe-it-cf6e1624?mod=mw_rss_topstories",
+            "summary": " AI companies are raising prices and alienating users. The stocks are overvalued, analysts say. The AI industry is in a boom-and-bust cycle.",
+            "date": "Mon, 25 Aug 2025 13:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘The money went into his account’: Is my father trying to swindle me out of my grandparents’ $800K home?",
-            "link": "https://www.marketwatch.com/story/the-money-went-into-his-account-is-my-father-trying-to-swindle-me-out-of-my-grandparents-800k-home-7176ba11?mod=mw_rss_topstories",
-            "summary": "“I came across a letter from my father’s bank showing a wire transfer of $195,000 from the buyer,” she says.",
-            "date": "Sun, 24 Aug 2025 11:37:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
+            "stock_ticker": "AI",
             "impact": "Neutral"
         },
         {
             "title": "Are you middle class? No, you’re not. Here’s why.",
             "link": "https://www.marketwatch.com/story/are-you-middle-class-no-youre-not-heres-why-afcdf304?mod=mw_rss_topstories",
             "summary": "The middle class is dead. Long live the middle class. The middle class has been dead for a long time. It's time for a new generation of middle-class Americans.",
-            "date": "Sun, 24 Aug 2025 11:37:00 GMT",
+            "date": "Mon, 25 Aug 2025 13:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "I’m getting a $100K personal-injury settlement. Will my estranged wife get any of it?",
-            "link": "https://www.marketwatch.com/story/im-getting-a-100k-personal-injury-settlement-will-my-estranged-wife-get-any-of-it-6bd723ba?mod=mw_rss_topstories",
-            "summary": "“After we were hit by two major hurricanes, my wife secretly kept the disaster-recovery assistance money,” he said.",
-            "date": "Sun, 24 Aug 2025 11:30:00 GMT",
+            "title": "As a nurse, I’ve seen people use their power of attorney to take advantage of their parents. It would chill you to the bone.",
+            "link": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
+            "summary": "“Even if someone has millions of dollars in retirement, that won’t keep them from being trapped in the hospital,” he says.",
+            "date": "Mon, 25 Aug 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m $28,000 in debt. My credit score is suffering. How do I get out of this mess?",
-            "link": "https://www.marketwatch.com/story/ive-struggled-in-every-way-my-brother-passed-away-and-im-28-000-in-debt-how-do-i-get-out-of-this-mess-f6c3f3f3?mod=mw_rss_topstories",
-            "summary": "“I had no credit-card debt until about four years ago. My husband went back to school,” she says. “I was like, ‘Oh my God, I’m in trouble.’”",
-            "date": "Sun, 24 Aug 2025 09:57:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "AS",
             "impact": "Neutral"
         }
     ]
