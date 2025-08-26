@@ -1,11 +1,23 @@
 {
-    "date": "2025-08-25",
+    "date": "2025-08-26",
     "news": [
         {
-            "title": "Trump says government will make deals like Intel stake 'all day long'",
-            "link": "https://www.cnbc.com/2025/08/25/white-houses-hassett-says-government-likely-to-continue-taking-stakes-in-companies-similar-to-intel-deal.html",
-            "summary": "Trump boasted about the government's new stake in Intel and said he's determined to do more similar deals. Trump: \"I'm looking forward to doing more deals like this\"",
-            "date": "Mon, 25 Aug 2025 13:24:03 GMT",
+            "title": "Trump tells Fed's Lisa Cook she's fired; she says 'he has no authority to do so'",
+            "link": "https://www.cnbc.com/2025/08/25/trump-fires-lisa-cook-fed-powell.html",
+            "summary": "President Donald Trump's removal of a Federal Reserve governor could end up being challenged at the Supreme Court. Trump removed Fed Gov. Jerome Powell from his post.",
+            "date": "Tue, 26 Aug 2025 13:03:11 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Trump Pentagon is 'thinking' about taking equity stakes in defense contractors, says Lutnick",
+            "link": "https://www.cnbc.com/2025/08/26/trump-pentagon-equity-stakes-in-defense-contractors.html",
+            "summary": "The Trump administration is \"thinking about\" whether the U.S. should take stakes in top defense contractors, Commerce Secretary Howard Lutnick said.",
+            "date": "Tue, 26 Aug 2025 13:07:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +26,99 @@
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia faces Wall Street's high expectations two years into AI boom",
-            "link": "https://www.cnbc.com/2025/08/25/nvidia-q2-earnings-preview-expectations-blackwell-china-h20.html",
-            "summary": "N Nvidia's business started transforming two years ago, as demand for processors to power AI workloads transformed the chipmaker. Nvidia is now one of the world's largest chipmakers, with a market value of more than $30 billion.",
-            "date": "Mon, 25 Aug 2025 12:46:08 GMT",
+            "title": "Frontier Airlines goes after struggling rival Spirit's customers with 20 new routes",
+            "link": "https://www.cnbc.com/2025/08/26/frontier-routes-spirit-airlines.html",
+            "summary": " Frontier Airlines has gotten more aggressive for Spirit customers. The move comes as its rival is on shakier financial footing. Frontier Airlines is a subsidiary of Alaska Airlines.",
+            "date": "Tue, 26 Aug 2025 13:02:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "REFR",
             "impact": "Neutral"
         },
         {
-            "title": "Keurig Dr Pepper to buy Dutch coffee company JDE Peet's in $18 billion deal",
-            "link": "https://www.cnbc.com/2025/08/25/keurig-dr-pepper-to-acquire-dutch-coffee-company-jde-peets-for-18-billion.html",
-            "summary": "Keurig Dr Pepper will split its beverage and coffee units into two separate U.S.-listed firms. After its planned acquisition of Dutch coffee company JDE Peet's, Keurig will split into two companies.",
-            "date": "Mon, 25 Aug 2025 13:12:07 GMT",
+            "title": "EchoStar stock skyrockets 80% on AT&T deal to buy wireless spectrum for $23 billion",
+            "link": "https://www.cnbc.com/2025/08/26/echostar-stock-att-wireless-musk.html",
+            "summary": "EchoStar said the deal will also help resolve an FCC inquiry over its use of certain spectrum licenses, including some that were sought by Elon Musk's SpaceX.",
+            "date": "Tue, 26 Aug 2025 13:21:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KDP",
+            "stock_ticker": "SATS",
             "impact": "Neutral"
         },
         {
-            "title": "Evergrande’s $50 billion rise and fall leaves scars on China's property sector",
-            "link": "https://www.cnbc.com/2025/08/25/evergrandes-rise-and-fall-leaves-scars-on-chinas-property-sector.html",
-            "summary": "\"The state-owned developers will end up running the entire industry,\" Brian McCarthy, managing principal at Macrolens, told CNBC. \"The state will be in charge of everything,\" he said.",
-            "date": "Mon, 25 Aug 2025 11:56:32 GMT",
+            "title": "Eli Lilly’s weight loss pill orforglipron clears its latest trial, paving way for approval",
+            "link": "https://www.cnbc.com/2025/08/26/eli-lilly-weight-loss-pill-orforglipron-clears-trial-paving-way-for-approval.html",
+            "summary": "Eli Lilly now has the clinical trial data required to start filing for approvals of the drug for chronic weight management with global regulators. Eli Lilly has been developing the drug since the 1980s.",
+            "date": "Tue, 26 Aug 2025 12:48:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ES=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Elon Musk's xAI secretly dropped its benefit corporation status while fighting OpenAI",
-            "link": "https://www.cnbc.com/2025/08/25/elon-musk-xai-dropped-public-benefit-corp-status-while-fighting-openai.html",
-            "summary": "Elon Musk started xAI as a public benefit corporation, but dropped that distinction last year as the company's operations in Memphis, Tennessee were expanding.",
-            "date": "Mon, 25 Aug 2025 12:30:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ELON",
+            "stock_ticker": "LLY",
             "impact": "Neutral"
         },
         {
-            "title": "Apple is blowing its chance for AI leadership — but what else would you expect?",
-            "link": "https://www.marketwatch.com/story/apple-is-blowing-its-chance-for-ai-leadership-but-what-else-would-you-expect-88bc1ed2?mod=mw_rss_topstories",
-            "summary": "With AI, anyone playing it safe will get left behind. Apple no longer innovates —instead, it waits. And with AI, any company that plays it safe is going to be left behind too.",
-            "date": "Mon, 25 Aug 2025 13:21:00 GMT",
+            "title": "Lilly obesity-pill trial results find a warmer reception on Wall Street this time around",
+            "link": "https://www.marketwatch.com/story/lilly-obesity-pill-trial-results-find-a-warmer-reception-on-wall-street-this-time-around-ebffcf94?mod=mw_rss_topstories",
+            "summary": "Eli Lilly says it will now move \"with urgency\" toward getting regulatory approval for orforglipron. Pharmaceutical giant Eli Lilly said it will move “with urgency’ toward getting approval for the drug.",
+            "date": "Tue, 26 Aug 2025 13:25:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAPL",
+            "stock_ticker": "LLY",
             "impact": "Neutral"
         },
         {
-            "title": "Bitcoin has surrendered the rally. Why it didn’t bounce after a whale unloaded the cryptocurrency.",
-            "link": "https://www.marketwatch.com/story/bitcoin-has-surrendered-the-rally-why-it-didnt-bounce-after-a-whale-unloaded-the-cryptocurrency-c68636d2?mod=mw_rss_topstories",
-            "summary": "A whale sold a chunk of bitcoin over the weekend, and on Monday, the cryptocurrency was dragging the rest of the sector south. The price of bitcoin was down 1.7% on Monday.",
-            "date": "Mon, 25 Aug 2025 13:17:00 GMT",
+            "title": "‘They knocked her down and started biting’: My mother, 84, was viciously attacked by her neighbor’s two dogs. Do we sue?",
+            "link": "https://www.marketwatch.com/story/they-knocked-her-down-and-started-biting-my-mother-84-was-viciously-attacked-by-her-neighbors-two-dogs-do-we-sue-a4a12a0c?mod=mw_rss_topstories",
+            "summary": "\"The police, ambulance and animal control were all called immediately. The dogs were removed and put down,\" police said. \"The dogs were taken to a local animal shelter and the dogs were put down\"",
+            "date": "Tue, 26 Aug 2025 13:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BTC=F",
+            "stock_ticker": "HIMS",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Durable-goods orders retreat due to Boeing, but details look stronger",
+            "link": "https://www.marketwatch.com/story/durable-goods-orders-retreat-due-to-boeing-but-details-look-stronger-4502ad43?mod=mw_rss_topstories",
+            "summary": "AI-driven spending is offsetting weakness from tariff uncertainty, analysts say. The U.S. economy is expected to grow at a faster rate this year than last year.",
+            "date": "Tue, 26 Aug 2025 13:06:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RDEX-USD",
             "impact": "Neutral"
         },
         {
-            "title": "AI stocks are in a bubble. Why are so many investors refusing to believe it?",
-            "link": "https://www.marketwatch.com/story/ai-stocks-are-in-a-bubble-why-are-so-many-investors-refusing-to-believe-it-cf6e1624?mod=mw_rss_topstories",
-            "summary": " AI companies are raising prices and alienating users. The stocks are overvalued, analysts say. The AI industry is in a boom-and-bust cycle.",
-            "date": "Mon, 25 Aug 2025 13:16:00 GMT",
+            "title": "A tax-refund surge is coming. How JPMorgan expects it to shift economy and markets.",
+            "link": "https://www.marketwatch.com/story/a-tax-refund-surge-is-coming-how-jpmorgan-expects-it-to-shift-economy-and-markets-8276c128?mod=mw_rss_topstories",
+            "summary": "JPMorgan Asset Management’s chief global strategist. An even bigger crop of tax refunds is coming in early 2026, he says.",
+            "date": "Tue, 26 Aug 2025 13:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "A",
             "impact": "Neutral"
         },
         {
-            "title": "Are you middle class? No, you’re not. Here’s why.",
-            "link": "https://www.marketwatch.com/story/are-you-middle-class-no-youre-not-heres-why-afcdf304?mod=mw_rss_topstories",
-            "summary": "The middle class is dead. Long live the middle class. The middle class has been dead for a long time. It's time for a new generation of middle-class Americans.",
-            "date": "Mon, 25 Aug 2025 13:04:00 GMT",
+            "title": "Betting markets don’t believe that Trump will succeed in ousting Fed’s Lisa Cook",
+            "link": "https://www.marketwatch.com/story/betting-markets-dont-believe-that-trump-will-succeed-in-ousting-feds-lisa-cook-93a34191?mod=mw_rss_topstories",
+            "summary": "Betting markets don’t see a high chance that President Donald Trump will manage to oust Federal Reserve governor Lisa Cook. Trump’s announcement late Monday that he had fired her while accusing her of mortgage fraud.",
+            "date": "Tue, 26 Aug 2025 12:46:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ARE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "As a nurse, I’ve seen people use their power of attorney to take advantage of their parents. It would chill you to the bone.",
-            "link": "https://www.marketwatch.com/story/as-a-nurse-ive-witnessed-people-abuse-their-power-of-attorney-here-are-the-signs-5f9137ad?mod=mw_rss_topstories",
-            "summary": "“Even if someone has millions of dollars in retirement, that won’t keep them from being trapped in the hospital,” he says.",
-            "date": "Mon, 25 Aug 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AS",
+            "stock_ticker": "BETZ",
             "impact": "Neutral"
         }
     ]
