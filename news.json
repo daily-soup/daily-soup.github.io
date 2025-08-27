@@ -1,83 +1,83 @@
 {
-    "date": "2025-08-26",
+    "date": "2025-08-27",
     "news": [
         {
-            "title": "Trump tells Fed's Lisa Cook she's fired; she says 'he has no authority to do so'",
-            "link": "https://www.cnbc.com/2025/08/25/trump-fires-lisa-cook-fed-powell.html",
-            "summary": "President Donald Trump's removal of a Federal Reserve governor could end up being challenged at the Supreme Court. Trump removed Fed Gov. Jerome Powell from his post.",
-            "date": "Tue, 26 Aug 2025 13:03:11 GMT",
+            "title": "Kohl's shares jump more than 20% after big earnings beat",
+            "link": "https://www.cnbc.com/2025/08/27/kohls-kss-q2-2025-earnings-.html",
+            "summary": "Kohl's beats on earnings and revenue as it tries to turn around sales and find a new CEO. Kohl's beat on Earnings and Revenue as It tries to Turn Around Sales and Find a New CEO.",
+            "date": "Wed, 27 Aug 2025 13:20:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "KSS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Fed's John Williams stresses independence as Trump moves to fire Lisa Cook",
+            "link": "https://www.cnbc.com/2025/08/27/feds-john-williams-stresses-independence-as-trump-moves-to-fire-lisa-cook.html",
+            "summary": "The influential policymaker avoided commenting directly on Trump's efforts to fire Cook. The White House has yet to comment on the report. The report was first reported by CNN's iReport.",
+            "date": "Wed, 27 Aug 2025 13:15:28 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "JNJ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Fed responds to Trump effort to fire Lisa Cook, notes president needs 'cause'",
+            "link": "https://www.cnbc.com/2025/08/26/trump-fed-cook-respond-court.html",
+            "summary": "Federal Reserve Board Governor Lisa Cook hired Abbe Lowell to fight her termination by President Trump for a case that could land at the Supreme Court.",
+            "date": "Tue, 26 Aug 2025 21:08:47 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ZQ=F",
             "impact": "Bullish"
         },
         {
-            "title": "Trump Pentagon is 'thinking' about taking equity stakes in defense contractors, says Lutnick",
-            "link": "https://www.cnbc.com/2025/08/26/trump-pentagon-equity-stakes-in-defense-contractors.html",
-            "summary": "The Trump administration is \"thinking about\" whether the U.S. should take stakes in top defense contractors, Commerce Secretary Howard Lutnick said.",
-            "date": "Tue, 26 Aug 2025 13:07:37 GMT",
+            "title": "Abercrombie sales growth slows again, but Hollister surges 19%",
+            "link": "https://www.cnbc.com/2025/08/27/abercrombie-fitch-anf-q2-2025-earnings.html",
+            "summary": "Abercrombie & Fitch's namesake brand is struggling to lap the massive growth it saw in prior quarters. Its teen-focused Hollister brand is now fueling sales.",
+            "date": "Wed, 27 Aug 2025 12:54:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "ANF",
             "impact": "Neutral"
         },
         {
-            "title": "Frontier Airlines goes after struggling rival Spirit's customers with 20 new routes",
-            "link": "https://www.cnbc.com/2025/08/26/frontier-routes-spirit-airlines.html",
-            "summary": " Frontier Airlines has gotten more aggressive for Spirit customers. The move comes as its rival is on shakier financial footing. Frontier Airlines is a subsidiary of Alaska Airlines.",
-            "date": "Tue, 26 Aug 2025 13:02:41 GMT",
+            "title": "Long-term yields keep rising as Trump amps up fight for Fed control",
+            "link": "https://www.cnbc.com/2025/08/27/us-treasury-yields-investors-look-ahead-to-key-inflation-data.html",
+            "summary": "Long-term U.S. Treasury yields continued to move higher Wednesday following the latest effort by President Donald Trump to take charge of the Federal Reserve.",
+            "date": "Wed, 27 Aug 2025 13:21:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "REFR",
+            "stock_ticker": "VCLT",
             "impact": "Neutral"
         },
         {
-            "title": "EchoStar stock skyrockets 80% on AT&T deal to buy wireless spectrum for $23 billion",
-            "link": "https://www.cnbc.com/2025/08/26/echostar-stock-att-wireless-musk.html",
-            "summary": "EchoStar said the deal will also help resolve an FCC inquiry over its use of certain spectrum licenses, including some that were sought by Elon Musk's SpaceX.",
-            "date": "Tue, 26 Aug 2025 13:21:51 GMT",
+            "title": "Suze Orman shares her secret to financial independence — and how you can get there",
+            "link": "https://www.marketwatch.com/story/suze-orman-shares-her-secret-to-financial-independence-and-how-you-can-get-there-1e20ecaa?mod=mw_rss_topstories",
+            "summary": "The money and investing guru takes a hard line on spending, home ownership, college tuition, life insurance and target-date retirement funds. The money and Investing Guru takes ahard line on Spending, Home ownership, College tuition and life insurance.",
+            "date": "Wed, 27 Aug 2025 13:14:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SATS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Eli Lilly’s weight loss pill orforglipron clears its latest trial, paving way for approval",
-            "link": "https://www.cnbc.com/2025/08/26/eli-lilly-weight-loss-pill-orforglipron-clears-trial-paving-way-for-approval.html",
-            "summary": "Eli Lilly now has the clinical trial data required to start filing for approvals of the drug for chronic weight management with global regulators. Eli Lilly has been developing the drug since the 1980s.",
-            "date": "Tue, 26 Aug 2025 12:48:45 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LLY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Lilly obesity-pill trial results find a warmer reception on Wall Street this time around",
-            "link": "https://www.marketwatch.com/story/lilly-obesity-pill-trial-results-find-a-warmer-reception-on-wall-street-this-time-around-ebffcf94?mod=mw_rss_topstories",
-            "summary": "Eli Lilly says it will now move \"with urgency\" toward getting regulatory approval for orforglipron. Pharmaceutical giant Eli Lilly said it will move “with urgency’ toward getting approval for the drug.",
-            "date": "Tue, 26 Aug 2025 13:25:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LLY",
+            "stock_ticker": "ORMA.IS",
             "impact": "Neutral"
         },
         {
             "title": "‘They knocked her down and started biting’: My mother, 84, was viciously attacked by her neighbor’s two dogs. Do we sue?",
             "link": "https://www.marketwatch.com/story/they-knocked-her-down-and-started-biting-my-mother-84-was-viciously-attacked-by-her-neighbors-two-dogs-do-we-sue-a4a12a0c?mod=mw_rss_topstories",
             "summary": "\"The police, ambulance and animal control were all called immediately. The dogs were removed and put down,\" police said. \"The dogs were taken to a local animal shelter and the dogs were put down\"",
-            "date": "Tue, 26 Aug 2025 13:20:00 GMT",
+            "date": "Wed, 27 Aug 2025 13:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +86,39 @@
             "impact": "Bearish"
         },
         {
-            "title": "Durable-goods orders retreat due to Boeing, but details look stronger",
-            "link": "https://www.marketwatch.com/story/durable-goods-orders-retreat-due-to-boeing-but-details-look-stronger-4502ad43?mod=mw_rss_topstories",
-            "summary": "AI-driven spending is offsetting weakness from tariff uncertainty, analysts say. The U.S. economy is expected to grow at a faster rate this year than last year.",
-            "date": "Tue, 26 Aug 2025 13:06:00 GMT",
+            "title": "‘Everyone was grieving’: Did my wife’s brothers cheat her out of her inheritance? There’s a condo and $550K at stake.",
+            "link": "https://www.marketwatch.com/story/everyone-was-grieving-did-my-wifes-brothers-swindle-her-out-of-her-inheritance-theres-a-condo-and-550k-at-stake-9b6df069?mod=mw_rss_topstories",
+            "summary": "“When my wife’s mom passed away, the eldest brother took on the role as executor,” he said.",
+            "date": "Wed, 27 Aug 2025 13:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RDEX-USD",
+            "stock_ticker": "BASE36284-USD",
             "impact": "Neutral"
         },
         {
-            "title": "A tax-refund surge is coming. How JPMorgan expects it to shift economy and markets.",
-            "link": "https://www.marketwatch.com/story/a-tax-refund-surge-is-coming-how-jpmorgan-expects-it-to-shift-economy-and-markets-8276c128?mod=mw_rss_topstories",
-            "summary": "JPMorgan Asset Management’s chief global strategist. An even bigger crop of tax refunds is coming in early 2026, he says.",
-            "date": "Tue, 26 Aug 2025 13:05:00 GMT",
+            "title": "No one is expecting a global boom. This former hedge-fund manager says it’s coming and has a way to play it.",
+            "link": "https://www.marketwatch.com/story/no-one-is-expecting-a-global-boom-this-former-hedge-fund-manager-says-its-coming-and-has-a-way-to-play-it-c0ceac1c?mod=mw_rss_topstories",
+            "summary": "A global economic boom is on few radars right now. But what if it happens? The best way to play that involves an unpopular asset.",
+            "date": "Wed, 27 Aug 2025 13:02:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
+            "stock_ticker": "ALI=F",
             "impact": "Neutral"
         },
         {
-            "title": "Betting markets don’t believe that Trump will succeed in ousting Fed’s Lisa Cook",
-            "link": "https://www.marketwatch.com/story/betting-markets-dont-believe-that-trump-will-succeed-in-ousting-feds-lisa-cook-93a34191?mod=mw_rss_topstories",
-            "summary": "Betting markets don’t see a high chance that President Donald Trump will manage to oust Federal Reserve governor Lisa Cook. Trump’s announcement late Monday that he had fired her while accusing her of mortgage fraud.",
-            "date": "Tue, 26 Aug 2025 12:46:00 GMT",
+            "title": "The 6 things to watch as Trump blitzes the Federal Reserve",
+            "link": "https://www.marketwatch.com/story/the-6-things-to-watch-as-trump-blitzes-the-federal-reserve-20cfacc3?mod=mw_rss_topstories",
+            "summary": "President Trump has been putting pressure on Fed Chair Jerome Powell and his colleagues in multiple ways. Here are key things for investors to track in the coming weeks.",
+            "date": "Wed, 27 Aug 2025 12:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BETZ",
+            "stock_ticker": "TGHL",
             "impact": "Neutral"
         }
     ]
