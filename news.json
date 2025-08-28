@@ -1,95 +1,95 @@
 {
-    "date": "2025-08-27",
+    "date": "2025-08-28",
     "news": [
         {
-            "title": "Kohl's shares jump more than 20% after big earnings beat",
-            "link": "https://www.cnbc.com/2025/08/27/kohls-kss-q2-2025-earnings-.html",
-            "summary": "Kohl's beats on earnings and revenue as it tries to turn around sales and find a new CEO. Kohl's beat on Earnings and Revenue as It tries to Turn Around Sales and Find a New CEO.",
-            "date": "Wed, 27 Aug 2025 13:20:37 GMT",
+            "title": "Nvidia stock turns positive in premarket trading as investors buy dip following earnings report",
+            "link": "https://www.cnbc.com/2025/08/28/nvidia-stock-ai-spend.html",
+            "summary": "Nvidia stock turned positive on Thursday after the chipmaker reported better-than-expected earnings and revenue for the fiscal second quarter. Nvidia stock turned negative on Thursday.",
+            "date": "Thu, 28 Aug 2025 13:23:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KSS",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "Fed's John Williams stresses independence as Trump moves to fire Lisa Cook",
-            "link": "https://www.cnbc.com/2025/08/27/feds-john-williams-stresses-independence-as-trump-moves-to-fire-lisa-cook.html",
-            "summary": "The influential policymaker avoided commenting directly on Trump's efforts to fire Cook. The White House has yet to comment on the report. The report was first reported by CNN's iReport.",
-            "date": "Wed, 27 Aug 2025 13:15:28 GMT",
+            "title": "Lawyers for Susan Monarez say 'she remains as CDC Director', only Trump has power to 'fire her'",
+            "link": "https://www.cnbc.com/2025/08/28/cdc-director-susan-monarez-trump-fire.html",
+            "summary": "White House says it fired Monarez after she refused to resign. The statement came hours after the White House said it had fired her for refusing to step down.",
+            "date": "Thu, 28 Aug 2025 12:59:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JNJ",
+            "stock_ticker": "FOR",
             "impact": "Neutral"
         },
         {
-            "title": "Fed responds to Trump effort to fire Lisa Cook, notes president needs 'cause'",
-            "link": "https://www.cnbc.com/2025/08/26/trump-fed-cook-respond-court.html",
-            "summary": "Federal Reserve Board Governor Lisa Cook hired Abbe Lowell to fight her termination by President Trump for a case that could land at the Supreme Court.",
-            "date": "Tue, 26 Aug 2025 21:08:47 GMT",
+            "title": "Dick's Sporting Goods raises guidance after second-quarter earnings beat",
+            "link": "https://www.cnbc.com/2025/08/28/dicks-sporting-goods-dks-q2-2025-earnings.html",
+            "summary": "Dick's Sporting Goods beat Wall Street's expectations on the top and bottom lines, leading it to raise its full year profit and sales guidance.",
+            "date": "Thu, 28 Aug 2025 11:36:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZQ=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Abercrombie sales growth slows again, but Hollister surges 19%",
-            "link": "https://www.cnbc.com/2025/08/27/abercrombie-fitch-anf-q2-2025-earnings.html",
-            "summary": "Abercrombie & Fitch's namesake brand is struggling to lap the massive growth it saw in prior quarters. Its teen-focused Hollister brand is now fueling sales.",
-            "date": "Wed, 27 Aug 2025 12:54:33 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ANF",
+            "stock_ticker": "DKS",
             "impact": "Neutral"
         },
         {
-            "title": "Long-term yields keep rising as Trump amps up fight for Fed control",
-            "link": "https://www.cnbc.com/2025/08/27/us-treasury-yields-investors-look-ahead-to-key-inflation-data.html",
-            "summary": "Long-term U.S. Treasury yields continued to move higher Wednesday following the latest effort by President Donald Trump to take charge of the Federal Reserve.",
-            "date": "Wed, 27 Aug 2025 13:21:49 GMT",
+            "title": "Best Buy reports modest sales recovery, but says tariffs are complicating its turnaround",
+            "link": "https://www.cnbc.com/2025/08/28/best-buy-bby-earnings-q2-2026.html",
+            "summary": "Best Buy surpassed revenue and earnings expectations for its most recent quarter. But the retailer stuck with its full-year forecast, citing tariff uncertainty.",
+            "date": "Thu, 28 Aug 2025 13:22:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VCLT",
+            "stock_ticker": "BBY",
             "impact": "Neutral"
         },
         {
-            "title": "Suze Orman shares her secret to financial independence — and how you can get there",
-            "link": "https://www.marketwatch.com/story/suze-orman-shares-her-secret-to-financial-independence-and-how-you-can-get-there-1e20ecaa?mod=mw_rss_topstories",
-            "summary": "The money and investing guru takes a hard line on spending, home ownership, college tuition, life insurance and target-date retirement funds. The money and Investing Guru takes ahard line on Spending, Home ownership, College tuition and life insurance.",
-            "date": "Wed, 27 Aug 2025 13:14:00 GMT",
+            "title": "Nvidia CEO Huang says bringing Blackwell AI chip to China 'is a real possibility'",
+            "link": "https://www.cnbc.com/2025/08/27/nvidia-jensen-huang-real-possibility-blackwell-ai-chip-to-china.html",
+            "summary": "Huang predicted the artificial intelligence market in the world's second-biggest economy will grow 50% next year. Huang predicted the Artificial Intelligence Market in China will grow by 50% in 2014.",
+            "date": "Wed, 27 Aug 2025 23:58:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ORMA.IS",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "‘They knocked her down and started biting’: My mother, 84, was viciously attacked by her neighbor’s two dogs. Do we sue?",
-            "link": "https://www.marketwatch.com/story/they-knocked-her-down-and-started-biting-my-mother-84-was-viciously-attacked-by-her-neighbors-two-dogs-do-we-sue-a4a12a0c?mod=mw_rss_topstories",
-            "summary": "\"The police, ambulance and animal control were all called immediately. The dogs were removed and put down,\" police said. \"The dogs were taken to a local animal shelter and the dogs were put down\"",
-            "date": "Wed, 27 Aug 2025 13:12:00 GMT",
+            "title": "Dollar General says it’s getting the ‘value’ thing right. The stock is rallying.",
+            "link": "https://www.marketwatch.com/story/dollar-general-says-its-getting-the-value-thing-right-the-stock-is-rallying-eb20172f?mod=mw_rss_topstories",
+            "summary": "More people visited Dollar General stores during the latest quarter. More people also spent slightly more money when they shopped at Dollar General. More than half of those who shopped went to Dollar General at least once.",
+            "date": "Thu, 28 Aug 2025 13:08:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HIMS",
-            "impact": "Bearish"
+            "stock_ticker": "EURUSD=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How Vanguard defends a super-conservative strategy that has proved surprisingly controversial",
+            "link": "https://www.marketwatch.com/story/how-vanguard-defends-a-super-conservative-strategy-that-has-proved-surprisingly-controversial-9e6199e0?mod=mw_rss_topstories",
+            "summary": "Vanguard is now suggesting a portfolio that tilts heavily toward bonds over stocks. The money-management giant has a portfolio of more than $1 trillion in assets.",
+            "date": "Thu, 28 Aug 2025 13:01:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
         },
         {
             "title": "‘Everyone was grieving’: Did my wife’s brothers cheat her out of her inheritance? There’s a condo and $550K at stake.",
             "link": "https://www.marketwatch.com/story/everyone-was-grieving-did-my-wifes-brothers-swindle-her-out-of-her-inheritance-theres-a-condo-and-550k-at-stake-9b6df069?mod=mw_rss_topstories",
             "summary": "“When my wife’s mom passed away, the eldest brother took on the role as executor,” he said.",
-            "date": "Wed, 27 Aug 2025 13:03:00 GMT",
+            "date": "Thu, 28 Aug 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +98,27 @@
             "impact": "Neutral"
         },
         {
-            "title": "No one is expecting a global boom. This former hedge-fund manager says it’s coming and has a way to play it.",
-            "link": "https://www.marketwatch.com/story/no-one-is-expecting-a-global-boom-this-former-hedge-fund-manager-says-its-coming-and-has-a-way-to-play-it-c0ceac1c?mod=mw_rss_topstories",
-            "summary": "A global economic boom is on few radars right now. But what if it happens? The best way to play that involves an unpopular asset.",
-            "date": "Wed, 27 Aug 2025 13:02:00 GMT",
+            "title": "‘They knocked her down and started biting’: My mother, 84, was viciously attacked by her neighbor’s two dogs. Do we sue?",
+            "link": "https://www.marketwatch.com/story/they-knocked-her-down-and-started-biting-my-mother-84-was-viciously-attacked-by-her-neighbors-two-dogs-do-we-sue-a4a12a0c?mod=mw_rss_topstories",
+            "summary": "\"The police, ambulance and animal control were all called immediately. The dogs were removed and put down,\" police said. \"The dogs were taken to a local animal shelter and the dogs were put down\"",
+            "date": "Thu, 28 Aug 2025 12:22:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ALI=F",
-            "impact": "Neutral"
+            "stock_ticker": "HIMS",
+            "impact": "Bearish"
         },
         {
-            "title": "The 6 things to watch as Trump blitzes the Federal Reserve",
-            "link": "https://www.marketwatch.com/story/the-6-things-to-watch-as-trump-blitzes-the-federal-reserve-20cfacc3?mod=mw_rss_topstories",
-            "summary": "President Trump has been putting pressure on Fed Chair Jerome Powell and his colleagues in multiple ways. Here are key things for investors to track in the coming weeks.",
-            "date": "Wed, 27 Aug 2025 12:52:00 GMT",
+            "title": "Why Trump’s business deals with Nvidia, Intel and other companies are really a tax on all of us",
+            "link": "https://www.marketwatch.com/story/why-trumps-business-deals-with-nvidia-intel-and-other-companies-is-really-a-tax-on-all-of-us-1dfa5419?mod=mw_rss_topstories",
+            "summary": "Trump is putting the White House at the center of U.S. business. He’s also inventing novel ways to tax corporate America, consumers and employees.",
+            "date": "Thu, 28 Aug 2025 11:35:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TGHL",
+            "stock_ticker": "301218.SZ",
             "impact": "Neutral"
         }
     ]
