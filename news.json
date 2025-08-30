@@ -1,124 +1,124 @@
 {
-    "date": "2025-08-29",
+    "date": "2025-08-30",
     "news": [
         {
-            "title": "Core inflation rose to 2.9% in July, highest since February",
-            "link": "https://www.cnbc.com/2025/08/29/pce-inflation-report-july-2025.html",
-            "summary": "The personal consumption expenditures price index was expected to show core inflation at 2.9%. Headline inflation was also expected to be 2.6%.",
-            "date": "Fri, 29 Aug 2025 13:20:08 GMT",
+            "title": "Most Trump tariffs ruled illegal by appeals court, dealing major blow to trade policy",
+            "link": "https://www.cnbc.com/2025/08/29/trump-trade-tariffs-appeals-court-ieepa.html",
+            "summary": "The appeals court stayed its ruling until Oct. 14, giving the Trump administration time to ask the Supreme Court to hear the case. The Supreme Court is expected to take up the case in the fall.",
+            "date": "Sat, 30 Aug 2025 11:30:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CRWV",
+            "stock_ticker": "PXM.WA",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Here's what it really means for Trump to get control of the Federal Reserve board",
+            "link": "https://www.cnbc.com/2025/08/30/heres-what-it-really-means-for-trump-to-get-control-of-the-federal-reserve-board.html",
+            "summary": "Since taking office in January, Trump has placed the Fed directly in the crosshairs of executive power. The Fed's chief, Janet Yellen, is expected to testify before Congress next week.",
+            "date": "Sat, 30 Aug 2025 12:54:03 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BD0.F",
             "impact": "Neutral"
         },
         {
-            "title": "Trump asks judge to allow Lisa Cook firing without delay; Fed seeks only 'prompt ruling'",
+            "title": "Spirit Airlines files for Chapter 11 bankruptcy protection for the second time in a year",
+            "link": "https://www.cnbc.com/2025/08/29/spirit-airlines-chapter-11-bankruptcy.html",
+            "summary": "Spirit Airlines filed for bankruptcy protection again, just months after the budget carrier came out of Chapter 11 protection earlier this year. Spirit Airlines is a subsidiary of Spirit Airlines, which is owned by Spirit Airlines.",
+            "date": "Fri, 29 Aug 2025 21:56:21 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPR",
+            "impact": "Bullish"
+        },
+        {
+            "title": "'AI may eat software,' but several tech names just wrapped a huge week",
+            "link": "https://www.cnbc.com/2025/08/29/ai-software-stocks-mongodb-pure-storage-snowflake.html",
+            "summary": "MongoDB, Pure Storage and Snowflake all touted artificial intelligence in earnings reports this week. MongoDB and Pure Storage are among the companies that touted AI in their earnings reports. Snowflake is a cloud storage company.",
+            "date": "Fri, 29 Aug 2025 21:18:22 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SOUN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Fate of Fed Gov. Lisa Cook still up in the air after court hearing on Trump firing bid",
             "link": "https://www.cnbc.com/2025/08/29/lisa-cook-trump-fed-powell-court-hearing.html",
-            "summary": "Federal Reserve Governor Lisa Cook is suing President Donald Trump for firing her. A court hearing could end with Cook remaining on the job while her lawsuit plays out.",
-            "date": "Fri, 29 Aug 2025 13:10:43 GMT",
+            "summary": "Lisa Cook's lawyer said \"crazy midnight tweets\" by housing official Bill Pulte about alleged mortgage fraud do not give President Trump cause to remove her.",
+            "date": "Fri, 29 Aug 2025 19:10:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Retail panic: What the end of the 'de minimis' exemption means for brands across the globe",
-            "link": "https://www.cnbc.com/2025/08/29/retail-impact-de-minimis-exemption-ends-globally.html",
-            "summary": "The de minimis exemption, an obscure trade law provision, came to an end globally on Friday, setting off a panic across the retail industry.",
-            "date": "Fri, 29 Aug 2025 13:10:07 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SXR=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fed's Waller, a candidate for chair, sees potential for half-point cut if labor market weakens further",
-            "link": "https://www.cnbc.com/2025/08/29/feds-waller-a-candidate-for-chair-sees-potential-for-half-point-cut-if-labor-market-weakens-further.html",
-            "summary": "Waller said he believes the Fed can use its power over rates to stave off further labor market weakening. \"So, let's get on with it,\" he said.",
-            "date": "Fri, 29 Aug 2025 12:12:05 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump railroad regulator Robert Primus was fired by White House after Amtrak Acela unveiling",
-            "link": "https://www.cnbc.com/2025/08/28/trump-robert-primus-stb-amtrak-train.html",
-            "summary": "STB member Robert Primus made clear his opposition to the merger of Union Pacific Railroad and Norfolk Southern Railroad, a union says. Primus was removed from the board.",
-            "date": "Thu, 28 Aug 2025 21:10:55 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My friend, 61, signed a $20K contract for dental implants. She can’t afford it. Can she fight it?",
-            "link": "https://www.marketwatch.com/story/she-absolutely-cannot-afford-this-procedure-my-friend-61-signed-a-20k-contract-for-dental-implants-can-she-fight-it-1c7a62b8?mod=mw_rss_topstories",
-            "summary": "After her room and board is paid at the assisted-living home, she has $9,000 left for the year. “After her Room and Board is Paid at the Assisted Living Home, She has $ 9,000 Left for the Year’s.”",
-            "date": "Fri, 29 Aug 2025 13:16:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. trade deficit in goods widened sharply in July as firms raced to avoid tariffs",
-            "link": "https://www.marketwatch.com/story/u-s-trade-deficit-in-goods-widened-sharply-in-july-as-firms-raced-to-avoid-tariffs-fe2898b6?mod=mw_rss_topstories",
-            "summary": "The U.S. trade deficit in goods widened 22.1% to $103.6 billion in July from $84.9 billion.",
-            "date": "Fri, 29 Aug 2025 13:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Americans spend a lot more on  cars in July, but not much else. Tariffs keep consumers cautious.",
-            "link": "https://www.marketwatch.com/story/americans-spend-a-lot-more-on-cars-in-july-but-not-much-else-tariffs-keep-consumers-cautious-45da3b43?mod=mw_rss_topstories",
-            "summary": "Americans bought more new cars and trucks in July to try to avoid tariff-related price increases. But they spent cautiously on  other goods and services amid ongoing turbulence in the U.S. economy.",
-            "date": "Fri, 29 Aug 2025 12:48:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPX.AX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Key U.S. inflation gauge creeps higher, but not enough to stave off Fed interest-rate cut",
-            "link": "https://www.marketwatch.com/story/key-u-s-inflation-gauge-creeps-higher-but-not-enough-to-deter-fed-interest-rate-cut-251db2a6?mod=mw_rss_topstories",
-            "summary": "Key measure of inflation rose in July at a rate that suggests persistent price pressures tied to higher U.S. tariffs. But the increase probably wasn't big enough to dissuade the Federal Reserve from cutting interest rates.",
-            "date": "Fri, 29 Aug 2025 12:38:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KEY",
+            "stock_ticker": "FATE",
             "impact": "Neutral"
         },
         {
             "title": "‘My blood pressure is sky high’: I’m in my 70s and a widow. I pay $12K a year for long-term-care insurance. Do I cut the cord?",
             "link": "https://www.marketwatch.com/story/my-blood-pressure-is-sky-high-im-in-my-70s-and-a-widow-i-pay-12k-a-year-for-long-term-care-insurance-do-i-cut-the-cord-299569bf?mod=mw_rss_topstories",
             "summary": "“What if I become cognitively impaired and need benefits for 15-20 years?” she asks. “What will I do when I’m in that situation?’",
-            "date": "Fri, 29 Aug 2025 12:11:00 GMT",
+            "date": "Sat, 30 Aug 2025 12:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "MYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia has $57 billion in cash. Wall Street has ideas about what to do with it.",
+            "link": "https://www.marketwatch.com/story/nvidia-has-57-billion-in-cash-wall-street-has-ideas-about-what-to-do-with-it-e25254b5?mod=mw_rss_topstories",
+            "summary": "Chip maker announced a $60 billion stock buyback this week. The move has sparked a debate about whether the move makes sense. The chip maker is based in Santa Clara, California.",
+            "date": "Sat, 30 Aug 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVDA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Only a really big jobs report might stop the Fed from cutting interest rates. Don’t count on it.",
+            "link": "https://www.marketwatch.com/story/only-a-really-big-jobs-report-might-stop-the-fed-from-cutting-interest-rates-dont-count-on-it-451eb83f?mod=mw_rss_topstories",
+            "summary": "Hiring has slowed sharply this year. Hiring in the construction industry has been particularly slow this year in the U.S. It's been particularly tough in Texas.",
+            "date": "Sat, 30 Aug 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TI02.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Does the hot IPO market mean we’re in a stock-market bubble?",
+            "link": "https://www.marketwatch.com/story/does-the-hot-ipo-market-mean-were-in-a-stock-market-bubble-d83be991?mod=mw_rss_topstories",
+            "summary": "The IPO market may be hotter than at any time since 2021, but it still is no more heated than the long-term average. The IPO market has been hotter than the average since the early 1990s.",
+            "date": "Sat, 30 Aug 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TGHL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "We’re in our 70s and have $1.4 million. We pay $1,750 in rent. Will we run out of money in retirement?",
+            "link": "https://www.marketwatch.com/story/we-pay-1-750-in-rent-my-partner-and-i-have-1-4-million-were-in-our-70s-will-we-run-out-of-money-in-retirement-443ac572?mod=mw_rss_topstories",
+            "summary": "“Our adjusted gross income was $160,000 last year. We both also have fairly good health insurance..” she says.",
+            "date": "Sat, 30 Aug 2025 11:42:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HOWL",
             "impact": "Neutral"
         }
     ]
