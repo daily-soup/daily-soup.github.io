@@ -1,17 +1,53 @@
 {
-    "date": "2025-08-31",
+    "date": "2025-09-01",
     "news": [
         {
-            "title": "The man behind OpenAI's global expansion and its effort to win the enterprise",
-            "link": "https://www.cnbc.com/2025/08/31/openais-brad-lightcap-leads-global-expansion-pursuit-of-enterprise.html",
-            "summary": "OpenAI is expanding globally and building an enterprise business that's fueling tension with its biggest backer and cloud partner, Microsoft. The company is building an artificial intelligence system that can predict the future of the world.",
-            "date": "Sun, 31 Aug 2025 12:00:01 GMT",
+            "title": "Trump keeps threatening to punish Putin. Here's what's holding him back",
+            "link": "https://www.cnbc.com/2025/09/01/why-does-trump-hold-back-on-punishing-russia-and-putin.html",
+            "summary": "U.S. President Donald Trump says he'll punish Russia if Moscow doesn't agree to peace talks with Ukraine. Yet, he hasn't pushed the button, so far.",
+            "date": "Mon, 01 Sep 2025 10:58:10 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TGHL",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
+        },
+        {
+            "title": "An Iowa nuclear plant is the next contender to restart, spurred by AI data center demand",
+            "link": "https://www.cnbc.com/2025/09/01/nuclear-duane-arnold-nextera-nee-tech-data-center-ai.html",
+            "summary": "The Duane Arnold nuclear plant in Iowa shut down in 2020. It could come back online to support growing power demand from the tech sector.",
+            "date": "Mon, 01 Sep 2025 12:29:14 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AN",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Plane carrying EU leader hit with suspected Russian GPS interference",
+            "link": "https://www.cnbc.com/2025/09/01/russia-suspected-of-jamming-gps-system-of-eu-leaders-plane.html",
+            "summary": "The European Union said Russia was suspected of jamming the GPS system of a plane carrying European Commission President Ursula von der Leyen to Bulgaria.",
+            "date": "Mon, 01 Sep 2025 12:38:27 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Wegovy trial result gives boost to Novo Nordisk amid U.S. market woes",
+            "link": "https://www.cnbc.com/2025/09/01/wegovy-heart-disease-trial-gives-boost-to-novo-nordisk-amid-us-woes.html",
+            "summary": "Novo Nordisk has been swept up in uncertainty around U.S. tariffs. Washington's push to get firms to lower drug prices and move manufacturing stateside.",
+            "date": "Mon, 01 Sep 2025 13:10:10 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "141A.T",
+            "impact": "Bullish"
         },
         {
             "title": "Trump tariffs that are voided by — and ones that are safe from — Friday's appeals court ruling",
@@ -26,58 +62,34 @@
             "impact": "Bullish"
         },
         {
-            "title": "Here's what it really means for Trump to get control of the Federal Reserve board",
-            "link": "https://www.cnbc.com/2025/08/30/heres-what-it-really-means-for-trump-to-get-control-of-the-federal-reserve-board.html",
-            "summary": "Since taking office in January, Trump has placed the Fed directly in the crosshairs of executive power. The Fed's chief, Janet Yellen, is expected to testify before Congress next week.",
-            "date": "Sun, 31 Aug 2025 12:11:48 GMT",
+            "title": "September is historically the worst month of the year for stocks. Why this time could be different.",
+            "link": "https://www.marketwatch.com/story/september-is-historically-the-worst-month-of-the-year-for-stocks-why-this-time-could-be-different-cd7260f5?mod=mw_rss_topstories",
+            "summary": "September has long carried a reputation as the most challenging month of the year for U.S. stocks. It is marked by seasonal weakness and a higher likelihood of volatility after the quiet summer months.",
+            "date": "Mon, 01 Sep 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BD0.F",
+            "stock_ticker": "CPST",
             "impact": "Neutral"
         },
         {
-            "title": "CDC asks all staff to return to office Sept. 15, five weeks after shooting at headquarters",
-            "link": "https://www.cnbc.com/2025/08/30/cdc-asks-all-staff-to-return-to-office-sept-15-after-hq-shooting.html",
-            "summary": "The internal announcement comes at a tumultuous time for the CDC and its workforce. The agency is still reeling from the shooting on Aug. 8.",
-            "date": "Sat, 30 Aug 2025 16:36:05 GMT",
+            "title": "Europe’s central bank boss joins warnings about threat to Fed’s independence from White House ‘intervention’",
+            "link": "https://www.marketwatch.com/story/europes-central-bank-boss-joins-warnings-about-threat-to-feds-independence-from-white-house-intervention-d4eb9a8e?mod=mw_rss_topstories",
+            "summary": " Economists in FT poll fret that the U.S. central bank is being compromised. They say the Fed's independence is at risk.",
+            "date": "Mon, 01 Sep 2025 12:47:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CDC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Global week ahead: Welcome to September, Wall Street’s least-loved month",
-            "link": "https://www.cnbc.com/2025/08/31/global-week-ahead-welcome-to-september-wall-streets-least-loved-month.html",
-            "summary": "Corporate earnings and macro uncertainty have revealed some clear winners and losers. We're two-thirds of the way through the third quarter, and corporate earnings have been strong.",
-            "date": "Sun, 31 Aug 2025 07:54:39 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GEO=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My friend, 61, signed a $20K contract for dental implants. She can’t afford it. Can she fight it?",
-            "link": "https://www.marketwatch.com/story/she-absolutely-cannot-afford-this-procedure-my-friend-61-signed-a-20k-contract-for-dental-implants-can-she-fight-it-1c7a62b8?mod=mw_rss_topstories",
-            "summary": "After her room and board is paid at the assisted-living home, she has $9,000 left for the year. “After her Room and Board is Paid at the Assisted Living Home, She has $ 9,000 Left for the Year’s.”",
-            "date": "Sun, 31 Aug 2025 13:11:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "^106673-EUR-NETR",
             "impact": "Neutral"
         },
         {
             "title": "Is the stock market open tomorrow for Labor Day? Does the post office deliver mail?",
             "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-bb5eb801?mod=mw_rss_topstories",
             "summary": "The end-of-summer holiday is upon us, so be prepared for plenty of closings. Be prepared for closings at schools across the U.S.",
-            "date": "Sun, 31 Aug 2025 12:27:00 GMT",
+            "date": "Mon, 01 Sep 2025 12:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +98,27 @@
             "impact": "Bullish"
         },
         {
-            "title": "‘I’m asking for a friend’: Will the IRS write off $60,000 lost in a romance phishing scam?",
-            "link": "https://www.marketwatch.com/story/im-asking-for-a-friend-will-the-irs-write-off-60-000-lost-in-a-romance-phishing-scam-7d3a3abd?mod=mw_rss_topstories",
-            "summary": "“The bank did try to stop them from executing the transfers,” a source said. “The banks did try and stop them, but they couldn’t.”",
-            "date": "Sun, 31 Aug 2025 12:10:00 GMT",
+            "title": "Gold futures rise to record high on Fed concerns, rate cut expectations",
+            "link": "https://www.marketwatch.com/story/gold-futures-rise-to-record-high-on-fed-concerns-rate-cut-expectations-96cf3577?mod=mw_rss_topstories",
+            "summary": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of New York for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots.",
+            "date": "Mon, 01 Sep 2025 10:46:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "GC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s what’s worth streaming in September 2025 on Netflix, Hulu, HBO Max and more",
-            "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2025-on-netflix-hulu-hbo-max-and-more-b2d86a1f?mod=mw_rss_topstories",
-            "summary": "New seasons of 'Only Murders in the Building' and 'Slow Horses' are can't-miss picks. Hulu's 'The Lowdown' and HBO's 'Task' warrant a look.",
-            "date": "Sun, 31 Aug 2025 12:00:00 GMT",
+            "title": "This ‘twice in a lifetime’ opportunity means the S&P 500 can hit 7,750 by end of next year",
+            "link": "https://www.marketwatch.com/story/this-twice-in-a-lifetime-opportunity-means-the-s-p-500-can-hit-7-750-by-end-of-next-year-0c3a8957?mod=mw_rss_topstories",
+            "summary": "A structural tech-driven bull market has much further to go says Evercore’s Emanuel. Evercore's Emanuel: ‘The tech bull market is not over yet.’",
+            "date": "Mon, 01 Sep 2025 10:23:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BD0.F",
-            "impact": "Bearish"
-        },
-        {
-            "title": "My husband and I are giving my sister $30K each year. Will we owe the IRS gift tax?",
-            "link": "https://www.marketwatch.com/story/my-husband-and-i-are-giving-my-sister-30k-each-year-will-we-owe-the-irs-gift-tax-551f701a?mod=mw_rss_topstories",
-            "summary": "“We do not see eye to eye on using paper checks,” he said. “We’re not used to it.” He added: “It’s not a good idea.’",
-            "date": "Sun, 31 Aug 2025 11:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         }
     ]
