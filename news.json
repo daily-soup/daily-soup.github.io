@@ -1,124 +1,124 @@
 {
-    "date": "2025-09-02",
+    "date": "2025-09-03",
     "news": [
         {
-            "title": "Treasury yields jump on prospect of U.S. having to refund tariff money; 30-year yield tops 4.98%",
-            "link": "https://www.cnbc.com/2025/09/02/us-treasury-yields-investors-look-to-key-jobs-report.html",
-            "summary": "U.S. Treasury yields were higher on Tuesday as investors looked ahead to a key jobs report on Friday and monitored the latest tariff developments.",
-            "date": "Tue, 02 Sep 2025 12:24:45 GMT",
+            "title": "Alphabet stock pops 6% in premarket trading after Google avoids break-up in antitrust case",
+            "link": "https://www.cnbc.com/2025/09/03/alphabet-pops-after-google-avoids-breakup-in-antitrust-case.html",
+            "summary": "Alphabet shares rose 6% in premarket trading on Wednesday. Investors viewed the result of Google's antitrust case as broadly favorable. Google's stock is up 6% this morning.",
+            "date": "Wed, 03 Sep 2025 13:17:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZB=F",
+            "stock_ticker": "GOOG",
             "impact": "Neutral"
         },
         {
-            "title": "Kraft Heinz to split into two companies",
-            "link": "https://www.cnbc.com/2025/09/02/kraft-heinz-split.html",
-            "summary": "The deal will reverse much of the $46 billion merger envisioned by Warren Buffett's Berkshire Hathaway and private equity firm 3G Capital.",
-            "date": "Tue, 02 Sep 2025 11:41:37 GMT",
+            "title": "Walmart-backed fintech OnePay is adding wireless plans to its everything app",
+            "link": "https://www.cnbc.com/2025/09/03/walmart-backed-onepay-adds-wireless.html",
+            "summary": "The OnePay launch is the latest example of a fintech firm adding wireless connectivity to its product set. Klarna and Nubank have made similar announcements.",
+            "date": "Wed, 03 Sep 2025 13:07:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KHC",
+            "stock_ticker": "TIGR",
             "impact": "Neutral"
         },
         {
-            "title": "Pepsi shares jump 5% as activist Elliott takes $4 billion stake, sees 'historic' value opportunity",
-            "link": "https://www.cnbc.com/2025/09/02/pepsi-shares-jump-4percent-after-wsj-reports-elliott-planning-major-activist-campaign.html",
-            "summary": "The Paul Singer-founded Elliott's bet in Pepsi is worth $4 billion, becoming the consumer giant's top five active investors excluding index funds.",
-            "date": "Tue, 02 Sep 2025 13:23:21 GMT",
+            "title": "Macy's shares pop 10% as retailer tops earnings estimates, raises outlook",
+            "link": "https://www.cnbc.com/2025/09/03/macys-q2-earnings-2025.html",
+            "summary": "Macy's easily beat Wall Street's earnings estimates and raised its guidance. The company said revamped stores saw better sales trends. Macy's also said it was seeing a boost in sales at its online stores.",
+            "date": "Wed, 03 Sep 2025 12:56:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PEP",
+            "stock_ticker": "M",
             "impact": "Neutral"
         },
         {
-            "title": "McDonald's to expand value menu as CEO says the chain aims to reach more customers",
-            "link": "https://www.cnbc.com/2025/09/02/mcdonalds-value-menu-combo-meals.html",
-            "summary": "McDonald's is bringing back its Extra Value Meals as it tries to appeal to price-sensitive customers. McDonald's is bring back itsextravaluemeals.com. Click here for more information.",
-            "date": "Tue, 02 Sep 2025 12:44:02 GMT",
+            "title": "Translation startup DeepL launches an AI 'agent' in challenge to players like OpenAI",
+            "link": "https://www.cnbc.com/2025/09/03/deepl-launches-ai-agent-pitting-it-against-openai-anthropic.html",
+            "summary": "DeepL launched the AI DeepL Agent on Wednesday aimed at enterprises. The company is pitting it against companies like Microsoft and Anthropic.",
+            "date": "Wed, 03 Sep 2025 12:40:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MCD",
+            "stock_ticker": "TDAC",
             "impact": "Neutral"
         },
         {
-            "title": "Amgen to invest $600 million in new research and development facility in California",
-            "link": "https://www.cnbc.com/2025/09/02/amgen-investment-rd-facility-california.html",
-            "summary": "President Donald Trump threatens to impose tariffs on pharmaceuticals imported into the U.S. It is the latest U.N. investment by a drugmaker.",
-            "date": "Tue, 02 Sep 2025 13:00:01 GMT",
+            "title": "30-year Treasury yield tops 5% briefly as traders deal with tariff uncertainty, Fed independence threat",
+            "link": "https://www.cnbc.com/2025/09/03/us-treasury-yields-little-changed-as-markets-await-jobs-data.html",
+            "summary": "U.S. Treasurys were little changed on Wednesday, but long-dated bonds hovered just below the 5% mark.",
+            "date": "Wed, 03 Sep 2025 12:44:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMGN",
+            "stock_ticker": "55U=F",
             "impact": "Neutral"
         },
         {
-            "title": "Beer sales have dropped off. Modelo and Corona parent’s stock dives to a 5-year low.",
-            "link": "https://www.marketwatch.com/story/beer-sales-have-dropped-off-modelo-and-corona-parents-stock-dives-to-a-5-year-low-46dae0cc?mod=mw_rss_topstories",
-            "summary": "Shares of Constellation Brands, parent of Corona and Modelo beer, sank to a five-year low after a profit and sales warning.",
-            "date": "Tue, 02 Sep 2025 13:15:00 GMT",
+            "title": "Dollar Tree says higher-income customers are still driving its growth. But the stock is tumbling.",
+            "link": "https://www.marketwatch.com/story/dollar-trees-stock-rallies-after-a-big-earnings-beat-as-people-shopped-and-spent-more-77ac7ca6?mod=mw_rss_topstories",
+            "summary": "Dollar Tree gave a downbeat outlook for the current quarter, despite raising its full-year outlook. Off-price retailer Dollar Tree raised its full year outlook.",
+            "date": "Wed, 03 Sep 2025 13:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBEA.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Big Warren Buffett–backed merger calls it quits as Kraft Heinz announces breakup",
-            "link": "https://www.marketwatch.com/story/big-warren-buffettbacked-merger-calls-it-quits-as-kraft-heinz-announces-breakup-34b4f68c?mod=mw_rss_topstories",
-            "summary": "Berkshire Hathaway-backed food giant will get shares in two publicly traded food companies to be named at a later date. Shareholders of the Berkshire Hathaway–backed food company will get Shares in Two Publicly traded Food Companies to be Named at a Later date.",
-            "date": "Tue, 02 Sep 2025 13:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BBAI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Dr. Oz is saving the government more money than Elon Musk and ‘DOGE’ ever did",
-            "link": "https://www.marketwatch.com/story/dr-oz-is-saving-the-government-more-money-than-elon-musk-and-doge-ever-did-385f9a59?mod=mw_rss_topstories",
-            "summary": "Medicare and Medicaid chief cracks down on payment practices and insurance companies. But costs are still rising. Trump’s Medicare and Medicaid Chief cracks down, but costs still rise.",
-            "date": "Tue, 02 Sep 2025 12:48:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DY=F",
+            "stock_ticker": "EURUSD=X",
             "impact": "Bearish"
         },
         {
-            "title": "Feeling Powerball fever as the jackpot hits $1.3 billion? This former lottery addict who lost around $1 million has a warning for you.",
-            "link": "https://www.marketwatch.com/story/do-you-have-a-lottery-addiction-with-the-powerball-jackpot-now-at-643-million-this-mans-story-may-be-telling-c824193d?mod=mw_rss_topstories",
-            "summary": "Adam Osmond gambled away a fortune on lottery games, but he eventually sought help. He was diagnosed with bipolar disorder after a series of near-fatal accidents.",
-            "date": "Tue, 02 Sep 2025 12:37:00 GMT",
+            "title": "Campbell’s tops earnings forecast as cost-conscious consumers continue to cook at home",
+            "link": "https://www.marketwatch.com/story/campbells-tops-earnings-forecast-as-cost-conscious-consumers-continue-to-cook-at-home-ac1090be?mod=mw_rss_topstories",
+            "summary": "Campbell’s stock rallies as the continued consumer trend of cooking from home helped fuel a profit beat. The company reported a quarterly profit of $1.2 billion.",
+            "date": "Wed, 03 Sep 2025 12:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FV8.F",
+            "stock_ticker": "CPB",
             "impact": "Neutral"
         },
         {
-            "title": "This one move could give Trump a win on global tariffs — and calm the bond market",
-            "link": "https://www.marketwatch.com/story/this-one-move-could-give-trump-a-win-on-global-tariffs-and-calm-the-bond-market-23bc9675?mod=mw_rss_topstories",
-            "summary": "A bipartisan congressional bill would impose a 10% minimum tariff — with stiffer rates for China. The bill would apply to all countries, not just China.",
-            "date": "Tue, 02 Sep 2025 12:36:00 GMT",
+            "title": "14 stocks of companies that could benefit from Trump’s state capitalism",
+            "link": "https://www.marketwatch.com/story/14-stocks-of-companies-that-could-benefit-from-trumps-state-capitalism-66681cc2?mod=mw_rss_topstories",
+            "summary": "Companies that already receive a lot of federal money might wind up having even closer ties to the government. Companies that already get federal money may wind up with even closer links to theGovernment.",
+            "date": "Wed, 03 Sep 2025 12:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "GSK.L",
+            "impact": "Bullish"
+        },
+        {
+            "title": "It’s time to face the ugly truth: American consumers have been gloomy for quite some time",
+            "link": "https://www.marketwatch.com/story/its-time-to-face-the-truth-american-consumers-have-been-gloomy-for-quite-some-time-4bdbd04d?mod=mw_rss_topstories",
+            "summary": "One day we have swagger, the next day we're cautious. Suddenly we're thrifty again. One day, we're swaggering. The next day,We're cautious again.",
+            "date": "Wed, 03 Sep 2025 12:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ITSA4.SA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Macy’s stock rises after same-store sales see first growth since 2022",
+            "link": "https://www.marketwatch.com/story/macys-stock-rises-after-same-store-sales-sees-first-growth-since-2022-c5615570?mod=mw_rss_topstories",
+            "summary": "Sales rise at the 125 stores in Macy’s reimagine network, as well as Bluemercury and Bloomingdale's locations.",
+            "date": "Wed, 03 Sep 2025 12:35:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "M",
             "impact": "Neutral"
         }
     ]
