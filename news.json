@@ -1,124 +1,124 @@
 {
-    "date": "2025-09-03",
+    "date": "2025-09-04",
     "news": [
         {
-            "title": "Alphabet stock pops 6% in premarket trading after Google avoids break-up in antitrust case",
-            "link": "https://www.cnbc.com/2025/09/03/alphabet-pops-after-google-avoids-breakup-in-antitrust-case.html",
-            "summary": "Alphabet shares rose 6% in premarket trading on Wednesday. Investors viewed the result of Google's antitrust case as broadly favorable. Google's stock is up 6% this morning.",
-            "date": "Wed, 03 Sep 2025 13:17:26 GMT",
+            "title": "Labor market growth slows dramatically in August with U.S. adding just 54,000 jobs, ADP says",
+            "link": "https://www.cnbc.com/2025/09/04/adp-jpb-data-august-2025.html",
+            "summary": "U.S. private sector hiring rose less than expected in August, according to the ADP. The ADP reports that private sector jobs rose by less than 1% in August.",
+            "date": "Thu, 04 Sep 2025 12:37:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOOG",
+            "stock_ticker": "ABT",
             "impact": "Neutral"
         },
         {
-            "title": "Walmart-backed fintech OnePay is adding wireless plans to its everything app",
-            "link": "https://www.cnbc.com/2025/09/03/walmart-backed-onepay-adds-wireless.html",
-            "summary": "The OnePay launch is the latest example of a fintech firm adding wireless connectivity to its product set. Klarna and Nubank have made similar announcements.",
-            "date": "Wed, 03 Sep 2025 13:07:08 GMT",
+            "title": "T. Rowe Price shares rocket higher after deal where Goldman will invest $1 billion in asset manager",
+            "link": "https://www.cnbc.com/2025/09/04/t-rowe-price-shares-rocket-higher-after-deal-where-goldman-will-invest-1-billion-in-asset-manager.html",
+            "summary": "Goldman will buy up to $1 billion in T. Rowe Price stock through open-market purchases with the intention to own up to 3.5%.",
+            "date": "Thu, 04 Sep 2025 13:01:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TIGR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Macy's shares pop 10% as retailer tops earnings estimates, raises outlook",
-            "link": "https://www.cnbc.com/2025/09/03/macys-q2-earnings-2025.html",
-            "summary": "Macy's easily beat Wall Street's earnings estimates and raised its guidance. The company said revamped stores saw better sales trends. Macy's also said it was seeing a boost in sales at its online stores.",
-            "date": "Wed, 03 Sep 2025 12:56:07 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "M",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Translation startup DeepL launches an AI 'agent' in challenge to players like OpenAI",
-            "link": "https://www.cnbc.com/2025/09/03/deepl-launches-ai-agent-pitting-it-against-openai-anthropic.html",
-            "summary": "DeepL launched the AI DeepL Agent on Wednesday aimed at enterprises. The company is pitting it against companies like Microsoft and Anthropic.",
-            "date": "Wed, 03 Sep 2025 12:40:12 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TDAC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "30-year Treasury yield tops 5% briefly as traders deal with tariff uncertainty, Fed independence threat",
-            "link": "https://www.cnbc.com/2025/09/03/us-treasury-yields-little-changed-as-markets-await-jobs-data.html",
-            "summary": "U.S. Treasurys were little changed on Wednesday, but long-dated bonds hovered just below the 5% mark.",
-            "date": "Wed, 03 Sep 2025 12:44:58 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "55U=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Dollar Tree says higher-income customers are still driving its growth. But the stock is tumbling.",
-            "link": "https://www.marketwatch.com/story/dollar-trees-stock-rallies-after-a-big-earnings-beat-as-people-shopped-and-spent-more-77ac7ca6?mod=mw_rss_topstories",
-            "summary": "Dollar Tree gave a downbeat outlook for the current quarter, despite raising its full-year outlook. Off-price retailer Dollar Tree raised its full year outlook.",
-            "date": "Wed, 03 Sep 2025 13:16:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EURUSD=X",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Campbell’s tops earnings forecast as cost-conscious consumers continue to cook at home",
-            "link": "https://www.marketwatch.com/story/campbells-tops-earnings-forecast-as-cost-conscious-consumers-continue-to-cook-at-home-ac1090be?mod=mw_rss_topstories",
-            "summary": "Campbell’s stock rallies as the continued consumer trend of cooking from home helped fuel a profit beat. The company reported a quarterly profit of $1.2 billion.",
-            "date": "Wed, 03 Sep 2025 12:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CPB",
-            "impact": "Neutral"
-        },
-        {
-            "title": "14 stocks of companies that could benefit from Trump’s state capitalism",
-            "link": "https://www.marketwatch.com/story/14-stocks-of-companies-that-could-benefit-from-trumps-state-capitalism-66681cc2?mod=mw_rss_topstories",
-            "summary": "Companies that already receive a lot of federal money might wind up having even closer ties to the government. Companies that already get federal money may wind up with even closer links to theGovernment.",
-            "date": "Wed, 03 Sep 2025 12:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GSK.L",
+            "stock_ticker": "BODI",
             "impact": "Bullish"
         },
         {
-            "title": "It’s time to face the ugly truth: American consumers have been gloomy for quite some time",
-            "link": "https://www.marketwatch.com/story/its-time-to-face-the-truth-american-consumers-have-been-gloomy-for-quite-some-time-4bdbd04d?mod=mw_rss_topstories",
-            "summary": "One day we have swagger, the next day we're cautious. Suddenly we're thrifty again. One day, we're swaggering. The next day,We're cautious again.",
-            "date": "Wed, 03 Sep 2025 12:50:00 GMT",
+            "title": "Spirit Airlines axes flights in 12 cities as it fights for survival while United, other airlines circle",
+            "link": "https://www.cnbc.com/2025/09/04/spirit-airlines-cuts-flights-in-12-cities-as-united-rivals-circle.html",
+            "summary": "Spirit Airlines is exiting a host of cities as it fights for survival while rival airlines are eyeing its customers. Spirit Airlines is out of a number of cities in the U.S.",
+            "date": "Thu, 04 Sep 2025 12:31:32 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ITSA4.SA",
+            "stock_ticker": "SPR",
             "impact": "Neutral"
         },
         {
-            "title": "Macy’s stock rises after same-store sales see first growth since 2022",
-            "link": "https://www.marketwatch.com/story/macys-stock-rises-after-same-store-sales-sees-first-growth-since-2022-c5615570?mod=mw_rss_topstories",
-            "summary": "Sales rise at the 125 stores in Macy’s reimagine network, as well as Bluemercury and Bloomingdale's locations.",
-            "date": "Wed, 03 Sep 2025 12:35:00 GMT",
+            "title": "CNBC's Official NFL Team Valuations 2025: Here's how the 32 franchises stack up",
+            "link": "https://www.cnbc.com/2025/09/04/cnbcs-official-nfl-team-valuations-2025.html",
+            "summary": "CNBC ranks the 32 NFL teams on overall franchise value. The value is calculated by CNBC senior sports reporter Michael Ozanian. How does your football team stack up?",
+            "date": "Thu, 04 Sep 2025 10:41:25 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "M",
+            "stock_ticker": "WLFI37380-USD",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Pulte refuses to say where he got Lisa Cook mortgage fraud ‘tip’",
+            "link": "https://www.cnbc.com/2025/09/04/pulte-fed-cook-mortgage-powell.html",
+            "summary": "\"I'm not going to explain our sources and methods,\" Pulte said on CNBC's \"Squawk Box\" \"I don't know where we get tips from, who are whistleblowers,\" he said.",
+            "date": "Thu, 04 Sep 2025 13:15:26 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PHM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Jobless claims rise to highest level since June, adding to concerns about labor market",
+            "link": "https://www.marketwatch.com/story/jobless-claims-rise-to-highest-level-since-june-adding-to-concern-over-labor-market-9db0859b?mod=mw_rss_topstories",
+            "summary": "The labor market tends to weaken quickly once layoffs commence. What worries policymakers is that the labor market tend to weaken rapidly once layoffs begin. The U.S. economy is expected to grow at a faster rate than expected in the second quarter.",
+            "date": "Thu, 04 Sep 2025 13:01:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "JOBLESS-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "More people earning over $100,000 are doing their back-to-school and holiday shopping at Dollar General and Dollar Tree these days. Here’s why.",
+            "link": "https://www.marketwatch.com/story/more-people-earning-over-100-000-are-doing-their-back-to-school-and-holiday-shopping-at-dollar-general-and-dollar-tree-these-days-heres-why-9f74654a?mod=mw_rss_topstories",
+            "summary": "Higher-income customers are boosting the performance of discount retailers. Dollar Tree and Dollar General are both seeing higher sales and higher profit margins. The company's shares are up more than 10 percent this year.",
+            "date": "Thu, 04 Sep 2025 12:27:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MRIN.TA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘She’s a very proud woman:’ My mother, 81, discovered her ‘millions’ in investments are gone. What can I do?",
+            "link": "https://www.marketwatch.com/story/shes-a-very-proud-woman-my-mother-81-discovered-her-millions-in-investments-are-gone-what-can-i-do-444ad7da?mod=mw_rss_topstories",
+            "summary": "“Before this happened, she gave me $50,000 to buy a new vehicle,” he says of his mother. “She gave me a lot of money before this happened.”",
+            "date": "Thu, 04 Sep 2025 12:22:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SHESHAINDS.BO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "ADP says just 54,000 private jobs created in August. Businesses still hesitant to hire.",
+            "link": "https://www.marketwatch.com/story/adp-says-just-54-000-private-jobs-created-in-august-businesses-still-hesitant-to-hire-d9a58ff5?mod=mw_rss_topstories",
+            "summary": "Privately run businesses created just 54,000 jobs in August, ADP says. The report extends a string of poor employment reports that have raised alarms about the labor market.",
+            "date": "Thu, 04 Sep 2025 12:21:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ADP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "$5,000 gold and other trades that Goldman, JPMorgan say may be coming if the market loses faith in the Fed",
+            "link": "https://www.marketwatch.com/story/5-000-gold-and-other-trades-that-goldman-jpmorgan-say-may-be-coming-if-the-market-loses-faith-in-the-fed-db9bdda7?mod=mw_rss_topstories",
+            "summary": "Investors should diversify into commodities as inflation concerns build, say analysts. Investors should also look for opportunities in emerging markets, they say.",
+            "date": "Thu, 04 Sep 2025 12:17:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "YM=F",
             "impact": "Neutral"
         }
     ]
