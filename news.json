@@ -1,124 +1,124 @@
 {
-    "date": "2025-09-04",
+    "date": "2025-09-05",
     "news": [
         {
-            "title": "Labor market growth slows dramatically in August with U.S. adding just 54,000 jobs, ADP says",
-            "link": "https://www.cnbc.com/2025/09/04/adp-jpb-data-august-2025.html",
-            "summary": "U.S. private sector hiring rose less than expected in August, according to the ADP. The ADP reports that private sector jobs rose by less than 1% in August.",
-            "date": "Thu, 04 Sep 2025 12:37:33 GMT",
+            "title": "Payrolls rose 22,000 in August, less than expected in further sign of hiring slowdown",
+            "link": "https://www.cnbc.com/2025/09/05/jobs-report-august-2025.html",
+            "summary": "Nonfarm payrolls were expected to increase by 75,000 in August. The unemployment rate edged up tp 4.3% in the month.",
+            "date": "Fri, 05 Sep 2025 13:07:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ABT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "T. Rowe Price shares rocket higher after deal where Goldman will invest $1 billion in asset manager",
-            "link": "https://www.cnbc.com/2025/09/04/t-rowe-price-shares-rocket-higher-after-deal-where-goldman-will-invest-1-billion-in-asset-manager.html",
-            "summary": "Goldman will buy up to $1 billion in T. Rowe Price stock through open-market purchases with the intention to own up to 3.5%.",
-            "date": "Thu, 04 Sep 2025 13:01:50 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BODI",
+            "stock_ticker": "ROI.F",
             "impact": "Bullish"
         },
         {
-            "title": "Spirit Airlines axes flights in 12 cities as it fights for survival while United, other airlines circle",
-            "link": "https://www.cnbc.com/2025/09/04/spirit-airlines-cuts-flights-in-12-cities-as-united-rivals-circle.html",
-            "summary": "Spirit Airlines is exiting a host of cities as it fights for survival while rival airlines are eyeing its customers. Spirit Airlines is out of a number of cities in the U.S.",
-            "date": "Thu, 04 Sep 2025 12:31:32 GMT",
+            "title": "Tesla's nearly $1 trillion new pay plan for Musk would expand his voting power",
+            "link": "https://www.cnbc.com/2025/09/05/tesla-musk-pay.html",
+            "summary": "Tesla shareholders will vote on whether the automaker should invest in Musk's artificial intelligence company, xAI. Tesla will also ask shareholders to vote on if the company should make an investment in SpaceX.",
+            "date": "Fri, 05 Sep 2025 12:29:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPR",
+            "stock_ticker": "SB=F",
             "impact": "Neutral"
         },
         {
-            "title": "CNBC's Official NFL Team Valuations 2025: Here's how the 32 franchises stack up",
-            "link": "https://www.cnbc.com/2025/09/04/cnbcs-official-nfl-team-valuations-2025.html",
-            "summary": "CNBC ranks the 32 NFL teams on overall franchise value. The value is calculated by CNBC senior sports reporter Michael Ozanian. How does your football team stack up?",
-            "date": "Thu, 04 Sep 2025 10:41:25 GMT",
+            "title": "‘I’m glad it’s over.’ Google CEO thanks Trump for antitrust 'resolution'",
+            "link": "https://www.cnbc.com/2025/09/04/google-ceo-thanks-trump-for-antitrust-resolution.html",
+            "summary": "President Donald Trump congratulated Google CEO Sundar Pichai on “big day’ following antitrust ruling. President Donald Trump congratulates Google CEOSundar Pchai on \"big day\" following antitrust decision.",
+            "date": "Fri, 05 Sep 2025 11:53:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WLFI37380-USD",
+            "stock_ticker": "BMNR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Lutnick predicts 'better' job number accuracy after Trump fired BLS chief",
+            "link": "https://www.cnbc.com/2025/09/05/trump-bls-jobs-lutnick.html",
+            "summary": "President Donald Trump declines to commit to saying BLS' upcoming jobs data will be credible. BLS releases jobs data for July on Friday.",
+            "date": "Fri, 05 Sep 2025 13:10:50 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BETR",
             "impact": "Bullish"
         },
         {
-            "title": "Pulte refuses to say where he got Lisa Cook mortgage fraud ‘tip’",
-            "link": "https://www.cnbc.com/2025/09/04/pulte-fed-cook-mortgage-powell.html",
-            "summary": "\"I'm not going to explain our sources and methods,\" Pulte said on CNBC's \"Squawk Box\" \"I don't know where we get tips from, who are whistleblowers,\" he said.",
-            "date": "Thu, 04 Sep 2025 13:15:26 GMT",
+            "title": "Demand for industrial space falls for the first time in 15 years",
+            "link": "https://www.cnbc.com/2025/09/05/demand-for-industrial-space-falls-for-the-first-time-in-15-years.html",
+            "summary": "Economic uncertainty brought on by constantly changing tariff policy and persistently high inflation is taking a greater toll on the warehouse sector. The warehouse sector is one of the biggest contributors to the British economy.",
+            "date": "Fri, 05 Sep 2025 12:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PHM",
+            "stock_ticker": "OND",
             "impact": "Neutral"
         },
         {
-            "title": "Jobless claims rise to highest level since June, adding to concerns about labor market",
-            "link": "https://www.marketwatch.com/story/jobless-claims-rise-to-highest-level-since-june-adding-to-concern-over-labor-market-9db0859b?mod=mw_rss_topstories",
-            "summary": "The labor market tends to weaken quickly once layoffs commence. What worries policymakers is that the labor market tend to weaken rapidly once layoffs begin. The U.S. economy is expected to grow at a faster rate than expected in the second quarter.",
-            "date": "Thu, 04 Sep 2025 13:01:00 GMT",
+            "title": "It’s not just Lisa Cook in hot water over second homes. U.K. deputy prime minister quits over tax issue.",
+            "link": "https://www.marketwatch.com/story/its-not-just-lisa-cook-in-hot-water-over-second-home-u-k-deputy-prime-minister-quits-over-tax-issue-c505b578?mod=mw_rss_topstories",
+            "summary": "Angela Rayner reportedly failed to properly pay stamp duty on second home. Rayner's second home was bought for $1.5 million in 2007.",
+            "date": "Fri, 05 Sep 2025 12:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JOBLESS-USD",
+            "stock_ticker": "ITSA4.SA",
             "impact": "Neutral"
         },
         {
-            "title": "More people earning over $100,000 are doing their back-to-school and holiday shopping at Dollar General and Dollar Tree these days. Here’s why.",
-            "link": "https://www.marketwatch.com/story/more-people-earning-over-100-000-are-doing-their-back-to-school-and-holiday-shopping-at-dollar-general-and-dollar-tree-these-days-heres-why-9f74654a?mod=mw_rss_topstories",
-            "summary": "Higher-income customers are boosting the performance of discount retailers. Dollar Tree and Dollar General are both seeing higher sales and higher profit margins. The company's shares are up more than 10 percent this year.",
-            "date": "Thu, 04 Sep 2025 12:27:00 GMT",
+            "title": "U.S. unemployment rate jumps to nearly 4-year high. Weak 22,000 increase in August jobs report tees up Fed rate cut.",
+            "link": "https://www.marketwatch.com/story/jobs-report-shows-22-000-gain-in-august-and-unemployment-hits-nearly-4-year-high-weak-hiring-tees-up-fed-rate-cut-51a22218?mod=mw_rss_topstories",
+            "summary": "The U.S. economy added a lackluster 22,000 new jobs in August. The unemployment rate rose to a nearly four-year high, underscoring the increasing fragility of the labor market.",
+            "date": "Fri, 05 Sep 2025 12:34:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MRIN.TA",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "‘She’s a very proud woman:’ My mother, 81, discovered her ‘millions’ in investments are gone. What can I do?",
-            "link": "https://www.marketwatch.com/story/shes-a-very-proud-woman-my-mother-81-discovered-her-millions-in-investments-are-gone-what-can-i-do-444ad7da?mod=mw_rss_topstories",
-            "summary": "“Before this happened, she gave me $50,000 to buy a new vehicle,” he says of his mother. “She gave me a lot of money before this happened.”",
-            "date": "Thu, 04 Sep 2025 12:22:00 GMT",
+            "title": "Nvidia stock has been in something of a rut. One analyst says the price could double.",
+            "link": "https://www.marketwatch.com/story/nvidia-stock-has-been-in-something-of-a-rut-one-analyst-says-the-price-could-double-2b2de407?mod=mw_rss_topstories",
+            "summary": "Analyst says Wall Street is underestimating future data-center revenue for chip giant. Chip giant is expected to report record quarterly results this week.",
+            "date": "Fri, 05 Sep 2025 12:34:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHESHAINDS.BO",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "ADP says just 54,000 private jobs created in August. Businesses still hesitant to hire.",
-            "link": "https://www.marketwatch.com/story/adp-says-just-54-000-private-jobs-created-in-august-businesses-still-hesitant-to-hire-d9a58ff5?mod=mw_rss_topstories",
-            "summary": "Privately run businesses created just 54,000 jobs in August, ADP says. The report extends a string of poor employment reports that have raised alarms about the labor market.",
-            "date": "Thu, 04 Sep 2025 12:21:00 GMT",
+            "title": "Treasury bonds aren’t the safe haven they’ve been in the past — and taxpayers will pay a price",
+            "link": "https://www.marketwatch.com/story/treasury-bonds-arent-the-safe-haven-theyve-been-in-the-past-and-taxpayers-will-pay-a-price-78bb81ec?mod=mw_rss_topstories",
+            "summary": "The U.S. government faces hundreds of billions of dollars in additional interest payments. The interest payments are part of a larger plan to pay down the nation's debt.",
+            "date": "Fri, 05 Sep 2025 12:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ADP",
+            "stock_ticker": "ZB=F",
             "impact": "Neutral"
         },
         {
-            "title": "$5,000 gold and other trades that Goldman, JPMorgan say may be coming if the market loses faith in the Fed",
-            "link": "https://www.marketwatch.com/story/5-000-gold-and-other-trades-that-goldman-jpmorgan-say-may-be-coming-if-the-market-loses-faith-in-the-fed-db9bdda7?mod=mw_rss_topstories",
-            "summary": "Investors should diversify into commodities as inflation concerns build, say analysts. Investors should also look for opportunities in emerging markets, they say.",
-            "date": "Thu, 04 Sep 2025 12:17:00 GMT",
+            "title": "Elon Musk could be paid $1 trillion if he makes Tesla ‘the most valuable company in history’",
+            "link": "https://www.marketwatch.com/story/teslas-proposes-paying-elon-musk-a-package-valued-at-88-billion-if-he-adds-7-5-trillion-in-value-0fb222f8?mod=mw_rss_topstories",
+            "summary": "Tesla proposes a $1 trillion pay package for Elon Musk, if can stay focused on adding $7.5 trillion to the company's value.",
+            "date": "Fri, 05 Sep 2025 11:56:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "YM=F",
+            "stock_ticker": "ELON",
             "impact": "Neutral"
         }
     ]
