@@ -1,125 +1,125 @@
 {
-    "date": "2025-09-05",
+    "date": "2025-09-06",
     "news": [
         {
-            "title": "Payrolls rose 22,000 in August, less than expected in further sign of hiring slowdown",
-            "link": "https://www.cnbc.com/2025/09/05/jobs-report-august-2025.html",
-            "summary": "Nonfarm payrolls were expected to increase by 75,000 in August. The unemployment rate edged up tp 4.3% in the month.",
-            "date": "Fri, 05 Sep 2025 13:07:11 GMT",
+            "title": "Google leads monster week for tech, pushing megacaps to combined $21 trillion in market cap",
+            "link": "https://www.cnbc.com/2025/09/05/tech-megacaps-worth-market-cap.html",
+            "summary": "Eight trillion-dollar companies now make up a combined 36% of the S&amp;P 500. Tech's megacaps got bigger this week.",
+            "date": "Fri, 05 Sep 2025 20:19:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ROI.F",
+            "stock_ticker": "GOOG",
             "impact": "Bullish"
         },
         {
-            "title": "Tesla's nearly $1 trillion new pay plan for Musk would expand his voting power",
-            "link": "https://www.cnbc.com/2025/09/05/tesla-musk-pay.html",
-            "summary": "Tesla shareholders will vote on whether the automaker should invest in Musk's artificial intelligence company, xAI. Tesla will also ask shareholders to vote on if the company should make an investment in SpaceX.",
-            "date": "Fri, 05 Sep 2025 12:29:14 GMT",
+            "title": "FTC commissioner questions status of Snap AI chatbot complaint: 'People deserve answers'",
+            "link": "https://www.cnbc.com/2025/09/05/ftc-snap-ai-chatbot-rebecca-slaughter.html",
+            "summary": "President Trump attempted to remove Slaughter from her FTC position, but a U.S. appeals court allowed her to maintain her role. The FTC is a federal agency that regulates interstate commerce.",
+            "date": "Fri, 05 Sep 2025 21:50:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SB=F",
+            "stock_ticker": "FTC",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m glad it’s over.’ Google CEO thanks Trump for antitrust 'resolution'",
-            "link": "https://www.cnbc.com/2025/09/04/google-ceo-thanks-trump-for-antitrust-resolution.html",
-            "summary": "President Donald Trump congratulated Google CEO Sundar Pichai on “big day’ following antitrust ruling. President Donald Trump congratulates Google CEOSundar Pchai on \"big day\" following antitrust decision.",
-            "date": "Fri, 05 Sep 2025 11:53:02 GMT",
+            "title": "Kenvue stock drops 10% on report RFK Jr. will link autism to Tylenol use during pregnancy",
+            "link": "https://www.cnbc.com/2025/09/05/rfk-tylenol-autism-kenvue-stock-for-url.html",
+            "summary": "HHS will release a report that could draw a link between pain medication and autism. The report will be released this month, according to the Wall Street Journal.",
+            "date": "Fri, 05 Sep 2025 19:27:15 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KVUE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Mystery of former Federal Reserve Governor Kugler's resignation deepens as real estate records raise new questions",
+            "link": "https://www.cnbc.com/2025/09/05/trump-fed-kugler-resignation-powell.html",
+            "summary": "The mystery surrounding former Federal Reserve Governor Adriana Kugler's resignation has gained new urgency. The mystery surrounding the resignation of the former Fed Governor has gainednew urgency.",
+            "date": "Fri, 05 Sep 2025 19:58:36 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYSTERY-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Elliott's plan for PepsiCo includes investing in some of its iconic brands, shedding others",
+            "link": "https://www.cnbc.com/2025/09/06/elliotts-plan-for-pepsico-includes-investing-in-some-of-its-iconic-brands-shedding-others.html",
+            "summary": "Elliott Investment Management says PepsiCo neglected its core soda brands and is selling way too many products. Elliott Investment Management: PepsiCo has neglected itscore soda brands.",
+            "date": "Sat, 06 Sep 2025 13:00:34 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Apple’s iPhone events have been unimpressive lately. Will this year be the exception?",
+            "link": "https://www.marketwatch.com/story/apples-iphone-events-have-been-unimpressive-lately-will-this-year-be-the-exception-b77d8193?mod=mw_rss_topstories",
+            "summary": "Some on Wall Street believe a thin new iPhone could help Apple break the pattern. The tech giant’s stock usually slumps after its big hardware reveals.",
+            "date": "Sat, 06 Sep 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "APPIX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "From bad to worse? Another big jobs report is coming up — and it probably won’t look good either.",
+            "link": "https://www.marketwatch.com/story/from-bad-to-worse-another-big-jobs-report-is-coming-up-and-it-probably-wont-look-good-either-d0b3a0aa?mod=mw_rss_topstories",
+            "summary": "The jobs report is coming out in just a few more days. And the news probably won't be good. Don’t look now, but another big jobs report will be coming out soon.",
+            "date": "Sat, 06 Sep 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WFCF",
+            "impact": "Neutral"
+        },
+        {
+            "title": "America’s key lenders are snubbing Treasurys for gold — putting your 401(k) at risk. Here’s what to do now.",
+            "link": "https://www.marketwatch.com/story/why-central-banks-are-ghosting-treasurys-for-gold-and-what-it-means-for-your-401-k-eec0cbb9?mod=mw_rss_topstories",
+            "summary": "These 3 steps are a good start. It isn’t so hard to break up with the U.S. dollar, after all.",
+            "date": "Sat, 06 Sep 2025 11:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LAC",
+            "impact": "Bullish"
+        },
+        {
+            "title": "My mother, 81, discovered her ‘millions’ in investments are gone. What can I do?",
+            "link": "https://www.marketwatch.com/story/shes-a-very-proud-woman-my-mother-81-discovered-her-millions-in-investments-are-gone-what-can-i-do-444ad7da?mod=mw_rss_topstories",
+            "summary": "“She’s a very proud woman,” her daughter says of her mother. “I’m very proud of her,’ she adds.",
+            "date": "Sat, 06 Sep 2025 10:44:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SGDMYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m about to inherit a lot of money. How do I make sure my husband doesn’t get any of it?",
+            "link": "https://www.marketwatch.com/story/im-about-to-inherit-a-lot-of-money-how-do-i-make-sure-my-husband-doesnt-get-any-of-it-3cf1e1f2?mod=mw_rss_topstories",
+            "summary": "“We want to invest the money and play catch up with our retirement savings/funding,” he says. “We’re trying to get ahead of the game,’ he adds.",
+            "date": "Sat, 06 Sep 2025 10:42:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BMNR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Lutnick predicts 'better' job number accuracy after Trump fired BLS chief",
-            "link": "https://www.cnbc.com/2025/09/05/trump-bls-jobs-lutnick.html",
-            "summary": "President Donald Trump declines to commit to saying BLS' upcoming jobs data will be credible. BLS releases jobs data for July on Friday.",
-            "date": "Fri, 05 Sep 2025 13:10:50 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BETR",
             "impact": "Bullish"
-        },
-        {
-            "title": "Demand for industrial space falls for the first time in 15 years",
-            "link": "https://www.cnbc.com/2025/09/05/demand-for-industrial-space-falls-for-the-first-time-in-15-years.html",
-            "summary": "Economic uncertainty brought on by constantly changing tariff policy and persistently high inflation is taking a greater toll on the warehouse sector. The warehouse sector is one of the biggest contributors to the British economy.",
-            "date": "Fri, 05 Sep 2025 12:30:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OND",
-            "impact": "Neutral"
-        },
-        {
-            "title": "It’s not just Lisa Cook in hot water over second homes. U.K. deputy prime minister quits over tax issue.",
-            "link": "https://www.marketwatch.com/story/its-not-just-lisa-cook-in-hot-water-over-second-home-u-k-deputy-prime-minister-quits-over-tax-issue-c505b578?mod=mw_rss_topstories",
-            "summary": "Angela Rayner reportedly failed to properly pay stamp duty on second home. Rayner's second home was bought for $1.5 million in 2007.",
-            "date": "Fri, 05 Sep 2025 12:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ITSA4.SA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. unemployment rate jumps to nearly 4-year high. Weak 22,000 increase in August jobs report tees up Fed rate cut.",
-            "link": "https://www.marketwatch.com/story/jobs-report-shows-22-000-gain-in-august-and-unemployment-hits-nearly-4-year-high-weak-hiring-tees-up-fed-rate-cut-51a22218?mod=mw_rss_topstories",
-            "summary": "The U.S. economy added a lackluster 22,000 new jobs in August. The unemployment rate rose to a nearly four-year high, underscoring the increasing fragility of the labor market.",
-            "date": "Fri, 05 Sep 2025 12:34:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Nvidia stock has been in something of a rut. One analyst says the price could double.",
-            "link": "https://www.marketwatch.com/story/nvidia-stock-has-been-in-something-of-a-rut-one-analyst-says-the-price-could-double-2b2de407?mod=mw_rss_topstories",
-            "summary": "Analyst says Wall Street is underestimating future data-center revenue for chip giant. Chip giant is expected to report record quarterly results this week.",
-            "date": "Fri, 05 Sep 2025 12:34:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NVDA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Treasury bonds aren’t the safe haven they’ve been in the past — and taxpayers will pay a price",
-            "link": "https://www.marketwatch.com/story/treasury-bonds-arent-the-safe-haven-theyve-been-in-the-past-and-taxpayers-will-pay-a-price-78bb81ec?mod=mw_rss_topstories",
-            "summary": "The U.S. government faces hundreds of billions of dollars in additional interest payments. The interest payments are part of a larger plan to pay down the nation's debt.",
-            "date": "Fri, 05 Sep 2025 12:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZB=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Elon Musk could be paid $1 trillion if he makes Tesla ‘the most valuable company in history’",
-            "link": "https://www.marketwatch.com/story/teslas-proposes-paying-elon-musk-a-package-valued-at-88-billion-if-he-adds-7-5-trillion-in-value-0fb222f8?mod=mw_rss_topstories",
-            "summary": "Tesla proposes a $1 trillion pay package for Elon Musk, if can stay focused on adding $7.5 trillion to the company's value.",
-            "date": "Fri, 05 Sep 2025 11:56:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ELON",
-            "impact": "Neutral"
         }
     ]
 }
