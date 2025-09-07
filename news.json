@@ -1,107 +1,95 @@
 {
-    "date": "2025-09-06",
+    "date": "2025-09-07",
     "news": [
         {
-            "title": "Google leads monster week for tech, pushing megacaps to combined $21 trillion in market cap",
-            "link": "https://www.cnbc.com/2025/09/05/tech-megacaps-worth-market-cap.html",
-            "summary": "Eight trillion-dollar companies now make up a combined 36% of the S&amp;P 500. Tech's megacaps got bigger this week.",
-            "date": "Fri, 05 Sep 2025 20:19:21 GMT",
+            "title": "Gold is on a record run — here's how to invest, according to experts",
+            "link": "https://www.cnbc.com/2025/09/06/how-to-invest-in-gold-amid-record-run.html",
+            "summary": "Interest in physical gold and gold-related financial investments has soared amid the precious metal's recent rally. Here’s what to know before diving in.",
+            "date": "Sun, 07 Sep 2025 10:06:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOOG",
-            "impact": "Bullish"
-        },
-        {
-            "title": "FTC commissioner questions status of Snap AI chatbot complaint: 'People deserve answers'",
-            "link": "https://www.cnbc.com/2025/09/05/ftc-snap-ai-chatbot-rebecca-slaughter.html",
-            "summary": "President Trump attempted to remove Slaughter from her FTC position, but a U.S. appeals court allowed her to maintain her role. The FTC is a federal agency that regulates interstate commerce.",
-            "date": "Fri, 05 Sep 2025 21:50:16 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FTC",
+            "stock_ticker": "GC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Kenvue stock drops 10% on report RFK Jr. will link autism to Tylenol use during pregnancy",
-            "link": "https://www.cnbc.com/2025/09/05/rfk-tylenol-autism-kenvue-stock-for-url.html",
-            "summary": "HHS will release a report that could draw a link between pain medication and autism. The report will be released this month, according to the Wall Street Journal.",
-            "date": "Fri, 05 Sep 2025 19:27:15 GMT",
+            "title": "Japan Prime Minister Ishiba Shigeru says he will step down after election setback",
+            "link": "https://www.cnbc.com/2025/09/07/japan-prime-minister-ishiba-shigeru-announces-his-resignation.html",
+            "summary": "Ishiba had faced calls for his resignation after the ruling Liberal Democratic Party failed to secure a majority in the lower house election on Oct. 27.",
+            "date": "Sun, 07 Sep 2025 10:20:23 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KVUE",
+            "stock_ticker": "J7=F",
             "impact": "Neutral"
         },
         {
-            "title": "Mystery of former Federal Reserve Governor Kugler's resignation deepens as real estate records raise new questions",
-            "link": "https://www.cnbc.com/2025/09/05/trump-fed-kugler-resignation-powell.html",
-            "summary": "The mystery surrounding former Federal Reserve Governor Adriana Kugler's resignation has gained new urgency. The mystery surrounding the resignation of the former Fed Governor has gainednew urgency.",
-            "date": "Fri, 05 Sep 2025 19:58:36 GMT",
+            "title": "Top Wall Street analysts prefer these 3 dividend-paying stocks for consistent income",
+            "link": "https://www.cnbc.com/2025/09/07/top-wall-street-analysts-prefer-these-3-dividend-paying-stocks-for-consistent-income.html",
+            "summary": "TipRanks' ranking service highlights three dividend-paying stocks. Archrock and Permian Resources are two of them.",
+            "date": "Sun, 07 Sep 2025 11:54:10 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYSTERY-USD",
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
-            "title": "Elliott's plan for PepsiCo includes investing in some of its iconic brands, shedding others",
-            "link": "https://www.cnbc.com/2025/09/06/elliotts-plan-for-pepsico-includes-investing-in-some-of-its-iconic-brands-shedding-others.html",
-            "summary": "Elliott Investment Management says PepsiCo neglected its core soda brands and is selling way too many products. Elliott Investment Management: PepsiCo has neglected itscore soda brands.",
-            "date": "Sat, 06 Sep 2025 13:00:34 GMT",
+            "title": "Roblox announces short-video, AI features amid child safety concerns",
+            "link": "https://www.cnbc.com/2025/09/05/roblox-short-video-ai-child-safety-concerns.html",
+            "summary": "Roblox announced new short-video and AI features on Friday. Comes amid increasing lawmaker scrutiny into how the company protects children on its platform.",
+            "date": "Fri, 05 Sep 2025 23:26:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PL",
+            "stock_ticker": "RBLX",
             "impact": "Neutral"
         },
         {
-            "title": "Apple’s iPhone events have been unimpressive lately. Will this year be the exception?",
-            "link": "https://www.marketwatch.com/story/apples-iphone-events-have-been-unimpressive-lately-will-this-year-be-the-exception-b77d8193?mod=mw_rss_topstories",
-            "summary": "Some on Wall Street believe a thin new iPhone could help Apple break the pattern. The tech giant’s stock usually slumps after its big hardware reveals.",
-            "date": "Sat, 06 Sep 2025 13:00:00 GMT",
+            "title": "Behind the AI talent war: Why tech giants are paying millions to top hires",
+            "link": "https://www.cnbc.com/2025/09/06/ai-talent-war-tech-giants-pay-talent-millions-of-dollars.html",
+            "summary": "Tech companies are battling for talent to get ahead in the AI arms race. It costs billions of dollars to build artificial intelligence models, and tech companies are competing for talent.",
+            "date": "Sat, 06 Sep 2025 05:39:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "APPIX",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "From bad to worse? Another big jobs report is coming up — and it probably won’t look good either.",
-            "link": "https://www.marketwatch.com/story/from-bad-to-worse-another-big-jobs-report-is-coming-up-and-it-probably-wont-look-good-either-d0b3a0aa?mod=mw_rss_topstories",
-            "summary": "The jobs report is coming out in just a few more days. And the news probably won't be good. Don’t look now, but another big jobs report will be coming out soon.",
-            "date": "Sat, 06 Sep 2025 12:00:00 GMT",
+            "title": "‘I am my mother’s caregiver’: My mom, 93, added my name to her bank and retirement accounts. Will she qualify for Medicaid?",
+            "link": "https://www.marketwatch.com/story/i-am-my-mothers-caregiver-my-mom-93-added-my-name-to-her-bank-and-retirement-accounts-will-she-qualify-for-medicaid-28957867?mod=mw_rss_topstories",
+            "summary": "“Will Medicaid be able to take the money from her bank account?” she asks. “ will Medicaid be can’t take theMoney from herbank account?\" “What’s going to happen to the money in her account?\"",
+            "date": "Sun, 07 Sep 2025 10:36:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFCF",
+            "stock_ticker": "TSLA",
             "impact": "Neutral"
         },
         {
-            "title": "America’s key lenders are snubbing Treasurys for gold — putting your 401(k) at risk. Here’s what to do now.",
-            "link": "https://www.marketwatch.com/story/why-central-banks-are-ghosting-treasurys-for-gold-and-what-it-means-for-your-401-k-eec0cbb9?mod=mw_rss_topstories",
-            "summary": "These 3 steps are a good start. It isn’t so hard to break up with the U.S. dollar, after all.",
-            "date": "Sat, 06 Sep 2025 11:58:00 GMT",
+            "title": "‘Fun came before paying bills’: My brother-in-law is in his 70s and homeless. Are we responsible for him?",
+            "link": "https://www.marketwatch.com/story/fun-came-before-paying-bills-my-brother-in-law-is-in-his-70s-and-homeless-are-we-responsible-for-him-f1d86d54?mod=mw_rss_topstories",
+            "summary": "“At one point, he was even taking items from friend’s homes when they let him stay with them,” she says.",
+            "date": "Sun, 07 Sep 2025 10:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LAC",
-            "impact": "Bullish"
+            "stock_ticker": "FUN",
+            "impact": "Neutral"
         },
         {
             "title": "My mother, 81, discovered her ‘millions’ in investments are gone. What can I do?",
             "link": "https://www.marketwatch.com/story/shes-a-very-proud-woman-my-mother-81-discovered-her-millions-in-investments-are-gone-what-can-i-do-444ad7da?mod=mw_rss_topstories",
             "summary": "“She’s a very proud woman,” her daughter says of her mother. “I’m very proud of her,’ she adds.",
-            "date": "Sat, 06 Sep 2025 10:44:00 GMT",
+            "date": "Sat, 06 Sep 2025 23:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -113,13 +101,25 @@
             "title": "I’m about to inherit a lot of money. How do I make sure my husband doesn’t get any of it?",
             "link": "https://www.marketwatch.com/story/im-about-to-inherit-a-lot-of-money-how-do-i-make-sure-my-husband-doesnt-get-any-of-it-3cf1e1f2?mod=mw_rss_topstories",
             "summary": "“We want to invest the money and play catch up with our retirement savings/funding,” he says. “We’re trying to get ahead of the game,’ he adds.",
-            "date": "Sat, 06 Sep 2025 10:42:00 GMT",
+            "date": "Sat, 06 Sep 2025 22:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BMNR",
             "impact": "Bullish"
+        },
+        {
+            "title": "My friend married for a second time. Will the kids from her first marriage lose their inheritance?",
+            "link": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-property-how-do-her-kids-get-their-fair-share-fe064f39?mod=mw_rss_topstories",
+            "summary": "“Her husband wants to be the administrator of their trust,” says a friend of the couple. “She’s very, very proud of her family,’ the friend adds.",
+            "date": "Sat, 06 Sep 2025 22:01:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SGDMYR=X",
+            "impact": "Neutral"
         }
     ]
 }
