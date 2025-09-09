@@ -1,83 +1,71 @@
 {
-    "date": "2025-09-08",
+    "date": "2025-09-09",
     "news": [
         {
-            "title": "Treasury Secretary Bessent warns of massive refunds if the Supreme Court voids Trump tariffs",
-            "link": "https://www.cnbc.com/2025/09/07/trump-trade-supreme-court-refunds-bessent.html",
-            "summary": "Bessent warns that a delayed ruling could result in a scenario in which $750 billion-$1 trillion in tariffs have already been collected.",
-            "date": "Mon, 08 Sep 2025 12:09:45 GMT",
+            "title": "Potential Trump tariff refund bill could top $1 trillion as Supreme Court fight looms",
+            "link": "https://www.cnbc.com/2025/09/08/trump-tariff-refund-trade-treasury-bessent-supreme-court.html",
+            "summary": "The Supreme Court has not indicated when it might rule on a request by the Trump administration to rule quickly on whether many new tariffs are legal.",
+            "date": "Mon, 08 Sep 2025 21:10:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZTT=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Private equity giants raid Wall Street as fundraising talent wars heat up",
-            "link": "https://www.cnbc.com/2025/09/08/global-private-equity-firms-talent-analyst-jobs-hiring-spree-deal-drought-wall-street.html",
-            "summary": "Private equity firms are ramping up hiring despite a deal drought. They remain optimistic about a rebound in activity. Private equity firms say they are optimistic that the deal drought will end.",
-            "date": "Mon, 08 Sep 2025 10:08:22 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001J1VT.F",
+            "stock_ticker": "0P00015XT9.L",
             "impact": "Bullish"
         },
         {
-            "title": "Dan Ives to become chair of company that will buy Sam Altman-backed Worldcoin for its treasury",
-            "link": "https://www.cnbc.com/2025/09/08/dan-ives-to-become-chair-of-company-that-will-buy-sam-altman-backed-worldcoin-for-its-treasury.html",
-            "summary": "Ives will help lead Eightco Holdings' treasury strategy around Worldcoin. Worldcoin will change the game for identity verification, Ives says.",
-            "date": "Mon, 08 Sep 2025 10:50:21 GMT",
+            "title": "One year in, Brian Niccol’s Starbucks looks different — but there are still more changes coming",
+            "link": "https://www.cnbc.com/2025/09/09/starbucks-ceo-brian-niccol-starbucks-turnaround-plan-one-year.html",
+            "summary": "Brian Niccol's turnaround strategy is bringing back some customers, but investors were expecting faster results. Niccol: \"We have a lot of work to do, and we're going to do it.\"",
+            "date": "Tue, 09 Sep 2025 09:49:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DAN",
+            "stock_ticker": "SR1=F",
             "impact": "Neutral"
         },
         {
-            "title": "Serena Williams invests in women's basketball league Unrivaled, now valued at $340 million",
-            "link": "https://www.cnbc.com/2025/09/08/serena-williams-unrivaled-investment-league-value.html",
-            "summary": "Unrivaled is now valued at $340 million as the league gains Serena Williams as its newest investor. Unrivaled was founded in 2007 and is based in New York City.",
-            "date": "Mon, 08 Sep 2025 12:42:25 GMT",
+            "title": "Nebius shares soar 55% in premarket on Microsoft AI deal",
+            "link": "https://www.cnbc.com/2025/09/09/nebius-nbis-soars-after-ai-infrastructure-deal-with-microsoft-msft.html",
+            "summary": "Nebius and Microsoft team up to train and run AI models. The move suggests demand for the powerful infrastructure needed to train AI models remains strong.",
+            "date": "Tue, 09 Sep 2025 12:23:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SRNA3.SA",
+            "stock_ticker": "NBIS",
             "impact": "Neutral"
         },
         {
-            "title": "The U.S. is losing travelers. Here are the countries that stand to benefit",
-            "link": "https://www.cnbc.com/2025/09/07/where-are-travelers-going-if-they-arent-going-to-the-us.html",
-            "summary": "The U.S. stands to lose $30 billion in international tourism dollars this year. The money is set to flow to neighboring nations and beyond.",
-            "date": "Sun, 07 Sep 2025 23:00:01 GMT",
+            "title": "Shake Shack launches French onion soup items as it leans into premium promotions",
+            "link": "https://www.cnbc.com/2025/09/09/shake-shack-launches-french-onion-soup-burger.html",
+            "summary": "Shake Shack is following up its Dubai Chocolate Pistachio Shake with a French Onion Soup Burger. The burger is the latest in a series of Shake Shack products.",
+            "date": "Tue, 09 Sep 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
+            "stock_ticker": "SHAK",
+            "impact": "Bullish"
         },
         {
-            "title": "SpaceX deal sends EchoStar’s stock soaring. Why Musk is buying $17 billion in wireless spectrum.",
-            "link": "https://www.marketwatch.com/story/echostar-clinches-a-17-billion-spectrum-deal-with-elon-musks-spacex-and-the-stock-soars-again-fdf3962d?mod=mw_rss_topstories",
-            "summary": "EchoStar soars further into record territory after a $17 billion deal to sell spectrum to Elon Musk’s SpaceX. The deal is expected to be worth more than $20 billion.",
-            "date": "Mon, 08 Sep 2025 13:04:00 GMT",
+            "title": "'A colossal train wreck': U.S. energy chief slams odds of net zero by 2050",
+            "link": "https://www.cnbc.com/2025/09/09/us-energy-chief-chris-wright-says-net-zero-by-2050-is-unrealistic.html",
+            "summary": "Net zero by 2050 is \"a monstrous human impoverishment program,\" U.S. energy secretary says. \"There is no way it is going to happen,\" Chris Wright says.",
+            "date": "Tue, 09 Sep 2025 12:54:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPXC-USD",
+            "stock_ticker": "ALI=F",
             "impact": "Neutral"
         },
         {
-            "title": "I’m a teacher, and fees are eating up my retirement savings so much that I don’t want to contribute anymore",
-            "link": "https://www.marketwatch.com/story/im-a-teacher-and-fees-are-eating-up-my-retirement-savings-so-much-that-i-dont-want-to-contribute-anymore-1ba9a958?mod=mw_rss_topstories",
-            "summary": "What are the options for getting out of paying 1% a year in a 403(b)? What are the Options for Getting Out of Paying 1% A Year in a 401(b)",
-            "date": "Mon, 08 Sep 2025 12:50:00 GMT",
+            "title": "I’m 70 and have $2.6 million for retirement. Is 80% in equities too risky?",
+            "link": "https://www.marketwatch.com/story/we-own-our-home-im-70-and-have-2-6-million-for-retirement-is-80-in-equities-too-risky-85b895d4?mod=mw_rss_topstories",
+            "summary": "“We have been living primarily off my pensions, but plan on big family trips soon,” he said. “We’ve been living mainly off my pension, but we plan to go on bigFamily trips soon.”",
+            "date": "Tue, 09 Sep 2025 13:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "What investors should expect from stocks after the Fed’s September meeting",
-            "link": "https://www.marketwatch.com/story/what-investors-should-expect-from-stocks-after-the-feds-september-meeting-68af2876?mod=mw_rss_topstories",
-            "summary": "The stock market doesn’t always rally after interest-rate cuts. The U.S. stock market was down 0.7% on Thursday.",
-            "date": "Mon, 08 Sep 2025 11:59:00 GMT",
+            "title": "MMA’s stock is skyrocketing — now that there’s a Trump connection",
+            "link": "https://www.marketwatch.com/story/mmas-stock-is-skyrocketing-now-that-theres-a-trump-connection-a4d6dfe5?mod=mw_rss_topstories",
+            "summary": "Donald Trump Jr. is joining combat sports company MMA Inc. as a strategic advisor. He will work with the company on a range of strategic initiatives.",
+            "date": "Tue, 09 Sep 2025 13:08:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BD0.F",
+            "stock_ticker": "VTI",
             "impact": "Neutral"
         },
         {
-            "title": "Weight loss has become the hottest new Chinese consumer craze",
-            "link": "https://www.marketwatch.com/story/weight-loss-has-become-the-hottest-new-chinese-consumer-craze-4d9d70fb?mod=mw_rss_topstories",
-            "summary": "A wellness boom is reshaping China, from gyms and diet apps to new injectable drugs. The boom is also changing the country's spending habits.",
-            "date": "Mon, 08 Sep 2025 11:44:00 GMT",
+            "title": "Another 1,000% gainer: CaliberCos surges on digital-asset purchase, a day after Eightco’s 3,000% gain",
+            "link": "https://www.marketwatch.com/story/frenzied-as-ever-the-dan-ives-led-worldcoin-treasury-purchase-is-only-latest-example-of-market-madness-43c247ad?mod=mw_rss_topstories",
+            "summary": "Eightco Holdings’ stock surged 3,000% on the purchase of a digital asset. One analyst calls it “market madness.”",
+            "date": "Tue, 09 Sep 2025 12:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^TWII",
+            "stock_ticker": "SB=F",
             "impact": "Neutral"
         },
         {
-            "title": "Oracle earnings are coming soon. Here’s what matters most to Wall Street.",
-            "link": "https://www.marketwatch.com/story/oracle-earnings-are-coming-soon-heres-what-matters-most-to-wall-street-3779c3c3?mod=mw_rss_topstories",
-            "summary": "Oracle is expected to follow up last year’s strong cloud performance with even bigger growth this year. Analysts want to assess the impact on profit metrics.",
-            "date": "Mon, 08 Sep 2025 11:42:00 GMT",
+            "title": "Fed is almost certain to cut rates by 25 basis points after months of debate. Why are so many people so unhappy about it?",
+            "link": "https://www.marketwatch.com/story/fed-is-almost-certain-to-cut-rates-by-25-basis-points-after-months-of-debate-why-are-so-many-people-unhappy-with-that-63e2266c?mod=mw_rss_topstories",
+            "summary": " Economists are split into opposite camps on which is more important for the Fed to battle — slower growth or higher inflation. The Fed is expected to raise interest rates for the first time in nearly a decade on Wednesday.",
+            "date": "Tue, 09 Sep 2025 12:35:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ORCL",
+            "stock_ticker": "ZQ=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why JPMorgan is warning the Fed rate cut everyone expects could sink stocks",
+            "link": "https://www.marketwatch.com/story/why-jpmorgan-is-warning-the-fed-rate-cut-everyone-expects-could-sink-stocks-0179698d?mod=mw_rss_topstories",
+            "summary": "The widely expected September Fed rate cut may have a surprise in store for investors who think stocks have nowhere to go but up, warns JPMorgan.",
+            "date": "Tue, 09 Sep 2025 12:26:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "301218.SZ",
             "impact": "Bullish"
         }
     ]
