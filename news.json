@@ -1,83 +1,71 @@
 {
-    "date": "2025-09-09",
+    "date": "2025-09-10",
     "news": [
         {
-            "title": "Potential Trump tariff refund bill could top $1 trillion as Supreme Court fight looms",
-            "link": "https://www.cnbc.com/2025/09/08/trump-tariff-refund-trade-treasury-bessent-supreme-court.html",
-            "summary": "The Supreme Court has not indicated when it might rule on a request by the Trump administration to rule quickly on whether many new tariffs are legal.",
-            "date": "Mon, 08 Sep 2025 21:10:33 GMT",
+            "title": "'We're all kind of in shock.' Oracle's revenue projections leave analysts slack-jawed",
+            "link": "https://www.cnbc.com/2025/09/09/were-all-kind-of-in-shock-oracle-projections-analysts-slackjawed.html",
+            "summary": "Oracle's earnings report included numbers that suggest the company's growth rate due to artificial intelligence is about to pop. Oracle's quarterly results were released on Wednesday.",
+            "date": "Wed, 10 Sep 2025 13:15:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P00015XT9.L",
+            "stock_ticker": "HOWL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Wholesale prices unexpectedly declined 0.1% in August, as Fed rate decision looms",
+            "link": "https://www.cnbc.com/2025/09/10/ppi-inflation-august-2025-.html",
+            "summary": "The producer price index was expected to increase 0.3% in August, according to the Dow Jones consensus estimate. The consumer price index is expected to rise 0.4%.",
+            "date": "Wed, 10 Sep 2025 13:15:21 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "COST",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump blocked from firing Fed Governor Lisa Cook as lawsuit plays out",
+            "link": "https://www.cnbc.com/2025/09/09/fed-lisa-cook-trump-powell-judge-jia-cobb-pulte.html",
+            "summary": "The Supreme Court is likely to have the final say on whether President Donald Trump has legal cause to remove Lisa Cook from the Federal Reserve.",
+            "date": "Wed, 10 Sep 2025 11:54:47 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
             "impact": "Bullish"
         },
         {
-            "title": "One year in, Brian Niccol’s Starbucks looks different — but there are still more changes coming",
-            "link": "https://www.cnbc.com/2025/09/09/starbucks-ceo-brian-niccol-starbucks-turnaround-plan-one-year.html",
-            "summary": "Brian Niccol's turnaround strategy is bringing back some customers, but investors were expecting faster results. Niccol: \"We have a lot of work to do, and we're going to do it.\"",
-            "date": "Tue, 09 Sep 2025 09:49:29 GMT",
+            "title": "Uber partners with fintech firm Pipe to offer loans to small businesses",
+            "link": "https://www.cnbc.com/2025/09/10/uber-eats-pipe-loans-restaurants.html",
+            "summary": "Uber is partnering with fintech firm Pipe to incorporate embedded technology in the Uber Eats Manager for small businesses to access loans. Uber is working with Pipe on the technology.",
+            "date": "Wed, 10 Sep 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SR1=F",
+            "stock_ticker": "UBER",
             "impact": "Neutral"
         },
         {
-            "title": "Nebius shares soar 55% in premarket on Microsoft AI deal",
-            "link": "https://www.cnbc.com/2025/09/09/nebius-nbis-soars-after-ai-infrastructure-deal-with-microsoft-msft.html",
-            "summary": "Nebius and Microsoft team up to train and run AI models. The move suggests demand for the powerful infrastructure needed to train AI models remains strong.",
-            "date": "Tue, 09 Sep 2025 12:23:55 GMT",
+            "title": "Trump presses European Union to impose 100% tariffs on India and China to pressure Putin",
+            "link": "https://www.cnbc.com/2025/09/10/trump-presses-european-union-to-impose-100percent-tariffs-on-india-and-china-to-squeeze-putin.html",
+            "summary": "U.S. President Donald Trump has asked the European Union to hit China and India with tariffs of up to 100% over the countries' Russia oil purchases.",
+            "date": "Wed, 10 Sep 2025 08:42:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NBIS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Shake Shack launches French onion soup items as it leans into premium promotions",
-            "link": "https://www.cnbc.com/2025/09/09/shake-shack-launches-french-onion-soup-burger.html",
-            "summary": "Shake Shack is following up its Dubai Chocolate Pistachio Shake with a French Onion Soup Burger. The burger is the latest in a series of Shake Shack products.",
-            "date": "Tue, 09 Sep 2025 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SHAK",
+            "stock_ticker": "DJT",
             "impact": "Bullish"
         },
         {
-            "title": "'A colossal train wreck': U.S. energy chief slams odds of net zero by 2050",
-            "link": "https://www.cnbc.com/2025/09/09/us-energy-chief-chris-wright-says-net-zero-by-2050-is-unrealistic.html",
-            "summary": "Net zero by 2050 is \"a monstrous human impoverishment program,\" U.S. energy secretary says. \"There is no way it is going to happen,\" Chris Wright says.",
-            "date": "Tue, 09 Sep 2025 12:54:33 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ALI=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m 70 and have $2.6 million for retirement. Is 80% in equities too risky?",
-            "link": "https://www.marketwatch.com/story/we-own-our-home-im-70-and-have-2-6-million-for-retirement-is-80-in-equities-too-risky-85b895d4?mod=mw_rss_topstories",
-            "summary": "“We have been living primarily off my pensions, but plan on big family trips soon,” he said. “We’ve been living mainly off my pension, but we plan to go on bigFamily trips soon.”",
-            "date": "Tue, 09 Sep 2025 13:16:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMNR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "MMA’s stock is skyrocketing — now that there’s a Trump connection",
-            "link": "https://www.marketwatch.com/story/mmas-stock-is-skyrocketing-now-that-theres-a-trump-connection-a4d6dfe5?mod=mw_rss_topstories",
-            "summary": "Donald Trump Jr. is joining combat sports company MMA Inc. as a strategic advisor. He will work with the company on a range of strategic initiatives.",
-            "date": "Tue, 09 Sep 2025 13:08:00 GMT",
+            "title": "Chewy’s stock drops, as Wall Street may have gotten too excited ahead of earnings",
+            "link": "https://www.marketwatch.com/story/chewys-stock-drops-as-wall-street-may-have-gotten-too-excited-ahead-of-earnings-14b8b5fe?mod=mw_rss_topstories",
+            "summary": "Shares of Chewy stumbled in early trading Wednesday. The online seller of pet products reported fiscal second-quarter earnings that matched analysts’ projections but that weren’t good enough.",
+            "date": "Wed, 10 Sep 2025 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,40 +74,52 @@
             "impact": "Neutral"
         },
         {
-            "title": "Another 1,000% gainer: CaliberCos surges on digital-asset purchase, a day after Eightco’s 3,000% gain",
-            "link": "https://www.marketwatch.com/story/frenzied-as-ever-the-dan-ives-led-worldcoin-treasury-purchase-is-only-latest-example-of-market-madness-43c247ad?mod=mw_rss_topstories",
-            "summary": "Eightco Holdings’ stock surged 3,000% on the purchase of a digital asset. One analyst calls it “market madness.”",
-            "date": "Tue, 09 Sep 2025 12:55:00 GMT",
+            "title": "Emma Heming Willis on moving husband Bruce Willis into a second home for dementia care: ‘I know it raises eyebrows [but] you have to do what’s right’",
+            "link": "https://www.marketwatch.com/story/emma-heming-willis-on-moving-husband-bruce-willis-into-a-second-home-for-dementia-care-i-know-it-raises-eyebrowsyou-have-to-do-whats-right-3ffe931a?mod=mw_rss_topstories",
+            "summary": "The Unexpected Journey was published by Simon & Schuster. The author talked about the book at a book launch event with Anderson Cooper. The book is about a woman's journey through life.",
+            "date": "Wed, 10 Sep 2025 13:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SB=F",
+            "stock_ticker": "EMMA",
             "impact": "Neutral"
         },
         {
-            "title": "Fed is almost certain to cut rates by 25 basis points after months of debate. Why are so many people so unhappy about it?",
-            "link": "https://www.marketwatch.com/story/fed-is-almost-certain-to-cut-rates-by-25-basis-points-after-months-of-debate-why-are-so-many-people-unhappy-with-that-63e2266c?mod=mw_rss_topstories",
-            "summary": " Economists are split into opposite camps on which is more important for the Fed to battle — slower growth or higher inflation. The Fed is expected to raise interest rates for the first time in nearly a decade on Wednesday.",
-            "date": "Tue, 09 Sep 2025 12:35:00 GMT",
+            "title": "Beyond the Fed and AI: This five-star manager picks small-cap stock that can become giants",
+            "link": "https://www.marketwatch.com/story/beyond-the-fed-and-ai-five-star-manager-offers-small-cap-stock-picks-that-could-be-giants-5100ad2f?mod=mw_rss_topstories",
+            "summary": "The time could be ripe for smaller companies to get eaten by bigger ones. It's one reason to give the space a second look, says this five-star portfolio manager.",
+            "date": "Wed, 10 Sep 2025 12:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZQ=F",
+            "stock_ticker": "XAIR",
             "impact": "Neutral"
         },
         {
-            "title": "Why JPMorgan is warning the Fed rate cut everyone expects could sink stocks",
-            "link": "https://www.marketwatch.com/story/why-jpmorgan-is-warning-the-fed-rate-cut-everyone-expects-could-sink-stocks-0179698d?mod=mw_rss_topstories",
-            "summary": "The widely expected September Fed rate cut may have a surprise in store for investors who think stocks have nowhere to go but up, warns JPMorgan.",
-            "date": "Tue, 09 Sep 2025 12:26:00 GMT",
+            "title": "Tesla’s Elon Musk still leads the billionaires, but Oracle’s Larry Ellison is quickly gaining",
+            "link": "https://www.marketwatch.com/story/elon-musk-still-leads-the-billionaires-but-larry-ellison-is-coming-up-fast-a962edaf?mod=mw_rss_topstories",
+            "summary": "Larry Ellison’s net worth has jumped $103 billion since January. Ellison is now worth more than $100 billion, according to a new report.",
+            "date": "Wed, 10 Sep 2025 12:46:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "301218.SZ",
-            "impact": "Bullish"
+            "stock_ticker": "ELON",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘Fun came before paying bills’: My brother-in-law is in his 70s and homeless. Are we responsible for him?",
+            "link": "https://www.marketwatch.com/story/fun-came-before-paying-bills-my-brother-in-law-is-in-his-70s-and-homeless-are-we-responsible-for-him-f1d86d54?mod=mw_rss_topstories",
+            "summary": "“At one point, he was even taking items from friend’s homes when they let him stay with them,” she says.",
+            "date": "Wed, 10 Sep 2025 12:43:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FUN",
+            "impact": "Neutral"
         }
     ]
 }
