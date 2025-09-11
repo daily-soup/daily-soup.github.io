@@ -1,124 +1,124 @@
 {
-    "date": "2025-09-10",
+    "date": "2025-09-11",
     "news": [
         {
-            "title": "'We're all kind of in shock.' Oracle's revenue projections leave analysts slack-jawed",
-            "link": "https://www.cnbc.com/2025/09/09/were-all-kind-of-in-shock-oracle-projections-analysts-slackjawed.html",
-            "summary": "Oracle's earnings report included numbers that suggest the company's growth rate due to artificial intelligence is about to pop. Oracle's quarterly results were released on Wednesday.",
-            "date": "Wed, 10 Sep 2025 13:15:01 GMT",
+            "title": "Consumer prices rose at annual rate of 2.9% in August, as weekly jobless claims jump",
+            "link": "https://www.cnbc.com/2025/09/11/consumer-prices-rose-at-annual-rate-of-2point9percent-in-august-as-weekly-jobless-claims-jump.html",
+            "summary": "The consumer price index was expected to increase 0.3% in August, according to the Dow Jones consensus estimate. The Consumer Price Index is a measure of the cost of living.",
+            "date": "Thu, 11 Sep 2025 13:12:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HOWL",
+            "stock_ticker": "XPT=F",
             "impact": "Neutral"
         },
         {
-            "title": "Wholesale prices unexpectedly declined 0.1% in August, as Fed rate decision looms",
-            "link": "https://www.cnbc.com/2025/09/10/ppi-inflation-august-2025-.html",
-            "summary": "The producer price index was expected to increase 0.3% in August, according to the Dow Jones consensus estimate. The consumer price index is expected to rise 0.4%.",
-            "date": "Wed, 10 Sep 2025 13:15:21 GMT",
+            "title": "UK sacks U.S. Ambassador Peter Mandelson over Epstein links",
+            "link": "https://www.cnbc.com/2025/09/11/uk-sacks-mandelson-as-us-ambassador-over-epstein-links.html",
+            "summary": "Mandelson's apparent close friendship with Epstein was revealed in documents released by U.S. lawmakers this week. Mandelson is a former chairman of the New York City subway system.",
+            "date": "Thu, 11 Sep 2025 11:36:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COST",
+            "stock_ticker": "UK",
             "impact": "Neutral"
         },
         {
-            "title": "Trump blocked from firing Fed Governor Lisa Cook as lawsuit plays out",
-            "link": "https://www.cnbc.com/2025/09/09/fed-lisa-cook-trump-powell-judge-jia-cobb-pulte.html",
-            "summary": "The Supreme Court is likely to have the final say on whether President Donald Trump has legal cause to remove Lisa Cook from the Federal Reserve.",
-            "date": "Wed, 10 Sep 2025 11:54:47 GMT",
+            "title": "10-year Treasury yield falls to 4% then snaps back as traders assess inflation data",
+            "link": "https://www.cnbc.com/2025/09/11/treasury-yields-inflation-data.html",
+            "summary": "Traders assessed a raft of economic signals Thursday morning. Traders assessed a series of economic signs Thursday morning, including a strong jobs report.",
+            "date": "Thu, 11 Sep 2025 13:17:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "ZN=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Charlie Kirk shooter: FBI, Utah police to give update as manhunt continues",
+            "link": "https://www.cnbc.com/2025/09/11/charlie-kirk-shooter-manhunt-trump.html",
+            "summary": "Kirk, a close ally of President Donald Trump, was killed by a gunman during a political event at Utah Valley University in Orem.",
+            "date": "Thu, 11 Sep 2025 12:53:30 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CHUC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump’s pressure on Europe to slap 100% tariffs on India and China raises eyebrows",
+            "link": "https://www.cnbc.com/2025/09/11/trump-asking-eu-to-slap-100percent-tariffs-on-india-and-china-raises-eyebrows.html",
+            "summary": "Europe is unlikely to acquiesce to the White House's request to slap high tariffs on its Asian counterparts. The White House wants to impose tariffs of up to 25 per cent on Chinese imports.",
+            "date": "Thu, 11 Sep 2025 06:45:14 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SMPC.BK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Gold keeps setting records — but its September trading pattern could be a roadblock",
+            "link": "https://www.marketwatch.com/story/gold-has-a-september-trading-pattern-that-could-surprise-investors-this-time-e8baafcc?mod=mw_rss_topstories",
+            "summary": "Seasonal strength doesn’t show up year after year. Seasonal strength is more about what you do in the off-season. That’s what we’re looking for.",
+            "date": "Thu, 11 Sep 2025 13:16:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GC=F",
             "impact": "Bullish"
         },
         {
-            "title": "Uber partners with fintech firm Pipe to offer loans to small businesses",
-            "link": "https://www.cnbc.com/2025/09/10/uber-eats-pipe-loans-restaurants.html",
-            "summary": "Uber is partnering with fintech firm Pipe to incorporate embedded technology in the Uber Eats Manager for small businesses to access loans. Uber is working with Pipe on the technology.",
-            "date": "Wed, 10 Sep 2025 13:00:01 GMT",
+            "title": "‘My income is not enough’: I’m a single parent in my early 50s. Should I add my kids, 23 and 29, to my mortgage application?",
+            "link": "https://www.marketwatch.com/story/my-income-is-not-enough-im-a-single-parent-in-my-early-50s-should-i-add-my-kids-23-and-29-to-my-mortgage-application-a82f73ba?mod=mw_rss_topstories",
+            "summary": "“I want to purchase a family home so we three don’t have to pay rent,” she says. “I’m looking forward to the day when I can buy a house with my family.”",
+            "date": "Thu, 11 Sep 2025 13:01:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UBER",
+            "stock_ticker": "SGDMYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "Trump presses European Union to impose 100% tariffs on India and China to pressure Putin",
-            "link": "https://www.cnbc.com/2025/09/10/trump-presses-european-union-to-impose-100percent-tariffs-on-india-and-china-to-squeeze-putin.html",
-            "summary": "U.S. President Donald Trump has asked the European Union to hit China and India with tariffs of up to 100% over the countries' Russia oil purchases.",
-            "date": "Wed, 10 Sep 2025 08:42:46 GMT",
+            "title": "Apple’s stock is stuck in a rut. Why this bull just threw in the towel.",
+            "link": "https://www.marketwatch.com/story/apples-stock-is-stuck-in-a-rut-why-this-bull-just-threw-in-the-towel-77f7c8bf?mod=mw_rss_topstories",
+            "summary": "D.A. Davidson says Apple “was either caught off-guard by AI or is genuinely facing innovator’s dilemma and cannot innovate”",
+            "date": "Thu, 11 Sep 2025 12:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Chewy’s stock drops, as Wall Street may have gotten too excited ahead of earnings",
-            "link": "https://www.marketwatch.com/story/chewys-stock-drops-as-wall-street-may-have-gotten-too-excited-ahead-of-earnings-14b8b5fe?mod=mw_rss_topstories",
-            "summary": "Shares of Chewy stumbled in early trading Wednesday. The online seller of pet products reported fiscal second-quarter earnings that matched analysts’ projections but that weren’t good enough.",
-            "date": "Wed, 10 Sep 2025 13:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
+            "stock_ticker": "APPLX",
             "impact": "Neutral"
         },
         {
-            "title": "Emma Heming Willis on moving husband Bruce Willis into a second home for dementia care: ‘I know it raises eyebrows [but] you have to do what’s right’",
-            "link": "https://www.marketwatch.com/story/emma-heming-willis-on-moving-husband-bruce-willis-into-a-second-home-for-dementia-care-i-know-it-raises-eyebrowsyou-have-to-do-whats-right-3ffe931a?mod=mw_rss_topstories",
-            "summary": "The Unexpected Journey was published by Simon & Schuster. The author talked about the book at a book launch event with Anderson Cooper. The book is about a woman's journey through life.",
-            "date": "Wed, 10 Sep 2025 13:10:00 GMT",
+            "title": "First-time unemployment claims surge to 263,000 — the highest level in nearly four years",
+            "link": "https://www.marketwatch.com/story/jobless-claims-surge-to-highest-level-in-almost-4-years-824d0d24?mod=mw_rss_topstories",
+            "summary": "The labor market has slowed markedly this summer. Businesses have stopped hiring due to uncertainty over the cost and impact of tariffs on imported goods.",
+            "date": "Thu, 11 Sep 2025 12:56:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EMMA",
+            "stock_ticker": "CLA18371-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Beyond the Fed and AI: This five-star manager picks small-cap stock that can become giants",
-            "link": "https://www.marketwatch.com/story/beyond-the-fed-and-ai-five-star-manager-offers-small-cap-stock-picks-that-could-be-giants-5100ad2f?mod=mw_rss_topstories",
-            "summary": "The time could be ripe for smaller companies to get eaten by bigger ones. It's one reason to give the space a second look, says this five-star portfolio manager.",
-            "date": "Wed, 10 Sep 2025 12:55:00 GMT",
+            "title": "Always trust your first guess: One Wall Street bank is reinstating its bullish S&P 500 target",
+            "link": "https://www.marketwatch.com/story/always-trust-your-first-guess-one-wall-street-bank-is-reinstating-its-bullish-s-p-500-target-0c5e9fae?mod=mw_rss_topstories",
+            "summary": "Deustche Bank says it now expects the S&amp;P 500 to reach its original target of 7000 at the end of this year.",
+            "date": "Thu, 11 Sep 2025 12:46:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XAIR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Tesla’s Elon Musk still leads the billionaires, but Oracle’s Larry Ellison is quickly gaining",
-            "link": "https://www.marketwatch.com/story/elon-musk-still-leads-the-billionaires-but-larry-ellison-is-coming-up-fast-a962edaf?mod=mw_rss_topstories",
-            "summary": "Larry Ellison’s net worth has jumped $103 billion since January. Ellison is now worth more than $100 billion, according to a new report.",
-            "date": "Wed, 10 Sep 2025 12:46:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ELON",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘Fun came before paying bills’: My brother-in-law is in his 70s and homeless. Are we responsible for him?",
-            "link": "https://www.marketwatch.com/story/fun-came-before-paying-bills-my-brother-in-law-is-in-his-70s-and-homeless-are-we-responsible-for-him-f1d86d54?mod=mw_rss_topstories",
-            "summary": "“At one point, he was even taking items from friend’s homes when they let him stay with them,” she says.",
-            "date": "Wed, 10 Sep 2025 12:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FUN",
+            "stock_ticker": "QQQ",
             "impact": "Neutral"
         }
     ]
