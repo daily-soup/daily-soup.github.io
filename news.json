@@ -1,125 +1,125 @@
 {
-    "date": "2025-09-12",
+    "date": "2025-09-13",
     "news": [
         {
-            "title": "David Ellison has wasted no time putting his stamp on Paramount",
-            "link": "https://www.cnbc.com/2025/09/12/david-ellison-ceo-paramount-skydance-merger.html",
-            "summary": "David Ellison has signed big deals for talent and content as part of his plan to invest in the entertainment company. Ellison is CEO and chairman of the board of Viacom.",
-            "date": "Fri, 12 Sep 2025 12:16:55 GMT",
+            "title": "OpenAI's spending spree is powering the tech industry. Oracle is the latest winner",
+            "link": "https://www.cnbc.com/2025/09/13/openai-spending-spree-powering-much-of-tech-oracle-latest-example.html",
+            "summary": "OpenAI's influence across Silicon Valley is growing. Oracle’s stock surge and Broadcom's breakout underscore OpenAI's impact. OpenAI was founded in 2009 and is based in California.",
+            "date": "Sat, 13 Sep 2025 11:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HOG",
+            "stock_ticker": "^SPXRETIT",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says Charlie Kirk shooting suspect is in custody",
-            "link": "https://www.cnbc.com/2025/09/12/trump-charlie-kirk-shooter-suspect.html",
-            "summary": "Kirk, an ally of President Donald Trump, was shot during an event at Utah Valley University. The shooting kicked off a multi-day manhunt.",
-            "date": "Fri, 12 Sep 2025 13:16:43 GMT",
+            "title": "UnitedHealth soars but Berkshire's new stake may still be in the red",
+            "link": "https://www.cnbc.com/2025/09/13/unitedhealth-soars-but-berkshires-new-stake-may-still-be-in-the-red.html",
+            "summary": "Buffett drops four notches on Forbes 400 ranking. Berkshire's new UnitedHealth stake, Kraft Heinz falls as overhang looms, Buffett says. Buffett: \"I don't think it's a good time to buy a company\"",
+            "date": "Sat, 13 Sep 2025 12:16:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "UNH",
             "impact": "Neutral"
         },
         {
-            "title": "Swatch takes a swipe at Trump’s 39% tariff with switched-up watch",
-            "link": "https://www.cnbc.com/2025/09/12/swatch-takes-a-swipe-at-trumps-39percent-tariff-with-switched-up-watch.html",
-            "summary": "U.S. President Donald Trump announced shock 39% levies on Switzerland on Aug. 1. Swatch has hit back with a statement of its own.",
-            "date": "Fri, 12 Sep 2025 13:14:54 GMT",
+            "title": "$7 trillion 'wall of cash' worry is looming for investors once Fed interest rate cuts start",
+            "link": "https://www.cnbc.com/2025/09/12/7-trillion-cash-money-market-yields-fed-interest-rate-cuts.html",
+            "summary": "Trillions of dollars are parked in money market funds due to years of high rates. With the Fed poised to cut, portfolio moves will need to be made.",
+            "date": "Fri, 12 Sep 2025 19:21:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UHRN.F",
+            "stock_ticker": "HNDL",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says National Guard will deploy to Memphis next, sidestepping Chicago",
-            "link": "https://www.cnbc.com/2025/09/12/trump-memphis-national-guard-crime.html",
-            "summary": "The president called Memphis \"deeply troubled\" He called the city's mayor \"the mayor of Memphis\" The mayor called the mayor of the city of Memphis, Tennessee, \"a hero\"",
-            "date": "Fri, 12 Sep 2025 12:53:29 GMT",
+            "title": "From bananas to toys, these 5 charts show how much costs have risen since Trump's tariffs went into effect",
+            "link": "https://www.cnbc.com/2025/09/13/charts-how-much-costs-have-risen-since-trump-tariffs-went-into-effect.html",
+            "summary": "Inflation has been showing up in categories that rarely see big swings. Since Trump’s tariffs took effect in April, inflation has shown up in several categories.",
+            "date": "Sat, 13 Sep 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Apple, Google and Meta are trying to perfect a science-fiction gadget: The universal translator",
-            "link": "https://www.cnbc.com/2025/09/12/apple-google-meta-universal-translator.html",
-            "summary": "Apple, Google and Meta are capitalizing on advancements in AI to bring new translation features to their latest hardware devices. Apple, Google, Meta and other tech companies are working on new translation tools.",
-            "date": "Fri, 12 Sep 2025 12:46:14 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAPL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Gemini’s IPO rides the crypto craze to further the fortunes of the Winklevoss twins",
-            "link": "https://www.marketwatch.com/story/geminis-ipo-rides-the-crypto-craze-to-further-the-fortunes-of-the-winklevoss-twins-3f716738?mod=mw_rss_topstories",
-            "summary": "The IPO for the cryptocurrency exchange founded by billionaires Tyler and Cameron Winklevoss ups its price range ahead of its debut, in a sign of strong interest.",
-            "date": "Fri, 12 Sep 2025 12:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IPO",
+            "stock_ticker": "WFH",
             "impact": "Bullish"
         },
         {
-            "title": "My parents promised to split their estate 50/50, but my mother gave my brother real estate. Is that fair?",
-            "link": "https://www.marketwatch.com/story/my-parents-promised-to-split-their-estate-50-50-but-my-mother-gave-my-brother-real-estate-is-that-fair-ec30343f?mod=mw_rss_topstories",
-            "summary": "“The trust dictates my brother should receive an equal amount,” he says. “The Trust dictates my father should be given the same amount.”",
-            "date": "Fri, 12 Sep 2025 12:51:00 GMT",
+            "title": "Chinese EV players take fight to legacy European automakers on their home turf",
+            "link": "https://www.cnbc.com/2025/09/13/chinese-ev-firms-take-fight-to-european-automakers-on-their-home-turf.html",
+            "summary": "Chinese electric carmakers Xpeng and GAC this week signalled aggressive expansion plans in Europe. Chinese electric carmaker Xp Peng and carmaker GAC have announced plans to expand across Europe.",
+            "date": "Sat, 13 Sep 2025 05:49:38 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "O39.SI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Oracle’s not-so-secret weapon that’s helped it quickly take on the cloud giants",
+            "link": "https://www.marketwatch.com/story/oracles-not-so-secret-weapon-thats-helped-it-quickly-take-on-the-cloud-giants-d211133b?mod=mw_rss_topstories",
+            "summary": "Larry Ellison, now Oracle’s CTO, has played a major role in helping the company win AI cloud deals and pivot beyond legacy software.",
+            "date": "Sat, 13 Sep 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EJAP.MU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Donald Trump Jr.’s new career: Advising companies",
+            "link": "https://www.marketwatch.com/story/donald-trump-jr-s-new-career-advising-companies-31d2b384?mod=mw_rss_topstories",
+            "summary": "The president’s eldest son is being paid for giving his counsel. From mixed martial arts to prediction markets and drones, the president's eldest son gives his advice.",
+            "date": "Sat, 13 Sep 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DCI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My husband sold his IRA without my knowledge prior to our divorce. Is this legal?",
+            "link": "https://www.marketwatch.com/story/my-husband-sold-his-ira-without-my-knowledge-prior-to-our-divorce-is-this-legal-723db435?mod=mw_rss_topstories",
+            "summary": "“Is it legal for one member of a married couple to authorize the sale of an IRA in a joint-managed account?”",
+            "date": "Sat, 13 Sep 2025 12:29:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "MYR=X",
-            "impact": "Neutral"
+            "impact": "Bullish"
         },
         {
-            "title": "Brew City is also home to Harley — and America’s hottest housing market",
-            "link": "https://www.marketwatch.com/story/this-midwestern-hub-for-beer-and-harleys-has-the-hottest-housing-market-in-america-right-now-44dc18b1?mod=mw_rss_topstories",
-            "summary": "Homes are selling fast in the Midwest and the Northeast. But they're spending months on the market in the South and the West. Homes are selling quickly in the Northeast and Midwest. They're taking longer to sell in South and West.",
-            "date": "Fri, 12 Sep 2025 12:43:00 GMT",
+            "title": "We’re 37 and want to have a multimillion-dollar compound for our kids. Is that a realistic goal?",
+            "link": "https://www.marketwatch.com/story/were-37-and-want-to-have-a-multimillion-dollar-compound-for-our-kids-is-that-a-realistic-goal-8bd18250?mod=mw_rss_topstories",
+            "summary": "“My government and pension check will be $10,000 a month,” he says. “I’m going to be able to retire at the age of 70.”",
+            "date": "Sat, 13 Sep 2025 12:29:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHMBBRW.BO",
+            "stock_ticker": "HOWL",
             "impact": "Neutral"
         },
         {
-            "title": "The job market’s hidden flaw is now obvious — and rate cuts might not fix it",
-            "link": "https://www.marketwatch.com/story/the-job-markets-hidden-flaw-is-now-obvious-9303e85c?mod=mw_rss_topstories",
-            "summary": "Cracks in the U.S. labor force from immigration raids, arrests and deportations are showing. Cracks are showing in the country's labor force, a study shows.",
-            "date": "Fri, 12 Sep 2025 12:18:00 GMT",
+            "title": "Trump looks set to delay the TikTok ban again. Why there’s no U.S. buyout deal yet.",
+            "link": "https://www.marketwatch.com/story/trump-looks-set-to-delay-the-tiktok-ban-again-why-theres-no-u-s-buyout-deal-yet-c6eae2c0?mod=mw_rss_topstories",
+            "summary": "President Donald Trump is expected to give another lifeline to TikTok next week. His administration's efforts to get the Chinese-controlled app to sell off its U.S. operations appear still to be caught up in broader trade negotiations with Beijing.",
+            "date": "Sat, 13 Sep 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "There’s just enough pain in the economy to boost the stock market — and one chart shows why",
-            "link": "https://www.marketwatch.com/story/theres-just-enough-pain-in-the-economy-to-boost-the-stock-market-and-one-chart-shows-why-016187af?mod=mw_rss_topstories",
-            "summary": "“No pain, no gain” is the expression that might be used to frame the direction of the stock market. “No Pain, No Gain” may be the phrase used to describe the direction that the U.S. stock market is headed.",
-            "date": "Fri, 12 Sep 2025 12:16:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MAY-USD",
-            "impact": "Neutral"
+            "stock_ticker": "DJT",
+            "impact": "Bullish"
         }
     ]
 }
