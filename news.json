@@ -1,6 +1,18 @@
 {
-    "date": "2025-09-13",
+    "date": "2025-09-14",
     "news": [
+        {
+            "title": "Democrats dig in on health care as threat of government shutdown looms",
+            "link": "https://www.cnbc.com/2025/09/13/democrats-health-care-government-shutdown-trump-republicans.html",
+            "summary": "Congressional lawmakers have until the end of the month to try to reach a deal to avert a government shutdown. The deadline is October 1.",
+            "date": "Sat, 13 Sep 2025 21:55:36 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DIG",
+            "impact": "Bearish"
+        },
         {
             "title": "OpenAI's spending spree is powering the tech industry. Oracle is the latest winner",
             "link": "https://www.cnbc.com/2025/09/13/openai-spending-spree-powering-much-of-tech-oracle-latest-example.html",
@@ -11,6 +23,30 @@
                 "Stocks"
             ],
             "stock_ticker": "^SPXRETIT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump says he's ready to put 'major sanctions' on Russia if NATO nations do the same",
+            "link": "https://www.cnbc.com/2025/09/13/trump-russia-nato-putin-trade-sanctions-.html",
+            "summary": "President Donald Trump has repeatedly threatened to impose sanctions on Russia over its invasion of Ukraine. But he has so far held off from doing so.",
+            "date": "Sat, 13 Sep 2025 22:59:16 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Top Wall Street analysts bet on the potential of these 3 stocks for the long haul",
+            "link": "https://www.cnbc.com/2025/09/14/top-wall-street-analysts-bet-on-the-potential-of-these-3-stocks-for-the-long-haul.html",
+            "summary": "TipRanks' ranking service discusses three stocks, including Broadcom and Oracle, that are favored by Wall Street. TipRanks: Broadcom, Oracle and Qualcomm are three stocks that Wall Street favors.",
+            "date": "Sun, 14 Sep 2025 12:35:34 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
@@ -26,100 +62,64 @@
             "impact": "Neutral"
         },
         {
-            "title": "$7 trillion 'wall of cash' worry is looming for investors once Fed interest rate cuts start",
-            "link": "https://www.cnbc.com/2025/09/12/7-trillion-cash-money-market-yields-fed-interest-rate-cuts.html",
-            "summary": "Trillions of dollars are parked in money market funds due to years of high rates. With the Fed poised to cut, portfolio moves will need to be made.",
-            "date": "Fri, 12 Sep 2025 19:21:19 GMT",
+            "title": "‘He is increasingly angry’: My troubled son lives with me. How do I ensure he is financially secure after I die?",
+            "link": "https://www.marketwatch.com/story/he-is-increasingly-angry-my-troubled-son-lives-with-me-how-do-i-ensure-he-is-financially-secure-after-i-die-7b05559a?mod=mw_rss_topstories",
+            "summary": "“Our family does have a long history of interventions, including hospitalizations,” she says. “Our families have a history of hospitalizations.”",
+            "date": "Sun, 14 Sep 2025 12:19:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HNDL",
+            "stock_ticker": "HE",
             "impact": "Neutral"
         },
         {
-            "title": "From bananas to toys, these 5 charts show how much costs have risen since Trump's tariffs went into effect",
-            "link": "https://www.cnbc.com/2025/09/13/charts-how-much-costs-have-risen-since-trump-tariffs-went-into-effect.html",
-            "summary": "Inflation has been showing up in categories that rarely see big swings. Since Trump’s tariffs took effect in April, inflation has shown up in several categories.",
-            "date": "Sat, 13 Sep 2025 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WFH",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Chinese EV players take fight to legacy European automakers on their home turf",
-            "link": "https://www.cnbc.com/2025/09/13/chinese-ev-firms-take-fight-to-european-automakers-on-their-home-turf.html",
-            "summary": "Chinese electric carmakers Xpeng and GAC this week signalled aggressive expansion plans in Europe. Chinese electric carmaker Xp Peng and carmaker GAC have announced plans to expand across Europe.",
-            "date": "Sat, 13 Sep 2025 05:49:38 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "O39.SI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Oracle’s not-so-secret weapon that’s helped it quickly take on the cloud giants",
-            "link": "https://www.marketwatch.com/story/oracles-not-so-secret-weapon-thats-helped-it-quickly-take-on-the-cloud-giants-d211133b?mod=mw_rss_topstories",
-            "summary": "Larry Ellison, now Oracle’s CTO, has played a major role in helping the company win AI cloud deals and pivot beyond legacy software.",
-            "date": "Sat, 13 Sep 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EJAP.MU",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Donald Trump Jr.’s new career: Advising companies",
-            "link": "https://www.marketwatch.com/story/donald-trump-jr-s-new-career-advising-companies-31d2b384?mod=mw_rss_topstories",
-            "summary": "The president’s eldest son is being paid for giving his counsel. From mixed martial arts to prediction markets and drones, the president's eldest son gives his advice.",
-            "date": "Sat, 13 Sep 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DCI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My husband sold his IRA without my knowledge prior to our divorce. Is this legal?",
-            "link": "https://www.marketwatch.com/story/my-husband-sold-his-ira-without-my-knowledge-prior-to-our-divorce-is-this-legal-723db435?mod=mw_rss_topstories",
-            "summary": "“Is it legal for one member of a married couple to authorize the sale of an IRA in a joint-managed account?”",
-            "date": "Sat, 13 Sep 2025 12:29:00 GMT",
+            "title": "My boyfriend, 69, moved in. He refuses to pay more than $1,300 in rent and won’t do yard work. What should I do?",
+            "link": "https://www.marketwatch.com/story/my-boyfriend-69-moved-in-he-refuses-to-pay-more-than-1-300-in-rent-and-wont-do-yard-work-what-should-i-do-43adece3?mod=mw_rss_topstories",
+            "summary": "“It’s clear that he seems to think that if I die, that he should inherit the house,” she said. “That is NOT my plan”",
+            "date": "Sun, 14 Sep 2025 11:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "MYR=X",
-            "impact": "Bullish"
-        },
-        {
-            "title": "We’re 37 and want to have a multimillion-dollar compound for our kids. Is that a realistic goal?",
-            "link": "https://www.marketwatch.com/story/were-37-and-want-to-have-a-multimillion-dollar-compound-for-our-kids-is-that-a-realistic-goal-8bd18250?mod=mw_rss_topstories",
-            "summary": "“My government and pension check will be $10,000 a month,” he says. “I’m going to be able to retire at the age of 70.”",
-            "date": "Sat, 13 Sep 2025 12:29:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HOWL",
             "impact": "Neutral"
         },
         {
-            "title": "Trump looks set to delay the TikTok ban again. Why there’s no U.S. buyout deal yet.",
-            "link": "https://www.marketwatch.com/story/trump-looks-set-to-delay-the-tiktok-ban-again-why-theres-no-u-s-buyout-deal-yet-c6eae2c0?mod=mw_rss_topstories",
-            "summary": "President Donald Trump is expected to give another lifeline to TikTok next week. His administration's efforts to get the Chinese-controlled app to sell off its U.S. operations appear still to be caught up in broader trade negotiations with Beijing.",
-            "date": "Sat, 13 Sep 2025 12:00:00 GMT",
+            "title": "A divided Fed is expected to settle on a 25-basis-point cut this week. The key question is, what comes next?",
+            "link": "https://www.marketwatch.com/story/a-divided-fed-is-expected-to-settle-on-a-25-basis-point-cut-this-week-the-key-question-is-what-comes-next-82eb0371?mod=mw_rss_topstories",
+            "summary": "Will future cuts come at every meeting this year, or at a more cautious pace? Will future cuts be made at a faster pace, or a slower pace?",
+            "date": "Sun, 14 Sep 2025 10:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Bullish"
+            "stock_ticker": "A",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m a single parent in my 50s. Should I add my adult children, 23 and 29, to my mortgage loan to help me qualify?",
+            "link": "https://www.marketwatch.com/story/my-income-is-not-enough-im-a-single-parent-in-my-early-50s-should-i-add-my-kids-23-and-29-to-my-mortgage-application-a82f73ba?mod=mw_rss_topstories",
+            "summary": "“I want to purchase a family home so we three don’t have to pay rent,” she says. “I’m looking forward to the day when I can buy a house with my family.”",
+            "date": "Sat, 13 Sep 2025 23:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BMNR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m 67. My wife, 48, is financially illiterate. How do I teach her to manage our money? After all, I won’t be around forever.",
+            "link": "https://www.marketwatch.com/story/im-scared-for-her-my-wife-48-is-financially-illiterate-im-67-what-happens-when-i-die-0e9dbd09?mod=mw_rss_topstories",
+            "summary": "“I have $1.1 million in a traditional IRA and $250,000 in cash,” he says. “We have a 12-year-old daughter.”",
+            "date": "Sat, 13 Sep 2025 22:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BMNR",
+            "impact": "Neutral"
         }
     ]
 }
