@@ -1,35 +1,23 @@
 {
-    "date": "2025-09-14",
+    "date": "2025-09-15",
     "news": [
         {
-            "title": "Democrats dig in on health care as threat of government shutdown looms",
-            "link": "https://www.cnbc.com/2025/09/13/democrats-health-care-government-shutdown-trump-republicans.html",
-            "summary": "Congressional lawmakers have until the end of the month to try to reach a deal to avert a government shutdown. The deadline is October 1.",
-            "date": "Sat, 13 Sep 2025 21:55:36 GMT",
+            "title": "Bessent: TikTok deal 'framework' reached with China, Trump and Xi will finalize it Friday",
+            "link": "https://www.cnbc.com/2025/09/15/trump-tiktok-china.html",
+            "summary": "The U.S. and China have a 'framework' deal for social media platform TikTok in place, Treasury Secretary Scott Bessent says.",
+            "date": "Mon, 15 Sep 2025 13:20:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DIG",
-            "impact": "Bearish"
-        },
-        {
-            "title": "OpenAI's spending spree is powering the tech industry. Oracle is the latest winner",
-            "link": "https://www.cnbc.com/2025/09/13/openai-spending-spree-powering-much-of-tech-oracle-latest-example.html",
-            "summary": "OpenAI's influence across Silicon Valley is growing. Oracle’s stock surge and Broadcom's breakout underscore OpenAI's impact. OpenAI was founded in 2009 and is based in California.",
-            "date": "Sat, 13 Sep 2025 11:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "^SPXRETIT",
+            "stock_ticker": "PEANUT33916-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says he's ready to put 'major sanctions' on Russia if NATO nations do the same",
-            "link": "https://www.cnbc.com/2025/09/13/trump-russia-nato-putin-trade-sanctions-.html",
-            "summary": "President Donald Trump has repeatedly threatened to impose sanctions on Russia over its invasion of Ukraine. But he has so far held off from doing so.",
-            "date": "Sat, 13 Sep 2025 22:59:16 GMT",
+            "title": "Trump advocates that companies stop reporting earnings on a quarterly basis",
+            "link": "https://www.cnbc.com/2025/09/15/trump-advocates-that-companies-stop-reporting-earnings-on-a-quarterly-basis-.html",
+            "summary": "Trump said the idea is \"subject to SEC approval\" and would \"save money, and allow managers to focus on properly running their companies\"",
+            "date": "Mon, 15 Sep 2025 13:06:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,87 +26,99 @@
             "impact": "Neutral"
         },
         {
-            "title": "Top Wall Street analysts bet on the potential of these 3 stocks for the long haul",
-            "link": "https://www.cnbc.com/2025/09/14/top-wall-street-analysts-bet-on-the-potential-of-these-3-stocks-for-the-long-haul.html",
-            "summary": "TipRanks' ranking service discusses three stocks, including Broadcom and Oracle, that are favored by Wall Street. TipRanks: Broadcom, Oracle and Qualcomm are three stocks that Wall Street favors.",
-            "date": "Sun, 14 Sep 2025 12:35:34 GMT",
+            "title": "Tesla shares gain as Elon Musk reveals rare $1 billion stock buy in sign of confidence in EV maker",
+            "link": "https://www.cnbc.com/2025/09/15/tesla-shares-gain-after-elon-musk-discloses-purchase.html",
+            "summary": "It's the CEO's most significant purchase in the open market since 2020. It's also the first time the company has been able to buy a major asset in a decade.",
+            "date": "Mon, 15 Sep 2025 12:38:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "TSLA",
             "impact": "Neutral"
         },
         {
-            "title": "UnitedHealth soars but Berkshire's new stake may still be in the red",
-            "link": "https://www.cnbc.com/2025/09/13/unitedhealth-soars-but-berkshires-new-stake-may-still-be-in-the-red.html",
-            "summary": "Buffett drops four notches on Forbes 400 ranking. Berkshire's new UnitedHealth stake, Kraft Heinz falls as overhang looms, Buffett says. Buffett: \"I don't think it's a good time to buy a company\"",
-            "date": "Sat, 13 Sep 2025 12:16:42 GMT",
+            "title": "China says Nvidia violated anti-monopoly law after preliminary probe",
+            "link": "https://www.cnbc.com/2025/09/15/china-nvidia-violated-anti-monopoly-law-will-continue-investigation.html",
+            "summary": "China's market regulator on Monday said that Nvidia violated the country's anti-monopoly law in relation to its aquisition of Mellanox in 2020.",
+            "date": "Mon, 15 Sep 2025 09:18:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UNH",
+            "stock_ticker": "CHH=F",
             "impact": "Neutral"
         },
         {
-            "title": "‘He is increasingly angry’: My troubled son lives with me. How do I ensure he is financially secure after I die?",
-            "link": "https://www.marketwatch.com/story/he-is-increasingly-angry-my-troubled-son-lives-with-me-how-do-i-ensure-he-is-financially-secure-after-i-die-7b05559a?mod=mw_rss_topstories",
-            "summary": "“Our family does have a long history of interventions, including hospitalizations,” she says. “Our families have a history of hospitalizations.”",
-            "date": "Sun, 14 Sep 2025 12:19:00 GMT",
+            "title": "U.S. and Britain to sign flurry of major nuclear power deals during Trump’s state visit",
+            "link": "https://www.cnbc.com/2025/09/15/trump-visit-us-and-britain-to-sign-major-new-nuclear-power-pact.html",
+            "summary": "U.K. Prime Minister Keir Starmer said the proposed nuclear power pact would put the U.S. and U.k. “at the forefront of global innovation”",
+            "date": "Mon, 15 Sep 2025 10:39:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HE",
+            "stock_ticker": "BUS=F",
             "impact": "Neutral"
         },
         {
-            "title": "My boyfriend, 69, moved in. He refuses to pay more than $1,300 in rent and won’t do yard work. What should I do?",
-            "link": "https://www.marketwatch.com/story/my-boyfriend-69-moved-in-he-refuses-to-pay-more-than-1-300-in-rent-and-wont-do-yard-work-what-should-i-do-43adece3?mod=mw_rss_topstories",
-            "summary": "“It’s clear that he seems to think that if I die, that he should inherit the house,” she said. “That is NOT my plan”",
-            "date": "Sun, 14 Sep 2025 11:17:00 GMT",
+            "title": "Tesla’s stock climbs after Musk sends this $1 billion vote of confidence",
+            "link": "https://www.marketwatch.com/story/teslas-stock-climbs-after-musk-sends-this-1-billion-vote-of-confidence-1fad69de?mod=mw_rss_topstories",
+            "summary": "Musk is making his first open-market purchase of shares since 2020. Tesla’s stock has underperformed this year, but Musk is putting more of his money where his mouth is.",
+            "date": "Mon, 15 Sep 2025 12:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "SPRB",
             "impact": "Neutral"
         },
         {
-            "title": "A divided Fed is expected to settle on a 25-basis-point cut this week. The key question is, what comes next?",
-            "link": "https://www.marketwatch.com/story/a-divided-fed-is-expected-to-settle-on-a-25-basis-point-cut-this-week-the-key-question-is-what-comes-next-82eb0371?mod=mw_rss_topstories",
-            "summary": "Will future cuts come at every meeting this year, or at a more cautious pace? Will future cuts be made at a faster pace, or a slower pace?",
-            "date": "Sun, 14 Sep 2025 10:00:00 GMT",
+            "title": "Your financial plan looks like a winner. Do you really need a second opinion?",
+            "link": "https://www.marketwatch.com/story/your-financial-plan-looks-like-a-winner-do-you-really-need-a-second-opinion-c6d8ea8a?mod=mw_rss_topstories",
+            "summary": "An independent review can uncover gaps and help you build a more solid financial foundation. An independent review could uncover gaps in your financial plan. A review can also help you find ways to improve your current financial situation.",
+            "date": "Mon, 15 Sep 2025 12:35:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
+            "stock_ticker": "301266.SZ",
             "impact": "Neutral"
         },
         {
-            "title": "I’m a single parent in my 50s. Should I add my adult children, 23 and 29, to my mortgage loan to help me qualify?",
-            "link": "https://www.marketwatch.com/story/my-income-is-not-enough-im-a-single-parent-in-my-early-50s-should-i-add-my-kids-23-and-29-to-my-mortgage-application-a82f73ba?mod=mw_rss_topstories",
-            "summary": "“I want to purchase a family home so we three don’t have to pay rent,” she says. “I’m looking forward to the day when I can buy a house with my family.”",
-            "date": "Sat, 13 Sep 2025 23:00:00 GMT",
+            "title": "The dot-com era’s highest-profile analyst says there will be a big AI bust",
+            "link": "https://www.marketwatch.com/story/the-dot-com-eras-most-celebrated-analyst-says-there-will-be-a-big-ai-bust-he-just-doesnt-know-when-512e952e?mod=mw_rss_topstories",
+            "summary": "Star dot-com analyst Henry Blodget has doubts about how high AI-fueled companies can fly. He says it's too soon to tell if companies will be able to compete on a global scale.",
+            "date": "Mon, 15 Sep 2025 12:32:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "I’m 67. My wife, 48, is financially illiterate. How do I teach her to manage our money? After all, I won’t be around forever.",
-            "link": "https://www.marketwatch.com/story/im-scared-for-her-my-wife-48-is-financially-illiterate-im-67-what-happens-when-i-die-0e9dbd09?mod=mw_rss_topstories",
-            "summary": "“I have $1.1 million in a traditional IRA and $250,000 in cash,” he says. “We have a 12-year-old daughter.”",
-            "date": "Sat, 13 Sep 2025 22:30:00 GMT",
+            "title": "China finds Nvidia broke antitrust law and extends probe. Its stock is dropping.",
+            "link": "https://www.marketwatch.com/story/china-finds-nvidia-broke-antitrust-law-and-extends-probe-shares-are-dropping-c612a57f?mod=mw_rss_topstories",
+            "summary": "The investigation centers around Nvidia’s acquisition of Mellanox Technology Co. Co. Nvidia is a leading supplier of graphics chips to the PC industry.",
+            "date": "Mon, 15 Sep 2025 12:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "CHH=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Google’s AI summaries are stealing traffic, publisher of Rolling Stone, Variety says in lawsuit",
+            "link": "https://www.marketwatch.com/story/googles-ai-summaries-are-stealing-traffic-publisher-of-rolling-stone-variety-says-in-lawsuit-0826ddcf?mod=mw_rss_topstories",
+            "summary": "Penske Media says Google’s search engine is cannibalizing its businesses. Penske Media filed a lawsuit against Google late Friday.",
+            "date": "Mon, 15 Sep 2025 12:24:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AI",
             "impact": "Neutral"
         }
     ]
