@@ -1,95 +1,83 @@
 {
-    "date": "2025-09-15",
+    "date": "2025-09-16",
     "news": [
         {
-            "title": "Bessent: TikTok deal 'framework' reached with China, Trump and Xi will finalize it Friday",
-            "link": "https://www.cnbc.com/2025/09/15/trump-tiktok-china.html",
-            "summary": "The U.S. and China have a 'framework' deal for social media platform TikTok in place, Treasury Secretary Scott Bessent says.",
-            "date": "Mon, 15 Sep 2025 13:20:53 GMT",
+            "title": "Bessent sees trade deal likely with China before November deadline on reciprocal tariffs",
+            "link": "https://www.cnbc.com/2025/09/16/bessent-sees-trade-deal-likely-with-china-before-november-deadline-on-reciprocal-tariffs.html",
+            "summary": "Treasury Secretary Scott Bessent appeared Tuesday on CNBC's \"Squawk Box\" program. He said the U.S. is working to improve the economy and create jobs.",
+            "date": "Tue, 16 Sep 2025 12:41:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PEANUT33916-USD",
+            "stock_ticker": "AT0000A2QMR1.VI",
             "impact": "Neutral"
         },
         {
-            "title": "Trump advocates that companies stop reporting earnings on a quarterly basis",
-            "link": "https://www.cnbc.com/2025/09/15/trump-advocates-that-companies-stop-reporting-earnings-on-a-quarterly-basis-.html",
-            "summary": "Trump said the idea is \"subject to SEC approval\" and would \"save money, and allow managers to focus on properly running their companies\"",
-            "date": "Mon, 15 Sep 2025 13:06:51 GMT",
+            "title": "Trump's Fed pressure campaign will lead to higher inflation, weaker growth, according to CNBC survey",
+            "link": "https://www.cnbc.com/2025/09/16/trumps-fed-pressure-campaign-will-lead-to-higher-inflation-weaker-growth-according-to-cnbc-survey.html",
+            "summary": "41% of respondents surveyed believe that the president's actions are directly aimed at eliminating the Fed's independence. 41% say they are designed to limit them.",
+            "date": "Tue, 16 Sep 2025 13:04:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "ZQ=F",
             "impact": "Neutral"
         },
         {
-            "title": "Tesla shares gain as Elon Musk reveals rare $1 billion stock buy in sign of confidence in EV maker",
-            "link": "https://www.cnbc.com/2025/09/15/tesla-shares-gain-after-elon-musk-discloses-purchase.html",
-            "summary": "It's the CEO's most significant purchase in the open market since 2020. It's also the first time the company has been able to buy a major asset in a decade.",
-            "date": "Mon, 15 Sep 2025 12:38:05 GMT",
+            "title": "Meta Connect 2025: AI-powered smart glasses take center stage",
+            "link": "https://www.cnbc.com/2025/09/16/meta-connect-hypernova-ai.html",
+            "summary": " Meta will unveil its smart glasses at its Connect event. Analysts and investors will be watching how the public responds to Meta's big bet on smart glasses.",
+            "date": "Tue, 16 Sep 2025 11:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSLA",
+            "stock_ticker": "META",
             "impact": "Neutral"
         },
         {
-            "title": "China says Nvidia violated anti-monopoly law after preliminary probe",
-            "link": "https://www.cnbc.com/2025/09/15/china-nvidia-violated-anti-monopoly-law-will-continue-investigation.html",
-            "summary": "China's market regulator on Monday said that Nvidia violated the country's anti-monopoly law in relation to its aquisition of Mellanox in 2020.",
-            "date": "Mon, 15 Sep 2025 09:18:14 GMT",
+            "title": "Trump's willingness to let TikTok go dark motivated China to make deal, Bessent says",
+            "link": "https://www.cnbc.com/2025/09/16/trump-tiktok-china-deal-bessent.html",
+            "summary": "President Donald Trump and Chinese President Xi Jinping are expected to speak Friday to finalize the TikTok deal. Trump and Xi will discuss the future of U.S.-China relations.",
+            "date": "Tue, 16 Sep 2025 12:19:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHH=F",
+            "stock_ticker": "TOPBRX=X",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. and Britain to sign flurry of major nuclear power deals during Trump’s state visit",
-            "link": "https://www.cnbc.com/2025/09/15/trump-visit-us-and-britain-to-sign-major-new-nuclear-power-pact.html",
-            "summary": "U.K. Prime Minister Keir Starmer said the proposed nuclear power pact would put the U.S. and U.k. “at the forefront of global innovation”",
-            "date": "Mon, 15 Sep 2025 10:39:46 GMT",
+            "title": "OpenAI hires former xAI CFO as Altman-Musk rivalry escalates",
+            "link": "https://www.cnbc.com/2025/09/15/openai-hires-former-xai-cfo-as-altman-musk-rivalry-escalates.html",
+            "summary": "OpenAI has hired former xAI finance chief Mike Liberatore as business finance offer. He will be responsible for managing the company's soaring compute spending.",
+            "date": "Tue, 16 Sep 2025 13:21:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BUS=F",
+            "stock_ticker": "OPENAI-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Tesla’s stock climbs after Musk sends this $1 billion vote of confidence",
-            "link": "https://www.marketwatch.com/story/teslas-stock-climbs-after-musk-sends-this-1-billion-vote-of-confidence-1fad69de?mod=mw_rss_topstories",
-            "summary": "Musk is making his first open-market purchase of shares since 2020. Tesla’s stock has underperformed this year, but Musk is putting more of his money where his mouth is.",
-            "date": "Mon, 15 Sep 2025 12:37:00 GMT",
+            "title": "Even a Tesla Model Y safety probe can’t stop the stock’s rally",
+            "link": "https://www.marketwatch.com/story/even-a-tesla-model-y-safety-probe-cant-stop-the-stocks-rally-eba04a6a?mod=mw_rss_topstories",
+            "summary": "Tesla’s stock is on track for its sixth day of gains. Despite a probe into inoperable doors on 174,290 Model Ys.",
+            "date": "Tue, 16 Sep 2025 13:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPRB",
+            "stock_ticker": "EB",
             "impact": "Neutral"
         },
         {
-            "title": "Your financial plan looks like a winner. Do you really need a second opinion?",
-            "link": "https://www.marketwatch.com/story/your-financial-plan-looks-like-a-winner-do-you-really-need-a-second-opinion-c6d8ea8a?mod=mw_rss_topstories",
-            "summary": "An independent review can uncover gaps and help you build a more solid financial foundation. An independent review could uncover gaps in your financial plan. A review can also help you find ways to improve your current financial situation.",
-            "date": "Mon, 15 Sep 2025 12:35:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "301266.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The dot-com era’s highest-profile analyst says there will be a big AI bust",
-            "link": "https://www.marketwatch.com/story/the-dot-com-eras-most-celebrated-analyst-says-there-will-be-a-big-ai-bust-he-just-doesnt-know-when-512e952e?mod=mw_rss_topstories",
-            "summary": "Star dot-com analyst Henry Blodget has doubts about how high AI-fueled companies can fly. He says it's too soon to tell if companies will be able to compete on a global scale.",
-            "date": "Mon, 15 Sep 2025 12:32:00 GMT",
+            "title": "The hurdles are low for another 10% gain for the S&P 500, says this Wall Street veteran",
+            "link": "https://www.marketwatch.com/story/the-hurdles-are-low-for-another-10-gain-for-the-s-p-500-says-this-wall-street-veteran-cfb2cbff?mod=mw_rss_topstories",
+            "summary": "The economy and earnings will keep stocks afloat, says Jonathan Golub, chief equity strategist at Seaport Research Partners. Golub: Count on earnings and the economy to keep stock prices afloat.",
+            "date": "Tue, 16 Sep 2025 13:07:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "China finds Nvidia broke antitrust law and extends probe. Its stock is dropping.",
-            "link": "https://www.marketwatch.com/story/china-finds-nvidia-broke-antitrust-law-and-extends-probe-shares-are-dropping-c612a57f?mod=mw_rss_topstories",
-            "summary": "The investigation centers around Nvidia’s acquisition of Mellanox Technology Co. Co. Nvidia is a leading supplier of graphics chips to the PC industry.",
-            "date": "Mon, 15 Sep 2025 12:28:00 GMT",
+            "title": "Retail sales are strong for the third month in a row. Economy still seems to be in pretty good shape.",
+            "link": "https://www.marketwatch.com/story/retail-sales-are-strong-for-the-third-month-in-a-row-in-a-good-sign-for-the-economy-1884b947?mod=mw_rss_topstories",
+            "summary": "Retail sales rose at a brisk pace in August for the third month in a row. U.S. households continue to spend at healthy levels despite worries about lingering inflation.",
+            "date": "Tue, 16 Sep 2025 12:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHH=F",
+            "stock_ticker": "SXR=F",
             "impact": "Neutral"
         },
         {
-            "title": "Google’s AI summaries are stealing traffic, publisher of Rolling Stone, Variety says in lawsuit",
-            "link": "https://www.marketwatch.com/story/googles-ai-summaries-are-stealing-traffic-publisher-of-rolling-stone-variety-says-in-lawsuit-0826ddcf?mod=mw_rss_topstories",
-            "summary": "Penske Media says Google’s search engine is cannibalizing its businesses. Penske Media filed a lawsuit against Google late Friday.",
-            "date": "Mon, 15 Sep 2025 12:24:00 GMT",
+            "title": "Markets are pricing in three rate cuts by year-end. Why the Fed might agree.",
+            "link": "https://www.marketwatch.com/story/markets-are-pricing-in-three-rate-cuts-by-year-end-why-the-fed-might-agree-c99eb139?mod=mw_rss_topstories",
+            "summary": "A rate cut at the September Fed meeting looks like a done deal. Be careful with stocks and watch the dollar. A rate cut is likely to happen at the Fed meeting.",
+            "date": "Tue, 16 Sep 2025 12:35:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "MME=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump revives call to ditch quarterly earnings — and this time, the SEC may listen",
+            "link": "https://www.marketwatch.com/story/trump-revives-call-to-ditch-quarterly-earnings-reports-what-comes-next-d51225ca?mod=mw_rss_topstories",
+            "summary": "Trump wants to allow U.S. businesses to do the same. European companies already report twice yearly. Trump wants to make it easier for businesses to be transparent.",
+            "date": "Tue, 16 Sep 2025 12:25:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         }
     ]
