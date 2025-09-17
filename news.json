@@ -1,23 +1,47 @@
 {
-    "date": "2025-09-16",
+    "date": "2025-09-17",
     "news": [
         {
-            "title": "Bessent sees trade deal likely with China before November deadline on reciprocal tariffs",
-            "link": "https://www.cnbc.com/2025/09/16/bessent-sees-trade-deal-likely-with-china-before-november-deadline-on-reciprocal-tariffs.html",
-            "summary": "Treasury Secretary Scott Bessent appeared Tuesday on CNBC's \"Squawk Box\" program. He said the U.S. is working to improve the economy and create jobs.",
-            "date": "Tue, 16 Sep 2025 12:41:54 GMT",
+            "title": "Speaker Johnson says China is straining U.S. relations with Nvidia chip ban",
+            "link": "https://www.cnbc.com/2025/09/17/china-us-nvidia-chip-ban.html",
+            "summary": "Nvidia's RTX Pro 6000D is made for the country. China has ordered companies to halt purchases of the chip. Nvidia says it is working with the Cyberspace Administration of China.",
+            "date": "Wed, 17 Sep 2025 13:06:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AT0000A2QMR1.VI",
+            "stock_ticker": "37B.F",
             "impact": "Neutral"
         },
         {
-            "title": "Trump's Fed pressure campaign will lead to higher inflation, weaker growth, according to CNBC survey",
-            "link": "https://www.cnbc.com/2025/09/16/trumps-fed-pressure-campaign-will-lead-to-higher-inflation-weaker-growth-according-to-cnbc-survey.html",
-            "summary": "41% of respondents surveyed believe that the president's actions are directly aimed at eliminating the Fed's independence. 41% say they are designed to limit them.",
-            "date": "Tue, 16 Sep 2025 13:04:38 GMT",
+            "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
+            "link": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
+            "summary": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
+            "date": "Wed, 17 Sep 2025 12:41:36 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FNMA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Eli Lilly’s obesity pill outperforms Novo Nordisk’s oral drug in head-to-head diabetes trial",
+            "link": "https://www.cnbc.com/2025/09/17/eli-lilly-obesity-pill-beats-novo-nordisk-drug-in-diabetes-trial-.html",
+            "summary": " orforglipron was better at lowering blood sugar levels than Novo Nordisk's oral semaglutide, Eli Lilly said. The drug also helped patients lose more weight.",
+            "date": "Wed, 17 Sep 2025 13:00:20 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LLY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Fed set to cut rates, but forecast for rest of 2025 is key to markets with politics clouding the picture",
+            "link": "https://www.cnbc.com/2025/09/16/fed-interest-rate-decision-preview.html",
+            "summary": "The rate decision is fairly pretty much in the bag, but what happens from there is anybody's guess. The rate decision was made by the U.S. Bankruptcy Court in New York.",
+            "date": "Tue, 16 Sep 2025 20:43:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,58 +50,22 @@
             "impact": "Neutral"
         },
         {
-            "title": "Meta Connect 2025: AI-powered smart glasses take center stage",
-            "link": "https://www.cnbc.com/2025/09/16/meta-connect-hypernova-ai.html",
-            "summary": " Meta will unveil its smart glasses at its Connect event. Analysts and investors will be watching how the public responds to Meta's big bet on smart glasses.",
-            "date": "Tue, 16 Sep 2025 11:00:01 GMT",
+            "title": "Lyft stock soars 20% on Waymo Nashville robotaxi deal",
+            "link": "https://www.cnbc.com/2025/09/17/waymo-and-lyft-parto-bring-robotaxi-service-to-nashville.html",
+            "summary": "Waymo has teamed up with Uber to launch robotaxis in several U.S. markets. Waymo is now joining forces with Lyft to launch in Nashville.",
+            "date": "Wed, 17 Sep 2025 13:14:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "META",
-            "impact": "Neutral"
+            "stock_ticker": "LYFT",
+            "impact": "Bullish"
         },
         {
-            "title": "Trump's willingness to let TikTok go dark motivated China to make deal, Bessent says",
-            "link": "https://www.cnbc.com/2025/09/16/trump-tiktok-china-deal-bessent.html",
-            "summary": "President Donald Trump and Chinese President Xi Jinping are expected to speak Friday to finalize the TikTok deal. Trump and Xi will discuss the future of U.S.-China relations.",
-            "date": "Tue, 16 Sep 2025 12:19:31 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TOPBRX=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "OpenAI hires former xAI CFO as Altman-Musk rivalry escalates",
-            "link": "https://www.cnbc.com/2025/09/15/openai-hires-former-xai-cfo-as-altman-musk-rivalry-escalates.html",
-            "summary": "OpenAI has hired former xAI finance chief Mike Liberatore as business finance offer. He will be responsible for managing the company's soaring compute spending.",
-            "date": "Tue, 16 Sep 2025 13:21:34 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OPENAI-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Even a Tesla Model Y safety probe can’t stop the stock’s rally",
-            "link": "https://www.marketwatch.com/story/even-a-tesla-model-y-safety-probe-cant-stop-the-stocks-rally-eba04a6a?mod=mw_rss_topstories",
-            "summary": "Tesla’s stock is on track for its sixth day of gains. Despite a probe into inoperable doors on 174,290 Model Ys.",
-            "date": "Tue, 16 Sep 2025 13:13:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EB",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The hurdles are low for another 10% gain for the S&P 500, says this Wall Street veteran",
-            "link": "https://www.marketwatch.com/story/the-hurdles-are-low-for-another-10-gain-for-the-s-p-500-says-this-wall-street-veteran-cfb2cbff?mod=mw_rss_topstories",
-            "summary": "The economy and earnings will keep stocks afloat, says Jonathan Golub, chief equity strategist at Seaport Research Partners. Golub: Count on earnings and the economy to keep stock prices afloat.",
-            "date": "Tue, 16 Sep 2025 13:07:00 GMT",
+            "title": "The Fed’s cutting while the economy’s growing: Buy more stocks, hold less cash, this bank says",
+            "link": "https://www.marketwatch.com/story/the-feds-cutting-while-the-economys-growing-buy-more-stocks-hold-less-cash-this-bank-says-f6f5ef69?mod=mw_rss_topstories",
+            "summary": "The good times are set to continue for stocks, says a bank advising investors to broaden out exposure. The good times will continue, according to the bank. The bank says investors should broaden out their exposure.",
+            "date": "Wed, 17 Sep 2025 13:21:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,22 +74,10 @@
             "impact": "Neutral"
         },
         {
-            "title": "Retail sales are strong for the third month in a row. Economy still seems to be in pretty good shape.",
-            "link": "https://www.marketwatch.com/story/retail-sales-are-strong-for-the-third-month-in-a-row-in-a-good-sign-for-the-economy-1884b947?mod=mw_rss_topstories",
-            "summary": "Retail sales rose at a brisk pace in August for the third month in a row. U.S. households continue to spend at healthy levels despite worries about lingering inflation.",
-            "date": "Tue, 16 Sep 2025 12:40:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SXR=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Markets are pricing in three rate cuts by year-end. Why the Fed might agree.",
+            "title": "Markets are pricing in three rate cuts by year-end. Here’s where to put your money.",
             "link": "https://www.marketwatch.com/story/markets-are-pricing-in-three-rate-cuts-by-year-end-why-the-fed-might-agree-c99eb139?mod=mw_rss_topstories",
             "summary": "A rate cut at the September Fed meeting looks like a done deal. Be careful with stocks and watch the dollar. A rate cut is likely to happen at the Fed meeting.",
-            "date": "Tue, 16 Sep 2025 12:35:00 GMT",
+            "date": "Wed, 17 Sep 2025 13:18:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump revives call to ditch quarterly earnings — and this time, the SEC may listen",
-            "link": "https://www.marketwatch.com/story/trump-revives-call-to-ditch-quarterly-earnings-reports-what-comes-next-d51225ca?mod=mw_rss_topstories",
-            "summary": "Trump wants to allow U.S. businesses to do the same. European companies already report twice yearly. Trump wants to make it easier for businesses to be transparent.",
-            "date": "Tue, 16 Sep 2025 12:25:00 GMT",
+            "title": "A Ben & Jerry’s co-founder is quitting. He says Unilever and Magnum have muzzled the iconoclastic ice-cream company’s voice.",
+            "link": "https://www.marketwatch.com/story/a-ben-jerrys-co-founder-is-quitting-he-says-unilever-and-magnum-have-muzzled-the-iconoclastic-ice-cream-companys-voice-62060634?mod=mw_rss_topstories",
+            "summary": "Jerry Greenfield says he's quitting the ice-cream company he co-founded with Ben Cohen. Greenfield said he’s quitting the Ice Cream Co. with Cohen.",
+            "date": "Wed, 17 Sep 2025 13:02:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "A",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia shares slip to one-week low. A report says China has banned its chips.",
+            "link": "https://www.marketwatch.com/story/nvidia-shares-slip-to-one-week-low-a-report-says-china-has-banned-its-chips-e45c70cc?mod=mw_rss_topstories",
+            "summary": "Chinese regulator moves to ban Nvidia chip. Move comes as Alibaba forges ahead with its own AI offering. Alibaba is one of China's biggest tech companies.",
+            "date": "Wed, 17 Sep 2025 12:28:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVDA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I am highly alarmed by the proposed changes to retirement accounts’: I don’t want bitcoin or private equity in my 401(k). What can I do?",
+            "link": "https://www.marketwatch.com/story/i-am-highly-alarmed-by-the-proposed-changes-to-retirement-accounts-i-dont-want-bitcoin-or-private-equity-in-my-401-k-what-can-i-do-56384ead?mod=mw_rss_topstories",
+            "summary": "“What are the options for safeguarding my autonomy over my funds?” she asks. “What is my right to my money?’”",
+            "date": "Wed, 17 Sep 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPRB",
             "impact": "Neutral"
         }
     ]
