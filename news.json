@@ -1,47 +1,47 @@
 {
-    "date": "2025-09-17",
+    "date": "2025-09-18",
     "news": [
         {
-            "title": "Speaker Johnson says China is straining U.S. relations with Nvidia chip ban",
-            "link": "https://www.cnbc.com/2025/09/17/china-us-nvidia-chip-ban.html",
-            "summary": "Nvidia's RTX Pro 6000D is made for the country. China has ordered companies to halt purchases of the chip. Nvidia says it is working with the Cyberspace Administration of China.",
-            "date": "Wed, 17 Sep 2025 13:06:14 GMT",
+            "title": "Intel surges 30% as Nvidia to invest $5 billion in chipmaker, co-develop data center and PC chips",
+            "link": "https://www.cnbc.com/2025/09/18/intel-nvidia-investment.html",
+            "summary": "N Nvidia will invest $5 billion in Intel as part of a deal to co-develop data center and PC products with the troubled chipmaker.",
+            "date": "Thu, 18 Sep 2025 12:56:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "37B.F",
+            "stock_ticker": "INTC",
             "impact": "Neutral"
         },
         {
-            "title": "Mortgage refinance demand spikes nearly 60%, as interest rates drop sharply",
-            "link": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
-            "summary": "Mortgage refinance demand surged higher after interest rates dropped to the lowest level since last October. Adjustable-rate loans were also in high demand.",
-            "date": "Wed, 17 Sep 2025 12:41:36 GMT",
+            "title": "David Tepper says Fed could cut a few more times, but easing too much risks entering 'danger territory'",
+            "link": "https://www.cnbc.com/2025/09/18/david-tepper-says-fed-could-cut-a-few-more-times-but-easing-too-much-risks-entering-danger-territory.html",
+            "summary": "His comments come after the central bank lowered interest rates by a quarter point Wednesday. The bank signaled two more reductions are coming this year. The central bank is expected to raise interest rates again in December.",
+            "date": "Thu, 18 Sep 2025 13:20:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FNMA",
+            "stock_ticker": "HOG",
             "impact": "Neutral"
         },
         {
-            "title": "Eli Lilly’s obesity pill outperforms Novo Nordisk’s oral drug in head-to-head diabetes trial",
-            "link": "https://www.cnbc.com/2025/09/17/eli-lilly-obesity-pill-beats-novo-nordisk-drug-in-diabetes-trial-.html",
-            "summary": " orforglipron was better at lowering blood sugar levels than Novo Nordisk's oral semaglutide, Eli Lilly said. The drug also helped patients lose more weight.",
-            "date": "Wed, 17 Sep 2025 13:00:20 GMT",
+            "title": "American Express unveils refreshed Platinum card with $895 annual fee, upping the ante in luxury cards",
+            "link": "https://www.cnbc.com/2025/09/18/american-express-platinum-card-refresh-895-fee-3500-perks.html",
+            "summary": "American Express' move highlights an arms race of sorts when it comes to catering to wealthy consumers. JPMorgan and Citi released updated or new cards recently.",
+            "date": "Thu, 18 Sep 2025 13:08:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LLY",
-            "impact": "Neutral"
+            "stock_ticker": "AAL",
+            "impact": "Bullish"
         },
         {
-            "title": "Fed set to cut rates, but forecast for rest of 2025 is key to markets with politics clouding the picture",
-            "link": "https://www.cnbc.com/2025/09/16/fed-interest-rate-decision-preview.html",
-            "summary": "The rate decision is fairly pretty much in the bag, but what happens from there is anybody's guess. The rate decision was made by the U.S. Bankruptcy Court in New York.",
-            "date": "Tue, 16 Sep 2025 20:43:36 GMT",
+            "title": "Hassett says Fed made 'prudent call,' signaling White House OK with quarter-point cut",
+            "link": "https://www.cnbc.com/2025/09/18/hassett-says-fed-made-prudent-call-signaling-white-house-ok-with-quarter-point-cut.html",
+            "summary": "Hassett says the administration and new Fed Governor Stephen Miran had been pushing for a bigger reduction. Hassett: \"I think we're going to see a reduction in the deficit\"",
+            "date": "Thu, 18 Sep 2025 12:35:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,22 +50,46 @@
             "impact": "Neutral"
         },
         {
-            "title": "Lyft stock soars 20% on Waymo Nashville robotaxi deal",
-            "link": "https://www.cnbc.com/2025/09/17/waymo-and-lyft-parto-bring-robotaxi-service-to-nashville.html",
-            "summary": "Waymo has teamed up with Uber to launch robotaxis in several U.S. markets. Waymo is now joining forces with Lyft to launch in Nashville.",
-            "date": "Wed, 17 Sep 2025 13:14:26 GMT",
+            "title": "Here are five key takeaways from the Fed's big interest rate decision",
+            "link": "https://www.cnbc.com/2025/09/17/here-are-five-key-takeaways-from-the-feds-big-interest-rate-decision.html",
+            "summary": "The Federal Reserve delivered on a widely anticipated quarter percentage point interest rate cut. The Federal Reserve on Wednesday delivered on an anticipated quarter Percentage Point interest rate reduction.",
+            "date": "Wed, 17 Sep 2025 21:24:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LYFT",
-            "impact": "Bullish"
+            "stock_ticker": "300550.SZ",
+            "impact": "Neutral"
         },
         {
-            "title": "The Fed’s cutting while the economy’s growing: Buy more stocks, hold less cash, this bank says",
-            "link": "https://www.marketwatch.com/story/the-feds-cutting-while-the-economys-growing-buy-more-stocks-hold-less-cash-this-bank-says-f6f5ef69?mod=mw_rss_topstories",
-            "summary": "The good times are set to continue for stocks, says a bank advising investors to broaden out exposure. The good times will continue, according to the bank. The bank says investors should broaden out their exposure.",
-            "date": "Wed, 17 Sep 2025 13:21:00 GMT",
+            "title": "I’m a single parent in my 50s. Should I add my adult children, 23 and 29, to my mortgage loan to help me qualify?",
+            "link": "https://www.marketwatch.com/story/my-income-is-not-enough-im-a-single-parent-in-my-early-50s-should-i-add-my-kids-23-and-29-to-my-mortgage-application-a82f73ba?mod=mw_rss_topstories",
+            "summary": "“I want to purchase a family home so we three don’t have to pay rent,” she says. “I’m looking forward to the day when I can buy a house with my family.”",
+            "date": "Thu, 18 Sep 2025 13:16:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BMNR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "ABC pulls Jimmy Kimmel following government pushback over Charlie Kirk comments",
+            "link": "https://www.marketwatch.com/story/jimmy-kimmel-dropped-by-abc-amid-affiliate-revolt-following-charlie-kirk-comments-dd41101f?mod=mw_rss_topstories",
+            "summary": "Kimmel's remarks about the shooting of conservative activist Charlie Kirk drew a rebuke from the Trump administration. ABC said Wednesday that it was pulling late-night host Jimmy Kimmel's show indefinitely.",
+            "date": "Thu, 18 Sep 2025 13:16:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ABCL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s the case for equities to ‘explode higher’ in October. Buy any dips along the way, says JPMorgan.",
+            "link": "https://www.marketwatch.com/story/heres-the-case-for-equities-to-explode-higher-in-october-buy-any-dips-along-the-way-says-jpmorgan-3a3efd70?mod=mw_rss_topstories",
+            "summary": "JPMorgan is telling clients to be ready to buy dips, and prepare for a possible explosive move higher for stocks in weeks to come.",
+            "date": "Thu, 18 Sep 2025 13:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +98,27 @@
             "impact": "Neutral"
         },
         {
-            "title": "Markets are pricing in three rate cuts by year-end. Here’s where to put your money.",
-            "link": "https://www.marketwatch.com/story/markets-are-pricing-in-three-rate-cuts-by-year-end-why-the-fed-might-agree-c99eb139?mod=mw_rss_topstories",
-            "summary": "A rate cut at the September Fed meeting looks like a done deal. Be careful with stocks and watch the dollar. A rate cut is likely to happen at the Fed meeting.",
-            "date": "Wed, 17 Sep 2025 13:18:00 GMT",
+            "title": "Fed likely to cut rates again in October, and 3 other things we learned from Powell’s press conference",
+            "link": "https://www.marketwatch.com/story/fed-likely-to-cut-rates-again-in-october-and-3-other-things-we-learned-from-powells-press-conference-a03fb5ae?mod=mw_rss_topstories",
+            "summary": "Takeaways from conversations and research notes from experienced Fed watchers. Here are the main takeaways culled from conversations, research notes and conversations.",
+            "date": "Thu, 18 Sep 2025 12:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MME=F",
+            "stock_ticker": "ZQ=F",
             "impact": "Neutral"
         },
         {
-            "title": "A Ben & Jerry’s co-founder is quitting. He says Unilever and Magnum have muzzled the iconoclastic ice-cream company’s voice.",
-            "link": "https://www.marketwatch.com/story/a-ben-jerrys-co-founder-is-quitting-he-says-unilever-and-magnum-have-muzzled-the-iconoclastic-ice-cream-companys-voice-62060634?mod=mw_rss_topstories",
-            "summary": "Jerry Greenfield says he's quitting the ice-cream company he co-founded with Ben Cohen. Greenfield said he’s quitting the Ice Cream Co. with Cohen.",
-            "date": "Wed, 17 Sep 2025 13:02:00 GMT",
+            "title": "False alarm: Surge in jobless claims unwinds after recent spike. Layoffs still low.",
+            "link": "https://www.marketwatch.com/story/false-alarm-surge-in-jobless-claims-unwinds-after-recent-spike-layoffs-still-low-05c8270d?mod=mw_rss_topstories",
+            "summary": "The surge in jobless claims in early September to a four-year high turns out to be a false alarm, at least for now.",
+            "date": "Thu, 18 Sep 2025 12:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Nvidia shares slip to one-week low. A report says China has banned its chips.",
-            "link": "https://www.marketwatch.com/story/nvidia-shares-slip-to-one-week-low-a-report-says-china-has-banned-its-chips-e45c70cc?mod=mw_rss_topstories",
-            "summary": "Chinese regulator moves to ban Nvidia chip. Move comes as Alibaba forges ahead with its own AI offering. Alibaba is one of China's biggest tech companies.",
-            "date": "Wed, 17 Sep 2025 12:28:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NVDA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I am highly alarmed by the proposed changes to retirement accounts’: I don’t want bitcoin or private equity in my 401(k). What can I do?",
-            "link": "https://www.marketwatch.com/story/i-am-highly-alarmed-by-the-proposed-changes-to-retirement-accounts-i-dont-want-bitcoin-or-private-equity-in-my-401-k-what-can-i-do-56384ead?mod=mw_rss_topstories",
-            "summary": "“What are the options for safeguarding my autonomy over my funds?” she asks. “What is my right to my money?’”",
-            "date": "Wed, 17 Sep 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPRB",
+            "stock_ticker": "002960.SZ",
             "impact": "Neutral"
         }
     ]
