@@ -1,124 +1,124 @@
 {
-    "date": "2025-09-18",
+    "date": "2025-09-19",
     "news": [
         {
-            "title": "Intel surges 30% as Nvidia to invest $5 billion in chipmaker, co-develop data center and PC chips",
-            "link": "https://www.cnbc.com/2025/09/18/intel-nvidia-investment.html",
-            "summary": "N Nvidia will invest $5 billion in Intel as part of a deal to co-develop data center and PC products with the troubled chipmaker.",
-            "date": "Thu, 18 Sep 2025 12:56:26 GMT",
+            "title": "Walmart’s Marketplace boom: How lax vetting came with identity theft and fakes",
+            "link": "https://www.cnbc.com/2025/09/19/walmart-marketplace-fakes-scams-investigation.html",
+            "summary": "A CNBC investigation found lax vetting contributed to fraud and fakes on the site. Walmart’s marketplace is booming, but the strategy poses risks.",
+            "date": "Fri, 19 Sep 2025 11:10:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "INTC",
+            "stock_ticker": "XPGB.F",
             "impact": "Neutral"
         },
         {
-            "title": "David Tepper says Fed could cut a few more times, but easing too much risks entering 'danger territory'",
-            "link": "https://www.cnbc.com/2025/09/18/david-tepper-says-fed-could-cut-a-few-more-times-but-easing-too-much-risks-entering-danger-territory.html",
-            "summary": "His comments come after the central bank lowered interest rates by a quarter point Wednesday. The bank signaled two more reductions are coming this year. The central bank is expected to raise interest rates again in December.",
-            "date": "Thu, 18 Sep 2025 13:20:42 GMT",
+            "title": "SEC to propose rule change on Trump's call to end quarterly earnings reporting, says Chair Atkins",
+            "link": "https://www.cnbc.com/2025/09/19/sec-to-propose-rule-change-on-trumps-call-to-end-quarterly-earnings-reporting-says-chair-atkins.html",
+            "summary": "Atkins said if the rule change is approved, it will be left to companies to decide whether they switch to semiannual or stay with quarterly.",
+            "date": "Fri, 19 Sep 2025 13:16:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HOG",
+            "stock_ticker": "XAE=F",
             "impact": "Neutral"
         },
         {
-            "title": "American Express unveils refreshed Platinum card with $895 annual fee, upping the ante in luxury cards",
-            "link": "https://www.cnbc.com/2025/09/18/american-express-platinum-card-refresh-895-fee-3500-perks.html",
-            "summary": "American Express' move highlights an arms race of sorts when it comes to catering to wealthy consumers. JPMorgan and Citi released updated or new cards recently.",
-            "date": "Thu, 18 Sep 2025 13:08:42 GMT",
+            "title": "Trump, Xi call on TikTok deal underway",
+            "link": "https://www.cnbc.com/2025/09/19/trump-xi-tiktok-call.html",
+            "summary": "U.S. President Donald Trump and Chinese leader Xi Jinping began a much-anticipated call aimed at finalizing a deal to keep TikTok from going dark.",
+            "date": "Fri, 19 Sep 2025 13:18:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAL",
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Fed's Kashkari advocates two more rate cuts this year as he sees limited tariff impact on inflation",
+            "link": "https://www.cnbc.com/2025/09/19/kashkari-advocates-two-more-rate-cuts-this-year-as-he-sees-limited-tariff-impact-on-inflation.html",
+            "summary": "Minneapolis Federal Reserve President Neel Kashkari spoke Friday on CNBC's \"Squawk Box\" He said the economy is on the mend and that the economy will continue to grow.",
+            "date": "Fri, 19 Sep 2025 13:05:48 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TWO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Treasury, IRS release key details about Trump’s ‘no tax on tips’ deduction",
+            "link": "https://www.cnbc.com/2025/09/19/treasury-details-trumps-no-tax-on-tips.html",
+            "summary": "The Treasury has issued proposed regulations with more details about Trump’s “no tax on tips” deduction. Here are the key things for workers to know.",
+            "date": "Fri, 19 Sep 2025 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ZB=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Russell 2000 scored fresh record for the first time in 4 years. Why the small-cap rally still has room to run.",
+            "link": "https://www.marketwatch.com/story/russell-2000-scores-fresh-record-for-the-first-time-in-4-years-why-the-small-cap-rally-still-has-room-to-run-b076bf30?mod=mw_rss_topstories",
+            "summary": "Small-cap stocks remain cheap compared with their large-cap peers, say portfolio managers. Despite their recent rally, small-cap stock prices are still cheap, they say.",
+            "date": "Fri, 19 Sep 2025 13:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RTY=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘Am I the biggest loser with the Fed rate cut?’ I’m 68, retired and live off IRAs and Social Security",
+            "link": "https://www.marketwatch.com/story/am-i-the-biggest-loser-with-the-fed-rate-cut-im-68-retired-and-live-off-iras-and-social-security-e21b7f2d?mod=mw_rss_topstories",
+            "summary": "The Federal Reserve cut policy rates by 25 basis points, to a range of 4% to 4.25%. The Fed pencils in two more reductions this year.",
+            "date": "Fri, 19 Sep 2025 13:09:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My mother’s lawyer stole $400K after she moved to a nursing home. How can we get justice?",
+            "link": "https://www.marketwatch.com/story/my-mothers-lawyer-stole-her-400k-estate-he-was-disbarred-how-can-we-get-our-money-back-1349ac6c?mod=mw_rss_topstories",
+            "summary": "Within a month, her home had fraudulently been put up for sale and her vehicle stolen, police say. “Within a week, her vehicle had been stolen,” police said.",
+            "date": "Fri, 19 Sep 2025 12:49:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYCO",
             "impact": "Bullish"
         },
         {
-            "title": "Hassett says Fed made 'prudent call,' signaling White House OK with quarter-point cut",
-            "link": "https://www.cnbc.com/2025/09/18/hassett-says-fed-made-prudent-call-signaling-white-house-ok-with-quarter-point-cut.html",
-            "summary": "Hassett says the administration and new Fed Governor Stephen Miran had been pushing for a bigger reduction. Hassett: \"I think we're going to see a reduction in the deficit\"",
-            "date": "Thu, 18 Sep 2025 12:35:47 GMT",
+            "title": "How a natural-gas deal could boost energy stocks and U.S.-China relations",
+            "link": "https://www.marketwatch.com/story/how-a-natural-gas-deal-could-boost-energy-stocks-and-u-s-china-relations-28f6f3e3?mod=mw_rss_topstories",
+            "summary": "Trump has an opportunity to show he's good at making a deal. Here’s an opportunity for Trump to do what he claims to be good at: making a Deal.",
+            "date": "Fri, 19 Sep 2025 12:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZQ=F",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Here are five key takeaways from the Fed's big interest rate decision",
-            "link": "https://www.cnbc.com/2025/09/17/here-are-five-key-takeaways-from-the-feds-big-interest-rate-decision.html",
-            "summary": "The Federal Reserve delivered on a widely anticipated quarter percentage point interest rate cut. The Federal Reserve on Wednesday delivered on an anticipated quarter Percentage Point interest rate reduction.",
-            "date": "Wed, 17 Sep 2025 21:24:31 GMT",
+            "title": "‘I want to live in a place that I can enjoy’: I’m 69, single and get $3,000 in Social Security. Can I afford $2,000 rent?",
+            "link": "https://www.marketwatch.com/story/i-want-to-live-in-a-place-that-i-can-enjoy-im-69-single-and-get-3-000-in-social-security-can-i-afford-2-000-rent-2041f7b6?mod=mw_rss_topstories",
+            "summary": "“With inheritance, I now have a little over $1 million in cash and investments,” he says. “I’m in a good place.”",
+            "date": "Fri, 19 Sep 2025 12:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "300550.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m a single parent in my 50s. Should I add my adult children, 23 and 29, to my mortgage loan to help me qualify?",
-            "link": "https://www.marketwatch.com/story/my-income-is-not-enough-im-a-single-parent-in-my-early-50s-should-i-add-my-kids-23-and-29-to-my-mortgage-application-a82f73ba?mod=mw_rss_topstories",
-            "summary": "“I want to purchase a family home so we three don’t have to pay rent,” she says. “I’m looking forward to the day when I can buy a house with my family.”",
-            "date": "Thu, 18 Sep 2025 13:16:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMNR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "ABC pulls Jimmy Kimmel following government pushback over Charlie Kirk comments",
-            "link": "https://www.marketwatch.com/story/jimmy-kimmel-dropped-by-abc-amid-affiliate-revolt-following-charlie-kirk-comments-dd41101f?mod=mw_rss_topstories",
-            "summary": "Kimmel's remarks about the shooting of conservative activist Charlie Kirk drew a rebuke from the Trump administration. ABC said Wednesday that it was pulling late-night host Jimmy Kimmel's show indefinitely.",
-            "date": "Thu, 18 Sep 2025 13:16:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ABCL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here’s the case for equities to ‘explode higher’ in October. Buy any dips along the way, says JPMorgan.",
-            "link": "https://www.marketwatch.com/story/heres-the-case-for-equities-to-explode-higher-in-october-buy-any-dips-along-the-way-says-jpmorgan-3a3efd70?mod=mw_rss_topstories",
-            "summary": "JPMorgan is telling clients to be ready to buy dips, and prepare for a possible explosive move higher for stocks in weeks to come.",
-            "date": "Thu, 18 Sep 2025 13:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fed likely to cut rates again in October, and 3 other things we learned from Powell’s press conference",
-            "link": "https://www.marketwatch.com/story/fed-likely-to-cut-rates-again-in-october-and-3-other-things-we-learned-from-powells-press-conference-a03fb5ae?mod=mw_rss_topstories",
-            "summary": "Takeaways from conversations and research notes from experienced Fed watchers. Here are the main takeaways culled from conversations, research notes and conversations.",
-            "date": "Thu, 18 Sep 2025 12:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZQ=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "False alarm: Surge in jobless claims unwinds after recent spike. Layoffs still low.",
-            "link": "https://www.marketwatch.com/story/false-alarm-surge-in-jobless-claims-unwinds-after-recent-spike-layoffs-still-low-05c8270d?mod=mw_rss_topstories",
-            "summary": "The surge in jobless claims in early September to a four-year high turns out to be a false alarm, at least for now.",
-            "date": "Thu, 18 Sep 2025 12:40:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "002960.SZ",
+            "stock_ticker": "NTSK",
             "impact": "Neutral"
         }
     ]
