@@ -1,124 +1,124 @@
 {
-    "date": "2025-09-19",
+    "date": "2025-09-20",
     "news": [
         {
-            "title": "Walmart’s Marketplace boom: How lax vetting came with identity theft and fakes",
-            "link": "https://www.cnbc.com/2025/09/19/walmart-marketplace-fakes-scams-investigation.html",
-            "summary": "A CNBC investigation found lax vetting contributed to fraud and fakes on the site. Walmart’s marketplace is booming, but the strategy poses risks.",
-            "date": "Fri, 19 Sep 2025 11:10:16 GMT",
+            "title": "OpenAI leads private market surge as 7 tech startups reach combined $1.3 trillion valuation",
+            "link": "https://www.cnbc.com/2025/09/20/openai-leads-private-market-surge-as-7-startups-reach-1point3-trillion.html",
+            "summary": "The rapid rise of AI startups OpenAI, Anthropic and xAI has spurred a historic increase in private market valuations. The rise of these startups has led to an increase in the private market value of AI companies.",
+            "date": "Sat, 20 Sep 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XPGB.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "SEC to propose rule change on Trump's call to end quarterly earnings reporting, says Chair Atkins",
-            "link": "https://www.cnbc.com/2025/09/19/sec-to-propose-rule-change-on-trumps-call-to-end-quarterly-earnings-reporting-says-chair-atkins.html",
-            "summary": "Atkins said if the rule change is approved, it will be left to companies to decide whether they switch to semiannual or stay with quarterly.",
-            "date": "Fri, 19 Sep 2025 13:16:04 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "XAE=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump, Xi call on TikTok deal underway",
-            "link": "https://www.cnbc.com/2025/09/19/trump-xi-tiktok-call.html",
-            "summary": "U.S. President Donald Trump and Chinese leader Xi Jinping began a much-anticipated call aimed at finalizing a deal to keep TikTok from going dark.",
-            "date": "Fri, 19 Sep 2025 13:18:53 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fed's Kashkari advocates two more rate cuts this year as he sees limited tariff impact on inflation",
-            "link": "https://www.cnbc.com/2025/09/19/kashkari-advocates-two-more-rate-cuts-this-year-as-he-sees-limited-tariff-impact-on-inflation.html",
-            "summary": "Minneapolis Federal Reserve President Neel Kashkari spoke Friday on CNBC's \"Squawk Box\" He said the economy is on the mend and that the economy will continue to grow.",
-            "date": "Fri, 19 Sep 2025 13:05:48 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TWO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Treasury, IRS release key details about Trump’s ‘no tax on tips’ deduction",
-            "link": "https://www.cnbc.com/2025/09/19/treasury-details-trumps-no-tax-on-tips.html",
-            "summary": "The Treasury has issued proposed regulations with more details about Trump’s “no tax on tips” deduction. Here are the key things for workers to know.",
-            "date": "Fri, 19 Sep 2025 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZB=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Russell 2000 scored fresh record for the first time in 4 years. Why the small-cap rally still has room to run.",
-            "link": "https://www.marketwatch.com/story/russell-2000-scores-fresh-record-for-the-first-time-in-4-years-why-the-small-cap-rally-still-has-room-to-run-b076bf30?mod=mw_rss_topstories",
-            "summary": "Small-cap stocks remain cheap compared with their large-cap peers, say portfolio managers. Despite their recent rally, small-cap stock prices are still cheap, they say.",
-            "date": "Fri, 19 Sep 2025 13:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RTY=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘Am I the biggest loser with the Fed rate cut?’ I’m 68, retired and live off IRAs and Social Security",
-            "link": "https://www.marketwatch.com/story/am-i-the-biggest-loser-with-the-fed-rate-cut-im-68-retired-and-live-off-iras-and-social-security-e21b7f2d?mod=mw_rss_topstories",
-            "summary": "The Federal Reserve cut policy rates by 25 basis points, to a range of 4% to 4.25%. The Fed pencils in two more reductions this year.",
-            "date": "Fri, 19 Sep 2025 13:09:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My mother’s lawyer stole $400K after she moved to a nursing home. How can we get justice?",
-            "link": "https://www.marketwatch.com/story/my-mothers-lawyer-stole-her-400k-estate-he-was-disbarred-how-can-we-get-our-money-back-1349ac6c?mod=mw_rss_topstories",
-            "summary": "Within a month, her home had fraudulently been put up for sale and her vehicle stolen, police say. “Within a week, her vehicle had been stolen,” police said.",
-            "date": "Fri, 19 Sep 2025 12:49:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYCO",
+            "stock_ticker": "OPENAI-USD",
             "impact": "Bullish"
         },
         {
-            "title": "How a natural-gas deal could boost energy stocks and U.S.-China relations",
-            "link": "https://www.marketwatch.com/story/how-a-natural-gas-deal-could-boost-energy-stocks-and-u-s-china-relations-28f6f3e3?mod=mw_rss_topstories",
-            "summary": "Trump has an opportunity to show he's good at making a deal. Here’s an opportunity for Trump to do what he claims to be good at: making a Deal.",
-            "date": "Fri, 19 Sep 2025 12:43:00 GMT",
+            "title": "Luxury face cream from a pizza parlor: Inside fraud on Walmart.com",
+            "link": "https://www.cnbc.com/2025/09/19/walmart-marketplace-fakes-scams-investigation.html",
+            "summary": "A CNBC investigation found lax vetting contributed to fraud and fakes on the site. Walmart's marketplace is booming, but the strategy poses risks.",
+            "date": "Sat, 20 Sep 2025 01:25:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "DE000SL0HFL5.SG",
             "impact": "Neutral"
         },
         {
-            "title": "‘I want to live in a place that I can enjoy’: I’m 69, single and get $3,000 in Social Security. Can I afford $2,000 rent?",
-            "link": "https://www.marketwatch.com/story/i-want-to-live-in-a-place-that-i-can-enjoy-im-69-single-and-get-3-000-in-social-security-can-i-afford-2-000-rent-2041f7b6?mod=mw_rss_topstories",
-            "summary": "“With inheritance, I now have a little over $1 million in cash and investments,” he says. “I’m in a good place.”",
-            "date": "Fri, 19 Sep 2025 12:28:00 GMT",
+            "title": "Working smarter, not harder: AI could help fight burnout — but is it?",
+            "link": "https://www.cnbc.com/2025/09/20/working-smarter-not-harder-how-ai-could-help-fight-burnout-.html",
+            "summary": "Artificial intelligence is quietly changing the game, but not always for the better. Burnout is a growing concern across industries. Artificial intelligence is changing the way we work, and not always in a good way.",
+            "date": "Sat, 20 Sep 2025 07:11:52 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "7SW1.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Hands-on with the Meta Ray-Ban Display glasses",
+            "link": "https://www.cnbc.com/2025/09/20/hands-on-with-the-meta-ray-ban-display-glasses.html",
+            "summary": "CNBC tries out the $799 Meta Ray-Ban Display glasses that Mark Zuckerberg debuted during the social media company's annual Connect event. The glasses cost $799 for a pair of glasses, and $499 for a set of two.",
+            "date": "Sat, 20 Sep 2025 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0000KATM.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Kevin Durant has access restored to his Coinbase bitcoin account, after years of being locked out",
+            "link": "https://www.cnbc.com/2025/09/19/bitcoin-coinbase-kevin-durant-nba-password.html",
+            "summary": "Kevin Durant has regained access to his Coinbase account containing bitcoins. Durant has been using the account to buy and sell bitcoins. He has been able to use the account for the past few days.",
+            "date": "Fri, 19 Sep 2025 21:27:49 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KEVIN25092-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bad news for coffee drinkers: The record-high prices you’re paying will go even higher when tariffs take their toll",
+            "link": "https://www.marketwatch.com/story/bad-news-for-coffee-drinkers-the-record-high-prices-youre-paying-will-go-even-higher-when-tariffs-take-their-toll-1c26981a?mod=mw_rss_topstories",
+            "summary": "The coffee industry has been caught off guard by President Trump’s tariffs, as retail coffee prices continue to climb. President Trump's tariffs have hit the coffee industry hard.",
+            "date": "Sat, 20 Sep 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BDGI.TO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I spend 5 hours a day on my portfolio’: I’m 70 and received $300K in a lawsuit. Here’s my foolproof financial plan.",
+            "link": "https://www.marketwatch.com/story/i-spend-5-hours-a-day-on-my-portfolio-im-70-and-received-300k-in-a-lawsuit-what-do-you-think-of-my-investment-plan-23f8f8c9?mod=mw_rss_topstories",
+            "summary": "“It’s important to find a way to manage your emotions to prevent them from damaging your financial and personal future,” she says.",
+            "date": "Sat, 20 Sep 2025 12:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "NTSK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Gen Z fell in love with high-yield cash savings. The Fed just crashed the party.",
+            "link": "https://www.marketwatch.com/story/gen-z-fell-in-love-with-high-yield-cash-savings-the-fed-just-crashed-the-party-76efc1b4?mod=mw_rss_topstories",
+            "summary": "Interest-rate cuts could be especially tough on younger investors. They may hold more cash than they should, according to a recent study. The U.S. Federal Reserve is expected to cut interest rates by 0.25 to 0.50 percent.",
+            "date": "Sat, 20 Sep 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GEN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Forget chips: The next battleground in the U.S.-China AI race is nuclear power",
+            "link": "https://www.marketwatch.com/story/forget-chips-the-next-battleground-in-the-u-s-china-ai-race-is-nuclear-power-4c92b278?mod=mw_rss_topstories",
+            "summary": "The race for AI supremacy is quickly becoming a race for energy supremacy. As the U.S. lags China in nuclear development, both the government and Big Tech are making a massive new push.",
+            "date": "Sat, 20 Sep 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "688595.SS",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Is it true than I need one more Social Security credit to receive benefits? If so, I’ll have to go back to work.",
+            "link": "https://www.marketwatch.com/story/is-it-true-than-i-need-one-more-social-security-credit-to-receive-benefits-if-so-ill-have-to-go-back-to-work-39d60bfd?mod=mw_rss_topstories",
+            "summary": "“I was told that I would not receive monthly Social Security payments because I don’t have 40 credits,” she said.",
+            "date": "Sat, 20 Sep 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GBPISK=X",
             "impact": "Neutral"
         }
     ]
