@@ -1,124 +1,124 @@
 {
-    "date": "2025-09-20",
+    "date": "2025-09-21",
     "news": [
         {
-            "title": "OpenAI leads private market surge as 7 tech startups reach combined $1.3 trillion valuation",
-            "link": "https://www.cnbc.com/2025/09/20/openai-leads-private-market-surge-as-7-startups-reach-1point3-trillion.html",
-            "summary": "The rapid rise of AI startups OpenAI, Anthropic and xAI has spurred a historic increase in private market valuations. The rise of these startups has led to an increase in the private market value of AI companies.",
-            "date": "Sat, 20 Sep 2025 12:00:01 GMT",
+            "title": "Apple takes control of all core chips in iPhone Air with new architecture to prioritize AI",
+            "link": "https://www.cnbc.com/2025/09/21/apple-now-controls-all-core-iphone-chips-prioritizing-ai-workloads.html",
+            "summary": "Apple is quietly taking control of all the core chips in iPhone with new architecture. New architecture to prioritize AI workloads on its most advanced chip, the A19 Pro.",
+            "date": "Sun, 21 Sep 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OPENAI-USD",
+            "stock_ticker": "AAPL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Buffett's Berkshire totally exits its profitable stake in Chinese EV maker bought because of Munger",
+            "link": "https://www.cnbc.com/2025/09/21/buffett-munger-byd-exits-stake.html",
+            "summary": "Berkshire Hathaway has completed exited its extremely profitable equity investment in the Chinese electric vehicle maker BYD. Berkshire Hathaway had invested in BYD for more than a decade.",
+            "date": "Sun, 21 Sep 2025 12:03:20 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BRK-B",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump aide denies Jimmy Kimmel suspended because of WH pressure despite Carr threat",
+            "link": "https://www.cnbc.com/2025/09/20/jimmy-kimmel-disney-abc-trump-fcc.html",
+            "summary": "White House press secretary Karoline Leavitt denied late-night TV host Jimmy Kimmel was suspended because of pressure from the Trump administration. She said Kimmel's suspension is not related to the White House.",
+            "date": "Sat, 20 Sep 2025 20:43:47 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Big Tech companies, foreign governments scramble after Trump slaps $100,000 fee on H-1B visas",
+            "link": "https://www.cnbc.com/2025/09/20/trump-h-1b-visa-tech-foreign-governments.html",
+            "summary": "The announcement to impose a $100,000 annual fee on H-1B visas sent shockwaves through corporate America. The fee is expected to be in place by the end of the year.",
+            "date": "Sat, 20 Sep 2025 21:45:46 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BBAI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "What we know about the cyberattack that hit major European airports",
+            "link": "https://www.cnbc.com/2025/09/21/what-we-know-about-the-cyberattack-that-hit-major-european-airports.html",
+            "summary": "Brussels Airport said it expected heavy disruption and flight cancellations into Sunday as a result of the cyberattack. The cyberattack is believed to have been carried out by a group known as the North Korean government.",
+            "date": "Sun, 21 Sep 2025 10:25:42 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WAT-P.V",
             "impact": "Bullish"
         },
         {
-            "title": "Luxury face cream from a pizza parlor: Inside fraud on Walmart.com",
-            "link": "https://www.cnbc.com/2025/09/19/walmart-marketplace-fakes-scams-investigation.html",
-            "summary": "A CNBC investigation found lax vetting contributed to fraud and fakes on the site. Walmart's marketplace is booming, but the strategy poses risks.",
-            "date": "Sat, 20 Sep 2025 01:25:37 GMT",
+            "title": "My mother’s lawyer stole $400K after she moved to a nursing home. How do we get our money back?",
+            "link": "https://www.marketwatch.com/story/my-mothers-lawyer-stole-her-400k-estate-he-was-disbarred-how-can-we-get-our-money-back-1349ac6c?mod=mw_rss_topstories",
+            "summary": "Within a month, her home had fraudulently been put up for sale and her vehicle stolen, police say. “Within a week, her vehicle had been stolen,” police said.",
+            "date": "Sun, 21 Sep 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DE000SL0HFL5.SG",
-            "impact": "Neutral"
+            "stock_ticker": "MYR=X",
+            "impact": "Bullish"
         },
         {
-            "title": "Working smarter, not harder: AI could help fight burnout — but is it?",
-            "link": "https://www.cnbc.com/2025/09/20/working-smarter-not-harder-how-ai-could-help-fight-burnout-.html",
-            "summary": "Artificial intelligence is quietly changing the game, but not always for the better. Burnout is a growing concern across industries. Artificial intelligence is changing the way we work, and not always in a good way.",
-            "date": "Sat, 20 Sep 2025 07:11:52 GMT",
+            "title": "Are your parents afraid of investing in crypto? How to talk with them so they’ll actually listen.",
+            "link": "https://www.marketwatch.com/story/i-was-fearful-how-this-father-learned-to-take-crypto-advice-from-his-adult-child-c6b85826?mod=mw_rss_topstories",
+            "summary": "‘I was fearful,’ a father admits. ‘You should not be surprised to see 70% drawdown on alt coins and even bitcoin’",
+            "date": "Sun, 21 Sep 2025 12:07:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "7SW1.F",
-            "impact": "Neutral"
+            "stock_ticker": "ARE",
+            "impact": "Bearish"
         },
         {
-            "title": "Hands-on with the Meta Ray-Ban Display glasses",
-            "link": "https://www.cnbc.com/2025/09/20/hands-on-with-the-meta-ray-ban-display-glasses.html",
-            "summary": "CNBC tries out the $799 Meta Ray-Ban Display glasses that Mark Zuckerberg debuted during the social media company's annual Connect event. The glasses cost $799 for a pair of glasses, and $499 for a set of two.",
-            "date": "Sat, 20 Sep 2025 12:00:01 GMT",
+            "title": "‘Am I the biggest loser with the Fed rate cut?’ I’m 68, retired and live off IRAs and Social Security",
+            "link": "https://www.marketwatch.com/story/am-i-the-biggest-loser-with-the-fed-rate-cut-im-68-retired-and-live-off-iras-and-social-security-e21b7f2d?mod=mw_rss_topstories",
+            "summary": "“I live a comfortable life, but the Fed’s decision won’t make a blind bit of difference to me,” he says.",
+            "date": "Sun, 21 Sep 2025 10:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0000KATM.L",
+            "stock_ticker": "AM",
             "impact": "Neutral"
         },
         {
-            "title": "Kevin Durant has access restored to his Coinbase bitcoin account, after years of being locked out",
-            "link": "https://www.cnbc.com/2025/09/19/bitcoin-coinbase-kevin-durant-nba-password.html",
-            "summary": "Kevin Durant has regained access to his Coinbase account containing bitcoins. Durant has been using the account to buy and sell bitcoins. He has been able to use the account for the past few days.",
-            "date": "Fri, 19 Sep 2025 21:27:49 GMT",
+            "title": "I’m 88 and leaving my $450,000 estate to my son because he has children. Is that wrong?",
+            "link": "https://www.marketwatch.com/story/im-leaving-the-bulk-of-my-estate-to-my-youngest-son-as-he-is-my-only-child-with-grandchildren-do-i-need-a-will-23d7996e?mod=mw_rss_topstories",
+            "summary": "“My other children have relationships, but they are unmarried and have no children,” she said. “My daughter-in-law has a relationship, but she is unmarried and has no children.”",
+            "date": "Sat, 20 Sep 2025 20:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KEVIN25092-USD",
+            "stock_ticker": "BMNR",
             "impact": "Neutral"
         },
         {
-            "title": "Bad news for coffee drinkers: The record-high prices you’re paying will go even higher when tariffs take their toll",
-            "link": "https://www.marketwatch.com/story/bad-news-for-coffee-drinkers-the-record-high-prices-youre-paying-will-go-even-higher-when-tariffs-take-their-toll-1c26981a?mod=mw_rss_topstories",
-            "summary": "The coffee industry has been caught off guard by President Trump’s tariffs, as retail coffee prices continue to climb. President Trump's tariffs have hit the coffee industry hard.",
-            "date": "Sat, 20 Sep 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BDGI.TO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I spend 5 hours a day on my portfolio’: I’m 70 and received $300K in a lawsuit. Here’s my foolproof financial plan.",
-            "link": "https://www.marketwatch.com/story/i-spend-5-hours-a-day-on-my-portfolio-im-70-and-received-300k-in-a-lawsuit-what-do-you-think-of-my-investment-plan-23f8f8c9?mod=mw_rss_topstories",
-            "summary": "“It’s important to find a way to manage your emotions to prevent them from damaging your financial and personal future,” she says.",
-            "date": "Sat, 20 Sep 2025 12:37:00 GMT",
+            "title": "‘I am highly alarmed by the proposed changes to retirement accounts’: I don’t want bitcoin or private equity in my 401(k). What can I do?",
+            "link": "https://www.marketwatch.com/story/i-am-highly-alarmed-by-the-proposed-changes-to-retirement-accounts-i-dont-want-bitcoin-or-private-equity-in-my-401-k-what-can-i-do-56384ead?mod=mw_rss_topstories",
+            "summary": "“What are the options for safeguarding my autonomy over my funds?” she asks. “What is my right to my money?’”",
+            "date": "Sat, 20 Sep 2025 20:02:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "NTSK",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Gen Z fell in love with high-yield cash savings. The Fed just crashed the party.",
-            "link": "https://www.marketwatch.com/story/gen-z-fell-in-love-with-high-yield-cash-savings-the-fed-just-crashed-the-party-76efc1b4?mod=mw_rss_topstories",
-            "summary": "Interest-rate cuts could be especially tough on younger investors. They may hold more cash than they should, according to a recent study. The U.S. Federal Reserve is expected to cut interest rates by 0.25 to 0.50 percent.",
-            "date": "Sat, 20 Sep 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GEN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Forget chips: The next battleground in the U.S.-China AI race is nuclear power",
-            "link": "https://www.marketwatch.com/story/forget-chips-the-next-battleground-in-the-u-s-china-ai-race-is-nuclear-power-4c92b278?mod=mw_rss_topstories",
-            "summary": "The race for AI supremacy is quickly becoming a race for energy supremacy. As the U.S. lags China in nuclear development, both the government and Big Tech are making a massive new push.",
-            "date": "Sat, 20 Sep 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "688595.SS",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Is it true than I need one more Social Security credit to receive benefits? If so, I’ll have to go back to work.",
-            "link": "https://www.marketwatch.com/story/is-it-true-than-i-need-one-more-social-security-credit-to-receive-benefits-if-so-ill-have-to-go-back-to-work-39d60bfd?mod=mw_rss_topstories",
-            "summary": "“I was told that I would not receive monthly Social Security payments because I don’t have 40 credits,” she said.",
-            "date": "Sat, 20 Sep 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GBPISK=X",
             "impact": "Neutral"
         }
     ]
