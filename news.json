@@ -1,23 +1,47 @@
 {
-    "date": "2025-09-22",
+    "date": "2025-09-23",
     "news": [
         {
-            "title": "Trump’s $100,000 H-1B fee sparks a global race to grab top talent",
-            "link": "https://www.cnbc.com/2025/09/22/h-1b-visa-what-trumps-100000-fee-means-for-top-global-talent-hubs.html",
-            "summary": "The six-figure H-1B visa fee has jolted companies that have long relied on the program to bring in top global talent.",
-            "date": "Mon, 22 Sep 2025 10:36:29 GMT",
+            "title": "Altman, Huang and the last-minute negotiations that sealed the $100 billion OpenAI-Nvidia deal",
+            "link": "https://www.cnbc.com/2025/09/23/altman-huang-negotiations-that-sealed-100-billion-openai-nvidia-deal.html",
+            "summary": "The $100 billion deal between Nvidia and OpenAI was struck under the pressure of a looming deadline during President Trump's U.K. trip.",
+            "date": "Tue, 23 Sep 2025 08:03:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NQ=F",
+            "stock_ticker": "600172.SS",
             "impact": "Neutral"
         },
         {
-            "title": "Trump administration reportedly plans to link autism to Tylenol use during pregnancy",
-            "link": "https://www.cnbc.com/2025/09/21/trump-admin-reportedly-set-to-link-autism-to-tylenol-use-in-pregnancy.html",
-            "summary": "Federal health officials also are expected to highlight leucovorin as a potential autism treatment, according to The Washington Post. The drug has been linked to a number of autism-related illnesses.",
-            "date": "Sun, 21 Sep 2025 21:32:54 GMT",
+            "title": "Crypto startup Zerohash raises $104 million from Morgan Stanley, SoFi, Apollo and others",
+            "link": "https://www.cnbc.com/2025/09/23/startup-zerohash-raises-104million-morgan-stanley-sofi-apollo.html",
+            "summary": "Zerohash is among a wave of firms taking advantage of the more favorable regulatory environment for cryptocurrencies under President Donald Trump. Zerohash says it is among the first of its kind in the U.S. to go public.",
+            "date": "Tue, 23 Sep 2025 11:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BITQ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Amazon faces off against FTC over 'deceptive' Prime program",
+            "link": "https://www.cnbc.com/2025/09/23/amazon-faces-off-against-ftc-over-deceptive-prime-program.html",
+            "summary": "The FTC complaint alleges Amazon \"tricked and trapped\" consumers into signing up for Prime. It says Amazon made it too complicated to cancel their membership.",
+            "date": "Tue, 23 Sep 2025 12:49:58 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AMZN",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Trump to meet top Democrats as their health care demands fuel government shutdown risk",
+            "link": "https://www.cnbc.com/2025/09/22/trump-schumer-jeffries-government-funding-.html",
+            "summary": "Sen. Chuck Schumer urges President Donald Trump to meet with congressional Democratic leaders to negotiate a way out of the government funding stalemate. Sen. Schumer: 'I think it's a good idea to talk to each other'",
+            "date": "Mon, 22 Sep 2025 21:10:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,99 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "Oracle names Clay Magouyrk and Mike Sicilia as co-CEOs",
-            "link": "https://www.cnbc.com/2025/09/22/oracle-names-co-ceos.html",
-            "summary": "Oracle is promoting its presidents of cloud infrastructure, Clay Magouyrk, and industries, Mike Sicilia, to co-CEOs.",
-            "date": "Mon, 22 Sep 2025 13:00:17 GMT",
+            "title": "Chinese EV giant BYD says it has a backup plan if it's cut off from Nvidia chips",
+            "link": "https://www.cnbc.com/2025/09/23/chinas-byd-says-it-has-a-backup-plan-if-cut-off-from-nvidia-chips.html",
+            "summary": "BYD executive Stella Li said BYD has not been told to stop using any Nvidia products. BYD is a Chinese manufacturer that has been owned by Chinese tech giant Nvidia since 2008.",
+            "date": "Tue, 23 Sep 2025 12:25:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ORCL",
+            "stock_ticker": "O39.SI",
             "impact": "Neutral"
         },
         {
-            "title": "Pfizer boosts obesity drug prospects with $7.3 billion deal to buy Metsera",
-            "link": "https://www.cnbc.com/2025/09/22/pfizer-to-buy-weight-loss-drug-developer-metsera.html",
-            "summary": "Metsera, founded in 2022, brings a pipeline of both oral and injectable treatments with different targets that could boost Pfizer's odds of entering the market.",
-            "date": "Mon, 22 Sep 2025 12:59:20 GMT",
+            "title": "Nvidia’s OpenAI deal adds to a brewing concern. But will that actually hurt the stock?",
+            "link": "https://www.marketwatch.com/story/nvidias-openai-deal-adds-to-a-brewing-concern-but-will-that-actually-hurt-the-stock-3bc3a015?mod=mw_rss_topstories",
+            "summary": "Analyst: Some investors are increasingly worried that Nvidia is investing in companies that then purchase its chips. But he also notes the demand landscape looks strong for now.",
+            "date": "Tue, 23 Sep 2025 13:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PFE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Saudi defense pact with Pakistan unlikely to disrupt oil flows to India, source says",
-            "link": "https://www.cnbc.com/2025/09/22/saudi-defense-pact-with-pakistan-unlikely-to-disrupt-oil-flows-to-india-source-says.html",
-            "summary": "India is one of the world's largest crude consumers and a key customer for Saudi Arabia. India has been in conflict with neighboring Pakistan for decades.",
-            "date": "Mon, 22 Sep 2025 12:06:14 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "9523.SR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Oracle is getting two new CEOs. What does that mean for the stock?",
-            "link": "https://www.marketwatch.com/story/oracle-is-getting-two-new-ceos-what-does-that-mean-for-the-stock-02e0e846?mod=mw_rss_topstories",
-            "summary": "Safra Catz will stay involved at Oracle in the role of executive vice chair. Investors can expect a smooth transition as Clay Magouyrk and Mike Sicilia jointly assume the CEO position.",
-            "date": "Mon, 22 Sep 2025 13:18:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ORCL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Brain drain? How Wall Street is reacting to $100,000 charge for H-1B visas",
-            "link": "https://www.marketwatch.com/story/brain-drain-how-wall-street-is-reacting-to-100-000-charge-for-h1-b-visas-0e5bee7e?mod=mw_rss_topstories",
-            "summary": "New rules will require a $100,000 fee for a type of visa used extensively in the technology industry. Fears of an exodus of talent that will sap the potential for growth.",
-            "date": "Mon, 22 Sep 2025 12:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BRN.AX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Pfizer makes a $4.9 billion bet on obesity drugs with Metsera buyout deal",
-            "link": "https://www.marketwatch.com/story/pfizer-makes-a-4-9-billion-bet-on-obesity-drugs-with-metsera-buyout-deal-273003e4?mod=mw_rss_topstories",
-            "summary": "Metsera’s shareholders could see significant bonuses if certain milestones are reached. Metsera could be worth as much as $1 billion if it reaches certain milestones.",
-            "date": "Mon, 22 Sep 2025 12:14:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PFE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "You’re just getting scraps from the stock market. Here’s where the big money is made.",
-            "link": "https://www.marketwatch.com/story/youre-just-getting-scraps-from-the-stock-market-heres-where-the-big-money-is-made-3d4f0922?mod=mw_rss_topstories",
-            "summary": "When it comes to growth investing, it’s a small club — and you’re not in it. You can’t be in the growth investing club if you don't invest in growth.",
-            "date": "Mon, 22 Sep 2025 11:50:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JUST",
+            "stock_ticker": "OPENAI-USD",
             "impact": "Neutral"
         },
         {
             "title": "‘I want to live in a place that I can enjoy’: I’m 69, single and get $3,000 in Social Security. Can I afford $2,000 rent?",
             "link": "https://www.marketwatch.com/story/i-want-to-live-in-a-place-that-i-can-enjoy-im-69-single-and-get-3-000-in-social-security-can-i-afford-2-000-rent-2041f7b6?mod=mw_rss_topstories",
             "summary": "“With inheritance, I now have a little over $1 million in cash and investments,” he says. “I’m in a good place.”",
-            "date": "Mon, 22 Sep 2025 11:47:00 GMT",
+            "date": "Tue, 23 Sep 2025 13:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "RHLD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Jimmy Kimmel supporters who pushed for Disney boycott take victory lap over his Tuesday return to ABC",
+            "link": "https://www.marketwatch.com/story/jimmy-kimmel-supporters-who-pushed-for-disney-boycott-take-victory-lap-over-his-return-to-abc-91a84c4d?mod=mw_rss_topstories",
+            "summary": "The Walt Disney Co. pulled Jimmy Kimmel’s show last week after pressure from the White House. The company decided to return the late-night host to the air on Monday.",
+            "date": "Tue, 23 Sep 2025 12:59:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "COST",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m 67. My wife, 48, is financially illiterate. How do I teach her to manage our money? After all, I won’t be around forever.",
+            "link": "https://www.marketwatch.com/story/im-scared-for-her-my-wife-48-is-financially-illiterate-im-67-what-happens-when-i-die-0e9dbd09?mod=mw_rss_topstories",
+            "summary": "“I have $1.1 million in a traditional IRA and $250,000 in cash,” he says. “We have a 12-year-old daughter.”",
+            "date": "Tue, 23 Sep 2025 12:21:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BMNR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This new fund backed by the legendary Bill Miller banks on a simple but winning formula",
+            "link": "https://www.marketwatch.com/story/this-new-bill-miller-backed-fund-is-banking-on-a-simple-but-winning-formula-e7384b4b?mod=mw_rss_topstories",
+            "summary": "Veteran money manager Joseph Shaposhnik has a plan to fix actively managed funds and a track record on delivery. He has been at the helm of FTSE 100 funds for more than 20 years.",
+            "date": "Tue, 23 Sep 2025 12:09:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         }
     ]
