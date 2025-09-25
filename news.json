@@ -1,125 +1,125 @@
 {
-    "date": "2025-09-24",
+    "date": "2025-09-25",
     "news": [
         {
-            "title": "Lithium Americas soars 65% as Trump administration seeks equity stake in Canadian miner",
-            "link": "https://www.cnbc.com/2025/09/24/lithium-americas-lac-equity-stake-trump-stock.html",
-            "summary": "It is the latest move by the White House to take direct ownership in the U.S. critical mineral supply chain. It is also the first time that the government has been involved in a direct way in the production of minerals.",
-            "date": "Wed, 24 Sep 2025 13:21:22 GMT",
+            "title": "Jobless claims tumble to 218,000, well below estimate despite fears of labor market weakness",
+            "link": "https://www.cnbc.com/2025/09/25/jobless-claims-tumble-to-218000-well-below-estimate-despite-fears-of-labor-market-weakness.html",
+            "summary": "Initial claims for unemployment insurance were expected to total 235,000 for the week ending Sept. 20, according to the Labor Department. The U.S. unemployment rate is currently at 4.7 percent.",
+            "date": "Thu, 25 Sep 2025 13:18:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LTH=F",
+            "stock_ticker": "JOBIESS-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Starbucks to close stores, lay off workers in $1 billion restructuring plan",
+            "link": "https://www.cnbc.com/2025/09/25/starbucks-restructuring-store-closures-layoffs.html",
+            "summary": "Starbucks announced a $1 billion restructuring plan Thursday. It involves closing some of its North American coffeehouses and laying off about 900 workers.",
+            "date": "Thu, 25 Sep 2025 12:50:58 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SBUX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump OMB orders preparation for mass firings of federal workers if government shuts down",
+            "link": "https://www.cnbc.com/2025/09/25/trump-government-shutdown-layoffs-omb.html",
+            "summary": "The warning could ratchet up pressure on Congress to strike a deal to avert a government shutdown. The warning comes as the U.S. faces a possible government shutdown on Friday.",
+            "date": "Thu, 25 Sep 2025 13:15:43 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
             "impact": "Bullish"
         },
         {
-            "title": "Shooting at Dallas ICE detention facility leaves 'multiple injuries and fatalities': Noem",
-            "link": "https://www.cnbc.com/2025/09/24/ice-shooting-dallas-noem.html",
-            "summary": "\"The shooter is deceased by a self-inflicted gun shot wound,\" Noem said in an X post confirming the attack. Noem: The shooter was killed by a \"self-inflicts gun shot wounds\"",
-            "date": "Wed, 24 Sep 2025 13:17:18 GMT",
+            "title": "Disney investors say handling of Jimmy Kimmel suspension put politics over shareholders, demand records",
+            "link": "https://www.cnbc.com/2025/09/25/jimmy-kimmel-disney-investors-politics-fiduciary-duty.html",
+            "summary": "Disney investors seek board materials, communications and policies related to the suspension of \"Jimmy Kimmel Live!\" A group of Disney investors are seeking board materials and communications.",
+            "date": "Thu, 25 Sep 2025 12:43:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SSSS-P.V",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The Trump administration is changing Covid, childhood vaccine recommendations – here’s what it means for you",
-            "link": "https://www.cnbc.com/2025/09/24/how-to-get-covid-mmrv-hepatitisb-vaccines.html",
-            "summary": "Health experts say there are steps Americans can take to navigate the new guidance and try to secure the vaccines they or their children want or need.",
-            "date": "Wed, 24 Sep 2025 13:20:20 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "NFL Commissioner Roger Goodell says league could renegotiate media deals as soon as 2026",
-            "link": "https://www.cnbc.com/2025/09/24/nfl-tv-rights-renegotiations-accelerated-roger-goodell.html",
-            "summary": "The NFL would need agreement from its media partners — Disney, Comcast's NBCUniversal, Paramount, Amazon and Fox — to start discussions earlier than planned.",
-            "date": "Wed, 24 Sep 2025 13:10:59 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NFLX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Jimmy Kimmel returns after ABC suspension: 'Never my intention to make light' of Charlie Kirk's murder",
-            "link": "https://www.cnbc.com/2025/09/23/jimmy-kimmel-returns-abc-disney-kirk.html",
-            "summary": "\"Jimmy Kimmel Live!\" returned to air Tuesday night, roughly one week after the late night show was suspended by Disney's ABC broadcast network.",
-            "date": "Wed, 24 Sep 2025 11:43:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DE000A0RFJ25.SG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This overlooked group of stocks might be your portfolio’s missing piece",
-            "link": "https://www.marketwatch.com/story/this-overlooked-group-of-stocks-might-be-your-portfolios-missing-piece-dd00f96c?mod=mw_rss_topstories",
-            "summary": "Midcap stocks can stand up to the market’s megacap giants. Midcap stocks have the potential to be the next Facebook or Google.",
-            "date": "Wed, 24 Sep 2025 12:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "DIS",
             "impact": "Bullish"
         },
         {
-            "title": "‘I changed my will to deter vultures’: I’m in my 60s and disabled. Do I impoverish myself to qualify for Medicaid?",
-            "link": "https://www.marketwatch.com/story/i-changed-my-will-to-deter-vultures-im-in-my-60s-and-disabled-do-i-spend-down-my-assets-to-qualify-for-medicaid-bcf3210d?mod=mw_rss_topstories",
-            "summary": "“I pay my taxes and insurance, donate money and personal belongings,” she says. “I’m a good person. I’ve always been.”",
-            "date": "Wed, 24 Sep 2025 12:47:00 GMT",
+            "title": "Offshore driller Transocean plunges after offering shares at a discount",
+            "link": "https://www.cnbc.com/2025/09/25/offshore-driller-transocean-plunges-after-offering-shares-at-a-discount.html",
+            "summary": "Transocean has increased the size of the public offering, which closes Friday. Transocean: The public offering is expected to raise $1.2 billion.",
+            "date": "Thu, 25 Sep 2025 11:56:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RHLD",
+            "stock_ticker": "WTI",
             "impact": "Neutral"
         },
         {
-            "title": "What Jimmy Kimmel said in his first show back may not matter. Disney has already been hammered by the culture wars.",
-            "link": "https://www.marketwatch.com/story/what-jimmy-kimmel-says-in-his-first-show-back-may-not-matter-disney-has-already-been-hammered-by-the-culture-wars-7083876a?mod=mw_rss_topstories",
-            "summary": "The decision to pull Kimmel off the air sparked calls for a boycott from his supporters. The move to bring him back has angered conservatives, putting Disney in an unwinnable position.",
-            "date": "Wed, 24 Sep 2025 12:46:00 GMT",
+            "title": "Jobless claims fall to lowest level since mid-July, easing concerns over labor market",
+            "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-july-easing-concern-over-labor-market-5721cdc6?mod=mw_rss_topstories",
+            "summary": ". Claims have been volatile in recent weeks. Claims are expected to rise again in the coming days and weeks. For confidential support call the Samaritans in the UK on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.",
+            "date": "Thu, 25 Sep 2025 13:23:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WAT-P.V",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Jimmy Kimmel has now returned to network TV. Other outspoken American workers may not be so fortunate.",
-            "link": "https://www.marketwatch.com/story/whatever-your-views-on-charlie-kirk-and-jimmy-kimmel-your-employer-can-fire-you-for-expressing-them-c95a0e0d?mod=mw_rss_topstories",
-            "summary": "CNN.com's Jarrett Bellini reports on a new law that would allow employers to fire employees for their views on Charlie Kirk and Jimmy Kimmel. Bellini: The law would allow an employer to fire a worker for his or her views on Jimmy Kimmel and Charlie Kirk.",
-            "date": "Wed, 24 Sep 2025 12:34:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HAS",
+            "stock_ticker": "JOBIESS-USD",
             "impact": "Neutral"
         },
         {
-            "title": "I’m retiring at 63 with $1.5 million saved. Is 70/30 equities/bonds too risky?",
-            "link": "https://www.marketwatch.com/story/ive-received-conflicting-advice-im-retiring-at-63-with-1-5-million-saved-is-70-30-equities-bonds-too-risky-80b27ef2?mod=mw_rss_topstories",
-            "summary": "“My spouse and I have a combined $5,500 in monthly Social Security payments and a $2,900-a-month pension.”",
-            "date": "Wed, 24 Sep 2025 12:10:00 GMT",
+            "title": "I’m 70 and have Alzheimer’s. My son’s girlfriend put $750 worth of lottery tickets on a credit card I gave him. What can I do?",
+            "link": "https://www.marketwatch.com/story/im-70-and-have-alzheimers-my-sons-girlfriend-put-750-worth-of-lottery-tickets-on-a-credit-card-i-gave-him-what-can-i-do-3cedab85?mod=mw_rss_topstories",
+            "summary": "“I contacted the credit-card company, but was advised they could not reimburse me for the theft,” she said. “I was advised that they could no longer reimburse me.”",
+            "date": "Thu, 25 Sep 2025 13:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BMNR",
             "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia’s stock can soar 35% more, Barclays says. Why AI spending estimates now seem less ‘outlandish.’",
+            "link": "https://www.marketwatch.com/story/nvidias-stock-can-soar-35-more-barclays-says-why-ai-spending-estimates-now-seem-less-outlandish-bd26c6c6?mod=mw_rss_topstories",
+            "summary": "Barclays analysts see the AI infrastructure market reaching $2 trillion and beyond. The wave of AI data-center announcements in recent months has Barclays feeling more positive about Nvidia and other AI chip names.",
+            "date": "Thu, 25 Sep 2025 13:13:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VTI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Starbucks is cutting more jobs and closing stores as part of a $1 billion restructuring",
+            "link": "https://www.marketwatch.com/story/starbucks-is-cutting-more-jobs-and-closing-stores-as-part-of-a-1-billion-restructuring-44e81e99?mod=mw_rss_topstories",
+            "summary": "Most of the job cuts will be in non-retail positions, and many open positions will be closed. Starbucks is closing stores across the U.S. and Canada.",
+            "date": "Thu, 25 Sep 2025 13:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SBUX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "U.S. trade deficit sinks to 2-year low as businesses try to time orders to beat tariff price hikes",
+            "link": "https://www.marketwatch.com/story/u-s-trade-deficit-sinks-to-2-year-low-as-businesses-try-to-time-orders-to-beat-tariff-price-hikes-8171bb92?mod=mw_rss_topstories",
+            "summary": "The nation’s trade deficit in goods sank 17% in August to a two-year low. Businesses try to time imports and exports to pay the least amount of tariffs.",
+            "date": "Thu, 25 Sep 2025 13:03:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HRC=F",
+            "impact": "Bullish"
         }
     ]
 }
