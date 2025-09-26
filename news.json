@@ -1,83 +1,107 @@
 {
-    "date": "2025-09-25",
+    "date": "2025-09-26",
     "news": [
         {
-            "title": "Jobless claims tumble to 218,000, well below estimate despite fears of labor market weakness",
-            "link": "https://www.cnbc.com/2025/09/25/jobless-claims-tumble-to-218000-well-below-estimate-despite-fears-of-labor-market-weakness.html",
-            "summary": "Initial claims for unemployment insurance were expected to total 235,000 for the week ending Sept. 20, according to the Labor Department. The U.S. unemployment rate is currently at 4.7 percent.",
-            "date": "Thu, 25 Sep 2025 13:18:34 GMT",
+            "title": "Core inflation rate held at 2.9% in August, as expected, Fed’s gauge shows",
+            "link": "https://www.cnbc.com/2025/09/26/pce-inflation-august-2025.html",
+            "summary": "The personal consumption expenditures price index for August was expected to increase 2.9% from a year ago. The Personal Consumption Expenditure Price Index is a measure of inflation in the U.S.",
+            "date": "Fri, 26 Sep 2025 13:07:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JOBIESS-USD",
+            "stock_ticker": "CRWV",
             "impact": "Neutral"
         },
         {
-            "title": "Starbucks to close stores, lay off workers in $1 billion restructuring plan",
-            "link": "https://www.cnbc.com/2025/09/25/starbucks-restructuring-store-closures-layoffs.html",
-            "summary": "Starbucks announced a $1 billion restructuring plan Thursday. It involves closing some of its North American coffeehouses and laying off about 900 workers.",
-            "date": "Thu, 25 Sep 2025 12:50:58 GMT",
+            "title": "Shares of Paccar - Peterbilt and Kenworth owner - soar after Trump's heavy truck tariffs",
+            "link": "https://www.cnbc.com/2025/09/26/peterbilt-owner-paccar-jumps-after-trump-tariffs-on-heavy-trucks.html",
+            "summary": "Paccar's competitors can manufacture trucks cheaper in Mexico, analysts say. Trump's tariffs likely level the playing field, according to analysts.",
+            "date": "Fri, 26 Sep 2025 12:00:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SBUX",
+            "stock_ticker": "SOXL",
             "impact": "Neutral"
         },
         {
-            "title": "Trump OMB orders preparation for mass firings of federal workers if government shuts down",
-            "link": "https://www.cnbc.com/2025/09/25/trump-government-shutdown-layoffs-omb.html",
-            "summary": "The warning could ratchet up pressure on Congress to strike a deal to avert a government shutdown. The warning comes as the U.S. faces a possible government shutdown on Friday.",
-            "date": "Thu, 25 Sep 2025 13:15:43 GMT",
+            "title": "Accenture plans on 'exiting' staff who can't be reskilled on AI amid restructuring strategy",
+            "link": "https://www.cnbc.com/2025/09/26/accenture-plans-on-exiting-staff-who-cant-be-reskilled-on-ai.html",
+            "summary": "Accenture CEO Julie Sweet said as advanced AI becomes core to the company's strategy, employees are expected to \"retrain and retool\" at scale.",
+            "date": "Fri, 26 Sep 2025 11:56:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Disney investors say handling of Jimmy Kimmel suspension put politics over shareholders, demand records",
-            "link": "https://www.cnbc.com/2025/09/25/jimmy-kimmel-disney-investors-politics-fiduciary-duty.html",
-            "summary": "Disney investors seek board materials, communications and policies related to the suspension of \"Jimmy Kimmel Live!\" A group of Disney investors are seeking board materials and communications.",
-            "date": "Thu, 25 Sep 2025 12:43:18 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DIS",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Offshore driller Transocean plunges after offering shares at a discount",
-            "link": "https://www.cnbc.com/2025/09/25/offshore-driller-transocean-plunges-after-offering-shares-at-a-discount.html",
-            "summary": "Transocean has increased the size of the public offering, which closes Friday. Transocean: The public offering is expected to raise $1.2 billion.",
-            "date": "Thu, 25 Sep 2025 11:56:49 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WTI",
+            "stock_ticker": "ACN",
             "impact": "Neutral"
         },
         {
-            "title": "Jobless claims fall to lowest level since mid-July, easing concerns over labor market",
-            "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-july-easing-concern-over-labor-market-5721cdc6?mod=mw_rss_topstories",
-            "summary": ". Claims have been volatile in recent weeks. Claims are expected to rise again in the coming days and weeks. For confidential support call the Samaritans in the UK on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.",
-            "date": "Thu, 25 Sep 2025 13:23:00 GMT",
+            "title": "U.S. to impose 100% tariff on branded, patented drugs unless firms build plants locally, Trump says",
+            "link": "https://www.cnbc.com/2025/09/26/us-to-impose-100percent-tariff-on-branded-patented-drugs-unless-firms-build-plants-locally-trump-says.html",
+            "summary": "The measure will not apply to companies building drug manufacturing plants in the U.S., Trump said. The measure will also not apply for companies building medical devices in the United States.",
+            "date": "Fri, 26 Sep 2025 05:25:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JOBIESS-USD",
+            "stock_ticker": "HRC=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "China stays conspicuously quiet after Trump’s TikTok deal declaration",
+            "link": "https://www.cnbc.com/2025/09/26/china-stays-conspicuously-quiet-after-trumps-tiktok-deal-declaration-.html",
+            "summary": "U.S. President Donald Trump says that he’s received Beijing's nod on a deal that would see TikTok stay alive in the United States.",
+            "date": "Fri, 26 Sep 2025 09:52:38 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CHH=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Consumer spending is strong — and the U.S. economy is all right",
+            "link": "https://www.marketwatch.com/story/consumer-spending-is-strong-again-and-the-u-s-economy-is-all-right-357cc82f?mod=mw_rss_topstories",
+            "summary": "High tariffs, lingering inflation and more trouble finding a job apparently haven't been enough to throw consumers into funk. Americans increased spending again in August to help keep the U.S. economy chugging.",
+            "date": "Fri, 26 Sep 2025 12:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "XYT=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Are markets getting wary on AI spending? Here’s what billionaire hedge fund founder David Einhorn thinks.",
+            "link": "https://www.marketwatch.com/story/are-markets-getting-wary-on-ai-spending-heres-what-billionaire-hedge-fund-founder-david-einhorn-thinks-47b5d697?mod=mw_rss_topstories",
+            "summary": "More investors are starting to question the trillion dollar pledges to build AI infrastructure. More investors are Starting to Question the Trillion Dollar pledges to Build AI Infrastructure.",
+            "date": "Fri, 26 Sep 2025 12:37:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ARE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Inflation rises again, PCE shows, but not enough to alarm the Fed",
+            "link": "https://www.marketwatch.com/story/inflation-rises-again-pce-shows-but-not-enough-to-alarm-the-fed-d2c4e528?mod=mw_rss_topstories",
+            "summary": "Prices aren’t rising so fast as to postpone rate cuts, says the Bank of Canada. The central bank has cut interest rates to a record low of 1.5 per cent.",
+            "date": "Fri, 26 Sep 2025 12:33:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BPLBX",
             "impact": "Neutral"
         },
         {
             "title": "I’m 70 and have Alzheimer’s. My son’s girlfriend put $750 worth of lottery tickets on a credit card I gave him. What can I do?",
             "link": "https://www.marketwatch.com/story/im-70-and-have-alzheimers-my-sons-girlfriend-put-750-worth-of-lottery-tickets-on-a-credit-card-i-gave-him-what-can-i-do-3cedab85?mod=mw_rss_topstories",
             "summary": "“I contacted the credit-card company, but was advised they could not reimburse me for the theft,” she said. “I was advised that they could no longer reimburse me.”",
-            "date": "Thu, 25 Sep 2025 13:20:00 GMT",
+            "date": "Fri, 26 Sep 2025 12:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,40 +110,16 @@
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia’s stock can soar 35% more, Barclays says. Why AI spending estimates now seem less ‘outlandish.’",
-            "link": "https://www.marketwatch.com/story/nvidias-stock-can-soar-35-more-barclays-says-why-ai-spending-estimates-now-seem-less-outlandish-bd26c6c6?mod=mw_rss_topstories",
-            "summary": "Barclays analysts see the AI infrastructure market reaching $2 trillion and beyond. The wave of AI data-center announcements in recent months has Barclays feeling more positive about Nvidia and other AI chip names.",
-            "date": "Thu, 25 Sep 2025 13:13:00 GMT",
+            "title": "Fed’s Barkin upbeat on U.S. economic outlook despite rising inflation, slower job growth",
+            "link": "https://www.marketwatch.com/story/feds-barkin-upbeat-on-u-s-economic-outlook-despite-rising-inflation-slower-job-growth-a73edf99?mod=mw_rss_topstories",
+            "summary": "“The consumer is frankly exhausted,” Tom Barkin said Friday. “The consumers are frankly exhausted.” “It’s time for a change,’’ Barkin added.",
+            "date": "Fri, 26 Sep 2025 12:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VTI",
+            "stock_ticker": "ON",
             "impact": "Neutral"
-        },
-        {
-            "title": "Starbucks is cutting more jobs and closing stores as part of a $1 billion restructuring",
-            "link": "https://www.marketwatch.com/story/starbucks-is-cutting-more-jobs-and-closing-stores-as-part-of-a-1-billion-restructuring-44e81e99?mod=mw_rss_topstories",
-            "summary": "Most of the job cuts will be in non-retail positions, and many open positions will be closed. Starbucks is closing stores across the U.S. and Canada.",
-            "date": "Thu, 25 Sep 2025 13:12:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SBUX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. trade deficit sinks to 2-year low as businesses try to time orders to beat tariff price hikes",
-            "link": "https://www.marketwatch.com/story/u-s-trade-deficit-sinks-to-2-year-low-as-businesses-try-to-time-orders-to-beat-tariff-price-hikes-8171bb92?mod=mw_rss_topstories",
-            "summary": "The nation’s trade deficit in goods sank 17% in August to a two-year low. Businesses try to time imports and exports to pay the least amount of tariffs.",
-            "date": "Thu, 25 Sep 2025 13:03:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Bullish"
         }
     ]
 }
