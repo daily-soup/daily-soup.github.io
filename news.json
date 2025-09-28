@@ -1,41 +1,53 @@
 {
-    "date": "2025-09-27",
+    "date": "2025-09-28",
     "news": [
         {
-            "title": "How a 'nudify' site turned a group of friends into key figures in a fight against AI-generated porn",
-            "link": "https://www.cnbc.com/2025/09/27/nudify-ai-generated-deepfake-fbi.html",
-            "summary": "A group of friends in Minnesota last year learned that a man they knew had used their social media photos to create pornographic deepfakes. The man used the photos to make a pornographic image of himself.",
-            "date": "Sat, 27 Sep 2025 12:00:01 GMT",
+            "title": "A look at OpenAI's tangled web of dealmaking",
+            "link": "https://www.cnbc.com/2025/09/28/a-look-at-openais-tangled-web-of-dealmaking.html",
+            "summary": "OpenAI's Sam Altman has put himself in the center of the tech universe through a series of mammoth deals. Altman is the founder and CEO of the AI company.",
+            "date": "Sun, 28 Sep 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "A",
+            "impact": "Neutral"
+        },
+        {
+            "title": "5 takeaways from CNBC’s investigation into 'nudify' apps and sites",
+            "link": "https://www.cnbc.com/2025/09/28/5-takeaways-from-cnbcs-investigation-into-nudify-apps-and-sites.html",
+            "summary": "CNBC investigated \"nudify\" apps and how a group of friends became key figures in the fight against nonconsensual, AI-generated porn.",
+            "date": "Sun, 28 Sep 2025 13:15:58 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "YM=F",
             "impact": "Bullish"
         },
         {
-            "title": "Here's what to know about a federal government shutdown",
-            "link": "https://www.cnbc.com/2025/09/26/government-shutdown-jobs-economy-trump.html",
-            "summary": "The government previously shut down during President Donald Trump's first term over disputes about funding his planned U.S.-Mexico border wall. The government also shut down over disputes over funding during President Barack Obama's second term.",
-            "date": "Sat, 27 Sep 2025 03:23:09 GMT",
+            "title": "A Universal-DreamWorks movie is bringing the winning formula of kids content frenzy to the big screen",
+            "link": "https://www.cnbc.com/2025/09/28/gabbys-dollhouse-movie-kid-content-frenzy.html",
+            "summary": "\"Gabby's Dollhouse: The Movie\" hits theaters this weekend. Universal and Dreamworks Animation seek to expand the franchise. The movie is the latest installment in the \"Dollhouse\" series.",
+            "date": "Sun, 28 Sep 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WAT-P.V",
-            "impact": "Bearish"
+            "stock_ticker": "A",
+            "impact": "Neutral"
         },
         {
-            "title": "Trump calls for the firing of Lisa Monaco, Microsoft president of global affairs",
-            "link": "https://www.cnbc.com/2025/09/26/trump-calls-for-the-firing-of-lisa-monaco-microsoft-president-of-global-affairs.html",
-            "summary": "Maria Bartiromo brought up Monaco's position at Microsoft during her show. Monaco was appointed to the position in July. The appointment was announced by Microsoft CEO Satya Nadella.",
-            "date": "Fri, 26 Sep 2025 23:21:16 GMT",
+            "title": "Trump is wielding the power of the state to back critical mineral companies. These are the possible next targets",
+            "link": "https://www.cnbc.com/2025/09/28/mp-materials-lithium-americas-lac-rare-earth-trump-stake.html",
+            "summary": "Pentagon deal with MP Materials could provide a blueprint to protect U.S miners against market manipulation by China, executives and analysts say.",
+            "date": "Sun, 28 Sep 2025 11:45:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Bullish"
+            "impact": "Neutral"
         },
         {
             "title": "'Seconds count': Avoiding airplane collisions at airports could come down to cockpit alerts",
@@ -50,75 +62,63 @@
             "impact": "Neutral"
         },
         {
-            "title": "Markets won't care if Trump fires Fed Governor Cook, DOJ tells Supreme Court",
-            "link": "https://www.cnbc.com/2025/09/26/trump-fed-cook-scotus-markets.html",
-            "summary": "Gov. Lisa Cook has urged the Supreme Court not to let President Donald Trump's attempt to fire her take effect while her lawsuit against him plays out.",
-            "date": "Fri, 26 Sep 2025 20:26:07 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MME=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "I inherited $600K in Apple stock. It now makes up 50% of my portfolio. Is that too risky?",
-            "link": "https://www.marketwatch.com/story/my-mother-left-me-600k-in-apple-shares-they-are-50-of-my-portfolio-am-i-crazy-if-i-dont-diversify-a6643a81?mod=mw_rss_topstories",
-            "summary": "“I worry that a downturn in the tech sector, or something Apple-specific, could wipe out half my portfolio,” he says.",
-            "date": "Sat, 27 Sep 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KDK",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Recession seems far off — that’s the good news. Yet the economy is also far from trouble-free.",
-            "link": "https://www.marketwatch.com/story/recession-seems-far-off-thats-the-good-news-yet-the-economy-is-also-far-from-trouble-free-5c782803?mod=mw_rss_topstories",
-            "summary": "The U.S. Federal Reserve cut interest rates last week. The news isn't all that bad, according to the central bank. The economy is still in good shape, however.",
-            "date": "Sat, 27 Sep 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DE000SLA7TR2.SG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Want to invest in gold? Here’s how to plan for — or even avoid — the potential tax headaches",
-            "link": "https://www.marketwatch.com/story/want-to-invest-in-gold-heres-how-to-plan-for-or-even-avoid-the-potential-tax-headaches-f09c1230?mod=mw_rss_topstories",
-            "summary": "Gold isn’t taxed the same way as other investments. Gold is not subject to the same tax rates as other types of investments.",
-            "date": "Sat, 27 Sep 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WANT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The AI trade increasingly hinges on OpenAI — and that’s a big risk for the entire market",
-            "link": "https://www.marketwatch.com/story/the-ai-trade-increasingly-hinges-on-openai-and-thats-a-big-risk-for-the-entire-market-aef0cf3c?mod=mw_rss_topstories",
-            "summary": "Wall Street pro's advice as AI spurs a wave of debt offerings and consumer backlash. “Be careful.” that’s one Wall Street pro’S advice.",
-            "date": "Sat, 27 Sep 2025 12:22:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m retiring at 63 with $1.5 million saved. Is 70/30 equities/bonds too risky?",
-            "link": "https://www.marketwatch.com/story/ive-received-conflicting-advice-im-retiring-at-63-with-1-5-million-saved-is-70-30-equities-bonds-too-risky-80b27ef2?mod=mw_rss_topstories",
-            "summary": "“My spouse and I have a combined $5,500 in monthly Social Security payments and a $2,900-a-month pension.”",
-            "date": "Sat, 27 Sep 2025 12:00:00 GMT",
+            "title": "I’m in my 60s and disabled. Should I spend down my assets to qualify for Medicaid?",
+            "link": "https://www.marketwatch.com/story/i-changed-my-will-to-deter-vultures-im-in-my-60s-and-disabled-do-i-spend-down-my-assets-to-qualify-for-medicaid-bcf3210d?mod=mw_rss_topstories",
+            "summary": "“I was born in a time when the elderly and disabled were hidden away in back bedrooms and institutions,” she says. “I’m proud to be a part of a movement that’s changing the way the world looks at the elderly, the disabled and the sick.”",
+            "date": "Sun, 28 Sep 2025 12:26:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BMNR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m 70 and have Alzheimer’s. My son’s girlfriend put $750 worth of lottery tickets on a credit card I gave him. What can I do?",
+            "link": "https://www.marketwatch.com/story/im-70-and-have-alzheimers-my-sons-girlfriend-put-750-worth-of-lottery-tickets-on-a-credit-card-i-gave-him-what-can-i-do-3cedab85?mod=mw_rss_topstories",
+            "summary": "“I contacted the credit-card company, but was advised they could not reimburse me for the theft,” she said. “I was advised that they could no longer reimburse me.”",
+            "date": "Sun, 28 Sep 2025 11:45:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BMNR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My wife and I are in our 40s. We have a $600K mortgage and $500K annual income. Can we afford a vacation home?",
+            "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-40s-we-have-a-600k-mortgage-and-500k-annual-income-can-we-afford-a-vacation-home-d4b3c479?mod=mw_rss_topstories",
+            "summary": "“We plan to work another 20 years and we estimate $3-$4 million in 401(k) savings,” he says.",
+            "date": "Sun, 28 Sep 2025 11:38:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AUDMYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I thought she was honest’: My ex-wife hid stocks during our divorce. Can I sue her?",
+            "link": "https://www.marketwatch.com/story/i-thought-she-was-honest-my-ex-wife-hid-her-stocks-during-our-divorce-can-i-sue-her-e75cab43?mod=mw_rss_topstories",
+            "summary": "“I have contacted her about it, but she refuses to answer my calls,” he says. “I’ve contacted her and she won’t answer.”",
+            "date": "Sun, 28 Sep 2025 10:49:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KOYNW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My former mother-in-law left a $1 million estate. Can I sue my ex-husband for a share of it?",
+            "link": "https://www.marketwatch.com/story/is-it-fair-that-my-ex-husbands-greedy-wife-inherits-part-of-his-parents-1-million-fortune-cae7a527?mod=mw_rss_topstories",
+            "summary": "“My mother-in-law did not leave me anything in her will, but she should have,” he says. “My father-in law did not give me any money.” “She should have left me some money,’ he adds.",
+            "date": "Sat, 27 Sep 2025 20:06:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AUDMYR=X",
             "impact": "Neutral"
         }
     ]
