@@ -1,6 +1,30 @@
 {
-    "date": "2025-10-04",
+    "date": "2025-10-05",
     "news": [
+        {
+            "title": "Investors aren't the market's biggest loser if Trump, SEC end quarterly reporting",
+            "link": "https://www.cnbc.com/2025/10/05/trump-sec-quarterly-earnings-reports-accounting-firms.html",
+            "summary": "The SEC may end the requirement for companies to report results quarterly. The 'Big Four' accounting firms, KPMG, Deloitte, PwC and EY, have a lot to lose.",
+            "date": "Sun, 05 Oct 2025 13:06:30 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "OHI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This Meta alum has spent 10 months leading OpenAI's nationwide hunt for its Stargate data centers",
+            "link": "https://www.cnbc.com/2025/10/05/openai-stargate-data-center-buildout-infrastructure-lead-keith-heyde.html",
+            "summary": "OpenAI is building a massive industrial base to power the future of artificial intelligence. The company is led by Keith Heyde, founder and CEO of tech firm OpenAI.",
+            "date": "Sun, 05 Oct 2025 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "THISX",
+            "impact": "Neutral"
+        },
         {
             "title": "AI Sam Altman and the Sora copyright gamble: 'I hope Nintendo doesn't sue us'",
             "link": "https://www.cnbc.com/2025/10/04/sora-openai-video-app.html",
@@ -26,99 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "The shutdown meant no jobs report. Here's what it would have said about the economy",
-            "link": "https://www.cnbc.com/2025/10/03/shutdown-jobs-report-economy.html",
-            "summary": "Other reports suggest the labor market just plodded along in September. While the BLS has gone dark with the shutdown, other reports suggest it was a good month.",
-            "date": "Fri, 03 Oct 2025 19:06:19 GMT",
+            "title": "Biggest Trump tax cut benefits for small business owners to keep more income on Main Street",
+            "link": "https://www.cnbc.com/2025/10/05/trump-tax-cuts-lower-irs-bill-small-business-income.html",
+            "summary": "President Trump's One Big Beautiful Bill provides small businesses with significant opportunities for bottom-line savings on income tax bills. Small businesses can save up to $10,000 a year on their tax bills under the bill.",
+            "date": "Sun, 05 Oct 2025 12:59:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Inside the uranium plant at the center of U.S. plans to expand nuclear power",
-            "link": "https://www.cnbc.com/2025/10/04/urenco-centrus-orano-enriched-uranium-nuclear-russia-ai-data-center.html",
-            "summary": "Urenco operates the only uranium enrichment plant in the U.S. It is boosting production as the United States bans Russian fuel at the same time nuclear demand grows.",
-            "date": "Sat, 04 Oct 2025 12:40:09 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DBUYX",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Activist Irenic builds a stake in Workiva, hoping to gain a voice on the software company's board",
-            "link": "https://www.cnbc.com/2025/10/04/activist-irenic-builds-a-stake-in-workiva-hoping-to-gain-two-board-seats.html",
-            "summary": "Activist investor is calling on Workiva to review strategic alternatives and refresh its board. The company has been posting losses for years. Workiva says it is reviewing its strategic alternatives.",
-            "date": "Sat, 04 Oct 2025 12:43:47 GMT",
+            "title": "I’m holding my $400K life savings in cash because I’m worried about a stock-market crash. Do I dare invest?",
+            "link": "https://www.marketwatch.com/story/im-44-i-have-400k-in-cash-plus-rental-properties-in-dubai-im-worried-about-a-stock-market-crash-do-i-dare-invest-8f76c9e4?mod=mw_rss_topstories",
+            "summary": "“I’m 44. I have been retired for three years now,” says the 44-year-old. “I have to take a break now.”",
+            "date": "Sun, 05 Oct 2025 13:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ACTV",
+            "stock_ticker": "BMNR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I don’t come from money’: I received $1.2 million after a family tragedy. Am I foolish to keep it in a money-market account?",
+            "link": "https://www.marketwatch.com/story/i-inherited-1-2-million-after-a-tragedy-in-my-family-my-low-money-market-interest-rate-is-ending-what-now-2f8308b6?mod=mw_rss_topstories",
+            "summary": "“Having a large sum just sitting there freaks me out,” he says. “Having that large sum in my bank account is a bit of a shock.”",
+            "date": "Sun, 05 Oct 2025 13:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSLA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘My monthly expenses are $6,500’: I’m 64, have $1.2 million in a 401(k) and two mortgages. Can I afford to retire?",
+            "link": "https://www.marketwatch.com/story/im-64-have-1-2-million-in-a-401-k-and-two-mortgages-can-i-afford-to-retire-27b8879d?mod=mw_rss_topstories",
+            "summary": "“I want to retire next year,” he says. “I’ve been doing this for a long time.”",
+            "date": "Sun, 05 Oct 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I don’t wish to be petty’: My mom, 94, is leaving her $1 million estate to me, my brother and his daughter. Is that fair?",
+            "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-petty-my-mom-94-is-leaving-her-1-million-estate-to-me-my-brother-and-his-daughter-is-that-fair-415aa987?mod=mw_rss_topstories",
+            "summary": "“My share of the home alone would be valued at $300K per the trust. If she distributes the funds three ways, my share becomes $200K,” he said.",
+            "date": "Sun, 05 Oct 2025 11:04:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSLA",
             "impact": "Neutral"
         },
         {
             "title": "‘He thinks nothing of spending $40K on a new car’: My husband gives me the silent treatment. How can we agree on finances?",
             "link": "https://www.marketwatch.com/story/he-thinks-nothing-of-spending-40k-on-a-new-car-my-husband-gives-me-the-silent-treatment-how-can-we-agree-on-finances-16a040e5?mod=mw_rss_topstories",
             "summary": "“I’m looking for a financial planner, marriage counselor and, possibly, a divorce attorney,” the woman says.",
-            "date": "Sat, 04 Oct 2025 13:00:00 GMT",
+            "date": "Sun, 05 Oct 2025 11:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "HE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Are we in a recession? Yes — if you live in one of these 22 states.",
-            "link": "https://www.marketwatch.com/story/are-we-in-a-reccession-yes-if-you-live-in-one-of-these-22-states-3947b4cd?mod=mw_rss_topstories",
-            "summary": "The U.S. economy is very close to falling into a damaging contraction. Many states are already in a recession, says Mark Zandi, chief economist at Moody’s Analytics.",
-            "date": "Sat, 04 Oct 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ARE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Think AI is a bubble? Here’s what you can do about it.",
-            "link": "https://www.marketwatch.com/story/think-ai-is-a-bubble-heres-what-you-can-do-about-it-2793426f?mod=mw_rss_topstories",
-            "summary": "The “easy money’ in the AI trade has already been made. These three strategies can help you protect your portfolio and reduce risk.",
-            "date": "Sat, 04 Oct 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "603789.SS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How to make money from tax-loss selling between now and the end of the year",
-            "link": "https://www.marketwatch.com/story/how-to-make-money-from-tax-loss-selling-between-now-and-the-end-of-the-year-559edfab?mod=mw_rss_topstories",
-            "summary": "The biggest year-to-date losers will likely fall even more in coming weeks — and become good bounce-back candidates. The biggest losers in the U.S. stock market have lost more than $1 billion this year.",
-            "date": "Sat, 04 Oct 2025 11:02:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This stock and bond strategy is so disliked — and it’s probably your best investment move for the next 10 years",
-            "link": "https://www.marketwatch.com/story/this-stock-and-bond-strategy-is-so-disliked-and-its-probably-your-best-investment-move-for-the-next-10-years-3759fdf2?mod=mw_rss_topstories",
-            "summary": "In the past, when the market was overvalued as it is now, a 60/40 portfolio almost always beat the S&amp;P 500 over the subsequent decade.",
-            "date": "Sat, 04 Oct 2025 10:57:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "S2819.MC",
             "impact": "Neutral"
         }
     ]
