@@ -1,124 +1,124 @@
 {
-    "date": "2025-10-05",
+    "date": "2025-10-06",
     "news": [
         {
-            "title": "Investors aren't the market's biggest loser if Trump, SEC end quarterly reporting",
-            "link": "https://www.cnbc.com/2025/10/05/trump-sec-quarterly-earnings-reports-accounting-firms.html",
-            "summary": "The SEC may end the requirement for companies to report results quarterly. The 'Big Four' accounting firms, KPMG, Deloitte, PwC and EY, have a lot to lose.",
-            "date": "Sun, 05 Oct 2025 13:06:30 GMT",
+            "title": "AMD stock skyrockets 35% as OpenAI looks to take stake in AI chipmaker",
+            "link": "https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html",
+            "summary": "OpenAI will deploy up to 6 gigawatts of AMD Instinct GPUs over multiple years, beginning with a 1-gigawatt rollout in 2026.",
+            "date": "Mon, 06 Oct 2025 12:26:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OHI",
-            "impact": "Neutral"
+            "stock_ticker": "AMD",
+            "impact": "Bullish"
         },
         {
-            "title": "This Meta alum has spent 10 months leading OpenAI's nationwide hunt for its Stargate data centers",
-            "link": "https://www.cnbc.com/2025/10/05/openai-stargate-data-center-buildout-infrastructure-lead-keith-heyde.html",
-            "summary": "OpenAI is building a massive industrial base to power the future of artificial intelligence. The company is led by Keith Heyde, founder and CEO of tech firm OpenAI.",
-            "date": "Sun, 05 Oct 2025 12:00:01 GMT",
+            "title": "Paul Tudor Jones says ingredients are in place for massive rally before a 'blow off' top to bull market",
+            "link": "https://www.cnbc.com/2025/10/06/paul-tudor-jones-says-ingredients-are-in-place-for-massive-rally-before-a-blow-off-top-to-bull-market.html",
+            "summary": "Paul Tudor Jones said today's market is reminiscent of the setup leading up to the burst of the dotcom bubble in late 1999. He said the current market setup is similar to the setup that led to the dot-com bubble.",
+            "date": "Mon, 06 Oct 2025 13:23:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
-            "impact": "Neutral"
+            "stock_ticker": "SBS",
+            "impact": "Bullish"
         },
         {
-            "title": "AI Sam Altman and the Sora copyright gamble: 'I hope Nintendo doesn't sue us'",
-            "link": "https://www.cnbc.com/2025/10/04/sora-openai-video-app.html",
-            "summary": "CNBC has seen videos of characters from shows like \"SpongeBob SquarePants\" on the platform. CNBC was able to independently generate other characters.",
-            "date": "Sat, 04 Oct 2025 12:00:01 GMT",
+            "title": "Treasury Secretary Bessent to remain as IRS commissioner after filling role on temporary basis, sources say",
+            "link": "https://www.cnbc.com/2025/10/06/bessent-to-remain-irs-commissioner-for-trump.html",
+            "summary": "Treasury Secretary Scott Bessent will remain in his role as IRS commissioner. A new official is to be announced as his top deputy.",
+            "date": "Mon, 06 Oct 2025 13:16:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "ZF=F",
             "impact": "Neutral"
         },
         {
-            "title": "Warren Buffett Watch: His last big deal as Berkshire CEO before Abel takes over?",
-            "link": "https://www.cnbc.com/2025/10/04/warren-buffett-watch-his-last-big-deal-as-berkshire-ceo-before-abel-takes-over.html",
-            "summary": "Berkshire Hathaway has a deal to pay $9.7 billion in cash to buy OxyChem. OxyChem is Occidental Petroleum's chemical business.",
-            "date": "Sat, 04 Oct 2025 12:33:26 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PWR.AX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Biggest Trump tax cut benefits for small business owners to keep more income on Main Street",
-            "link": "https://www.cnbc.com/2025/10/05/trump-tax-cuts-lower-irs-bill-small-business-income.html",
-            "summary": "President Trump's One Big Beautiful Bill provides small businesses with significant opportunities for bottom-line savings on income tax bills. Small businesses can save up to $10,000 a year on their tax bills under the bill.",
-            "date": "Sun, 05 Oct 2025 12:59:49 GMT",
+            "title": "Trump could 'start taking sharp measures' if next government funding bills fail: Hassett",
+            "link": "https://www.cnbc.com/2025/10/06/government-shutdown-trump-hassett-vought.html",
+            "summary": "The Trump administration has warned that the shutdown will lead to federal employees getting laid off, rather than merely furloughed. The shutdown is now in its third week.",
+            "date": "Mon, 06 Oct 2025 13:20:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Neutral"
+            "impact": "Bearish"
         },
         {
-            "title": "I’m holding my $400K life savings in cash because I’m worried about a stock-market crash. Do I dare invest?",
-            "link": "https://www.marketwatch.com/story/im-44-i-have-400k-in-cash-plus-rental-properties-in-dubai-im-worried-about-a-stock-market-crash-do-i-dare-invest-8f76c9e4?mod=mw_rss_topstories",
-            "summary": "“I’m 44. I have been retired for three years now,” says the 44-year-old. “I have to take a break now.”",
-            "date": "Sun, 05 Oct 2025 13:12:00 GMT",
+            "title": "Verizon names former PayPal boss Dan Schulman as new CEO, replacing Hans Vestberg",
+            "link": "https://www.cnbc.com/2025/10/06/verizon-ceo-dan-schulman-replaces-hans-vestberg.html",
+            "summary": "Verizon names former PayPal CEO Dan Schulman as the company's new CEO. He replaces Hans Vestberg, who has been with the company for more than a decade.",
+            "date": "Mon, 06 Oct 2025 13:14:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "VZ",
             "impact": "Neutral"
         },
         {
-            "title": "‘I don’t come from money’: I received $1.2 million after a family tragedy. Am I foolish to keep it in a money-market account?",
-            "link": "https://www.marketwatch.com/story/i-inherited-1-2-million-after-a-tragedy-in-my-family-my-low-money-market-interest-rate-is-ending-what-now-2f8308b6?mod=mw_rss_topstories",
-            "summary": "“Having a large sum just sitting there freaks me out,” he says. “Having that large sum in my bank account is a bit of a shock.”",
-            "date": "Sun, 05 Oct 2025 13:05:00 GMT",
+            "title": "Firefly is beefing up its national security story, and the stock is soaring",
+            "link": "https://www.marketwatch.com/story/firefly-is-beefing-up-its-national-security-story-and-the-stock-is-soaring-2675f448?mod=mw_rss_topstories",
+            "summary": " Firefly’s deal to acquire SciTech will bolster its efforts to support President Trump's “Golden Dome” missile-defense shield.",
+            "date": "Mon, 06 Oct 2025 12:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSLA",
-            "impact": "Neutral"
+            "stock_ticker": "FLY",
+            "impact": "Bullish"
         },
         {
-            "title": "‘My monthly expenses are $6,500’: I’m 64, have $1.2 million in a 401(k) and two mortgages. Can I afford to retire?",
-            "link": "https://www.marketwatch.com/story/im-64-have-1-2-million-in-a-401-k-and-two-mortgages-can-i-afford-to-retire-27b8879d?mod=mw_rss_topstories",
-            "summary": "“I want to retire next year,” he says. “I’ve been doing this for a long time.”",
-            "date": "Sun, 05 Oct 2025 12:30:00 GMT",
+            "title": "AMD’s stock soars 25%. Here’s why OpenAI wants a stake.",
+            "link": "https://www.marketwatch.com/story/amds-stock-soars-25-heres-why-openai-wants-a-stake-in-it-7958979b?mod=mw_rss_topstories",
+            "summary": "OpenAI issued a warrant to purchase up to 160 million AMD shares. AMD got a big endorsement in the form of a multiyear chip deal with OpenAI.",
+            "date": "Mon, 06 Oct 2025 12:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
+            "stock_ticker": "AMDS.L",
+            "impact": "Bullish"
         },
         {
-            "title": "‘I don’t wish to be petty’: My mom, 94, is leaving her $1 million estate to me, my brother and his daughter. Is that fair?",
-            "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-petty-my-mom-94-is-leaving-her-1-million-estate-to-me-my-brother-and-his-daughter-is-that-fair-415aa987?mod=mw_rss_topstories",
-            "summary": "“My share of the home alone would be valued at $300K per the trust. If she distributes the funds three ways, my share becomes $200K,” he said.",
-            "date": "Sun, 05 Oct 2025 11:04:00 GMT",
+            "title": "Never mind France — it’s time to buy European stocks again, says JPMorgan",
+            "link": "https://www.marketwatch.com/story/never-mind-france-its-time-to-buy-european-stocks-again-says-jpmorgan-423f011f?mod=mw_rss_topstories",
+            "summary": "JPMorgan books profits on Japan and recommends recycling those gains into Eurozone stocks. JPMorgan books profits in Japan, recommends recycling them into Euro zone stocks.",
+            "date": "Mon, 06 Oct 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSLA",
+            "stock_ticker": "0P0001NRNX.SA",
             "impact": "Neutral"
         },
         {
-            "title": "‘He thinks nothing of spending $40K on a new car’: My husband gives me the silent treatment. How can we agree on finances?",
-            "link": "https://www.marketwatch.com/story/he-thinks-nothing-of-spending-40k-on-a-new-car-my-husband-gives-me-the-silent-treatment-how-can-we-agree-on-finances-16a040e5?mod=mw_rss_topstories",
-            "summary": "“I’m looking for a financial planner, marriage counselor and, possibly, a divorce attorney,” the woman says.",
-            "date": "Sun, 05 Oct 2025 11:03:00 GMT",
+            "title": "Fifth Third paying $10.9 billion for Comerica as wave of bank mergers builds",
+            "link": "https://www.marketwatch.com/story/fifth-third-paying-10-9-billion-for-comerica-as-wave-of-bank-mergers-builds-4079bf46?mod=mw_rss_topstories",
+            "summary": "Fifth Third and Fifth Third will operate in some of the fastest-growing areas of the country such as Texas. Fifth Third said combined company will operate.",
+            "date": "Mon, 06 Oct 2025 12:26:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HE",
+            "stock_ticker": "FITB",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Micron’s stock has doubled this year. Why Morgan Stanley is finally upgrading it.",
+            "link": "https://www.marketwatch.com/story/microns-stock-has-doubled-this-year-why-morgan-stanley-is-finally-upgrading-it-0f9dcd3a?mod=mw_rss_topstories",
+            "summary": "Morgan Stanley analyst says booming memory prices could drive “substantially higher earnings power” for Micron. “Better late than never,” he says.",
+            "date": "Mon, 06 Oct 2025 12:24:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "20MICRONS.NS",
             "impact": "Neutral"
         }
     ]
