@@ -1,124 +1,124 @@
 {
-    "date": "2025-10-06",
+    "date": "2025-10-07",
     "news": [
         {
-            "title": "AMD stock skyrockets 35% as OpenAI looks to take stake in AI chipmaker",
-            "link": "https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html",
-            "summary": "OpenAI will deploy up to 6 gigawatts of AMD Instinct GPUs over multiple years, beginning with a 1-gigawatt rollout in 2026.",
-            "date": "Mon, 06 Oct 2025 12:26:07 GMT",
+            "title": "The shutdown meant no jobs report. Carlyle's analysis shows it would have been pretty bad",
+            "link": "https://www.cnbc.com/2025/10/07/the-shutdown-meant-no-jobs-report-carlyles-analysis-shows-it-would-have-been-pretty-bad.html",
+            "summary": "Job growth of just 17,000 from the month, which would be even less than the 22,000 gain in August. The firm said its proprietary data showed job growth of 17,00 in September.",
+            "date": "Tue, 07 Oct 2025 12:56:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMD",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Paul Tudor Jones says ingredients are in place for massive rally before a 'blow off' top to bull market",
-            "link": "https://www.cnbc.com/2025/10/06/paul-tudor-jones-says-ingredients-are-in-place-for-massive-rally-before-a-blow-off-top-to-bull-market.html",
-            "summary": "Paul Tudor Jones said today's market is reminiscent of the setup leading up to the burst of the dotcom bubble in late 1999. He said the current market setup is similar to the setup that led to the dot-com bubble.",
-            "date": "Mon, 06 Oct 2025 13:23:14 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SBS",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Treasury Secretary Bessent to remain as IRS commissioner after filling role on temporary basis, sources say",
-            "link": "https://www.cnbc.com/2025/10/06/bessent-to-remain-irs-commissioner-for-trump.html",
-            "summary": "Treasury Secretary Scott Bessent will remain in his role as IRS commissioner. A new official is to be announced as his top deputy.",
-            "date": "Mon, 06 Oct 2025 13:16:35 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZF=F",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "Trump could 'start taking sharp measures' if next government funding bills fail: Hassett",
-            "link": "https://www.cnbc.com/2025/10/06/government-shutdown-trump-hassett-vought.html",
-            "summary": "The Trump administration has warned that the shutdown will lead to federal employees getting laid off, rather than merely furloughed. The shutdown is now in its third week.",
-            "date": "Mon, 06 Oct 2025 13:20:41 GMT",
+            "title": "The price of gold reached $4,000 an ounce for the first time ever",
+            "link": "https://www.cnbc.com/2025/10/07/gold-4000-record.html",
+            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
+            "date": "Tue, 07 Oct 2025 13:23:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "WTO hikes global trade forecast for 2025 — but next year doesn't look so good",
+            "link": "https://www.cnbc.com/2025/10/07/wto-hikes-global-trade-forecast-for-2025-slowdown-expected-in-2026-.html",
+            "summary": "Global trade volumes rose sharply in the first half of 2025. Businesses front-loaded imports ahead of higher tariffs, says the World Trade Organisation.",
+            "date": "Tue, 07 Oct 2025 13:05:05 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WTO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trilogy Metals shares soar over 250% in premarket after U.S. takes stake in minerals explorer",
+            "link": "https://www.cnbc.com/2025/10/07/trilogy-metals-shares-surge-after-us-takes-stake-in-minerals-firm.html",
+            "summary": "The stock was seen trading up 248% in premarket deals at 1:09 p.m. London time (8:09 a.M. ET)",
+            "date": "Tue, 07 Oct 2025 12:39:21 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TMQ",
+            "impact": "Bullish"
+        },
+        {
+            "title": "NYSE-owner Intercontinental Exchange rises after it takes $2 billion stake in Polymarket",
+            "link": "https://www.cnbc.com/2025/10/07/nyse-owner-intercontinental-exchange-2-billion-polymarket-stake.html",
+            "summary": "Intercontinental Exchange rose more than 3% in the premarket. The company announced it took a $2 billion stake in prediction markets platform Polymarket.",
+            "date": "Tue, 07 Oct 2025 13:15:55 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ICE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "NYSE owner dives into prediction markets with $2 billion Polymarket investment",
+            "link": "https://www.marketwatch.com/story/nyse-owner-dives-into-prediction-markets-with-2-billion-polymarket-investment-db34302b?mod=mw_rss_topstories",
+            "summary": "Intercontinental Exchange to invest up to $2 billion in Polymarket. Polymarket is a prediction-market company founded by Shayne Coplan.",
+            "date": "Tue, 07 Oct 2025 13:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^NYA",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Carlyle, Bank of America use their own data to say U.S. jobs growth has slowed to trickle",
+            "link": "https://www.marketwatch.com/story/carlyle-bank-of-america-are-latest-to-use-their-own-data-to-say-u-s-jobs-growth-has-slowed-to-trickle-9e05623f?mod=mw_rss_topstories",
+            "summary": "Carlyle’s estimate comes in the middle of other numbers being released in an attempt to fill a gap left due to the government shutdown.",
+            "date": "Tue, 07 Oct 2025 12:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CG",
             "impact": "Bearish"
         },
         {
-            "title": "Verizon names former PayPal boss Dan Schulman as new CEO, replacing Hans Vestberg",
-            "link": "https://www.cnbc.com/2025/10/06/verizon-ceo-dan-schulman-replaces-hans-vestberg.html",
-            "summary": "Verizon names former PayPal CEO Dan Schulman as the company's new CEO. He replaces Hans Vestberg, who has been with the company for more than a decade.",
-            "date": "Mon, 06 Oct 2025 13:14:01 GMT",
+            "title": "Billionaire Ken Griffin warns on gold’s rally as Goldman targets nearly $5,000",
+            "link": "https://www.marketwatch.com/story/billionaire-ken-griffin-warns-on-golds-rally-as-goldman-targets-nearly-5-000-857edd74?mod=mw_rss_topstories",
+            "summary": "Goldman Sachs is now forecasting gold to reach nearly $5,000 next year. One billionaire investor says the precious metal’s rally is a sign of trouble for U.S. assets.",
+            "date": "Tue, 07 Oct 2025 12:35:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VZ",
+            "stock_ticker": "DE000SL0AUC8.SG",
             "impact": "Neutral"
         },
         {
-            "title": "Firefly is beefing up its national security story, and the stock is soaring",
-            "link": "https://www.marketwatch.com/story/firefly-is-beefing-up-its-national-security-story-and-the-stock-is-soaring-2675f448?mod=mw_rss_topstories",
-            "summary": " Firefly’s deal to acquire SciTech will bolster its efforts to support President Trump's “Golden Dome” missile-defense shield.",
-            "date": "Mon, 06 Oct 2025 12:38:00 GMT",
+            "title": "IBM gets in on the AI-deal action with Anthropic partnership, and its stock is rising",
+            "link": "https://www.marketwatch.com/story/ibm-gets-in-on-the-ai-deal-action-with-anthropic-partnership-and-its-stock-is-rising-98aacc11?mod=mw_rss_topstories",
+            "summary": "The partnership integrates Anthropic’s Claude into enterprise products and development tools to drive productivity gains. The partnership is a collaboration between Anthropic and IBM.",
+            "date": "Tue, 07 Oct 2025 12:23:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FLY",
-            "impact": "Bullish"
-        },
-        {
-            "title": "AMD’s stock soars 25%. Here’s why OpenAI wants a stake.",
-            "link": "https://www.marketwatch.com/story/amds-stock-soars-25-heres-why-openai-wants-a-stake-in-it-7958979b?mod=mw_rss_topstories",
-            "summary": "OpenAI issued a warrant to purchase up to 160 million AMD shares. AMD got a big endorsement in the form of a multiyear chip deal with OpenAI.",
-            "date": "Mon, 06 Oct 2025 12:33:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AMDS.L",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Never mind France — it’s time to buy European stocks again, says JPMorgan",
-            "link": "https://www.marketwatch.com/story/never-mind-france-its-time-to-buy-european-stocks-again-says-jpmorgan-423f011f?mod=mw_rss_topstories",
-            "summary": "JPMorgan books profits on Japan and recommends recycling those gains into Eurozone stocks. JPMorgan books profits in Japan, recommends recycling them into Euro zone stocks.",
-            "date": "Mon, 06 Oct 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001NRNX.SA",
+            "stock_ticker": "IBM",
             "impact": "Neutral"
         },
         {
-            "title": "Fifth Third paying $10.9 billion for Comerica as wave of bank mergers builds",
-            "link": "https://www.marketwatch.com/story/fifth-third-paying-10-9-billion-for-comerica-as-wave-of-bank-mergers-builds-4079bf46?mod=mw_rss_topstories",
-            "summary": "Fifth Third and Fifth Third will operate in some of the fastest-growing areas of the country such as Texas. Fifth Third said combined company will operate.",
-            "date": "Mon, 06 Oct 2025 12:26:00 GMT",
+            "title": "Gold’s rallying on borrowed time. That could mean contrarians get the last laugh.",
+            "link": "https://www.marketwatch.com/story/golds-rallying-on-borrowed-time-that-could-mean-contrarians-get-the-last-laugh-b70ae360?mod=mw_rss_topstories",
+            "summary": "The metal can’t rise forever in the face of all this exuberance. The metal can't rise forever. The Metal can�’s rise forever is over. It’ll be over soon.",
+            "date": "Tue, 07 Oct 2025 12:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FITB",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Micron’s stock has doubled this year. Why Morgan Stanley is finally upgrading it.",
-            "link": "https://www.marketwatch.com/story/microns-stock-has-doubled-this-year-why-morgan-stanley-is-finally-upgrading-it-0f9dcd3a?mod=mw_rss_topstories",
-            "summary": "Morgan Stanley analyst says booming memory prices could drive “substantially higher earnings power” for Micron. “Better late than never,” he says.",
-            "date": "Mon, 06 Oct 2025 12:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "20MICRONS.NS",
+            "stock_ticker": "^XAU",
             "impact": "Neutral"
         }
     ]
