@@ -1,124 +1,124 @@
 {
-    "date": "2025-10-07",
+    "date": "2025-10-08",
     "news": [
         {
-            "title": "The shutdown meant no jobs report. Carlyle's analysis shows it would have been pretty bad",
-            "link": "https://www.cnbc.com/2025/10/07/the-shutdown-meant-no-jobs-report-carlyles-analysis-shows-it-would-have-been-pretty-bad.html",
-            "summary": "Job growth of just 17,000 from the month, which would be even less than the 22,000 gain in August. The firm said its proprietary data showed job growth of 17,00 in September.",
-            "date": "Tue, 07 Oct 2025 12:56:41 GMT",
+            "title": "Nvidia's Huang says AI computing demand is up 'substantially' in the last 6 months",
+            "link": "https://www.cnbc.com/2025/10/08/jensen-huang-nvidia-computing-demand.html",
+            "summary": "The scale of Nvidia's plans have raised doubts about whether the AI industry can secure the power needed to fuel its ambitions. The scale of the company's plans has raised doubts over whether the industry will be able to secure its power.",
+            "date": "Wed, 08 Oct 2025 13:15:48 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "603181.SS",
             "impact": "Neutral"
         },
         {
-            "title": "The price of gold reached $4,000 an ounce for the first time ever",
-            "link": "https://www.cnbc.com/2025/10/07/gold-4000-record.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Tue, 07 Oct 2025 13:23:05 GMT",
+            "title": "Borrowers head back to riskier mortgages, looking for any potential savings",
+            "link": "https://www.cnbc.com/2025/10/08/borrowers-head-back-to-riskier-mortgages-looking-for-any-potential-savings.html",
+            "summary": "Mortgage demand weakened again but for those in the market, adjustable-rate loans are getting more popular, as they offer lower interest rates.",
+            "date": "Wed, 08 Oct 2025 12:28:25 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "C6V.F",
             "impact": "Neutral"
         },
         {
-            "title": "WTO hikes global trade forecast for 2025 — but next year doesn't look so good",
-            "link": "https://www.cnbc.com/2025/10/07/wto-hikes-global-trade-forecast-for-2025-slowdown-expected-in-2026-.html",
-            "summary": "Global trade volumes rose sharply in the first half of 2025. Businesses front-loaded imports ahead of higher tariffs, says the World Trade Organisation.",
-            "date": "Tue, 07 Oct 2025 13:05:05 GMT",
+            "title": "Verizon signs deal with AST SpaceMobile to provide cellular service from space. AST shares surge",
+            "link": "https://www.cnbc.com/2025/10/08/verizon-signs-deal-with-ast-spacemobile-to-provide-cellular-service-from-space.html",
+            "summary": "AST SpaceMobile announced a deal with Verizon to provide service from space beginning next year. AST SpaceMobile will provide service to Verizon customers in the U.S.",
+            "date": "Wed, 08 Oct 2025 13:00:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WTO",
+            "stock_ticker": "VZ",
             "impact": "Neutral"
         },
         {
-            "title": "Trilogy Metals shares soar over 250% in premarket after U.S. takes stake in minerals explorer",
-            "link": "https://www.cnbc.com/2025/10/07/trilogy-metals-shares-surge-after-us-takes-stake-in-minerals-firm.html",
-            "summary": "The stock was seen trading up 248% in premarket deals at 1:09 p.m. London time (8:09 a.M. ET)",
-            "date": "Tue, 07 Oct 2025 12:39:21 GMT",
+            "title": "Auto giant shares tumble as European Union's new steel tariffs spark industry panic",
+            "link": "https://www.cnbc.com/2025/10/08/auto-giants-tumble-as-eus-new-steel-tariffs-spark-industry-panic.html",
+            "summary": "Shares of Europe's biggest automakers fell on Wednesday. Industry concern about the impact of the European Union’s new steel import quota plan.",
+            "date": "Wed, 08 Oct 2025 12:47:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TMQ",
-            "impact": "Bullish"
-        },
-        {
-            "title": "NYSE-owner Intercontinental Exchange rises after it takes $2 billion stake in Polymarket",
-            "link": "https://www.cnbc.com/2025/10/07/nyse-owner-intercontinental-exchange-2-billion-polymarket-stake.html",
-            "summary": "Intercontinental Exchange rose more than 3% in the premarket. The company announced it took a $2 billion stake in prediction markets platform Polymarket.",
-            "date": "Tue, 07 Oct 2025 13:15:55 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ICE",
+            "stock_ticker": "RIVN",
             "impact": "Neutral"
         },
         {
-            "title": "NYSE owner dives into prediction markets with $2 billion Polymarket investment",
-            "link": "https://www.marketwatch.com/story/nyse-owner-dives-into-prediction-markets-with-2-billion-polymarket-investment-db34302b?mod=mw_rss_topstories",
-            "summary": "Intercontinental Exchange to invest up to $2 billion in Polymarket. Polymarket is a prediction-market company founded by Shayne Coplan.",
-            "date": "Tue, 07 Oct 2025 13:12:00 GMT",
+            "title": "Amazon launches prescription vending machines at One Medical clinics in Los Angeles",
+            "link": "https://www.cnbc.com/2025/10/08/amazon-debuts-prescription-kiosks-at-los-angeles-one-medical-clinics.html",
+            "summary": "The kiosks are operated by Amazon Pharmacy. They stock a range of commonly prescribed medications, such as antibiotics, inhalers and blood pressure treatments.",
+            "date": "Wed, 08 Oct 2025 12:53:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^NYA",
-            "impact": "Bullish"
+            "stock_ticker": "AMZN",
+            "impact": "Neutral"
         },
         {
-            "title": "Carlyle, Bank of America use their own data to say U.S. jobs growth has slowed to trickle",
-            "link": "https://www.marketwatch.com/story/carlyle-bank-of-america-are-latest-to-use-their-own-data-to-say-u-s-jobs-growth-has-slowed-to-trickle-9e05623f?mod=mw_rss_topstories",
-            "summary": "Carlyle’s estimate comes in the middle of other numbers being released in an attempt to fill a gap left due to the government shutdown.",
-            "date": "Tue, 07 Oct 2025 12:58:00 GMT",
+            "title": "Goldman Sachs on the one thing that could turn the rally into a bubble",
+            "link": "https://www.marketwatch.com/story/heres-whats-keeping-goldmans-worries-over-a-stock-bubble-at-bay-for-now-a7a219c5?mod=mw_rss_topstories",
+            "summary": "Goldman Sachs strategists have taken a deep dive into current stock bubble worries for investors. They argue the puzzle pieces aren't in place yet.",
+            "date": "Wed, 08 Oct 2025 13:19:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CG",
+            "stock_ticker": "GS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Intel’s explosive stock gains this year are unsustainable, a new bear warns",
+            "link": "https://www.marketwatch.com/story/intels-explosive-stock-gains-this-year-are-unsustainable-a-new-bear-warns-e822077c?mod=mw_rss_topstories",
+            "summary": "HSBC sees 35% downside potential for Intel’s stock. The company would need a technology deal with TSMC to spark a true turnaround.",
+            "date": "Wed, 08 Oct 2025 13:10:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PREMEXPLN.BO",
             "impact": "Bearish"
         },
         {
-            "title": "Billionaire Ken Griffin warns on gold’s rally as Goldman targets nearly $5,000",
-            "link": "https://www.marketwatch.com/story/billionaire-ken-griffin-warns-on-golds-rally-as-goldman-targets-nearly-5-000-857edd74?mod=mw_rss_topstories",
-            "summary": "Goldman Sachs is now forecasting gold to reach nearly $5,000 next year. One billionaire investor says the precious metal’s rally is a sign of trouble for U.S. assets.",
-            "date": "Tue, 07 Oct 2025 12:35:00 GMT",
+            "title": "Equifax’s credit-score pricing counterpunch draws praise for potential profit boost",
+            "link": "https://www.marketwatch.com/story/equifaxs-credit-score-pricing-counterpunch-draws-praise-for-potential-profit-boost-cb392e35?mod=mw_rss_topstories",
+            "summary": "Equifax could realize $100 million of profit if mortgage activity remains at 2025 levels, or even up to $200 million if mortgages recover.",
+            "date": "Wed, 08 Oct 2025 13:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DE000SL0AUC8.SG",
-            "impact": "Neutral"
+            "stock_ticker": "LKOR",
+            "impact": "Bullish"
         },
         {
-            "title": "IBM gets in on the AI-deal action with Anthropic partnership, and its stock is rising",
-            "link": "https://www.marketwatch.com/story/ibm-gets-in-on-the-ai-deal-action-with-anthropic-partnership-and-its-stock-is-rising-98aacc11?mod=mw_rss_topstories",
-            "summary": "The partnership integrates Anthropic’s Claude into enterprise products and development tools to drive productivity gains. The partnership is a collaboration between Anthropic and IBM.",
-            "date": "Tue, 07 Oct 2025 12:23:00 GMT",
+            "title": "Why two Rust Belt towns have the fastest-growing home prices in the U.S.",
+            "link": "https://www.marketwatch.com/story/why-two-rust-belt-towns-have-the-fastest-growing-home-prices-in-the-u-s-9886626f?mod=mw_rss_topstories",
+            "summary": "Former manufacturing hubs in eastern Pennsylvania and upstate New York saw the sharpest growth in home prices in September, according to Intercontinental Exchange.",
+            "date": "Wed, 08 Oct 2025 12:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBM",
-            "impact": "Neutral"
+            "stock_ticker": "301218.SZ",
+            "impact": "Bullish"
         },
         {
-            "title": "Gold’s rallying on borrowed time. That could mean contrarians get the last laugh.",
-            "link": "https://www.marketwatch.com/story/golds-rallying-on-borrowed-time-that-could-mean-contrarians-get-the-last-laugh-b70ae360?mod=mw_rss_topstories",
-            "summary": "The metal can’t rise forever in the face of all this exuberance. The metal can't rise forever. The Metal can�’s rise forever is over. It’ll be over soon.",
-            "date": "Tue, 07 Oct 2025 12:04:00 GMT",
+            "title": "This ‘boring’ stock and bond portfolio won’t give you bragging rights — but it does make you money",
+            "link": "https://www.marketwatch.com/story/this-boring-stock-and-bond-portfolio-wont-give-you-bragging-rights-but-it-does-make-you-money-0e2a82ef?mod=mw_rss_topstories",
+            "summary": "There’s a surprisingly good long-term performance of a traditional blend of 60% stocks and 40% bonds. There is no need to buy a large number of shares at one time.",
+            "date": "Wed, 08 Oct 2025 12:36:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^XAU",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         }
     ]
