@@ -1,47 +1,107 @@
 {
-    "date": "2025-10-10",
+    "date": "2025-10-11",
     "news": [
         {
-            "title": "Trump's Fed chair candidates list narrowed down to five by Bessent after interviews, sources say",
-            "link": "https://www.cnbc.com/2025/10/10/trumps-fed-chair-candidates-list-narrowed-down-to-five-by-bessent-after-interviews-sources-say.html",
-            "summary": "The Treasury plans to hold another round of interviews with all five candidates in the coming weeks and months. The Treasury will also hold an interview with the president of the United States.",
-            "date": "Fri, 10 Oct 2025 13:02:51 GMT",
+            "title": "Trump puts extra 100% tariff on China imports, adds export controls on 'critical software'",
+            "link": "https://www.cnbc.com/2025/10/10/trump-trade-tariffs-china-software.html",
+            "summary": "President Trump retaliated against China's export controls on rare earths. He also suggested he also would cancel a meeting with Chinese President Xi Jinping.",
+            "date": "Fri, 10 Oct 2025 22:11:52 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZQ=F",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "China retaliates against U.S. port fees with new charges on American ships",
-            "link": "https://www.cnbc.com/2025/10/10/china-retaliates-against-us-port-fees-with-charges-on-american-ships.html",
-            "summary": "The move comes a day after China ramped up restrictions on rare earths exports. The move comes amid ongoing tensions with the U.S.",
-            "date": "Fri, 10 Oct 2025 11:57:58 GMT",
+            "title": "OpenAI's dominance is unlike anything Silicon Valley has ever seen",
+            "link": "https://www.cnbc.com/2025/10/11/open-ai-silicon-valley-tech-startup.html",
+            "summary": "OpenAI's position at the heart of the AI boom, and its expansion up and down the stack, is putting it in competition with a growing list of startups.",
+            "date": "Sat, 11 Oct 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHH=F",
+            "stock_ticker": "ISK=X",
             "impact": "Bullish"
         },
         {
-            "title": "This is the 'biggest mistake' young investors make, Josh Brown says",
-            "link": "https://www.cnbc.com/2025/10/10/this-is-the-biggest-mistake-young-investors-make-josh-brown-says.html",
-            "summary": "Young investors worry about losing money in the stock market. But it may be riskier for them to avoid stocks in favor of cash and bonds.",
-            "date": "Fri, 10 Oct 2025 12:05:01 GMT",
+            "title": "Tech megacaps lose $770 billion in value as Nasdaq suffers steepest drop since April",
+            "link": "https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html",
+            "summary": "Nvidia dropped almost 5%, pacing a steep decline in tech stocks, after President Trump threatened more tariffs on China. Nvidia is a chipmaker that makes chips for PCs and mobile devices.",
+            "date": "Sat, 11 Oct 2025 05:24:13 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "TECH",
             "impact": "Neutral"
         },
         {
-            "title": "How Costco quietly built a multibillion-dollar clothing empire",
-            "link": "https://www.cnbc.com/2025/10/10/how-costco-built-clothing-business.html",
-            "summary": "Costco has grown its clothing business by nearly 40% over the past five years. That's more than its peers BJ's and Sam's Club.",
-            "date": "Fri, 10 Oct 2025 12:00:01 GMT",
+            "title": "Trump says 'a lot' of federal workers are being laid off during government shutdown",
+            "link": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
+            "summary": "The Trump administration and Republicans have sought to blame Democrats for the government shutdown, and any negative fallout from it. The shutdown began on Dec. 22 and is now in its third week.",
+            "date": "Sat, 11 Oct 2025 04:27:26 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Apple nears deal to acquire talent and technology from computer vision startup Prompt AI",
+            "link": "https://www.cnbc.com/2025/10/10/apple-nears-deal-to-acquire-talent-tech-from-ai-startup-prompt-ai.html",
+            "summary": "Apple is in late-stage talks with startup Prompt AI to bring on the company's employees and its computer vision technology. Prompt AI is based in San Francisco.",
+            "date": "Fri, 10 Oct 2025 23:42:56 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAPL",
+            "impact": "Bullish"
+        },
+        {
+            "title": "‘I watch antenna TV’: I’m 66. Will I lose my disability benefits if Social Security goes belly up?",
+            "link": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
+            "summary": "“I read that the Social Security Disability Insurance Trust Fund is good until 2099,” he says. “I’m glad that’s the case.”",
+            "date": "Sat, 11 Oct 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "YDDL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "If New York or California enter a recession, the entire U.S. economy would be next. So how are they doing?",
+            "link": "https://www.marketwatch.com/story/if-new-york-or-california-enter-a-recession-the-entire-u-s-economy-would-be-next-so-how-are-they-doing-19016cc9?mod=mw_rss_topstories",
+            "summary": "As two of the biggest states in the country, their economies ”may be canaries in the coal mine,” one economist notes.",
+            "date": "Sat, 11 Oct 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IFF",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My sister is 65. She has $80,000 in bonds and savings, and $2,600 a month in Social Security. Can she retire?",
+            "link": "https://www.marketwatch.com/story/my-sister-is-65-she-has-80-000-in-treasury-bonds-and-savings-and-2-600-in-social-security-can-she-retire-4ada4c56?mod=mw_rss_topstories",
+            "summary": "“She is single and makes $55,000 a year,” a source said. “She’s not a bad person,’ the source added. ‘She has a good heart.’",
+            "date": "Sat, 11 Oct 2025 12:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AUDMYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How can Anthropic stand out in the AI wars? I went to a Greenwich Village pop-up to find out.",
+            "link": "https://www.marketwatch.com/story/how-can-anthropic-stand-out-in-the-ai-wars-i-went-to-a-greenwich-village-pop-up-to-find-out-e51937e5?mod=mw_rss_topstories",
+            "summary": "Anthropic’s brand-awareness effort drew thousands as the company competes for consumer attention amid increasing competition. Anthropic: “We’re here to make you feel good about yourself.”",
+            "date": "Sat, 11 Oct 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,75 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "Jim Cramer's top 10 things to watch in the stock market Friday",
-            "link": "https://www.cnbc.com/2025/10/10/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
-            "summary": "Gold is back above $4,000 an ounce. Qualcomm shares dropped after Chinese antitrust regulators opened a probe into its acquisition of a vehicle tech firm.",
-            "date": "Fri, 10 Oct 2025 12:54:12 GMT",
+            "title": "‘I can’t stop thinking about money’: I’m struggling with guilt over my $135K in financial mistakes. How do I move on?",
+            "link": "https://www.marketwatch.com/story/i-cant-stop-thinking-about-money-im-struggling-with-guilt-over-my-135k-in-financial-mistakes-how-do-i-move-on-f97e788e?mod=mw_rss_topstories",
+            "summary": "“We aren’t in debt outside of our mortgage, but I feel sick when I think about the money,” she says.",
+            "date": "Sat, 11 Oct 2025 11:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0000IT6B.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Stop worrying about the AI bubble: SocGen strategists tell clients the dollar and fundamentals will sustain this rally.",
-            "link": "https://www.marketwatch.com/story/stop-worrying-about-the-ai-bubble-socgen-strategists-tell-clients-the-dollar-and-fundamentals-will-sustain-this-rally-b8c25628?mod=mw_rss_topstories",
-            "summary": "Société Générale polled clients about which aspects of U.S. markets were cause for greatest concern. The majority of respondents said they were concerned about the economy.",
-            "date": "Fri, 10 Oct 2025 12:56:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OSS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My uncle’s widow is threatening to sue me. She wants money from my grandmother’s estate. Should I be worried?",
-            "link": "https://www.marketwatch.com/story/my-uncles-widow-is-threatening-to-sue-me-she-wants-money-from-my-grandmothers-estate-should-i-be-worried-3b03e6d7?mod=mw_rss_topstories",
-            "summary": "“My uncle said he had recorded my grandmother saying she would change the will and add him as the beneficiary,” she said. “My grandmother said she would add him to the will,’ she said, “and he was the beneficiary.”",
-            "date": "Fri, 10 Oct 2025 12:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This money-saving hack could save you over $700 a year — and it’s in the palm of your hand",
-            "link": "https://www.marketwatch.com/story/this-money-saving-hack-could-save-you-over-700-a-year-and-its-in-the-palm-of-your-hand-83e1d42c?mod=mw_rss_topstories",
-            "summary": "Financial experts agree that cutting out social media can tackle an underlying cause of overspending. Social media can be a good way to cut back on spending, experts say.",
-            "date": "Fri, 10 Oct 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THISX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Traders talk of a 1999-like melt-up. But here’s what really happened back then.",
-            "link": "https://www.marketwatch.com/story/traders-talk-of-a-1999-like-melt-up-but-heres-what-really-happened-back-then-a2a9f6e6?mod=mw_rss_topstories",
-            "summary": "The dotcom bubble saw the Nasdaq double in the last six months before the pop. The Nasdaq doubled in the six months leading up to the bursting of the bubble.",
-            "date": "Fri, 10 Oct 2025 11:36:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FLOW.AS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m having brain surgery. Will my heirs or the creditors get my money if I die?",
-            "link": "https://www.marketwatch.com/story/im-having-brain-surgery-will-my-heirs-or-the-creditors-get-my-money-if-i-die-b0a73913?mod=mw_rss_topstories",
-            "summary": "“I’m 47 and have a small amount of investments totaling about $45,000, and I also have the same amount in debt,” he says.",
-            "date": "Fri, 10 Oct 2025 11:36:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "YDDL",
             "impact": "Neutral"
         }
     ]
