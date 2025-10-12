@@ -1,47 +1,35 @@
 {
-    "date": "2025-10-11",
+    "date": "2025-10-12",
     "news": [
         {
-            "title": "Trump puts extra 100% tariff on China imports, adds export controls on 'critical software'",
-            "link": "https://www.cnbc.com/2025/10/10/trump-trade-tariffs-china-software.html",
-            "summary": "President Trump retaliated against China's export controls on rare earths. He also suggested he also would cancel a meeting with Chinese President Xi Jinping.",
-            "date": "Fri, 10 Oct 2025 22:11:52 GMT",
+            "title": "China defends rare earth export curbs as ‘legitimate,’ hits back at U.S. tariffs as Trump-Xi meeting hangs in balance",
+            "link": "https://www.cnbc.com/2025/10/12/china-defends-rare-earth-export-curbs-as-legitimate-hits-back-at-us-tariffs-ahead-of-possible-trump-xi-meeting.html",
+            "summary": "The controls are part of Beijing's effort to \"better safeguard world peace and regional stability,\" it says. The Chinese Ministry of Commerce said the controls, issued Oct. 9, were part of a global effort.",
+            "date": "Sun, 12 Oct 2025 12:44:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "CHH=F",
             "impact": "Neutral"
         },
         {
-            "title": "OpenAI's dominance is unlike anything Silicon Valley has ever seen",
-            "link": "https://www.cnbc.com/2025/10/11/open-ai-silicon-valley-tech-startup.html",
-            "summary": "OpenAI's position at the heart of the AI boom, and its expansion up and down the stack, is putting it in competition with a growing list of startups.",
-            "date": "Sat, 11 Oct 2025 12:00:01 GMT",
+            "title": "Market sell-off: Trump post lops off $2 trillion from stocks in a single day",
+            "link": "https://www.cnbc.com/2025/10/11/trump-post-costs-stocks-2-trillion-in-single-day.html",
+            "summary": "The unraveling shows the sway the president's one-man trade policy still has over the fate of the global economy. It also shows the power of the U.S. dollar against other currencies.",
+            "date": "Sat, 11 Oct 2025 13:32:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ISK=X",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Tech megacaps lose $770 billion in value as Nasdaq suffers steepest drop since April",
-            "link": "https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html",
-            "summary": "Nvidia dropped almost 5%, pacing a steep decline in tech stocks, after President Trump threatened more tariffs on China. Nvidia is a chipmaker that makes chips for PCs and mobile devices.",
-            "date": "Sat, 11 Oct 2025 05:24:13 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TECH",
+            "stock_ticker": "MME=F",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says 'a lot' of federal workers are being laid off during government shutdown",
-            "link": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
-            "summary": "The Trump administration and Republicans have sought to blame Democrats for the government shutdown, and any negative fallout from it. The shutdown began on Dec. 22 and is now in its third week.",
-            "date": "Sat, 11 Oct 2025 04:27:26 GMT",
+            "title": "Trump says administration has 'identified funds' to pay troops during shutdown",
+            "link": "https://www.cnbc.com/2025/10/11/trump-government-shutdown-pay-troops.html",
+            "summary": "President Donald Trump says his administration has \"identified funds\" to pay troops next week. The federal government is shut down because of the budget impasse.",
+            "date": "Sun, 12 Oct 2025 10:11:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,75 +38,87 @@
             "impact": "Bearish"
         },
         {
-            "title": "Apple nears deal to acquire talent and technology from computer vision startup Prompt AI",
-            "link": "https://www.cnbc.com/2025/10/10/apple-nears-deal-to-acquire-talent-tech-from-ai-startup-prompt-ai.html",
-            "summary": "Apple is in late-stage talks with startup Prompt AI to bring on the company's employees and its computer vision technology. Prompt AI is based in San Francisco.",
-            "date": "Fri, 10 Oct 2025 23:42:56 GMT",
+            "title": "Global week ahead: Three-speed Europe heads to Washington D.C.",
+            "link": "https://www.cnbc.com/2025/10/12/global-week-ahead-three-speed-europe-heads-to-washington-dc.html",
+            "summary": "Diverging economic fortunes in Europe come at a time when the bloc should put on a united front on U.S. relations, experts say.",
+            "date": "Sun, 12 Oct 2025 02:17:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAPL",
+            "stock_ticker": "NKLR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "OpenAI's dominance is unlike anything Silicon Valley has ever seen",
+            "link": "https://www.cnbc.com/2025/10/11/open-ai-silicon-valley-tech-startup.html",
+            "summary": "OpenAI's position at the heart of the AI boom, and its expansion up and down the stack, is putting it in competition with a growing list of startups.",
+            "date": "Sat, 11 Oct 2025 22:55:57 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ISK=X",
             "impact": "Bullish"
         },
         {
-            "title": "‘I watch antenna TV’: I’m 66. Will I lose my disability benefits if Social Security goes belly up?",
-            "link": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
-            "summary": "“I read that the Social Security Disability Insurance Trust Fund is good until 2099,” he says. “I’m glad that’s the case.”",
-            "date": "Sat, 11 Oct 2025 13:00:00 GMT",
+            "title": "‘I’d hate to turn her over to the state’: My mother, who has dementia, refuses to be put in a facility. What can we do?",
+            "link": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
+            "summary": "“She has never been willing to sign a power of attorney,” her attorney says. “She’s never been able to get her way.”",
+            "date": "Sat, 11 Oct 2025 20:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "YDDL",
+            "stock_ticker": "IDR=X",
             "impact": "Neutral"
         },
         {
-            "title": "If New York or California enter a recession, the entire U.S. economy would be next. So how are they doing?",
-            "link": "https://www.marketwatch.com/story/if-new-york-or-california-enter-a-recession-the-entire-u-s-economy-would-be-next-so-how-are-they-doing-19016cc9?mod=mw_rss_topstories",
-            "summary": "As two of the biggest states in the country, their economies ”may be canaries in the coal mine,” one economist notes.",
-            "date": "Sat, 11 Oct 2025 13:00:00 GMT",
+            "title": "Is the stock market open on Columbus Day/Indigenous Peoples’ Day? Does the post office deliver mail?",
+            "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-columbus-day-indigenous-peoples-day-does-the-post-office-deliver-mail-91411a7d?mod=mw_rss_topstories",
+            "summary": "Be prepared for plenty of closures on Monday. There will be a lot of traffic on the East Coast on Monday and Tuesday. It will also be busy on the West Coast on Tuesday.",
+            "date": "Sat, 11 Oct 2025 18:19:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IFF",
+            "stock_ticker": "ISK=X",
             "impact": "Neutral"
         },
         {
-            "title": "My sister is 65. She has $80,000 in bonds and savings, and $2,600 a month in Social Security. Can she retire?",
-            "link": "https://www.marketwatch.com/story/my-sister-is-65-she-has-80-000-in-treasury-bonds-and-savings-and-2-600-in-social-security-can-she-retire-4ada4c56?mod=mw_rss_topstories",
-            "summary": "“She is single and makes $55,000 a year,” a source said. “She’s not a bad person,’ the source added. ‘She has a good heart.’",
-            "date": "Sat, 11 Oct 2025 12:50:00 GMT",
+            "title": "Be ready with these portfolio changes if the shutdown damages the Fed’s credibility",
+            "link": "https://www.marketwatch.com/story/be-ready-with-these-portfolio-changes-if-the-shutdown-damages-the-feds-credibility-e1944b57?mod=mw_rss_topstories",
+            "summary": "The Fed is making decisions without actual data. Investors are still banking on rate cuts. The Fed is not releasing any new data on the state of the economy.",
+            "date": "Sat, 11 Oct 2025 17:18:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUDMYR=X",
+            "stock_ticker": "BE",
             "impact": "Neutral"
         },
         {
-            "title": "How can Anthropic stand out in the AI wars? I went to a Greenwich Village pop-up to find out.",
-            "link": "https://www.marketwatch.com/story/how-can-anthropic-stand-out-in-the-ai-wars-i-went-to-a-greenwich-village-pop-up-to-find-out-e51937e5?mod=mw_rss_topstories",
-            "summary": "Anthropic’s brand-awareness effort drew thousands as the company competes for consumer attention amid increasing competition. Anthropic: “We’re here to make you feel good about yourself.”",
-            "date": "Sat, 11 Oct 2025 12:00:00 GMT",
+            "title": "Inflation was out of control in retirement, so I went back to work. I’m still working at 66. Was I right?",
+            "link": "https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories",
+            "summary": "“Be more concerned with outliving inflation than Social Security,” he says. “I’m not worried about Social Security. I’d rather be alive than dead.”",
+            "date": "Sat, 11 Oct 2025 17:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "VAIPX",
             "impact": "Neutral"
         },
         {
-            "title": "‘I can’t stop thinking about money’: I’m struggling with guilt over my $135K in financial mistakes. How do I move on?",
-            "link": "https://www.marketwatch.com/story/i-cant-stop-thinking-about-money-im-struggling-with-guilt-over-my-135k-in-financial-mistakes-how-do-i-move-on-f97e788e?mod=mw_rss_topstories",
-            "summary": "“We aren’t in debt outside of our mortgage, but I feel sick when I think about the money,” she says.",
-            "date": "Sat, 11 Oct 2025 11:50:00 GMT",
+            "title": "‘I’m stumped’: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
+            "link": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
+            "summary": "“Doesn’t a 30-year history of good credit count for anything?” he asks. ‘Doesn't a 30 year history ofgood credit count?’ “I’m not sure,’ he adds.",
+            "date": "Sat, 11 Oct 2025 16:47:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "YDDL",
+            "stock_ticker": "BMNR",
             "impact": "Neutral"
         }
     ]
