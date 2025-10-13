@@ -1,124 +1,124 @@
 {
-    "date": "2025-10-12",
+    "date": "2025-10-13",
     "news": [
         {
-            "title": "China defends rare earth export curbs as ‘legitimate,’ hits back at U.S. tariffs as Trump-Xi meeting hangs in balance",
-            "link": "https://www.cnbc.com/2025/10/12/china-defends-rare-earth-export-curbs-as-legitimate-hits-back-at-us-tariffs-ahead-of-possible-trump-xi-meeting.html",
-            "summary": "The controls are part of Beijing's effort to \"better safeguard world peace and regional stability,\" it says. The Chinese Ministry of Commerce said the controls, issued Oct. 9, were part of a global effort.",
-            "date": "Sun, 12 Oct 2025 12:44:46 GMT",
+            "title": "Rare earth stocks surge on U.S-China trade dispute over the critical minerals",
+            "link": "https://www.cnbc.com/2025/10/13/rare-earth-stocks.html",
+            "summary": "President Donald Trump threatens China with a \"massive\" increase in tariffs. The move is in retaliation for Beijing imposing strict controls on rare earths.",
+            "date": "Mon, 13 Oct 2025 13:08:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHH=F",
+            "stock_ticker": "RARE",
             "impact": "Neutral"
         },
         {
-            "title": "Market sell-off: Trump post lops off $2 trillion from stocks in a single day",
-            "link": "https://www.cnbc.com/2025/10/11/trump-post-costs-stocks-2-trillion-in-single-day.html",
-            "summary": "The unraveling shows the sway the president's one-man trade policy still has over the fate of the global economy. It also shows the power of the U.S. dollar against other currencies.",
-            "date": "Sat, 11 Oct 2025 13:32:09 GMT",
+            "title": "Broadcom stock soars 10% on OpenAI custom chip deal, adding to Nvidia and AMD agreements",
+            "link": "https://www.cnbc.com/2025/10/13/openai-partners-with-broadcom-custom-ai-chips-alongside-nvidia-amd.html",
+            "summary": "OpenAI is teaming up with Broadcom to jointly develop and deploy 10 gigawatts of custom AI accelerators starting in 2026. OpenAI and Broadcom will jointly develop, deploy and test 10 gigawatt custom AI acceleration systems.",
+            "date": "Mon, 13 Oct 2025 13:08:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MME=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump says administration has 'identified funds' to pay troops during shutdown",
-            "link": "https://www.cnbc.com/2025/10/11/trump-government-shutdown-pay-troops.html",
-            "summary": "President Donald Trump says his administration has \"identified funds\" to pay troops next week. The federal government is shut down because of the budget impasse.",
-            "date": "Sun, 12 Oct 2025 10:11:27 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Global week ahead: Three-speed Europe heads to Washington D.C.",
-            "link": "https://www.cnbc.com/2025/10/12/global-week-ahead-three-speed-europe-heads-to-washington-dc.html",
-            "summary": "Diverging economic fortunes in Europe come at a time when the bloc should put on a united front on U.S. relations, experts say.",
-            "date": "Sun, 12 Oct 2025 02:17:24 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NKLR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "OpenAI's dominance is unlike anything Silicon Valley has ever seen",
-            "link": "https://www.cnbc.com/2025/10/11/open-ai-silicon-valley-tech-startup.html",
-            "summary": "OpenAI's position at the heart of the AI boom, and its expansion up and down the stack, is putting it in competition with a growing list of startups.",
-            "date": "Sat, 11 Oct 2025 22:55:57 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ISK=X",
+            "stock_ticker": "AVGO",
             "impact": "Bullish"
         },
         {
-            "title": "‘I’d hate to turn her over to the state’: My mother, who has dementia, refuses to be put in a facility. What can we do?",
-            "link": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
-            "summary": "“She has never been willing to sign a power of attorney,” her attorney says. “She’s never been able to get her way.”",
-            "date": "Sat, 11 Oct 2025 20:00:00 GMT",
+            "title": "Bloom Energy soars more than 25% on deal with Brookfield to put fuel cells in AI data centers",
+            "link": "https://www.cnbc.com/2025/10/13/bloom-energy-shares-soar-after-striking-deal-with-brookfield-to-provide-fuel-cells-to-ai-data-centers.html",
+            "summary": "Bloom Energy and Brookfield Asset Management are developing power solutions for data center campuses. The agreement is the latest in a series of power deals between the two companies.",
+            "date": "Mon, 13 Oct 2025 12:43:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IDR=X",
+            "stock_ticker": "AW=F",
             "impact": "Neutral"
         },
         {
-            "title": "Is the stock market open on Columbus Day/Indigenous Peoples’ Day? Does the post office deliver mail?",
+            "title": "'Long and painful nightmare' is over, Trump says, on historic day for the Middle East",
+            "link": "https://www.cnbc.com/2025/10/13/the-war-is-over-trump-says-on-a-historic-day-for-the-middle-east.html",
+            "summary": "Trump arrived in Tel Aviv earlier Monday to mark the release of Israeli hostages by Hamas. The hostages had been held for more than two years in captivity.",
+            "date": "Mon, 13 Oct 2025 12:45:56 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "OKLL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "JPMorgan Chase says it will invest $10 billion into industries critical for national security",
+            "link": "https://www.cnbc.com/2025/10/13/jpmorgan-chase-to-invest-10-billion-into-key-industries-.html",
+            "summary": "The move helps JPMorgan Chase organize its activities around national interests. The move comes at a time of heightened tensions between the U.S. and China.",
+            "date": "Mon, 13 Oct 2025 13:02:20 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "JPM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These stocks are surging as JPMorgan follows Trump’s lead with investments in ‘critical’ industries",
+            "link": "https://www.marketwatch.com/story/these-stocks-are-surging-as-jpmorgan-follows-trumps-lead-with-investments-in-critical-industries-dbf3c900?mod=mw_rss_topstories",
+            "summary": "JPMorgan launches $1.5 trillion initiative to boost industries deemed vital for national security. Trump administration took stakes in rare-earth, lithium and chip companies.",
+            "date": "Mon, 13 Oct 2025 13:16:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PGP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Deal mania is back on Wall Street. Here’s what it means for JPMorgan — and for banking-sector earnings.",
+            "link": "https://www.marketwatch.com/story/deal-mania-is-back-on-wall-street-heres-what-it-means-for-jpmorgan-and-for-banking-sector-earnings-fd548009?mod=mw_rss_topstories",
+            "summary": "JPMorgan leads a parade of bank earnings on Tuesday, followed by Bank of America and Morgan Stanley on Wednesday. A rise in M&amp;A and IPO activity during the quarter takes center stage.",
+            "date": "Mon, 13 Oct 2025 12:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "S2091.MC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘She’s been moving money from his account’: My late father wrote a will before meeting his current wife. Who gets his money?",
+            "link": "https://www.marketwatch.com/story/shes-been-moving-money-from-his-account-my-late-father-wrote-a-will-before-meeting-his-current-wife-who-gets-his-money-89241234?mod=mw_rss_topstories",
+            "summary": "“He gave his fourth wife power of attorney and access to his bank account to pay bills,” the victim's lawyer says. “He’s a man who gave his wife a lot of power,’ the lawyer adds.",
+            "date": "Mon, 13 Oct 2025 12:41:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SHESHAINDS.BO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘We’re in a market bubble based on AI exuberance’: I’m moving my $200K IRA to a money-market account. Is that wise?",
+            "link": "https://www.marketwatch.com/story/were-in-a-market-bubble-im-62-and-single-i-want-to-move-my-200k-ira-to-a-money-market-account-am-i-mad-875d2c72?mod=mw_rss_topstories",
+            "summary": "“I will also draw Social Security when I reach 70, which will be $3,500 per month,” he says.",
+            "date": "Mon, 13 Oct 2025 12:21:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HOWL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Is the stock market open today? Does the post office deliver mail on Columbus Day/Indigenous Peoples’ Day?",
             "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-columbus-day-indigenous-peoples-day-does-the-post-office-deliver-mail-91411a7d?mod=mw_rss_topstories",
             "summary": "Be prepared for plenty of closures on Monday. There will be a lot of traffic on the East Coast on Monday and Tuesday. It will also be busy on the West Coast on Tuesday.",
-            "date": "Sat, 11 Oct 2025 18:19:00 GMT",
+            "date": "Mon, 13 Oct 2025 11:46:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "ISK=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Be ready with these portfolio changes if the shutdown damages the Fed’s credibility",
-            "link": "https://www.marketwatch.com/story/be-ready-with-these-portfolio-changes-if-the-shutdown-damages-the-feds-credibility-e1944b57?mod=mw_rss_topstories",
-            "summary": "The Fed is making decisions without actual data. Investors are still banking on rate cuts. The Fed is not releasing any new data on the state of the economy.",
-            "date": "Sat, 11 Oct 2025 17:18:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Inflation was out of control in retirement, so I went back to work. I’m still working at 66. Was I right?",
-            "link": "https://www.marketwatch.com/story/my-money-didnt-go-so-far-i-retired-at-61-but-went-back-to-work-im-now-66-did-i-make-the-right-decision-345fbf05?mod=mw_rss_topstories",
-            "summary": "“Be more concerned with outliving inflation than Social Security,” he says. “I’m not worried about Social Security. I’d rather be alive than dead.”",
-            "date": "Sat, 11 Oct 2025 17:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VAIPX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m stumped’: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
-            "link": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
-            "summary": "“Doesn’t a 30-year history of good credit count for anything?” he asks. ‘Doesn't a 30 year history ofgood credit count?’ “I’m not sure,’ he adds.",
-            "date": "Sat, 11 Oct 2025 16:47:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMNR",
             "impact": "Neutral"
         }
     ]
