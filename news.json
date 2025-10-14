@@ -1,59 +1,11 @@
 {
-    "date": "2025-10-13",
+    "date": "2025-10-14",
     "news": [
         {
-            "title": "Rare earth stocks surge on U.S-China trade dispute over the critical minerals",
-            "link": "https://www.cnbc.com/2025/10/13/rare-earth-stocks.html",
-            "summary": "President Donald Trump threatens China with a \"massive\" increase in tariffs. The move is in retaliation for Beijing imposing strict controls on rare earths.",
-            "date": "Mon, 13 Oct 2025 13:08:08 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RARE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Broadcom stock soars 10% on OpenAI custom chip deal, adding to Nvidia and AMD agreements",
-            "link": "https://www.cnbc.com/2025/10/13/openai-partners-with-broadcom-custom-ai-chips-alongside-nvidia-amd.html",
-            "summary": "OpenAI is teaming up with Broadcom to jointly develop and deploy 10 gigawatts of custom AI accelerators starting in 2026. OpenAI and Broadcom will jointly develop, deploy and test 10 gigawatt custom AI acceleration systems.",
-            "date": "Mon, 13 Oct 2025 13:08:28 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AVGO",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Bloom Energy soars more than 25% on deal with Brookfield to put fuel cells in AI data centers",
-            "link": "https://www.cnbc.com/2025/10/13/bloom-energy-shares-soar-after-striking-deal-with-brookfield-to-provide-fuel-cells-to-ai-data-centers.html",
-            "summary": "Bloom Energy and Brookfield Asset Management are developing power solutions for data center campuses. The agreement is the latest in a series of power deals between the two companies.",
-            "date": "Mon, 13 Oct 2025 12:43:59 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AW=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "'Long and painful nightmare' is over, Trump says, on historic day for the Middle East",
-            "link": "https://www.cnbc.com/2025/10/13/the-war-is-over-trump-says-on-a-historic-day-for-the-middle-east.html",
-            "summary": "Trump arrived in Tel Aviv earlier Monday to mark the release of Israeli hostages by Hamas. The hostages had been held for more than two years in captivity.",
-            "date": "Mon, 13 Oct 2025 12:45:56 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OKLL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "JPMorgan Chase says it will invest $10 billion into industries critical for national security",
-            "link": "https://www.cnbc.com/2025/10/13/jpmorgan-chase-to-invest-10-billion-into-key-industries-.html",
-            "summary": "The move helps JPMorgan Chase organize its activities around national interests. The move comes at a time of heightened tensions between the U.S. and China.",
-            "date": "Mon, 13 Oct 2025 13:02:20 GMT",
+            "title": "JPMorgan Chase tops estimates as trading revenue hits a record of nearly $9 billion",
+            "link": "https://www.cnbc.com/2025/10/14/jpmorgan-chase-jpm-earnings-q3-2025.html",
+            "summary": "CEO Jamie Dimon said that while each of his major business lines performed well against a good economic backdrop, he was preparing for possible turbulence.",
+            "date": "Tue, 14 Oct 2025 13:01:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,46 +14,94 @@
             "impact": "Neutral"
         },
         {
-            "title": "These stocks are surging as JPMorgan follows Trump’s lead with investments in ‘critical’ industries",
-            "link": "https://www.marketwatch.com/story/these-stocks-are-surging-as-jpmorgan-follows-trumps-lead-with-investments-in-critical-industries-dbf3c900?mod=mw_rss_topstories",
-            "summary": "JPMorgan launches $1.5 trillion initiative to boost industries deemed vital for national security. Trump administration took stakes in rare-earth, lithium and chip companies.",
-            "date": "Mon, 13 Oct 2025 13:16:00 GMT",
+            "title": "China targets five U.S. subsidiaries of South Korea's Hanwha Ocean, sending shares down 8%",
+            "link": "https://www.cnbc.com/2025/10/14/china-sanctions-five-us-subsidiaries-of-south-koreas-hanwha-ocean-over-their-ties-with-washington.html",
+            "summary": "The order took effect immediately. It will prohibit Chinese organizations and individuals from doing business with the sanctioned companies. The order, which took effect immediate, will prohibit China from doingbusiness with the companies.",
+            "date": "Tue, 14 Oct 2025 07:16:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PGP",
+            "stock_ticker": "CHH=F",
             "impact": "Neutral"
         },
         {
-            "title": "Deal mania is back on Wall Street. Here’s what it means for JPMorgan — and for banking-sector earnings.",
-            "link": "https://www.marketwatch.com/story/deal-mania-is-back-on-wall-street-heres-what-it-means-for-jpmorgan-and-for-banking-sector-earnings-fd548009?mod=mw_rss_topstories",
-            "summary": "JPMorgan leads a parade of bank earnings on Tuesday, followed by Bank of America and Morgan Stanley on Wednesday. A rise in M&amp;A and IPO activity during the quarter takes center stage.",
-            "date": "Mon, 13 Oct 2025 12:52:00 GMT",
+            "title": "Disney has considered a co-CEO structure to replace Bob Iger. Its history may make that a bad idea",
+            "link": "https://www.cnbc.com/2025/10/14/disney-ceo-succession-why-co-ceos-may-be-a-bad-idea.html",
+            "summary": ". Spotify and Comcast have recently installed co-CEO structures. Disney's corporate culture and history of botched successions may make that less likely.",
+            "date": "Tue, 14 Oct 2025 13:13:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "S2091.MC",
+            "stock_ticker": "DIS",
             "impact": "Neutral"
         },
         {
-            "title": "‘She’s been moving money from his account’: My late father wrote a will before meeting his current wife. Who gets his money?",
-            "link": "https://www.marketwatch.com/story/shes-been-moving-money-from-his-account-my-late-father-wrote-a-will-before-meeting-his-current-wife-who-gets-his-money-89241234?mod=mw_rss_topstories",
-            "summary": "“He gave his fourth wife power of attorney and access to his bank account to pay bills,” the victim's lawyer says. “He’s a man who gave his wife a lot of power,’ the lawyer adds.",
-            "date": "Mon, 13 Oct 2025 12:41:00 GMT",
+            "title": "How China's rare earth restrictions could disrupt the U.S. defense industry and reignite a trade war",
+            "link": "https://www.cnbc.com/2025/10/14/china-trump-xi-rare-earth-defense-critical-mineral-trade-war-tariffs.html",
+            "summary": "China will not allow the export of rare earth materials for use by foreign militaries under restrictions announced last week. China will not allowed the export. of rare Earth materials forUse by foreign military.",
+            "date": "Tue, 14 Oct 2025 11:20:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHESHAINDS.BO",
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Goldman Sachs beats estimates on better-than-expected investment banking, bond trading",
+            "link": "https://www.cnbc.com/2025/10/14/goldman-sachs-gs-earnings-q3-2025.html",
+            "summary": "Goldman Sachs gets the majority of its revenue from Wall Street activities including trading and investment banking. Goldman Sachs is one of the world's largest investment banks.",
+            "date": "Tue, 14 Oct 2025 12:36:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why your stock and bond index funds outsmart Wall Street’s best and brightest",
+            "link": "https://www.marketwatch.com/story/why-your-stock-and-bond-index-funds-outsmart-managers-of-college-endowments-db81876e?mod=mw_rss_topstories",
+            "summary": "College and university endowments lag a basic diversified portfolio. College and universityEndowments.com is a tool to help students understand the value of their endowment.",
+            "date": "Tue, 14 Oct 2025 13:19:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "301218.SZ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "U.S. economy still vulnerable to tariff shocks, IMF says, and labor shortages tied to immigration crackdown could also sting",
+            "link": "https://www.marketwatch.com/story/u-s-economy-still-vulnerable-to-tariff-shocks-imf-says-and-labor-shortages-tied-to-immigration-crackdown-could-also-sting-8987be99?mod=mw_rss_topstories",
+            "summary": "U.S. economy hasn't suffered much so far from big increases in tariffs or a decline in the labor supply due to tighter immigration rules. But that might change.",
+            "date": "Tue, 14 Oct 2025 13:10:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HRC=F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "‘I’d hate to turn her over to the state’: My mother, who has dementia, refuses to be put in a facility. What can we do?",
+            "link": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
+            "summary": "“She has never been willing to sign a power of attorney,” her attorney says. “She’s never been able to get her way.”",
+            "date": "Tue, 14 Oct 2025 12:43:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IDR=X",
             "impact": "Neutral"
         },
         {
             "title": "‘We’re in a market bubble based on AI exuberance’: I’m moving my $200K IRA to a money-market account. Is that wise?",
             "link": "https://www.marketwatch.com/story/were-in-a-market-bubble-im-62-and-single-i-want-to-move-my-200k-ira-to-a-money-market-account-am-i-mad-875d2c72?mod=mw_rss_topstories",
             "summary": "“I will also draw Social Security when I reach 70, which will be $3,500 per month,” he says.",
-            "date": "Mon, 13 Oct 2025 12:21:00 GMT",
+            "date": "Tue, 14 Oct 2025 12:36:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "Is the stock market open today? Does the post office deliver mail on Columbus Day/Indigenous Peoples’ Day?",
-            "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-columbus-day-indigenous-peoples-day-does-the-post-office-deliver-mail-91411a7d?mod=mw_rss_topstories",
-            "summary": "Be prepared for plenty of closures on Monday. There will be a lot of traffic on the East Coast on Monday and Tuesday. It will also be busy on the West Coast on Tuesday.",
-            "date": "Mon, 13 Oct 2025 11:46:00 GMT",
+            "title": "GM will take a $1.6 billion hit as it predicts a drop in EV demand. Here’s the latest setback.",
+            "link": "https://www.marketwatch.com/story/gm-will-take-a-1-6-billion-hit-as-it-predicts-a-drop-in-ev-demand-heres-the-latest-setback-2a3b792d?mod=mw_rss_topstories",
+            "summary": "The end of a critical tax credit will force the company to scale back its plans for EV investments. GM’s stock is falling as the result.",
+            "date": "Tue, 14 Oct 2025 12:26:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ISK=X",
+            "stock_ticker": "GM",
             "impact": "Neutral"
         }
     ]
