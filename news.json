@@ -1,11 +1,59 @@
 {
-    "date": "2025-10-14",
+    "date": "2025-10-15",
     "news": [
         {
-            "title": "JPMorgan Chase tops estimates as trading revenue hits a record of nearly $9 billion",
-            "link": "https://www.cnbc.com/2025/10/14/jpmorgan-chase-jpm-earnings-q3-2025.html",
-            "summary": "CEO Jamie Dimon said that while each of his major business lines performed well against a good economic backdrop, he was preparing for possible turbulence.",
-            "date": "Tue, 14 Oct 2025 13:01:57 GMT",
+            "title": "Treasury Secretary Bessent says a stock market decline won't deter the U.S. from taking strong action against China",
+            "link": "https://www.cnbc.com/2025/10/15/treasury-secretary-bessent-stock-market-china.html",
+            "summary": "Treasury Secretary Scott Bessent insisted that the U.S. won't change its negotiating stance on China due to stock market volatility.",
+            "date": "Wed, 15 Oct 2025 13:16:52 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ZF=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bank of America tops expectations on 43% surge in investment banking revenue",
+            "link": "https://www.cnbc.com/2025/10/15/bank-of-america-bac-earnings-q3-2025.html",
+            "summary": "Bank of America's Wall Street businesses helped fuel the quarter's results. Like its peers, Bank of America has seen strong results from its Wall Street business.",
+            "date": "Wed, 15 Oct 2025 12:13:49 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SXB=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Apple announces new MacBook Pro laptops with updated chip",
+            "link": "https://www.cnbc.com/2025/10/15/apple-macbook-pro-laptops-m5-chip.html",
+            "summary": "Apple announced new MacBook Pro models on Wednesday with an updated M5 chip. The chip allows them to run faster than their predecessors. Apple also announced a new iWatch with a faster processor.",
+            "date": "Wed, 15 Oct 2025 13:25:33 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAPL",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Nscale eyes IPO amid fresh $14 billion deal with Microsoft",
+            "link": "https://www.cnbc.com/2025/10/15/nscale-eyes-ipo-amid-fresh-14-billion-deal-with-microsoft-.html",
+            "summary": "The AI cloud company could IPO towards the back end of 2026, a spokesperson confirmed to CNBC. The company could go public in the second half of next year.",
+            "date": "Wed, 15 Oct 2025 12:18:18 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "031310.KQ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Morgan Stanley posts massive third-quarter earnings beat",
+            "link": "https://www.cnbc.com/2025/10/15/morgan-stanley-ms-earnings-q3-2025.html",
+            "summary": "Wall Street-centric banks like Morgan Stanley and peer Goldman Sachs are in an ideal moneymaking environment. Morgan Stanley is the world's largest bank. Goldman Sachs is the second largest.",
+            "date": "Wed, 15 Oct 2025 12:47:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +62,63 @@
             "impact": "Neutral"
         },
         {
-            "title": "China targets five U.S. subsidiaries of South Korea's Hanwha Ocean, sending shares down 8%",
-            "link": "https://www.cnbc.com/2025/10/14/china-sanctions-five-us-subsidiaries-of-south-koreas-hanwha-ocean-over-their-ties-with-washington.html",
-            "summary": "The order took effect immediately. It will prohibit Chinese organizations and individuals from doing business with the sanctioned companies. The order, which took effect immediate, will prohibit China from doingbusiness with the companies.",
-            "date": "Tue, 14 Oct 2025 07:16:51 GMT",
+            "title": "‘Expensive, but not nutty.’ Howard Marks on U.S. stocks and the one thing investors should be doing right now.",
+            "link": "https://www.marketwatch.com/story/expensive-but-not-nutty-howard-marks-on-u-s-stocks-and-the-one-thing-investors-should-be-doing-right-now-74c75960?mod=mw_rss_topstories",
+            "summary": "Oaktree co-founder Howard Marks says investors should start taking some “chips off the table,” after a strong run for markets.",
+            "date": "Wed, 15 Oct 2025 13:23:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHH=F",
+            "stock_ticker": "DE000SL0FDL4.SG",
             "impact": "Neutral"
         },
         {
-            "title": "Disney has considered a co-CEO structure to replace Bob Iger. Its history may make that a bad idea",
-            "link": "https://www.cnbc.com/2025/10/14/disney-ceo-succession-why-co-ceos-may-be-a-bad-idea.html",
-            "summary": ". Spotify and Comcast have recently installed co-CEO structures. Disney's corporate culture and history of botched successions may make that less likely.",
-            "date": "Tue, 14 Oct 2025 13:13:26 GMT",
+            "title": "Crypto hype is affecting everything from real estate to Treasurys. Here’s how to play it.",
+            "link": "https://www.marketwatch.com/story/crypto-hype-is-affecting-everything-from-real-estate-to-treasurys-heres-how-to-play-it-51f501ed?mod=mw_rss_topstories",
+            "summary": "Tokenization is unlikely to make you rich overnight. But it could make your portfolio more transparent, liquid and efficient. For more information on Tokenization click here.",
+            "date": "Wed, 15 Oct 2025 13:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DIS",
+            "stock_ticker": "CRYP.AX",
             "impact": "Neutral"
         },
         {
-            "title": "How China's rare earth restrictions could disrupt the U.S. defense industry and reignite a trade war",
-            "link": "https://www.cnbc.com/2025/10/14/china-trump-xi-rare-earth-defense-critical-mineral-trade-war-tariffs.html",
-            "summary": "China will not allow the export of rare earth materials for use by foreign militaries under restrictions announced last week. China will not allowed the export. of rare Earth materials forUse by foreign military.",
-            "date": "Tue, 14 Oct 2025 11:20:54 GMT",
+            "title": "One of the last holdouts on Nvidia’s stock now predicts 78% upside. Here’s the thesis.",
+            "link": "https://www.marketwatch.com/story/one-of-the-last-holdouts-on-nvidias-stock-now-predicts-78-upside-heres-the-thesis-24dcb911?mod=mw_rss_topstories",
+            "summary": "HSBC analysts now think Nvidia has the potential to vastly exceed Wall Street expectations for data-center revenue as the company’s customer base broadens.",
+            "date": "Wed, 15 Oct 2025 13:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "SR1=F",
             "impact": "Neutral"
         },
         {
-            "title": "Goldman Sachs beats estimates on better-than-expected investment banking, bond trading",
-            "link": "https://www.cnbc.com/2025/10/14/goldman-sachs-gs-earnings-q3-2025.html",
-            "summary": "Goldman Sachs gets the majority of its revenue from Wall Street activities including trading and investment banking. Goldman Sachs is one of the world's largest investment banks.",
-            "date": "Tue, 14 Oct 2025 12:36:07 GMT",
+            "title": "Bank of America rides 43% jump in investment-banking revenue to big profit beat",
+            "link": "https://www.marketwatch.com/story/bank-of-america-rides-a-43-jump-in-investment-banking-revenue-to-a-big-profit-beat-dff86a58?mod=mw_rss_topstories",
+            "summary": "Bank's net interest income hits a record and CEO Brian Moynihan cites strength across the board. Stock rises toward an 18-year high.",
+            "date": "Wed, 15 Oct 2025 13:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GS",
+            "stock_ticker": "SXB=F",
             "impact": "Neutral"
         },
         {
-            "title": "Why your stock and bond index funds outsmart Wall Street’s best and brightest",
-            "link": "https://www.marketwatch.com/story/why-your-stock-and-bond-index-funds-outsmart-managers-of-college-endowments-db81876e?mod=mw_rss_topstories",
-            "summary": "College and university endowments lag a basic diversified portfolio. College and universityEndowments.com is a tool to help students understand the value of their endowment.",
-            "date": "Tue, 14 Oct 2025 13:19:00 GMT",
+            "title": "‘I’m stumped’: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
+            "link": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
+            "summary": "“Doesn’t a 30-year history of good credit count for anything?” he asks. ‘Doesn't a 30 year history ofgood credit count?’ “I’m not sure,’ he adds.",
+            "date": "Wed, 15 Oct 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "301218.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. economy still vulnerable to tariff shocks, IMF says, and labor shortages tied to immigration crackdown could also sting",
-            "link": "https://www.marketwatch.com/story/u-s-economy-still-vulnerable-to-tariff-shocks-imf-says-and-labor-shortages-tied-to-immigration-crackdown-could-also-sting-8987be99?mod=mw_rss_topstories",
-            "summary": "U.S. economy hasn't suffered much so far from big increases in tariffs or a decline in the labor supply due to tighter immigration rules. But that might change.",
-            "date": "Tue, 14 Oct 2025 13:10:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "‘I’d hate to turn her over to the state’: My mother, who has dementia, refuses to be put in a facility. What can we do?",
-            "link": "https://www.marketwatch.com/story/my-mother-has-dementia-if-i-force-her-into-memory-care-without-a-conservatorship-would-that-be-considered-kidnapping-1d93d6aa?mod=mw_rss_topstories",
-            "summary": "“She has never been willing to sign a power of attorney,” her attorney says. “She’s never been able to get her way.”",
-            "date": "Tue, 14 Oct 2025 12:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IDR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘We’re in a market bubble based on AI exuberance’: I’m moving my $200K IRA to a money-market account. Is that wise?",
-            "link": "https://www.marketwatch.com/story/were-in-a-market-bubble-im-62-and-single-i-want-to-move-my-200k-ira-to-a-money-market-account-am-i-mad-875d2c72?mod=mw_rss_topstories",
-            "summary": "“I will also draw Social Security when I reach 70, which will be $3,500 per month,” he says.",
-            "date": "Tue, 14 Oct 2025 12:36:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HOWL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "GM will take a $1.6 billion hit as it predicts a drop in EV demand. Here’s the latest setback.",
-            "link": "https://www.marketwatch.com/story/gm-will-take-a-1-6-billion-hit-as-it-predicts-a-drop-in-ev-demand-heres-the-latest-setback-2a3b792d?mod=mw_rss_topstories",
-            "summary": "The end of a critical tax credit will force the company to scale back its plans for EV investments. GM’s stock is falling as the result.",
-            "date": "Tue, 14 Oct 2025 12:26:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GM",
+            "stock_ticker": "BMNR",
             "impact": "Neutral"
         }
     ]
