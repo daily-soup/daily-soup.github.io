@@ -1,83 +1,47 @@
 {
-    "date": "2025-10-15",
+    "date": "2025-10-16",
     "news": [
         {
-            "title": "Treasury Secretary Bessent says a stock market decline won't deter the U.S. from taking strong action against China",
-            "link": "https://www.cnbc.com/2025/10/15/treasury-secretary-bessent-stock-market-china.html",
-            "summary": "Treasury Secretary Scott Bessent insisted that the U.S. won't change its negotiating stance on China due to stock market volatility.",
-            "date": "Wed, 15 Oct 2025 13:16:52 GMT",
+            "title": "TSMC profit surges 39% to beat estimates and hit yet another record on AI chip demand",
+            "link": "https://www.cnbc.com/2025/10/16/tsmc-hits-yet-another-record-as-profit-surges-39percent-beating-estimates-on-ai-chip-demand-surge.html",
+            "summary": "Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit, hitting a fresh record despite missing estimates.",
+            "date": "Thu, 16 Oct 2025 12:59:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZF=F",
+            "stock_ticker": "TSMC34.SA",
             "impact": "Neutral"
         },
         {
-            "title": "Bank of America tops expectations on 43% surge in investment banking revenue",
-            "link": "https://www.cnbc.com/2025/10/15/bank-of-america-bac-earnings-q3-2025.html",
-            "summary": "Bank of America's Wall Street businesses helped fuel the quarter's results. Like its peers, Bank of America has seen strong results from its Wall Street business.",
-            "date": "Wed, 15 Oct 2025 12:13:49 GMT",
+            "title": "Microsoft will test a Copilot AI feature that performs work on local files in Windows 11",
+            "link": "https://www.cnbc.com/2025/10/16/microsoft-test-copilot-manus-windows-11.html",
+            "summary": "Early adopters will be able to tell Microsoft's Copilot assistant to take action on files stored on their Windows 11 PCs. Copilot will be available on Microsoft's Windows 11 operating system.",
+            "date": "Thu, 16 Oct 2025 13:20:43 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SXB=F",
+            "stock_ticker": "MSFT",
             "impact": "Neutral"
         },
         {
-            "title": "Apple announces new MacBook Pro laptops with updated chip",
-            "link": "https://www.cnbc.com/2025/10/15/apple-macbook-pro-laptops-m5-chip.html",
-            "summary": "Apple announced new MacBook Pro models on Wednesday with an updated M5 chip. The chip allows them to run faster than their predecessors. Apple also announced a new iWatch with a faster processor.",
-            "date": "Wed, 15 Oct 2025 13:25:33 GMT",
+            "title": "Nestle jumps 8% after consumer goods giant announces plans to slash 16,000 jobs",
+            "link": "https://www.cnbc.com/2025/10/16/nestle-3q-earnings-announces-16000-job-cuts.html",
+            "summary": "Nestle said Thursday it will cut 16,000 jobs. New CEO Philipp Navratil looks to accelerate a turnaround at the consumer goods giant.",
+            "date": "Thu, 16 Oct 2025 09:26:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAPL",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Nscale eyes IPO amid fresh $14 billion deal with Microsoft",
-            "link": "https://www.cnbc.com/2025/10/15/nscale-eyes-ipo-amid-fresh-14-billion-deal-with-microsoft-.html",
-            "summary": "The AI cloud company could IPO towards the back end of 2026, a spokesperson confirmed to CNBC. The company could go public in the second half of next year.",
-            "date": "Wed, 15 Oct 2025 12:18:18 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "031310.KQ",
+            "stock_ticker": "NESN.SW",
             "impact": "Neutral"
         },
         {
-            "title": "Morgan Stanley posts massive third-quarter earnings beat",
-            "link": "https://www.cnbc.com/2025/10/15/morgan-stanley-ms-earnings-q3-2025.html",
-            "summary": "Wall Street-centric banks like Morgan Stanley and peer Goldman Sachs are in an ideal moneymaking environment. Morgan Stanley is the world's largest bank. Goldman Sachs is the second largest.",
-            "date": "Wed, 15 Oct 2025 12:47:20 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JPM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘Expensive, but not nutty.’ Howard Marks on U.S. stocks and the one thing investors should be doing right now.",
-            "link": "https://www.marketwatch.com/story/expensive-but-not-nutty-howard-marks-on-u-s-stocks-and-the-one-thing-investors-should-be-doing-right-now-74c75960?mod=mw_rss_topstories",
-            "summary": "Oaktree co-founder Howard Marks says investors should start taking some “chips off the table,” after a strong run for markets.",
-            "date": "Wed, 15 Oct 2025 13:23:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DE000SL0FDL4.SG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Crypto hype is affecting everything from real estate to Treasurys. Here’s how to play it.",
-            "link": "https://www.marketwatch.com/story/crypto-hype-is-affecting-everything-from-real-estate-to-treasurys-heres-how-to-play-it-51f501ed?mod=mw_rss_topstories",
-            "summary": "Tokenization is unlikely to make you rich overnight. But it could make your portfolio more transparent, liquid and efficient. For more information on Tokenization click here.",
-            "date": "Wed, 15 Oct 2025 13:17:00 GMT",
+            "title": "PayPal's crypto partner mints a whopping $300 trillion worth of stablecoins in 'technical error'",
+            "link": "https://www.cnbc.com/2025/10/16/paypals-crypto-partner-mints-300-trillion-stablecoins-in-technical-error.html",
+            "summary": "Paxos, the blockchain partner of PayPal, mistakenly minted $300 trillion of the online payment giant's stablecoin. The company called the mistake a \"technical error\"",
+            "date": "Thu, 16 Oct 2025 10:10:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "One of the last holdouts on Nvidia’s stock now predicts 78% upside. Here’s the thesis.",
-            "link": "https://www.marketwatch.com/story/one-of-the-last-holdouts-on-nvidias-stock-now-predicts-78-upside-heres-the-thesis-24dcb911?mod=mw_rss_topstories",
-            "summary": "HSBC analysts now think Nvidia has the potential to vastly exceed Wall Street expectations for data-center revenue as the company’s customer base broadens.",
-            "date": "Wed, 15 Oct 2025 13:13:00 GMT",
+            "title": "Tariffs are pushing prices higher and consumers are feeling the hit, Fed's Beige Book shows",
+            "link": "https://www.cnbc.com/2025/10/15/tariffs-are-pushing-prices-higher-and-consumers-are-feeling-the-hit-feds-beige-book-shows.html",
+            "summary": "Companies are caught between absorbing the costs or passing them onto customers, according to a Federal Reserve report. The report was published by the Federal Reserve on Wednesday.",
+            "date": "Wed, 15 Oct 2025 18:40:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SR1=F",
+            "stock_ticker": "ARE",
             "impact": "Neutral"
         },
         {
-            "title": "Bank of America rides 43% jump in investment-banking revenue to big profit beat",
-            "link": "https://www.marketwatch.com/story/bank-of-america-rides-a-43-jump-in-investment-banking-revenue-to-a-big-profit-beat-dff86a58?mod=mw_rss_topstories",
-            "summary": "Bank's net interest income hits a record and CEO Brian Moynihan cites strength across the board. Stock rises toward an 18-year high.",
-            "date": "Wed, 15 Oct 2025 13:03:00 GMT",
+            "title": "Here’s a better way to invest for income before money-market yields plunge",
+            "link": "https://www.marketwatch.com/story/heres-a-better-way-to-invest-for-income-before-money-market-yields-plunge-15597689?mod=mw_rss_topstories",
+            "summary": "Make sure investment income continues to flow if interest rates tumble. This is a good time to expand your horizons to make sure you have a safe investment.",
+            "date": "Thu, 16 Oct 2025 12:57:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SXB=F",
+            "stock_ticker": "A",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m stumped’: I put $3,000 on my credit card during a vacation and my credit score plunged. Why is it so volatile?",
-            "link": "https://www.marketwatch.com/story/im-stumped-i-put-3-000-on-my-credit-card-for-a-vacation-and-my-credit-score-plummeted-why-is-it-so-volatile-2fb56b1b?mod=mw_rss_topstories",
-            "summary": "“Doesn’t a 30-year history of good credit count for anything?” he asks. ‘Doesn't a 30 year history ofgood credit count?’ “I’m not sure,’ he adds.",
-            "date": "Wed, 15 Oct 2025 13:00:00 GMT",
+            "title": "Forget the wealthy. Why this value manager is betting on average Americans, and the stocks he’s buying now.",
+            "link": "https://www.marketwatch.com/story/forget-the-wealthy-why-this-value-manager-is-betting-on-average-americans-and-the-stocks-hes-buying-now-a521b2f4?mod=mw_rss_topstories",
+            "summary": "Smead Capital Management’s Bill Smead says when the market correction eventually comes, wealthy Americans won’t help investors’ portfolios.",
+            "date": "Thu, 16 Oct 2025 12:39:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "A major lender wants to turn mortgages into rewards points. Here’s why you should think twice.",
+            "link": "https://www.marketwatch.com/story/a-major-lender-wants-to-turn-mortgages-into-rewards-points-heres-why-you-should-think-twice-9ad34011?mod=mw_rss_topstories",
+            "summary": "United Wholesale Mortgage is teaming up with Bilt to offer rewards points. The move is part of a broader push by lenders to attract scarce borrowers.",
+            "date": "Thu, 16 Oct 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "A",
+            "impact": "Bullish"
+        },
+        {
+            "title": "‘It kind of takes the joy out of cruising.’ Some Norwegian Cruise Line passengers balk at new food-and-drink policies.",
+            "link": "https://www.marketwatch.com/story/it-kind-of-takes-the-joy-out-of-cruising-some-norwegian-cruise-line-passengers-balk-at-new-food-and-drink-policies-fd86ad13?mod=mw_rss_topstories",
+            "summary": "Wall Street analysts say it's all about paying heed to the bottom line, say Wall Street analysts. But it’s also about paying attention to your customers, they say.",
+            "date": "Thu, 16 Oct 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nestle earnings beat and 16,000 job cuts prompt biggest one-day jump in shares since 2008",
+            "link": "https://www.marketwatch.com/story/nestle-earnings-beat-and-16-000-job-cuts-prompt-biggest-one-day-jump-in-shares-since-2008-6040dc8d?mod=mw_rss_topstories",
+            "summary": "Navratil has effected massive organizational changes since his recent appointment barely a month ago. New CEO Navratil was appointed to the role of CEO and COO at the end of last month.",
+            "date": "Thu, 16 Oct 2025 11:39:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NESN.SW",
             "impact": "Neutral"
         }
     ]
