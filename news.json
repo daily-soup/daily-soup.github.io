@@ -1,124 +1,124 @@
 {
-    "date": "2025-10-16",
+    "date": "2025-10-17",
     "news": [
         {
-            "title": "TSMC profit surges 39% to beat estimates and hit yet another record on AI chip demand",
-            "link": "https://www.cnbc.com/2025/10/16/tsmc-hits-yet-another-record-as-profit-surges-39percent-beating-estimates-on-ai-chip-demand-surge.html",
-            "summary": "Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit, hitting a fresh record despite missing estimates.",
-            "date": "Thu, 16 Oct 2025 12:59:58 GMT",
+            "title": "Trump Treasury Sec. Bessent to speak with Chinese trade counterpart on Friday",
+            "link": "https://www.cnbc.com/2025/10/17/bessent-china-trade-lifeng.html",
+            "summary": "Treasury Secretary Scott Bessent will speak by phone on Friday with Chinese Vice Premier He Lifeng, a senior Trump administration official says.",
+            "date": "Fri, 17 Oct 2025 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSMC34.SA",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Microsoft will test a Copilot AI feature that performs work on local files in Windows 11",
-            "link": "https://www.cnbc.com/2025/10/16/microsoft-test-copilot-manus-windows-11.html",
-            "summary": "Early adopters will be able to tell Microsoft's Copilot assistant to take action on files stored on their Windows 11 PCs. Copilot will be available on Microsoft's Windows 11 operating system.",
-            "date": "Thu, 16 Oct 2025 13:20:43 GMT",
+            "title": "Moody's says the banking system, private credit markets are sound despite worries over bad loans",
+            "link": "https://www.cnbc.com/2025/10/17/moodys-says-the-banking-system-private-credit-markets-are-sound-despite-worries-over-bad-loans.html",
+            "summary": "Marc Pinto, the agency's head of global private credit, acknowledged in a CNBC interview that there are concerns over loose lending standards.",
+            "date": "Fri, 17 Oct 2025 12:45:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MSFT",
+            "stock_ticker": "MCO",
             "impact": "Neutral"
         },
         {
-            "title": "Nestle jumps 8% after consumer goods giant announces plans to slash 16,000 jobs",
-            "link": "https://www.cnbc.com/2025/10/16/nestle-3q-earnings-announces-16000-job-cuts.html",
-            "summary": "Nestle said Thursday it will cut 16,000 jobs. New CEO Philipp Navratil looks to accelerate a turnaround at the consumer goods giant.",
-            "date": "Thu, 16 Oct 2025 09:26:06 GMT",
+            "title": "Apple and F1 reach 5-year media deal, bringing all races to Apple TV streaming in the U.S.",
+            "link": "https://www.cnbc.com/2025/10/17/apple-f1-media-deal-streaming.html",
+            "summary": "Apple and Formula 1 announced their long-awaited five-year U.S. media rights deal. The deal will bring all U.s. televised races to Apple TV.",
+            "date": "Fri, 17 Oct 2025 13:12:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NESN.SW",
+            "stock_ticker": "AAPL",
             "impact": "Neutral"
         },
         {
-            "title": "PayPal's crypto partner mints a whopping $300 trillion worth of stablecoins in 'technical error'",
-            "link": "https://www.cnbc.com/2025/10/16/paypals-crypto-partner-mints-300-trillion-stablecoins-in-technical-error.html",
-            "summary": "Paxos, the blockchain partner of PayPal, mistakenly minted $300 trillion of the online payment giant's stablecoin. The company called the mistake a \"technical error\"",
-            "date": "Thu, 16 Oct 2025 10:10:21 GMT",
+            "title": "Meta announces new AI parental controls following FTC inquiry",
+            "link": "https://www.cnbc.com/2025/10/17/meta-ai-chatbot-parental-controls-ftc.html",
+            "summary": "Parents will be able to turn off chats with AI characters completely. They can also block specific characters and get insight into what their teens are discussing.",
+            "date": "Fri, 17 Oct 2025 13:14:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CRYP.AX",
+            "stock_ticker": "META",
             "impact": "Neutral"
         },
         {
-            "title": "Tariffs are pushing prices higher and consumers are feeling the hit, Fed's Beige Book shows",
-            "link": "https://www.cnbc.com/2025/10/15/tariffs-are-pushing-prices-higher-and-consumers-are-feeling-the-hit-feds-beige-book-shows.html",
-            "summary": "Companies are caught between absorbing the costs or passing them onto customers, according to a Federal Reserve report. The report was published by the Federal Reserve on Wednesday.",
-            "date": "Wed, 15 Oct 2025 18:40:50 GMT",
+            "title": "Small businesses are being crushed by Trump's tariffs and economists say it's a warning for the economy",
+            "link": "https://www.cnbc.com/2025/10/17/how-much-trump-tariffs-are-costing-small-businesses.html",
+            "summary": "Small businesses are struggling under President Trump's global trade war. Some warn they may have to close their companies if consumer demand falls. Small businesses are suffering under the president's trade war with China and other countries.",
+            "date": "Fri, 17 Oct 2025 12:32:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ARE",
+            "stock_ticker": "MSC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s a better way to invest for income before money-market yields plunge",
-            "link": "https://www.marketwatch.com/story/heres-a-better-way-to-invest-for-income-before-money-market-yields-plunge-15597689?mod=mw_rss_topstories",
-            "summary": "Make sure investment income continues to flow if interest rates tumble. This is a good time to expand your horizons to make sure you have a safe investment.",
-            "date": "Thu, 16 Oct 2025 12:57:00 GMT",
+            "title": "‘We have been married for 10 years’: My children will get my estate — not my husband, who has $1.3 million. Is that fair?",
+            "link": "https://www.marketwatch.com/story/we-have-been-married-for-10-years-my-children-will-get-my-estate-not-my-husband-who-has-1-3-million-is-that-fair-fbed0c8c?mod=mw_rss_topstories",
+            "summary": "“He plans to leave me a life estate in the condo and the ability to receive rent from his properties,” she says.",
+            "date": "Fri, 17 Oct 2025 13:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
+            "stock_ticker": "WFC",
             "impact": "Neutral"
         },
         {
-            "title": "Forget the wealthy. Why this value manager is betting on average Americans, and the stocks he’s buying now.",
-            "link": "https://www.marketwatch.com/story/forget-the-wealthy-why-this-value-manager-is-betting-on-average-americans-and-the-stocks-hes-buying-now-a521b2f4?mod=mw_rss_topstories",
-            "summary": "Smead Capital Management’s Bill Smead says when the market correction eventually comes, wealthy Americans won’t help investors’ portfolios.",
-            "date": "Thu, 16 Oct 2025 12:39:00 GMT",
+            "title": "Fifth Third looks to calm investors, says loan losses are falling",
+            "link": "https://www.marketwatch.com/story/fifth-third-says-nothing-more-about-its-tricolor-loan-loss-and-the-stock-rises-df183534?mod=mw_rss_topstories",
+            "summary": "Fifth Third's provision for credit losses rises but were less than analyst expectations. Fifth Third’s provision for Credit Losses rises but are less than Analyst expectations.",
+            "date": "Fri, 17 Oct 2025 12:53:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "FITB",
             "impact": "Neutral"
         },
         {
-            "title": "A major lender wants to turn mortgages into rewards points. Here’s why you should think twice.",
-            "link": "https://www.marketwatch.com/story/a-major-lender-wants-to-turn-mortgages-into-rewards-points-heres-why-you-should-think-twice-9ad34011?mod=mw_rss_topstories",
-            "summary": "United Wholesale Mortgage is teaming up with Bilt to offer rewards points. The move is part of a broader push by lenders to attract scarce borrowers.",
-            "date": "Thu, 16 Oct 2025 12:00:00 GMT",
+            "title": "We’re in our 70s. How do we withdraw $6 million from our retirement fund without getting killed on taxes?",
+            "link": "https://www.marketwatch.com/story/were-in-our-70s-how-do-we-withdraw-6-million-from-our-retirement-fund-without-getting-killed-on-taxes-e0748c25?mod=mw_rss_topstories",
+            "summary": "Some of the stocks pay dividends totaling around $90,000 annually. “Some of these stocks pay dividend totaling about $90k annually,” the company says.",
+            "date": "Fri, 17 Oct 2025 12:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
-            "impact": "Bullish"
-        },
-        {
-            "title": "‘It kind of takes the joy out of cruising.’ Some Norwegian Cruise Line passengers balk at new food-and-drink policies.",
-            "link": "https://www.marketwatch.com/story/it-kind-of-takes-the-joy-out-of-cruising-some-norwegian-cruise-line-passengers-balk-at-new-food-and-drink-policies-fd86ad13?mod=mw_rss_topstories",
-            "summary": "Wall Street analysts say it's all about paying heed to the bottom line, say Wall Street analysts. But it’s also about paying attention to your customers, they say.",
-            "date": "Thu, 16 Oct 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IT",
+            "stock_ticker": "HOWL",
             "impact": "Neutral"
         },
         {
-            "title": "Nestle earnings beat and 16,000 job cuts prompt biggest one-day jump in shares since 2008",
-            "link": "https://www.marketwatch.com/story/nestle-earnings-beat-and-16-000-job-cuts-prompt-biggest-one-day-jump-in-shares-since-2008-6040dc8d?mod=mw_rss_topstories",
-            "summary": "Navratil has effected massive organizational changes since his recent appointment barely a month ago. New CEO Navratil was appointed to the role of CEO and COO at the end of last month.",
-            "date": "Thu, 16 Oct 2025 11:39:00 GMT",
+            "title": "Winning stock investors make money spotting trends early — and this one is just starting",
+            "link": "https://www.marketwatch.com/story/winning-stock-investors-make-money-spotting-trends-early-and-this-one-is-just-starting-acf615d5?mod=mw_rss_topstories",
+            "summary": "Charlie Garcia responds to readers about why younger Americans choosing real-world activities is the real deal. Charlie Garcia: \"I think it's because they want to be part of something bigger than themselves\"",
+            "date": "Fri, 17 Oct 2025 12:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NESN.SW",
+            "stock_ticker": "300253.SZ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "There is credit market fear right now. But here’s why stocks will still rally into year-end, says this bull.",
+            "link": "https://www.marketwatch.com/story/yes-there-is-credit-market-apprehension-right-now-but-heres-why-stocks-will-still-rally-into-year-end-says-this-bull-cf9d4275?mod=mw_rss_topstories",
+            "summary": "A rush by fund managers to boost portfolios will help take the S&amp;P 500 to 7,000, says Tom Lee. Tom Lee: A rush by funds to boost portfolio will help bring S&P 500 up to 6,000.",
+            "date": "Fri, 17 Oct 2025 11:53:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MAY-USD",
             "impact": "Neutral"
         }
     ]
