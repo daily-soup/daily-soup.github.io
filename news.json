@@ -1,11 +1,23 @@
 {
-    "date": "2025-10-17",
+    "date": "2025-10-18",
     "news": [
         {
-            "title": "Trump Treasury Sec. Bessent to speak with Chinese trade counterpart on Friday",
-            "link": "https://www.cnbc.com/2025/10/17/bessent-china-trade-lifeng.html",
-            "summary": "Treasury Secretary Scott Bessent will speak by phone on Friday with Chinese Vice Premier He Lifeng, a senior Trump administration official says.",
-            "date": "Fri, 17 Oct 2025 13:15:00 GMT",
+            "title": "The alleged 'sweeping betrayal of trust' that rocked Zions bank and spooked Wall Street",
+            "link": "https://www.cnbc.com/2025/10/18/the-alleged-sweeping-betrayal-of-trust-that-rocked-zions-bank-and-spooked-wall-street.html",
+            "summary": "Zions Bancorporation lost $1 billion of its valuation in a single day on Thursday after disclosing $60 million worth of loans it had made that were unlikely to be repaid.",
+            "date": "Sat, 18 Oct 2025 12:34:45 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump commutes prison sentence of ex-GOP Rep. George Santos",
+            "link": "https://www.cnbc.com/2025/10/17/trump-george-santos-prison-commutation.html",
+            "summary": "Trump said he began thinking about Santos after being reminded of a controversy about Democratic Sen. Richard Blumenthal's military service claims. Trump said he was reminded of the controversy about Blumenthal.",
+            "date": "Sat, 18 Oct 2025 01:19:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +26,99 @@
             "impact": "Neutral"
         },
         {
-            "title": "Moody's says the banking system, private credit markets are sound despite worries over bad loans",
-            "link": "https://www.cnbc.com/2025/10/17/moodys-says-the-banking-system-private-credit-markets-are-sound-despite-worries-over-bad-loans.html",
-            "summary": "Marc Pinto, the agency's head of global private credit, acknowledged in a CNBC interview that there are concerns over loose lending standards.",
-            "date": "Fri, 17 Oct 2025 12:45:30 GMT",
+            "title": "Warren Buffett's master class on the problem with gold",
+            "link": "https://www.cnbc.com/2025/10/17/buffetts-master-class-on-the-problem-with-gold.html",
+            "summary": "The gold rally has some strategists arguing it should now take a permanent place in diversified portfolios. Buffett rejects it as a long-term investment.",
+            "date": "Sat, 18 Oct 2025 12:56:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MCO",
+            "stock_ticker": "PWR.AX",
             "impact": "Neutral"
         },
         {
-            "title": "Apple and F1 reach 5-year media deal, bringing all races to Apple TV streaming in the U.S.",
-            "link": "https://www.cnbc.com/2025/10/17/apple-f1-media-deal-streaming.html",
-            "summary": "Apple and Formula 1 announced their long-awaited five-year U.S. media rights deal. The deal will bring all U.s. televised races to Apple TV.",
-            "date": "Fri, 17 Oct 2025 13:12:56 GMT",
+            "title": "Proxy advisor ISS recommends Tesla shareholders oppose Elon Musk $1 trillion pay plan",
+            "link": "https://www.cnbc.com/2025/10/17/proxy-advisor-iss-opposes-tesla-ceo-elon-musk-1-trillion-pay-plan.html",
+            "summary": "Institutional Shareholder Services recommended Tesla investors vote against a pay plan for CEO Elon Musk that would grant him nearly $1 trillion more in stock.",
+            "date": "Fri, 17 Oct 2025 23:23:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAPL",
+            "stock_ticker": "0P0001J8T8.ST",
             "impact": "Neutral"
         },
         {
-            "title": "Meta announces new AI parental controls following FTC inquiry",
-            "link": "https://www.cnbc.com/2025/10/17/meta-ai-chatbot-parental-controls-ftc.html",
-            "summary": "Parents will be able to turn off chats with AI characters completely. They can also block specific characters and get insight into what their teens are discussing.",
-            "date": "Fri, 17 Oct 2025 13:14:36 GMT",
+            "title": "Utilities grapple with a multibillion question: How much AI data center power demand is real",
+            "link": "https://www.cnbc.com/2025/10/17/ai-data-center-openai-gas-nuclear-renewable-utility.html",
+            "summary": "The tech industry is shopping the same big projects around to multiple utilities as they look for the quickest access to power. The companies are looking for the fastest way to get the power they need.",
+            "date": "Fri, 17 Oct 2025 18:13:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "META",
+            "stock_ticker": "XUT=F",
             "impact": "Neutral"
         },
         {
-            "title": "Small businesses are being crushed by Trump's tariffs and economists say it's a warning for the economy",
-            "link": "https://www.cnbc.com/2025/10/17/how-much-trump-tariffs-are-costing-small-businesses.html",
-            "summary": "Small businesses are struggling under President Trump's global trade war. Some warn they may have to close their companies if consumer demand falls. Small businesses are suffering under the president's trade war with China and other countries.",
-            "date": "Fri, 17 Oct 2025 12:32:29 GMT",
+            "title": "‘I watch antenna TV’: I’m 66. Will I lose my disability benefits if Social Security goes belly up?",
+            "link": "https://www.marketwatch.com/story/i-watch-antenna-tv-im-66-will-i-lose-my-disability-benefits-if-social-security-goes-belly-up-ffe6afd4?mod=mw_rss_topstories",
+            "summary": "“I read that the Social Security Disability Insurance Trust Fund is good until 2099,” he says. “I’m glad that’s the case.”",
+            "date": "Sat, 18 Oct 2025 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MSC=F",
+            "stock_ticker": "OWLS",
             "impact": "Neutral"
         },
         {
-            "title": "‘We have been married for 10 years’: My children will get my estate — not my husband, who has $1.3 million. Is that fair?",
-            "link": "https://www.marketwatch.com/story/we-have-been-married-for-10-years-my-children-will-get-my-estate-not-my-husband-who-has-1-3-million-is-that-fair-fbed0c8c?mod=mw_rss_topstories",
-            "summary": "“He plans to leave me a life estate in the condo and the ability to receive rent from his properties,” she says.",
-            "date": "Fri, 17 Oct 2025 13:17:00 GMT",
+            "title": "My stepdaughter is buying a house. Can her soon-to-be ex-husband claim a share?",
+            "link": "https://www.marketwatch.com/story/my-stepdaughter-is-buying-a-house-can-her-soon-to-be-ex-husband-claim-a-share-320a8394?mod=mw_rss_topstories",
+            "summary": "“Her real-estate agent has assured her that she has nothing to worry about,” a spokesman for the family said. “She’s in good spirits,’ the spokesman said.",
+            "date": "Sat, 18 Oct 2025 13:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFC",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "Fifth Third looks to calm investors, says loan losses are falling",
-            "link": "https://www.marketwatch.com/story/fifth-third-says-nothing-more-about-its-tricolor-loan-loss-and-the-stock-rises-df183534?mod=mw_rss_topstories",
-            "summary": "Fifth Third's provision for credit losses rises but were less than analyst expectations. Fifth Third’s provision for Credit Losses rises but are less than Analyst expectations.",
-            "date": "Fri, 17 Oct 2025 12:53:00 GMT",
+            "title": "This secret ingredient of the economy says things are OK — and no recession is brewing",
+            "link": "https://www.marketwatch.com/story/this-secret-ingredient-of-the-economy-says-things-are-ok-and-no-recession-is-brewing-246cb0d8?mod=mw_rss_topstories",
+            "summary": "When the economy shows sign of stress, one of the first things Americans strike from their budgets is frequent takeout dinners and restaurant reservations. It’s an early warning sign of recession.",
+            "date": "Sat, 18 Oct 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FITB",
+            "stock_ticker": "THISX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "U.S. passport power plunges — and ‘worried’ Americans are searching for second passports and golden visas",
+            "link": "https://www.marketwatch.com/story/u-s-passport-power-plunges-and-worried-americans-are-searching-for-second-passports-and-golden-visas-40d5bf87?mod=mw_rss_topstories",
+            "summary": "Many Americans aren’t necessarily looking to move overseas. They’re looking for a Plan B. The U.S. economy is in a recession, but it’s still growing.",
+            "date": "Sat, 18 Oct 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
             "title": "We’re in our 70s. How do we withdraw $6 million from our retirement fund without getting killed on taxes?",
             "link": "https://www.marketwatch.com/story/were-in-our-70s-how-do-we-withdraw-6-million-from-our-retirement-fund-without-getting-killed-on-taxes-e0748c25?mod=mw_rss_topstories",
             "summary": "Some of the stocks pay dividends totaling around $90,000 annually. “Some of these stocks pay dividend totaling about $90k annually,” the company says.",
-            "date": "Fri, 17 Oct 2025 12:38:00 GMT",
+            "date": "Sat, 18 Oct 2025 12:36:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "HOWL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Winning stock investors make money spotting trends early — and this one is just starting",
-            "link": "https://www.marketwatch.com/story/winning-stock-investors-make-money-spotting-trends-early-and-this-one-is-just-starting-acf615d5?mod=mw_rss_topstories",
-            "summary": "Charlie Garcia responds to readers about why younger Americans choosing real-world activities is the real deal. Charlie Garcia: \"I think it's because they want to be part of something bigger than themselves\"",
-            "date": "Fri, 17 Oct 2025 12:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "300253.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "There is credit market fear right now. But here’s why stocks will still rally into year-end, says this bull.",
-            "link": "https://www.marketwatch.com/story/yes-there-is-credit-market-apprehension-right-now-but-heres-why-stocks-will-still-rally-into-year-end-says-this-bull-cf9d4275?mod=mw_rss_topstories",
-            "summary": "A rush by fund managers to boost portfolios will help take the S&amp;P 500 to 7,000, says Tom Lee. Tom Lee: A rush by funds to boost portfolio will help bring S&P 500 up to 6,000.",
-            "date": "Fri, 17 Oct 2025 11:53:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MAY-USD",
             "impact": "Neutral"
         }
     ]
