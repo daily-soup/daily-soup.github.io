@@ -1,95 +1,71 @@
 {
-    "date": "2025-10-19",
+    "date": "2025-10-20",
     "news": [
         {
-            "title": "As Anthropic tries to keep pace with OpenAI, it's also taking on the U.S. government",
-            "link": "https://www.cnbc.com/2025/10/19/anthropic-tries-to-keep-pace-with-openai-faces-off-with-david-sacks.html",
-            "summary": "Anthropic is chasing OpenAI in the artificial intelligence market. David Sacks, the White House AI and crypto czar, has been publicly critical of Anthropic.",
-            "date": "Sun, 19 Oct 2025 12:00:01 GMT",
+            "title": "Amazon Web Services outage hits major websites: What we know so far as recovery begins",
+            "link": "https://www.cnbc.com/2025/10/20/amazon-web-services-outage-takes-down-major-websites.html",
+            "summary": "AWS, which suffered a major outage early Monday, is the leading provider of cloud infrastructure technology. It accounts for about a third of the market.",
+            "date": "Mon, 20 Oct 2025 13:11:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AS",
+            "stock_ticker": "AMZN",
             "impact": "Neutral"
         },
         {
-            "title": "The alleged 'sweeping betrayal of trust' that rocked Zions bank and spooked Wall Street",
-            "link": "https://www.cnbc.com/2025/10/18/the-alleged-sweeping-betrayal-of-trust-that-rocked-zions-bank-and-spooked-wall-street.html",
-            "summary": "Zions Bancorporation lost $1 billion of its valuation in a single day on Thursday after disclosing $60 million worth of loans it had made that were unlikely to be repaid.",
-            "date": "Sat, 18 Oct 2025 14:12:53 GMT",
+            "title": "White House Economic Advisor Hassett says shutdown could end this week",
+            "link": "https://www.cnbc.com/2025/10/20/trump-hassett-government-shutdown.html",
+            "summary": "Top White House economic advisor Kevin Hassett predicted that the government shutdown is \"likely to end sometime this week\" Hassett said the shutdown is likely to end \"this week\"",
+            "date": "Mon, 20 Oct 2025 13:12:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
+            "stock_ticker": "WHC.AX",
+            "impact": "Bearish"
         },
         {
-            "title": "From fraternities to women's soccer, this under-the-radar T-shirt brand is popping up everywhere",
-            "link": "https://www.cnbc.com/2025/10/19/comfort-colors-gildan-shirt-gen-z.html",
-            "summary": "Comfort Colors is a half-century-old, Gildan-owned shirt brand. A loyal and growing base of consumers are driving demand for the brand.",
-            "date": "Sun, 19 Oct 2025 11:37:45 GMT",
+            "title": "Trump calls for Ukraine to be carved up with Russia after tense meeting with Zelenskyy",
+            "link": "https://www.cnbc.com/2025/10/20/trump-shifts-weight-behind-putin-after-tense-meeting-with-zelenskyy.html",
+            "summary": "Trump appears to be seesawing in his support for Ukraine, following his phone call with President Vladmir Putin last Thursday. Trump appears to have seesawed in his supports for Ukraine after his phonecall with President Vladimir Putin.",
+            "date": "Mon, 20 Oct 2025 11:21:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "377220.KQ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Top Wall Street analysts are upbeat on these 3 dividend-paying stocks",
-            "link": "https://www.cnbc.com/2025/10/19/top-wall-street-analysts-are-upbeat-on-these-3-dividend-paying-stocks.html",
-            "summary": "Three dividend-paying stocks highlighted by Wall Street's top pros. Here are three dividend- paying stocks, highlighted by Wall Street'sTop pros.",
-            "date": "Sun, 19 Oct 2025 11:33:57 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TOP",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I retired in the No. 1 country Americans want to move to most—I don't regret it: 'We save about $5,000 per month'",
-            "link": "https://www.cnbc.com/2025/10/18/i-retired-in-the-no-1-country-americans-want-to-move-to-the-most-we-save-5000-a-month.html",
-            "summary": "When he was 41, Alex Trias walked away from a high-paying law career. Now he lives in Portugal, the No. 1 country Americans want to move to the most.",
-            "date": "Sat, 18 Oct 2025 13:46:28 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TSLA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "There’s one key piece of chart evidence missing to call for a stock-market correction",
-            "link": "https://www.marketwatch.com/story/theres-one-key-piece-of-chart-evidence-missing-to-call-for-a-stock-market-correction-2304cf46?mod=mw_rss_topstories",
-            "summary": "Despite concerns that a stock-market correction is imminent, repeating patterns of success by bulls show the uptrend is still intact — for now.",
-            "date": "Sun, 19 Oct 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MAY-USD",
+            "stock_ticker": "DJT",
             "impact": "Bullish"
         },
         {
-            "title": "‘My family is having a crisis’: My mom added my brother to her mortgage. He stopped paying. How does she get him off it?",
-            "link": "https://www.marketwatch.com/story/my-family-is-having-a-crisis-my-mom-added-my-brother-to-her-mortgage-he-stopped-paying-how-does-she-get-him-off-it-960f55b0?mod=mw_rss_topstories",
-            "summary": "“He refuses to take their names off the mortgage without getting paid,” says a source close to the family. “He doesn’t want to pay them. He wants them to get paid.”",
-            "date": "Sun, 19 Oct 2025 10:33:00 GMT",
+            "title": "Cost and chaos continue to test resiliency of U.S. auto industry",
+            "link": "https://www.cnbc.com/2025/10/20/tariffs-ford-tesla-gm-auto-industry-chaos.html",
+            "summary": "Auto executives, insiders and analysts told CNBC things aren't as bad as they once feared. Some of the most dire predictions haven't come to pass.",
+            "date": "Mon, 20 Oct 2025 12:51:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "COST",
             "impact": "Neutral"
         },
         {
-            "title": "‘It’s getting scary close to retirement’: We’re 70. We have no debt, no stocks and $275K in savings. Are we in trouble?",
-            "link": "https://www.marketwatch.com/story/its-getting-scary-close-to-retirement-were-70-we-have-no-debt-no-stocks-and-275k-in-savings-are-we-in-trouble-1a4ba5f6?mod=mw_rss_topstories",
-            "summary": "“We will have $4,300 a month in Social Security,” he says. “That’s what we’ll be able to do.”",
-            "date": "Sat, 18 Oct 2025 23:08:00 GMT",
+            "title": "Rare earths make gains in premarket trading amid battle to beat China’s dominance",
+            "link": "https://www.cnbc.com/2025/10/20/rare-earths-gain-amid-us-effort-to-beat-chinas-dominance.html",
+            "summary": "Shares of U.S.-listed companies related to the rare earth supply chain climbed in premarket trading on Monday. Shares of companies in the supply chain are related to rare earths, such as lithium, cobalt and rare earth oxide.",
+            "date": "Mon, 20 Oct 2025 13:17:27 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RARE",
+            "impact": "Bullish"
+        },
+        {
+            "title": "It’s a ‘historically opportunistic’ time for stock picking, says Morgan Stanley. Here are the bank’s picks.",
+            "link": "https://www.marketwatch.com/story/its-a-historically-opportunistic-time-for-stock-picking-says-morgan-stanley-here-are-the-banks-picks-37c376b3?mod=mw_rss_topstories",
+            "summary": "Morgan Stanley says it's a prime time to pick stocks right now. The bank has some ideas on how to invest in the right stocks at the right time.",
+            "date": "Mon, 20 Oct 2025 13:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘She may have a spending problem’: Would it be wrong to secretly give our son money — without telling his wife?",
-            "link": "https://www.marketwatch.com/story/she-may-have-a-spending-problem-would-it-be-wrong-to-secretly-give-our-son-money-without-telling-his-wife-421d2097?mod=mw_rss_topstories",
-            "summary": "“Our son and his wife, who are in their 30s with a child in preschool, are having marital problems,” his mother said. “Our daughter-in-law, who is in her 30s, is having marital issues,’ she said.",
-            "date": "Sat, 18 Oct 2025 22:37:00 GMT",
+            "title": "‘My family is having a crisis’: My mom added my brother to her mortgage. He stopped paying. How does she get him off it?",
+            "link": "https://www.marketwatch.com/story/my-family-is-having-a-crisis-my-mom-added-my-brother-to-her-mortgage-he-stopped-paying-how-does-she-get-him-off-it-960f55b0?mod=mw_rss_topstories",
+            "summary": "“He refuses to take their names off the mortgage without getting paid,” says a source close to the family. “He doesn’t want to pay them. He wants them to get paid.”",
+            "date": "Mon, 20 Oct 2025 12:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHE",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "I’m 42, a single parent with $372K in cash and CDs. I won’t invest in stocks. Am I wrong?",
-            "link": "https://www.marketwatch.com/story/im-42-a-single-parent-with-372k-i-wont-invest-in-the-s-p-500-am-i-wrong-fd26ce67?mod=mw_rss_topstories",
-            "summary": "“I am not comfortable putting too much cash in stocks, especially given I have two young kids,” he said. “I’m not comfortable put too much money in stocks.”",
-            "date": "Sat, 18 Oct 2025 22:35:00 GMT",
+            "title": "‘A friend calls it the everything bubble’: Why do so many economists fear a 1929-style crash?",
+            "link": "https://www.marketwatch.com/story/a-friend-calls-it-the-everything-bubble-why-do-so-many-economists-fear-a-1929-style-crash-084df040?mod=mw_rss_topstories",
+            "summary": "We have faced fears, for more than 10 years, that the market is going to experience the kind of crash not seen in nearly a century.",
+            "date": "Mon, 20 Oct 2025 12:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "A",
+            "impact": "Neutral"
+        },
+        {
+            "title": "With Apple stock near a record high as earnings loom, here’s the options trade to make",
+            "link": "https://www.marketwatch.com/story/with-apple-stock-near-a-record-high-as-earnings-loom-heres-the-options-trade-to-make-73ef26ae?mod=mw_rss_topstories",
+            "summary": "The iPhone maker’s shares tend to rise in the last 3 months of the year, says Evercore. Evercore: iPhone maker's share price tends to increase in last three months of year.",
+            "date": "Mon, 20 Oct 2025 11:41:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "XMVM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "AstraZeneca hails major breakthroughs with breast-cancer drugs",
+            "link": "https://www.marketwatch.com/story/astrazeneca-hails-major-breakthroughs-with-breast-cancer-drugs-7a61ba96?mod=mw_rss_topstories",
+            "summary": "An executive at AstraZeneca says breast-cancer drugs that the company highlighted at an industry conference could represent $10 billion worth of company sales in five years' time.",
+            "date": "Mon, 20 Oct 2025 10:53:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AZN",
             "impact": "Neutral"
         }
     ]
