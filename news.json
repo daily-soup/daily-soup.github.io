@@ -1,95 +1,71 @@
 {
-    "date": "2025-10-20",
+    "date": "2025-10-21",
     "news": [
         {
-            "title": "Amazon Web Services outage hits major websites: What we know so far as recovery begins",
-            "link": "https://www.cnbc.com/2025/10/20/amazon-web-services-outage-takes-down-major-websites.html",
-            "summary": "AWS, which suffered a major outage early Monday, is the leading provider of cloud infrastructure technology. It accounts for about a third of the market.",
-            "date": "Mon, 20 Oct 2025 13:11:11 GMT",
+            "title": "GM stock soars as automaker raises guidance, beats Q3 earnings",
+            "link": "https://www.cnbc.com/2025/10/21/general-motors-gm-earnings-q3-2025.html",
+            "summary": "GM's outlook signals strength for the automaker heading into the fourth quarter. GM's outlook beats Wall Street analysts' current expectations.",
+            "date": "Tue, 21 Oct 2025 13:27:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMZN",
+            "stock_ticker": "GM",
             "impact": "Neutral"
         },
         {
-            "title": "White House Economic Advisor Hassett says shutdown could end this week",
-            "link": "https://www.cnbc.com/2025/10/20/trump-hassett-government-shutdown.html",
-            "summary": "Top White House economic advisor Kevin Hassett predicted that the government shutdown is \"likely to end sometime this week\" Hassett said the shutdown is likely to end \"this week\"",
-            "date": "Mon, 20 Oct 2025 13:12:54 GMT",
+            "title": "Warner Bros. Discovery says it's open to a sale; shares jump",
+            "link": "https://www.cnbc.com/2025/10/21/wbd-sale-warner-bros-media.html",
+            "summary": "WBD had planned to split into two separate entities and is not abandoning those plans. WBD will continue to operate as a single company.",
+            "date": "Tue, 21 Oct 2025 13:26:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHC.AX",
-            "impact": "Bearish"
+            "stock_ticker": "WBD",
+            "impact": "Neutral"
         },
         {
-            "title": "Trump calls for Ukraine to be carved up with Russia after tense meeting with Zelenskyy",
-            "link": "https://www.cnbc.com/2025/10/20/trump-shifts-weight-behind-putin-after-tense-meeting-with-zelenskyy.html",
-            "summary": "Trump appears to be seesawing in his support for Ukraine, following his phone call with President Vladmir Putin last Thursday. Trump appears to have seesawed in his supports for Ukraine after his phonecall with President Vladimir Putin.",
-            "date": "Mon, 20 Oct 2025 11:21:55 GMT",
+            "title": "Airbnb adds direct messaging, new social features after app overhaul",
+            "link": "https://www.cnbc.com/2025/10/21/airbnb-direct-messaging-social-app.html",
+            "summary": "The updates follow the travel company's major overhaul in May, which brought services such as catering and personal training to its app. The updates follow a major overhaul of the company's app in May.",
+            "date": "Tue, 21 Oct 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "ABNB",
             "impact": "Bullish"
         },
         {
-            "title": "Cost and chaos continue to test resiliency of U.S. auto industry",
-            "link": "https://www.cnbc.com/2025/10/20/tariffs-ford-tesla-gm-auto-industry-chaos.html",
-            "summary": "Auto executives, insiders and analysts told CNBC things aren't as bad as they once feared. Some of the most dire predictions haven't come to pass.",
-            "date": "Mon, 20 Oct 2025 12:51:09 GMT",
+            "title": "Coca-Cola tops earnings and revenue estimates but says demand for drinks is still soft",
+            "link": "https://www.cnbc.com/2025/10/21/coca-cola-ko-q3-2025-earnings.html",
+            "summary": "Shares of Coke have risen nearly 10% this year, increasing its market value to around $295 billion. Coke is the world's largest soda maker, with a market value of nearly $300 billion.",
+            "date": "Tue, 21 Oct 2025 11:25:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COST",
+            "stock_ticker": "KO",
             "impact": "Neutral"
         },
         {
-            "title": "Rare earths make gains in premarket trading amid battle to beat China’s dominance",
-            "link": "https://www.cnbc.com/2025/10/20/rare-earths-gain-amid-us-effort-to-beat-chinas-dominance.html",
-            "summary": "Shares of U.S.-listed companies related to the rare earth supply chain climbed in premarket trading on Monday. Shares of companies in the supply chain are related to rare earths, such as lithium, cobalt and rare earth oxide.",
-            "date": "Mon, 20 Oct 2025 13:17:27 GMT",
+            "title": "CoreWeave CEO says Core Scientific 'not a need to have' as shareholder opposition to deal rises",
+            "link": "https://www.cnbc.com/2025/10/21/coreweave-ceo-on-core-scientific-deal-as-shareholder-opposition-rises.html",
+            "summary": "Shareholders have raised opposition to CoreWeave's acquisition of Core Scientific saying the price is too low. Shareholders say the price of the deal is 'too low'",
+            "date": "Tue, 21 Oct 2025 07:49:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RARE",
-            "impact": "Bullish"
-        },
-        {
-            "title": "It’s a ‘historically opportunistic’ time for stock picking, says Morgan Stanley. Here are the bank’s picks.",
-            "link": "https://www.marketwatch.com/story/its-a-historically-opportunistic-time-for-stock-picking-says-morgan-stanley-here-are-the-banks-picks-37c376b3?mod=mw_rss_topstories",
-            "summary": "Morgan Stanley says it's a prime time to pick stocks right now. The bank has some ideas on how to invest in the right stocks at the right time.",
-            "date": "Mon, 20 Oct 2025 13:12:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ITSC.FGI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘My family is having a crisis’: My mom added my brother to her mortgage. He stopped paying. How does she get him off it?",
-            "link": "https://www.marketwatch.com/story/my-family-is-having-a-crisis-my-mom-added-my-brother-to-her-mortgage-he-stopped-paying-how-does-she-get-him-off-it-960f55b0?mod=mw_rss_topstories",
-            "summary": "“He refuses to take their names off the mortgage without getting paid,” says a source close to the family. “He doesn’t want to pay them. He wants them to get paid.”",
-            "date": "Mon, 20 Oct 2025 12:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "CRWV",
             "impact": "Neutral"
         },
         {
             "title": "‘A friend calls it the everything bubble’: Why do so many economists fear a 1929-style crash?",
             "link": "https://www.marketwatch.com/story/a-friend-calls-it-the-everything-bubble-why-do-so-many-economists-fear-a-1929-style-crash-084df040?mod=mw_rss_topstories",
             "summary": "We have faced fears, for more than 10 years, that the market is going to experience the kind of crash not seen in nearly a century.",
-            "date": "Mon, 20 Oct 2025 12:38:00 GMT",
+            "date": "Tue, 21 Oct 2025 13:08:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,28 +74,52 @@
             "impact": "Neutral"
         },
         {
-            "title": "With Apple stock near a record high as earnings loom, here’s the options trade to make",
-            "link": "https://www.marketwatch.com/story/with-apple-stock-near-a-record-high-as-earnings-loom-heres-the-options-trade-to-make-73ef26ae?mod=mw_rss_topstories",
-            "summary": "The iPhone maker’s shares tend to rise in the last 3 months of the year, says Evercore. Evercore: iPhone maker's share price tends to increase in last three months of year.",
-            "date": "Mon, 20 Oct 2025 11:41:00 GMT",
+            "title": "Here’s how the Louvre heist gems could end up being sold at your local jeweler",
+            "link": "https://www.marketwatch.com/story/where-could-the-louvre-heist-gems-turn-up-the-black-market-is-the-mainstream-market-for-most-stolen-jewelry-fd185662?mod=mw_rss_topstories",
+            "summary": "Stolen jewelry finds its way into the mainstream market all the time. Experts warn that stolen jewelry is often sold to the general public. Buyer beware.",
+            "date": "Tue, 21 Oct 2025 13:02:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XMVM",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "AstraZeneca hails major breakthroughs with breast-cancer drugs",
-            "link": "https://www.marketwatch.com/story/astrazeneca-hails-major-breakthroughs-with-breast-cancer-drugs-7a61ba96?mod=mw_rss_topstories",
-            "summary": "An executive at AstraZeneca says breast-cancer drugs that the company highlighted at an industry conference could represent $10 billion worth of company sales in five years' time.",
-            "date": "Mon, 20 Oct 2025 10:53:00 GMT",
+            "title": "‘I’m worried about hurt feelings’: I regret hiring my brother-in-law as my financial adviser. How do I fire him?",
+            "link": "https://www.marketwatch.com/story/im-worried-about-hurt-feelings-i-regret-hiring-my-brother-in-law-as-my-financial-adviser-how-do-i-fire-him-530a570c?mod=mw_rss_topstories",
+            "summary": "“I do not know how to tell my brother-in-law that I am switching,” she says. “I don’t know how I’m going to tell him.”",
+            "date": "Tue, 21 Oct 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AZN",
+            "stock_ticker": "BMNR",
             "impact": "Neutral"
+        },
+        {
+            "title": "Want to stream every NBA game this season? It’s going to cost you nearly $1,000.",
+            "link": "https://www.marketwatch.com/story/want-to-stream-every-nba-game-this-season-its-going-to-cost-you-nearly-1-000-e9683d57?mod=mw_rss_topstories",
+            "summary": "The 2025-26 NBA season will see games playing on several new streaming services this year. Amazon Prime and Peacock are two of them.",
+            "date": "Tue, 21 Oct 2025 12:55:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WANT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The Ozempic maker shakes up its board. It has been a year of turmoil for Novo Nordisk.",
+            "link": "https://www.marketwatch.com/story/the-ozempic-maker-shakes-up-its-board-it-has-been-a-year-of-turmoil-for-novo-nordisk-00ef5f13?mod=mw_rss_topstories",
+            "summary": "Ozempic maker Novo Nordisk is shaking up its board. The Danish company is the world's largest maker of Ozempic. The company is also one of Denmark's biggest drug makers.",
+            "date": "Tue, 21 Oct 2025 12:54:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Bullish"
         }
     ]
 }
