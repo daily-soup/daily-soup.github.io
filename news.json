@@ -1,23 +1,23 @@
 {
-    "date": "2025-10-21",
+    "date": "2025-10-22",
     "news": [
         {
-            "title": "GM stock soars as automaker raises guidance, beats Q3 earnings",
-            "link": "https://www.cnbc.com/2025/10/21/general-motors-gm-earnings-q3-2025.html",
-            "summary": "GM's outlook signals strength for the automaker heading into the fourth quarter. GM's outlook beats Wall Street analysts' current expectations.",
-            "date": "Tue, 21 Oct 2025 13:27:31 GMT",
+            "title": "Here's how much prices are rising across the fashion industry",
+            "link": "https://www.cnbc.com/2025/10/22/heres-how-much-prices-are-rising-across-the-fashion-industry.html",
+            "summary": "Fashion prices are on average $17 higher this year compared to last. Prices have been steadily creeping up over the last few years, hitting the fashion industry.",
+            "date": "Wed, 22 Oct 2025 13:12:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GM",
-            "impact": "Neutral"
+            "stock_ticker": "HWM",
+            "impact": "Bullish"
         },
         {
-            "title": "Warner Bros. Discovery says it's open to a sale; shares jump",
-            "link": "https://www.cnbc.com/2025/10/21/wbd-sale-warner-bros-media.html",
-            "summary": "WBD had planned to split into two separate entities and is not abandoning those plans. WBD will continue to operate as a single company.",
-            "date": "Tue, 21 Oct 2025 13:26:42 GMT",
+            "title": "WBD rejected three Paramount takeover offers, the last for just under $24 per share, sources say",
+            "link": "https://www.cnbc.com/2025/10/22/wbd-rejected-three-paramount-offers-sources.html",
+            "summary": "WBD said this week it had received \"unsolicited interest\" from multiple parties. WBD: We have been approached by multiple parties about a possible acquisition.",
+            "date": "Wed, 22 Oct 2025 13:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,46 +26,58 @@
             "impact": "Neutral"
         },
         {
-            "title": "Airbnb adds direct messaging, new social features after app overhaul",
-            "link": "https://www.cnbc.com/2025/10/21/airbnb-direct-messaging-social-app.html",
-            "summary": "The updates follow the travel company's major overhaul in May, which brought services such as catering and personal training to its app. The updates follow a major overhaul of the company's app in May.",
-            "date": "Tue, 21 Oct 2025 12:00:01 GMT",
+            "title": "Beyond Meat shares surge for a third day in a row as meme traders jump on board",
+            "link": "https://www.cnbc.com/2025/10/22/beyond-meat-shares-surge-for-a-third-day-in-a-row-as-meme-traders-jump-on-board.html",
+            "summary": "It's the latest in an extraordinary week for the stock, which on Tuesday enjoyed its best day ever. On Tuesday, the stock was up more than 6%, its best performance since September 2009.",
+            "date": "Wed, 22 Oct 2025 12:32:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ABNB",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Coca-Cola tops earnings and revenue estimates but says demand for drinks is still soft",
-            "link": "https://www.cnbc.com/2025/10/21/coca-cola-ko-q3-2025-earnings.html",
-            "summary": "Shares of Coke have risen nearly 10% this year, increasing its market value to around $295 billion. Coke is the world's largest soda maker, with a market value of nearly $300 billion.",
-            "date": "Tue, 21 Oct 2025 11:25:14 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KO",
+            "stock_ticker": "BYND",
             "impact": "Neutral"
         },
         {
-            "title": "CoreWeave CEO says Core Scientific 'not a need to have' as shareholder opposition to deal rises",
-            "link": "https://www.cnbc.com/2025/10/21/coreweave-ceo-on-core-scientific-deal-as-shareholder-opposition-rises.html",
-            "summary": "Shareholders have raised opposition to CoreWeave's acquisition of Core Scientific saying the price is too low. Shareholders say the price of the deal is 'too low'",
-            "date": "Tue, 21 Oct 2025 07:49:15 GMT",
+            "title": "Auto giant Volkswagen warns of output stoppages amid Nexperia chip disruption",
+            "link": "https://www.cnbc.com/2025/10/22/volkswagen-warns-of-output-stoppages-amid-nexperia-chip-disruption.html",
+            "summary": "Volkswagen warns of temporary production outages citing China's export restrictions on semiconductors made by Nexperia. Volkswagen on Wednesday warned of temporaryProduction outages.",
+            "date": "Wed, 22 Oct 2025 13:00:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CRWV",
+            "stock_ticker": "RIVN",
             "impact": "Neutral"
         },
         {
-            "title": "‘A friend calls it the everything bubble’: Why do so many economists fear a 1929-style crash?",
-            "link": "https://www.marketwatch.com/story/a-friend-calls-it-the-everything-bubble-why-do-so-many-economists-fear-a-1929-style-crash-084df040?mod=mw_rss_topstories",
-            "summary": "We have faced fears, for more than 10 years, that the market is going to experience the kind of crash not seen in nearly a century.",
-            "date": "Tue, 21 Oct 2025 13:08:00 GMT",
+            "title": "Gold and related stocks are falling for a second day. The metal is off 8% from high",
+            "link": "https://www.cnbc.com/2025/10/22/gold-and-related-stocks-are-falling-for-a-second-day.html",
+            "summary": "There is no macroeconomic or geopolitical event driving the pullback in gold prices this week, according to the Swiss bank UBS. UBS: There is no Macroeconomic or Geopolitical Event driving the Pullback in Gold Prices.",
+            "date": "Wed, 22 Oct 2025 12:27:53 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GC=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Berkshire’s stock presents Warren Buffett with a ‘golden cross’ as his retirement nears",
+            "link": "https://www.marketwatch.com/story/berkshires-stock-presents-buffett-with-a-golden-cross-as-his-retirement-nears-86ed0d20?mod=mw_rss_topstories",
+            "summary": "Shares of Warren Buffett’s Berkshire Hathaway have produced a bullish “golden cross” chart pattern. Less than three months before the famed investor is set to retire.",
+            "date": "Wed, 22 Oct 2025 13:25:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VNCE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s a theory on why gold suffered its biggest one-day fall in more than ten years, and it’s linked to the U.S. economy.",
+            "link": "https://www.marketwatch.com/story/one-theory-on-why-gold-suffered-its-biggest-one-day-fall-in-more-than-ten-years-1ece9762?mod=mw_rss_topstories",
+            "summary": "Robin Brooks, senior fellow at the Brookings Institution, sought to explain the flows driving the price of gold. Brooks: \"I think we're in the midst of a global gold rush\"",
+            "date": "Wed, 22 Oct 2025 13:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,52 +86,40 @@
             "impact": "Neutral"
         },
         {
-            "title": "Here’s how the Louvre heist gems could end up being sold at your local jeweler",
-            "link": "https://www.marketwatch.com/story/where-could-the-louvre-heist-gems-turn-up-the-black-market-is-the-mainstream-market-for-most-stolen-jewelry-fd185662?mod=mw_rss_topstories",
-            "summary": "Stolen jewelry finds its way into the mainstream market all the time. Experts warn that stolen jewelry is often sold to the general public. Buyer beware.",
-            "date": "Tue, 21 Oct 2025 13:02:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m worried about hurt feelings’: I regret hiring my brother-in-law as my financial adviser. How do I fire him?",
-            "link": "https://www.marketwatch.com/story/im-worried-about-hurt-feelings-i-regret-hiring-my-brother-in-law-as-my-financial-adviser-how-do-i-fire-him-530a570c?mod=mw_rss_topstories",
-            "summary": "“I do not know how to tell my brother-in-law that I am switching,” she says. “I don’t know how I’m going to tell him.”",
-            "date": "Tue, 21 Oct 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMNR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Want to stream every NBA game this season? It’s going to cost you nearly $1,000.",
-            "link": "https://www.marketwatch.com/story/want-to-stream-every-nba-game-this-season-its-going-to-cost-you-nearly-1-000-e9683d57?mod=mw_rss_topstories",
-            "summary": "The 2025-26 NBA season will see games playing on several new streaming services this year. Amazon Prime and Peacock are two of them.",
-            "date": "Tue, 21 Oct 2025 12:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WANT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The Ozempic maker shakes up its board. It has been a year of turmoil for Novo Nordisk.",
-            "link": "https://www.marketwatch.com/story/the-ozempic-maker-shakes-up-its-board-it-has-been-a-year-of-turmoil-for-novo-nordisk-00ef5f13?mod=mw_rss_topstories",
-            "summary": "Ozempic maker Novo Nordisk is shaking up its board. The Danish company is the world's largest maker of Ozempic. The company is also one of Denmark's biggest drug makers.",
-            "date": "Tue, 21 Oct 2025 12:54:00 GMT",
+            "title": "The U.S. jobs market was wobbling before the shutdown. Now what?",
+            "link": "https://www.marketwatch.com/story/the-u-s-jobs-market-was-wobbling-before-the-shutdown-now-what-948e2b81?mod=mw_rss_topstories",
+            "summary": "The U.S. labor market had started to sputter well before the government shutdown began in October. There’s little evidence to suggest finding a job has gotten any easier.",
+            "date": "Wed, 22 Oct 2025 13:07:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BA",
-            "impact": "Bullish"
+            "impact": "Bearish"
+        },
+        {
+            "title": "GE Vernova’s revenue beats by widest-ever margin, as electrification orders double",
+            "link": "https://www.marketwatch.com/story/ge-vernovas-revenue-beats-by-widest-ever-margin-as-electrification-orders-double-749e6279?mod=mw_rss_topstories",
+            "summary": "GE Vernova’s stock rallies toward its first gain in seven sessions after quarterly orders and revenue blow past expectations. GE Vernova shares up 2.7% in pre-market trading.",
+            "date": "Wed, 22 Oct 2025 12:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Barclays takes a victory lap over lack of First Brands exposure. But it did get burned on Tricolor.",
+            "link": "https://www.marketwatch.com/story/barclays-takes-a-victory-lap-over-lack-of-first-brands-exposure-but-it-did-get-burned-on-tricolor-e74213ab?mod=mw_rss_topstories",
+            "summary": "Barclays CEO says the bank wasn't stuck with exposure to fallen auto-parts company First Brands because of its own due diligence. But it was lumbered with Tricolor exposure.",
+            "date": "Wed, 22 Oct 2025 12:26:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BARC.L",
+            "impact": "Neutral"
         }
     ]
 }
