@@ -1,59 +1,71 @@
 {
-    "date": "2025-10-22",
+    "date": "2025-10-23",
     "news": [
         {
-            "title": "Here's how much prices are rising across the fashion industry",
-            "link": "https://www.cnbc.com/2025/10/22/heres-how-much-prices-are-rising-across-the-fashion-industry.html",
-            "summary": "Fashion prices are on average $17 higher this year compared to last. Prices have been steadily creeping up over the last few years, hitting the fashion industry.",
-            "date": "Wed, 22 Oct 2025 13:12:24 GMT",
+            "title": "American Airlines hires industry veteran to lead commercial team as profits trail rivals",
+            "link": "https://www.cnbc.com/2025/10/23/american-airlines-nat-pieper.html",
+            "summary": "Mr. Pieper has worked at Delta, Alaska and most recently at the Oneworld alliance. He has worked for the U.S. Air Force, Air Canada, and the Air Canada Pension Plan.",
+            "date": "Thu, 23 Oct 2025 12:57:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
-            "impact": "Bullish"
-        },
-        {
-            "title": "WBD rejected three Paramount takeover offers, the last for just under $24 per share, sources say",
-            "link": "https://www.cnbc.com/2025/10/22/wbd-rejected-three-paramount-offers-sources.html",
-            "summary": "WBD said this week it had received \"unsolicited interest\" from multiple parties. WBD: We have been approached by multiple parties about a possible acquisition.",
-            "date": "Wed, 22 Oct 2025 13:28:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WBD",
+            "stock_ticker": "AAL",
             "impact": "Neutral"
         },
         {
-            "title": "Beyond Meat shares surge for a third day in a row as meme traders jump on board",
-            "link": "https://www.cnbc.com/2025/10/22/beyond-meat-shares-surge-for-a-third-day-in-a-row-as-meme-traders-jump-on-board.html",
-            "summary": "It's the latest in an extraordinary week for the stock, which on Tuesday enjoyed its best day ever. On Tuesday, the stock was up more than 6%, its best performance since September 2009.",
-            "date": "Wed, 22 Oct 2025 12:32:54 GMT",
+            "title": "NBA coach Chauncey Billups, player Terry Rozier arrested in gambling probes",
+            "link": "https://www.cnbc.com/2025/10/23/nba-billups-rozier-sports-betting-arrests-gambling.html",
+            "summary": "Terry Rozier, a 10-year NBA veteran, joined the Miami Heat in 2024 from the Charlotte Hornets. Rozier will play for the Heat after spending his first 10 years with the Hornets.",
+            "date": "Thu, 23 Oct 2025 13:20:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BYND",
+            "stock_ticker": "NBARX",
             "impact": "Neutral"
         },
         {
-            "title": "Auto giant Volkswagen warns of output stoppages amid Nexperia chip disruption",
-            "link": "https://www.cnbc.com/2025/10/22/volkswagen-warns-of-output-stoppages-amid-nexperia-chip-disruption.html",
-            "summary": "Volkswagen warns of temporary production outages citing China's export restrictions on semiconductors made by Nexperia. Volkswagen on Wednesday warned of temporaryProduction outages.",
-            "date": "Wed, 22 Oct 2025 13:00:46 GMT",
+            "title": "Quantum stocks surge on report Trump eyeing stakes in the group like Intel, rare earth companies",
+            "link": "https://www.cnbc.com/2025/10/23/first-rare-earths-and-chips-now-quantum-computers-trump-reportedly-eyes-new-us-stakes.html",
+            "summary": "The Trump administration is reportedly in talks with several quantum-computing firms about government taking equity stakes in exchange for funding. The talks are reportedly taking place in Washington, D.C.",
+            "date": "Thu, 23 Oct 2025 13:02:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RIVN",
+            "stock_ticker": "QS",
             "impact": "Neutral"
         },
         {
-            "title": "Gold and related stocks are falling for a second day. The metal is off 8% from high",
-            "link": "https://www.cnbc.com/2025/10/22/gold-and-related-stocks-are-falling-for-a-second-day.html",
-            "summary": "There is no macroeconomic or geopolitical event driving the pullback in gold prices this week, according to the Swiss bank UBS. UBS: There is no Macroeconomic or Geopolitical Event driving the Pullback in Gold Prices.",
-            "date": "Wed, 22 Oct 2025 12:27:53 GMT",
+            "title": "Here's where the economy is starting to show 'K-shaped' bifurcation",
+            "link": "https://www.cnbc.com/2025/10/23/k-shaped-spending-sectors-showing-bifurcation.html",
+            "summary": "The Labor Department is scheduled to release a consumer price index report on Friday. The report was delayed by the government shutdown, which is now in its third week.",
+            "date": "Thu, 23 Oct 2025 12:45:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHETH-USD",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Defense giants Airbus, Thales and Leonardo announce space merger to rival Elon Musk’s Starlink",
+            "link": "https://www.cnbc.com/2025/10/23/airbus-thales-leonardo-announce-space-merger-to-rival-musks-starlink.html",
+            "summary": "The companies’ CEOs labelled the plans “a pivotal milestone for Europe’s space industry’’ The plans are expected to be completed by 2018.",
+            "date": "Thu, 23 Oct 2025 12:16:02 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KTOS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Gold just stumbled. A JPMorgan strategist says the metal could double in value.",
+            "link": "https://www.marketwatch.com/story/gold-just-stumbled-a-jpmorgan-strategist-says-the-metal-could-double-in-value-c97eb6fd?mod=mw_rss_topstories",
+            "summary": "JPMorgan believes gold will increasingly become an investor favored hedge against equities, to the tune of 110%. The bank says gold will be used as a hedge against stocks in the future.",
+            "date": "Thu, 23 Oct 2025 12:57:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,63 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "Berkshire’s stock presents Warren Buffett with a ‘golden cross’ as his retirement nears",
-            "link": "https://www.marketwatch.com/story/berkshires-stock-presents-buffett-with-a-golden-cross-as-his-retirement-nears-86ed0d20?mod=mw_rss_topstories",
-            "summary": "Shares of Warren Buffett’s Berkshire Hathaway have produced a bullish “golden cross” chart pattern. Less than three months before the famed investor is set to retire.",
-            "date": "Wed, 22 Oct 2025 13:25:00 GMT",
+            "title": "Inflation is still rising, CPI likely to show — but maybe not fast enough to stop Fed rate cuts",
+            "link": "https://www.marketwatch.com/story/inflation-is-still-rising-cpi-likely-to-show-but-maybe-not-fast-enough-to-stop-fed-rate-cuts-6a8665c9?mod=mw_rss_topstories",
+            "summary": "Inflation has been creeping higher from a postpandemic low of 2.3% earlier this year due in part to the highest U.S. tariffs in decades.",
+            "date": "Thu, 23 Oct 2025 12:56:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VNCE",
+            "stock_ticker": "VTIP",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s a theory on why gold suffered its biggest one-day fall in more than ten years, and it’s linked to the U.S. economy.",
-            "link": "https://www.marketwatch.com/story/one-theory-on-why-gold-suffered-its-biggest-one-day-fall-in-more-than-ten-years-1ece9762?mod=mw_rss_topstories",
-            "summary": "Robin Brooks, senior fellow at the Brookings Institution, sought to explain the flows driving the price of gold. Brooks: \"I think we're in the midst of a global gold rush\"",
-            "date": "Wed, 22 Oct 2025 13:20:00 GMT",
+            "title": "Quantum stocks are rising. Why they may be the Trump White House’s next investment.",
+            "link": "https://www.marketwatch.com/story/why-quantum-computing-stocks-could-be-due-for-u-s-government-stakes-b8d62845?mod=mw_rss_topstories",
+            "summary": "The U.S. government is reportedly considering quantum investments. The technology holds promise, but there have been practical roadblocks to its development.",
+            "date": "Thu, 23 Oct 2025 12:39:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
+            "stock_ticker": "QS",
             "impact": "Neutral"
         },
         {
-            "title": "The U.S. jobs market was wobbling before the shutdown. Now what?",
-            "link": "https://www.marketwatch.com/story/the-u-s-jobs-market-was-wobbling-before-the-shutdown-now-what-948e2b81?mod=mw_rss_topstories",
-            "summary": "The U.S. labor market had started to sputter well before the government shutdown began in October. There’s little evidence to suggest finding a job has gotten any easier.",
-            "date": "Wed, 22 Oct 2025 13:07:00 GMT",
+            "title": "Smaller is better for Honeywell, as profit outlook is raised ahead of Solstice spinoff",
+            "link": "https://www.marketwatch.com/story/smaller-is-better-for-honeywell-as-profit-outlook-is-raised-ahead-of-solstice-spinoff-4802097e?mod=mw_rss_topstories",
+            "summary": "Honeywell raised its profit outlook above Wall Street expectations, even when accounting for the separation of its advanced-materials business, slated for the end of October.",
+            "date": "Thu, 23 Oct 2025 12:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Bearish"
-        },
-        {
-            "title": "GE Vernova’s revenue beats by widest-ever margin, as electrification orders double",
-            "link": "https://www.marketwatch.com/story/ge-vernovas-revenue-beats-by-widest-ever-margin-as-electrification-orders-double-749e6279?mod=mw_rss_topstories",
-            "summary": "GE Vernova’s stock rallies toward its first gain in seven sessions after quarterly orders and revenue blow past expectations. GE Vernova shares up 2.7% in pre-market trading.",
-            "date": "Wed, 22 Oct 2025 12:50:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GE",
+            "stock_ticker": "0P0001CJLP",
             "impact": "Neutral"
         },
         {
-            "title": "Barclays takes a victory lap over lack of First Brands exposure. But it did get burned on Tricolor.",
-            "link": "https://www.marketwatch.com/story/barclays-takes-a-victory-lap-over-lack-of-first-brands-exposure-but-it-did-get-burned-on-tricolor-e74213ab?mod=mw_rss_topstories",
-            "summary": "Barclays CEO says the bank wasn't stuck with exposure to fallen auto-parts company First Brands because of its own due diligence. But it was lumbered with Tricolor exposure.",
-            "date": "Wed, 22 Oct 2025 12:26:00 GMT",
+            "title": "American Airlines lifts profit outlook as travelers flock to premium seats",
+            "link": "https://www.marketwatch.com/story/american-airlines-lifts-profit-outlook-as-travelers-flock-to-premium-seats-7b18e812?mod=mw_rss_topstories",
+            "summary": "American Airlines’ stock was set to rise Thursday. Full-year profit outlook was raised, amid continued strong demand for premium-seating options.",
+            "date": "Thu, 23 Oct 2025 12:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BARC.L",
+            "stock_ticker": "AAL",
             "impact": "Neutral"
         }
     ]
