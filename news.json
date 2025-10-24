@@ -1,83 +1,11 @@
 {
-    "date": "2025-10-23",
+    "date": "2025-10-24",
     "news": [
         {
-            "title": "American Airlines hires industry veteran to lead commercial team as profits trail rivals",
-            "link": "https://www.cnbc.com/2025/10/23/american-airlines-nat-pieper.html",
-            "summary": "Mr. Pieper has worked at Delta, Alaska and most recently at the Oneworld alliance. He has worked for the U.S. Air Force, Air Canada, and the Air Canada Pension Plan.",
-            "date": "Thu, 23 Oct 2025 12:57:17 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "NBA coach Chauncey Billups, player Terry Rozier arrested in gambling probes",
-            "link": "https://www.cnbc.com/2025/10/23/nba-billups-rozier-sports-betting-arrests-gambling.html",
-            "summary": "Terry Rozier, a 10-year NBA veteran, joined the Miami Heat in 2024 from the Charlotte Hornets. Rozier will play for the Heat after spending his first 10 years with the Hornets.",
-            "date": "Thu, 23 Oct 2025 13:20:34 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NBARX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Quantum stocks surge on report Trump eyeing stakes in the group like Intel, rare earth companies",
-            "link": "https://www.cnbc.com/2025/10/23/first-rare-earths-and-chips-now-quantum-computers-trump-reportedly-eyes-new-us-stakes.html",
-            "summary": "The Trump administration is reportedly in talks with several quantum-computing firms about government taking equity stakes in exchange for funding. The talks are reportedly taking place in Washington, D.C.",
-            "date": "Thu, 23 Oct 2025 13:02:49 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "QS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here's where the economy is starting to show 'K-shaped' bifurcation",
-            "link": "https://www.cnbc.com/2025/10/23/k-shaped-spending-sectors-showing-bifurcation.html",
-            "summary": "The Labor Department is scheduled to release a consumer price index report on Friday. The report was delayed by the government shutdown, which is now in its third week.",
-            "date": "Thu, 23 Oct 2025 12:45:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHETH-USD",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Defense giants Airbus, Thales and Leonardo announce space merger to rival Elon Musk’s Starlink",
-            "link": "https://www.cnbc.com/2025/10/23/airbus-thales-leonardo-announce-space-merger-to-rival-musks-starlink.html",
-            "summary": "The companies’ CEOs labelled the plans “a pivotal milestone for Europe’s space industry’’ The plans are expected to be completed by 2018.",
-            "date": "Thu, 23 Oct 2025 12:16:02 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KTOS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Gold just stumbled. A JPMorgan strategist says the metal could double in value.",
-            "link": "https://www.marketwatch.com/story/gold-just-stumbled-a-jpmorgan-strategist-says-the-metal-could-double-in-value-c97eb6fd?mod=mw_rss_topstories",
-            "summary": "JPMorgan believes gold will increasingly become an investor favored hedge against equities, to the tune of 110%. The bank says gold will be used as a hedge against stocks in the future.",
-            "date": "Thu, 23 Oct 2025 12:57:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Inflation is still rising, CPI likely to show — but maybe not fast enough to stop Fed rate cuts",
-            "link": "https://www.marketwatch.com/story/inflation-is-still-rising-cpi-likely-to-show-but-maybe-not-fast-enough-to-stop-fed-rate-cuts-6a8665c9?mod=mw_rss_topstories",
-            "summary": "Inflation has been creeping higher from a postpandemic low of 2.3% earlier this year due in part to the highest U.S. tariffs in decades.",
-            "date": "Thu, 23 Oct 2025 12:56:00 GMT",
+            "title": "Inflation rate hit 3.0% in September, lower than expected, long-awaited CPI report shows",
+            "link": "https://www.cnbc.com/2025/10/24/cpi-inflation-september-2025.html",
+            "summary": "The annual inflation rate as measured by the CPI was expected to be 3.1% in September, according to the Dow Jones consensus estimate.",
+            "date": "Fri, 24 Oct 2025 13:18:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +14,111 @@
             "impact": "Neutral"
         },
         {
-            "title": "Quantum stocks are rising. Why they may be the Trump White House’s next investment.",
-            "link": "https://www.marketwatch.com/story/why-quantum-computing-stocks-could-be-due-for-u-s-government-stakes-b8d62845?mod=mw_rss_topstories",
-            "summary": "The U.S. government is reportedly considering quantum investments. The technology holds promise, but there have been practical roadblocks to its development.",
-            "date": "Thu, 23 Oct 2025 12:39:00 GMT",
+            "title": "Trump terminates all U.S. trade negotiations with Canada over Reagan tariffs TV ad",
+            "link": "https://www.cnbc.com/2025/10/24/trump-canada-trade-reagan.html",
+            "summary": "President Trump claimed Canada had ran an ad featuring former President Ronald Reagan talking about tariffs to influence a pending U.S. Supreme Court case.",
+            "date": "Fri, 24 Oct 2025 07:10:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "QS",
+            "stock_ticker": "DJT",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Social Security Administration announces 2026 COLA benefit increase of 2.8% — what it means for you",
+            "link": "https://www.cnbc.com/2025/10/24/social-security-cola-2026-benefits-increase.html",
+            "summary": "The Social Security cost-of-living adjustment for 2026 will give millions of beneficiaries an increase. Here's how much to expect.",
+            "date": "Fri, 24 Oct 2025 13:23:06 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPT",
             "impact": "Neutral"
         },
         {
-            "title": "Smaller is better for Honeywell, as profit outlook is raised ahead of Solstice spinoff",
-            "link": "https://www.marketwatch.com/story/smaller-is-better-for-honeywell-as-profit-outlook-is-raised-ahead-of-solstice-spinoff-4802097e?mod=mw_rss_topstories",
-            "summary": "Honeywell raised its profit outlook above Wall Street expectations, even when accounting for the separation of its advanced-materials business, slated for the end of October.",
-            "date": "Thu, 23 Oct 2025 12:33:00 GMT",
+            "title": "Procter & Gamble beats earnings estimates but reveals waning demand in some categories",
+            "link": "https://www.cnbc.com/2025/10/24/procter-gamble-pg-q1-2026-earnings.html",
+            "summary": "P&amp;G CEO Jon Moeller noted a \"challenging consumer and geopolitical environment\" Moeller: \"We are in a challenging environment\"",
+            "date": "Fri, 24 Oct 2025 12:10:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001CJLP",
+            "stock_ticker": "PG",
             "impact": "Neutral"
         },
         {
-            "title": "American Airlines lifts profit outlook as travelers flock to premium seats",
-            "link": "https://www.marketwatch.com/story/american-airlines-lifts-profit-outlook-as-travelers-flock-to-premium-seats-7b18e812?mod=mw_rss_topstories",
-            "summary": "American Airlines’ stock was set to rise Thursday. Full-year profit outlook was raised, amid continued strong demand for premium-seating options.",
-            "date": "Thu, 23 Oct 2025 12:15:00 GMT",
+            "title": "Disney warns ESPN, other networks may go out on YouTube TV at the end of the month",
+            "link": "https://www.cnbc.com/2025/10/23/disney-espn-youtube-tv-network-dispute.html",
+            "summary": "YouTube TV is at risk of losing access to Disney's networks, including ABC and ESPN. YouTube TV reached a carriage agreement with NBCUniversal less than a month ago.",
+            "date": "Thu, 23 Oct 2025 21:14:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAL",
+            "stock_ticker": "DIS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Beyond Meat jumps on the latest twist in its meme-stock saga",
+            "link": "https://www.marketwatch.com/story/beyond-meat-jumps-on-the-latest-twist-in-its-meme-stock-saga-90f85398?mod=mw_rss_topstories",
+            "summary": "The meat-substitute company announced preliminary third-quarter results early Friday. Shares of Beyond Meat have been on a wild meme-stock ride recently.",
+            "date": "Fri, 24 Oct 2025 13:14:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BYND",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I received an inheritance from my father’s estate, but the executor wants me to give it back. What should I do?",
+            "link": "https://www.marketwatch.com/story/i-received-an-inheritance-from-my-fathers-estate-but-the-executor-wants-me-to-give-it-back-what-should-i-do-2e071384?mod=mw_rss_topstories",
+            "summary": "“The attorney for my late father stated that all beneficiaries needed to wait 10 months before disbursements from the sale of the home could be released.”",
+            "date": "Fri, 24 Oct 2025 13:13:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AMUN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Social Security’s COLA will be 2.8% in 2026 — first pertc",
+            "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-2-8-in-2026-6ed3aa4c?mod=mw_rss_topstories",
+            "summary": "Social Security’s cost-of-living adjustment will be 2.8% in 2026, up from 2.5% this year.",
+            "date": "Fri, 24 Oct 2025 12:53:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPT",
+            "impact": "Bullish"
+        },
+        {
+            "title": "This strategist’s theory of relativity says it’s time to be underweight U.S. stocks",
+            "link": "https://www.marketwatch.com/story/this-strategists-theory-of-relativity-says-its-time-to-be-underweight-u-s-stocks-5a5ba30a?mod=mw_rss_topstories",
+            "summary": "Japan and emerging markets should be bought says Ned Davis Research strategist. Japan and emerging market should be buying says NedDavis Research strategist Ned Davis.",
+            "date": "Fri, 24 Oct 2025 12:38:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "THISX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "You can be a supersaver for retirement — but it’ll cost you",
+            "link": "https://www.marketwatch.com/story/you-can-be-a-supersaver-for-retirement-but-itll-cost-you-78f09252?mod=mw_rss_topstories",
+            "summary": "Not spending your money could bring a higher tax bill and a lower enjoyment of life. Not spending money could also lead to a lower quality of life, experts say.",
+            "date": "Fri, 24 Oct 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "YOU",
             "impact": "Neutral"
         }
     ]
