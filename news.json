@@ -1,125 +1,125 @@
 {
-    "date": "2025-10-24",
+    "date": "2025-10-25",
     "news": [
         {
-            "title": "Inflation rate hit 3.0% in September, lower than expected, long-awaited CPI report shows",
-            "link": "https://www.cnbc.com/2025/10/24/cpi-inflation-september-2025.html",
-            "summary": "The annual inflation rate as measured by the CPI was expected to be 3.1% in September, according to the Dow Jones consensus estimate.",
-            "date": "Fri, 24 Oct 2025 13:18:20 GMT",
+            "title": "AI spending is boosting the economy, but many businesses are in survival mode",
+            "link": "https://www.cnbc.com/2025/10/25/ai-spending-is-boosting-the-economy-many-businesses-in-survival-mode.html",
+            "summary": "As AI lifts the economy and stock market, businesses are struggling. Retail, travel and construction are struggling with high costs and a downbeat consumer.",
+            "date": "Sat, 25 Oct 2025 12:07:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VTIP",
+            "stock_ticker": "AI",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Warren Buffett Watch: Berkshire is lagging the S&P 500 by the largest gap so far this year",
+            "link": "https://www.cnbc.com/2025/10/25/buffetts-berkshire-is-lagging-the-sp-500-by-the-largest-gap-so-far-this-year.html",
+            "summary": "Shares of Warren Buffett's company are underperforming the benchmark index by almost 7%. The shares of Berkshire Hathaway are down almost 7% this year. The shares are down nearly 7% since the start of 2014.",
+            "date": "Sat, 25 Oct 2025 11:55:52 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PWR.AX",
             "impact": "Neutral"
         },
         {
-            "title": "Trump terminates all U.S. trade negotiations with Canada over Reagan tariffs TV ad",
-            "link": "https://www.cnbc.com/2025/10/24/trump-canada-trade-reagan.html",
-            "summary": "President Trump claimed Canada had ran an ad featuring former President Ronald Reagan talking about tariffs to influence a pending U.S. Supreme Court case.",
-            "date": "Fri, 24 Oct 2025 07:10:42 GMT",
+            "title": "Trump blasts 'dirty play' by Ontario in waiting to pause Reagan trade ad after World Series",
+            "link": "https://www.cnbc.com/2025/10/24/trump-canada-doug-ford-reagan-trade-tariffs.html",
+            "summary": "Ontario has been running a TV ad featuring Ronald Reagan criticizing tariffs. That led President Trump to terminate trade talks with Canada. The ad features Reagan saying, \"I'm not going to let my country be taken advantage of by other countries\"",
+            "date": "Sat, 25 Oct 2025 04:51:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Inflation rate hit 3.0% in September, lower than expected, long-awaited CPI report shows",
+            "link": "https://www.cnbc.com/2025/10/24/cpi-inflation-september-2025.html",
+            "summary": "The annual inflation rate as measured by the CPI was expected to be 3.1% in September, according to the Dow Jones consensus estimate.",
+            "date": "Fri, 24 Oct 2025 17:37:39 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^FIDUSSIP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Inside Wealth: One in three Manhattan condo owners lost money when they sold in the last year",
+            "link": "https://www.cnbc.com/2025/10/25/one-in-three-manhattan-condo-owners-lost-money-when-they-sold-in-the-last-year.html",
+            "summary": "Manhattan is still among the most expensive markets in the country, especially on a per-square-foot basis. The city is home to some of the world's most expensive real estate.",
+            "date": "Sat, 25 Oct 2025 13:02:22 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "4488.T",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘We don’t want to get into trouble’: Can we give our daughter a $30K wedding gift without involving the IRS?",
+            "link": "https://www.marketwatch.com/story/we-dont-want-to-get-into-trouble-can-we-give-our-daughter-a-30k-wedding-gift-without-involving-the-irs-fd706051?mod=mw_rss_topstories",
+            "summary": "“What is the best way to go about this?” he asks. “What are the best ways to get people to talk to each other?’”",
+            "date": "Sat, 25 Oct 2025 13:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WFC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "There’s a war on the bachelor’s degree. Can anything replace it?",
+            "link": "https://www.marketwatch.com/story/theres-a-war-on-the-bachelors-degree-can-anything-replace-it-3729b7f2?mod=mw_rss_topstories",
+            "summary": "The share of Americans with a bachelor's degree has been going up for years. That's about to change, if politicians get their way.",
+            "date": "Sat, 25 Oct 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MAY-USD",
             "impact": "Bullish"
         },
         {
-            "title": "Social Security Administration announces 2026 COLA benefit increase of 2.8% — what it means for you",
-            "link": "https://www.cnbc.com/2025/10/24/social-security-cola-2026-benefits-increase.html",
-            "summary": "The Social Security cost-of-living adjustment for 2026 will give millions of beneficiaries an increase. Here's how much to expect.",
-            "date": "Fri, 24 Oct 2025 13:23:06 GMT",
+            "title": "Tesla just shared more about its AI vision. These are the 3 biggest takeaways.",
+            "link": "https://www.marketwatch.com/story/tesla-just-shared-more-about-its-ai-vision-these-are-the-3-biggest-takeaways-1323a279?mod=mw_rss_topstories",
+            "summary": "Tesla used its earnings call to further hammer a future centered on AI. A lot is happening with Tesla’s automotive and energy businesses.",
+            "date": "Sat, 25 Oct 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPT",
+            "stock_ticker": "TSLA",
             "impact": "Neutral"
         },
         {
-            "title": "Procter & Gamble beats earnings estimates but reveals waning demand in some categories",
-            "link": "https://www.cnbc.com/2025/10/24/procter-gamble-pg-q1-2026-earnings.html",
-            "summary": "P&amp;G CEO Jon Moeller noted a \"challenging consumer and geopolitical environment\" Moeller: \"We are in a challenging environment\"",
-            "date": "Fri, 24 Oct 2025 12:10:26 GMT",
+            "title": "These five tech stocks could let you play earnings season like a pro",
+            "link": "https://www.marketwatch.com/story/these-five-tech-stocks-could-let-you-play-earnings-season-like-a-pro-b589f8d4?mod=mw_rss_topstories",
+            "summary": "We surveyed experts on their favored picks heading into earnings season. We identified companies across the tech sector. We also asked experts for their favorite tech companies to watch.",
+            "date": "Sat, 25 Oct 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PG",
+            "stock_ticker": "FIVE",
             "impact": "Neutral"
         },
         {
-            "title": "Disney warns ESPN, other networks may go out on YouTube TV at the end of the month",
-            "link": "https://www.cnbc.com/2025/10/23/disney-espn-youtube-tv-network-dispute.html",
-            "summary": "YouTube TV is at risk of losing access to Disney's networks, including ABC and ESPN. YouTube TV reached a carriage agreement with NBCUniversal less than a month ago.",
-            "date": "Thu, 23 Oct 2025 21:14:54 GMT",
+            "title": "Trump’s new White House ballroom will actually cost taxpayers up to $110 million",
+            "link": "https://www.marketwatch.com/story/trumps-new-white-house-ballroom-will-actually-cost-taxpayers-up-to-110-million-988a3d92?mod=mw_rss_topstories",
+            "summary": "The refurbishment of the White House, to include the greatest ballroom ever, will supposedly have “zero cost” to us taxpayers.",
+            "date": "Sat, 25 Oct 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DIS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Beyond Meat jumps on the latest twist in its meme-stock saga",
-            "link": "https://www.marketwatch.com/story/beyond-meat-jumps-on-the-latest-twist-in-its-meme-stock-saga-90f85398?mod=mw_rss_topstories",
-            "summary": "The meat-substitute company announced preliminary third-quarter results early Friday. Shares of Beyond Meat have been on a wild meme-stock ride recently.",
-            "date": "Fri, 24 Oct 2025 13:14:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BYND",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I received an inheritance from my father’s estate, but the executor wants me to give it back. What should I do?",
-            "link": "https://www.marketwatch.com/story/i-received-an-inheritance-from-my-fathers-estate-but-the-executor-wants-me-to-give-it-back-what-should-i-do-2e071384?mod=mw_rss_topstories",
-            "summary": "“The attorney for my late father stated that all beneficiaries needed to wait 10 months before disbursements from the sale of the home could be released.”",
-            "date": "Fri, 24 Oct 2025 13:13:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AMUN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Social Security’s COLA will be 2.8% in 2026 — first pertc",
-            "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-2-8-in-2026-6ed3aa4c?mod=mw_rss_topstories",
-            "summary": "Social Security’s cost-of-living adjustment will be 2.8% in 2026, up from 2.5% this year.",
-            "date": "Fri, 24 Oct 2025 12:53:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPT",
+            "stock_ticker": "BNB=F",
             "impact": "Bullish"
-        },
-        {
-            "title": "This strategist’s theory of relativity says it’s time to be underweight U.S. stocks",
-            "link": "https://www.marketwatch.com/story/this-strategists-theory-of-relativity-says-its-time-to-be-underweight-u-s-stocks-5a5ba30a?mod=mw_rss_topstories",
-            "summary": "Japan and emerging markets should be bought says Ned Davis Research strategist. Japan and emerging market should be buying says NedDavis Research strategist Ned Davis.",
-            "date": "Fri, 24 Oct 2025 12:38:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THISX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "You can be a supersaver for retirement — but it’ll cost you",
-            "link": "https://www.marketwatch.com/story/you-can-be-a-supersaver-for-retirement-but-itll-cost-you-78f09252?mod=mw_rss_topstories",
-            "summary": "Not spending your money could bring a higher tax bill and a lower enjoyment of life. Not spending money could also lead to a lower quality of life, experts say.",
-            "date": "Fri, 24 Oct 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "YOU",
-            "impact": "Neutral"
         }
     ]
 }
