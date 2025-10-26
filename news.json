@@ -1,35 +1,11 @@
 {
-    "date": "2025-10-25",
+    "date": "2025-10-26",
     "news": [
         {
-            "title": "AI spending is boosting the economy, but many businesses are in survival mode",
-            "link": "https://www.cnbc.com/2025/10/25/ai-spending-is-boosting-the-economy-many-businesses-in-survival-mode.html",
-            "summary": "As AI lifts the economy and stock market, businesses are struggling. Retail, travel and construction are struggling with high costs and a downbeat consumer.",
-            "date": "Sat, 25 Oct 2025 12:07:11 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AI",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Warren Buffett Watch: Berkshire is lagging the S&P 500 by the largest gap so far this year",
-            "link": "https://www.cnbc.com/2025/10/25/buffetts-berkshire-is-lagging-the-sp-500-by-the-largest-gap-so-far-this-year.html",
-            "summary": "Shares of Warren Buffett's company are underperforming the benchmark index by almost 7%. The shares of Berkshire Hathaway are down almost 7% this year. The shares are down nearly 7% since the start of 2014.",
-            "date": "Sat, 25 Oct 2025 11:55:52 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PWR.AX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump blasts 'dirty play' by Ontario in waiting to pause Reagan trade ad after World Series",
+            "title": "Trump slaps 10% extra tariff on Canada over Reagan trade ad",
             "link": "https://www.cnbc.com/2025/10/24/trump-canada-doug-ford-reagan-trade-tariffs.html",
-            "summary": "Ontario has been running a TV ad featuring Ronald Reagan criticizing tariffs. That led President Trump to terminate trade talks with Canada. The ad features Reagan saying, \"I'm not going to let my country be taken advantage of by other countries\"",
-            "date": "Sat, 25 Oct 2025 04:51:05 GMT",
+            "summary": "President Donald Trump is imposing an extra 10% tariff on Canadian imports. He says it is for what he says is a misleading TV ad featuring former President Ronald Reagan.",
+            "date": "Sun, 26 Oct 2025 01:56:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,34 +14,70 @@
             "impact": "Neutral"
         },
         {
-            "title": "Inflation rate hit 3.0% in September, lower than expected, long-awaited CPI report shows",
-            "link": "https://www.cnbc.com/2025/10/24/cpi-inflation-september-2025.html",
-            "summary": "The annual inflation rate as measured by the CPI was expected to be 3.1% in September, according to the Dow Jones consensus estimate.",
-            "date": "Fri, 24 Oct 2025 17:37:39 GMT",
+            "title": "American Airlines is arriving late to the luxury travel boom. Can it catch up?",
+            "link": "https://www.cnbc.com/2025/10/26/american-airlines-delta-united.html",
+            "summary": "American Airlines has fallen behind large rivals Delta and United in seeking out luxury customers, bringing in profit and more. American Airlines: We are committed to serving our customers in the best way we can.",
+            "date": "Sun, 26 Oct 2025 12:03:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^FIDUSSIP",
+            "stock_ticker": "AAL",
             "impact": "Neutral"
         },
         {
-            "title": "Inside Wealth: One in three Manhattan condo owners lost money when they sold in the last year",
-            "link": "https://www.cnbc.com/2025/10/25/one-in-three-manhattan-condo-owners-lost-money-when-they-sold-in-the-last-year.html",
-            "summary": "Manhattan is still among the most expensive markets in the country, especially on a per-square-foot basis. The city is home to some of the world's most expensive real estate.",
-            "date": "Sat, 25 Oct 2025 13:02:22 GMT",
+            "title": "Timothy Mellon is Trump's $130 million mystery military donor: NYT",
+            "link": "https://www.cnbc.com/2025/10/25/trump-timothy-mellon-military-donor-government-shutdown.html",
+            "summary": "Reclusive billionaire Timothy Mellon, whose grandfather was a Treasury secretary, was a top donor to President Donald Trump for the 2024 election. Mellon's grandfather was Treasury secretary.",
+            "date": "Sat, 25 Oct 2025 19:47:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "4488.T",
+            "stock_ticker": "TISGX",
             "impact": "Neutral"
+        },
+        {
+            "title": "Top Wall Street analysts pound the table for solid returns in these 3 stocks",
+            "link": "https://www.cnbc.com/2025/10/26/top-wall-street-analysts-champion-these-3-stocks-for-solid-returns.html",
+            "summary": "TipRanks' ranking service highlights three stocks, including Pinterest and Uber Technologies, that are favored by Wall Street's top pros. TipRanks: Pinterest, Uber and Lyft are among the top stocks to buy this week.",
+            "date": "Sun, 26 Oct 2025 11:13:55 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Government shutdown curtails nonprofit funding, putting vital services in jeopardy",
+            "link": "https://www.cnbc.com/2025/10/26/government-shutdown-puts-some-nonprofits-in-jeopardy.html",
+            "summary": "As the standoff in Washington drags on, many nonprofits have lost access to federal grants. The grants are essential to their operations, nonprofits say.",
+            "date": "Sun, 26 Oct 2025 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DEA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The surprising stocks leading the tech sector this year thanks to an AI renaissance",
+            "link": "https://www.marketwatch.com/story/the-surprising-stocks-leading-the-tech-sector-this-year-thanks-to-an-ai-renaissance-f4407f5d?mod=mw_rss_topstories",
+            "summary": "Western Digital and Seagate were once sleepy cyclical stocks. But storage technology is now at the heart of the AI boom. Analysts see no signs of a slowdown ahead.",
+            "date": "Sun, 26 Oct 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Bearish"
         },
         {
             "title": "‘We don’t want to get into trouble’: Can we give our daughter a $30K wedding gift without involving the IRS?",
             "link": "https://www.marketwatch.com/story/we-dont-want-to-get-into-trouble-can-we-give-our-daughter-a-30k-wedding-gift-without-involving-the-irs-fd706051?mod=mw_rss_topstories",
             "summary": "“What is the best way to go about this?” he asks. “What are the best ways to get people to talk to each other?’”",
-            "date": "Sat, 25 Oct 2025 13:15:00 GMT",
+            "date": "Sun, 26 Oct 2025 12:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,52 +86,40 @@
             "impact": "Neutral"
         },
         {
-            "title": "There’s a war on the bachelor’s degree. Can anything replace it?",
-            "link": "https://www.marketwatch.com/story/theres-a-war-on-the-bachelors-degree-can-anything-replace-it-3729b7f2?mod=mw_rss_topstories",
-            "summary": "The share of Americans with a bachelor's degree has been going up for years. That's about to change, if politicians get their way.",
-            "date": "Sat, 25 Oct 2025 12:30:00 GMT",
+            "title": "Our two daughters are struggling with student debt. Should we dip into our $1.8 million 401(k)s to buy them apartments?",
+            "link": "https://www.marketwatch.com/story/our-two-daughters-are-struggling-with-student-debt-should-we-dip-into-our-1-8-million-401-k-s-to-buy-them-apartments-47916e67?mod=mw_rss_topstories",
+            "summary": "Each apartment would be priced close to $225,000, the company says. “Each apartment will be priced around $225k,” the company adds.",
+            "date": "Sat, 25 Oct 2025 20:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MAY-USD",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Tesla just shared more about its AI vision. These are the 3 biggest takeaways.",
-            "link": "https://www.marketwatch.com/story/tesla-just-shared-more-about-its-ai-vision-these-are-the-3-biggest-takeaways-1323a279?mod=mw_rss_topstories",
-            "summary": "Tesla used its earnings call to further hammer a future centered on AI. A lot is happening with Tesla’s automotive and energy businesses.",
-            "date": "Sat, 25 Oct 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TSLA",
+            "stock_ticker": "OURLIV.ST",
             "impact": "Neutral"
         },
         {
-            "title": "These five tech stocks could let you play earnings season like a pro",
-            "link": "https://www.marketwatch.com/story/these-five-tech-stocks-could-let-you-play-earnings-season-like-a-pro-b589f8d4?mod=mw_rss_topstories",
-            "summary": "We surveyed experts on their favored picks heading into earnings season. We identified companies across the tech sector. We also asked experts for their favorite tech companies to watch.",
-            "date": "Sat, 25 Oct 2025 12:00:00 GMT",
+            "title": "I received an inheritance from my father’s estate, but the executor wants me to give it back. What should I do?",
+            "link": "https://www.marketwatch.com/story/i-received-an-inheritance-from-my-fathers-estate-but-the-executor-wants-me-to-give-it-back-what-should-i-do-2e071384?mod=mw_rss_topstories",
+            "summary": "“The attorney for my late father stated that all beneficiaries needed to wait 10 months before disbursements from the sale of the home could be released.”",
+            "date": "Sat, 25 Oct 2025 19:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FIVE",
+            "stock_ticker": "AMUN",
             "impact": "Neutral"
         },
         {
-            "title": "Trump’s new White House ballroom will actually cost taxpayers up to $110 million",
-            "link": "https://www.marketwatch.com/story/trumps-new-white-house-ballroom-will-actually-cost-taxpayers-up-to-110-million-988a3d92?mod=mw_rss_topstories",
-            "summary": "The refurbishment of the White House, to include the greatest ballroom ever, will supposedly have “zero cost” to us taxpayers.",
-            "date": "Sat, 25 Oct 2025 12:00:00 GMT",
+            "title": "‘A friend calls it the everything bubble’: Why do so many economists fear a 1929-style crash?",
+            "link": "https://www.marketwatch.com/story/a-friend-calls-it-the-everything-bubble-why-do-so-many-economists-fear-a-1929-style-crash-084df040?mod=mw_rss_topstories",
+            "summary": "We have faced fears, for more than 10 years, that the market is going to experience the kind of crash not seen in nearly a century.",
+            "date": "Sat, 25 Oct 2025 19:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BNB=F",
-            "impact": "Bullish"
+            "stock_ticker": "A",
+            "impact": "Neutral"
         }
     ]
 }
