@@ -1,125 +1,125 @@
 {
-    "date": "2025-10-28",
+    "date": "2025-10-29",
     "news": [
         {
-            "title": "UPS stock soars on third-quarter earnings beat, turnaround plan",
-            "link": "https://www.cnbc.com/2025/10/28/ups-earnings-q3-2025.html",
-            "summary": "UPS beat Wall Street estimates in its third-quarter earnings report. Shares of UPS soared Tuesday morning after the courier beat Wall St. estimates.",
-            "date": "Tue, 28 Oct 2025 13:15:27 GMT",
+            "title": "Boeing stems cash burn for first time since 2023 but takes $4.9 billion charge on 777X delays",
+            "link": "https://www.cnbc.com/2025/10/29/boeing-ba-3q-2025-earnings.html",
+            "summary": "Boeing reports third-quarter results before the market opens on Wednesday. Boeing is the largest U.S. aircraft manufacturer. The company has more than 100,000 employees worldwide.",
+            "date": "Wed, 29 Oct 2025 13:14:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UPS",
-            "impact": "Bullish"
-        },
-        {
-            "title": "OpenAI completes restructure, solidifying Microsoft as a major shareholder",
-            "link": "https://www.cnbc.com/2025/10/28/open-ai-for-profit-microsoft.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Tue, 28 Oct 2025 13:23:47 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OPEAZZX",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "Ark Invest CEO Cathie Wood flags AI market correction risk: 'We think there will be a reality check'",
-            "link": "https://www.cnbc.com/2025/10/28/cathie-wood-flags-market-correction-risk-but-rejects-ai-bubble-fears.html",
-            "summary": "Ark Invest CEO Cathie Wood pushed back on fears of an artificial intelligence bubble. Wood: \"I don't think there is a bubble in artificial intelligence\"",
-            "date": "Tue, 28 Oct 2025 12:27:28 GMT",
+            "title": "Nvidia shares pop 3% in premarket as tech giant nears historic $5 trillion valuation",
+            "link": "https://www.cnbc.com/2025/10/29/nvidia-on-track-to-hit-historic-5-trillion-valuation-amid-ai-rally.html",
+            "summary": " AI-fueled market rally has prompted some to raise the alarm on fears of a bubble. A dizzying AI-Fueled Market Rally has Prompted Some to Raise the Alarm on Fears of a Bubble.",
+            "date": "Wed, 29 Oct 2025 13:11:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ARKK",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "Bill Gates softens ‘Climate Disaster’ approach, says strategy needs to shift",
-            "link": "https://www.cnbc.com/2025/10/28/bill-gates-says-countries-need-to-rethink-their-climate-strategy.html",
-            "summary": "Microsoft co-founder Bill Gates says countries and leaders need to shift their approach to climate change. He says they need to focus on 'improving lives'",
-            "date": "Tue, 28 Oct 2025 12:58:45 GMT",
+            "title": "Etsy stock sinks on mixed earnings, CEO change — growth chief to replace Silverman",
+            "link": "https://www.cnbc.com/2025/10/29/etsy-stock-ceo-depop.html",
+            "summary": "Etsy said Josh Silverman will step down as CEO and be replaced by chief growth officer Kruti Patel Goyal. Etsy is a maker of Etsy, an Etsy-owned Etsy store.",
+            "date": "Wed, 29 Oct 2025 13:23:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BILL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "'We're trying to shame them': Upstart activist investors target America's underperforming banks",
-            "link": "https://www.cnbc.com/2025/10/28/activist-investor-holdco-targets-americas-underperforming-banks.html",
-            "summary": "HoldCo has emerged from relative obscurity to launch activist investor campaigns against three regional banks. Comerica, Eastern Bank and First Interstate are among the banks targeted.",
-            "date": "Tue, 28 Oct 2025 13:20:13 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HOWL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. labor market was expanding in mid-October, new weekly ADP report shows",
-            "link": "https://www.marketwatch.com/story/u-s-labor-market-continued-to-expand-in-mid-october-new-weekly-adp-report-shows-1411762c?mod=mw_rss_topstories",
-            "summary": "The government shutdown has delayed the release of the September jobs report. Job growth was cooling prior to the government shutdown, which started on Oct. 1.",
-            "date": "Tue, 28 Oct 2025 13:19:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "ETSY",
             "impact": "Bearish"
         },
         {
-            "title": "AI is gobbling up power and money — and sidelining this big issue, Blackstone and BlackRock CEOs say",
-            "link": "https://www.marketwatch.com/story/ai-is-gobbling-up-power-and-money-and-sidelining-this-big-issue-blackstone-and-blackrock-ceo-say-c493f9da?mod=mw_rss_topstories",
-            "summary": "The biggest minds in finance weighed in on AI, investing and the U.S. economy at a Saudi Arabia conference on Tuesday. The conference was hosted by the World Economic Forum in Riyadh.",
-            "date": "Tue, 28 Oct 2025 13:16:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Wayfair’s stock rallies as repeat customers help lift revenue above Wall Street’s estimate",
-            "link": "https://www.marketwatch.com/story/wayfairs-stock-rallies-as-repeat-customers-help-lift-revenue-above-wall-streets-estimate-c41f34d0?mod=mw_rss_topstories",
-            "summary": "Existing customer boosted their buying activity by nearly 7%. Total number of active shoppers dipped. Existing customers increased their buying by 7%, while active shoppers dropped by 1%.",
-            "date": "Tue, 28 Oct 2025 13:08:00 GMT",
+            "title": "The Fed is expected to approve another rate cut Wednesday. Here's what else to expect",
+            "link": "https://www.cnbc.com/2025/10/28/fed-rate-cut-preview.html",
+            "summary": "The easy part for the Federal Reserve this week will be announcing a rate cut when it wraps up its meeting Wednesday. The Federal Reserve will announce a rate cutting when it ends its meeting on Wednesday.",
+            "date": "Wed, 29 Oct 2025 12:07:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "MPLT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Stablecoins are a shaky proposition for investors: Here’s what you need to know",
-            "link": "https://www.marketwatch.com/story/stablecoins-are-a-shaky-proposition-for-investors-heres-what-you-need-to-know-2aae3feb?mod=mw_rss_topstories",
-            "summary": "This so-called “safer” cryptocurrency offers some advantages to investors. But can you trust the providers? The answer is yes.",
-            "date": "Tue, 28 Oct 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ARE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "UPS has cut 34,000 jobs — a lot more than planned — and earnings show the move paid off",
-            "link": "https://www.marketwatch.com/story/ups-beats-profit-expectations-by-the-widest-margin-in-years-and-the-stock-surges-ca0a2d7e?mod=mw_rss_topstories",
-            "summary": "UPS beat profits by the widest margin in more than four years. UPS’s stock looked to surge after the company announced it beat profits.",
-            "date": "Tue, 28 Oct 2025 12:35:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "UPS",
             "impact": "Bullish"
+        },
+        {
+            "title": "Character.AI to block romantic AI chats for minors a year after teen's suicide",
+            "link": "https://www.cnbc.com/2025/10/29/character-ai-chatbots-teens-persona.html",
+            "summary": "Character.AI said it will phase out open-ended chats for minors, including romantic dialogues with AI chatbots, by Nov. 25.",
+            "date": "Wed, 29 Oct 2025 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOPBRX=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m 53, a single parent with a $1 million home. My boyfriend wants to marry. Am I better off staying single?",
+            "link": "https://www.marketwatch.com/story/im-53-have-one-child-and-a-1-1-million-home-my-boyfriend-wants-to-marry-would-i-have-to-pay-his-medical-debts-be89c986?mod=mw_rss_topstories",
+            "summary": "“Should I just maintain the status quo or marry the love of my life?” she asks herself. “ should I just stay the same?’ she asks.",
+            "date": "Wed, 29 Oct 2025 13:19:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BMNR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Fiserv’s stock slides toward worst day ever as outlook reset is called ‘difficult to comprehend’",
+            "link": "https://www.marketwatch.com/story/fiservs-stock-slides-toward-its-worst-day-ever-upon-a-reset-thats-difficult-to-comprehend-589a9b1f?mod=mw_rss_topstories",
+            "summary": "The company, which sells payment processing, mobile banking and billing solutions to banks and merchants, dramatically lowered its guidance for the year. The company is based in New York and has more than 100,000 employees.",
+            "date": "Wed, 29 Oct 2025 13:18:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VTI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "All five of his hedge funds have doubled this year. What this manager is saying now about gold and tech.",
+            "link": "https://www.marketwatch.com/story/all-five-of-his-hedge-funds-have-doubled-this-year-what-this-manager-is-saying-now-about-gold-and-tech-acac9b29?mod=mw_rss_topstories",
+            "summary": "Crescat's five funds have soared in value through the end of September. The firm that's bullish on gold hasn't been deterred by a recent slide in the yellow metal.",
+            "date": "Wed, 29 Oct 2025 12:54:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ALL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Apple earnings need to resolve this major investor question",
+            "link": "https://www.marketwatch.com/story/apple-earnings-are-coming-up-with-the-stocks-move-dependent-on-one-key-debate-6795a98a?mod=mw_rss_topstories",
+            "summary": "Apple’s iPhone business exceeded expectations in the June quarter. Early iPhone 17 indications have been encouraging. But is that demand sustainable? We asked.",
+            "date": "Wed, 29 Oct 2025 12:42:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAPL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia could become the first $5 trillion company today. Here’s just how big that is.",
+            "link": "https://www.marketwatch.com/story/nvidia-could-become-the-first-5-trillion-company-today-heres-just-how-big-that-is-773ab46e?mod=mw_rss_topstories",
+            "summary": "A $5 trillion market capitalization would be larger than the combined market values of Broadcom, TSMC, AMD, ASML, Micron, Lam Research and Qualcomm.",
+            "date": "Wed, 29 Oct 2025 12:37:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVDA",
+            "impact": "Neutral"
         }
     ]
 }
