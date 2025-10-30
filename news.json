@@ -1,11 +1,11 @@
 {
-    "date": "2025-10-29",
+    "date": "2025-10-30",
     "news": [
         {
-            "title": "Boeing stems cash burn for first time since 2023 but takes $4.9 billion charge on 777X delays",
-            "link": "https://www.cnbc.com/2025/10/29/boeing-ba-3q-2025-earnings.html",
-            "summary": "Boeing reports third-quarter results before the market opens on Wednesday. Boeing is the largest U.S. aircraft manufacturer. The company has more than 100,000 employees worldwide.",
-            "date": "Wed, 29 Oct 2025 13:14:54 GMT",
+            "title": "The biggest takeaways from the Trump-Xi meeting — what the truce covers and what is still unclear",
+            "link": "https://www.cnbc.com/2025/10/30/trump-xi-south-korea-rare-earth-tariff-trade-war-nvidia.html",
+            "summary": "President Donald Trump said the rare earths agreement is a one year deal. He said the deal will be \"very routinely extended as time goes by\"",
+            "date": "Thu, 30 Oct 2025 13:23:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,58 +14,58 @@
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia shares pop 3% in premarket as tech giant nears historic $5 trillion valuation",
-            "link": "https://www.cnbc.com/2025/10/29/nvidia-on-track-to-hit-historic-5-trillion-valuation-amid-ai-rally.html",
-            "summary": " AI-fueled market rally has prompted some to raise the alarm on fears of a bubble. A dizzying AI-Fueled Market Rally has Prompted Some to Raise the Alarm on Fears of a Bubble.",
-            "date": "Wed, 29 Oct 2025 13:11:06 GMT",
+            "title": "Eli Lilly blows past estimates, hikes guidance as Zepbound and Mounjaro sales soar",
+            "link": "https://www.cnbc.com/2025/10/30/eli-lilly-lly-earnings-q3-2025.html",
+            "summary": "The results come as Eli Lilly works to maintain its edge over Novo Nordisk in the booming market for a class of obesity and diabetes drugs called GLP-1s.",
+            "date": "Thu, 30 Oct 2025 12:27:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "LLY",
             "impact": "Neutral"
         },
         {
-            "title": "Etsy stock sinks on mixed earnings, CEO change — growth chief to replace Silverman",
-            "link": "https://www.cnbc.com/2025/10/29/etsy-stock-ceo-depop.html",
-            "summary": "Etsy said Josh Silverman will step down as CEO and be replaced by chief growth officer Kruti Patel Goyal. Etsy is a maker of Etsy, an Etsy-owned Etsy store.",
-            "date": "Wed, 29 Oct 2025 13:23:44 GMT",
+            "title": "Comcast stock falls 9% as leadership warns of pressures in broadband, its cornerstone unit",
+            "link": "https://www.cnbc.com/2025/10/30/comcast-cmcsa-earnings-q3-2025.html",
+            "summary": "Comcast said it lost 104,000 broadband customers during the period. It is the fourth quarter in a row it failed to grow its broadband subscriber base.",
+            "date": "Thu, 30 Oct 2025 13:09:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ETSY",
-            "impact": "Bearish"
+            "stock_ticker": "CMCSA",
+            "impact": "Neutral"
         },
         {
-            "title": "The Fed is expected to approve another rate cut Wednesday. Here's what else to expect",
-            "link": "https://www.cnbc.com/2025/10/28/fed-rate-cut-preview.html",
-            "summary": "The easy part for the Federal Reserve this week will be announcing a rate cut when it wraps up its meeting Wednesday. The Federal Reserve will announce a rate cutting when it ends its meeting on Wednesday.",
-            "date": "Wed, 29 Oct 2025 12:07:14 GMT",
+            "title": "Here are the five key takeaways from the Fed meeting and Powell news conference",
+            "link": "https://www.cnbc.com/2025/10/29/fed-five-takeaways.html",
+            "summary": "The Federal Reserve meeting wrapped up Wednesday. The meeting delivered on expectations and offered a few surprises. The U.S. economy is expected to continue to grow.",
+            "date": "Wed, 29 Oct 2025 21:48:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MPLT",
+            "stock_ticker": "FZSXX",
             "impact": "Bullish"
         },
         {
-            "title": "Character.AI to block romantic AI chats for minors a year after teen's suicide",
-            "link": "https://www.cnbc.com/2025/10/29/character-ai-chatbots-teens-persona.html",
-            "summary": "Character.AI said it will phase out open-ended chats for minors, including romantic dialogues with AI chatbots, by Nov. 25.",
-            "date": "Wed, 29 Oct 2025 13:00:01 GMT",
+            "title": "Russia on guard after Trump's call to resume nuclear weapons testing",
+            "link": "https://www.cnbc.com/2025/10/30/russia-on-guard-after-trumps-call-to-resume-nuclear-weapons-testing.html",
+            "summary": "The Pentagon has been rebranded as the \"Department of War\" Trump says he has instructed the Pentagon to resume nuclear testing. The Pentagon has not commented on the move.",
+            "date": "Thu, 30 Oct 2025 13:14:43 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOPBRX=X",
+            "stock_ticker": "LEER.DE",
             "impact": "Neutral"
         },
         {
             "title": "I’m 53, a single parent with a $1 million home. My boyfriend wants to marry. Am I better off staying single?",
             "link": "https://www.marketwatch.com/story/im-53-have-one-child-and-a-1-1-million-home-my-boyfriend-wants-to-marry-would-i-have-to-pay-his-medical-debts-be89c986?mod=mw_rss_topstories",
             "summary": "“Should I just maintain the status quo or marry the love of my life?” she asks herself. “ should I just stay the same?’ she asks.",
-            "date": "Wed, 29 Oct 2025 13:19:00 GMT",
+            "date": "Thu, 30 Oct 2025 13:22:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "Fiserv’s stock slides toward worst day ever as outlook reset is called ‘difficult to comprehend’",
-            "link": "https://www.marketwatch.com/story/fiservs-stock-slides-toward-its-worst-day-ever-upon-a-reset-thats-difficult-to-comprehend-589a9b1f?mod=mw_rss_topstories",
-            "summary": "The company, which sells payment processing, mobile banking and billing solutions to banks and merchants, dramatically lowered its guidance for the year. The company is based in New York and has more than 100,000 employees.",
-            "date": "Wed, 29 Oct 2025 13:18:00 GMT",
+            "title": "This growth portfolio looks far beyond ‘Magnificent Seven’ stocks to profit from AI",
+            "link": "https://www.marketwatch.com/story/this-growth-portfolio-looks-far-beyond-magnificent-seven-stocks-to-profit-from-ai-3d921f4e?mod=mw_rss_topstories",
+            "summary": ". Daniel Kim of Saturna Capital touts gains in corporate profitability while pointing out that Nvidia “is still a cyclical business.”",
+            "date": "Thu, 30 Oct 2025 13:14:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VTI",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         },
         {
-            "title": "All five of his hedge funds have doubled this year. What this manager is saying now about gold and tech.",
-            "link": "https://www.marketwatch.com/story/all-five-of-his-hedge-funds-have-doubled-this-year-what-this-manager-is-saying-now-about-gold-and-tech-acac9b29?mod=mw_rss_topstories",
-            "summary": "Crescat's five funds have soared in value through the end of September. The firm that's bullish on gold hasn't been deterred by a recent slide in the yellow metal.",
-            "date": "Wed, 29 Oct 2025 12:54:00 GMT",
+            "title": "Fiserv’s former CEO left the fintech company in crisis. Trump put him in charge of Social Security.",
+            "link": "https://www.marketwatch.com/story/fiservs-former-ceo-left-the-fintech-company-in-crisis-trump-put-him-in-charge-of-social-security-d2109ef8?mod=mw_rss_topstories",
+            "summary": "Social Security Commissioner Frank Bisignano also sold his Fiserv stock for at least $500 million before the stock’s collapse.",
+            "date": "Thu, 30 Oct 2025 13:09:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ALL",
+            "stock_ticker": "JAFGX",
             "impact": "Neutral"
         },
         {
-            "title": "Apple earnings need to resolve this major investor question",
-            "link": "https://www.marketwatch.com/story/apple-earnings-are-coming-up-with-the-stocks-move-dependent-on-one-key-debate-6795a98a?mod=mw_rss_topstories",
-            "summary": "Apple’s iPhone business exceeded expectations in the June quarter. Early iPhone 17 indications have been encouraging. But is that demand sustainable? We asked.",
-            "date": "Wed, 29 Oct 2025 12:42:00 GMT",
+            "title": "Growth is slowing, and inflation is easing. More Fed rate cuts are the right response.",
+            "link": "https://www.marketwatch.com/story/growth-is-slowing-and-inflation-is-easing-more-fed-rate-cuts-are-the-right-response-92fe2728?mod=mw_rss_topstories",
+            "summary": "Weakening economy makes the central bank’s December interest-rate decision clearer. Weakening economy make the central Bank’’December interest- rate decision clearer’",
+            "date": "Thu, 30 Oct 2025 12:54:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAPL",
+            "stock_ticker": "RSG=F",
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia could become the first $5 trillion company today. Here’s just how big that is.",
-            "link": "https://www.marketwatch.com/story/nvidia-could-become-the-first-5-trillion-company-today-heres-just-how-big-that-is-773ab46e?mod=mw_rss_topstories",
-            "summary": "A $5 trillion market capitalization would be larger than the combined market values of Broadcom, TSMC, AMD, ASML, Micron, Lam Research and Qualcomm.",
-            "date": "Wed, 29 Oct 2025 12:37:00 GMT",
+            "title": "Mastercard cheers healthy consumer spending, echoing Visa’s resilient tone",
+            "link": "https://www.marketwatch.com/story/mastercard-cheers-healthy-consumer-spending-echoing-visas-resilient-tone-747c27a7?mod=mw_rss_topstories",
+            "summary": "Economic cracks don’t seem to be stopping the card networks from registering sustained spending growth. The card networks are reporting sustained growth in spending.",
+            "date": "Thu, 30 Oct 2025 12:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "MA",
             "impact": "Neutral"
         }
     ]
