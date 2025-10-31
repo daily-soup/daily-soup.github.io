@@ -1,11 +1,71 @@
 {
-    "date": "2025-10-30",
+    "date": "2025-10-31",
     "news": [
         {
-            "title": "The biggest takeaways from the Trump-Xi meeting — what the truce covers and what is still unclear",
-            "link": "https://www.cnbc.com/2025/10/30/trump-xi-south-korea-rare-earth-tariff-trade-war-nvidia.html",
-            "summary": "President Donald Trump said the rare earths agreement is a one year deal. He said the deal will be \"very routinely extended as time goes by\"",
-            "date": "Thu, 30 Oct 2025 13:23:02 GMT",
+            "title": "Millions face 'huge sticker shock' when ACA open enrollment starts Nov. 1",
+            "link": "https://www.cnbc.com/2025/10/31/aca-open-enrollment-starts-enhanced-subsidies.html",
+            "summary": "Millions of households logging on to enroll in a health plan via the Affordable Care Act marketplace will see much higher premiums. Millions of households log on to sign up for a health care plan via a health insurance marketplace.",
+            "date": "Fri, 31 Oct 2025 13:21:53 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MACRO37622-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia CEO Jensen Huang says AI is in a 'virtuous cycle.' Here's what he means",
+            "link": "https://www.cnbc.com/2025/10/31/nvidia-ceo-jensen-huang-says-ai-has-reached-a-virtuous-cycle.html",
+            "summary": "\"The virtual cycle of AI has been designed, and this is ... the reason why you're seeing the world's capex going so fast,\" Nvidia CEO Jensen Huang said.",
+            "date": "Fri, 31 Oct 2025 13:15:58 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVDA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Affirm gets boost from New York Life with $750 million loan deal",
+            "link": "https://www.cnbc.com/2025/10/31/affirm-new-york-life-loan-deal.html",
+            "summary": "Affirm has secured similar funding lines with Liberty Mutual Investments, PGIM, and Sixth Street Partners. Affirm is part of a trend across the buy-now-pay-later sector.",
+            "date": "Fri, 31 Oct 2025 12:30:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AFRM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia's Huang downplays concerns over selling AI chips to Beijing: It has 'plenty' of its own",
+            "link": "https://www.cnbc.com/2025/10/31/nvidias-huang-doesnt-buy-the-national-security-concerns-over-selling-chips-to-china.html",
+            "summary": "\"It's in the best interest of America to serve that China market,\" Nvidia CEO says. Nvidia CEO: It's in \"best interest of China to have the American technology\"",
+            "date": "Fri, 31 Oct 2025 12:54:52 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "301581.SZ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Chocolate's reign over Halloween is under threat from inflation, tariffs and high cocoa prices",
+            "link": "https://www.cnbc.com/2025/10/31/chocolate-prices-halloween-tariffs-inflation-candy.html",
+            "summary": "Chocolate prices soar nearly 30% this Halloween, pushing shoppers toward gummies and sour treats as cocoa costs and inflation haunt candy aisles.",
+            "date": "Fri, 31 Oct 2025 11:30:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "REIGN-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The biggest risks of 2025 turned out to be no threat at all",
+            "link": "https://www.marketwatch.com/story/the-biggest-risks-of-2025-turned-out-to-be-no-threat-at-all-39fb98c5?mod=mw_rss_topstories",
+            "summary": "Worries about bond yields, the Fed hiking interest rates and trade wars transpired not to threaten 2025 investment returns in the end. The U.S. economy is expected to grow by 2.5 percent this year and 2.7 percent next year.",
+            "date": "Fri, 31 Oct 2025 12:51:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "Eli Lilly blows past estimates, hikes guidance as Zepbound and Mounjaro sales soar",
-            "link": "https://www.cnbc.com/2025/10/30/eli-lilly-lly-earnings-q3-2025.html",
-            "summary": "The results come as Eli Lilly works to maintain its edge over Novo Nordisk in the booming market for a class of obesity and diabetes drugs called GLP-1s.",
-            "date": "Thu, 30 Oct 2025 12:27:09 GMT",
+            "title": "Will Palantir follow Netflix with a stock split of its own?",
+            "link": "https://www.marketwatch.com/story/will-palantir-follow-netflix-with-a-stock-split-of-its-own-c231a255?mod=mw_rss_topstories",
+            "summary": "A D.A. Davidson analyst “would not be surprised’ if Palantir splits its stock, given that it caters heavily to retail investors and has seen a strong rally.",
+            "date": "Fri, 31 Oct 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LLY",
+            "stock_ticker": "SHW",
             "impact": "Neutral"
         },
         {
-            "title": "Comcast stock falls 9% as leadership warns of pressures in broadband, its cornerstone unit",
-            "link": "https://www.cnbc.com/2025/10/30/comcast-cmcsa-earnings-q3-2025.html",
-            "summary": "Comcast said it lost 104,000 broadband customers during the period. It is the fourth quarter in a row it failed to grow its broadband subscriber base.",
-            "date": "Thu, 30 Oct 2025 13:09:37 GMT",
+            "title": "Here’s what’s worth streaming in November 2025 on Netflix, Hulu, HBO Max and more",
+            "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-november-2025-on-netflix-hulu-hbo-max-and-more-149f086e?mod=mw_rss_topstories",
+            "summary": "‘Stranger Things’ kicks off its final season, ‘Pluribus’ is revealed on Apple, and ‘Landman’ returns to Paramount+.",
+            "date": "Fri, 31 Oct 2025 12:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CMCSA",
+            "stock_ticker": "BD0.F",
             "impact": "Neutral"
         },
         {
-            "title": "Here are the five key takeaways from the Fed meeting and Powell news conference",
-            "link": "https://www.cnbc.com/2025/10/29/fed-five-takeaways.html",
-            "summary": "The Federal Reserve meeting wrapped up Wednesday. The meeting delivered on expectations and offered a few surprises. The U.S. economy is expected to continue to grow.",
-            "date": "Wed, 29 Oct 2025 21:48:20 GMT",
+            "title": "Chevron, Exxon profits keep falling, but beat expectations as production hits records",
+            "link": "https://www.marketwatch.com/story/exxon-chevron-have-been-on-a-roll-heres-how-today-could-be-different-108c4514?mod=mw_rss_topstories",
+            "summary": "Falling oil prices continued to hurt earnings for both Chevron and Exxon Mobil. Both oil giants managed to beat Wall Street’s profit expectations.",
+            "date": "Fri, 31 Oct 2025 12:02:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FZSXX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Russia on guard after Trump's call to resume nuclear weapons testing",
-            "link": "https://www.cnbc.com/2025/10/30/russia-on-guard-after-trumps-call-to-resume-nuclear-weapons-testing.html",
-            "summary": "The Pentagon has been rebranded as the \"Department of War\" Trump says he has instructed the Pentagon to resume nuclear testing. The Pentagon has not commented on the move.",
-            "date": "Thu, 30 Oct 2025 13:14:43 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LEER.DE",
+            "stock_ticker": "CVX",
             "impact": "Neutral"
         },
         {
             "title": "I’m 53, a single parent with a $1 million home. My boyfriend wants to marry. Am I better off staying single?",
             "link": "https://www.marketwatch.com/story/im-53-have-one-child-and-a-1-1-million-home-my-boyfriend-wants-to-marry-would-i-have-to-pay-his-medical-debts-be89c986?mod=mw_rss_topstories",
             "summary": "“Should I just maintain the status quo or marry the love of my life?” she asks herself. “ should I just stay the same?’ she asks.",
-            "date": "Thu, 30 Oct 2025 13:22:00 GMT",
+            "date": "Fri, 31 Oct 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BMNR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This growth portfolio looks far beyond ‘Magnificent Seven’ stocks to profit from AI",
-            "link": "https://www.marketwatch.com/story/this-growth-portfolio-looks-far-beyond-magnificent-seven-stocks-to-profit-from-ai-3d921f4e?mod=mw_rss_topstories",
-            "summary": ". Daniel Kim of Saturna Capital touts gains in corporate profitability while pointing out that Nvidia “is still a cyclical business.”",
-            "date": "Thu, 30 Oct 2025 13:14:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THISX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fiserv’s former CEO left the fintech company in crisis. Trump put him in charge of Social Security.",
-            "link": "https://www.marketwatch.com/story/fiservs-former-ceo-left-the-fintech-company-in-crisis-trump-put-him-in-charge-of-social-security-d2109ef8?mod=mw_rss_topstories",
-            "summary": "Social Security Commissioner Frank Bisignano also sold his Fiserv stock for at least $500 million before the stock’s collapse.",
-            "date": "Thu, 30 Oct 2025 13:09:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JAFGX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Growth is slowing, and inflation is easing. More Fed rate cuts are the right response.",
-            "link": "https://www.marketwatch.com/story/growth-is-slowing-and-inflation-is-easing-more-fed-rate-cuts-are-the-right-response-92fe2728?mod=mw_rss_topstories",
-            "summary": "Weakening economy makes the central bank’s December interest-rate decision clearer. Weakening economy make the central Bank’’December interest- rate decision clearer’",
-            "date": "Thu, 30 Oct 2025 12:54:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RSG=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Mastercard cheers healthy consumer spending, echoing Visa’s resilient tone",
-            "link": "https://www.marketwatch.com/story/mastercard-cheers-healthy-consumer-spending-echoing-visas-resilient-tone-747c27a7?mod=mw_rss_topstories",
-            "summary": "Economic cracks don’t seem to be stopping the card networks from registering sustained spending growth. The card networks are reporting sustained growth in spending.",
-            "date": "Thu, 30 Oct 2025 12:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MA",
             "impact": "Neutral"
         }
     ]
