@@ -1,6 +1,42 @@
 {
-    "date": "2025-10-31",
+    "date": "2025-11-01",
     "news": [
+        {
+            "title": "Berkshire's operating earnings jump 34%, Buffett buys back no stock and raises cash hoard to $381 billion",
+            "link": "https://www.cnbc.com/2025/11/01/berkshire-hathaway-brk-earnings-q3-2025.html",
+            "summary": "Berkshire's operating profit generated from the conglomerate's wholly owned businesses including insurance and railroads jumped 34% in the third quarter.",
+            "date": "Sat, 01 Nov 2025 12:49:38 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "7C5.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump administration must pay SNAP benefits despite government shutdown, judge rules",
+            "link": "https://www.cnbc.com/2025/10/31/snap-trump-judge-food-stamps-shutdown.html",
+            "summary": "The Justice Department argued that the food stamp program, which feeds more than 40 million Americans, effectively did not exist anymore due to the shutdown.",
+            "date": "Fri, 31 Oct 2025 22:49:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Bearish"
+        },
+        {
+            "title": "While AI spending is top of mind, online ads are driving a lot of Big Tech's growth",
+            "link": "https://www.cnbc.com/2025/11/01/meta-alphabet-amazon-microsoft-earnings-ads.html",
+            "summary": "Meta, Amazon, Alphabet and Microsoft reported quarterly earnings that showed rising digital ad sales and increased AI infrastructure spending. Meta, Amazon and Alphabet reported quarterly Earnings Snapshots.",
+            "date": "Sat, 01 Nov 2025 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AI",
+            "impact": "Neutral"
+        },
         {
             "title": "Millions face 'huge sticker shock' when ACA open enrollment starts Nov. 1",
             "link": "https://www.cnbc.com/2025/10/31/aca-open-enrollment-starts-enhanced-subsidies.html",
@@ -14,111 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia CEO Jensen Huang says AI is in a 'virtuous cycle.' Here's what he means",
-            "link": "https://www.cnbc.com/2025/10/31/nvidia-ceo-jensen-huang-says-ai-has-reached-a-virtuous-cycle.html",
-            "summary": "\"The virtual cycle of AI has been designed, and this is ... the reason why you're seeing the world's capex going so fast,\" Nvidia CEO Jensen Huang said.",
-            "date": "Fri, 31 Oct 2025 13:15:58 GMT",
+            "title": "'Trump effect' raises hopes for cannabis rally as investors bet on federal reforms, softer marijuana stance",
+            "link": "https://www.cnbc.com/2025/11/01/cannabis-stock-market-trump-marijuana.html",
+            "summary": "Cannabis stocks could rally on hopes for new hemp regulations. Trump's possible softer stance on marijuana is fueling investor optimism across the industry.",
+            "date": "Sat, 01 Nov 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Affirm gets boost from New York Life with $750 million loan deal",
-            "link": "https://www.cnbc.com/2025/10/31/affirm-new-york-life-loan-deal.html",
-            "summary": "Affirm has secured similar funding lines with Liberty Mutual Investments, PGIM, and Sixth Street Partners. Affirm is part of a trend across the buy-now-pay-later sector.",
-            "date": "Fri, 31 Oct 2025 12:30:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AFRM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Nvidia's Huang downplays concerns over selling AI chips to Beijing: It has 'plenty' of its own",
-            "link": "https://www.cnbc.com/2025/10/31/nvidias-huang-doesnt-buy-the-national-security-concerns-over-selling-chips-to-china.html",
-            "summary": "\"It's in the best interest of America to serve that China market,\" Nvidia CEO says. Nvidia CEO: It's in \"best interest of China to have the American technology\"",
-            "date": "Fri, 31 Oct 2025 12:54:52 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "301581.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Chocolate's reign over Halloween is under threat from inflation, tariffs and high cocoa prices",
-            "link": "https://www.cnbc.com/2025/10/31/chocolate-prices-halloween-tariffs-inflation-candy.html",
-            "summary": "Chocolate prices soar nearly 30% this Halloween, pushing shoppers toward gummies and sour treats as cocoa costs and inflation haunt candy aisles.",
-            "date": "Fri, 31 Oct 2025 11:30:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "REIGN-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The biggest risks of 2025 turned out to be no threat at all",
-            "link": "https://www.marketwatch.com/story/the-biggest-risks-of-2025-turned-out-to-be-no-threat-at-all-39fb98c5?mod=mw_rss_topstories",
-            "summary": "Worries about bond yields, the Fed hiking interest rates and trade wars transpired not to threaten 2025 investment returns in the end. The U.S. economy is expected to grow by 2.5 percent this year and 2.7 percent next year.",
-            "date": "Fri, 31 Oct 2025 12:51:00 GMT",
+            "title": "The government shutdown is about to become the longest ever. Here’s what could finally end it.",
+            "link": "https://www.marketwatch.com/story/the-government-shutdown-is-about-to-become-the-longest-ever-heres-what-could-finally-end-it-3e78b505?mod=mw_rss_topstories",
+            "summary": "The government shutdown is poised to mark a major milestone next week in the absence of a deal. The partial closure heads towards the longest on record.",
+            "date": "Sat, 01 Nov 2025 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BA",
-            "impact": "Neutral"
+            "impact": "Bearish"
         },
         {
-            "title": "Will Palantir follow Netflix with a stock split of its own?",
-            "link": "https://www.marketwatch.com/story/will-palantir-follow-netflix-with-a-stock-split-of-its-own-c231a255?mod=mw_rss_topstories",
-            "summary": "A D.A. Davidson analyst “would not be surprised’ if Palantir splits its stock, given that it caters heavily to retail investors and has seen a strong rally.",
-            "date": "Fri, 31 Oct 2025 12:30:00 GMT",
+            "title": "A financial firm gave me the wrong advice about my inherited IRA. Should I get a lawyer?",
+            "link": "https://www.marketwatch.com/story/a-financial-firm-gave-me-the-wrong-advice-about-my-inherited-ira-should-i-get-a-lawyer-b90159f1?mod=mw_rss_topstories",
+            "summary": "“I made a choice based on the information given,” he says. “I’m not a politician. I’ve never been a politician’.”",
+            "date": "Sat, 01 Nov 2025 13:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHW",
+            "stock_ticker": "A",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s what’s worth streaming in November 2025 on Netflix, Hulu, HBO Max and more",
-            "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-november-2025-on-netflix-hulu-hbo-max-and-more-149f086e?mod=mw_rss_topstories",
-            "summary": "‘Stranger Things’ kicks off its final season, ‘Pluribus’ is revealed on Apple, and ‘Landman’ returns to Paramount+.",
-            "date": "Fri, 31 Oct 2025 12:15:00 GMT",
+            "title": "No jobs report again. But these numbers show how the U.S. economy is doing.",
+            "link": "https://www.marketwatch.com/story/no-jobs-report-again-but-these-numbers-show-how-the-u-s-economy-is-doing-9bbc764a?mod=mw_rss_topstories",
+            "summary": "Investors are set to miss out on the second U.S. jobs report in a row due to the government shutdown. There’s enough scattered evidence to suggest the economy is hanging in there.",
+            "date": "Sat, 01 Nov 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BD0.F",
-            "impact": "Neutral"
+            "stock_ticker": "NG=F",
+            "impact": "Bearish"
         },
         {
-            "title": "Chevron, Exxon profits keep falling, but beat expectations as production hits records",
-            "link": "https://www.marketwatch.com/story/exxon-chevron-have-been-on-a-roll-heres-how-today-could-be-different-108c4514?mod=mw_rss_topstories",
-            "summary": "Falling oil prices continued to hurt earnings for both Chevron and Exxon Mobil. Both oil giants managed to beat Wall Street’s profit expectations.",
-            "date": "Fri, 31 Oct 2025 12:02:00 GMT",
+            "title": "AMD just had its best month in a quarter-century. Two big events are now on the horizon.",
+            "link": "https://www.marketwatch.com/story/amd-just-had-its-best-month-in-a-quarter-century-two-big-events-are-now-on-the-horizon-35fb2a83?mod=mw_rss_topstories",
+            "summary": "The chip company faces a “solid’ setup into next week’s earnings report. The company will host an analyst day later in November.",
+            "date": "Sat, 01 Nov 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CVX",
-            "impact": "Neutral"
+            "stock_ticker": "AMD",
+            "impact": "Bullish"
         },
         {
-            "title": "I’m 53, a single parent with a $1 million home. My boyfriend wants to marry. Am I better off staying single?",
-            "link": "https://www.marketwatch.com/story/im-53-have-one-child-and-a-1-1-million-home-my-boyfriend-wants-to-marry-would-i-have-to-pay-his-medical-debts-be89c986?mod=mw_rss_topstories",
-            "summary": "“Should I just maintain the status quo or marry the love of my life?” she asks herself. “ should I just stay the same?’ she asks.",
-            "date": "Fri, 31 Oct 2025 12:00:00 GMT",
+            "title": "Real progress against dementia is finally coming",
+            "link": "https://www.marketwatch.com/story/real-progress-against-dementia-is-finally-coming-b55de7e4?mod=mw_rss_topstories",
+            "summary": "There are glimmers of hope — from nanotechnology and brain games, to diet and exercise. There are glimmer of hope – from Nanotechnology and Brain Games, to Diet and Exercise.",
+            "date": "Sat, 01 Nov 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "REAL",
             "impact": "Neutral"
         }
     ]
