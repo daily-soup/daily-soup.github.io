@@ -1,16 +1,16 @@
 {
-    "date": "2025-11-01",
+    "date": "2025-11-02",
     "news": [
         {
-            "title": "Berkshire's operating earnings jump 34%, Buffett buys back no stock and raises cash hoard to $381 billion",
-            "link": "https://www.cnbc.com/2025/11/01/berkshire-hathaway-brk-earnings-q3-2025.html",
-            "summary": "Berkshire's operating profit generated from the conglomerate's wholly owned businesses including insurance and railroads jumped 34% in the third quarter.",
-            "date": "Sat, 01 Nov 2025 12:49:38 GMT",
+            "title": "While AI spending is top of mind, online ads are driving a lot of Big Tech's growth",
+            "link": "https://www.cnbc.com/2025/11/01/meta-alphabet-amazon-microsoft-earnings-ads.html",
+            "summary": "Meta, Amazon, Alphabet and Microsoft reported quarterly earnings that showed rising digital ad sales and increased AI infrastructure spending. Meta, Amazon and Alphabet reported quarterly Earnings Snapshots.",
+            "date": "Sat, 01 Nov 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "7C5.F",
+            "stock_ticker": "AI",
             "impact": "Neutral"
         },
         {
@@ -26,15 +26,15 @@
             "impact": "Bearish"
         },
         {
-            "title": "While AI spending is top of mind, online ads are driving a lot of Big Tech's growth",
-            "link": "https://www.cnbc.com/2025/11/01/meta-alphabet-amazon-microsoft-earnings-ads.html",
-            "summary": "Meta, Amazon, Alphabet and Microsoft reported quarterly earnings that showed rising digital ad sales and increased AI infrastructure spending. Meta, Amazon and Alphabet reported quarterly Earnings Snapshots.",
-            "date": "Sat, 01 Nov 2025 12:00:01 GMT",
+            "title": "Microsoft plans to hire more but with 'a lot more leverage' thanks to AI, CEO Satya Nadella says",
+            "link": "https://www.cnbc.com/2025/11/01/microsoft-ceo-headcount-leverage-ai.html",
+            "summary": "Microsoft wants to ensure that all of its employees can access its artificial intelligence tools. Microsoft 365 and GitHub Copilot will be available to all employees.",
+            "date": "Sat, 01 Nov 2025 22:08:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "MSFT",
             "impact": "Neutral"
         },
         {
@@ -50,76 +50,76 @@
             "impact": "Neutral"
         },
         {
-            "title": "'Trump effect' raises hopes for cannabis rally as investors bet on federal reforms, softer marijuana stance",
-            "link": "https://www.cnbc.com/2025/11/01/cannabis-stock-market-trump-marijuana.html",
-            "summary": "Cannabis stocks could rally on hopes for new hemp regulations. Trump's possible softer stance on marijuana is fueling investor optimism across the industry.",
-            "date": "Sat, 01 Nov 2025 12:00:01 GMT",
+            "title": "Global week ahead: Is Novo Nordisk past 'peak uncertainty'?",
+            "link": "https://www.cnbc.com/2025/11/02/global-week-ahead-is-novo-nordisk-past-its-peak-uncertainty.html",
+            "summary": "CNBC's Charlotte Reed will travel to Copenhagen to speak with Novo Nordisk's new CEO after a bumpy few months. She will also meet with the company's board of directors.",
+            "date": "Sun, 02 Nov 2025 08:04:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "NGO=F",
             "impact": "Neutral"
         },
         {
-            "title": "The government shutdown is about to become the longest ever. Here’s what could finally end it.",
-            "link": "https://www.marketwatch.com/story/the-government-shutdown-is-about-to-become-the-longest-ever-heres-what-could-finally-end-it-3e78b505?mod=mw_rss_topstories",
-            "summary": "The government shutdown is poised to mark a major milestone next week in the absence of a deal. The partial closure heads towards the longest on record.",
-            "date": "Sat, 01 Nov 2025 13:15:00 GMT",
+            "title": "My husband and I have $7K in Social Security and $2.5 million in stocks. What could go wrong?",
+            "link": "https://www.marketwatch.com/story/my-husband-and-i-have-7k-in-social-security-and-2-5-million-in-stocks-what-could-go-wrong-5ef5e4e9?mod=mw_rss_topstories",
+            "summary": "“I hope to live off of the combination of Social Security and the TIPS ladder,” he says. “I’m not looking to get rich, I just want to get by.”",
+            "date": "Sun, 02 Nov 2025 00:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Bearish"
-        },
-        {
-            "title": "A financial firm gave me the wrong advice about my inherited IRA. Should I get a lawyer?",
-            "link": "https://www.marketwatch.com/story/a-financial-firm-gave-me-the-wrong-advice-about-my-inherited-ira-should-i-get-a-lawyer-b90159f1?mod=mw_rss_topstories",
-            "summary": "“I made a choice based on the information given,” he says. “I’m not a politician. I’ve never been a politician’.”",
-            "date": "Sat, 01 Nov 2025 13:04:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "No jobs report again. But these numbers show how the U.S. economy is doing.",
-            "link": "https://www.marketwatch.com/story/no-jobs-report-again-but-these-numbers-show-how-the-u-s-economy-is-doing-9bbc764a?mod=mw_rss_topstories",
-            "summary": "Investors are set to miss out on the second U.S. jobs report in a row due to the government shutdown. There’s enough scattered evidence to suggest the economy is hanging in there.",
-            "date": "Sat, 01 Nov 2025 13:00:00 GMT",
+            "title": "My girlfriend, a widow in her 40s, pays off her credit card after every transaction. Is that weird?",
+            "link": "https://www.marketwatch.com/story/my-girlfriend-a-widow-in-her-40s-pays-off-her-credit-card-after-every-transaction-is-that-weird-0208db98?mod=mw_rss_topstories",
+            "summary": "“I saw her transfer $150 after we were done shopping,” she says. “I’m like, ‘Oh my God, she’s transferring money.’”",
+            "date": "Sat, 01 Nov 2025 22:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NG=F",
-            "impact": "Bearish"
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
         },
         {
-            "title": "AMD just had its best month in a quarter-century. Two big events are now on the horizon.",
-            "link": "https://www.marketwatch.com/story/amd-just-had-its-best-month-in-a-quarter-century-two-big-events-are-now-on-the-horizon-35fb2a83?mod=mw_rss_topstories",
-            "summary": "The chip company faces a “solid’ setup into next week’s earnings report. The company will host an analyst day later in November.",
-            "date": "Sat, 01 Nov 2025 12:30:00 GMT",
+            "title": "I’m planning to retire at 65 when my twins are 15. How will this impact their healthcare coverage?",
+            "link": "https://www.marketwatch.com/story/im-planning-to-retire-at-65-when-my-twins-are-15-how-will-this-impact-their-healthcare-coverage-1579c475?mod=mw_rss_topstories",
+            "summary": "“By retiring when they are in the 10th grade my income will be low when they apply for college scholarships,” she says.",
+            "date": "Sat, 01 Nov 2025 22:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMD",
+            "stock_ticker": "GETY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I don’t want to worry about money’: I’m 64 with $400K in savings and $700 in Social Security. Can I retire next year?",
+            "link": "https://www.marketwatch.com/story/i-dont-want-to-worry-about-money-im-64-with-400k-in-savings-and-700-in-social-security-can-i-retire-next-year-40011032?mod=mw_rss_topstories",
+            "summary": "“I take in about $2,200 in monthly rent from four properties,” he says. “I’m not a millionaire, but I’ve made a lot of money.”",
+            "date": "Sat, 01 Nov 2025 20:54:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NAVN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Retiring abroad is touted as a money saver — here’s why it isn’t always cheaper",
+            "link": "https://www.marketwatch.com/story/retiring-abroad-is-touted-as-a-money-saver-but-it-isnt-always-cheaper-over-there-662921d4?mod=mw_rss_topstories",
+            "summary": "Taxes, investments, healthcare — everything adds up. Here’s how to plan now to relocate later. Here's how to move now to save money later.",
+            "date": "Sat, 01 Nov 2025 18:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "57.TA",
             "impact": "Bullish"
-        },
-        {
-            "title": "Real progress against dementia is finally coming",
-            "link": "https://www.marketwatch.com/story/real-progress-against-dementia-is-finally-coming-b55de7e4?mod=mw_rss_topstories",
-            "summary": "There are glimmers of hope — from nanotechnology and brain games, to diet and exercise. There are glimmer of hope – from Nanotechnology and Brain Games, to Diet and Exercise.",
-            "date": "Sat, 01 Nov 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "REAL",
-            "impact": "Neutral"
         }
     ]
 }
