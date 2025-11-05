@@ -1,124 +1,124 @@
 {
-    "date": "2025-11-04",
+    "date": "2025-11-05",
     "news": [
         {
-            "title": "Behind the wave of white-collar layoffs: Old-school cost cutting, tariffs and, yes, AI",
-            "link": "https://www.cnbc.com/2025/11/04/white-collar-layoffs-ai-cost-cutting-tariffs.html",
-            "summary": "Amazon, Target and UPS are laying off thousands of employees. The reasons behind the cuts go a lot deeper than AI. The cuts are part of a larger plan to cut costs across the industry.",
-            "date": "Tue, 04 Nov 2025 13:16:02 GMT",
+            "title": "Private payrolls rose 42,000 in October, more than expected and countering labor market fears, ADP says",
+            "link": "https://www.cnbc.com/2025/11/05/private-payrolls-rose-42000-in-october-more-than-expected-and-countering-labor-market-fears-adp-says.html",
+            "summary": "Companies added 42,000 jobs for the month, following a decline of 29,000 and topping the estimate for a gain of 22,000.",
+            "date": "Wed, 05 Nov 2025 13:23:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Yum Brands to review strategic options for Pizza Hut, opening the door to a sale",
-            "link": "https://www.cnbc.com/2025/11/04/yum-brands-pizza-hut-strategic-options-sale.html",
-            "summary": "Yum Brands will explore strategic options for Pizza Hut. Pizza Hut has struggled in recent years. Yum Brands is owned by Yum, which also owns KFC and Taco Bell.",
-            "date": "Tue, 04 Nov 2025 13:07:49 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "YUM",
+            "stock_ticker": "0P0001EWU5.TO",
             "impact": "Neutral"
         },
         {
-            "title": "Uber falls 4% despite third-quarter revenue beat",
-            "link": "https://www.cnbc.com/2025/11/04/uber-uber-q3-earnings-2025.html",
-            "summary": "The company saw one of its strongest trip volume increases in history. CEO Dara Khosrowshahi said the company saw a strong increase in business.",
-            "date": "Tue, 04 Nov 2025 12:47:24 GMT",
+            "title": "Amazon upheaval: With morale shaken, Jassy looks for next big play after mass layoffs",
+            "link": "https://www.cnbc.com/2025/11/05/amazon-upheaval-andy-jassy-looks-for-next-big-play-after-mass-layoffs.html",
+            "summary": "Last week, Amazon announced 14,000 layoffs. Amazon CEO Andy Jassy has been overhauling the company's corporate culture in recent years.",
+            "date": "Wed, 05 Nov 2025 12:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UBER",
+            "stock_ticker": "AMZN",
             "impact": "Neutral"
         },
         {
-            "title": "Norway's mega wealth fund to reject Elon Musk's $1 trillion Tesla pay package",
-            "link": "https://www.cnbc.com/2025/11/04/norway-sovereign-wealth-fund-rejects-elon-musks-1-trillion-pay-deal.html",
-            "summary": "Managers of the world’s largest sovereign wealth fund said they are ‘concerned’ about the proposed deal. The fund is the world's largest, with more than $1 trillion in assets.",
-            "date": "Tue, 04 Nov 2025 11:23:21 GMT",
+            "title": "McDonald's earnings miss estimates, but sales are rising in 'challenging environment'",
+            "link": "https://www.cnbc.com/2025/11/05/mcdonalds-mcd-q3-2025-earnings.html",
+            "summary": "McDonald's stock has risen just 3% this year, as investor concerns about the restaurant industry and the broader economy have weighed on shares.",
+            "date": "Wed, 05 Nov 2025 12:51:43 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MGK",
+            "stock_ticker": "MCD",
             "impact": "Neutral"
         },
         {
-            "title": "Pfizer tops estimates, raises profit guidance even as sales fall",
-            "link": "https://www.cnbc.com/2025/11/04/pfizer-pfe-earnings-q3-2025.html",
-            "summary": "Pfizer hiked its full-year profit guidance, citing its strong business performance and cost cuts. Pfizer sales for the period fell.",
-            "date": "Tue, 04 Nov 2025 12:53:53 GMT",
+            "title": "Democrats win big on election night in key races",
+            "link": "https://www.cnbc.com/2025/11/04/democrats-trump-us-elections-mamdani-sherrill-spanberger.html",
+            "summary": "President Donald Trump said that the reason that Republicans lost big was because he was not on the ballots and because of the federal government shutdown.",
+            "date": "Wed, 05 Nov 2025 13:04:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PFE",
+            "stock_ticker": "VWS.CO",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Lyft, United Airlines launch loyalty program months after Delta partnership ends",
+            "link": "https://www.cnbc.com/2025/11/05/lyft-united-loyalty-program-miles.html",
+            "summary": "Lyft dissolved its eight-year partnership with Delta Airlines earlier this year. The ride-hailing company also brought its loyalty program to Uber.",
+            "date": "Wed, 05 Nov 2025 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LYFT",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s what America can learn from Germany, Japan and Sweden about how to save Social Security",
-            "link": "https://www.marketwatch.com/story/heres-what-america-can-learn-from-germany-japan-and-sweden-about-how-to-save-social-security-13ed49d9?mod=mw_rss_topstories",
-            "summary": "The 2026 Social Security COLA increase of 2.8% won’t be enough to keep up with the current inflation rate.",
-            "date": "Tue, 04 Nov 2025 13:22:00 GMT",
+            "title": "ADP says businesses create 42,000 job in October — but the labor market is still not great",
+            "link": "https://www.marketwatch.com/story/adp-says-businesses-create-42-000-job-in-october-but-the-labor-market-is-still-not-great-667628e7?mod=mw_rss_topstories",
+            "summary": "Privately run businesses created 42,000 new jobs in October. The increase is the biggest increase in three months. It is a possible sign of stabilization in a weakening U.S. labor market.",
+            "date": "Wed, 05 Nov 2025 13:24:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BD0.F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Quality of life, even more than affordability, elevates this city to the best place to retire",
-            "link": "https://www.marketwatch.com/story/quality-of-life-even-more-than-affordability-elevates-this-city-to-the-best-place-to-retire-035c04f8?mod=mw_rss_topstories",
-            "summary": "The Midwest nabs the top spot for retirees, but Florida and Texas still prove popular. The top state for retirees is Illinois, followed by Florida and then Texas.",
-            "date": "Tue, 04 Nov 2025 13:22:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P00009U4I.F",
+            "stock_ticker": "ADP",
             "impact": "Neutral"
         },
         {
-            "title": "Uber’s upbeat earnings may not be enough to carry the stock to fresh highs",
-            "link": "https://www.marketwatch.com/story/ubers-upbeat-earnings-may-not-be-enough-to-carry-the-stock-to-fresh-highs-2af3e6d3?mod=mw_rss_topstories",
-            "summary": "The ride-hailing company plans to be live in at least 10 markets with its autonomous-vehicle fleet by the end of 2026.",
-            "date": "Tue, 04 Nov 2025 13:19:00 GMT",
+            "title": "Humana’s stock falls as Medicaid, health-benefit costs are still problems",
+            "link": "https://www.marketwatch.com/story/humanas-stock-falls-as-medicaid-health-benefit-costs-are-still-problems-091e8e15?mod=mw_rss_topstories",
+            "summary": " Medicaid-membership growth outlook was slashed, and as medical costs are still a problem. Medicaid-member growth outlook slashed, as medical cost is still a problems.",
+            "date": "Wed, 05 Nov 2025 13:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EPI",
+            "stock_ticker": "GBLI",
             "impact": "Neutral"
         },
         {
-            "title": "Denny’s stock heads for its biggest gain in decades after the best of multiple buyout bids is accepted",
-            "link": "https://www.marketwatch.com/story/dennys-stock-heads-for-its-biggest-gain-in-decades-after-the-best-of-multiple-buyout-bids-is-accepted-0bae71c3?mod=mw_rss_topstories",
-            "summary": "Denny's received multiple offers, according to CEO Kelli Valade. Denny’s received several offers for the chain, Valade said.",
-            "date": "Tue, 04 Nov 2025 13:07:00 GMT",
+            "title": "These are my biggest investing regrets — and how I’m hitting reset in retirement",
+            "link": "https://www.marketwatch.com/story/this-hidden-force-trips-up-investors-in-retirement-heres-how-i-recovered-cee3b1c4?mod=mw_rss_topstories",
+            "summary": "For retirees, missed opportunities can feel extremely painful. Here’s how to move forward. For more information, go to www.retiredlife.org.",
+            "date": "Wed, 05 Nov 2025 13:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DENN",
+            "stock_ticker": "ARE",
             "impact": "Neutral"
         },
         {
-            "title": "My girlfriend, a widow in her 40s, pays off her credit card after every transaction. Is that weird?",
-            "link": "https://www.marketwatch.com/story/my-girlfriend-a-widow-in-her-40s-pays-off-her-credit-card-after-every-transaction-is-that-weird-0208db98?mod=mw_rss_topstories",
-            "summary": "“I saw her transfer $150 after we were done shopping,” she says. “I’m like, ‘Oh my God, she’s transferring money.’”",
-            "date": "Tue, 04 Nov 2025 13:00:00 GMT",
+            "title": "AI companies have money and momentum. But look who’s stuck with their utility bill.",
+            "link": "https://www.marketwatch.com/story/ai-companies-have-money-and-momentum-but-look-whos-stuck-with-their-utility-bill-e68ce9d3?mod=mw_rss_topstories",
+            "summary": "Big Tech’s data center expansion efforts are spurring rate hikes for consumers. They don’t have to stand for it.",
+            "date": "Wed, 05 Nov 2025 13:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "AI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "America is divided into two countries — Trump’s pro-billionaires and Mamdani’s anti-billionaires",
+            "link": "https://www.marketwatch.com/story/america-is-divided-into-two-countries-trumps-pro-billionaires-and-mamdanis-anti-billionaires-3dd07f90?mod=mw_rss_topstories",
+            "summary": "The 0.1% as an avatar for political polarization makes sense when you look at the world that tech billionaires have helped create. The world they've helped create is a world that's very different from the one they've created.",
+            "date": "Wed, 05 Nov 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BAC",
             "impact": "Neutral"
         }
     ]
