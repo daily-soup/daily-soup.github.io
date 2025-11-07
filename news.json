@@ -1,23 +1,47 @@
 {
-    "date": "2025-11-06",
+    "date": "2025-11-07",
     "news": [
         {
-            "title": "Job cuts in October hit highest level for the month in 22 years, Challenger says",
-            "link": "https://www.cnbc.com/2025/11/06/job-cuts-in-october-hit-highest-level-for-the-month-in-22-years-challenger-says.html",
-            "summary": "Job cuts for October totaled 153,074, a 183% surge from September. Job cuts in October totaled 154,000, up from 100,000 in September.",
-            "date": "Thu, 06 Nov 2025 12:29:29 GMT",
+            "title": "Google's decade-long bet on custom chips is turning into company's secret weapon in AI race",
+            "link": "https://www.cnbc.com/2025/11/07/googles-decade-long-bet-on-tpus-companys-secret-weapon-in-ai-race.html",
+            "summary": "Google's cloud business is a primary engine of growth. The company's custom-built chips called Tensor Processing Units are helping drive it.",
+            "date": "Fri, 07 Nov 2025 12:43:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JOB",
+            "stock_ticker": "HNU.TO",
             "impact": "Neutral"
         },
         {
-            "title": "Peloton recalls 833,000 more bikes over seat post issue, two injuries reported",
-            "link": "https://www.cnbc.com/2025/11/06/peloton-recalls-833000-more-bikes-over-seat-post-issue.html",
-            "summary": "Peloton is again doing a recall after receiving reports that the seat post on its original Bike+ model detached and broke during use, leading to two injuries.",
-            "date": "Thu, 06 Nov 2025 12:57:53 GMT",
+            "title": "Tesla says shareholders approve Musk's $1 trillion pay plan with over 75% voting in favor",
+            "link": "https://www.cnbc.com/2025/11/06/tesla-shareholders-musk-pay.html",
+            "summary": "Tesla shareholders approved CEO Elon Musk's historic pay package at the company's annual shareholders meeting in Austin, Texas. Musk's pay package is worth an estimated $20 billion.",
+            "date": "Fri, 07 Nov 2025 13:05:47 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSLA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Ford reportedly considers ending production of all-electric F-150 Lightning",
+            "link": "https://www.cnbc.com/2025/11/06/ford-f-150-lightning-ev.html",
+            "summary": "Ford is considering ending production of its all-electric F-150 Lightning pickup truck. The decision comes amid mounting losses and challenging market conditions for EVs.",
+            "date": "Thu, 06 Nov 2025 21:20:14 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FORD",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Peloton posts bullish holiday forecast, betting that shoppers will spend big on new product lineup",
+            "link": "https://www.cnbc.com/2025/11/06/peloton-pton-earnings-q1-2026.html",
+            "summary": "Peloton beat Wall Street's expectations on the top and bottom lines. The company also issued strong holiday guidance. Peloton is based in New York and has more than 1 million employees.",
+            "date": "Thu, 06 Nov 2025 23:15:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,99 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "CarMax stock falls more than 10% as CEO steps down",
-            "link": "https://www.cnbc.com/2025/11/06/carmax-stock-kmx-ceo.html",
-            "summary": "David McCreight, CEO of Lulu's Fashion Lounge Holdings, will serve as interim CEO. CarMax said board member David McCreights, a retail clothing executive, has served as CEO of CarMax's parent company.",
-            "date": "Thu, 06 Nov 2025 13:16:21 GMT",
+            "title": "Sam Altman says OpenAI will top $20 billion in annualized revenue this year, hundreds of billions by 2030",
+            "link": "https://www.cnbc.com/2025/11/06/sam-altman-says-openai-will-top-20-billion-annual-revenue-this-year.html",
+            "summary": "OpenAI has inked more than $1.4 trillion of infrastructure deals. The company is raising questions about how it will pay for those commitments.",
+            "date": "Thu, 06 Nov 2025 20:15:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KMX",
+            "stock_ticker": "SAM",
             "impact": "Neutral"
         },
         {
-            "title": "Google's rolling out its most powerful AI chip, taking aim at Nvidia with custom silicon",
-            "link": "https://www.cnbc.com/2025/11/06/google-unveils-ironwood-seventh-generation-tpu-competing-with-nvidia.html",
-            "summary": "Google says Ironwood, the seventh generation of its Tensor Processing Unit, is more than four times faster than its predecessor chip. Google: Ironwood is the 7th generation of our Tensor processing unit.",
-            "date": "Thu, 06 Nov 2025 13:00:01 GMT",
+            "title": "Where next for Big Tech stocks? Pay attention to bitcoin, says Citi.",
+            "link": "https://www.marketwatch.com/story/where-next-for-big-tech-stocks-pay-attention-to-bitcoin-says-citi-44bb15f4?mod=mw_rss_topstories",
+            "summary": "The crypto is closely correlated with the Nasdaq. The Nasdaq is the world's largest stock exchange. The crypto is also closely correlated to the U.S. stock market.",
+            "date": "Fri, 07 Nov 2025 12:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "5LN.F",
+            "stock_ticker": "NEXT",
             "impact": "Neutral"
         },
         {
-            "title": "Elon Musk expected to prevail in Tesla shareholder vote over CEO's $1 trillion pay plan",
-            "link": "https://www.cnbc.com/2025/11/06/tesla-shareholders-vote-on-elon-musks-1-trillion-pay-package.html",
-            "summary": "Tesla is expected to disclose results of the vote on CEO Elon Musk's pay plan. After Tesla 's annual shareholders meeting on Thursday, the company will disclose results.",
-            "date": "Thu, 06 Nov 2025 12:55:58 GMT",
+            "title": "This viral visualization of AI-driven job destruction might actually be ‘the stupidest chart in the world’",
+            "link": "https://www.marketwatch.com/story/why-a-viral-chart-about-ai-driven-job-destruction-might-actually-be-the-stupidest-chart-in-the-world-30f357da?mod=mw_rss_topstories",
+            "summary": "A viral chart that has been bouncing around social-media platforms like X over the past few weeks has caught the attention of investing professionals and amateur observers alike.",
+            "date": "Fri, 07 Nov 2025 12:41:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELON",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         },
         {
-            "title": "Stablecoin’s promoters want you using it like cash. What could possibly go wrong?",
-            "link": "https://www.marketwatch.com/story/stablecoins-promoters-want-you-using-it-like-cash-what-could-possibly-go-wrong-85619768?mod=mw_rss_topstories",
-            "summary": "Stablecoin could become mainstream digital money — or a risky, leveraged speculation. Stablecoin is a peer-to-peer digital currency that can be used to transfer money.",
-            "date": "Thu, 06 Nov 2025 13:20:00 GMT",
+            "title": "Trade wars are dying down, but the U.S. economy is still licking its wounds",
+            "link": "https://www.marketwatch.com/story/trade-wars-are-dying-down-but-the-u-s-economy-is-still-licking-its-wounds-3c7766b0?mod=mw_rss_topstories",
+            "summary": "The trade wars have died down, but they have not disappeared. That has left a cloud over the U.S. economy that is unlikely to go away soon.",
+            "date": "Fri, 07 Nov 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WANT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Google may be Nvidia’s biggest rival in chips — and now it’s upping its game",
-            "link": "https://www.marketwatch.com/story/google-may-be-nvidias-biggest-rival-in-chips-and-now-its-upping-its-game-a85c0092?mod=mw_rss_topstories",
-            "summary": "The company’s seventh-generation TPU chip is custom-built to handle tasks such as large-scale AI model training and high-volume AI inference.",
-            "date": "Thu, 06 Nov 2025 13:06:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GOOG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "America is open for AI’s business — China and Europe aren’t even close",
-            "link": "https://www.marketwatch.com/story/america-is-open-for-ais-business-china-and-europe-arent-even-close-03c5d271?mod=mw_rss_topstories",
-            "summary": "China's top-down approach and Europe's regulations stifle growth of AI. AI needs market-driven innovation to thrive. China’s top- down approach and European regulations stifled growth.",
-            "date": "Thu, 06 Nov 2025 13:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BAC",
+            "stock_ticker": "TTD",
             "impact": "Bearish"
         },
         {
-            "title": "After major deleveraging, bitcoin now has ‘significant upside’ and looks more attractive than gold, claims JPMorgan",
-            "link": "https://www.marketwatch.com/story/after-major-deleveraging-bitcoin-now-has-significant-upside-and-looks-more-attractive-than-gold-claims-jpmorgan-00715293?mod=mw_rss_topstories",
-            "summary": "On a volatility-adjusted basis, bitcoin now seems cheaper than gold. Deleveraging in bitcoin futures was responsible for its sheer decline.",
-            "date": "Thu, 06 Nov 2025 12:57:00 GMT",
+            "title": "Meta’s stock is the new ‘Magnificent Seven’ doormat. Should you buy the dip?",
+            "link": "https://www.marketwatch.com/story/metas-stock-is-the-new-magnificent-seven-doormat-should-you-buy-the-dip-82068b28?mod=mw_rss_topstories",
+            "summary": "Shares of Facebook have slumped 17% since the company signaled aggressive AI spending ahead. While some are concerned, others see a prime buying opportunity.",
+            "date": "Fri, 07 Nov 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAGFF",
+            "stock_ticker": "H1N0.F",
             "impact": "Neutral"
         },
         {
-            "title": "Ray Dalio is back with a fresh warning, and it’s about the Fed’s new policy",
-            "link": "https://www.marketwatch.com/story/ray-dalio-is-back-with-a-fresh-warning-and-its-about-the-feds-new-policy-3362e20b?mod=mw_rss_topstories",
-            "summary": "The legendary investor is warning about the impact of a move at the Fed others might call technical. He says the move could have a negative impact on the economy.",
-            "date": "Thu, 06 Nov 2025 12:51:00 GMT",
+            "title": "Gold has a shot at $5,000 if investors rekindle this popular trade",
+            "link": "https://www.marketwatch.com/story/gold-has-a-shot-at-5-000-if-investors-rekindle-this-popular-trade-55936975?mod=mw_rss_topstories",
+            "summary": "It has been more than two weeks since gold prices notched record highs. The debasement trade that has played a key role in the precious metal’s rally this year is alive and well.",
+            "date": "Fri, 07 Nov 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RAY",
+            "stock_ticker": "GC=F",
             "impact": "Neutral"
         }
     ]
