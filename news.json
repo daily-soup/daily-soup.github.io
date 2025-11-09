@@ -1,6 +1,54 @@
 {
-    "date": "2025-11-08",
+    "date": "2025-11-09",
     "news": [
+        {
+            "title": "Air traffic staffing shortages disrupt thousands of flights while FAA-mandated cancellations to worsen next week if shutdown continues",
+            "link": "https://www.cnbc.com/2025/11/08/government-shutdown-flight-cancelations-faa.html",
+            "summary": "Airlines will have to slash hundreds of more flights if shutdown continues into next week. Airlines will be forced to cut back on flights if government shutdown continues.",
+            "date": "Sun, 09 Nov 2025 12:05:14 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AIR",
+            "impact": "Bearish"
+        },
+        {
+            "title": "China consumer prices return to growth in October, producer price slump extends to three years",
+            "link": "https://www.cnbc.com/2025/11/09/china-october-cpi-ppi-deflation-consumer-prices-.html",
+            "summary": "Consumer prices return to growth after falling for two straight months. Producer prices extend their slump to three years. Deflation in China eased in October, as consumer prices returned to growth.",
+            "date": "Sun, 09 Nov 2025 12:01:42 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CHH=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump tells Senate Republicans to send federal health insurance money 'directly to the people'",
+            "link": "https://www.cnbc.com/2025/11/08/trump-republicans-health-insurance.html",
+            "summary": "President Trump has proposed a new potential compromise on health insurance payments. President Trump proposed a possible compromise on HealthCare.gov payments. The proposal is still under consideration.",
+            "date": "Sat, 08 Nov 2025 20:08:22 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Global week ahead: AI wobble casts shadow over 'Davos for geeks'",
+            "link": "https://www.cnbc.com/2025/11/09/global-week-ahead-ai-wobble-casts-shadow-over-davos-for-geeks.html",
+            "summary": "CNBC travels to Web Summit in Lisbon — 'Davos for geeks' — to assess sentiment. After a volatile week for AI stocks and the tech sector more broadly, CNBC travels to Lisbon.",
+            "date": "Sun, 09 Nov 2025 03:58:08 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GEO=F",
+            "impact": "Neutral"
+        },
         {
             "title": "Supreme Court pauses order that Trump administration must pay full SNAP benefits",
             "link": "https://www.cnbc.com/2025/11/07/snap-trump-appeals-food-stamps.html",
@@ -14,82 +62,22 @@
             "impact": "Bearish"
         },
         {
-            "title": "Warren Buffett Watch: Cash fortress Berkshire closes gap with S&P 500 as AI worries depress Wall Street",
-            "link": "https://www.cnbc.com/2025/11/08/warren-buffetts-cash-fortress-berkshire-closes-gap-with-sp-500-as-ai-worries-depress-wall-street.html",
-            "summary": "Berkshire Hathaway's B shares and A shares moved 4.5% higher this week after a strong earnings report last weekend.",
-            "date": "Sat, 08 Nov 2025 12:43:25 GMT",
+            "title": "‘He lives paycheck to paycheck’: My husband pays his bills late and sits at home playing on his computer. How do I fix it?",
+            "link": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
+            "summary": "\"He seems to think ‘bill due’ dates are a suggestion. He has literally no savings,” his wife says.",
+            "date": "Sun, 09 Nov 2025 02:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PWR.AX",
+            "stock_ticker": "HE",
             "impact": "Neutral"
-        },
-        {
-            "title": "Airlines cancel more than 700 U.S. flights as FAA-ordered shutdown cuts begin",
-            "link": "https://www.cnbc.com/2025/11/07/airlines-cancellations-flights-faa-shutdown.html",
-            "summary": "The cuts were ordered as air traffic controllers have missed their paychecks. The government shutdown is now the longest in U.S. history.",
-            "date": "Sat, 08 Nov 2025 11:35:48 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAL",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Underwater cables are a vital piece of the AI buildout and internet — investment is booming",
-            "link": "https://www.cnbc.com/2025/11/08/big-tech-ai-underwater-cables.html",
-            "summary": "Over 95% of international data and voice traffic travels through subsea telecom cables. Tech giants Meta, Google, Amazon and Microsoft are investing for AI.",
-            "date": "Sat, 08 Nov 2025 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "4142.SR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Palantir CEO Karp twice slams short sellers as stock suffers worst week since April",
-            "link": "https://www.cnbc.com/2025/11/07/palantir-ceo-alex-karp-ai-short-sellers.html",
-            "summary": "Palantir CEO Alex Karp twice confronted short sellers this week as the company's shares suffered a double-digit drop. Palantir's shares have since recovered.",
-            "date": "Fri, 07 Nov 2025 21:41:18 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PLTR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here’s what the U.S.-China trade truce really means for the U.S. soybean market",
-            "link": "https://www.marketwatch.com/story/heres-what-the-u-s-china-trade-truce-really-means-for-the-u-s-soybean-market-627a6cfe?mod=mw_rss_topstories",
-            "summary": "China has made a pledge to buy U.S. soybeans over the next few years. Yet the damage may have already been done.",
-            "date": "Sat, 08 Nov 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BD0.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "4 things worrying investors as U.S. stocks see worst start to a month since April",
-            "link": "https://www.marketwatch.com/story/4-things-worrying-investors-as-u-s-stocks-see-worst-start-to-a-month-since-april-8b0ca874?mod=mw_rss_topstories",
-            "summary": "The U.S. stock market is off to its worst start to a month since April. Investors grapple with the longest government shutdown in history, among other worries.",
-            "date": "Sat, 08 Nov 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "45U=F",
-            "impact": "Bearish"
         },
         {
             "title": "‘I’m in a financial mess’: My income was cut in half. Do I sell my $600K home and kiss my 2.9% mortgage rate goodbye?",
             "link": "https://www.marketwatch.com/story/im-in-a-financial-mess-my-income-was-cut-in-half-do-i-sell-my-600k-home-and-kiss-my-2-9-mortgage-rate-goodbye-5d356273?mod=mw_rss_topstories",
             "summary": "“We can move 10 miles south, where property is much cheaper,” he says. “We’re not going to live in a trailer park. We’ll be in a house.”",
-            "date": "Sat, 08 Nov 2025 12:00:00 GMT",
+            "date": "Sun, 09 Nov 2025 02:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "Small businesses say this will likely be the last year they can keep prices from going up",
-            "link": "https://www.marketwatch.com/story/small-businesses-say-this-will-likely-be-the-last-year-they-can-keep-prices-from-going-up-7927e3e6?mod=mw_rss_topstories",
-            "summary": "Small businesses say 2025 may be the last year they can pull it off. After doing everything they can to keep prices from rising this holiday season, many small businesses say they may not be able to.",
-            "date": "Sat, 08 Nov 2025 12:00:00 GMT",
+            "title": "My siblings don’t earn nearly as much as me. Should my parents leave me less money in their will?",
+            "link": "https://www.marketwatch.com/story/i-go-on-too-many-vacations-my-parents-say-im-a-reckless-spender-is-this-enough-to-cut-me-out-of-their-will-f9477df6?mod=mw_rss_topstories",
+            "summary": "“I’m concerned that my parents are going to strike me from any will,” she says. “I am concerned that I will be struck by my parents.”",
+            "date": "Sat, 08 Nov 2025 21:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SMC=F",
+            "stock_ticker": "AUDMYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "As stocks wobbled, the S&P 500 held a critical threshold. Here’s what history says happens next.",
-            "link": "https://www.marketwatch.com/story/as-stocks-wobbled-the-s-p-500-held-a-critical-threshold-heres-what-history-says-happens-next-872e02f9?mod=mw_rss_topstories",
-            "summary": "The benchmark index has been above its 50-day moving average for 133 sessions, the longest streak since 2007. But that nearly came to an end on Friday.",
-            "date": "Fri, 07 Nov 2025 22:56:00 GMT",
+            "title": "I’m 83 and will have $500K if I sell my house. My estranged wife wants me to join her in Colombia. Do I go?",
+            "link": "https://www.marketwatch.com/story/im-83-and-have-a-monthly-income-of-3-800-my-estranged-wife-wants-me-to-join-her-in-colombia-do-i-go-a5850fe9?mod=mw_rss_topstories",
+            "summary": "“I can just barely handle my expenses with a mortgage payment of $984 and an income of $3,800,” she says.",
+            "date": "Sat, 08 Nov 2025 21:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AS",
+            "stock_ticker": "IBRX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m 53, a single parent with a $1 million home. My boyfriend wants to marry. Am I better off staying single?",
+            "link": "https://www.marketwatch.com/story/im-53-have-one-child-and-a-1-1-million-home-my-boyfriend-wants-to-marry-would-i-have-to-pay-his-medical-debts-be89c986?mod=mw_rss_topstories",
+            "summary": "“Should I just maintain the status quo or marry the love of my life?” she asks herself. “ should I just stay the same?’ she asks.",
+            "date": "Sat, 08 Nov 2025 17:37:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         }
     ]
