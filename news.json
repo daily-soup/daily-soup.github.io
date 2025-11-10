@@ -1,125 +1,125 @@
 {
-    "date": "2025-11-09",
+    "date": "2025-11-10",
     "news": [
         {
-            "title": "Air traffic staffing shortages disrupt thousands of flights while FAA-mandated cancellations to worsen next week if shutdown continues",
-            "link": "https://www.cnbc.com/2025/11/08/government-shutdown-flight-cancelations-faa.html",
-            "summary": "Airlines will have to slash hundreds of more flights if shutdown continues into next week. Airlines will be forced to cut back on flights if government shutdown continues.",
-            "date": "Sun, 09 Nov 2025 12:05:14 GMT",
+            "title": "FAA prohibits most private jets at 12 major airports amid shutdown's air traffic staffing problems",
+            "link": "https://www.cnbc.com/2025/11/10/government-shutdown-private-jets.html",
+            "summary": "The new restrictions come less than a week after the FAA ordered commercial airlines to cut flights due to air traffic controller staffing shortfalls. The new restrictions are expected to be in effect for the rest of the year.",
+            "date": "Mon, 10 Nov 2025 10:13:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AIR",
+            "stock_ticker": "FAATX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SNAP benefits: Appeals court again rejects Trump admin bid to halt full payment order",
+            "link": "https://www.cnbc.com/2025/11/10/snap-benefits-appeals-trump-food-stamps-supreme-court.html",
+            "summary": "The question of whether the Trump administration can be compelled to pay 42 million Americans full food stamp benefits is set to return to the Supreme Court.",
+            "date": "Mon, 10 Nov 2025 13:23:23 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SNAP",
+            "impact": "Bullish"
+        },
+        {
+            "title": "As private tech market heats up, PitchBook makes startup data available via ChatGPT",
+            "link": "https://www.cnbc.com/2025/11/10/pitchbook-introduces-ai-tool-navigaton-integrates-with-chatgpt.html",
+            "summary": "PitchBook is launching PitchBook Navigator, a new generative AI tool that produces private market insights. The tool produces insights based on user prompts.",
+            "date": "Mon, 10 Nov 2025 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Instacart tops third-quarter expectations under new CEO Rogers, gives strong guidance",
+            "link": "https://www.cnbc.com/2025/11/10/instacart-cart-stock-earnings-q3-2025.html",
+            "summary": "Instacart said it's expanding artificial intelligence tools, and recently launched a suite of new solutions for grocers. Instacart: \"We are constantly looking for ways to improve our customer experience\"",
+            "date": "Mon, 10 Nov 2025 13:05:11 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOPS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump's 'No tax on tips' could be end of large-group service fees on restaurant bills",
+            "link": "https://www.cnbc.com/2025/11/08/no-tax-on-tips-service-fees-restaurant-bill-gratuities.html",
+            "summary": "President Trump's 'no tax on tips' may end it, but restaurants aren't happy. If you don't like service fees restaurants charge large groups, you may be in luck.",
+            "date": "Sat, 08 Nov 2025 15:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EURNOK=X",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Here’s how high tariff rates would have to rise to bring manufacturing back to its glory days. Even Trump would be shocked.",
+            "link": "https://www.marketwatch.com/story/heres-how-high-tariff-rates-would-have-to-rise-to-bring-manufacturing-back-to-its-glory-days-even-trump-would-be-shocked-09cca30f?mod=mw_rss_topstories",
+            "summary": "Economists at UBS point to analysis done by the center-right American Enterprise Institute. They say tariffs would have to be set at 42.5% to level out manufacturing imports and exports.",
+            "date": "Mon, 10 Nov 2025 13:18:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Who is reshaping the way we live, work, spend and invest? Meet the MarketWatch 25.",
+            "link": "https://www.marketwatch.com/story/who-is-reshaping-the-way-we-live-work-spend-and-invest-meet-the-marketwatch-25-94072730?mod=mw_rss_topstories",
+            "summary": "The leaders and thinkers whose ideas have impacted the way the government, companies and American society at large are grappling with technological change, higher prices and more.",
+            "date": "Mon, 10 Nov 2025 13:10:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "COST",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Pfizer won its fight to buy an obesity-drug maker. It took an extra $1.7 billion and a phone call.",
+            "link": "https://www.marketwatch.com/story/pfizer-won-its-fight-to-buy-an-obesity-drug-maker-it-took-an-extra-1-7-billion-and-a-phone-call-a9670e80?mod=mw_rss_topstories",
+            "summary": "Pfizer is buying its way back into the obesity-drug game after fighting off a rival bid from Novo Nordisk to buy Metsera. More money and help from the Trump administration.",
+            "date": "Mon, 10 Nov 2025 13:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PFE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I have $12K in credit-card debt due to health issues and a 30% pay cut. Is it finally time to take a loan from my 401(k)?",
+            "link": "https://www.marketwatch.com/story/i-have-12k-in-credit-card-debt-due-to-health-issues-and-a-30-pay-cut-is-it-finally-time-to-take-a-loan-from-my-401-k-e2dec117?mod=mw_rss_topstories",
+            "summary": "“Because of a downturn in my industry, my pay was cut 30%.” “My pay was Cut 30%’ “I’ve had to take a pay cut of 30%. I’m not happy.”",
+            "date": "Mon, 10 Nov 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CRACU",
             "impact": "Bearish"
         },
         {
-            "title": "China consumer prices return to growth in October, producer price slump extends to three years",
-            "link": "https://www.cnbc.com/2025/11/09/china-october-cpi-ppi-deflation-consumer-prices-.html",
-            "summary": "Consumer prices return to growth after falling for two straight months. Producer prices extend their slump to three years. Deflation in China eased in October, as consumer prices returned to growth.",
-            "date": "Sun, 09 Nov 2025 12:01:42 GMT",
+            "title": "By one measure the bull market is 16 years old. Here’s why investors face a ‘challenging decade’ ahead.",
+            "link": "https://www.marketwatch.com/story/by-one-measure-the-bull-market-is-16-years-old-heres-why-investors-face-a-challenging-decade-ahead-f6a668c9?mod=mw_rss_topstories",
+            "summary": "Some of the long-term supportive tailwinds are shifting, according to MRB. Some of the support for the U.S. economy is shifting, MRB says.",
+            "date": "Mon, 10 Nov 2025 12:47:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHH=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump tells Senate Republicans to send federal health insurance money 'directly to the people'",
-            "link": "https://www.cnbc.com/2025/11/08/trump-republicans-health-insurance.html",
-            "summary": "President Trump has proposed a new potential compromise on health insurance payments. President Trump proposed a possible compromise on HealthCare.gov payments. The proposal is still under consideration.",
-            "date": "Sat, 08 Nov 2025 20:08:22 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Global week ahead: AI wobble casts shadow over 'Davos for geeks'",
-            "link": "https://www.cnbc.com/2025/11/09/global-week-ahead-ai-wobble-casts-shadow-over-davos-for-geeks.html",
-            "summary": "CNBC travels to Web Summit in Lisbon — 'Davos for geeks' — to assess sentiment. After a volatile week for AI stocks and the tech sector more broadly, CNBC travels to Lisbon.",
-            "date": "Sun, 09 Nov 2025 03:58:08 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GEO=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Supreme Court pauses order that Trump administration must pay full SNAP benefits",
-            "link": "https://www.cnbc.com/2025/11/07/snap-trump-appeals-food-stamps.html",
-            "summary": "The Trump administration tried not to pay for any food stamps in November because of the government shutdown. It now proposes partial SNAP benefits. The government shutdown is now in its third week.",
-            "date": "Sat, 08 Nov 2025 11:03:34 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VR6.F",
-            "impact": "Bearish"
-        },
-        {
-            "title": "‘He lives paycheck to paycheck’: My husband pays his bills late and sits at home playing on his computer. How do I fix it?",
-            "link": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
-            "summary": "\"He seems to think ‘bill due’ dates are a suggestion. He has literally no savings,” his wife says.",
-            "date": "Sun, 09 Nov 2025 02:45:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m in a financial mess’: My income was cut in half. Do I sell my $600K home and kiss my 2.9% mortgage rate goodbye?",
-            "link": "https://www.marketwatch.com/story/im-in-a-financial-mess-my-income-was-cut-in-half-do-i-sell-my-600k-home-and-kiss-my-2-9-mortgage-rate-goodbye-5d356273?mod=mw_rss_topstories",
-            "summary": "“We can move 10 miles south, where property is much cheaper,” he says. “We’re not going to live in a trailer park. We’ll be in a house.”",
-            "date": "Sun, 09 Nov 2025 02:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My siblings don’t earn nearly as much as me. Should my parents leave me less money in their will?",
-            "link": "https://www.marketwatch.com/story/i-go-on-too-many-vacations-my-parents-say-im-a-reckless-spender-is-this-enough-to-cut-me-out-of-their-will-f9477df6?mod=mw_rss_topstories",
-            "summary": "“I’m concerned that my parents are going to strike me from any will,” she says. “I am concerned that I will be struck by my parents.”",
-            "date": "Sat, 08 Nov 2025 21:27:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AUDMYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m 83 and will have $500K if I sell my house. My estranged wife wants me to join her in Colombia. Do I go?",
-            "link": "https://www.marketwatch.com/story/im-83-and-have-a-monthly-income-of-3-800-my-estranged-wife-wants-me-to-join-her-in-colombia-do-i-go-a5850fe9?mod=mw_rss_topstories",
-            "summary": "“I can just barely handle my expenses with a mortgage payment of $984 and an income of $3,800,” she says.",
-            "date": "Sat, 08 Nov 2025 21:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m 53, a single parent with a $1 million home. My boyfriend wants to marry. Am I better off staying single?",
-            "link": "https://www.marketwatch.com/story/im-53-have-one-child-and-a-1-1-million-home-my-boyfriend-wants-to-marry-would-i-have-to-pay-his-medical-debts-be89c986?mod=mw_rss_topstories",
-            "summary": "“Should I just maintain the status quo or marry the love of my life?” she asks herself. “ should I just stay the same?’ she asks.",
-            "date": "Sat, 08 Nov 2025 17:37:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
+            "stock_ticker": "BY",
+            "impact": "Bullish"
         }
     ]
 }
