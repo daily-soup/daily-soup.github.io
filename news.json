@@ -1,125 +1,125 @@
 {
-    "date": "2025-11-10",
+    "date": "2025-11-11",
     "news": [
         {
-            "title": "FAA prohibits most private jets at 12 major airports amid shutdown's air traffic staffing problems",
-            "link": "https://www.cnbc.com/2025/11/10/government-shutdown-private-jets.html",
-            "summary": "The new restrictions come less than a week after the FAA ordered commercial airlines to cut flights due to air traffic controller staffing shortfalls. The new restrictions are expected to be in effect for the rest of the year.",
-            "date": "Mon, 10 Nov 2025 10:13:05 GMT",
+            "title": "Senate passes bill to end government shutdown, sending it to House",
+            "link": "https://www.cnbc.com/2025/11/10/government-shutdown-republicans-senate-house-snap.html",
+            "summary": "The deal does not include extend enhanced ACA tax credits, which had been the key demand by most Democrats since the government shutdown began Oct. 1.",
+            "date": "Tue, 11 Nov 2025 12:40:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FAATX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "SNAP benefits: Appeals court again rejects Trump admin bid to halt full payment order",
-            "link": "https://www.cnbc.com/2025/11/10/snap-benefits-appeals-trump-food-stamps-supreme-court.html",
-            "summary": "The question of whether the Trump administration can be compelled to pay 42 million Americans full food stamp benefits is set to return to the Supreme Court.",
-            "date": "Mon, 10 Nov 2025 13:23:23 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SNAP",
-            "impact": "Bullish"
-        },
-        {
-            "title": "As private tech market heats up, PitchBook makes startup data available via ChatGPT",
-            "link": "https://www.cnbc.com/2025/11/10/pitchbook-introduces-ai-tool-navigaton-integrates-with-chatgpt.html",
-            "summary": "PitchBook is launching PitchBook Navigator, a new generative AI tool that produces private market insights. The tool produces insights based on user prompts.",
-            "date": "Mon, 10 Nov 2025 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Instacart tops third-quarter expectations under new CEO Rogers, gives strong guidance",
-            "link": "https://www.cnbc.com/2025/11/10/instacart-cart-stock-earnings-q3-2025.html",
-            "summary": "Instacart said it's expanding artificial intelligence tools, and recently launched a suite of new solutions for grocers. Instacart: \"We are constantly looking for ways to improve our customer experience\"",
-            "date": "Mon, 10 Nov 2025 13:05:11 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TOPS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump's 'No tax on tips' could be end of large-group service fees on restaurant bills",
-            "link": "https://www.cnbc.com/2025/11/08/no-tax-on-tips-service-fees-restaurant-bill-gratuities.html",
-            "summary": "President Trump's 'no tax on tips' may end it, but restaurants aren't happy. If you don't like service fees restaurants charge large groups, you may be in luck.",
-            "date": "Sat, 08 Nov 2025 15:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EURNOK=X",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Here’s how high tariff rates would have to rise to bring manufacturing back to its glory days. Even Trump would be shocked.",
-            "link": "https://www.marketwatch.com/story/heres-how-high-tariff-rates-would-have-to-rise-to-bring-manufacturing-back-to-its-glory-days-even-trump-would-be-shocked-09cca30f?mod=mw_rss_topstories",
-            "summary": "Economists at UBS point to analysis done by the center-right American Enterprise Institute. They say tariffs would have to be set at 42.5% to level out manufacturing imports and exports.",
-            "date": "Mon, 10 Nov 2025 13:18:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Who is reshaping the way we live, work, spend and invest? Meet the MarketWatch 25.",
-            "link": "https://www.marketwatch.com/story/who-is-reshaping-the-way-we-live-work-spend-and-invest-meet-the-marketwatch-25-94072730?mod=mw_rss_topstories",
-            "summary": "The leaders and thinkers whose ideas have impacted the way the government, companies and American society at large are grappling with technological change, higher prices and more.",
-            "date": "Mon, 10 Nov 2025 13:10:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "COST",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Pfizer won its fight to buy an obesity-drug maker. It took an extra $1.7 billion and a phone call.",
-            "link": "https://www.marketwatch.com/story/pfizer-won-its-fight-to-buy-an-obesity-drug-maker-it-took-an-extra-1-7-billion-and-a-phone-call-a9670e80?mod=mw_rss_topstories",
-            "summary": "Pfizer is buying its way back into the obesity-drug game after fighting off a rival bid from Novo Nordisk to buy Metsera. More money and help from the Trump administration.",
-            "date": "Mon, 10 Nov 2025 13:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PFE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I have $12K in credit-card debt due to health issues and a 30% pay cut. Is it finally time to take a loan from my 401(k)?",
-            "link": "https://www.marketwatch.com/story/i-have-12k-in-credit-card-debt-due-to-health-issues-and-a-30-pay-cut-is-it-finally-time-to-take-a-loan-from-my-401-k-e2dec117?mod=mw_rss_topstories",
-            "summary": "“Because of a downturn in my industry, my pay was cut 30%.” “My pay was Cut 30%’ “I’ve had to take a pay cut of 30%. I’m not happy.”",
-            "date": "Mon, 10 Nov 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CRACU",
+            "stock_ticker": "SENATE-USD",
             "impact": "Bearish"
         },
         {
-            "title": "By one measure the bull market is 16 years old. Here’s why investors face a ‘challenging decade’ ahead.",
-            "link": "https://www.marketwatch.com/story/by-one-measure-the-bull-market-is-16-years-old-heres-why-investors-face-a-challenging-decade-ahead-f6a668c9?mod=mw_rss_topstories",
-            "summary": "Some of the long-term supportive tailwinds are shifting, according to MRB. Some of the support for the U.S. economy is shifting, MRB says.",
-            "date": "Mon, 10 Nov 2025 12:47:00 GMT",
+            "title": "SoftBank sells its entire stake in Nvidia for $5.83 billion",
+            "link": "https://www.cnbc.com/2025/11/11/softbank-sells-its-entire-stake-in-nvidia-for-5point83-billion.html",
+            "summary": "SoftBank is looking to capitalize on its \"all in\" bet on ChatGPT maker OpenAI. SoftBank is investing $1 billion in the company.",
+            "date": "Tue, 11 Nov 2025 10:00:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BY",
+            "stock_ticker": "9984.T",
+            "impact": "Neutral"
+        },
+        {
+            "title": "AI spending is not all equal. Wall Street rewards hyperscalers, punishes DoorDash and Duolingo",
+            "link": "https://www.cnbc.com/2025/11/11/doordash-duolingo-show-wall-street-doesnt-love-ai-spending-equally.html",
+            "summary": "Smaller companies are getting punished by investors. hyperscalers are getting rewarded for their big spending plans. smaller companies are being punished for their small size.",
+            "date": "Tue, 11 Nov 2025 12:30:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Oura expects close to $2 billion in 2026 sales, almost doubling for the second consecutive year",
+            "link": "https://www.cnbc.com/2025/11/11/smart-ring-maker-oura-expects-close-to-2-billion-in-2026-sales-ceo.html",
+            "summary": "CEO Tom Hale spoke with CNBC's Arjun Kharpal in an exclusive interview at Web Summit in Lisbon, Portugal. Hale: \"We have a lot of work to do to make sure that we are the best company in the world\"",
+            "date": "Tue, 11 Nov 2025 12:03:16 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0000RY2H.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Stock investors are buoying the economy. A labor market breakdown could end that",
+            "link": "https://www.cnbc.com/2025/11/11/stocks-are-buoying-wealthy-sentiment-a-labor-market-break-could-end-that.html",
+            "summary": "Government labor data could paint a darker economic picture, leading to a market slide. It would throw cold water on the outlook of those who are well off.",
+            "date": "Tue, 11 Nov 2025 12:11:24 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VTI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s when to expect shutdown-delayed jobs and inflation reports once the government reopens",
+            "link": "https://www.marketwatch.com/story/heres-when-to-expect-key-jobs-and-inflation-reports-after-the-government-reopens-26da416c?mod=mw_rss_topstories",
+            "summary": "The seeming end of the government shutdown means Wall Street could soon get flooded with a raft of crucial reports on the economy. First up: September employment.",
+            "date": "Tue, 11 Nov 2025 13:23:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHEN",
             "impact": "Bullish"
+        },
+        {
+            "title": "Wells Fargo says lock in gains in tech and invest here instead",
+            "link": "https://www.marketwatch.com/story/wells-fargo-says-lock-in-gains-in-tech-and-invest-here-instead-58a3e45b?mod=mw_rss_topstories",
+            "summary": "Wells Fargo Investment Institute has taken a step back on tech stocks after a strong run since April. They have better ideas on where to put money right now.",
+            "date": "Tue, 11 Nov 2025 13:16:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WFC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "CoreWeave beats on earnings, but a data-center delay is dragging on the stock",
+            "link": "https://www.marketwatch.com/story/coreweaves-earnings-beat-shows-that-the-ai-trade-is-far-from-over-51c141b1?mod=mw_rss_topstories",
+            "summary": "CoreWeave locked down several large cloud deals in the third quarter. But an unexpected delay in delivering capacity has some investors concerned. CoreWeave: We are committed to delivering cloud capacity to our customers.",
+            "date": "Tue, 11 Nov 2025 13:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CRWV",
+            "impact": "Bearish"
+        },
+        {
+            "title": "She survived breast cancer. Now her AI tool could help you skip annual mammograms.",
+            "link": "https://www.marketwatch.com/story/she-survived-breast-cancer-now-her-ai-tool-could-help-you-skip-annual-mammograms-dc532960?mod=mw_rss_topstories",
+            "summary": "MIT computer-science professor Regina Barzilay lands on the MarketWatch 25 list of people who are reshaping how we live, work, save, spend and invest.",
+            "date": "Tue, 11 Nov 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SHE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Buying the dip has been especially successful for traders this year. Can it last through the final weeks of 2025?",
+            "link": "https://www.marketwatch.com/story/buying-the-dip-has-been-especially-successful-for-traders-this-year-can-it-last-through-the-final-weeks-of-2025-6d0a9b52?mod=mw_rss_topstories",
+            "summary": "Buying the dip has long been a winning strategy for investors. But it is doing particularly well this year, according to data from Fundstrat.",
+            "date": "Tue, 11 Nov 2025 12:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DBUYX",
+            "impact": "Neutral"
         }
     ]
 }
