@@ -1,59 +1,47 @@
 {
-    "date": "2025-11-12",
+    "date": "2025-11-13",
     "news": [
         {
-            "title": "Google sues cybercriminal group behind E-ZPass, USPS text phishing scams",
-            "link": "https://www.cnbc.com/2025/11/12/google-e-zpass-usps-text-scam-phishing-suit.html",
-            "summary": "Google filed a lawsuit against a cybercriminal group largely based in China. The group is behind a massive text message phishing operation, or \"smishing\"",
-            "date": "Wed, 12 Nov 2025 13:18:25 GMT",
+            "title": "Disney posts mixed results as streaming growth is offset by legacy TV declines",
+            "link": "https://www.cnbc.com/2025/11/13/disney-dis-earnings-q4-2025.html",
+            "summary": "Disney reported fiscal fourth-quarter results before the bell Thursday. The company gave its final update on streaming subscriber metrics. The results are expected to be released later this week.",
+            "date": "Thu, 13 Nov 2025 13:12:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOOG",
+            "stock_ticker": "DIS",
             "impact": "Bullish"
         },
         {
-            "title": "Mortgage demand from homebuyers hits highest level since September, despite rising interest rates",
-            "link": "https://www.cnbc.com/2025/11/12/mortgage-demand-from-homebuyers-hits-highest-level-since-september.html",
-            "summary": "Homebuyer demand for mortgages climbed last week to the highest level since September. Refinance demand, however, dropped, even though interest rates also rose.",
-            "date": "Wed, 12 Nov 2025 12:43:47 GMT",
+            "title": "Cheaper medicines, free beach trips: U.S. health plans tap prescriptions that feds say are illegal",
+            "link": "https://www.cnbc.com/2025/11/13/employer-health-plans-afp-prescriptions-feds-illegal.html",
+            "summary": " AFPs promise to connect patients with more-affordable options for accessing specialty medications. There's a major catch. AFPs often come at very high costs.",
+            "date": "Thu, 13 Nov 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FNMA",
+            "stock_ticker": "PRAX",
             "impact": "Neutral"
         },
         {
-            "title": "Swiss sneaker company On raises guidance again, says it won't offer Black Friday deal",
-            "link": "https://www.cnbc.com/2025/11/12/on-onon-earnings-q3-2025.html",
-            "summary": "Swiss sportswear company On blew past Wall Street's expectations as it pledged to offer no discounts during the holiday shopping season. On will not offer any discounts, the company said.",
-            "date": "Wed, 12 Nov 2025 12:42:24 GMT",
+            "title": "TKO, Polymarket strike multiyear deal to integrate prediction markets into UFC events",
+            "link": "https://www.cnbc.com/2025/11/13/tko-polymarket-strike-multiyear-deal-to-integrate-prediction-markets-into-ufc-events.html",
+            "summary": "The deal makes UFC and Zuffa Boxing the first sports organizations to incorporate prediction market technology into live events. The deal is expected to be in place by the end of 2015.",
+            "date": "Thu, 13 Nov 2025 13:00:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "6S=F",
+            "stock_ticker": "TKO",
             "impact": "Neutral"
         },
         {
-            "title": "Autonomous EV trucking company Einride going public in SPAC deal valuing it at $1.8 billion",
-            "link": "https://www.cnbc.com/2025/11/12/autonomous-ev-trucker-einride-to-go-public-in-spac-at-1point8-billion-value.html",
-            "summary": "Einride is planning to go public on the NYSE through a SPAC deal with Legato Merger Corp. III valuing it at $1.8 billion.",
-            "date": "Wed, 12 Nov 2025 13:01:27 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FRSX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump is pardoning dozens of allies and backers. Here's who might be seeking clemency",
-            "link": "https://www.cnbc.com/2025/11/11/trump-pardons-clemency-maxwell-diddy.html",
-            "summary": "Some figures eyed as possible candidates for clemency from President Donald Trump include Ghislaine Maxwell and Sean \"Diddy\" Combs.",
-            "date": "Tue, 11 Nov 2025 21:32:43 GMT",
+            "title": "Trump signs funding bill, ends government shutdown",
+            "link": "https://www.cnbc.com/2025/11/12/government-shutdown-house-vote-trump.html",
+            "summary": "Most Democrats opposed the funding bill because it does not include extending enhanced ACA tax credits. Most Democrats, who are in the minority in Congress, opposed the bill.",
+            "date": "Thu, 13 Nov 2025 13:18:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,64 +50,76 @@
             "impact": "Neutral"
         },
         {
-            "title": "What typically comes next when the stock market sputters at the start of November",
-            "link": "https://www.marketwatch.com/story/the-santa-rally-still-arrives-when-the-stock-market-sputters-to-open-november-history-shows-cc272981?mod=mw_rss_topstories",
-            "summary": "The S&amp;P 500 slumped 1.6% last week. But bad first weeks in November usually don't hang over the stock market.",
-            "date": "Wed, 12 Nov 2025 12:59:00 GMT",
+            "title": "Joby Aviation wraps up first military aircraft test flight with partner L3Harris",
+            "link": "https://www.cnbc.com/2025/11/13/joby-aviation-l3harris-military-autononmous-defense.html",
+            "summary": "The hybrid aircraft, with piloted and autonomous capabilities, ties into a broader move by the Trump administration to advance U.S. military technology.",
+            "date": "Thu, 13 Nov 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BD0.F",
+            "stock_ticker": "JOBY",
             "impact": "Neutral"
         },
         {
-            "title": "It might not be Peak Oil after all. What the IEA’s new scenarios mean for oil prices.",
-            "link": "https://www.marketwatch.com/story/it-might-not-be-peak-oil-after-all-iea-now-says-on-current-path-that-demand-will-grow-until-2050-5c7f8c3d?mod=mw_rss_topstories",
-            "summary": "International agency forecasting energy demand now says the current path will have consumption of oil and gas growing through 2050. Electric-vehicle adoption misses its earlier estimates.",
-            "date": "Wed, 12 Nov 2025 12:53:00 GMT",
+            "title": "JD.com’s stock jumps as Chinese e-commerce giant triumphs over low expectations",
+            "link": "https://www.marketwatch.com/story/jd-coms-stock-jumps-as-chinese-e-commerce-giant-triumphs-over-low-expectations-193682a7?mod=mw_rss_topstories",
+            "summary": "Third-quarter earnings were way below the corresponding period for 2024. More important was that the company beat relatively conservative analyst predictions. The company's third-quarter results were way lower than expected.",
+            "date": "Thu, 13 Nov 2025 13:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IT",
+            "stock_ticker": "FISV",
             "impact": "Neutral"
         },
         {
-            "title": "I’m in my 50s and divorced with a $1.7 million home. I fell in love with an old school friend. Does it make financial sense to marry?",
-            "link": "https://www.marketwatch.com/story/im-in-my-50s-happily-divorced-and-fell-in-love-with-an-old-school-friend-do-we-marry-5aac37ee?mod=mw_rss_topstories",
-            "summary": "“I have a $500,000 Roth IRA, a portfolio account of $ 500,000 and $300,000 in 529 plans,” she says. “I’ve got a lot of money.”",
-            "date": "Wed, 12 Nov 2025 12:37:00 GMT",
+            "title": "Streaming gains a bright spot for Walt Disney in an otherwise mixed earnings report",
+            "link": "https://www.marketwatch.com/story/streaming-drives-the-way-for-walt-disney-amid-an-otherwise-mixed-earnings-report-ad9d56b5?mod=mw_rss_topstories",
+            "summary": "The Walt Disney Co. had a difficult quarter with the fallout from pulling Jimmy Kimmel off the air, its fight with YouTube and switching gears with its betting partner at ESPN.",
+            "date": "Thu, 13 Nov 2025 13:07:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "MTA",
             "impact": "Neutral"
         },
         {
-            "title": "Where Goldman Sachs says the S&P 500 is headed next year and the next decade",
-            "link": "https://www.marketwatch.com/story/where-goldman-sachs-says-the-s-p-500-is-headed-next-year-and-the-next-decade-721dc97b?mod=mw_rss_topstories",
-            "summary": "Goldman strategists expect the S&amp;P 500 will see annualized gains of 6.5% in the next 10 years. But that's not exactly shooting for the moon.",
-            "date": "Wed, 12 Nov 2025 12:35:00 GMT",
+            "title": "Here’s an unexpected twist that could throw the stock-market rally off course next year",
+            "link": "https://www.marketwatch.com/story/heres-an-unexpected-twist-that-could-throw-the-stock-market-rally-off-course-next-year-bd302bdf?mod=mw_rss_topstories",
+            "summary": "Investors are not considering the risk that the economy poses to the stock market rally, warns Nomura’s Charlie McElligott.",
+            "date": "Thu, 13 Nov 2025 12:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHETH-USD",
+            "stock_ticker": "AN",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. stocks and gold are rallying on hopes that the shutdown ends. What happens once the government reopens?",
-            "link": "https://www.marketwatch.com/story/u-s-stocks-and-gold-are-rallying-on-hopes-that-the-shutdown-ends-what-happens-once-the-government-reopens-3929055a?mod=mw_rss_topstories",
-            "summary": "The S&amp;P 500 and gold are both rallying, with stocks nearing a return to record territory. Why the assets could diverge when the shutdown finally ends.",
-            "date": "Wed, 12 Nov 2025 12:30:00 GMT",
+            "title": "My brother is the trustee of our parents’ $10 million estate. He’s threatened to bleed the estate dry. What now?",
+            "link": "https://www.marketwatch.com/story/my-brother-is-the-trustee-of-our-parents-10-million-estate-hes-threatened-to-bleed-the-estate-dry-what-now-9b6eebd5?mod=mw_rss_topstories",
+            "summary": "“He is paying himself $40 per hour or $1,600 per week to manage the estate,” a source says. “He’s paying himself more than $40,000 per week,’ the source adds.",
+            "date": "Thu, 13 Nov 2025 12:24:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
-            "impact": "Bearish"
+            "stock_ticker": "MYRJPY=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My late husband’s son is listed as beneficiary on his IRAs. Where does that leave me?",
+            "link": "https://www.marketwatch.com/story/my-late-husbands-son-is-listed-as-beneficiary-on-his-iras-where-does-that-leave-me-23c20b2b?mod=mw_rss_topstories",
+            "summary": "“My husband’s son said he doesn’t want any part of the IRAs or the insurance policies,” she said.",
+            "date": "Thu, 13 Nov 2025 12:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYRJPY=X",
+            "impact": "Neutral"
         }
     ]
 }
