@@ -1,47 +1,95 @@
 {
-    "date": "2025-11-13",
+    "date": "2025-11-14",
     "news": [
         {
-            "title": "Disney posts mixed results as streaming growth is offset by legacy TV declines",
-            "link": "https://www.cnbc.com/2025/11/13/disney-dis-earnings-q4-2025.html",
-            "summary": "Disney reported fiscal fourth-quarter results before the bell Thursday. The company gave its final update on streaming subscriber metrics. The results are expected to be released later this week.",
-            "date": "Thu, 13 Nov 2025 13:12:27 GMT",
+            "title": "Walmart CEO Doug McMillon to retire in January",
+            "link": "https://www.cnbc.com/2025/11/14/walmart-ceo-doug-mcmillon-to-retire-in-january.html",
+            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
+            "date": "Fri, 14 Nov 2025 13:24:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DIS",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Cheaper medicines, free beach trips: U.S. health plans tap prescriptions that feds say are illegal",
-            "link": "https://www.cnbc.com/2025/11/13/employer-health-plans-afp-prescriptions-feds-illegal.html",
-            "summary": " AFPs promise to connect patients with more-affordable options for accessing specialty medications. There's a major catch. AFPs often come at very high costs.",
-            "date": "Thu, 13 Nov 2025 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PRAX",
+            "stock_ticker": "WMT",
             "impact": "Neutral"
         },
         {
-            "title": "TKO, Polymarket strike multiyear deal to integrate prediction markets into UFC events",
-            "link": "https://www.cnbc.com/2025/11/13/tko-polymarket-strike-multiyear-deal-to-integrate-prediction-markets-into-ufc-events.html",
-            "summary": "The deal makes UFC and Zuffa Boxing the first sports organizations to incorporate prediction market technology into live events. The deal is expected to be in place by the end of 2015.",
-            "date": "Thu, 13 Nov 2025 13:00:21 GMT",
+            "title": "The question everyone in AI is asking: How long before a GPU depreciates?",
+            "link": "https://www.cnbc.com/2025/11/14/ai-gpu-depreciation-coreweave-nvidia-michael-burry.html",
+            "summary": "With over $1 trillion in AI spending planned over the next five years, the useful lifespan of the infrastructure is a key issue for investors.",
+            "date": "Fri, 14 Nov 2025 12:00:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TKO",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "Trump signs funding bill, ends government shutdown",
-            "link": "https://www.cnbc.com/2025/11/12/government-shutdown-house-vote-trump.html",
-            "summary": "Most Democrats opposed the funding bill because it does not include extending enhanced ACA tax credits. Most Democrats, who are in the minority in Congress, opposed the bill.",
-            "date": "Thu, 13 Nov 2025 13:18:21 GMT",
+            "title": "Fewer burritos, more bargains: Consumers flash holiday warning signs",
+            "link": "https://www.cnbc.com/2025/11/14/fewer-burritos-more-bargains-consumers-flash-holiday-warning-signs.html",
+            "summary": "Some of the biggest names in retail will report their latest earnings this week. Walmart, Target, Gap and Home Depot will all be reporting.",
+            "date": "Fri, 14 Nov 2025 12:00:02 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HDG0.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Despite Coinbase departure, only 28 companies have left Delaware this year",
+            "link": "https://www.cnbc.com/2025/11/14/despite-coinbase-departure-only-28-companies-left-delaware-this-year.html",
+            "summary": "Coinbase is the latest high-profile company to announce plans to reincorporate outside of Delaware. But it's still a very rare move.",
+            "date": "Fri, 14 Nov 2025 12:30:02 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "COIN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Modi’s victory in a key farm state may tip the balance on India-U.S. trade deal",
+            "link": "https://www.cnbc.com/2025/11/14/modis-victory-in-bihar-may-tip-the-balance-on-india-us-trade-deal.html",
+            "summary": "The victory of Modi and his allies in the state elections of Bihar will allow New Delhi to make farm-related concessions, a key demand of U.S. trade negotiators.",
+            "date": "Fri, 14 Nov 2025 11:50:15 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BIJ.DE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here are November’s worst-performing S&P 500 stocks so far — including some surprises",
+            "link": "https://www.marketwatch.com/story/here-are-novembers-worst-performing-s-p-500-stocks-so-far-including-some-surprises-783101fb?mod=mw_rss_topstories",
+            "summary": "As the technology sector has been sliding, the healthcare sector has surged. The healthcare sector is making up for some of the losses in the tech sector.",
+            "date": "Fri, 14 Nov 2025 13:20:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HERE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Wall Street’s on edge. These are the levels that stocks must not violate, says Fundstrat.",
+            "link": "https://www.marketwatch.com/story/wall-streets-on-edge-these-are-the-levels-that-stocks-must-not-violate-says-fundstrat-2e4bbfd3?mod=mw_rss_topstories",
+            "summary": "Mark Newton says poor market breadth remains a concern. Poor market breadth is a concern according to Mark Newton. He says it is a sign of a lack of confidence in the global economy.",
+            "date": "Fri, 14 Nov 2025 12:55:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WBX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump claims Thanksgiving is cheaper this year — even as Americans spend hundreds on turkey and travel",
+            "link": "https://www.marketwatch.com/story/trump-says-thanksgiving-is-cheaper-this-year-but-some-people-are-spending-hundreds-on-turkey-travel-and-more-fcd958de?mod=mw_rss_topstories",
+            "summary": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Visit CNN.com/Travel each week for a new gallery of snapshots from around the world. Visit the gallery each week to see which photos will be featured in our next Travel Snapshot gallery.",
+            "date": "Fri, 14 Nov 2025 12:42:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,76 +98,28 @@
             "impact": "Neutral"
         },
         {
-            "title": "Joby Aviation wraps up first military aircraft test flight with partner L3Harris",
-            "link": "https://www.cnbc.com/2025/11/13/joby-aviation-l3harris-military-autononmous-defense.html",
-            "summary": "The hybrid aircraft, with piloted and autonomous capabilities, ties into a broader move by the Trump administration to advance U.S. military technology.",
-            "date": "Thu, 13 Nov 2025 13:00:01 GMT",
+            "title": "Here’s how Robinhood will deliver bags of cash to your doorstep safely",
+            "link": "https://www.marketwatch.com/story/need-cash-fast-heres-how-robinhood-plans-to-safely-deliver-bags-of-money-to-your-doorstep-2a98ce57?mod=mw_rss_topstories",
+            "summary": "The brokerage has teamed up with courier service Gopuff to roll out its same-day cash delivery service. The service will be available to customers in the U.S. and Canada.",
+            "date": "Fri, 14 Nov 2025 12:35:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JOBY",
-            "impact": "Neutral"
+            "stock_ticker": "HWM",
+            "impact": "Bullish"
         },
         {
-            "title": "JD.com’s stock jumps as Chinese e-commerce giant triumphs over low expectations",
-            "link": "https://www.marketwatch.com/story/jd-coms-stock-jumps-as-chinese-e-commerce-giant-triumphs-over-low-expectations-193682a7?mod=mw_rss_topstories",
-            "summary": "Third-quarter earnings were way below the corresponding period for 2024. More important was that the company beat relatively conservative analyst predictions. The company's third-quarter results were way lower than expected.",
-            "date": "Thu, 13 Nov 2025 13:17:00 GMT",
+            "title": "Why any U.S. military strike on Venezuela could damage America’s fuel supply and the global oil market",
+            "link": "https://www.marketwatch.com/story/why-any-u-s-military-strike-on-venezuela-could-damage-americas-fuel-supply-and-the-global-oil-market-5b82b565?mod=mw_rss_topstories",
+            "summary": "A buildup of U.S. military forces in the Caribbean Sea is raising concerns about a potential strike on Venezuela. Venezuela is home to the world’s largest oil reserves.",
+            "date": "Fri, 14 Nov 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FISV",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Streaming gains a bright spot for Walt Disney in an otherwise mixed earnings report",
-            "link": "https://www.marketwatch.com/story/streaming-drives-the-way-for-walt-disney-amid-an-otherwise-mixed-earnings-report-ad9d56b5?mod=mw_rss_topstories",
-            "summary": "The Walt Disney Co. had a difficult quarter with the fallout from pulling Jimmy Kimmel off the air, its fight with YouTube and switching gears with its betting partner at ESPN.",
-            "date": "Thu, 13 Nov 2025 13:07:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MTA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here’s an unexpected twist that could throw the stock-market rally off course next year",
-            "link": "https://www.marketwatch.com/story/heres-an-unexpected-twist-that-could-throw-the-stock-market-rally-off-course-next-year-bd302bdf?mod=mw_rss_topstories",
-            "summary": "Investors are not considering the risk that the economy poses to the stock market rally, warns Nomura’s Charlie McElligott.",
-            "date": "Thu, 13 Nov 2025 12:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My brother is the trustee of our parents’ $10 million estate. He’s threatened to bleed the estate dry. What now?",
-            "link": "https://www.marketwatch.com/story/my-brother-is-the-trustee-of-our-parents-10-million-estate-hes-threatened-to-bleed-the-estate-dry-what-now-9b6eebd5?mod=mw_rss_topstories",
-            "summary": "“He is paying himself $40 per hour or $1,600 per week to manage the estate,” a source says. “He’s paying himself more than $40,000 per week,’ the source adds.",
-            "date": "Thu, 13 Nov 2025 12:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYRJPY=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My late husband’s son is listed as beneficiary on his IRAs. Where does that leave me?",
-            "link": "https://www.marketwatch.com/story/my-late-husbands-son-is-listed-as-beneficiary-on-his-iras-where-does-that-leave-me-23c20b2b?mod=mw_rss_topstories",
-            "summary": "“My husband’s son said he doesn’t want any part of the IRAs or the insurance policies,” she said.",
-            "date": "Thu, 13 Nov 2025 12:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYRJPY=X",
-            "impact": "Neutral"
+            "stock_ticker": "3823.T",
+            "impact": "Bullish"
         }
     ]
 }
