@@ -1,95 +1,47 @@
 {
-    "date": "2025-11-14",
+    "date": "2025-11-15",
     "news": [
         {
-            "title": "Walmart CEO Doug McMillon to retire in January",
-            "link": "https://www.cnbc.com/2025/11/14/walmart-ceo-doug-mcmillon-to-retire-in-january.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Fri, 14 Nov 2025 13:24:30 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WMT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The question everyone in AI is asking: How long before a GPU depreciates?",
-            "link": "https://www.cnbc.com/2025/11/14/ai-gpu-depreciation-coreweave-nvidia-michael-burry.html",
-            "summary": "With over $1 trillion in AI spending planned over the next five years, the useful lifespan of the infrastructure is a key issue for investors.",
-            "date": "Fri, 14 Nov 2025 12:00:02 GMT",
+            "title": "The government shutdown is over. The air traffic controller shortage is not",
+            "link": "https://www.cnbc.com/2025/11/15/government-shutdown-air-traffic-controllers.html",
+            "summary": "Staffing shortages of air traffic controllers forced airlines to chop flights and delay thousands of others. 5 million people were affected by the disruption.",
+            "date": "Sat, 15 Nov 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BA",
-            "impact": "Neutral"
+            "impact": "Bullish"
         },
         {
-            "title": "Fewer burritos, more bargains: Consumers flash holiday warning signs",
-            "link": "https://www.cnbc.com/2025/11/14/fewer-burritos-more-bargains-consumers-flash-holiday-warning-signs.html",
-            "summary": "Some of the biggest names in retail will report their latest earnings this week. Walmart, Target, Gap and Home Depot will all be reporting.",
-            "date": "Fri, 14 Nov 2025 12:00:02 GMT",
+            "title": "Berkshire Hathaway's surprising new tech stake",
+            "link": "https://www.cnbc.com/2025/11/15/berkshire-hathaways-surprising-new-tech-stake.html",
+            "summary": "Berkshire Hathaway's end-of-Q3 equity portfolio snapshot. There was a notable surprise in Berkshire Hathaway’s end- of-Q4 equity portfolio.",
+            "date": "Sat, 15 Nov 2025 12:13:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HDG0.F",
+            "stock_ticker": "BRK-B",
             "impact": "Neutral"
         },
         {
-            "title": "Despite Coinbase departure, only 28 companies have left Delaware this year",
-            "link": "https://www.cnbc.com/2025/11/14/despite-coinbase-departure-only-28-companies-left-delaware-this-year.html",
-            "summary": "Coinbase is the latest high-profile company to announce plans to reincorporate outside of Delaware. But it's still a very rare move.",
-            "date": "Fri, 14 Nov 2025 12:30:02 GMT",
+            "title": "AI anxiety on the rise: Startup founders react to bubble fears",
+            "link": "https://www.cnbc.com/2025/11/15/ai-anxiety-on-the-rise-startup-founders-react-to-bubble-fears.html",
+            "summary": "Short sellers like Michael Burry and Jim Chanos are warning that the AI buildout isn’t a one-time investment but a recurring cost wave.",
+            "date": "Sat, 15 Nov 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COIN",
+            "stock_ticker": "AI",
             "impact": "Neutral"
         },
         {
-            "title": "Modi’s victory in a key farm state may tip the balance on India-U.S. trade deal",
-            "link": "https://www.cnbc.com/2025/11/14/modis-victory-in-bihar-may-tip-the-balance-on-india-us-trade-deal.html",
-            "summary": "The victory of Modi and his allies in the state elections of Bihar will allow New Delhi to make farm-related concessions, a key demand of U.S. trade negotiators.",
-            "date": "Fri, 14 Nov 2025 11:50:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BIJ.DE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here are November’s worst-performing S&P 500 stocks so far — including some surprises",
-            "link": "https://www.marketwatch.com/story/here-are-novembers-worst-performing-s-p-500-stocks-so-far-including-some-surprises-783101fb?mod=mw_rss_topstories",
-            "summary": "As the technology sector has been sliding, the healthcare sector has surged. The healthcare sector is making up for some of the losses in the tech sector.",
-            "date": "Fri, 14 Nov 2025 13:20:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HERE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Wall Street’s on edge. These are the levels that stocks must not violate, says Fundstrat.",
-            "link": "https://www.marketwatch.com/story/wall-streets-on-edge-these-are-the-levels-that-stocks-must-not-violate-says-fundstrat-2e4bbfd3?mod=mw_rss_topstories",
-            "summary": "Mark Newton says poor market breadth remains a concern. Poor market breadth is a concern according to Mark Newton. He says it is a sign of a lack of confidence in the global economy.",
-            "date": "Fri, 14 Nov 2025 12:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WBX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump claims Thanksgiving is cheaper this year — even as Americans spend hundreds on turkey and travel",
-            "link": "https://www.marketwatch.com/story/trump-says-thanksgiving-is-cheaper-this-year-but-some-people-are-spending-hundreds-on-turkey-travel-and-more-fcd958de?mod=mw_rss_topstories",
-            "summary": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Visit CNN.com/Travel each week for a new gallery of snapshots from around the world. Visit the gallery each week to see which photos will be featured in our next Travel Snapshot gallery.",
-            "date": "Fri, 14 Nov 2025 12:42:00 GMT",
+            "title": "Trump cuts tariffs on goods like coffee, bananas and beef in bid to slash consumer prices",
+            "link": "https://www.cnbc.com/2025/11/14/trump-cuts-tariffs-goods-prices.html",
+            "summary": "Trump's action exempted black tea, green tea, tomatoes, avocados and cinnamon, among other products, from higher tariffs. Trump's action also exempted black Tea, green Tea, tomatoes and cinnamon.",
+            "date": "Sat, 15 Nov 2025 11:57:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "Here’s how Robinhood will deliver bags of cash to your doorstep safely",
-            "link": "https://www.marketwatch.com/story/need-cash-fast-heres-how-robinhood-plans-to-safely-deliver-bags-of-money-to-your-doorstep-2a98ce57?mod=mw_rss_topstories",
-            "summary": "The brokerage has teamed up with courier service Gopuff to roll out its same-day cash delivery service. The service will be available to customers in the U.S. and Canada.",
-            "date": "Fri, 14 Nov 2025 12:35:00 GMT",
+            "title": "Google and Disney reach deal to restore ESPN, ABC to YouTube TV",
+            "link": "https://www.cnbc.com/2025/11/14/google-disney-reach-deal-to-restore-espn-abc-others-to-youtube-tv.html",
+            "summary": "The deal comes after a two-week standoff that resulted in channels like ESPN, ABC and others going dark on the popular YouTube TV streaming service.",
+            "date": "Sat, 15 Nov 2025 01:28:19 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GOOG",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How $5,000 became $31 billion: 5 market lessons from the greatest trader ever",
+            "link": "https://www.marketwatch.com/story/how-5-000-became-31-billion-5-market-lessons-from-the-greatest-trader-ever-41a2ad47?mod=mw_rss_topstories",
+            "summary": "Jim Simons’s Medallion Fund averaged 66% annual returns for three decades, using math that would make ChatGPT weep.",
+            "date": "Sat, 15 Nov 2025 13:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "HWM",
-            "impact": "Bullish"
+            "impact": "Neutral"
         },
         {
-            "title": "Why any U.S. military strike on Venezuela could damage America’s fuel supply and the global oil market",
-            "link": "https://www.marketwatch.com/story/why-any-u-s-military-strike-on-venezuela-could-damage-americas-fuel-supply-and-the-global-oil-market-5b82b565?mod=mw_rss_topstories",
-            "summary": "A buildup of U.S. military forces in the Caribbean Sea is raising concerns about a potential strike on Venezuela. Venezuela is home to the world’s largest oil reserves.",
-            "date": "Fri, 14 Nov 2025 12:30:00 GMT",
+            "title": "Gold’s moves in ‘lockstep’ with U.S. stocks could point to a brewing market danger",
+            "link": "https://www.marketwatch.com/story/golds-moves-in-lockstep-with-u-s-stocks-could-point-to-a-brewing-market-danger-265b94e1?mod=mw_rss_topstories",
+            "summary": "Gold's selloff alongside U.S. stocks and bitcoin suggests that trouble could be brewing in financial markets. Gold’s selloff with U.K. stocks, bitcoin and other global markets suggests trouble may be brewing.",
+            "date": "Sat, 15 Nov 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "3823.T",
+            "stock_ticker": "^XAU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These 13 tech stocks have grown profits rapidly — and their stocks are still on sale",
+            "link": "https://www.marketwatch.com/story/these-13-tech-stocks-have-grown-profits-rapidly-and-their-stocks-are-still-on-sale-2175c2d2?mod=mw_rss_topstories",
+            "summary": " Meta, Nvidia and Microsoft shares trade at discounts to their historical valuations. Other plays in the chip and software sectors are also trading at discounts.",
+            "date": "Sat, 15 Nov 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "1398.HK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Stocks are caught up in a powerful rotation. Here’s what could deliver a shock.",
+            "link": "https://www.marketwatch.com/story/stocks-are-caught-up-in-a-powerful-rotation-heres-what-could-deliver-a-shock-931b0375?mod=mw_rss_topstories",
+            "summary": "A smooth stock market on the surface is masking nerves and turbulence. The U.S. stock market has been on an upswing since the Great Recession.",
+            "date": "Sat, 15 Nov 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOPT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Only one analyst has a sell rating on Nvidia — and he says ‘it feels fantastic’",
+            "link": "https://www.marketwatch.com/story/only-one-analyst-has-a-sell-rating-on-nvidia-and-he-says-it-feels-fantastic-c4a887fb?mod=mw_rss_topstories",
+            "summary": "Lone Nvidia bear Jay Goldberg shares why he’s still not a buyer of the AI superstock. Goldberg: “I don’t think they’re going to be the next Facebook or Google.”",
+            "date": "Fri, 14 Nov 2025 23:26:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FRSXX",
             "impact": "Bullish"
         }
     ]
