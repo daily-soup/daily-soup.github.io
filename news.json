@@ -1,125 +1,125 @@
 {
-    "date": "2025-11-15",
+    "date": "2025-11-16",
     "news": [
         {
-            "title": "The government shutdown is over. The air traffic controller shortage is not",
-            "link": "https://www.cnbc.com/2025/11/15/government-shutdown-air-traffic-controllers.html",
-            "summary": "Staffing shortages of air traffic controllers forced airlines to chop flights and delay thousands of others. 5 million people were affected by the disruption.",
-            "date": "Sat, 15 Nov 2025 13:00:01 GMT",
+            "title": "Inside Ford's new world headquarters: Scratch kitchens, rotisserie chickens and design secrets",
+            "link": "https://www.cnbc.com/2025/11/16/ford-headquarters-dearborn-michigan.html",
+            "summary": "Ford's new 2.1-million-square-foot headquarters in Dearborn, Michigan, is opening Sunday. Construction is expected to continue into 2027.",
+            "date": "Sun, 16 Nov 2025 11:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DBUYX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Former Fed Gov. Adriana Kugler violated trading rules while at central bank: ethics report",
+            "link": "https://www.cnbc.com/2025/11/15/fed-kugler-ethics-stock-trading.html",
+            "summary": "The Federal Reserve's internal watchdog was notified earlier this year about stock trades from 2024 disclosed by then-Gov Adriana Kugler.",
+            "date": "Sat, 15 Nov 2025 18:29:46 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "JAFGX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The question everyone in AI is asking: How long before a GPU depreciates?",
+            "link": "https://www.cnbc.com/2025/11/14/ai-gpu-depreciation-coreweave-nvidia-michael-burry.html",
+            "summary": "Tech giants plan $1 trillion in AI spending over the next five years. The useful lifespan of AI infrastructure is a key issue for investors.",
+            "date": "Fri, 14 Nov 2025 16:19:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Berkshire Hathaway's surprising new tech stake",
-            "link": "https://www.cnbc.com/2025/11/15/berkshire-hathaways-surprising-new-tech-stake.html",
-            "summary": "Berkshire Hathaway's end-of-Q3 equity portfolio snapshot. There was a notable surprise in Berkshire Hathaway’s end- of-Q4 equity portfolio.",
-            "date": "Sat, 15 Nov 2025 12:13:29 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BRK-B",
             "impact": "Neutral"
         },
         {
-            "title": "AI anxiety on the rise: Startup founders react to bubble fears",
-            "link": "https://www.cnbc.com/2025/11/15/ai-anxiety-on-the-rise-startup-founders-react-to-bubble-fears.html",
-            "summary": "Short sellers like Michael Burry and Jim Chanos are warning that the AI buildout isn’t a one-time investment but a recurring cost wave.",
-            "date": "Sat, 15 Nov 2025 13:00:01 GMT",
+            "title": "Top Wall Street analysts are bullish on these 3 dividend stocks",
+            "link": "https://www.cnbc.com/2025/11/16/top-wall-street-analysts-are-bullish-on-these-3-dividend-stocks.html",
+            "summary": "TipRanks' ranking service highlights three dividend-paying stocks. Diamondback Energy and Permian Resources are among them.",
+            "date": "Sun, 16 Nov 2025 12:25:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
-            "title": "Trump cuts tariffs on goods like coffee, bananas and beef in bid to slash consumer prices",
-            "link": "https://www.cnbc.com/2025/11/14/trump-cuts-tariffs-goods-prices.html",
-            "summary": "Trump's action exempted black tea, green tea, tomatoes, avocados and cinnamon, among other products, from higher tariffs. Trump's action also exempted black Tea, green Tea, tomatoes and cinnamon.",
-            "date": "Sat, 15 Nov 2025 11:57:39 GMT",
+            "title": "In defense of junior staff: Why replacing young people with AI could spark a 'talent doom cycle'",
+            "link": "https://www.cnbc.com/2025/11/16/why-replacing-junior-staff-with-ai-will-backfire-.html",
+            "summary": "\"You're missing a significant aspect of growth if you shut down the pipeline on bringing junior or entry-level talent into an organization,\" one CEO said.",
+            "date": "Sun, 16 Nov 2025 07:00:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "SENS",
+            "impact": "Bearish"
+        },
+        {
+            "title": "My brother is the trustee of our parents’ $10 million estate. He’s threatened to bleed the estate dry. What now?",
+            "link": "https://www.marketwatch.com/story/my-brother-is-the-trustee-of-our-parents-10-million-estate-hes-threatened-to-bleed-the-estate-dry-what-now-9b6eebd5?mod=mw_rss_topstories",
+            "summary": "“He is paying himself $40 per hour or $1,600 per week to manage the estate,” a source says. “He’s paying himself more than $40,000 per week,’ the source adds.",
+            "date": "Sun, 16 Nov 2025 12:40:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AUDMYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "Google and Disney reach deal to restore ESPN, ABC to YouTube TV",
-            "link": "https://www.cnbc.com/2025/11/14/google-disney-reach-deal-to-restore-espn-abc-others-to-youtube-tv.html",
-            "summary": "The deal comes after a two-week standoff that resulted in channels like ESPN, ABC and others going dark on the popular YouTube TV streaming service.",
-            "date": "Sat, 15 Nov 2025 01:28:19 GMT",
+            "title": "‘I’m a big fan of DIY investing’: I’m 64 and moving to the U.S. I have $2.6 million, but no Social Security. Will I be OK?",
+            "link": "https://www.marketwatch.com/story/im-a-big-fan-of-diy-investing-im-64-and-moving-to-the-u-s-i-have-2-6-million-but-no-social-security-will-i-be-ok-75afd5d9?mod=mw_rss_topstories",
+            "summary": "Advisers do well in bull markets and poorly in bear markets. “I generally do better during downturns than the S&amp;P 500.”",
+            "date": "Sun, 16 Nov 2025 03:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOOG",
+            "stock_ticker": "BMNR",
+            "impact": "Bearish"
+        },
+        {
+            "title": "I’m 51, married and pay $200 a month for a $1.5 million term life insurance policy. When should I cancel it?",
+            "link": "https://www.marketwatch.com/story/im-51-married-and-pay-200-a-month-for-a-1-5-million-term-life-insurance-policy-when-should-i-cancel-it-fd4fc019?mod=mw_rss_topstories",
+            "summary": "“I am five years from financial independence,” he says. “I’m five years away from being financially independent.”",
+            "date": "Sun, 16 Nov 2025 03:37:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BMNR",
             "impact": "Neutral"
         },
         {
-            "title": "How $5,000 became $31 billion: 5 market lessons from the greatest trader ever",
-            "link": "https://www.marketwatch.com/story/how-5-000-became-31-billion-5-market-lessons-from-the-greatest-trader-ever-41a2ad47?mod=mw_rss_topstories",
-            "summary": "Jim Simons’s Medallion Fund averaged 66% annual returns for three decades, using math that would make ChatGPT weep.",
-            "date": "Sat, 15 Nov 2025 13:05:00 GMT",
+            "title": "I have a $10K expense. Do I withdraw money from my investments or my high-yield savings account?",
+            "link": "https://www.marketwatch.com/story/i-have-a-10k-expense-do-i-withdraw-money-from-my-investments-or-my-high-yield-savings-account-d1d871db?mod=mw_rss_topstories",
+            "summary": "“It will likely take me about a year to replace the $10,000,” he says. “It’s a lot of money.”",
+            "date": "Sun, 16 Nov 2025 00:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "SENS",
             "impact": "Neutral"
         },
         {
-            "title": "Gold’s moves in ‘lockstep’ with U.S. stocks could point to a brewing market danger",
-            "link": "https://www.marketwatch.com/story/golds-moves-in-lockstep-with-u-s-stocks-could-point-to-a-brewing-market-danger-265b94e1?mod=mw_rss_topstories",
-            "summary": "Gold's selloff alongside U.S. stocks and bitcoin suggests that trouble could be brewing in financial markets. Gold’s selloff with U.K. stocks, bitcoin and other global markets suggests trouble may be brewing.",
-            "date": "Sat, 15 Nov 2025 13:00:00 GMT",
+            "title": "What’s the true price of Thanksgiving? Trump says groceries are getting cheaper, but many Americans are still concerned about costs.",
+            "link": "https://www.marketwatch.com/story/trump-says-thanksgiving-is-cheaper-this-year-but-some-people-are-spending-hundreds-on-turkey-travel-and-more-fcd958de?mod=mw_rss_topstories",
+            "summary": "A new survey finds Americans expect to spend $175 on food and as much as $952 overall on this Thanksgiving, including turkey, travel and decor.",
+            "date": "Sun, 16 Nov 2025 00:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^XAU",
+            "stock_ticker": "BD0.F",
             "impact": "Neutral"
-        },
-        {
-            "title": "These 13 tech stocks have grown profits rapidly — and their stocks are still on sale",
-            "link": "https://www.marketwatch.com/story/these-13-tech-stocks-have-grown-profits-rapidly-and-their-stocks-are-still-on-sale-2175c2d2?mod=mw_rss_topstories",
-            "summary": " Meta, Nvidia and Microsoft shares trade at discounts to their historical valuations. Other plays in the chip and software sectors are also trading at discounts.",
-            "date": "Sat, 15 Nov 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "1398.HK",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Stocks are caught up in a powerful rotation. Here’s what could deliver a shock.",
-            "link": "https://www.marketwatch.com/story/stocks-are-caught-up-in-a-powerful-rotation-heres-what-could-deliver-a-shock-931b0375?mod=mw_rss_topstories",
-            "summary": "A smooth stock market on the surface is masking nerves and turbulence. The U.S. stock market has been on an upswing since the Great Recession.",
-            "date": "Sat, 15 Nov 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TOPT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Only one analyst has a sell rating on Nvidia — and he says ‘it feels fantastic’",
-            "link": "https://www.marketwatch.com/story/only-one-analyst-has-a-sell-rating-on-nvidia-and-he-says-it-feels-fantastic-c4a887fb?mod=mw_rss_topstories",
-            "summary": "Lone Nvidia bear Jay Goldberg shares why he’s still not a buyer of the AI superstock. Goldberg: “I don’t think they’re going to be the next Facebook or Google.”",
-            "date": "Fri, 14 Nov 2025 23:26:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FRSXX",
-            "impact": "Bullish"
         }
     ]
 }
