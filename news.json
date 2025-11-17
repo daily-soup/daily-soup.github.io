@@ -1,83 +1,83 @@
 {
-    "date": "2025-11-16",
+    "date": "2025-11-17",
     "news": [
         {
-            "title": "Inside Ford's new world headquarters: Scratch kitchens, rotisserie chickens and design secrets",
-            "link": "https://www.cnbc.com/2025/11/16/ford-headquarters-dearborn-michigan.html",
-            "summary": "Ford's new 2.1-million-square-foot headquarters in Dearborn, Michigan, is opening Sunday. Construction is expected to continue into 2027.",
-            "date": "Sun, 16 Nov 2025 11:00:01 GMT",
+            "title": "Novo Nordisk cuts direct-to-consumer prices for Wegovy, Ozempic to $349 a month",
+            "link": "https://www.cnbc.com/2025/11/17/novo-nordisk-cash-prices-wegovy-ozempic.html",
+            "summary": "The announcements come days after President Donald Trump struck deals with Novo Nordisk and Eli Lilly to make their GLP-1s easier for Americans to access.",
+            "date": "Mon, 17 Nov 2025 13:11:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DBUYX",
+            "stock_ticker": "NVO",
             "impact": "Neutral"
         },
         {
-            "title": "Former Fed Gov. Adriana Kugler violated trading rules while at central bank: ethics report",
-            "link": "https://www.cnbc.com/2025/11/15/fed-kugler-ethics-stock-trading.html",
-            "summary": "The Federal Reserve's internal watchdog was notified earlier this year about stock trades from 2024 disclosed by then-Gov Adriana Kugler.",
-            "date": "Sat, 15 Nov 2025 18:29:46 GMT",
+            "title": "Nvidia CEO Jensen Huang surprised investors with a 'half a trillion' forecast. It'll come up at earnings",
+            "link": "https://www.cnbc.com/2025/11/17/huangs-half-a-trillion-nvidia-forecast-will-come-up-at-q3-earnings.html",
+            "summary": "\"Half a trillion dollars worth so far,\" Huang said at the company's GTC conference in Washington last month. \"This is how much business is on the books,\" he said.",
+            "date": "Mon, 17 Nov 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JAFGX",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "The question everyone in AI is asking: How long before a GPU depreciates?",
-            "link": "https://www.cnbc.com/2025/11/14/ai-gpu-depreciation-coreweave-nvidia-michael-burry.html",
-            "summary": "Tech giants plan $1 trillion in AI spending over the next five years. The useful lifespan of AI infrastructure is a key issue for investors.",
-            "date": "Fri, 14 Nov 2025 16:19:35 GMT",
+            "title": "India deepens energy trade with U.S. to mend trade relations amid tariff strain",
+            "link": "https://www.cnbc.com/2025/11/17/india-deepens-us-energy-trade-to-mend-trade-relations-amid-tariffs.html",
+            "summary": "India is increasing its energy imports from the U.S. in the hopes that the move could pave the way to a trade deal between the two countries.",
+            "date": "Mon, 17 Nov 2025 12:47:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "SIR=F",
             "impact": "Neutral"
         },
         {
-            "title": "Top Wall Street analysts are bullish on these 3 dividend stocks",
-            "link": "https://www.cnbc.com/2025/11/16/top-wall-street-analysts-are-bullish-on-these-3-dividend-stocks.html",
-            "summary": "TipRanks' ranking service highlights three dividend-paying stocks. Diamondback Energy and Permian Resources are among them.",
-            "date": "Sun, 16 Nov 2025 12:25:57 GMT",
+            "title": "Jeep eyes U.S. comeback following yearslong sales troubles",
+            "link": "https://www.cnbc.com/2025/11/17/jeep-recon-wrangler-grand-wagoneer.html",
+            "summary": "Jeep has experienced six consecutive years of U.S. sales declines. It has experienced a leadership carousel, dearth of new products and push into luxury.",
+            "date": "Mon, 17 Nov 2025 13:07:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "031310.KQ",
             "impact": "Neutral"
         },
         {
-            "title": "In defense of junior staff: Why replacing young people with AI could spark a 'talent doom cycle'",
-            "link": "https://www.cnbc.com/2025/11/16/why-replacing-junior-staff-with-ai-will-backfire-.html",
-            "summary": "\"You're missing a significant aspect of growth if you shut down the pipeline on bringing junior or entry-level talent into an organization,\" one CEO said.",
-            "date": "Sun, 16 Nov 2025 07:00:50 GMT",
+            "title": "'We haven't sold our soul to the devil': Switzerland's trade deal with the U.S. divides opinion",
+            "link": "https://www.cnbc.com/2025/11/17/we-havent-sold-our-soul-to-the-devil-swiss-defend-us-trade-deal.html",
+            "summary": "Switzerland's trade deal with the U.S. has its supporters and detractors. The Swiss economy is likely to take a hit, deal or no deal.",
+            "date": "Mon, 17 Nov 2025 11:15:13 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SENS",
-            "impact": "Bearish"
+            "stock_ticker": "WSHP",
+            "impact": "Bullish"
         },
         {
-            "title": "My brother is the trustee of our parents’ $10 million estate. He’s threatened to bleed the estate dry. What now?",
-            "link": "https://www.marketwatch.com/story/my-brother-is-the-trustee-of-our-parents-10-million-estate-hes-threatened-to-bleed-the-estate-dry-what-now-9b6eebd5?mod=mw_rss_topstories",
-            "summary": "“He is paying himself $40 per hour or $1,600 per week to manage the estate,” a source says. “He’s paying himself more than $40,000 per week,’ the source adds.",
-            "date": "Sun, 16 Nov 2025 12:40:00 GMT",
+            "title": "Boeing’s 777X has had its problems, but the orders keep coming",
+            "link": "https://www.marketwatch.com/story/boeings-777x-has-had-its-problems-but-the-orders-keep-coming-4f7de0cb?mod=mw_rss_topstories",
+            "summary": "Boeing announced an order of 65 777X twin-engine aircraft from Dubai-based Emirates. GE Aerospace received orders for 130 engines to fly those jets.",
+            "date": "Mon, 17 Nov 2025 13:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUDMYR=X",
+            "stock_ticker": "HAS",
             "impact": "Neutral"
         },
         {
             "title": "‘I’m a big fan of DIY investing’: I’m 64 and moving to the U.S. I have $2.6 million, but no Social Security. Will I be OK?",
             "link": "https://www.marketwatch.com/story/im-a-big-fan-of-diy-investing-im-64-and-moving-to-the-u-s-i-have-2-6-million-but-no-social-security-will-i-be-ok-75afd5d9?mod=mw_rss_topstories",
             "summary": "Advisers do well in bull markets and poorly in bear markets. “I generally do better during downturns than the S&amp;P 500.”",
-            "date": "Sun, 16 Nov 2025 03:37:00 GMT",
+            "date": "Mon, 17 Nov 2025 12:46:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +86,39 @@
             "impact": "Bearish"
         },
         {
-            "title": "I’m 51, married and pay $200 a month for a $1.5 million term life insurance policy. When should I cancel it?",
-            "link": "https://www.marketwatch.com/story/im-51-married-and-pay-200-a-month-for-a-1-5-million-term-life-insurance-policy-when-should-i-cancel-it-fd4fc019?mod=mw_rss_topstories",
-            "summary": "“I am five years from financial independence,” he says. “I’m five years away from being financially independent.”",
-            "date": "Sun, 16 Nov 2025 03:37:00 GMT",
+            "title": "Morgan Stanley hikes S&P 500 target for next year. Here are the plays to make.",
+            "link": "https://www.marketwatch.com/story/morgan-stanley-hikes-s-p-500-target-for-next-year-here-are-the-plays-to-make-388cad9a?mod=mw_rss_topstories",
+            "summary": " of earnings growth and an accommodative Fed will support market multiples, says Mike Wilson. Earnings growth and a accommodativeFed will supportMarket multiples says Wilson.",
+            "date": "Mon, 17 Nov 2025 12:44:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "JPM",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Peter Thiel follows SoftBank in quitting Nvidia position as talk of AI bubble intensifies",
+            "link": "https://www.marketwatch.com/story/first-softbank-and-now-peter-thiel-dumps-nvidia-position-as-talk-of-ai-bubble-intensifies-06d184b4?mod=mw_rss_topstories",
+            "summary": "A week after Japan’s richest man disclosed that his firm fully divested his $5.8 billion stake in Nvidia, one of America's richest, Peter Thiel, has said he's done the same.",
+            "date": "Mon, 17 Nov 2025 12:43:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PWR.AX",
             "impact": "Neutral"
         },
         {
-            "title": "I have a $10K expense. Do I withdraw money from my investments or my high-yield savings account?",
-            "link": "https://www.marketwatch.com/story/i-have-a-10k-expense-do-i-withdraw-money-from-my-investments-or-my-high-yield-savings-account-d1d871db?mod=mw_rss_topstories",
-            "summary": "“It will likely take me about a year to replace the $10,000,” he says. “It’s a lot of money.”",
-            "date": "Sun, 16 Nov 2025 00:33:00 GMT",
+            "title": "Alphabet’s stock gets a Buffett bump. Here’s the next big Google catalyst.",
+            "link": "https://www.marketwatch.com/story/alphabets-stock-gets-a-buffett-bump-heres-the-next-big-google-catalyst-c4dd2ed4?mod=mw_rss_topstories",
+            "summary": "Google's Gemini 3.0 could advance the company's AI positioning. Anticipation is building for the release of Google's new AI software.",
+            "date": "Mon, 17 Nov 2025 12:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "SENS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "What’s the true price of Thanksgiving? Trump says groceries are getting cheaper, but many Americans are still concerned about costs.",
-            "link": "https://www.marketwatch.com/story/trump-says-thanksgiving-is-cheaper-this-year-but-some-people-are-spending-hundreds-on-turkey-travel-and-more-fcd958de?mod=mw_rss_topstories",
-            "summary": "A new survey finds Americans expect to spend $175 on food and as much as $952 overall on this Thanksgiving, including turkey, travel and decor.",
-            "date": "Sun, 16 Nov 2025 00:28:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BD0.F",
             "impact": "Neutral"
         }
     ]
