@@ -1,124 +1,124 @@
 {
-    "date": "2025-11-19",
+    "date": "2025-11-20",
     "news": [
         {
-            "title": "Target cuts profit outlook as shoppers look for deals, make fewer store trips",
-            "link": "https://www.cnbc.com/2025/11/19/target-tgt-q3-2025-earnings.html",
-            "summary": "Target is trying to snap an approximately four-year sales slump. Target is gearing up for the holidays and trying to snaps an approximately three-year slump.",
-            "date": "Wed, 19 Nov 2025 12:55:55 GMT",
+            "title": "The September jobs report is finally coming out Thursday. Here's what it is expected to show",
+            "link": "https://www.cnbc.com/2025/11/19/the-september-jobs-report-is-finally-coming-out-thursday-what-it-may-show.html",
+            "summary": "The jobs report is due at 8:30 a.m. ET. It is forecast to show a gain of 50,000 jobs in the public and private sectors.",
+            "date": "Wed, 19 Nov 2025 20:49:40 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TGT",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Mortgage rates hit highest level in a month, pushing loan demand down 5%",
-            "link": "https://www.cnbc.com/2025/11/19/mortgage-rates-hit-highest-level-in-a-month-pushing-loan-demand-down-5percent.html",
-            "summary": "Mortgage rates rose to the highest level in a month last week, causing demand for home loans to drop. Demand, however, is still higher than a year ago.",
-            "date": "Wed, 19 Nov 2025 13:12:47 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FNMA",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "Larry Summers resigns from OpenAI board after release of emails with Epstein",
-            "link": "https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html",
-            "summary": "Details about Summers' communications with sex offender Jeffrey Epstein were made public last week. Summers was married to Epstein for more than a decade. The couple had three children together.",
-            "date": "Wed, 19 Nov 2025 12:51:29 GMT",
+            "title": "Walmart hikes sales and earnings forecast as it attracts shoppers across incomes",
+            "link": "https://www.cnbc.com/2025/11/20/walmart-wmt-q3-2026-earnings.html",
+            "summary": "Walmart may offer the clearest snapshot of U.S. consumer health so far this retail earnings season. Walmart caters to shoppers across incomes.",
+            "date": "Thu, 20 Nov 2025 13:19:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LARRY37645-USD",
+            "stock_ticker": "WMT",
             "impact": "Neutral"
         },
         {
-            "title": "Dutch halt state intervention at Chinese-owned chipmaker Nexperia, paving way for exports to resume",
-            "link": "https://www.cnbc.com/2025/11/19/nexperia-dutch-government-suspends-intervention-at-chinese-chipmaker.html",
-            "summary": "The development appears to bring an end to a bitter dispute between the Netherlands and China. The development is expected to be completed by the end of the year.",
-            "date": "Wed, 19 Nov 2025 11:27:38 GMT",
+            "title": "Nvidia stock pops 5% in premarket trading after stronger-than-expected results",
+            "link": "https://www.cnbc.com/2025/11/20/nvidia-shares-rise-after-after-stronger-than-expected-3q-results.html",
+            "summary": "The AI chipmaker's strong quarterly earnings have boosted global AI stocks. The chipmaker is one of the biggest names in the field of artificial intelligence.",
+            "date": "Thu, 20 Nov 2025 10:14:23 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TTF=F",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "Trump calls for ABC's license to be revoked after reporter asks about Jeffrey Epstein files",
-            "link": "https://www.cnbc.com/2025/11/18/trump-epstein-files-abc-license.html",
-            "summary": "Trump insulted ABC News reporter Mary Bruce days after telling a female reporter to be \"quiet, piggy\" when she asked about Jeffrey Epstein.",
-            "date": "Tue, 18 Nov 2025 22:13:07 GMT",
+            "title": "Ukraine under pressure amid reports Russia and U.S. have devised a secret peace plan",
+            "link": "https://www.cnbc.com/2025/11/20/tensions-in-ukraine-amid-reports-that-russia-and-us-have-peace-plan.html",
+            "summary": "Senior U.S. military officials are in Ukraine on Thursday. Reports emerged that Washington and Moscow had devised a secret 28-point peace plan.",
+            "date": "Thu, 20 Nov 2025 10:14:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "DE000SL0P475.SG",
             "impact": "Neutral"
         },
         {
-            "title": "Roth conversions will bring my income up to $400K. I’m 68. How much should I move over?",
-            "link": "https://www.marketwatch.com/story/roth-conversions-will-bring-my-income-up-to-400k-im-68-how-much-should-i-move-over-29837257?mod=mw_rss_topstories",
-            "summary": "”I know all about taxes, Medicare, growth rate, inflation, Roth conversions, etc.,” he said. ”I’m a tax expert. I know all.”",
-            "date": "Wed, 19 Nov 2025 13:00:00 GMT",
+            "title": "Self-storage real estate has ‘close to zero’ correlation to the broader economy. That's a good thing",
+            "link": "https://www.cnbc.com/2025/11/20/self-storage-real-estate-sector-opportunity.html",
+            "summary": "Over the last 15 years, self-storage has outperformed industrial, multifamily, office and retail in net operating income, a new Heitman report says.",
+            "date": "Thu, 20 Nov 2025 13:10:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ROTH",
+            "stock_ticker": "S8V.F",
             "impact": "Neutral"
         },
         {
-            "title": "T-bill and chill: Robinhood CIO on what to do after the selloff and the danger markets are ignoring",
-            "link": "https://www.marketwatch.com/story/t-bill-and-chill-robinhood-cio-on-what-to-do-after-the-selloff-and-the-danger-markets-are-ignoring-7a5e1ade?mod=mw_rss_topstories",
-            "summary": "The best move investors can make right now may be to just ‘sit tight,’ says Robinhood’s CIO Stephanie Guild.",
-            "date": "Wed, 19 Nov 2025 12:54:00 GMT",
+            "title": "This sleeper AI risk for stocks in 2026 has got Wall Street talking over the past few weeks",
+            "link": "https://www.marketwatch.com/story/this-sleeper-ai-risk-for-stocks-in-2026-has-got-wall-street-talking-over-the-past-few-weeks-5a2ea177?mod=mw_rss_topstories",
+            "summary": "A slowdown in corporate buybacks as AI players add debt could steal an important source of demand from the market. The market is expected to grow at around 10 per cent this year.",
+            "date": "Thu, 20 Nov 2025 13:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TBF3=F",
+            "stock_ticker": "THISX",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Why Verizon’s new CEO is cutting 13,000 jobs at the wireless company",
+            "link": "https://www.marketwatch.com/story/why-verizons-new-ceo-is-cutting-13-000-jobs-at-the-wireless-company-5b2d433e?mod=mw_rss_topstories",
+            "summary": "CEO Dan Schulman says layoffs will make Verizon “faster and more focused.” Verizon’s stock has been a major laggard and the company has failed to show annual earnings growth.",
+            "date": "Thu, 20 Nov 2025 13:07:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "3823.T",
             "impact": "Neutral"
         },
         {
-            "title": "I’m 27. I earn $105K and my boyfriend, 28, earns $63K. What percentage of our rent should I be paying?",
-            "link": "https://www.marketwatch.com/story/im-27-i-earn-105k-and-my-boyfriend-28-earns-63k-what-percentage-of-our-rent-should-i-be-paying-b4d1d610?mod=mw_rss_topstories",
-            "summary": "“He doesn’t have a lot of savings because of his lower income and student-loan payments,” she says.",
-            "date": "Wed, 19 Nov 2025 12:30:00 GMT",
+            "title": "The war’s not over: JPMorgan says investors were too quick to sell Europe defense stocks on hopes of Ukraine peace",
+            "link": "https://www.marketwatch.com/story/the-wars-not-over-jpmorgan-says-investors-were-too-quick-to-sell-europe-defense-stocks-on-hopes-of-ukraine-peace-0205739a?mod=mw_rss_topstories",
+            "summary": "The war in Ukraine has catalyzed a dramatic rerating of defense stocks in Europe. Defense stocks are up more than 10 per cent since the start of the year.",
+            "date": "Thu, 20 Nov 2025 12:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "Target sales disappoint as store traffic and spending decline",
-            "link": "https://www.marketwatch.com/story/target-sales-disappoint-as-store-traffic-and-spending-decline-5e1f8efa?mod=mw_rss_topstories",
-            "summary": "Target’s stock was falling as profit beat expectations, but the full-year outlook was trimmed. Comparable sales declined for a third consecutive quarter.",
-            "date": "Wed, 19 Nov 2025 12:25:00 GMT",
+            "title": "Walmart’s stock falls as disappointing Sam’s Club sales mar an otherwise upbeat report",
+            "link": "https://www.marketwatch.com/story/walmarts-stock-falls-as-disappointing-sams-club-sales-mar-an-otherwise-upbeat-report-461eea76?mod=mw_rss_topstories",
+            "summary": "Sales at Sam’s Club stores open more than a year rose less than Wall Street had expected. When rival Costco last reported, the average person was spending less than ayear earlier.",
+            "date": "Thu, 20 Nov 2025 12:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TGT",
+            "stock_ticker": "SENS",
             "impact": "Neutral"
         },
         {
-            "title": "Lowe’s delivers an earnings beat, and tops Home Depot on a key sales metric",
-            "link": "https://www.marketwatch.com/story/lowes-bests-home-depot-on-a-key-sales-metric-and-with-an-earnings-beat-bfc69c4f?mod=mw_rss_topstories",
-            "summary": "Lowe’s stock bounces after comparable-sales growth missed expectations but outpaced that of its key rival, as profit beat expectations.",
-            "date": "Wed, 19 Nov 2025 12:18:00 GMT",
+            "title": "Small stocks haven’t beaten large caps in more than two decades — but they’re trying",
+            "link": "https://www.marketwatch.com/story/small-stocks-havent-beaten-large-caps-in-more-than-two-decades-but-theyre-trying-984cf9ff?mod=mw_rss_topstories",
+            "summary": "Odds are against small caps after long stretches where they’ve lagged behind. Odds of a small team making it to the World Cup are slim to none.",
+            "date": "Thu, 20 Nov 2025 12:49:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LOW",
+            "stock_ticker": "SMC=F",
             "impact": "Neutral"
         }
     ]
