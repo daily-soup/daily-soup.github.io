@@ -1,124 +1,124 @@
 {
-    "date": "2025-11-20",
+    "date": "2025-11-21",
     "news": [
         {
-            "title": "The September jobs report is finally coming out Thursday. Here's what it is expected to show",
-            "link": "https://www.cnbc.com/2025/11/19/the-september-jobs-report-is-finally-coming-out-thursday-what-it-may-show.html",
-            "summary": "The jobs report is due at 8:30 a.m. ET. It is forecast to show a gain of 50,000 jobs in the public and private sectors.",
-            "date": "Wed, 19 Nov 2025 20:49:40 GMT",
+            "title": "New York Fed President Williams sees room for 'further adjustment' to rates",
+            "link": "https://www.cnbc.com/2025/11/21/new-york-fed-president-williams-sees-room-for-further-adjustment-to-rates.html",
+            "summary": "Williams said he expects the central bank can lower its key  rate from here. He said labor market weakness poses a bigger threat than inflation.",
+            "date": "Fri, 21 Nov 2025 13:18:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "NYM=F",
             "impact": "Neutral"
         },
         {
-            "title": "Walmart hikes sales and earnings forecast as it attracts shoppers across incomes",
-            "link": "https://www.cnbc.com/2025/11/20/walmart-wmt-q3-2026-earnings.html",
-            "summary": "Walmart may offer the clearest snapshot of U.S. consumer health so far this retail earnings season. Walmart caters to shoppers across incomes.",
-            "date": "Thu, 20 Nov 2025 13:19:15 GMT",
+            "title": "Amazon cut thousands of engineers in its record layoffs, despite saying it needs to innovate faster",
+            "link": "https://www.cnbc.com/2025/11/21/amazon-cut-thousands-of-engineers-in-its-record-layoffs-filings-show.html",
+            "summary": "Nearly 40% of the roughly 4,700 positions Amazon eliminated across Washington, New York, New Jersey and California were engineering jobs. The company eliminated the jobs in Washington, N.Y. and New Jersey.",
+            "date": "Fri, 21 Nov 2025 12:45:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WMT",
+            "stock_ticker": "AMZN",
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia stock pops 5% in premarket trading after stronger-than-expected results",
-            "link": "https://www.cnbc.com/2025/11/20/nvidia-shares-rise-after-after-stronger-than-expected-3q-results.html",
-            "summary": "The AI chipmaker's strong quarterly earnings have boosted global AI stocks. The chipmaker is one of the biggest names in the field of artificial intelligence.",
-            "date": "Thu, 20 Nov 2025 10:14:23 GMT",
+            "title": "Google must double AI compute every 6 months to meet demand, AI infrastructure boss tells employees",
+            "link": "https://www.cnbc.com/2025/11/21/google-says-it-must-double-ai-compute-every-6-months-to-meet-demand.html",
+            "summary": "Google's head of AI infrastructure said the company has to race to build out compute capacity. At a recent all-hands meeting, Google's chief of AI Infrastructure said the firm was racing to get ahead of the competition.",
+            "date": "Fri, 21 Nov 2025 13:18:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "GOOG",
             "impact": "Neutral"
         },
         {
-            "title": "Ukraine under pressure amid reports Russia and U.S. have devised a secret peace plan",
-            "link": "https://www.cnbc.com/2025/11/20/tensions-in-ukraine-amid-reports-that-russia-and-us-have-peace-plan.html",
-            "summary": "Senior U.S. military officials are in Ukraine on Thursday. Reports emerged that Washington and Moscow had devised a secret 28-point peace plan.",
-            "date": "Thu, 20 Nov 2025 10:14:15 GMT",
+            "title": "Oil prices and energy stocks fall sharply on Trump’s new Ukraine peace plan",
+            "link": "https://www.cnbc.com/2025/11/21/oil-prices-energy-stocks-in-focus-amid-trumps-new-ukraine-peace-plan.html",
+            "summary": "Oil prices and energy stocks fell sharply on Friday morning. The U.S. pushed for a Russia-Ukraine peace deal. The deal is expected to be reached in the coming days.",
+            "date": "Fri, 21 Nov 2025 12:06:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DE000SL0P475.SG",
+            "stock_ticker": "CL=F",
             "impact": "Neutral"
         },
         {
-            "title": "Self-storage real estate has ‘close to zero’ correlation to the broader economy. That's a good thing",
-            "link": "https://www.cnbc.com/2025/11/20/self-storage-real-estate-sector-opportunity.html",
-            "summary": "Over the last 15 years, self-storage has outperformed industrial, multifamily, office and retail in net operating income, a new Heitman report says.",
-            "date": "Thu, 20 Nov 2025 13:10:22 GMT",
+            "title": "Gap comparable sales surge after viral 'Milkshake' denim ad with Katseye",
+            "link": "https://www.cnbc.com/2025/11/20/gap-q3-2025-earnings.html",
+            "summary": "Gap, which owns Banana Republic, Old Navy, Athleta and its namesake banner, saw comparable sales rise 5% during the quarter.",
+            "date": "Thu, 20 Nov 2025 21:23:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "S8V.F",
+            "stock_ticker": "GAP",
             "impact": "Neutral"
         },
         {
-            "title": "This sleeper AI risk for stocks in 2026 has got Wall Street talking over the past few weeks",
-            "link": "https://www.marketwatch.com/story/this-sleeper-ai-risk-for-stocks-in-2026-has-got-wall-street-talking-over-the-past-few-weeks-5a2ea177?mod=mw_rss_topstories",
-            "summary": "A slowdown in corporate buybacks as AI players add debt could steal an important source of demand from the market. The market is expected to grow at around 10 per cent this year.",
-            "date": "Thu, 20 Nov 2025 13:13:00 GMT",
+            "title": "China controls this key resource AI needs — threatening stocks and the U.S. economy",
+            "link": "https://www.marketwatch.com/story/china-controls-this-key-resource-ai-needs-threatening-stocks-and-the-u-s-economy-8f5f9f62?mod=mw_rss_topstories",
+            "summary": "The U.S. relies on rare-earth elements to grow its infrastructure. AI relies on technology to grow GDP. AI can also be used to improve the quality of life.",
+            "date": "Fri, 21 Nov 2025 13:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Why Verizon’s new CEO is cutting 13,000 jobs at the wireless company",
-            "link": "https://www.marketwatch.com/story/why-verizons-new-ceo-is-cutting-13-000-jobs-at-the-wireless-company-5b2d433e?mod=mw_rss_topstories",
-            "summary": "CEO Dan Schulman says layoffs will make Verizon “faster and more focused.” Verizon’s stock has been a major laggard and the company has failed to show annual earnings growth.",
-            "date": "Thu, 20 Nov 2025 13:07:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "3823.T",
+            "stock_ticker": "CHH=F",
             "impact": "Neutral"
         },
         {
-            "title": "The war’s not over: JPMorgan says investors were too quick to sell Europe defense stocks on hopes of Ukraine peace",
-            "link": "https://www.marketwatch.com/story/the-wars-not-over-jpmorgan-says-investors-were-too-quick-to-sell-europe-defense-stocks-on-hopes-of-ukraine-peace-0205739a?mod=mw_rss_topstories",
-            "summary": "The war in Ukraine has catalyzed a dramatic rerating of defense stocks in Europe. Defense stocks are up more than 10 per cent since the start of the year.",
-            "date": "Thu, 20 Nov 2025 12:58:00 GMT",
+            "title": "As AI angst hits markets, this stock — not Nvidia — is the canary in the coal mine",
+            "link": "https://www.marketwatch.com/story/as-ai-angst-hits-markets-this-stock-not-nvidia-is-the-canary-in-the-coalmine-5073e840?mod=mw_rss_topstories",
+            "summary": "There’s a way to keep an eye on how the market is valuing OpenAI, according to Citi. OpenAI is an artificial intelligence company.",
+            "date": "Fri, 21 Nov 2025 12:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "AS",
             "impact": "Neutral"
         },
         {
-            "title": "Walmart’s stock falls as disappointing Sam’s Club sales mar an otherwise upbeat report",
-            "link": "https://www.marketwatch.com/story/walmarts-stock-falls-as-disappointing-sams-club-sales-mar-an-otherwise-upbeat-report-461eea76?mod=mw_rss_topstories",
-            "summary": "Sales at Sam’s Club stores open more than a year rose less than Wall Street had expected. When rival Costco last reported, the average person was spending less than ayear earlier.",
-            "date": "Thu, 20 Nov 2025 12:55:00 GMT",
+            "title": "Liz Truss redux? Simultaneous drop for Japanese currency and bonds draws eerie parallels",
+            "link": "https://www.marketwatch.com/story/strategist-warns-of-capital-flight-risk-from-japan-drawing-parallels-with-liz-truss-era-4b06e36e?mod=mw_rss_topstories",
+            "summary": "New Japanese Prime Minister Sanae Takaichi differs from Truss in that she wants to spend rather than cut taxes. But both plans amount to aggressive fiscal stimulus, says Deutsche Bank.",
+            "date": "Fri, 21 Nov 2025 12:18:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SENS",
+            "stock_ticker": "LCG.VN",
             "impact": "Neutral"
         },
         {
-            "title": "Small stocks haven’t beaten large caps in more than two decades — but they’re trying",
-            "link": "https://www.marketwatch.com/story/small-stocks-havent-beaten-large-caps-in-more-than-two-decades-but-theyre-trying-984cf9ff?mod=mw_rss_topstories",
-            "summary": "Odds are against small caps after long stretches where they’ve lagged behind. Odds of a small team making it to the World Cup are slim to none.",
-            "date": "Thu, 20 Nov 2025 12:49:00 GMT",
+            "title": "BJ’s Wholesale’s keeps beating profit views and the stock rises, even as sales growth disappoints",
+            "link": "https://www.marketwatch.com/story/bjs-wholesales-keeps-beating-profit-views-and-the-stock-rises-even-as-sales-growth-disappoints-d2298287?mod=mw_rss_topstories",
+            "summary": "BJ's Wholesale's stock gains after profit beat expectations. Full-year outlook was raised again, to offset disappointing growth in a key sales metric.",
+            "date": "Fri, 21 Nov 2025 12:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SMC=F",
+            "stock_ticker": "BJ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bitcoin falls below $82,000 as selling isn’t letting up. Here’s why stock-market investors are keeping close watch.",
+            "link": "https://www.marketwatch.com/story/bitcoin-falls-below-82-000-as-selling-isnt-letting-up-heres-why-stock-market-investors-are-keeping-close-watch-acbece69?mod=mw_rss_topstories",
+            "summary": "Some say the selling, which could drag stocks with it, has more to go. Bitcoin prices were pushing into fresh April lows on Friday.",
+            "date": "Fri, 21 Nov 2025 11:42:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BTC=F",
             "impact": "Neutral"
         }
     ]
