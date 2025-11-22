@@ -1,124 +1,124 @@
 {
-    "date": "2025-11-21",
+    "date": "2025-11-22",
     "news": [
         {
-            "title": "New York Fed President Williams sees room for 'further adjustment' to rates",
-            "link": "https://www.cnbc.com/2025/11/21/new-york-fed-president-williams-sees-room-for-further-adjustment-to-rates.html",
-            "summary": "Williams said he expects the central bank can lower its key  rate from here. He said labor market weakness poses a bigger threat than inflation.",
-            "date": "Fri, 21 Nov 2025 13:18:12 GMT",
+            "title": "Rep. Marjorie Taylor Greene will resign after fallout with Trump",
+            "link": "https://www.cnbc.com/2025/11/21/marjorie-taylor-greene-resign-trump-epstein-mtg.html",
+            "summary": "Rep. Marjorie Taylor Greene supported a bill compelling the release of the Jeffrey Epstein files by the DOJ. Greene's support put her on the bad side of President Trump.",
+            "date": "Sat, 22 Nov 2025 05:19:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NYM=F",
+            "stock_ticker": "ORI",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Does Berkshire's big tech bet signal a new risk tolerance in Omaha?",
+            "link": "https://www.cnbc.com/2025/11/22/does-berkshires-big-tech-bet-signal-a-new-risk-tolerance-in-omaha.html",
+            "summary": "Berkshire Hathaway's purchase of Alphabet shares may signal a new acceptance of greater risk for greater reward. Berkshire Hathaway may be willing to take on more risk for more reward.",
+            "date": "Sat, 22 Nov 2025 12:50:25 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BBAI",
             "impact": "Neutral"
         },
         {
-            "title": "Amazon cut thousands of engineers in its record layoffs, despite saying it needs to innovate faster",
-            "link": "https://www.cnbc.com/2025/11/21/amazon-cut-thousands-of-engineers-in-its-record-layoffs-filings-show.html",
-            "summary": "Nearly 40% of the roughly 4,700 positions Amazon eliminated across Washington, New York, New Jersey and California were engineering jobs. The company eliminated the jobs in Washington, N.Y. and New Jersey.",
-            "date": "Fri, 21 Nov 2025 12:45:31 GMT",
+            "title": "Texas data center expansion raises blackout risk during extreme winter weather",
+            "link": "https://www.cnbc.com/2025/11/22/texas-data-center-ai-ercot-blackout-power-outage.html",
+            "summary": "Texas' supply and demand balance can become tight during winter and potentially fall into deficit as data center demand grows. Texas is home to more data centers than any other U.S. state.",
+            "date": "Sat, 22 Nov 2025 13:10:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMZN",
+            "stock_ticker": "TXN",
+            "impact": "Bullish"
+        },
+        {
+            "title": "This week in AI: Brushing off new bubble warnings, Google’s AI comeback and Nvidia’s China threat",
+            "link": "https://www.cnbc.com/2025/11/22/new-ai-bubble-warnings-googles-comeback-and-nvidias-china-threat.html",
+            "summary": " volatility took hold of the AI trade as bubble fears continued and Nvidia’s blowout earnings failed to steady the market. Deirdre Bosa has the story.",
+            "date": "Sat, 22 Nov 2025 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         },
         {
-            "title": "Google must double AI compute every 6 months to meet demand, AI infrastructure boss tells employees",
-            "link": "https://www.cnbc.com/2025/11/21/google-says-it-must-double-ai-compute-every-6-months-to-meet-demand.html",
-            "summary": "Google's head of AI infrastructure said the company has to race to build out compute capacity. At a recent all-hands meeting, Google's chief of AI Infrastructure said the firm was racing to get ahead of the competition.",
-            "date": "Fri, 21 Nov 2025 13:18:28 GMT",
+            "title": "Trump claims California's $20 fast-food minimum wage hurts businesses. The truth is a lot more complicated",
+            "link": "https://www.cnbc.com/2025/11/22/trump-california-20-fast-food-minimum-wage.html",
+            "summary": "The restaurant industry predicted disaster after California instituted a $20 minimum wage for fast-food workers. But data shows that hasn't happened, according to a new report.",
+            "date": "Sat, 22 Nov 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOOG",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Oil prices and energy stocks fall sharply on Trump’s new Ukraine peace plan",
-            "link": "https://www.cnbc.com/2025/11/21/oil-prices-energy-stocks-in-focus-amid-trumps-new-ukraine-peace-plan.html",
-            "summary": "Oil prices and energy stocks fell sharply on Friday morning. The U.S. pushed for a Russia-Ukraine peace deal. The deal is expected to be reached in the coming days.",
-            "date": "Fri, 21 Nov 2025 12:06:24 GMT",
+            "title": "At Thanksgiving, how awful do your relatives need to be for you to pay for a hotel room?",
+            "link": "https://www.marketwatch.com/story/at-thanksgiving-how-awful-do-your-relatives-need-to-be-for-you-to-pay-for-a-hotel-room-19dc4136?mod=mw_rss_topstories",
+            "summary": "Americans are looking to trim travel costs this holiday season. As economists warn that the cost-of-living crunch may worsen, Americans are looking for ways to cut costs.",
+            "date": "Sat, 22 Nov 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "T",
             "impact": "Neutral"
         },
         {
-            "title": "Gap comparable sales surge after viral 'Milkshake' denim ad with Katseye",
-            "link": "https://www.cnbc.com/2025/11/20/gap-q3-2025-earnings.html",
-            "summary": "Gap, which owns Banana Republic, Old Navy, Athleta and its namesake banner, saw comparable sales rise 5% during the quarter.",
-            "date": "Thu, 20 Nov 2025 21:23:11 GMT",
+            "title": "These two ‘Magnificent Seven’ stocks could be the strongest survivors of an AI apocalypse",
+            "link": "https://www.marketwatch.com/story/these-two-magnificent-seven-stocks-could-be-the-strongest-survivors-of-an-ai-apocalypse-d7169fad?mod=mw_rss_topstories",
+            "summary": "The recent tech selloff has rewarded Google and Apple’s AI strategies while punishing other Big Tech players. The recent tech market has rewarded Apple and Google for their AI strategies.",
+            "date": "Sat, 22 Nov 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GAP",
+            "stock_ticker": "TWO",
             "impact": "Neutral"
         },
         {
-            "title": "China controls this key resource AI needs — threatening stocks and the U.S. economy",
-            "link": "https://www.marketwatch.com/story/china-controls-this-key-resource-ai-needs-threatening-stocks-and-the-u-s-economy-8f5f9f62?mod=mw_rss_topstories",
-            "summary": "The U.S. relies on rare-earth elements to grow its infrastructure. AI relies on technology to grow GDP. AI can also be used to improve the quality of life.",
-            "date": "Fri, 21 Nov 2025 13:05:00 GMT",
+            "title": "A Fed rate cut next month seemed doubtful. Here’s why it’s now likely to happen.",
+            "link": "https://www.marketwatch.com/story/a-fed-rate-cut-next-month-seemed-doubtful-heres-why-its-now-likely-to-happen-d9738dac?mod=mw_rss_topstories",
+            "summary": " opinions are coalescing behind a third interest-rate cut in succession. Despite dramatic differences among Fed officials, opinions are converging behind a cut.",
+            "date": "Sat, 22 Nov 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHH=F",
+            "stock_ticker": "A",
             "impact": "Neutral"
         },
         {
-            "title": "As AI angst hits markets, this stock — not Nvidia — is the canary in the coal mine",
-            "link": "https://www.marketwatch.com/story/as-ai-angst-hits-markets-this-stock-not-nvidia-is-the-canary-in-the-coalmine-5073e840?mod=mw_rss_topstories",
-            "summary": "There’s a way to keep an eye on how the market is valuing OpenAI, according to Citi. OpenAI is an artificial intelligence company.",
-            "date": "Fri, 21 Nov 2025 12:40:00 GMT",
+            "title": "‘Our mom is fuming’: Defying our dying mother’s wishes, our dad is leaving our family’s money to his church. How do we stop him?",
+            "link": "https://www.marketwatch.com/story/this-is-not-a-money-grab-against-our-moms-wishes-our-father-is-leaving-their-estate-to-his-church-how-do-we-stop-him-c10e9fe6?mod=mw_rss_topstories",
+            "summary": "“This is not a money grab on our part,” he says. “We’re not trying to make money.”",
+            "date": "Fri, 21 Nov 2025 22:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AS",
+            "stock_ticker": "OURLIV.ST",
             "impact": "Neutral"
         },
         {
-            "title": "Liz Truss redux? Simultaneous drop for Japanese currency and bonds draws eerie parallels",
-            "link": "https://www.marketwatch.com/story/strategist-warns-of-capital-flight-risk-from-japan-drawing-parallels-with-liz-truss-era-4b06e36e?mod=mw_rss_topstories",
-            "summary": "New Japanese Prime Minister Sanae Takaichi differs from Truss in that she wants to spend rather than cut taxes. But both plans amount to aggressive fiscal stimulus, says Deutsche Bank.",
-            "date": "Fri, 21 Nov 2025 12:18:00 GMT",
+            "title": "‘He lived alone in Section 8 housing’: My late uncle’s landlord disposed of his art collection. What can we do?",
+            "link": "https://www.marketwatch.com/story/he-lived-alone-in-section-8-housing-my-late-uncles-landlord-disposed-of-his-art-collection-what-can-we-do-a4ac6a23?mod=mw_rss_topstories",
+            "summary": "“The management company said they would store his belongings,” his daughter says. “The manager said they’d take care of his belongings.”",
+            "date": "Fri, 21 Nov 2025 22:35:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LCG.VN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "BJ’s Wholesale’s keeps beating profit views and the stock rises, even as sales growth disappoints",
-            "link": "https://www.marketwatch.com/story/bjs-wholesales-keeps-beating-profit-views-and-the-stock-rises-even-as-sales-growth-disappoints-d2298287?mod=mw_rss_topstories",
-            "summary": "BJ's Wholesale's stock gains after profit beat expectations. Full-year outlook was raised again, to offset disappointing growth in a key sales metric.",
-            "date": "Fri, 21 Nov 2025 12:16:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BJ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Bitcoin falls below $82,000 as selling isn’t letting up. Here’s why stock-market investors are keeping close watch.",
-            "link": "https://www.marketwatch.com/story/bitcoin-falls-below-82-000-as-selling-isnt-letting-up-heres-why-stock-market-investors-are-keeping-close-watch-acbece69?mod=mw_rss_topstories",
-            "summary": "Some say the selling, which could drag stocks with it, has more to go. Bitcoin prices were pushing into fresh April lows on Friday.",
-            "date": "Fri, 21 Nov 2025 11:42:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BTC=F",
+            "stock_ticker": "HE",
             "impact": "Neutral"
         }
     ]
