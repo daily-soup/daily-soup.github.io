@@ -1,95 +1,59 @@
 {
-    "date": "2025-11-23",
+    "date": "2025-11-24",
     "news": [
         {
-            "title": "Microsoft faces uphill climb to turn enterprise dominance into widespread AI chatbot adoption",
-            "link": "https://www.cnbc.com/2025/11/23/microsoft-faces-uphill-climb-to-win-in-ai-chatbots-with-copilot.html",
-            "summary": "IT buyers explain why Microsoft isn't seeing runaway success with its Copilot AI assistant. At Microsoft's annual Ignite conference this week, IT buyers explained why.",
-            "date": "Sun, 23 Nov 2025 13:00:01 GMT",
+            "title": "Novo Nordisk shares plunge 9% after Alzheimer's drug trial fails to hit key target",
+            "link": "https://www.cnbc.com/2025/11/24/novo-nordisk-shares-plunge-after-alzheimers-drug-trial-fails-to-hit-key-target.html",
+            "summary": "Novo Nordisk shares plunged after the Danish drug pharmaceutical company said a highly-anticipated trial for Alzheimer's disease failed to meet its main goal.",
+            "date": "Mon, 24 Nov 2025 12:17:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MSFT",
+            "stock_ticker": "NVO",
             "impact": "Neutral"
         },
         {
-            "title": "'Stakes are high.' With shutdown over, airlines predict record numbers of travelers this Thanksgiving",
-            "link": "https://www.cnbc.com/2025/11/23/thanksgiving-air-travel-after-shutdown.html",
-            "summary": "Airline executives are hoping for a smooth Thanksgiving after a rocky fall because of the government shutdown. Airline executives hope for a smoother Thanksgiving after rocky fall due to the shutdown.",
-            "date": "Sun, 23 Nov 2025 13:00:01 GMT",
+            "title": "Ukraine desperate to keep Trump on its side in peace talks, while saving its sovereignty",
+            "link": "https://www.cnbc.com/2025/11/24/ukraine-desperate-to-keep-trump-sweet-while-saving-its-sovereignty.html",
+            "summary": "Talks between U.S. and Ukrainian officials were held this weekend. It emerged that Russia and the White House had secretly devised a peace plan.",
+            "date": "Mon, 24 Nov 2025 12:08:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "STO32194-USD",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Texas data center expansion raises blackout risk during extreme winter weather",
-            "link": "https://www.cnbc.com/2025/11/22/texas-data-center-ai-ercot-blackout-power-outage.html",
-            "summary": "Texas' supply and demand balance can become tight during winter and potentially fall into deficit as data center demand grows. Texas is home to more data centers than any other U.S. state.",
-            "date": "Sat, 22 Nov 2025 13:10:26 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TXN",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Top Wall Street analysts favor these 3 stocks for solid upside potential",
-            "link": "https://www.cnbc.com/2025/11/23/top-wall-street-analysts-favor-these-3-stocks-for-solid-upside.html",
-            "summary": "TipRanks' ranking service discusses three stocks favored by Wall Street. Microsoft and Booking Holdings are two of the three stocks discussed.",
-            "date": "Sun, 23 Nov 2025 12:16:42 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "DE000SL0P475.SG",
             "impact": "Neutral"
         },
         {
-            "title": "College grads face one of the toughest job markets in a decade — 'Right now is a really difficult time to find a job,' expert says",
-            "link": "https://www.cnbc.com/2025/11/23/college-graduates-are-struggling-to-find-jobs-ai-is-partly-to-blame.html",
-            "summary": "This year, those armed with a newly minted diploma face one of the toughest job markets in a decade. This year, the U.S. is expected to have one of its highest unemployment rates in years.",
-            "date": "Sun, 23 Nov 2025 13:00:01 GMT",
+            "title": "How Alibaba overcame Beijing's crackdown to become an AI giant",
+            "link": "https://www.cnbc.com/2025/11/24/how-alibaba-overcame-beijings-crackdown-to-become-an-ai-giant.html",
+            "summary": "The Alibaba empire was once under intense scrutiny from Beijing and competition from rivals. Now a big AI bet is helping it stage a revival. The company is now one of the world's biggest online retailers.",
+            "date": "Mon, 24 Nov 2025 13:18:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FAHFX",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "‘We almost lost $10,000’: My late father-in-law’s company claimed his life-insurance policy didn’t exist. It did.",
-            "link": "https://www.marketwatch.com/story/we-almost-lost-10-000-my-late-father-in-laws-company-claimed-his-life-insurance-policy-didnt-exist-it-did-85d02a21?mod=mw_rss_topstories",
-            "summary": "“The company changed names several times, and it was very difficult tracking them down for payment of benefits,” he said. “It’s very difficult to track them down.”",
-            "date": "Sat, 22 Nov 2025 23:19:00 GMT",
+            "title": "Trump administration unresponsive after containership fire, Port of Los Angeles chief says",
+            "link": "https://www.cnbc.com/2025/11/23/trump-port-of-los-angeles-containership-fire.html",
+            "summary": "The head of the Port of Los Angeles has repeatedly asked the Trump administration for help. As a containership continues to burn, the head has asked for help from the White House.",
+            "date": "Mon, 24 Nov 2025 12:32:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFC",
-            "impact": "Bearish"
-        },
-        {
-            "title": "‘My retirement is completely in bitcoin’: Why don’t more people do what I do?",
-            "link": "https://www.marketwatch.com/story/my-retirement-is-completely-in-bitcoin-why-dont-more-people-do-what-i-do-34665250?mod=mw_rss_topstories",
-            "summary": "“I also borrow against bitcoin. What’s the catch?” he asks. “‘I also lend against bitcoin?’’ “I’m like, ‘Yes,’ he says. ‘I do.’ I’ve borrowed against bitcoin, too.”",
-            "date": "Sat, 22 Nov 2025 23:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "‘There’s a lot of tension’: My brother and I manage a $5 million trust. How do we solve our many disagreements?",
-            "link": "https://www.marketwatch.com/story/theres-a-lot-of-tension-my-brother-and-i-manage-a-5-million-trust-how-do-we-solve-our-many-disagreements-20e57138?mod=mw_rss_topstories",
-            "summary": "“We have a good estate attorney, but he just repeats the facts,” she says. “We need someone to help with the feelings”",
-            "date": "Sat, 22 Nov 2025 23:12:00 GMT",
+            "title": "Bessent believes there won't be a recession in 2026 but says some sectors are challenged",
+            "link": "https://www.cnbc.com/2025/11/23/bessent-economy-no-recession-2026.html",
+            "summary": "Treasury Secretary Scott Bessent said the U.S. was not at risk of entering a recession in 2026. He said Americans would soon benefit from Trump's policies.",
+            "date": "Sun, 23 Nov 2025 18:11:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +62,63 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘I’ve always lived hand-to-mouth’: I’m 64. My father left me $400K from his 457(b) plan. My brother is suing me. How can I defend myself?",
-            "link": "https://www.marketwatch.com/story/ive-always-lived-hand-to-mouth-im-64-my-father-left-me-400k-from-his-457-b-plan-my-brother-is-suing-me-how-can-i-defend-myself-706e6c08?mod=mw_rss_topstories",
-            "summary": "“I live off my Social Security of $900 a month,” he says. “I’m very happy. I’ve been through a lot.”",
-            "date": "Sat, 22 Nov 2025 23:09:00 GMT",
+            "title": "Why the real poverty line is $140,000, this strategist argues",
+            "link": "https://www.marketwatch.com/story/why-the-real-poverty-line-is-140-000-this-strategist-argues-f459ed96?mod=mw_rss_topstories",
+            "summary": "A 1963-era calculation no longer makes sense, one strategist says. \"It's time to change the way we look at the world,\" he says.",
+            "date": "Mon, 24 Nov 2025 13:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IVE",
+            "stock_ticker": "3823.T",
             "impact": "Neutral"
         },
         {
-            "title": "Americans’ happiness is at a record low. Are we just using our money the wrong way?",
-            "link": "https://www.marketwatch.com/story/americans-happiness-is-at-a-record-low-or-are-we-just-using-our-money-the-wrong-way-48be7f0e?mod=mw_rss_topstories",
-            "summary": "Fewer than half of Americans say they are financially secure, according to a new survey. The survey also found that Americans are less satisfied with their quality of life.",
-            "date": "Sat, 22 Nov 2025 20:08:00 GMT",
+            "title": "Rebuffed for the second time, BHP walks away from Anglo American, leaving the path clear for $60 billion merger",
+            "link": "https://www.marketwatch.com/story/rebuffed-for-the-second-time-bhp-walks-away-from-anglo-american-leaving-the-path-clear-for-60-billion-merger-1cf82294?mod=mw_rss_topstories",
+            "summary": "BHP made one last-gasp attempt to seduce Anglo but it looks like they have now accepted defeat. BHP tried to make a last-ditch attempt to win back control of the company.",
+            "date": "Mon, 24 Nov 2025 12:54:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "8BI.F",
+            "stock_ticker": "FOR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Is it finally ‘game over’ for AI and Big Tech stocks?",
+            "link": "https://www.marketwatch.com/story/is-it-finally-game-over-for-ai-and-big-tech-stocks-d9b0655c?mod=mw_rss_topstories",
+            "summary": " potential Fed rate cut in December could reignite a 'risk-on' flame. Why the market looks to be in ‘early 1999’",
+            "date": "Mon, 24 Nov 2025 12:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ISKHUX=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Novo Nordisk’s oral GLP-1 drug didn’t work on Alzheimer’s as hoped, and the stock tumbles",
+            "link": "https://www.marketwatch.com/story/novo-nordisks-oral-glp-1-drug-didnt-work-on-alzheimers-as-hoped-and-the-stock-tumbles-76a8d78f?mod=mw_rss_topstories",
+            "summary": "Novo Nordisk's oral GLP-1 drug failed to show much benefit over a placebo against Alzheimer's. Novo Nordisk’s stock tumbles.",
+            "date": "Mon, 24 Nov 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Carvana survived a debt crunch. Can it survive Amazon?",
+            "link": "https://www.marketwatch.com/story/carvana-survived-a-debt-crunch-can-it-survive-amazon-6f1e72cb?mod=mw_rss_topstories",
+            "summary": "Carvana's rebound is facing its biggest test yet: Amazon. Carvana’s stunning rebound is now facing its most difficult test yet.",
+            "date": "Mon, 24 Nov 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CVNA",
             "impact": "Neutral"
         }
     ]
