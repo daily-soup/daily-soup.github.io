@@ -1,59 +1,23 @@
 {
-    "date": "2025-11-24",
+    "date": "2025-11-25",
     "news": [
         {
-            "title": "Novo Nordisk shares plunge 9% after Alzheimer's drug trial fails to hit key target",
-            "link": "https://www.cnbc.com/2025/11/24/novo-nordisk-shares-plunge-after-alzheimers-drug-trial-fails-to-hit-key-target.html",
-            "summary": "Novo Nordisk shares plunged after the Danish drug pharmaceutical company said a highly-anticipated trial for Alzheimer's disease failed to meet its main goal.",
-            "date": "Mon, 24 Nov 2025 12:17:27 GMT",
+            "title": "Dick's Sporting Goods to shutter some Foot Locker stores to protect profits",
+            "link": "https://www.cnbc.com/2025/11/25/dicks-sporting-goods-dks-earnings-q3-2025.html",
+            "summary": "Dick's Sporting Goods acquired Foot Locker for $2.4 billion. To ensure the tie-up doesn't become a drag on profits, the company is shrinking its footprint.",
+            "date": "Tue, 25 Nov 2025 12:20:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVO",
-            "impact": "Neutral"
+            "stock_ticker": "DKS",
+            "impact": "Bullish"
         },
         {
-            "title": "Ukraine desperate to keep Trump on its side in peace talks, while saving its sovereignty",
-            "link": "https://www.cnbc.com/2025/11/24/ukraine-desperate-to-keep-trump-sweet-while-saving-its-sovereignty.html",
-            "summary": "Talks between U.S. and Ukrainian officials were held this weekend. It emerged that Russia and the White House had secretly devised a peace plan.",
-            "date": "Mon, 24 Nov 2025 12:08:28 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DE000SL0P475.SG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How Alibaba overcame Beijing's crackdown to become an AI giant",
-            "link": "https://www.cnbc.com/2025/11/24/how-alibaba-overcame-beijings-crackdown-to-become-an-ai-giant.html",
-            "summary": "The Alibaba empire was once under intense scrutiny from Beijing and competition from rivals. Now a big AI bet is helping it stage a revival. The company is now one of the world's biggest online retailers.",
-            "date": "Mon, 24 Nov 2025 13:18:18 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump administration unresponsive after containership fire, Port of Los Angeles chief says",
-            "link": "https://www.cnbc.com/2025/11/23/trump-port-of-los-angeles-containership-fire.html",
-            "summary": "The head of the Port of Los Angeles has repeatedly asked the Trump administration for help. As a containership continues to burn, the head has asked for help from the White House.",
-            "date": "Mon, 24 Nov 2025 12:32:17 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Bessent believes there won't be a recession in 2026 but says some sectors are challenged",
-            "link": "https://www.cnbc.com/2025/11/23/bessent-economy-no-recession-2026.html",
-            "summary": "Treasury Secretary Scott Bessent said the U.S. was not at risk of entering a recession in 2026. He said Americans would soon benefit from Trump's policies.",
-            "date": "Sun, 23 Nov 2025 18:11:03 GMT",
+            "title": "Bessent says there's a 'very good chance' Trump names new Fed chair before Christmas",
+            "link": "https://www.cnbc.com/2025/11/25/bessent-says-theres-a-very-good-chance-trump-names-new-fed-chair-before-christmas.html",
+            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
+            "date": "Tue, 25 Nov 2025 13:28:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,63 +26,99 @@
             "impact": "Neutral"
         },
         {
-            "title": "Why the real poverty line is $140,000, this strategist argues",
-            "link": "https://www.marketwatch.com/story/why-the-real-poverty-line-is-140-000-this-strategist-argues-f459ed96?mod=mw_rss_topstories",
-            "summary": "A 1963-era calculation no longer makes sense, one strategist says. \"It's time to change the way we look at the world,\" he says.",
-            "date": "Mon, 24 Nov 2025 13:10:00 GMT",
+            "title": "Private payroll losses accelerated in the past four weeks, ADP reports",
+            "link": "https://www.cnbc.com/2025/11/25/private-payroll-losses-accelerated-in-the-past-four-weeks-adp-reports-.html",
+            "summary": "Private companies lost an average of 13,500 jobs a week over the past four weeks, ADP says. ADP: The average loss in jobs was 13,000 a week for four weeks.",
+            "date": "Tue, 25 Nov 2025 13:15:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "3823.T",
+            "stock_ticker": "0P0001EWU5.TO",
             "impact": "Neutral"
         },
         {
-            "title": "Rebuffed for the second time, BHP walks away from Anglo American, leaving the path clear for $60 billion merger",
-            "link": "https://www.marketwatch.com/story/rebuffed-for-the-second-time-bhp-walks-away-from-anglo-american-leaving-the-path-clear-for-60-billion-merger-1cf82294?mod=mw_rss_topstories",
-            "summary": "BHP made one last-gasp attempt to seduce Anglo but it looks like they have now accepted defeat. BHP tried to make a last-ditch attempt to win back control of the company.",
-            "date": "Mon, 24 Nov 2025 12:54:00 GMT",
+            "title": "Nvidia shares fall 3% on report Meta will use Google AI chips",
+            "link": "https://www.cnbc.com/2025/11/25/nvidia-shares-today-google-meta-ai-chip-report.html",
+            "summary": " Meta is reportedly considering using chips designed by Google. Nvidia shares fell on Tuesday after The Information reported that Meta is considering using Google's chips.",
+            "date": "Tue, 25 Nov 2025 12:54:43 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FOR",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "Is it finally ‘game over’ for AI and Big Tech stocks?",
-            "link": "https://www.marketwatch.com/story/is-it-finally-game-over-for-ai-and-big-tech-stocks-d9b0655c?mod=mw_rss_topstories",
-            "summary": " potential Fed rate cut in December could reignite a 'risk-on' flame. Why the market looks to be in ‘early 1999’",
-            "date": "Mon, 24 Nov 2025 12:50:00 GMT",
+            "title": "CNBC's Official NHL Team Valuations 2025: Here's how the 32 franchises stack up",
+            "link": "https://www.cnbc.com/2025/11/25/cnbcs-official-nhl-team-valuations-2025.html",
+            "summary": "The average NHL team is worth $2.2 billion, with the increase in team values largely driven by richer national media rights deals. The average NHL player is worth more than $1 million, according to the league.",
+            "date": "Tue, 25 Nov 2025 12:39:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ISKHUX=X",
+            "stock_ticker": "RXO-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Novo Nordisk’s oral GLP-1 drug didn’t work on Alzheimer’s as hoped, and the stock tumbles",
-            "link": "https://www.marketwatch.com/story/novo-nordisks-oral-glp-1-drug-didnt-work-on-alzheimers-as-hoped-and-the-stock-tumbles-76a8d78f?mod=mw_rss_topstories",
-            "summary": "Novo Nordisk's oral GLP-1 drug failed to show much benefit over a placebo against Alzheimer's. Novo Nordisk’s stock tumbles.",
-            "date": "Mon, 24 Nov 2025 12:30:00 GMT",
+            "title": "Personal-finance superstar Priceless Tay says just two money decisions can nail retirement success",
+            "link": "https://www.marketwatch.com/story/personal-finance-superstar-priceless-tay-says-just-two-money-decisions-can-nail-retirement-success-a5548cc1?mod=mw_rss_topstories",
+            "summary": "Taylor Price tells her millions of social media followers to maximize compound interest and fund a Roth IRA. Taylor Price: Don't forget to fund your Roth IRA with a portion of your 401k.",
+            "date": "Tue, 25 Nov 2025 13:25:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IPF.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The kids are not all right — how young stock investors are bringing on a bear market",
+            "link": "https://www.marketwatch.com/story/the-kids-are-not-all-right-how-young-stock-investors-are-bringing-on-a-bear-market-4be33bcd?mod=mw_rss_topstories",
+            "summary": "Shareholders who’ve never endured a prolonged market downturn believe they have nothing to lose. Shareholders who've never endured market downturns believe they've nothing to lost.",
+            "date": "Tue, 25 Nov 2025 13:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Alibaba shows off its AI credentials as revenue tops expectations",
+            "link": "https://www.marketwatch.com/story/alibaba-shows-off-its-ai-credentials-as-revenue-tops-expectations-4cb47301?mod=mw_rss_topstories",
+            "summary": "Alibaba stock spiked 5% Tuesday morning after third-quarter results impressed the market. The Chinese e-commerce giant reported a record third quarter.",
+            "date": "Tue, 25 Nov 2025 13:09:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BABA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "As Fed hawks and doves battle over rate cuts, investors need to watch these critical clues",
+            "link": "https://www.marketwatch.com/story/as-fed-hawks-and-doves-battle-over-rate-cuts-investors-need-to-watch-these-critical-clues-f07da3a4?mod=mw_rss_topstories",
+            "summary": "Stocks and bonds will react to new data on job openings, wages and labor market perceptions. Stocks and bond prices are expected to react to the new data.",
+            "date": "Tue, 25 Nov 2025 13:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Novo Nordisk’s weight-loss-drug trial provides rare good news in a rocky year",
+            "link": "https://www.marketwatch.com/story/novo-nordisks-weight-loss-drug-trial-provides-rare-good-news-in-a-rocky-year-899741ee?mod=mw_rss_topstories",
+            "summary": "Novo Nordisk announced a positive trial result for a weight-loss drug in development. Novo Nordisk's shares have stumbled this year.",
+            "date": "Tue, 25 Nov 2025 13:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "NVO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Carvana survived a debt crunch. Can it survive Amazon?",
-            "link": "https://www.marketwatch.com/story/carvana-survived-a-debt-crunch-can-it-survive-amazon-6f1e72cb?mod=mw_rss_topstories",
-            "summary": "Carvana's rebound is facing its biggest test yet: Amazon. Carvana’s stunning rebound is now facing its most difficult test yet.",
-            "date": "Mon, 24 Nov 2025 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CVNA",
             "impact": "Neutral"
         }
     ]
