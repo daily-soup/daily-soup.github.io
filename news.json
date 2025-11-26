@@ -1,47 +1,47 @@
 {
-    "date": "2025-11-25",
+    "date": "2025-11-26",
     "news": [
         {
-            "title": "Dick's Sporting Goods to shutter some Foot Locker stores to protect profits",
-            "link": "https://www.cnbc.com/2025/11/25/dicks-sporting-goods-dks-earnings-q3-2025.html",
-            "summary": "Dick's Sporting Goods acquired Foot Locker for $2.4 billion. To ensure the tie-up doesn't become a drag on profits, the company is shrinking its footprint.",
-            "date": "Tue, 25 Nov 2025 12:20:55 GMT",
+            "title": "All eyes on Russia as it weighs Ukraine peace plan with caution",
+            "link": "https://www.cnbc.com/2025/11/26/russia-responds-to-fledgling-ukraine-peace-plan.html",
+            "summary": "There's been little official comment from Moscow regarding a revised U.S.-brokered peace plan for Ukraine. There's been no official comment on the revised peace plan from Moscow.",
+            "date": "Wed, 26 Nov 2025 11:51:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DKS",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Bessent says there's a 'very good chance' Trump names new Fed chair before Christmas",
-            "link": "https://www.cnbc.com/2025/11/25/bessent-says-theres-a-very-good-chance-trump-names-new-fed-chair-before-christmas.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Tue, 25 Nov 2025 13:28:04 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MAY-USD",
+            "stock_ticker": "ALL",
             "impact": "Neutral"
         },
         {
-            "title": "Private payroll losses accelerated in the past four weeks, ADP reports",
-            "link": "https://www.cnbc.com/2025/11/25/private-payroll-losses-accelerated-in-the-past-four-weeks-adp-reports-.html",
-            "summary": "Private companies lost an average of 13,500 jobs a week over the past four weeks, ADP says. ADP: The average loss in jobs was 13,000 a week for four weeks.",
-            "date": "Tue, 25 Nov 2025 13:15:09 GMT",
+            "title": "Amazon faces FAA probe after delivery drone snaps internet cable in Texas",
+            "link": "https://www.cnbc.com/2025/11/25/amazon-faa-probe-delivery-drone-incident-texas.html",
+            "summary": "The probe comes as Amazon faces stiffer competition from Walmart, which has also begun drone deliveries. Walmart has also started drone deliveries in the U.S.",
+            "date": "Wed, 26 Nov 2025 02:58:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001EWU5.TO",
+            "stock_ticker": "AMZN",
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia shares fall 3% on report Meta will use Google AI chips",
-            "link": "https://www.cnbc.com/2025/11/25/nvidia-shares-today-google-meta-ai-chip-report.html",
-            "summary": " Meta is reportedly considering using chips designed by Google. Nvidia shares fell on Tuesday after The Information reported that Meta is considering using Google's chips.",
-            "date": "Tue, 25 Nov 2025 12:54:43 GMT",
+            "title": "Black Friday is most popular with Gen Z, even as the holiday loses its shine, new survey finds",
+            "link": "https://www.cnbc.com/2025/11/26/att-holiday-shopping-survey-black-friday-gen-z.html",
+            "summary": "A new AT&amp;T survey found that members of Generation Z are the biggest Black Friday shoppers. Older generations shop closer to Christmas, the survey found.",
+            "date": "Wed, 26 Nov 2025 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BB",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia says its GPUs are a 'generation ahead' of Google's AI chips",
+            "link": "https://www.cnbc.com/2025/11/25/nvidia-says-its-gpus-are-a-generation-ahead-of-googles-ai-chips.html",
+            "summary": "Wall Street was concerned Google's TPU chips could threaten Nvidia's dominance of the AI infrastructure industry on Tuesday. It was in response to Wall Street's concern that Google's.",
+            "date": "Tue, 25 Nov 2025 23:19:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,75 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "CNBC's Official NHL Team Valuations 2025: Here's how the 32 franchises stack up",
-            "link": "https://www.cnbc.com/2025/11/25/cnbcs-official-nhl-team-valuations-2025.html",
-            "summary": "The average NHL team is worth $2.2 billion, with the increase in team values largely driven by richer national media rights deals. The average NHL player is worth more than $1 million, according to the league.",
-            "date": "Tue, 25 Nov 2025 12:39:18 GMT",
+            "title": "Trump pardons Thanksgiving turkeys, blasts Biden and says Ukraine peace deal is ‘very close’",
+            "link": "https://www.cnbc.com/2025/11/25/trump-turkey-pardon-biden-ukraine-2025.html",
+            "summary": " Thanksgiving turkey prices have climbed this year, the first of President Donald Trump's second term in the White House. This year's turkey prices are the highest on record for Thanksgiving.",
+            "date": "Tue, 25 Nov 2025 21:33:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RXO-USD",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Personal-finance superstar Priceless Tay says just two money decisions can nail retirement success",
-            "link": "https://www.marketwatch.com/story/personal-finance-superstar-priceless-tay-says-just-two-money-decisions-can-nail-retirement-success-a5548cc1?mod=mw_rss_topstories",
-            "summary": "Taylor Price tells her millions of social media followers to maximize compound interest and fund a Roth IRA. Taylor Price: Don't forget to fund your Roth IRA with a portion of your 401k.",
-            "date": "Tue, 25 Nov 2025 13:25:00 GMT",
+            "title": "Is the stock market open on Black Friday? Are any stores open on Thanksgiving Day?",
+            "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-are-any-stores-open-on-thanksgiving-day-1f590970?mod=mw_rss_topstories",
+            "summary": " Thanksgiving week comes with plenty of holiday-adjusted business hours, including, of course on Wall Street. Here's what you need to know.",
+            "date": "Wed, 26 Nov 2025 13:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IPF.L",
+            "stock_ticker": "ISKPLX=X",
             "impact": "Neutral"
         },
         {
-            "title": "The kids are not all right — how young stock investors are bringing on a bear market",
-            "link": "https://www.marketwatch.com/story/the-kids-are-not-all-right-how-young-stock-investors-are-bringing-on-a-bear-market-4be33bcd?mod=mw_rss_topstories",
-            "summary": "Shareholders who’ve never endured a prolonged market downturn believe they have nothing to lose. Shareholders who've never endured market downturns believe they've nothing to lost.",
-            "date": "Tue, 25 Nov 2025 13:15:00 GMT",
+            "title": "Alphabet gets closer to $4 trillion as Morgan Stanley puts a big number around its chip potential",
+            "link": "https://www.marketwatch.com/story/alphabet-gets-closer-to-4-trillion-as-morgan-stanley-puts-a-big-number-around-its-chip-potential-8a0fa5cb?mod=mw_rss_topstories",
+            "summary": "Alphabet could be selling 1 million AI chips by 2027, say analysts. Alphabet could be sold 1 millionAI chips by2027, says analysts.",
+            "date": "Wed, 26 Nov 2025 13:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Alibaba shows off its AI credentials as revenue tops expectations",
-            "link": "https://www.marketwatch.com/story/alibaba-shows-off-its-ai-credentials-as-revenue-tops-expectations-4cb47301?mod=mw_rss_topstories",
-            "summary": "Alibaba stock spiked 5% Tuesday morning after third-quarter results impressed the market. The Chinese e-commerce giant reported a record third quarter.",
-            "date": "Tue, 25 Nov 2025 13:09:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BABA",
+            "stock_ticker": "GOOG",
             "impact": "Neutral"
         },
         {
-            "title": "As Fed hawks and doves battle over rate cuts, investors need to watch these critical clues",
-            "link": "https://www.marketwatch.com/story/as-fed-hawks-and-doves-battle-over-rate-cuts-investors-need-to-watch-these-critical-clues-f07da3a4?mod=mw_rss_topstories",
-            "summary": "Stocks and bonds will react to new data on job openings, wages and labor market perceptions. Stocks and bond prices are expected to react to the new data.",
-            "date": "Tue, 25 Nov 2025 13:05:00 GMT",
+            "title": "China’s reclusive young ‘rat people’ stay in bed all day and gnaw away at the country’s economic outlook",
+            "link": "https://www.marketwatch.com/story/quiet-wallets-hidden-rooms-how-chinas-young-rat-people-are-rewriting-the-consumer-outlook-62a1732b?mod=mw_rss_topstories",
+            "summary": "A growing youth trend of withdrawal and low-desire living is complicating Beijing’s push for consumption-led growth. Beijing is pushing for more consumption to fuel its economic growth.",
+            "date": "Wed, 26 Nov 2025 13:01:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AS",
+            "stock_ticker": "CI4A.MU",
             "impact": "Neutral"
         },
         {
-            "title": "Novo Nordisk’s weight-loss-drug trial provides rare good news in a rocky year",
-            "link": "https://www.marketwatch.com/story/novo-nordisks-weight-loss-drug-trial-provides-rare-good-news-in-a-rocky-year-899741ee?mod=mw_rss_topstories",
-            "summary": "Novo Nordisk announced a positive trial result for a weight-loss drug in development. Novo Nordisk's shares have stumbled this year.",
-            "date": "Tue, 25 Nov 2025 13:04:00 GMT",
+            "title": "Why scoring the best Black Friday deals feels more important than it has in years — for both shoppers and the economy",
+            "link": "https://www.marketwatch.com/story/why-scoring-the-best-black-friday-deals-feels-more-important-than-it-has-in-years-for-both-shoppers-and-the-economy-7e6ab04c?mod=mw_rss_topstories",
+            "summary": "After several years of rising prices and economic uncertainty, consumers are more focused on scoring the best deals. The best deals are often found on electronics and computer parts.",
+            "date": "Wed, 26 Nov 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVO",
+            "stock_ticker": "3823.T",
+            "impact": "Neutral"
+        },
+        {
+            "title": "JPMorgan just one-upped the most bullish call on Wall Street for the S&P 500 next year",
+            "link": "https://www.marketwatch.com/story/jpmorgan-just-one-upped-the-most-bullish-call-on-wall-street-for-the-s-p-500-next-year-c6ae8ba7?mod=mw_rss_topstories",
+            "summary": "JPMorgan has an optimistic view on U.S. stock markets next year. AI momentum will be playing a starring role, the bank says.",
+            "date": "Wed, 26 Nov 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "JUST",
             "impact": "Neutral"
         }
     ]
