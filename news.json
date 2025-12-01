@@ -1,83 +1,71 @@
 {
-    "date": "2025-11-30",
+    "date": "2025-12-01",
     "news": [
         {
-            "title": "Silver hit record highs in 2025 – here's why the 'Devil’s metal' has further to run",
-            "link": "https://www.cnbc.com/2025/11/29/silver-hit-record-highs-in-2025-and-still-has-further-to-run.html",
-            "summary": "Industrial demand for silver is expected to decline slightly in 2025. Silver is increasingly used in electric vehicles, for AI components and in photovoltaics.",
-            "date": "Sat, 29 Nov 2025 21:24:59 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SI=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "China factory activity edges up but remains in contraction as fading holiday demand hits services",
-            "link": "https://www.cnbc.com/2025/11/30/china-factory-activity-edges-up-in-november-but-remains-in-contraction.html",
-            "summary": "The National Bureau of Statistics said the manufacturing purchasing managers index rose to 49.2. The index was up 0.2 points from October and in line with forecasts in a Reuters poll.",
-            "date": "Sun, 30 Nov 2025 08:51:52 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CHH=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Global week ahead: The start of a Santa Rally or more 'bah humbug'?",
-            "link": "https://www.cnbc.com/2025/11/30/global-week-ahead-december-santa-rally-or-more-bah-humbug.html",
+            "title": "Nvidia takes $2 billion stake in Synopsys with expanded computing power partnership",
+            "link": "https://www.cnbc.com/2025/12/01/nvidia-takes-2-billion-stake-in-synopsys.html",
             "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Sun, 30 Nov 2025 05:10:58 GMT",
+            "date": "Mon, 01 Dec 2025 13:21:40 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NGO=F",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "American Airlines says all planes impacted by Airbus glitch have been fixed",
-            "link": "https://www.cnbc.com/2025/11/29/airbus-recall-disrupts-global-travel-a320-jets-grounded-glitch-linked-solar-flares.html",
-            "summary": "American Airlines says aircrafts impacted by Airbus recall have received software fixes. American Airlines: Aircrafts impacted have received the software fixes necessary to resume flying.",
-            "date": "Sat, 29 Nov 2025 19:19:25 GMT",
+            "title": "Eli Lilly cuts cash prices of Zepbound weight loss drug vials on direct-to-consumer site",
+            "link": "https://www.cnbc.com/2025/12/01/eli-lilly-prices-zepbound-weight-loss-drug-vials.html",
+            "summary": "The announcement comes weeks after President Donald Trump inked deals with Eli Lilly and Novo Nordisk to make their GLP-1 drugs easier for Americans to access.",
+            "date": "Mon, 01 Dec 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAL",
+            "stock_ticker": "LLY",
             "impact": "Neutral"
         },
         {
-            "title": "Student loans and year-end tax planning — 4 steps for borrowers to take",
-            "link": "https://www.cnbc.com/2025/11/29/student-loans-tax-planning.html",
-            "summary": "Recent changes to the federal student loan system may affect borrowers' taxes. There are some helpful steps you can take now to avoid paying more in taxes.",
-            "date": "Sat, 29 Nov 2025 12:30:01 GMT",
+            "title": "Airbus shares fall as much as 10% on reports of new quality issue on dozens of A320 aircraft",
+            "link": "https://www.cnbc.com/2025/12/01/airbus-share-prices-falls-on-report-of-quality-issue-on-a320-aircraft.html",
+            "summary": "Shares of Airbus plunged to the bottom of the pan-European Stoxx 600 index on Monday morning. Airbus is the world's largest maker of airliners and one of the biggest suppliers to Boeing.",
+            "date": "Mon, 01 Dec 2025 13:16:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XIORB.XC",
+            "stock_ticker": "AIR.PA",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s what’s worth streaming in December 2025 on Netflix, Hulu, HBO Max and more",
-            "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-december-2025-on-netflix-hulu-hbo-max-and-more-37b75584?mod=mw_rss_topstories",
-            "summary": "‘Stranger Things’ finally wraps up on Netflix. ‘Fallout’ is back with a new season on Amazon. Taylor Swift takes over Disney+.",
-            "date": "Sun, 30 Nov 2025 12:00:00 GMT",
+            "title": "Intel stock holds 10% rise after analyst predicts major Apple deal",
+            "link": "https://www.cnbc.com/2025/12/01/intel-stock-holds-10percent-rise-after-analyst-predicts-major-apple-deal.html",
+            "summary": "Intel's share price was down slightly premarket after a 10% spike on Friday. Analyst Ming-Chi Kuo said the chip giant was nearing a deal to supply Apple.",
+            "date": "Mon, 01 Dec 2025 11:37:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BD0.F",
+            "stock_ticker": "INTC",
             "impact": "Bullish"
+        },
+        {
+            "title": "An industry focused on death faces an existential crisis",
+            "link": "https://www.cnbc.com/2025/11/30/monument-gravestone-makers-tariffs-cremations.html",
+            "summary": "Family run companies that make traditional memorialization products like gravestones are facing the dual challenges of tariffs and cremation. The small, family run companies make gravestones, headstones and other memorials.",
+            "date": "Sun, 30 Nov 2025 14:05:39 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AN",
+            "impact": "Neutral"
         },
         {
             "title": "‘It’s expensive feeding and housing a family of 7’: I’m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
             "link": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
             "summary": "“I bring in $7,200 a month from my pension and disability benefits,” he says. “I’m very lucky. I’ve been through a lot.”",
-            "date": "Sun, 30 Nov 2025 11:50:00 GMT",
+            "date": "Mon, 01 Dec 2025 13:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +74,51 @@
             "impact": "Neutral"
         },
         {
+            "title": "Could ‘Stranger Things’ become the next ‘Star Wars’–style franchise? The Netflix show has already earned $1 billion.",
+            "link": "https://www.marketwatch.com/story/stranger-things-has-made-at-least-1-billion-for-netflix-already-now-season-5-could-deliver-another-200-million-b8827337?mod=mw_rss_topstories",
+            "summary": "The series has gone from being a quirky show, rooted in ’80s-era pop culture, into a global phenomenon. But it all comes down to what else Netflix can develop.",
+            "date": "Mon, 01 Dec 2025 13:27:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SNSR.L",
+            "impact": "Bearish"
+        },
+        {
+            "title": "My brother has fallen on hard times. My sister wants to buy his house. Is that a good idea?",
+            "link": "https://www.marketwatch.com/story/my-brother-has-fallen-on-hard-times-my-sister-wants-to-buy-his-house-is-that-a-good-idea-785d1d80?mod=mw_rss_topstories",
+            "summary": "“She will let him live in it free of charge and continue to take care of the maintenance,” his wife says. “She’s a very generous woman,’ she adds.",
+            "date": "Mon, 01 Dec 2025 13:02:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "A320 troubles send Airbus shares to their worst day in a year",
+            "link": "https://www.marketwatch.com/story/a320-troubles-send-airbus-shares-to-their-worst-day-in-a-year-61a194ec?mod=mw_rss_topstories",
+            "summary": "Airbus has already disclosed problems impacting over 6,000 aircraft. Airbus had already disclosed issues impacting more than 6,500 aircraft. The problems are expected to be fixed within the next few months.",
+            "date": "Mon, 01 Dec 2025 12:57:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ASAI3.SA",
+            "impact": "Neutral"
+        },
+        {
             "title": "My friend cosigned a loan for a BMW, but the driver defaulted. They’re both on the hook for $5K. What happens now?",
             "link": "https://www.marketwatch.com/story/my-friend-cosigned-a-loan-for-a-bmw-but-the-driver-defaulted-theyre-both-on-the-hook-for-5k-what-happens-now-e53e88a5?mod=mw_rss_topstories",
             "summary": "“The driver thinks he should be compensated $1,500 for the tires he’s still paying for,” the driver said.",
-            "date": "Sun, 30 Nov 2025 11:00:00 GMT",
+            "date": "Mon, 01 Dec 2025 12:49:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUDMYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My college-age kids inherited $300K from a 401(k). What should they do with this money?",
-            "link": "https://www.marketwatch.com/story/my-college-age-kids-inherited-300k-from-a-401-k-what-should-they-do-with-this-money-46302656?mod=mw_rss_topstories",
-            "summary": "“This money is likely to be saved for the purchase of homes in 10 years or so,” he says. “It’s a good investment for the future.”",
-            "date": "Sun, 30 Nov 2025 10:14:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AUDMYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fed hawks and doves are battling over December rate cuts — watch these clues to see who wins",
-            "link": "https://www.marketwatch.com/story/as-fed-hawks-and-doves-battle-over-rate-cuts-investors-need-to-watch-these-critical-clues-f07da3a4?mod=mw_rss_topstories",
-            "summary": "Stocks and bonds will react to new data on job openings, wages and labor market perceptions. Stocks and bond prices are expected to react to the new data.",
-            "date": "Sat, 29 Nov 2025 19:36:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZQ=F",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         }
     ]
