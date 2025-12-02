@@ -1,71 +1,107 @@
 {
-    "date": "2025-12-01",
+    "date": "2025-12-02",
     "news": [
         {
-            "title": "Nvidia takes $2 billion stake in Synopsys with expanded computing power partnership",
-            "link": "https://www.cnbc.com/2025/12/01/nvidia-takes-2-billion-stake-in-synopsys.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Mon, 01 Dec 2025 13:21:40 GMT",
+            "title": "Michael and Susan Dell to donate $6.25 billion to fund 'Trump accounts' for 25 million U.S. kids",
+            "link": "https://www.cnbc.com/2025/12/02/michael-susan-dell-trump-accounts.html",
+            "summary": "Dell CEO says he first heard of the idea of seeding accounts from hedge fund manager Brad Gerstner. Dell is a Dell Technologies, a subsidiary of Dell Inc.",
+            "date": "Tue, 02 Dec 2025 12:56:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "MAJJ",
             "impact": "Neutral"
         },
         {
-            "title": "Eli Lilly cuts cash prices of Zepbound weight loss drug vials on direct-to-consumer site",
-            "link": "https://www.cnbc.com/2025/12/01/eli-lilly-prices-zepbound-weight-loss-drug-vials.html",
-            "summary": "The announcement comes weeks after President Donald Trump inked deals with Eli Lilly and Novo Nordisk to make their GLP-1 drugs easier for Americans to access.",
-            "date": "Mon, 01 Dec 2025 13:00:01 GMT",
+            "title": "YouTube's new AI deepfake tracking tool is alarming experts and creators",
+            "link": "https://www.cnbc.com/2025/12/02/youtube-ai-biometric-data-creator-deepfake.html",
+            "summary": "A YouTube tool that uses creators' biometrics to remove AI-generated videos also allows Google to train its AI models on that sensitive data.",
+            "date": "Tue, 02 Dec 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LLY",
+            "stock_ticker": "6N=F",
             "impact": "Neutral"
         },
         {
-            "title": "Airbus shares fall as much as 10% on reports of new quality issue on dozens of A320 aircraft",
-            "link": "https://www.cnbc.com/2025/12/01/airbus-share-prices-falls-on-report-of-quality-issue-on-a320-aircraft.html",
-            "summary": "Shares of Airbus plunged to the bottom of the pan-European Stoxx 600 index on Monday morning. Airbus is the world's largest maker of airliners and one of the biggest suppliers to Boeing.",
-            "date": "Mon, 01 Dec 2025 13:16:55 GMT",
+            "title": "Costco sues Trump admin seeking tariff refunds before Supreme Court rules if they're illegal",
+            "link": "https://www.cnbc.com/2025/12/01/costco-sues-trump-tariffs-trade-supreme-court.html",
+            "summary": "Costco joined dozens of other companies that are seeking to protect their rights to refunds of Trump's tariffs without first waiting for the Supreme Court.",
+            "date": "Tue, 02 Dec 2025 01:27:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AIR.PA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Intel stock holds 10% rise after analyst predicts major Apple deal",
-            "link": "https://www.cnbc.com/2025/12/01/intel-stock-holds-10percent-rise-after-analyst-predicts-major-apple-deal.html",
-            "summary": "Intel's share price was down slightly premarket after a 10% spike on Friday. Analyst Ming-Chi Kuo said the chip giant was nearing a deal to supply Apple.",
-            "date": "Mon, 01 Dec 2025 11:37:44 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "INTC",
+            "stock_ticker": "COST",
             "impact": "Bullish"
         },
         {
-            "title": "An industry focused on death faces an existential crisis",
-            "link": "https://www.cnbc.com/2025/11/30/monument-gravestone-makers-tariffs-cremations.html",
-            "summary": "Family run companies that make traditional memorialization products like gravestones are facing the dual challenges of tariffs and cremation. The small, family run companies make gravestones, headstones and other memorials.",
-            "date": "Sun, 30 Nov 2025 14:05:39 GMT",
+            "title": "SoftBank’s Son ‘was crying’ about the firm's need to sell its Nvidia stake",
+            "link": "https://www.cnbc.com/2025/12/02/softbank-masayoshi-son-crying-nvidia-stake-ai-bet-artificial-intelligence-bubble-vision-fund.html",
+            "summary": "SoftBank Group founder Masayoshi Son has downplayed his firm's decision to dump its Nvidia position. Son said he \"was crying\" to sell the shares.",
+            "date": "Tue, 02 Dec 2025 09:38:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AN",
+            "stock_ticker": "SON",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Tesla CEO Elon Musk bats for H-1B visas, says tariffs distort markets",
+            "link": "https://www.cnbc.com/2025/12/02/tesla-ceo-elon-musk-bats-for-h-1b-visa-says-tariffs-distort-markets-.html",
+            "summary": "Tesla CEO raises concerns over Trump's tariff policy. Tesla CEO says he does not support closing of the H-1B visa program. Tesla is a major employer of foreign workers.",
+            "date": "Tue, 02 Dec 2025 08:54:58 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSLA",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Gold at $10,000, a quantum-driven crypto collapse and costly AI scandals are among these ‘outrageous’ bets for 2026.",
+            "link": "https://www.marketwatch.com/story/gold-at-10-000-a-quantum-driven-crypto-collapse-and-costly-ai-scandals-are-among-these-outrageous-bets-for-2026-aab517e3?mod=mw_rss_topstories",
+            "summary": "Saxo Bank is at it again with outrageous predictions for 2026. Saxo Bank predicts that the U.S. economy will grow at a rate of 1.5 per cent a year for the next five years.",
+            "date": "Tue, 02 Dec 2025 13:28:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GC=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "If you’re this type of investor, get out of the stock market — now",
+            "link": "https://www.marketwatch.com/story/if-youre-this-type-of-investor-get-out-of-the-stock-market-now-b52320c2?mod=mw_rss_topstories",
+            "summary": "The economy and the stock market are at a breaking point. Here’s what to do, depending on your age. What do you think? Share your thoughts in the comments below.",
+            "date": "Tue, 02 Dec 2025 13:20:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IFF",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Goodbye, bull market: This spot-on indicator is saying what you don’t want to hear",
+            "link": "https://www.marketwatch.com/story/goodbye-bull-market-this-spot-on-indicator-is-saying-what-you-dont-want-to-hear-dd7afeff?mod=mw_rss_topstories",
+            "summary": "Market timers have reached a point of extreme exuberance. That’s bearish for stocks and gold. The market is in a bearish mood, which is bad for gold and stocks.",
+            "date": "Tue, 02 Dec 2025 13:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GBK.ST",
             "impact": "Neutral"
         },
         {
             "title": "‘It’s expensive feeding and housing a family of 7’: I’m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
             "link": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
             "summary": "“I bring in $7,200 a month from my pension and disability benefits,” he says. “I’m very lucky. I’ve been through a lot.”",
-            "date": "Mon, 01 Dec 2025 13:28:00 GMT",
+            "date": "Tue, 02 Dec 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "Could ‘Stranger Things’ become the next ‘Star Wars’–style franchise? The Netflix show has already earned $1 billion.",
-            "link": "https://www.marketwatch.com/story/stranger-things-has-made-at-least-1-billion-for-netflix-already-now-season-5-could-deliver-another-200-million-b8827337?mod=mw_rss_topstories",
-            "summary": "The series has gone from being a quirky show, rooted in ’80s-era pop culture, into a global phenomenon. But it all comes down to what else Netflix can develop.",
-            "date": "Mon, 01 Dec 2025 13:27:00 GMT",
+            "title": "Bitcoin still has one thing going for it that investors are missing",
+            "link": "https://www.marketwatch.com/story/bitcoin-still-has-one-thing-going-for-it-that-investors-are-missing-d2988d9b?mod=mw_rss_topstories",
+            "summary": "Governments increasingly are using cryptocurrency to gain geopolitical power and independence from the dollar. Governments increasingly are use cryptocurrency to gains geopolitical power, independence from dollar.",
+            "date": "Tue, 02 Dec 2025 12:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SNSR.L",
-            "impact": "Bearish"
-        },
-        {
-            "title": "My brother has fallen on hard times. My sister wants to buy his house. Is that a good idea?",
-            "link": "https://www.marketwatch.com/story/my-brother-has-fallen-on-hard-times-my-sister-wants-to-buy-his-house-is-that-a-good-idea-785d1d80?mod=mw_rss_topstories",
-            "summary": "“She will let him live in it free of charge and continue to take care of the maintenance,” his wife says. “She’s a very generous woman,’ she adds.",
-            "date": "Mon, 01 Dec 2025 13:02:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "A320 troubles send Airbus shares to their worst day in a year",
-            "link": "https://www.marketwatch.com/story/a320-troubles-send-airbus-shares-to-their-worst-day-in-a-year-61a194ec?mod=mw_rss_topstories",
-            "summary": "Airbus has already disclosed problems impacting over 6,000 aircraft. Airbus had already disclosed issues impacting more than 6,500 aircraft. The problems are expected to be fixed within the next few months.",
-            "date": "Mon, 01 Dec 2025 12:57:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ASAI3.SA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My friend cosigned a loan for a BMW, but the driver defaulted. They’re both on the hook for $5K. What happens now?",
-            "link": "https://www.marketwatch.com/story/my-friend-cosigned-a-loan-for-a-bmw-but-the-driver-defaulted-theyre-both-on-the-hook-for-5k-what-happens-now-e53e88a5?mod=mw_rss_topstories",
-            "summary": "“The driver thinks he should be compensated $1,500 for the tires he’s still paying for,” the driver said.",
-            "date": "Mon, 01 Dec 2025 12:49:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "BTC=F",
             "impact": "Neutral"
         }
     ]
