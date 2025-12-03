@@ -1,124 +1,124 @@
 {
-    "date": "2025-12-02",
+    "date": "2025-12-03",
     "news": [
         {
-            "title": "Michael and Susan Dell to donate $6.25 billion to fund 'Trump accounts' for 25 million U.S. kids",
-            "link": "https://www.cnbc.com/2025/12/02/michael-susan-dell-trump-accounts.html",
-            "summary": "Dell CEO says he first heard of the idea of seeding accounts from hedge fund manager Brad Gerstner. Dell is a Dell Technologies, a subsidiary of Dell Inc.",
-            "date": "Tue, 02 Dec 2025 12:56:05 GMT",
+            "title": "November private payrolls unexpectedly fell by 32,000, led by steep small business job cuts, ADP reports",
+            "link": "https://www.cnbc.com/2025/12/03/adp-jobs-report-november-2025-private-payrolls-unexpectedly-fell-by-32000-.html",
+            "summary": "The payrolls decline marked a sharp step down from October, which saw an upwardly revised gain of 47,000 positions. The decline was the first since September.",
+            "date": "Wed, 03 Dec 2025 13:15:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MAJJ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "YouTube's new AI deepfake tracking tool is alarming experts and creators",
-            "link": "https://www.cnbc.com/2025/12/02/youtube-ai-biometric-data-creator-deepfake.html",
-            "summary": "A YouTube tool that uses creators' biometrics to remove AI-generated videos also allows Google to train its AI models on that sensitive data.",
-            "date": "Tue, 02 Dec 2025 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "6N=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Costco sues Trump admin seeking tariff refunds before Supreme Court rules if they're illegal",
-            "link": "https://www.cnbc.com/2025/12/01/costco-sues-trump-tariffs-trade-supreme-court.html",
-            "summary": "Costco joined dozens of other companies that are seeking to protect their rights to refunds of Trump's tariffs without first waiting for the Supreme Court.",
-            "date": "Tue, 02 Dec 2025 01:27:53 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "COST",
+            "stock_ticker": "FTGN.DE",
             "impact": "Bullish"
         },
         {
-            "title": "SoftBank’s Son ‘was crying’ about the firm's need to sell its Nvidia stake",
-            "link": "https://www.cnbc.com/2025/12/02/softbank-masayoshi-son-crying-nvidia-stake-ai-bet-artificial-intelligence-bubble-vision-fund.html",
-            "summary": "SoftBank Group founder Masayoshi Son has downplayed his firm's decision to dump its Nvidia position. Son said he \"was crying\" to sell the shares.",
-            "date": "Tue, 02 Dec 2025 09:38:21 GMT",
+            "title": "Macy’s posts strongest growth in more than 3 years, but strikes cautious note on holidays",
+            "link": "https://www.cnbc.com/2025/12/03/macys-m-earnings-q3-2025.html",
+            "summary": "Macy's has seen signs of momentum as it invests in more staffing and sharper visual displays at its namesake department stores. Macy's is one of the largest department stores in the U.S.",
+            "date": "Wed, 03 Dec 2025 13:30:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SON",
+            "stock_ticker": "M",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump administration to announce new fuel economy standards Wednesday, sources say",
+            "link": "https://www.cnbc.com/2025/12/03/trump-fuel-economy-standards.html",
+            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
+            "date": "Wed, 03 Dec 2025 13:29:10 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Beyonce, Sydney Sweeney and a fight for relevance: How American Eagle, Gap and Levi sparked a new 'denim war'",
+            "link": "https://www.cnbc.com/2025/12/03/american-eagle-gap-levi-beyonce-sydney-sweeney-denim-ads.html",
+            "summary": "Levi Strauss, Gap and American Eagle are competing to corner the denim market. The ads featuring stars like Beyonce and Sydney Sweeney feature Beyonce.",
+            "date": "Wed, 03 Dec 2025 13:00:50 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SLVMF",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Mortgage rates finally moved lower last week, but that didn't do much for demand",
+            "link": "https://www.cnbc.com/2025/12/03/mortgage-rates-finally-moved-lower-last-week-but-that-didnt-do-much-for-demand.html",
+            "summary": "Mortgage rates moved slightly lower last week after rising for much of the past month. But it wasn't a big enough move to impact mortgage demand.",
+            "date": "Wed, 03 Dec 2025 12:46:59 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FNMA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "ADP says U.S. economy loses jobs for third time in four months. Fed to weigh weak labor market in rate-cut vote.",
+            "link": "https://www.marketwatch.com/story/adp-says-u-s-economy-loses-jobs-for-third-time-in-four-months-fed-to-weigh-weak-labor-market-in-rate-cut-vote-0f20a193?mod=mw_rss_topstories",
+            "summary": "Privately run businesses eliminated jobs in November for the third time in four months. The slowdown in hiring threatens to nudge unemployment higher and undermine the economy.",
+            "date": "Wed, 03 Dec 2025 13:24:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ADP",
+            "impact": "Bearish"
+        },
+        {
+            "title": "An AI air pocket and a struggling consumer could become a double whammy for stocks in 2026, Bank of America predicts",
+            "link": "https://www.marketwatch.com/story/ai-air-pocket-struggling-consumer-could-prove-a-double-whammy-for-stocks-next-year-says-bank-of-america-fd31ea19?mod=mw_rss_topstories",
+            "summary": "Don't look for outsized gains from the S&amp;P 500 next year, the headwinds are numerous warns Savita Subramanian.",
+            "date": "Wed, 03 Dec 2025 13:09:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘She’ll let him live there for free’: My sister wants to buy our impoverished brother’s house. Is that a bad idea?",
+            "link": "https://www.marketwatch.com/story/my-brother-has-fallen-on-hard-times-my-sister-wants-to-buy-his-house-is-that-a-good-idea-785d1d80?mod=mw_rss_topstories",
+            "summary": "“Her only concern is that it will show up as an asset or rental property on her end,” the lawyer says. “Her Only Concern is That It will Show Up as an Asset or rental Property on Her end.”",
+            "date": "Wed, 03 Dec 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SHEL",
             "impact": "Bullish"
         },
         {
-            "title": "Tesla CEO Elon Musk bats for H-1B visas, says tariffs distort markets",
-            "link": "https://www.cnbc.com/2025/12/02/tesla-ceo-elon-musk-bats-for-h-1b-visa-says-tariffs-distort-markets-.html",
-            "summary": "Tesla CEO raises concerns over Trump's tariff policy. Tesla CEO says he does not support closing of the H-1B visa program. Tesla is a major employer of foreign workers.",
-            "date": "Tue, 02 Dec 2025 08:54:58 GMT",
+            "title": "Sorry, retirees — the 4% rule won’t work for you if Vanguard is right about where the stock market is headed",
+            "link": "https://www.marketwatch.com/story/sorry-retirees-the-4-rule-wont-work-for-you-if-vanguard-is-right-about-where-the-stock-market-is-headed-027ffdcf?mod=mw_rss_topstories",
+            "summary": "A ‘lost decade’ of low stock returns can be devastating for older investors. A “lost decade of lowStock returns’ could be devastating to older investors, experts say.",
+            "date": "Wed, 03 Dec 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSLA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Gold at $10,000, a quantum-driven crypto collapse and costly AI scandals are among these ‘outrageous’ bets for 2026.",
-            "link": "https://www.marketwatch.com/story/gold-at-10-000-a-quantum-driven-crypto-collapse-and-costly-ai-scandals-are-among-these-outrageous-bets-for-2026-aab517e3?mod=mw_rss_topstories",
-            "summary": "Saxo Bank is at it again with outrageous predictions for 2026. Saxo Bank predicts that the U.S. economy will grow at a rate of 1.5 per cent a year for the next five years.",
-            "date": "Tue, 02 Dec 2025 13:28:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GC=F",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "If you’re this type of investor, get out of the stock market — now",
-            "link": "https://www.marketwatch.com/story/if-youre-this-type-of-investor-get-out-of-the-stock-market-now-b52320c2?mod=mw_rss_topstories",
-            "summary": "The economy and the stock market are at a breaking point. Here’s what to do, depending on your age. What do you think? Share your thoughts in the comments below.",
-            "date": "Tue, 02 Dec 2025 13:20:00 GMT",
+            "title": "American Eagle had Sydney Sweeney. But its lesser-known lingerie brand carried the day.",
+            "link": "https://www.marketwatch.com/story/american-eagle-had-sydney-sweeney-but-this-lesser-known-lingerie-brand-carried-the-day-in-third-quarter-2263d400?mod=mw_rss_topstories",
+            "summary": "American Eagle raises outlook for the holiday quarter and the year on ‘strong momentum’ for sales. American Eagle: ‘We are in a strong position for the rest of the year’",
+            "date": "Wed, 03 Dec 2025 12:56:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IFF",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Goodbye, bull market: This spot-on indicator is saying what you don’t want to hear",
-            "link": "https://www.marketwatch.com/story/goodbye-bull-market-this-spot-on-indicator-is-saying-what-you-dont-want-to-hear-dd7afeff?mod=mw_rss_topstories",
-            "summary": "Market timers have reached a point of extreme exuberance. That’s bearish for stocks and gold. The market is in a bearish mood, which is bad for gold and stocks.",
-            "date": "Tue, 02 Dec 2025 13:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GBK.ST",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘It’s expensive feeding and housing a family of 7’: I’m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
-            "link": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
-            "summary": "“I bring in $7,200 a month from my pension and disability benefits,” he says. “I’m very lucky. I’ve been through a lot.”",
-            "date": "Tue, 02 Dec 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SITS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Bitcoin still has one thing going for it that investors are missing",
-            "link": "https://www.marketwatch.com/story/bitcoin-still-has-one-thing-going-for-it-that-investors-are-missing-d2988d9b?mod=mw_rss_topstories",
-            "summary": "Governments increasingly are using cryptocurrency to gain geopolitical power and independence from the dollar. Governments increasingly are use cryptocurrency to gains geopolitical power, independence from dollar.",
-            "date": "Tue, 02 Dec 2025 12:50:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BTC=F",
+            "stock_ticker": "AAL",
             "impact": "Neutral"
         }
     ]
