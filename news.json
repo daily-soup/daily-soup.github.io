@@ -1,124 +1,124 @@
 {
-    "date": "2025-12-04",
+    "date": "2025-12-05",
     "news": [
         {
-            "title": "Layoff announcements this year top 1.1 million, the most since 2020 when pandemic hit, Challenger says",
-            "link": "https://www.cnbc.com/2025/12/04/layoff-announcements-this-year-top-1point1-million-the-most-since-2020-when-pandemic-hit-challenger-says.html",
-            "summary": "The firm said layoff plans totaled 76,835 in November. That's a step down from October but still enough to bring the 2025 total up to 1.17 million.",
-            "date": "Thu, 04 Dec 2025 13:08:02 GMT",
+            "title": "Netflix to buy Warner Bros. film and streaming assets in $72 billion deal",
+            "link": "https://www.cnbc.com/2025/12/05/neflix-warner-bros-discovery-deal.html",
+            "summary": "Netflix announced it's reached a deal to buy WBD. The bidding process also involved Paramount Skydance and Comcast. The deal is expected to close in the next few weeks.",
+            "date": "Fri, 05 Dec 2025 13:14:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Bids for WBD are in. Here's what Paramount, Comcast and Netflix could do with the assets",
-            "link": "https://www.cnbc.com/2025/12/04/wbd-bids-paramount-comcast-netflix-assets.html",
-            "summary": "WBD's coveted library of content includes franchises like DC's superheroes, Harry Potter, Lord of the Rings, Game of Thrones, Looney Tunes and Scooby-Doo.",
-            "date": "Thu, 04 Dec 2025 13:11:54 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FOR",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Nvidia has a cash problem — too much of it",
-            "link": "https://www.cnbc.com/2025/12/04/nvidia-has-a-cash-problem-too-much-of-it.html",
-            "summary": ". Nvidia's recent slew of billion-dollar checks highlight the company's growing cash pile. Nvidia is a leading supplier of graphics cards to the PC industry.",
-            "date": "Thu, 04 Dec 2025 13:23:41 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "NFLX",
             "impact": "Neutral"
         },
         {
-            "title": "GM’s new ‘Silicon Valley cowboy’ eyes technology renaissance for automaker",
-            "link": "https://www.cnbc.com/2025/12/04/general-motors-gm-sterling-anderson.html",
-            "summary": " GM Chief Product Officer Sterling Anderson has consolidated power to oversee \"the end-to-end product lifecycle\" of manufacturing, engineering and software.",
-            "date": "Thu, 04 Dec 2025 12:06:11 GMT",
+            "title": "$208 million wiped out: Yieldstreet investors rack up more losses as firm rebrands to Willow Wealth",
+            "link": "https://www.cnbc.com/2025/12/05/yieldstreet-investors-losses-willow-wealth-rebrand.html",
+            "summary": "Yieldstreet is attempting to move past a troubled track record by rebranding to Willow Wealth. Customers reel from a still-unfolding collapse of its funds.",
+            "date": "Fri, 05 Dec 2025 13:15:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GMS1.F",
+            "stock_ticker": "BCCPX",
             "impact": "Neutral"
         },
         {
-            "title": "Fanatics lands retail and merchandising deal for 2026 FIFA World Cup",
-            "link": "https://www.cnbc.com/2025/12/04/2026-fifa-world-cup-fanatics-merchandising-deal.html",
-            "summary": "The 2026 World Cup is set to be played next summer across the U.S., Mexico and Canada. The in-venue retail operations will be led by Fanatics.",
-            "date": "Thu, 04 Dec 2025 13:00:02 GMT",
+            "title": "Southwest Airlines cuts outlook on government shutdown demand hit, higher fuel costs",
+            "link": "https://www.cnbc.com/2025/12/05/airlines-government-shutdown-earnings-impact.html",
+            "summary": "The carrier said it expects 2025 earnings before interest and taxes of about $500 million. That's down from a previous forecast of $600 million to $800 million.",
+            "date": "Fri, 05 Dec 2025 13:08:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FANAZZX",
-            "impact": "Bullish"
+            "stock_ticker": "LUV",
+            "impact": "Bearish"
         },
         {
-            "title": "Americans’ affordability crisis isn’t tariffs’ fault — it’s something much, much deeper",
-            "link": "https://www.marketwatch.com/story/americans-affordability-crisis-isnt-tariffs-fault-its-something-much-much-deeper-9b74ccfb?mod=mw_rss_topstories",
-            "summary": "Costs for housing, food, healthcare, child care and energy were rising long before Trump’s trade war. Costs for the ‘Unaffordability Five’ — housing,Food, Healthcare, Child care and Energy — were rising before Trump.",
-            "date": "Thu, 04 Dec 2025 13:25:00 GMT",
+            "title": "Putin says Russia is willing to supply 'uninterrupted' fuel to India, as U.S. pressures New Delhi to cut back",
+            "link": "https://www.cnbc.com/2025/12/05/russia-willing-to-supply-uninterrupted-fuel-to-india-says-putin.html",
+            "summary": "Russian oil exports have declined owing to U.S. sanctions. Rosneft and Lukoil are two of Russia's largest oil companies.",
+            "date": "Fri, 05 Dec 2025 11:35:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ITEK.AX",
+            "stock_ticker": "LEER.DE",
             "impact": "Neutral"
         },
         {
-            "title": "Strategist who nailed stocks, bonds and oil this year warns of ‘optimism shakeout’ in early 2026",
-            "link": "https://www.marketwatch.com/story/strategist-who-nailed-stocks-bonds-and-oil-this-year-warns-of-optimism-shakeout-in-early-2026-fcde8107?mod=mw_rss_topstories",
-            "summary": "Overly optimistic sentiment may need a reset early on, says strategist Warren Pies. Look for more AI adoption to help broaden the stock market next year, he says.",
-            "date": "Thu, 04 Dec 2025 13:19:00 GMT",
+            "title": "Apple announces departure of general counsel and policy chief",
+            "link": "https://www.cnbc.com/2025/12/04/apple-announces-departure-lisa-jackson-kate-adams.html",
+            "summary": "The two executives reported to Apple CEO Tim Cook. They are the latest members of senior leadership to exit the iPhone maker. The two executives are believed to be leaving the company in the coming months.",
+            "date": "Thu, 04 Dec 2025 22:59:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MGPOX",
+            "stock_ticker": "AAPL",
             "impact": "Neutral"
         },
         {
-            "title": "AI can help many things — but it can’t fix bad CEOs and their money mistakes",
-            "link": "https://www.marketwatch.com/story/ai-can-help-many-things-but-it-cant-fix-bad-ceos-and-their-money-mistakes-9bc2b3bc?mod=mw_rss_topstories",
-            "summary": "Job layoffs are being pinned on AI — when poor leadership is really to blame. The U.S. needs to stop blaming AI for job losses and start looking for the root cause.",
-            "date": "Thu, 04 Dec 2025 13:15:00 GMT",
+            "title": "Netflix set to transform media business — and itself — with $83 billion Warner Bros. deal",
+            "link": "https://www.marketwatch.com/story/netflix-set-to-transform-media-business-and-itself-with-83-billion-warner-bros-deal-cae3cc10?mod=mw_rss_topstories",
+            "summary": "Netflix will become a vastly bigger and different company once its deal to acquire Warner Bros. and Discovery’s studio and streaming businesses goes through.",
+            "date": "Fri, 05 Dec 2025 13:08:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "NFLX",
             "impact": "Neutral"
         },
         {
-            "title": "Market forecasts are usually wrong — but this inflation-fighting investment can see the future",
-            "link": "https://www.marketwatch.com/story/market-forecasts-are-usually-wrong-but-this-inflation-fighting-investment-can-see-the-future-f54efd7f?mod=mw_rss_topstories",
-            "summary": "‘It’s tough to make predictions, especially about the future,’ Yogi Berra said. He could have been talking about Wall Street.",
-            "date": "Thu, 04 Dec 2025 12:50:00 GMT",
+            "title": "Wegovy’s prices are going down, but they are ‘wildly different’",
+            "link": "https://www.marketwatch.com/story/wegovys-prices-are-going-down-but-they-are-wildly-different-and-confusing-e4ef7bbe?mod=mw_rss_topstories",
+            "summary": "How much Novo Nordisk’s weight-loss drug Wegovy costs can depend on a lot of things, which makes it very hard for the average person to understand.",
+            "date": "Fri, 05 Dec 2025 12:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MNZL",
+            "stock_ticker": "PSMT",
             "impact": "Neutral"
         },
         {
-            "title": "Dollar General sees more customer traffic at stores, something its top rival didn’t have",
-            "link": "https://www.marketwatch.com/story/dollar-general-sees-more-customer-traffic-at-stores-something-its-top-rival-didnt-have-c1956d45?mod=mw_rss_topstories",
-            "summary": "Dollar General’s stock rallies as sales rose more than expected and the company took market share from its rivals. Dollar General shares are up more than 3% in the past week.",
-            "date": "Thu, 04 Dec 2025 12:47:00 GMT",
+            "title": "The one thing people are still buying? Beauty products, and Ulta just proved it.",
+            "link": "https://www.marketwatch.com/story/the-one-thing-people-are-still-buying-beauty-products-and-ulta-just-proved-it-3b7f0200?mod=mw_rss_topstories",
+            "summary": "“Masstige’ is winning even as consumers cut costs elsewhere. “Mas stige” is winning in the U.S. even as other companies cut costs.",
+            "date": "Fri, 05 Dec 2025 12:47:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EURUSD=X",
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why ‘buy the dip’ is not that great a strategy — and what works better, according to this quant firm.",
+            "link": "https://www.marketwatch.com/story/why-buy-the-dip-is-not-that-great-a-strategy-quant-firm-discovers-dea7a10d?mod=mw_rss_topstories",
+            "summary": "Researchers at AQR tested out buy-the-dip as an investing strategy and were not impressed. They found it to be a waste of money.",
+            "date": "Fri, 05 Dec 2025 12:47:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "3823.T",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘Misbehaving’ U.S. long bonds have this strategist looking for yield elsewhere",
+            "link": "https://www.marketwatch.com/story/misbehaving-u-s-long-bonds-have-this-strategist-looking-for-yield-elsewhere-d07c293f?mod=mw_rss_topstories",
+            "summary": "When Greenspan and Bernanke were hiking rates, long-term yields kept falling. Now Powell is cutting, the reverse is happening — a conundrum for HSBC's strategist.",
+            "date": "Fri, 05 Dec 2025 12:28:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         }
     ]
