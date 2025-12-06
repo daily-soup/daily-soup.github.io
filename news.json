@@ -1,95 +1,11 @@
 {
-    "date": "2025-12-05",
+    "date": "2025-12-06",
     "news": [
         {
-            "title": "Netflix to buy Warner Bros. film and streaming assets in $72 billion deal",
-            "link": "https://www.cnbc.com/2025/12/05/neflix-warner-bros-discovery-deal.html",
-            "summary": "Netflix announced it's reached a deal to buy WBD. The bidding process also involved Paramount Skydance and Comcast. The deal is expected to close in the next few weeks.",
-            "date": "Fri, 05 Dec 2025 13:14:21 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NFLX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "$208 million wiped out: Yieldstreet investors rack up more losses as firm rebrands to Willow Wealth",
-            "link": "https://www.cnbc.com/2025/12/05/yieldstreet-investors-losses-willow-wealth-rebrand.html",
-            "summary": "Yieldstreet is attempting to move past a troubled track record by rebranding to Willow Wealth. Customers reel from a still-unfolding collapse of its funds.",
-            "date": "Fri, 05 Dec 2025 13:15:57 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BCCPX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Southwest Airlines cuts outlook on government shutdown demand hit, higher fuel costs",
-            "link": "https://www.cnbc.com/2025/12/05/airlines-government-shutdown-earnings-impact.html",
-            "summary": "The carrier said it expects 2025 earnings before interest and taxes of about $500 million. That's down from a previous forecast of $600 million to $800 million.",
-            "date": "Fri, 05 Dec 2025 13:08:36 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LUV",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Putin says Russia is willing to supply 'uninterrupted' fuel to India, as U.S. pressures New Delhi to cut back",
-            "link": "https://www.cnbc.com/2025/12/05/russia-willing-to-supply-uninterrupted-fuel-to-india-says-putin.html",
-            "summary": "Russian oil exports have declined owing to U.S. sanctions. Rosneft and Lukoil are two of Russia's largest oil companies.",
-            "date": "Fri, 05 Dec 2025 11:35:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LEER.DE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Apple announces departure of general counsel and policy chief",
-            "link": "https://www.cnbc.com/2025/12/04/apple-announces-departure-lisa-jackson-kate-adams.html",
-            "summary": "The two executives reported to Apple CEO Tim Cook. They are the latest members of senior leadership to exit the iPhone maker. The two executives are believed to be leaving the company in the coming months.",
-            "date": "Thu, 04 Dec 2025 22:59:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAPL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Netflix set to transform media business — and itself — with $83 billion Warner Bros. deal",
-            "link": "https://www.marketwatch.com/story/netflix-set-to-transform-media-business-and-itself-with-83-billion-warner-bros-deal-cae3cc10?mod=mw_rss_topstories",
-            "summary": "Netflix will become a vastly bigger and different company once its deal to acquire Warner Bros. and Discovery’s studio and streaming businesses goes through.",
-            "date": "Fri, 05 Dec 2025 13:08:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NFLX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Wegovy’s prices are going down, but they are ‘wildly different’",
-            "link": "https://www.marketwatch.com/story/wegovys-prices-are-going-down-but-they-are-wildly-different-and-confusing-e4ef7bbe?mod=mw_rss_topstories",
-            "summary": "How much Novo Nordisk’s weight-loss drug Wegovy costs can depend on a lot of things, which makes it very hard for the average person to understand.",
-            "date": "Fri, 05 Dec 2025 12:59:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PSMT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The one thing people are still buying? Beauty products, and Ulta just proved it.",
-            "link": "https://www.marketwatch.com/story/the-one-thing-people-are-still-buying-beauty-products-and-ulta-just-proved-it-3b7f0200?mod=mw_rss_topstories",
-            "summary": "“Masstige’ is winning even as consumers cut costs elsewhere. “Mas stige” is winning in the U.S. even as other companies cut costs.",
-            "date": "Fri, 05 Dec 2025 12:47:00 GMT",
+            "title": "The regulatory path ahead for a Netflix and Warner Bros. deal could get dicey",
+            "link": "https://www.cnbc.com/2025/12/05/netflix-warner-bros-deal-regulatory-questions.html",
+            "summary": "Netflix's deal to combine its business with WBD's streaming service HBO Max and film studio Warner Bros. is raising regulatory questions. Netflix's deal with HBO Max is also raising questions about how the two companies will work together.",
+            "date": "Fri, 05 Dec 2025 20:41:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +14,111 @@
             "impact": "Neutral"
         },
         {
-            "title": "Why ‘buy the dip’ is not that great a strategy — and what works better, according to this quant firm.",
-            "link": "https://www.marketwatch.com/story/why-buy-the-dip-is-not-that-great-a-strategy-quant-firm-discovers-dea7a10d?mod=mw_rss_topstories",
-            "summary": "Researchers at AQR tested out buy-the-dip as an investing strategy and were not impressed. They found it to be a waste of money.",
-            "date": "Fri, 05 Dec 2025 12:47:00 GMT",
+            "title": "David Ellison's hunt for WBD made David Zaslav richer — and it may not be over",
+            "link": "https://www.cnbc.com/2025/12/05/paramount-david-ellison-wbd-bidding-war-hostile-bid.html",
+            "summary": "Paramount is considering taking an offer to WBD shareholders, sources said. Paramount thinks its deal has a better chance of gaining regulatory approval than Netflix's.",
+            "date": "Fri, 05 Dec 2025 19:30:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "3823.T",
+            "stock_ticker": "HOG",
             "impact": "Neutral"
         },
         {
-            "title": "‘Misbehaving’ U.S. long bonds have this strategist looking for yield elsewhere",
-            "link": "https://www.marketwatch.com/story/misbehaving-u-s-long-bonds-have-this-strategist-looking-for-yield-elsewhere-d07c293f?mod=mw_rss_topstories",
-            "summary": "When Greenspan and Bernanke were hiking rates, long-term yields kept falling. Now Powell is cutting, the reverse is happening — a conundrum for HSBC's strategist.",
-            "date": "Fri, 05 Dec 2025 12:28:00 GMT",
+            "title": "Supreme Court to hear case on Trump birthright citizenship order",
+            "link": "https://www.cnbc.com/2025/12/05/trump-birthright-citizenship-supreme-court.html",
+            "summary": "The U.S. Constitution's 14th Amendment had been understood to grant citizenship to children born in the country, even if their parents are not citizens.",
+            "date": "Fri, 05 Dec 2025 20:28:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "VR6.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Judge finalizes remedies in Google antitrust case",
+            "link": "https://www.cnbc.com/2025/12/05/judge-finalize-remedies-in-google-antitrust-case.html",
+            "summary": "A U.S. judge on Friday finalized his decision for the consequences Google will face for its search monopoly ruling. The judge added new details to the decided remedies.",
+            "date": "Sat, 06 Dec 2025 00:53:56 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IUF.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SpaceX aims for $800 billion valuation in secondary share sale, WSJ reports",
+            "link": "https://www.cnbc.com/2025/12/05/spacex-aims-for-800b-valuation-in-secondary-share-sale-wsj-reports.html",
+            "summary": "Elon Musk's SpaceX is reportedly launching an insider share sale. The sale could value the company as high as $800 billion. The company is based in Hawthorne, California.",
+            "date": "Sat, 06 Dec 2025 00:08:37 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPXC-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How to stress test your estate plan to make sure it’s airtight",
+            "link": "https://www.marketwatch.com/story/how-to-stress-test-your-estate-plan-to-make-sure-its-airtight-e114c0a7?mod=mw_rss_topstories",
+            "summary": "\"If you don't understand something in a document, don’t sign it,\" he says. \"If you’re not sure about something, don't sign it. That’s the most important thing.\"",
+            "date": "Sat, 06 Dec 2025 13:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump likes Australia’s retirement-savings program — but could it actually work in the U.S.?",
+            "link": "https://www.marketwatch.com/story/trump-likes-australias-retirement-savings-program-but-could-it-actually-work-in-the-u-s-7d506bdb?mod=mw_rss_topstories",
+            "summary": "Could America's retirement-savings program look a lot like Australia's one day? Could America’s signature retirement-Savings programLook a lot of like Australia’’?",
+            "date": "Sat, 06 Dec 2025 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Does my friend have a right to her late father’s multimillion-dollar property portfolio? His widow claims they’re mired in debt.",
+            "link": "https://www.marketwatch.com/story/does-my-friend-have-a-right-to-her-late-fathers-multimillion-dollar-property-portfolio-his-widow-claims-theyre-mired-in-debt-faf2770c?mod=mw_rss_topstories",
+            "summary": "“My friend really wanted to keep her father’s condo, but her mother sold that too — and it broke her heart,” she said.",
+            "date": "Sat, 06 Dec 2025 12:27:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I love my work’: I’m a 61-year-old Chicago public-school teacher with a $60K annual pension. Is it safe?",
+            "link": "https://www.marketwatch.com/story/i-love-my-work-im-a-61-year-old-public-school-teacher-and-have-a-60k-pension-is-it-safe-80461e5c?mod=mw_rss_topstories",
+            "summary": "“I am aware that my pension as a Chicago public school teacher is dependent on factors that are very much in flux right now,” she says.",
+            "date": "Sat, 06 Dec 2025 11:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GURE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I am increasingly resentful’: My husband of 10 years has $1 million and cars worth $200K. Why won’t he give me money?",
+            "link": "https://www.marketwatch.com/story/i-am-increasingly-resentful-my-husband-of-10-years-has-1-million-and-cars-worth-200k-why-wont-he-give-me-money-bda6a010?mod=mw_rss_topstories",
+            "summary": "“I maintain the household, walk the dogs and cook regular meals for us both,” she says. “I’m a very active member of the community.”",
+            "date": "Sat, 06 Dec 2025 11:22:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GURE",
             "impact": "Neutral"
         }
     ]
