@@ -1,11 +1,23 @@
 {
-    "date": "2025-12-06",
+    "date": "2025-12-07",
     "news": [
+        {
+            "title": "From the California gold rush to Sydney Sweeney: How denim became the most enduring garment in American fashion",
+            "link": "https://www.cnbc.com/2025/12/06/the-history-of-denim-and-how-jeans-were-created.html",
+            "summary": "The American blue jean was created in 1873 by tailor Jacob Davis. Davis patented the design with Levi Strauss, founder of the eponymous denim retailer.",
+            "date": "Sat, 06 Dec 2025 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WFCF",
+            "impact": "Neutral"
+        },
         {
             "title": "The regulatory path ahead for a Netflix and Warner Bros. deal could get dicey",
             "link": "https://www.cnbc.com/2025/12/05/netflix-warner-bros-deal-regulatory-questions.html",
             "summary": "Netflix's deal to combine its business with WBD's streaming service HBO Max and film studio Warner Bros. is raising regulatory questions. Netflix's deal with HBO Max is also raising questions about how the two companies will work together.",
-            "date": "Fri, 05 Dec 2025 20:41:56 GMT",
+            "date": "Sun, 07 Dec 2025 03:47:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -17,7 +29,7 @@
             "title": "David Ellison's hunt for WBD made David Zaslav richer — and it may not be over",
             "link": "https://www.cnbc.com/2025/12/05/paramount-david-ellison-wbd-bidding-war-hostile-bid.html",
             "summary": "Paramount is considering taking an offer to WBD shareholders, sources said. Paramount thinks its deal has a better chance of gaining regulatory approval than Netflix's.",
-            "date": "Fri, 05 Dec 2025 19:30:24 GMT",
+            "date": "Sun, 07 Dec 2025 03:49:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,70 +38,58 @@
             "impact": "Neutral"
         },
         {
-            "title": "Supreme Court to hear case on Trump birthright citizenship order",
-            "link": "https://www.cnbc.com/2025/12/05/trump-birthright-citizenship-supreme-court.html",
-            "summary": "The U.S. Constitution's 14th Amendment had been understood to grant citizenship to children born in the country, even if their parents are not citizens.",
-            "date": "Fri, 05 Dec 2025 20:28:26 GMT",
+            "title": "Berkshire Hathaway is on track to lag behind the S&P 500 in Buffett's last year as CEO",
+            "link": "https://www.cnbc.com/2025/12/06/berkshire-hathaway-is-on-track-to-lag-behind-the-sp-500-in-buffetts-last-year-as-ceo.html",
+            "summary": "With less than a month to go, Berkshire Hathaway's B shares are behind the S&amp;P in their 2025 race. With dividends included, the S &P's lead is even bigger.",
+            "date": "Sat, 06 Dec 2025 13:33:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VR6.F",
+            "stock_ticker": "BRK-B",
             "impact": "Neutral"
         },
         {
-            "title": "Judge finalizes remedies in Google antitrust case",
-            "link": "https://www.cnbc.com/2025/12/05/judge-finalize-remedies-in-google-antitrust-case.html",
-            "summary": "A U.S. judge on Friday finalized his decision for the consequences Google will face for its search monopoly ruling. The judge added new details to the decided remedies.",
-            "date": "Sat, 06 Dec 2025 00:53:56 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IUF.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "SpaceX aims for $800 billion valuation in secondary share sale, WSJ reports",
-            "link": "https://www.cnbc.com/2025/12/05/spacex-aims-for-800b-valuation-in-secondary-share-sale-wsj-reports.html",
-            "summary": "Elon Musk's SpaceX is reportedly launching an insider share sale. The sale could value the company as high as $800 billion. The company is based in Hawthorne, California.",
-            "date": "Sat, 06 Dec 2025 00:08:37 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPXC-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How to stress test your estate plan to make sure it’s airtight",
-            "link": "https://www.marketwatch.com/story/how-to-stress-test-your-estate-plan-to-make-sure-its-airtight-e114c0a7?mod=mw_rss_topstories",
-            "summary": "\"If you don't understand something in a document, don’t sign it,\" he says. \"If you’re not sure about something, don't sign it. That’s the most important thing.\"",
-            "date": "Sat, 06 Dec 2025 13:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump likes Australia’s retirement-savings program — but could it actually work in the U.S.?",
-            "link": "https://www.marketwatch.com/story/trump-likes-australias-retirement-savings-program-but-could-it-actually-work-in-the-u-s-7d506bdb?mod=mw_rss_topstories",
-            "summary": "Could America's retirement-savings program look a lot like Australia's one day? Could America’s signature retirement-Savings programLook a lot of like Australia’’?",
-            "date": "Sat, 06 Dec 2025 13:00:00 GMT",
+            "title": "Trump administration waives $11 million fine for Southwest Airlines' 2022 holiday meltdown",
+            "link": "https://www.cnbc.com/2025/12/06/trump-administration-waives-11-million-southwest-fine.html",
+            "summary": "The Trump administration said it will forgive the last $11 million of a fine against Southwest Airlines. The fine stems from the carrier's 2022 holiday meltdown.",
+            "date": "Sat, 06 Dec 2025 21:10:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
+            "impact": "Bearish"
+        },
+        {
+            "title": "‘She’ll let him live there for free’: My sister wants to buy our impoverished brother’s house. Is that a bad idea?",
+            "link": "https://www.marketwatch.com/story/my-brother-has-fallen-on-hard-times-my-sister-wants-to-buy-his-house-is-that-a-good-idea-785d1d80?mod=mw_rss_topstories",
+            "summary": "“Her only concern is that it will show up as an asset or rental property on her end,” the lawyer says. “Her Only Concern is That It will Show Up as an Asset or rental Property on Her end.”",
+            "date": "Sun, 07 Dec 2025 12:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SHEL",
+            "impact": "Bullish"
+        },
+        {
+            "title": "‘I’m desperately trying to do right by everyone’: I’m giving my son $250K and my daughter 50% of a property. Is that fair?",
+            "link": "https://www.marketwatch.com/story/im-desperately-trying-to-do-right-by-everyone-im-giving-my-son-250k-and-my-daughter-50-of-a-property-is-that-fair-1dde6024?mod=mw_rss_topstories",
+            "summary": "“My son had no financial input into that property,” his father said. “My daughter had no money to spend on that property.”",
+            "date": "Sun, 07 Dec 2025 12:31:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "Does my friend have a right to her late father’s multimillion-dollar property portfolio? His widow claims they’re mired in debt.",
+            "title": "Does my friend have a right to her late father’s multimillion-dollar real-estate empire? His widow claims they’re mired in debt.",
             "link": "https://www.marketwatch.com/story/does-my-friend-have-a-right-to-her-late-fathers-multimillion-dollar-property-portfolio-his-widow-claims-theyre-mired-in-debt-faf2770c?mod=mw_rss_topstories",
             "summary": "“My friend really wanted to keep her father’s condo, but her mother sold that too — and it broke her heart,” she said.",
-            "date": "Sat, 06 Dec 2025 12:27:00 GMT",
+            "date": "Sun, 07 Dec 2025 11:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +98,27 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘I love my work’: I’m a 61-year-old Chicago public-school teacher with a $60K annual pension. Is it safe?",
-            "link": "https://www.marketwatch.com/story/i-love-my-work-im-a-61-year-old-public-school-teacher-and-have-a-60k-pension-is-it-safe-80461e5c?mod=mw_rss_topstories",
-            "summary": "“I am aware that my pension as a Chicago public school teacher is dependent on factors that are very much in flux right now,” she says.",
-            "date": "Sat, 06 Dec 2025 11:30:00 GMT",
+            "title": "‘It’s expensive feeding and housing a family of 7’: I’m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
+            "link": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
+            "summary": "“I bring in $7,200 a month from my pension and disability benefits,” he says. “I’m very lucky. I’ve been through a lot.”",
+            "date": "Sat, 06 Dec 2025 23:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GURE",
+            "stock_ticker": "SITS",
             "impact": "Neutral"
         },
         {
-            "title": "‘I am increasingly resentful’: My husband of 10 years has $1 million and cars worth $200K. Why won’t he give me money?",
-            "link": "https://www.marketwatch.com/story/i-am-increasingly-resentful-my-husband-of-10-years-has-1-million-and-cars-worth-200k-why-wont-he-give-me-money-bda6a010?mod=mw_rss_topstories",
-            "summary": "“I maintain the household, walk the dogs and cook regular meals for us both,” she says. “I’m a very active member of the community.”",
-            "date": "Sat, 06 Dec 2025 11:22:00 GMT",
+            "title": "My friend cosigned a loan for a BMW, but the driver defaulted. They’re both on the hook for $5K. What happens now?",
+            "link": "https://www.marketwatch.com/story/my-friend-cosigned-a-loan-for-a-bmw-but-the-driver-defaulted-theyre-both-on-the-hook-for-5k-what-happens-now-e53e88a5?mod=mw_rss_topstories",
+            "summary": "“The driver thinks he should be compensated $1,500 for the tires he’s still paying for,” the driver said.",
+            "date": "Sat, 06 Dec 2025 23:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GURE",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         }
     ]
