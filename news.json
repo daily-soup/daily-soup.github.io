@@ -1,47 +1,23 @@
 {
-    "date": "2025-12-07",
+    "date": "2025-12-08",
     "news": [
         {
-            "title": "From the California gold rush to Sydney Sweeney: How denim became the most enduring garment in American fashion",
-            "link": "https://www.cnbc.com/2025/12/06/the-history-of-denim-and-how-jeans-were-created.html",
-            "summary": "The American blue jean was created in 1873 by tailor Jacob Davis. Davis patented the design with Levi Strauss, founder of the eponymous denim retailer.",
-            "date": "Sat, 06 Dec 2025 13:00:01 GMT",
+            "title": "Confluent stock skyrockets 29% as IBM announces $11 billion acquisition deal",
+            "link": "https://www.cnbc.com/2025/12/08/ibm-confluent-deal-data.html",
+            "summary": "IBM will pay $31 per share in cash for all of the issued and outstanding common shares of Confluent. Confluent is a leading provider of cloud-based software and services.",
+            "date": "Mon, 08 Dec 2025 13:29:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFCF",
+            "stock_ticker": "CFLT",
             "impact": "Neutral"
         },
         {
-            "title": "The regulatory path ahead for a Netflix and Warner Bros. deal could get dicey",
-            "link": "https://www.cnbc.com/2025/12/05/netflix-warner-bros-deal-regulatory-questions.html",
-            "summary": "Netflix's deal to combine its business with WBD's streaming service HBO Max and film studio Warner Bros. is raising regulatory questions. Netflix's deal with HBO Max is also raising questions about how the two companies will work together.",
-            "date": "Sun, 07 Dec 2025 03:47:58 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "David Ellison's hunt for WBD made David Zaslav richer — and it may not be over",
-            "link": "https://www.cnbc.com/2025/12/05/paramount-david-ellison-wbd-bidding-war-hostile-bid.html",
-            "summary": "Paramount is considering taking an offer to WBD shareholders, sources said. Paramount thinks its deal has a better chance of gaining regulatory approval than Netflix's.",
-            "date": "Sun, 07 Dec 2025 03:49:11 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HOG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Berkshire Hathaway is on track to lag behind the S&P 500 in Buffett's last year as CEO",
-            "link": "https://www.cnbc.com/2025/12/06/berkshire-hathaway-is-on-track-to-lag-behind-the-sp-500-in-buffetts-last-year-as-ceo.html",
-            "summary": "With less than a month to go, Berkshire Hathaway's B shares are behind the S&amp;P in their 2025 race. With dividends included, the S &P's lead is even bigger.",
-            "date": "Sat, 06 Dec 2025 13:33:45 GMT",
+            "title": "Berkshire Hathaway's Todd Combs, investment lieutenant to Buffett and Geico CEO, is leaving for JPMorgan",
+            "link": "https://www.cnbc.com/2025/12/08/berkshire-hathaways-todd-combs-investment-lieutenant-to-buffett-and-geico-ceo-is-leaving-for-jpmorgan.html",
+            "summary": "Combs, 54, will be joining JPMorgan Chase, where he already served on the board. He will be head of the bank's new Security and Resiliency Initiative.",
+            "date": "Mon, 08 Dec 2025 13:11:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,75 +26,99 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump administration waives $11 million fine for Southwest Airlines' 2022 holiday meltdown",
-            "link": "https://www.cnbc.com/2025/12/06/trump-administration-waives-11-million-southwest-fine.html",
-            "summary": "The Trump administration said it will forgive the last $11 million of a fine against Southwest Airlines. The fine stems from the carrier's 2022 holiday meltdown.",
-            "date": "Sat, 06 Dec 2025 21:10:59 GMT",
+            "title": "Ray Dalio says Middle East is becoming a 'Silicon Valley of capitalists’",
+            "link": "https://www.cnbc.com/2025/12/08/ray-dalio-middle-east-silicon-valley-ai-bubble.html",
+            "summary": "The UAE and Saudi Arabia have this year launched multibillion-dollar initiatives to build cloud, data centers and other AI infrastructure. The initiatives are expected to be worth tens of billions of dollars.",
+            "date": "Mon, 08 Dec 2025 09:58:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Bearish"
+            "stock_ticker": "RAY",
+            "impact": "Neutral"
         },
         {
-            "title": "‘She’ll let him live there for free’: My sister wants to buy our impoverished brother’s house. Is that a bad idea?",
-            "link": "https://www.marketwatch.com/story/my-brother-has-fallen-on-hard-times-my-sister-wants-to-buy-his-house-is-that-a-good-idea-785d1d80?mod=mw_rss_topstories",
-            "summary": "“Her only concern is that it will show up as an asset or rental property on her end,” the lawyer says. “Her Only Concern is That It will Show Up as an Asset or rental Property on Her end.”",
-            "date": "Sun, 07 Dec 2025 12:52:00 GMT",
+            "title": "The operator of India's largest airline sees shares tumble after thousands of cancelations",
+            "link": "https://www.cnbc.com/2025/12/08/indigo-operator-interglobe-aviation-shares-fall-after-cancelations.html",
+            "summary": " Indigo airline continues to grapple with multiple flights cancelations, leading to disruptions for passengers. Indigo airline is a subsidiary of India's state-owned Indigo Airlines.",
+            "date": "Mon, 08 Dec 2025 11:46:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHEL",
+            "stock_ticker": "BA",
             "impact": "Bullish"
         },
         {
-            "title": "‘I’m desperately trying to do right by everyone’: I’m giving my son $250K and my daughter 50% of a property. Is that fair?",
-            "link": "https://www.marketwatch.com/story/im-desperately-trying-to-do-right-by-everyone-im-giving-my-son-250k-and-my-daughter-50-of-a-property-is-that-fair-1dde6024?mod=mw_rss_topstories",
-            "summary": "“My son had no financial input into that property,” his father said. “My daughter had no money to spend on that property.”",
-            "date": "Sun, 07 Dec 2025 12:31:00 GMT",
+            "title": "BlackRock bets on ‘pick and shovel’ trade, singling out clear winners in AI spending spree",
+            "link": "https://www.cnbc.com/2025/12/08/blackrock-ben-powell-bet-trade-as-ai-spending-frenzy-hyperscalers-investment-credit.html",
+            "summary": "Leading tech firms have only begun to tap debt markets to fund the next phase of AI expansion. Powell noted that additional capital is on the way.",
+            "date": "Mon, 08 Dec 2025 09:24:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "BLK",
             "impact": "Neutral"
         },
         {
-            "title": "Does my friend have a right to her late father’s multimillion-dollar real-estate empire? His widow claims they’re mired in debt.",
-            "link": "https://www.marketwatch.com/story/does-my-friend-have-a-right-to-her-late-fathers-multimillion-dollar-property-portfolio-his-widow-claims-theyre-mired-in-debt-faf2770c?mod=mw_rss_topstories",
-            "summary": "“My friend really wanted to keep her father’s condo, but her mother sold that too — and it broke her heart,” she said.",
-            "date": "Sun, 07 Dec 2025 11:43:00 GMT",
+            "title": "Why IBM plans to buy Confluent in its biggest deal since 2019",
+            "link": "https://www.marketwatch.com/story/why-ibm-plans-to-buy-confluent-in-its-biggest-deal-since-2019-33436a6a?mod=mw_rss_topstories",
+            "summary": "The tech giant announced its intent to acquire Confluent for $11 billion. It’s a play on the data required for AI.",
+            "date": "Mon, 08 Dec 2025 13:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "3823.T",
             "impact": "Neutral"
         },
         {
-            "title": "‘It’s expensive feeding and housing a family of 7’: I’m 41 with $46K in credit-card debt. Do I raid my $1.2 million IRAs?",
-            "link": "https://www.marketwatch.com/story/were-struggling-im-41-with-5-kids-and-46k-in-credit-card-debt-do-i-raid-my-1-2-million-iras-to-pay-it-off-eabd09cc?mod=mw_rss_topstories",
-            "summary": "“I bring in $7,200 a month from my pension and disability benefits,” he says. “I’m very lucky. I’ve been through a lot.”",
-            "date": "Sat, 06 Dec 2025 23:33:00 GMT",
+            "title": "This week’s Fed meeting will highlight the central bank’s challenge: Preventing a recession while tackling inflation",
+            "link": "https://www.marketwatch.com/story/this-weeks-fed-meeting-will-highlight-the-central-banks-challenge-preventing-a-recession-while-tackling-inflation-8861a13c?mod=mw_rss_topstories",
+            "summary": "The Fed is widely expected to cut interest rates for the third meeting in a row when it meets this week. The Fed is expected to announce a cut in interest rates at its meeting on Wednesday.",
+            "date": "Mon, 08 Dec 2025 13:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SITS",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         },
         {
-            "title": "My friend cosigned a loan for a BMW, but the driver defaulted. They’re both on the hook for $5K. What happens now?",
-            "link": "https://www.marketwatch.com/story/my-friend-cosigned-a-loan-for-a-bmw-but-the-driver-defaulted-theyre-both-on-the-hook-for-5k-what-happens-now-e53e88a5?mod=mw_rss_topstories",
-            "summary": "“The driver thinks he should be compensated $1,500 for the tires he’s still paying for,” the driver said.",
-            "date": "Sat, 06 Dec 2025 23:10:00 GMT",
+            "title": "How to beat inflation over the next year in one investing move",
+            "link": "https://www.marketwatch.com/story/how-to-beat-inflation-over-the-next-year-in-one-investing-move-2d51f3f7?mod=mw_rss_topstories",
+            "summary": "Short-term interest rates are too high. This sets  up an opportunity in 1-year Treasury bills. This is a good time to buy Treasury bills for the first time.",
+            "date": "Mon, 08 Dec 2025 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "HWM",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Bitcoin’s November crash was no accident",
+            "link": "https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?mod=mw_rss_topstories",
+            "summary": "An always-on crypto-hype machine lives to goose prices and then blame “macro” when the selloff hits.",
+            "date": "Mon, 08 Dec 2025 13:06:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "99BTC-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The Fed meeting this week will determine if investors get new all-time highs or coal for Christmas",
+            "link": "https://www.marketwatch.com/story/the-fed-meeting-this-week-will-determine-if-investors-get-new-all-time-highs-or-coal-for-christmas-8ddf2d3f?mod=mw_rss_topstories",
+            "summary": " Markets are expecting the Federal Reserve to cut interst rates at it next meeting, but some traders predict volatility. Markets expect the Fed to cut interest rates at its next meeting.",
+            "date": "Mon, 08 Dec 2025 12:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
             "impact": "Neutral"
         }
     ]
