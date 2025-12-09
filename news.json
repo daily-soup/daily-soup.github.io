@@ -1,71 +1,71 @@
 {
-    "date": "2025-12-08",
+    "date": "2025-12-09",
     "news": [
         {
-            "title": "Confluent stock skyrockets 29% as IBM announces $11 billion acquisition deal",
-            "link": "https://www.cnbc.com/2025/12/08/ibm-confluent-deal-data.html",
-            "summary": "IBM will pay $31 per share in cash for all of the issued and outstanding common shares of Confluent. Confluent is a leading provider of cloud-based software and services.",
-            "date": "Mon, 08 Dec 2025 13:29:09 GMT",
+            "title": "Nvidia can sell the more advanced H200 AI chip to China — but will Beijing want them?",
+            "link": "https://www.cnbc.com/2025/12/09/nvidia-can-sell-h200-ai-chip-to-china-but-will-beijing-want-them.html",
+            "summary": "Nvidia received the green light from the U.S. to sell its advanced H200 chip to China. But there are questions over whether Beijing will allow this to happen.",
+            "date": "Tue, 09 Dec 2025 12:50:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CFLT",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "Berkshire Hathaway's Todd Combs, investment lieutenant to Buffett and Geico CEO, is leaving for JPMorgan",
-            "link": "https://www.cnbc.com/2025/12/08/berkshire-hathaways-todd-combs-investment-lieutenant-to-buffett-and-geico-ceo-is-leaving-for-jpmorgan.html",
-            "summary": "Combs, 54, will be joining JPMorgan Chase, where he already served on the board. He will be head of the bank's new Security and Resiliency Initiative.",
-            "date": "Mon, 08 Dec 2025 13:11:09 GMT",
+            "title": "From Llamas to Avocados: Meta's shifting AI strategy is causing internal confusion",
+            "link": "https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html",
+            "summary": " Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.",
+            "date": "Tue, 09 Dec 2025 13:23:32 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BRK-B",
+            "stock_ticker": "WFCF",
             "impact": "Neutral"
         },
         {
-            "title": "Ray Dalio says Middle East is becoming a 'Silicon Valley of capitalists’",
-            "link": "https://www.cnbc.com/2025/12/08/ray-dalio-middle-east-silicon-valley-ai-bubble.html",
-            "summary": "The UAE and Saudi Arabia have this year launched multibillion-dollar initiatives to build cloud, data centers and other AI infrastructure. The initiatives are expected to be worth tens of billions of dollars.",
-            "date": "Mon, 08 Dec 2025 09:58:57 GMT",
+            "title": "U.S. uncovers scheme to reroute Nvidia GPUs worth $160 million to China despite export bans",
+            "link": "https://www.cnbc.com/2025/12/09/us-attorneys-office-southern-district-of-texas-prosecutors-nvidia-chips-h200-h100-smuggle-china.html",
+            "summary": "Authorities have shut down yet another China-linked smuggling network for Nvidia's AI chips. U.S. Attorneys office: The network was used to smuggle AI chips from China.",
+            "date": "Tue, 09 Dec 2025 13:16:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RAY",
+            "stock_ticker": "HRC=F",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Ukraine at 'critical moment' in war as European allies ramp up pressure on Russia",
+            "link": "https://www.cnbc.com/2025/12/09/ukraine-at-critical-moment-in-war-european-allies-ramp-up-russia-pressure.html",
+            "summary": "\"The destiny of this country is the destiny of Europe,\" German Chancellor Friedrich Merz says. Merz: \"We all know that the fate of Germany is in Europe's hands\"",
+            "date": "Tue, 09 Dec 2025 12:09:13 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DE000SL0P475.SG",
             "impact": "Neutral"
         },
         {
-            "title": "The operator of India's largest airline sees shares tumble after thousands of cancelations",
-            "link": "https://www.cnbc.com/2025/12/08/indigo-operator-interglobe-aviation-shares-fall-after-cancelations.html",
-            "summary": " Indigo airline continues to grapple with multiple flights cancelations, leading to disruptions for passengers. Indigo airline is a subsidiary of India's state-owned Indigo Airlines.",
-            "date": "Mon, 08 Dec 2025 11:46:12 GMT",
+            "title": "Trump ban on wind power projects overturned by federal judge",
+            "link": "https://www.cnbc.com/2025/12/08/trump-ban-on-wind-power-projects-overturned-by-federal-judge.html",
+            "summary": "Seventeen states led by New York Attorney General Letitia James sued Trump in May to overturn the president's ban. Seventeen states including New York and New Jersey sued to overturn Trump's ban in May.",
+            "date": "Tue, 09 Dec 2025 03:14:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "BlackRock bets on ‘pick and shovel’ trade, singling out clear winners in AI spending spree",
-            "link": "https://www.cnbc.com/2025/12/08/blackrock-ben-powell-bet-trade-as-ai-spending-frenzy-hyperscalers-investment-credit.html",
-            "summary": "Leading tech firms have only begun to tap debt markets to fund the next phase of AI expansion. Powell noted that additional capital is on the way.",
-            "date": "Mon, 08 Dec 2025 09:24:08 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BLK",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Why IBM plans to buy Confluent in its biggest deal since 2019",
-            "link": "https://www.marketwatch.com/story/why-ibm-plans-to-buy-confluent-in-its-biggest-deal-since-2019-33436a6a?mod=mw_rss_topstories",
-            "summary": "The tech giant announced its intent to acquire Confluent for $11 billion. It’s a play on the data required for AI.",
-            "date": "Mon, 08 Dec 2025 13:27:00 GMT",
+            "title": "Why the record rally for small-cap stocks could run into a big problem in 2026",
+            "link": "https://www.marketwatch.com/story/why-the-record-rally-for-small-cap-stocks-could-run-into-a-big-problem-in-2026-f7954bc6?mod=mw_rss_topstories",
+            "summary": " fundamentals finally have started to improve, says one money manager. Rising Treasury yields could be an roadblock for small caps, but fundamentals are improving.",
+            "date": "Tue, 09 Dec 2025 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "This week’s Fed meeting will highlight the central bank’s challenge: Preventing a recession while tackling inflation",
-            "link": "https://www.marketwatch.com/story/this-weeks-fed-meeting-will-highlight-the-central-banks-challenge-preventing-a-recession-while-tackling-inflation-8861a13c?mod=mw_rss_topstories",
-            "summary": "The Fed is widely expected to cut interest rates for the third meeting in a row when it meets this week. The Fed is expected to announce a cut in interest rates at its meeting on Wednesday.",
-            "date": "Mon, 08 Dec 2025 13:16:00 GMT",
+            "title": "‘Where are we vulnerable?’ My husband and I are in our 50s. Our $450K mortgage is paid off. We have $500K in IRAs.",
+            "link": "https://www.marketwatch.com/story/where-are-we-vulnerable-my-husband-and-i-are-in-our-50s-our-450k-mortgage-is-paid-off-we-have-500k-in-iras-5b5741a6?mod=mw_rss_topstories",
+            "summary": "“We will not be downsizing our home, but we do have rental income of about $1,500 per month,” she says.",
+            "date": "Tue, 09 Dec 2025 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "WFCF",
+            "impact": "Bearish"
+        },
+        {
+            "title": "AI stocks are flashing ‘Code Red’ — insiders at these familiar companies are seeing green",
+            "link": "https://www.marketwatch.com/story/ai-stocks-are-flashing-code-red-insiders-at-these-familiar-companies-are-seeing-green-834fa86f?mod=mw_rss_topstories",
+            "summary": "The end of the AI boom has begun, and these consumer-focused stocks are playing to win. These are the stocks you should buy if you want to make money from AI.",
+            "date": "Tue, 09 Dec 2025 13:20:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AI",
             "impact": "Neutral"
         },
         {
-            "title": "How to beat inflation over the next year in one investing move",
-            "link": "https://www.marketwatch.com/story/how-to-beat-inflation-over-the-next-year-in-one-investing-move-2d51f3f7?mod=mw_rss_topstories",
-            "summary": "Short-term interest rates are too high. This sets  up an opportunity in 1-year Treasury bills. This is a good time to buy Treasury bills for the first time.",
-            "date": "Mon, 08 Dec 2025 13:15:00 GMT",
+            "title": "Why Trump’s new $12 billion farm aid package is just a Band-Aid for struggling soybean growers",
+            "link": "https://www.marketwatch.com/story/why-trumps-new-12-billion-farm-aid-package-is-just-a-band-aid-for-struggling-soybean-growers-708e83e1?mod=mw_rss_topstories",
+            "summary": "The Trump administration’s $12 billion aid package may be too little, too late for American farmers. Soybean producers are suffering from the effects of a U.S.-instigated global trade war.",
+            "date": "Tue, 09 Dec 2025 13:01:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Bitcoin’s November crash was no accident",
-            "link": "https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?mod=mw_rss_topstories",
-            "summary": "An always-on crypto-hype machine lives to goose prices and then blame “macro” when the selloff hits.",
-            "date": "Mon, 08 Dec 2025 13:06:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "99BTC-USD",
+            "stock_ticker": "3823.T",
             "impact": "Neutral"
         },
         {
-            "title": "The Fed meeting this week will determine if investors get new all-time highs or coal for Christmas",
-            "link": "https://www.marketwatch.com/story/the-fed-meeting-this-week-will-determine-if-investors-get-new-all-time-highs-or-coal-for-christmas-8ddf2d3f?mod=mw_rss_topstories",
-            "summary": " Markets are expecting the Federal Reserve to cut interst rates at it next meeting, but some traders predict volatility. Markets expect the Fed to cut interest rates at its next meeting.",
-            "date": "Mon, 08 Dec 2025 12:52:00 GMT",
+            "title": "We’re in our 70s and childless. Who will take care of us and our fortune when we’re old?",
+            "link": "https://www.marketwatch.com/story/were-in-our-70s-and-childless-who-will-take-care-of-us-and-our-fortune-when-were-old-fba4c8e2?mod=mw_rss_topstories",
+            "summary": "A care plan for solo agers is about more than just filling in names on forms. \"It's not about filling out forms, it's about making sure you get the care you need,\" a doctor says.",
+            "date": "Tue, 09 Dec 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "HOWL",
             "impact": "Neutral"
         }
     ]
