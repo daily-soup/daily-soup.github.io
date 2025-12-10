@@ -1,59 +1,11 @@
 {
-    "date": "2025-12-09",
+    "date": "2025-12-10",
     "news": [
         {
-            "title": "Nvidia can sell the more advanced H200 AI chip to China — but will Beijing want them?",
-            "link": "https://www.cnbc.com/2025/12/09/nvidia-can-sell-h200-ai-chip-to-china-but-will-beijing-want-them.html",
-            "summary": "Nvidia received the green light from the U.S. to sell its advanced H200 chip to China. But there are questions over whether Beijing will allow this to happen.",
-            "date": "Tue, 09 Dec 2025 12:50:35 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NVDA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "From Llamas to Avocados: Meta's shifting AI strategy is causing internal confusion",
-            "link": "https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html",
-            "summary": " Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.",
-            "date": "Tue, 09 Dec 2025 13:23:32 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WFCF",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. uncovers scheme to reroute Nvidia GPUs worth $160 million to China despite export bans",
-            "link": "https://www.cnbc.com/2025/12/09/us-attorneys-office-southern-district-of-texas-prosecutors-nvidia-chips-h200-h100-smuggle-china.html",
-            "summary": "Authorities have shut down yet another China-linked smuggling network for Nvidia's AI chips. U.S. Attorneys office: The network was used to smuggle AI chips from China.",
-            "date": "Tue, 09 Dec 2025 13:16:44 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Ukraine at 'critical moment' in war as European allies ramp up pressure on Russia",
-            "link": "https://www.cnbc.com/2025/12/09/ukraine-at-critical-moment-in-war-european-allies-ramp-up-russia-pressure.html",
-            "summary": "\"The destiny of this country is the destiny of Europe,\" German Chancellor Friedrich Merz says. Merz: \"We all know that the fate of Germany is in Europe's hands\"",
-            "date": "Tue, 09 Dec 2025 12:09:13 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DE000SL0P475.SG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump ban on wind power projects overturned by federal judge",
-            "link": "https://www.cnbc.com/2025/12/08/trump-ban-on-wind-power-projects-overturned-by-federal-judge.html",
-            "summary": "Seventeen states led by New York Attorney General Letitia James sued Trump in May to overturn the president's ban. Seventeen states including New York and New Jersey sued to overturn Trump's ban in May.",
-            "date": "Tue, 09 Dec 2025 03:14:54 GMT",
+            "title": "Trump to start final Fed chair interviews beginning with Kevin Warsh",
+            "link": "https://www.cnbc.com/2025/12/10/trump-to-start-final-fed-chair-interviews-beginning-with-kevin-warsh.html",
+            "summary": "President Donald Trump will begin the final interviews of candidates for the Federal Reserve chair this week. The formal selection process began this summer and is expected to last until the end of the year.",
+            "date": "Wed, 10 Dec 2025 13:06:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,63 +14,111 @@
             "impact": "Neutral"
         },
         {
-            "title": "Why the record rally for small-cap stocks could run into a big problem in 2026",
-            "link": "https://www.marketwatch.com/story/why-the-record-rally-for-small-cap-stocks-could-run-into-a-big-problem-in-2026-f7954bc6?mod=mw_rss_topstories",
-            "summary": " fundamentals finally have started to improve, says one money manager. Rising Treasury yields could be an roadblock for small caps, but fundamentals are improving.",
-            "date": "Tue, 09 Dec 2025 13:30:00 GMT",
+            "title": "The Fed decision is expected to feature a rate cut and a lot more. Here's what to expect",
+            "link": "https://www.cnbc.com/2025/12/09/the-fed-decision-is-expected-to-feature-a-rate-cut-and-a-lot-more-heres-what-to-expect.html",
+            "summary": "The central bank is poised to deliver its third straight interest rate cut Wednesday. The bank is also firing a warning shot about what's ahead. The rate cut is expected to be the third in a row.",
+            "date": "Wed, 10 Dec 2025 12:55:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "3823.T",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "‘Where are we vulnerable?’ My husband and I are in our 50s. Our $450K mortgage is paid off. We have $500K in IRAs.",
-            "link": "https://www.marketwatch.com/story/where-are-we-vulnerable-my-husband-and-i-are-in-our-50s-our-450k-mortgage-is-paid-off-we-have-500k-in-iras-5b5741a6?mod=mw_rss_topstories",
-            "summary": "“We will not be downsizing our home, but we do have rental income of about $1,500 per month,” she says.",
-            "date": "Tue, 09 Dec 2025 13:30:00 GMT",
+            "title": "Trump trade rep changes China soybean purchase timeline, cites 'discrepancy'",
+            "link": "https://www.cnbc.com/2025/12/09/trump-trade-rep-changes-china-soybean-purchase-timeline-cites-discrepancy.html",
+            "summary": "China for months earlier this year had boycotted purchasing soybeans from U.S. farms because of a trade war began by President Donald Trump.",
+            "date": "Wed, 10 Dec 2025 01:17:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFCF",
-            "impact": "Bearish"
-        },
-        {
-            "title": "AI stocks are flashing ‘Code Red’ — insiders at these familiar companies are seeing green",
-            "link": "https://www.marketwatch.com/story/ai-stocks-are-flashing-code-red-insiders-at-these-familiar-companies-are-seeing-green-834fa86f?mod=mw_rss_topstories",
-            "summary": "The end of the AI boom has begun, and these consumer-focused stocks are playing to win. These are the stocks you should buy if you want to make money from AI.",
-            "date": "Tue, 09 Dec 2025 13:20:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AI",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Why Trump’s new $12 billion farm aid package is just a Band-Aid for struggling soybean growers",
-            "link": "https://www.marketwatch.com/story/why-trumps-new-12-billion-farm-aid-package-is-just-a-band-aid-for-struggling-soybean-growers-708e83e1?mod=mw_rss_topstories",
-            "summary": "The Trump administration’s $12 billion aid package may be too little, too late for American farmers. Soybean producers are suffering from the effects of a U.S.-instigated global trade war.",
-            "date": "Tue, 09 Dec 2025 13:01:00 GMT",
+            "title": "Refinance demand for FHA loans jumps 24%, as homeowners seek the most savings they can",
+            "link": "https://www.cnbc.com/2025/12/10/refinance-demand-for-fha-loans-jumps-24percent-.html",
+            "summary": "Current homeowners are turning to government FHA loans, which offer lower interest rates. The move is seen as a way to find savings, as conventional rates turn higher.",
+            "date": "Wed, 10 Dec 2025 12:52:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "3823.T",
+            "stock_ticker": "0P0001FJBR",
             "impact": "Neutral"
         },
         {
-            "title": "We’re in our 70s and childless. Who will take care of us and our fortune when we’re old?",
-            "link": "https://www.marketwatch.com/story/were-in-our-70s-and-childless-who-will-take-care-of-us-and-our-fortune-when-were-old-fba4c8e2?mod=mw_rss_topstories",
-            "summary": "A care plan for solo agers is about more than just filling in names on forms. \"It's not about filling out forms, it's about making sure you get the care you need,\" a doctor says.",
-            "date": "Tue, 09 Dec 2025 13:00:00 GMT",
+            "title": "Walmart and Alquist strike landmark deal, jump-starting 3D-printed commercial real estate",
+            "link": "https://www.cnbc.com/2025/12/10/walmart-sika-3d-printed-real-estate.html",
+            "summary": "The new technology has started to grow in the homebuilding market, but has been far slower in commercial construction. The new technology will be used in the construction of new homes and businesses.",
+            "date": "Wed, 10 Dec 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HOWL",
+            "stock_ticker": "WMT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "What happens when your insurer owns your doctor — and why that’s a problem",
+            "link": "https://www.marketwatch.com/story/what-happens-when-your-insurer-owns-your-doctor-and-why-thats-a-problem-495ebd77?mod=mw_rss_topstories",
+            "summary": "Health insurers increasingly employ the doctors who provide the medical care they pay for. This creates a conflict of interest for the insurers, who pay the doctors for the care.",
+            "date": "Wed, 10 Dec 2025 13:24:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BD0.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "GE Vernova is riding the electrification wave, and the stock soars to a record",
+            "link": "https://www.marketwatch.com/story/ge-vernova-is-riding-the-electrification-wave-and-the-stock-soars-to-a-record-2566262a?mod=mw_rss_topstories",
+            "summary": "GE Vernova’s stock soars into record territory after the electrification company boosts its long-term outlook for financial returns and plans to return more cash to shareholders.",
+            "date": "Wed, 10 Dec 2025 13:18:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s a much better way to make money investing in dividend stocks",
+            "link": "https://www.marketwatch.com/story/heres-a-much-better-way-to-make-money-investing-in-dividend-stocks-c5718893?mod=mw_rss_topstories",
+            "summary": "The ‘Dogs of the Dow’ strategy has been muzzled — check out the ‘Timely Ten.’",
+            "date": "Wed, 10 Dec 2025 13:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "A",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Industrials stocks have been red-hot this year — mostly. One analyst explains which stocks to buy and which to avoid.",
+            "link": "https://www.marketwatch.com/story/industrials-stocks-have-been-red-hot-this-year-mostly-one-analyst-explains-which-stocks-to-buy-and-which-to-avoid-47036662?mod=mw_rss_topstories",
+            "summary": "Nigel Coe of Wolfe Research says industrials have been a hot sector this year, but it’s a stock pickers market.",
+            "date": "Wed, 10 Dec 2025 13:13:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^127298-USD-STRD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "There’s a growing healthcare crisis in the U.S. — and it’s sitting in your medicine cabinet",
+            "link": "https://www.marketwatch.com/story/theres-a-growing-healthcare-crisis-in-the-u-s-and-its-sitting-in-your-medicine-cabinet-cd5c9596?mod=mw_rss_topstories",
+            "summary": "To guarantee Americans the medication they need, the U.S. must stop relying on China and India, says Dr. Sanjay Gupta.",
+            "date": "Wed, 10 Dec 2025 13:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MAY-USD",
             "impact": "Neutral"
         }
     ]
