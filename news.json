@@ -1,23 +1,95 @@
 {
-    "date": "2025-12-10",
+    "date": "2025-12-11",
     "news": [
         {
-            "title": "Trump to start final Fed chair interviews beginning with Kevin Warsh",
-            "link": "https://www.cnbc.com/2025/12/10/trump-to-start-final-fed-chair-interviews-beginning-with-kevin-warsh.html",
-            "summary": "President Donald Trump will begin the final interviews of candidates for the Federal Reserve chair this week. The formal selection process began this summer and is expected to last until the end of the year.",
-            "date": "Wed, 10 Dec 2025 13:06:31 GMT",
+            "title": "Bessent to propose major overhaul of regulatory body created from financial crisis",
+            "link": "https://www.cnbc.com/2025/12/11/bessent-to-propose-major-overhaul-of-regulatory-body-created-from-financial-crisis.html",
+            "summary": "Bessent will recommend changing the approach of the Financial Stability Oversight Council. In a letter set to be released Thursday, he will recommend changes to the council's approach.",
+            "date": "Thu, 11 Dec 2025 13:09:49 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOPBRX=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Eli Lilly's next-generation obesity drug delivers strong weight loss, reduces knee pain in late-stage trial",
+            "link": "https://www.cnbc.com/2025/12/11/eli-lillys-weight-loss-drug-retatrutide-clears-first-late-stage-study.html",
+            "summary": "The drugmaker is betting big on retatrutide as the next pillar of its obesity portfolio after its weight loss injection Zepbound and its upcoming pill.",
+            "date": "Thu, 11 Dec 2025 13:22:54 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LLY",
+            "impact": "Bullish"
+        },
+        {
+            "title": "JetBlue unveils first ever airport lounge, BlueHouse. Here's what's inside",
+            "link": "https://www.cnbc.com/2025/12/11/jetblue-jfk-airport-lounge-bluehouse.html",
+            "summary": "JetBlue is set to open its first ever airport lounge, BlueHouse, at JFK next week. BlueHouse will be JetBlue's first airport lounge.",
+            "date": "Thu, 11 Dec 2025 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "JBLU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here are the five big takeaways from Wednesday's Fed rate decision",
+            "link": "https://www.cnbc.com/2025/12/10/here-are-the-five-big-takeaways-from-wednesdays-fed-rate-decision.html",
+            "summary": "The Fed approved a much-anticipated quarter percentage point interest rate cut at a meeting that was packed with intrigue and surprises. The rate cut was the first in more than a decade.",
+            "date": "Wed, 10 Dec 2025 22:23:30 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HERE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump says U.S. seized oil tanker off the coast of Venezuela",
+            "link": "https://www.cnbc.com/2025/12/10/us-venezuela-oil-tanker-seize.html",
+            "summary": "The U.S. has undertaken a large military buildup in the Caribbean. The White House has launched deadly strikes against boats that it claims were trafficking drugs.",
+            "date": "Thu, 11 Dec 2025 00:09:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Eli Lilly’s newest weight-loss drug relieved pain in patients with knee osteoarthritis",
+            "link": "https://www.marketwatch.com/story/eli-lillys-newest-weight-loss-drug-relieved-pain-in-patients-with-knee-osteoarthritis-b7a6bcd2?mod=mw_rss_topstories",
+            "summary": "Eli Lilly’s “triple g’ drug helped patients lose about 28.7% of their body weight. It also reduced pain associated with knee osteoarthritis in a Phase 3 trial.",
+            "date": "Thu, 11 Dec 2025 12:55:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LLY",
             "impact": "Neutral"
         },
         {
-            "title": "The Fed decision is expected to feature a rate cut and a lot more. Here's what to expect",
-            "link": "https://www.cnbc.com/2025/12/09/the-fed-decision-is-expected-to-feature-a-rate-cut-and-a-lot-more-heres-what-to-expect.html",
-            "summary": "The central bank is poised to deliver its third straight interest rate cut Wednesday. The bank is also firing a warning shot about what's ahead. The rate cut is expected to be the third in a row.",
-            "date": "Wed, 10 Dec 2025 12:55:44 GMT",
+            "title": "NFL quarterback Philip Rivers couldn’t stay retired. Here’s why millions of other Americans can’t either.",
+            "link": "https://www.marketwatch.com/story/nfl-quarterback-philip-rivers-couldnt-stay-retired-heres-why-millions-of-other-americans-cant-either-c7ae6c8e?mod=mw_rss_topstories",
+            "summary": "Philip Rivers’s unretirement, at age 44, probably feels familiar to the growing number of retirees — including FIRE members — who return to work.",
+            "date": "Thu, 11 Dec 2025 12:45:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NFLX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The Fed will help drive a 10% gain for stocks in 2026, says one of Wall Street’s most accurate forecasters, Tom Lee",
+            "link": "https://www.marketwatch.com/story/the-fed-will-help-drive-a-10-gain-for-stocks-in-2026-says-one-of-wall-streets-most-accurate-forecasters-tom-lee-ecf85aeb?mod=mw_rss_topstories",
+            "summary": "A wall of worry headed into 2026 won’t stop stocks from logging more gains, says Fundstrat’s Tom Lee.",
+            "date": "Thu, 11 Dec 2025 12:41:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,99 +98,27 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump trade rep changes China soybean purchase timeline, cites 'discrepancy'",
-            "link": "https://www.cnbc.com/2025/12/09/trump-trade-rep-changes-china-soybean-purchase-timeline-cites-discrepancy.html",
-            "summary": "China for months earlier this year had boycotted purchasing soybeans from U.S. farms because of a trade war began by President Donald Trump.",
-            "date": "Wed, 10 Dec 2025 01:17:15 GMT",
+            "title": "‘Where are we vulnerable?’ My husband and I are in our 50s. Our $450K mortgage is paid off. We have $500K in IRAs.",
+            "link": "https://www.marketwatch.com/story/where-are-we-vulnerable-my-husband-and-i-are-in-our-50s-our-450k-mortgage-is-paid-off-we-have-500k-in-iras-5b5741a6?mod=mw_rss_topstories",
+            "summary": "“We will not be downsizing our home, but we do have rental income of about $1,500 per month,” she says.",
+            "date": "Thu, 11 Dec 2025 11:36:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
+            "stock_ticker": "WFCF",
+            "impact": "Bearish"
         },
         {
-            "title": "Refinance demand for FHA loans jumps 24%, as homeowners seek the most savings they can",
-            "link": "https://www.cnbc.com/2025/12/10/refinance-demand-for-fha-loans-jumps-24percent-.html",
-            "summary": "Current homeowners are turning to government FHA loans, which offer lower interest rates. The move is seen as a way to find savings, as conventional rates turn higher.",
-            "date": "Wed, 10 Dec 2025 12:52:42 GMT",
+            "title": "‘This feels like an opportunity’: I’m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
+            "link": "https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories",
+            "summary": "“I also have $1,000 on a credit card, which will be paid in full next month,” she says.",
+            "date": "Thu, 11 Dec 2025 10:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001FJBR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Walmart and Alquist strike landmark deal, jump-starting 3D-printed commercial real estate",
-            "link": "https://www.cnbc.com/2025/12/10/walmart-sika-3d-printed-real-estate.html",
-            "summary": "The new technology has started to grow in the homebuilding market, but has been far slower in commercial construction. The new technology will be used in the construction of new homes and businesses.",
-            "date": "Wed, 10 Dec 2025 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WMT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "What happens when your insurer owns your doctor — and why that’s a problem",
-            "link": "https://www.marketwatch.com/story/what-happens-when-your-insurer-owns-your-doctor-and-why-thats-a-problem-495ebd77?mod=mw_rss_topstories",
-            "summary": "Health insurers increasingly employ the doctors who provide the medical care they pay for. This creates a conflict of interest for the insurers, who pay the doctors for the care.",
-            "date": "Wed, 10 Dec 2025 13:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BD0.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "GE Vernova is riding the electrification wave, and the stock soars to a record",
-            "link": "https://www.marketwatch.com/story/ge-vernova-is-riding-the-electrification-wave-and-the-stock-soars-to-a-record-2566262a?mod=mw_rss_topstories",
-            "summary": "GE Vernova’s stock soars into record territory after the electrification company boosts its long-term outlook for financial returns and plans to return more cash to shareholders.",
-            "date": "Wed, 10 Dec 2025 13:18:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here’s a much better way to make money investing in dividend stocks",
-            "link": "https://www.marketwatch.com/story/heres-a-much-better-way-to-make-money-investing-in-dividend-stocks-c5718893?mod=mw_rss_topstories",
-            "summary": "The ‘Dogs of the Dow’ strategy has been muzzled — check out the ‘Timely Ten.’",
-            "date": "Wed, 10 Dec 2025 13:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Industrials stocks have been red-hot this year — mostly. One analyst explains which stocks to buy and which to avoid.",
-            "link": "https://www.marketwatch.com/story/industrials-stocks-have-been-red-hot-this-year-mostly-one-analyst-explains-which-stocks-to-buy-and-which-to-avoid-47036662?mod=mw_rss_topstories",
-            "summary": "Nigel Coe of Wolfe Research says industrials have been a hot sector this year, but it’s a stock pickers market.",
-            "date": "Wed, 10 Dec 2025 13:13:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "^127298-USD-STRD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "There’s a growing healthcare crisis in the U.S. — and it’s sitting in your medicine cabinet",
-            "link": "https://www.marketwatch.com/story/theres-a-growing-healthcare-crisis-in-the-u-s-and-its-sitting-in-your-medicine-cabinet-cd5c9596?mod=mw_rss_topstories",
-            "summary": "To guarantee Americans the medication they need, the U.S. must stop relying on China and India, says Dr. Sanjay Gupta.",
-            "date": "Wed, 10 Dec 2025 13:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MAY-USD",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         }
     ]
