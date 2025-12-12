@@ -1,124 +1,124 @@
 {
-    "date": "2025-12-11",
+    "date": "2025-12-12",
     "news": [
         {
-            "title": "Bessent to propose major overhaul of regulatory body created from financial crisis",
-            "link": "https://www.cnbc.com/2025/12/11/bessent-to-propose-major-overhaul-of-regulatory-body-created-from-financial-crisis.html",
-            "summary": "Bessent will recommend changing the approach of the Financial Stability Oversight Council. In a letter set to be released Thursday, he will recommend changes to the council's approach.",
-            "date": "Thu, 11 Dec 2025 13:09:49 GMT",
+            "title": "Cannabis stocks surge on reports Trump will reclassify marijuana; Tilray jumps 33%",
+            "link": "https://www.cnbc.com/2025/12/12/cannabis-stocks-trump-regulations.html",
+            "summary": "President Donald Trump will significantly ease federal restrictions on marijuana, according to the Washington Post. The move is expected to come as early as next week, the Post reports.",
+            "date": "Fri, 12 Dec 2025 13:29:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOPBRX=X",
+            "stock_ticker": "TCNNF",
             "impact": "Neutral"
         },
         {
-            "title": "Eli Lilly's next-generation obesity drug delivers strong weight loss, reduces knee pain in late-stage trial",
-            "link": "https://www.cnbc.com/2025/12/11/eli-lillys-weight-loss-drug-retatrutide-clears-first-late-stage-study.html",
-            "summary": "The drugmaker is betting big on retatrutide as the next pillar of its obesity portfolio after its weight loss injection Zepbound and its upcoming pill.",
-            "date": "Thu, 11 Dec 2025 13:22:54 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LLY",
-            "impact": "Bullish"
-        },
-        {
-            "title": "JetBlue unveils first ever airport lounge, BlueHouse. Here's what's inside",
-            "link": "https://www.cnbc.com/2025/12/11/jetblue-jfk-airport-lounge-bluehouse.html",
-            "summary": "JetBlue is set to open its first ever airport lounge, BlueHouse, at JFK next week. BlueHouse will be JetBlue's first airport lounge.",
-            "date": "Thu, 11 Dec 2025 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JBLU",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here are the five big takeaways from Wednesday's Fed rate decision",
-            "link": "https://www.cnbc.com/2025/12/10/here-are-the-five-big-takeaways-from-wednesdays-fed-rate-decision.html",
-            "summary": "The Fed approved a much-anticipated quarter percentage point interest rate cut at a meeting that was packed with intrigue and surprises. The rate cut was the first in more than a decade.",
-            "date": "Wed, 10 Dec 2025 22:23:30 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HERE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump says U.S. seized oil tanker off the coast of Venezuela",
-            "link": "https://www.cnbc.com/2025/12/10/us-venezuela-oil-tanker-seize.html",
-            "summary": "The U.S. has undertaken a large military buildup in the Caribbean. The White House has launched deadly strikes against boats that it claims were trafficking drugs.",
-            "date": "Thu, 11 Dec 2025 00:09:38 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Eli Lilly’s newest weight-loss drug relieved pain in patients with knee osteoarthritis",
-            "link": "https://www.marketwatch.com/story/eli-lillys-newest-weight-loss-drug-relieved-pain-in-patients-with-knee-osteoarthritis-b7a6bcd2?mod=mw_rss_topstories",
-            "summary": "Eli Lilly’s “triple g’ drug helped patients lose about 28.7% of their body weight. It also reduced pain associated with knee osteoarthritis in a Phase 3 trial.",
-            "date": "Thu, 11 Dec 2025 12:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LLY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "NFL quarterback Philip Rivers couldn’t stay retired. Here’s why millions of other Americans can’t either.",
-            "link": "https://www.marketwatch.com/story/nfl-quarterback-philip-rivers-couldnt-stay-retired-heres-why-millions-of-other-americans-cant-either-c7ae6c8e?mod=mw_rss_topstories",
-            "summary": "Philip Rivers’s unretirement, at age 44, probably feels familiar to the growing number of retirees — including FIRE members — who return to work.",
-            "date": "Thu, 11 Dec 2025 12:45:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NFLX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The Fed will help drive a 10% gain for stocks in 2026, says one of Wall Street’s most accurate forecasters, Tom Lee",
-            "link": "https://www.marketwatch.com/story/the-fed-will-help-drive-a-10-gain-for-stocks-in-2026-says-one-of-wall-streets-most-accurate-forecasters-tom-lee-ecf85aeb?mod=mw_rss_topstories",
-            "summary": "A wall of worry headed into 2026 won’t stop stocks from logging more gains, says Fundstrat’s Tom Lee.",
-            "date": "Thu, 11 Dec 2025 12:41:00 GMT",
+            "title": "‘The next protein’: Fiber is shaping up to be the latest grocery obsession",
+            "link": "https://www.cnbc.com/2025/12/12/fibermaxxing-high-fiber-foods-pepsi-nestle-olipop.html",
+            "summary": "Food and beverage companies are racing to keep up with the trend. As consumers find their next grocery obsession in fiber, food and drink companies are race to catch up.",
+            "date": "Fri, 12 Dec 2025 13:09:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BA",
+            "impact": "Bullish"
+        },
+        {
+            "title": "House passes INVEST Act to ease investment standards and boost capital in markets",
+            "link": "https://www.cnbc.com/2025/12/11/house-invest-act-bill-markets.html",
+            "summary": "\"We make it easier to be a public company in America,\" House Financial Services Chairman French Hill, an Arkansas Republican, said during debate on the bill.",
+            "date": "Fri, 12 Dec 2025 12:15:37 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FLL",
             "impact": "Neutral"
         },
         {
-            "title": "‘Where are we vulnerable?’ My husband and I are in our 50s. Our $450K mortgage is paid off. We have $500K in IRAs.",
-            "link": "https://www.marketwatch.com/story/where-are-we-vulnerable-my-husband-and-i-are-in-our-50s-our-450k-mortgage-is-paid-off-we-have-500k-in-iras-5b5741a6?mod=mw_rss_topstories",
-            "summary": "“We will not be downsizing our home, but we do have rental income of about $1,500 per month,” she says.",
-            "date": "Thu, 11 Dec 2025 11:36:00 GMT",
+            "title": "High-end Swiss chocolatier Läderach rules out U.S. production despite tariff shock",
+            "link": "https://www.cnbc.com/2025/12/12/swiss-chocolatier-lderach-rules-out-us-production-despite-tariffs.html",
+            "summary": "The chocolate maker makes its products exclusively in its home country. \"Consumers want Swiss chocolates to be made in Switzerland,\" the company says.",
+            "date": "Fri, 12 Dec 2025 13:10:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFCF",
-            "impact": "Bearish"
+            "stock_ticker": "000097.SS",
+            "impact": "Neutral"
         },
         {
-            "title": "‘This feels like an opportunity’: I’m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
-            "link": "https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories",
-            "summary": "“I also have $1,000 on a credit card, which will be paid in full next month,” she says.",
-            "date": "Thu, 11 Dec 2025 10:45:00 GMT",
+            "title": "AI shopping could drive $263 billion in holiday sales. Walmart and Target are racing to get in",
+            "link": "https://www.cnbc.com/2025/12/12/ai-chatgpt-holiday-shopping-sales-walmart-target.html",
+            "summary": "AI chatbots could drive billions in sales this holiday season. Consumers are turning to AI chatbots like ChatGPT for gift discovery, reviews and price matching.",
+            "date": "Fri, 12 Dec 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "AI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Costco’s profits rise as pizzas, pies and Black Friday see record sales",
+            "link": "https://www.marketwatch.com/story/costcos-profits-are-rising-but-what-about-its-sales-22825e07?mod=mw_rss_topstories",
+            "summary": ". Costco shows investors a mixed financial snapshot on Thursday. Costco is the largest U.S. warehouse chain, with more than 1,000 stores.",
+            "date": "Fri, 12 Dec 2025 12:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PSRAE.VI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bezos and Musk target AI through space. These Earthly stocks could benefit.",
+            "link": "https://www.marketwatch.com/story/bezos-and-musk-target-ai-through-space-these-earthly-stocks-could-benefit-5db439e3?mod=mw_rss_topstories",
+            "summary": "The investing edge is spotting where capital for orbital AI goes first, says Matthew Tuttle. Tuttle is the founder of a start-up company that develops artificial intelligence.",
+            "date": "Fri, 12 Dec 2025 12:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LLY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "America needs to get tough on technology — not make Nvidia chip deals with China",
+            "link": "https://www.marketwatch.com/story/america-needs-to-get-tough-on-technology-not-make-nvidia-chip-deals-with-china-3cac7965?mod=mw_rss_topstories",
+            "summary": "A “chip-for-chip” tariff could be a $230 billion revenue windfall. Chip-import dependence is a national-security threat.",
+            "date": "Fri, 12 Dec 2025 12:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BAC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Lululemon’s ousting of CEO draws praise from activist founder Chip Wilson",
+            "link": "https://www.marketwatch.com/story/lululemon-ceo-joins-the-ranks-of-departing-retail-executives-after-tumultuous-year-at-the-athleisure-company-577864b6?mod=mw_rss_topstories",
+            "summary": "Yoga-apparel retailer’s CEO joins the ranks of departing retail executives after tumultuous year. Yoga- Apparel CEO joins ranks of exiting retail execs after rocky year.",
+            "date": "Fri, 12 Dec 2025 12:44:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SOLC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Investors fear Time just jinxed the AI stock-market rally with its 2025 person of the year",
+            "link": "https://www.marketwatch.com/story/investors-fear-time-just-jinxed-the-ai-stock-market-rally-with-its-2025-person-of-the-year-fa37211b?mod=mw_rss_topstories",
+            "summary": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Visit CNN.com/Travel each week for a new gallery of snapshots from around the world.",
+            "date": "Fri, 12 Dec 2025 12:08:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "OHI",
             "impact": "Neutral"
         }
     ]
