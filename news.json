@@ -1,6 +1,18 @@
 {
-    "date": "2025-12-13",
+    "date": "2025-12-14",
     "news": [
+        {
+            "title": "End of 'The Berkshire Way'? Combs' departure isn't only big change as Buffett transition nears",
+            "link": "https://www.cnbc.com/2025/12/13/end-of-the-berkshire-way-combs-departure-isnt-only-big-change-as-buffett-transition-nears-.html",
+            "summary": "There were several additional personnel changes in Monday's three-page news release. The company is moving toward a more conventional structure, according to the release.",
+            "date": "Sat, 13 Dec 2025 18:24:36 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EXK",
+            "impact": "Neutral"
+        },
         {
             "title": "Trump says Kevin Warsh is at top of Fed chair candidate list, president should be consulted on rates",
             "link": "https://www.cnbc.com/2025/12/12/trump-kevin-warsh-fed-chair-rates.html",
@@ -26,27 +38,15 @@
             "impact": "Bullish"
         },
         {
-            "title": "'Stranger Things' ushered in a new era for Netflix",
-            "link": "https://www.cnbc.com/2025/12/13/stranger-things-netflix.html",
-            "summary": "Netflix has announced dozens of \"Stranger Things\" partnerships and collaborations with brands. A lot has changed since its first season in 2016, as Netflix has announced more partnerships.",
-            "date": "Sat, 13 Dec 2025 13:00:01 GMT",
+            "title": "Top Wall Street analysts are upbeat on these 3 dividend stocks for enhanced returns",
+            "link": "https://www.cnbc.com/2025/12/14/top-wall-street-analysts-are-upbeat-on-these-3-dividend-stocks-for-enhanced-returns.html",
+            "summary": "TipRanks' ranking service discusses three dividend-paying stocks. Devon Energy and CVS Health are two of the three stocks discussed. The other two stocks are Cigna and Rite Aid.",
+            "date": "Sun, 14 Dec 2025 12:56:25 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ATMH",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump expected to sign executive order to reclassify marijuana as soon as Monday, source tells CNBC; pot stocks surge",
-            "link": "https://www.cnbc.com/2025/12/12/cannabis-stocks-trump-regulations.html",
-            "summary": "Trump expected to sign executive order to reclassify marijuana as soon as Monday. Trump expected to signs executive order on reclassifying marijuana on Monday.",
-            "date": "Fri, 12 Dec 2025 21:22:02 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
@@ -62,34 +62,34 @@
             "impact": "Neutral"
         },
         {
-            "title": "Regime change in Venezuela could bring boost in oil production — but not as much as you’d think",
-            "link": "https://www.marketwatch.com/story/regime-change-in-venezuela-could-bring-boost-in-oil-production-but-not-as-much-as-youd-think-712a136c?mod=mw_rss_topstories",
-            "summary": "It would take time and billions of dollars to fix Venezuela’s oil infrastructure, experts say. It would also take time to fix the country's economy, which is in freefall.",
-            "date": "Sat, 13 Dec 2025 13:00:00 GMT",
+            "title": "You’ve just won the $1 billion Powerball jackpot. Here are the 5 money moves you need to make next.",
+            "link": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
+            "summary": "Even if you’re not a big lottery winner, it’s still worth heeding this advice for managing a significant sum of money.",
+            "date": "Sun, 14 Dec 2025 03:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PSRAE.VI",
+            "stock_ticker": "JUST",
             "impact": "Neutral"
         },
         {
-            "title": "‘The stress at my job is getting worse every day’: I’m 61, earn $177K, and have a 401(k) with $965K. Do I retire and downsize?",
-            "link": "https://www.marketwatch.com/story/the-stress-at-my-job-is-getting-worse-every-day-im-61-earn-177k-and-have-a-401-k-with-965k-do-i-retire-and-downsize-68376a3b?mod=mw_rss_topstories",
-            "summary": "“I don’t want to end up in a nursing home on Medicare like my grandma,” she says. “I’m not going to be like my grandmother.”",
-            "date": "Sat, 13 Dec 2025 12:14:00 GMT",
+            "title": "Kevin Warsh’s odds of becoming Fed chair leap higher as Dimon signals support",
+            "link": "https://www.marketwatch.com/story/kevin-warshs-odds-of-becoming-fed-chair-leap-higher-as-dimon-signals-support-cf0f0c04?mod=mw_rss_topstories",
+            "summary": "President Trump said he was leaning toward choosing either Warsh or Kevin Hassett to succeed Fed Chair Jerome Powell. Warsh and Hassett are both former members of the Federal Reserve Board.",
+            "date": "Sat, 13 Dec 2025 21:08:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Bullish"
+            "stock_ticker": "KEVIN25092-USD",
+            "impact": "Neutral"
         },
         {
             "title": "My Taiwanese immigrant friend started working in Walmart for minimum wage and retired with $2 million. What was her secret?",
             "link": "https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories",
             "summary": "“She owns two houses and lives with a disabled son,” says a friend of the victim. “She’s a good woman,’ the friend adds.",
-            "date": "Sat, 13 Dec 2025 11:13:00 GMT",
+            "date": "Sat, 13 Dec 2025 20:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,22 +98,22 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘This feels like an opportunity’: I’m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
-            "link": "https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories",
-            "summary": "“I also have $1,000 on a credit card, which will be paid in full next month,” she says.",
-            "date": "Sat, 13 Dec 2025 10:13:00 GMT",
+            "title": "‘The stress at my job is getting worse every day’: I’m 61, earn $177K, and have a 401(k) with $965K. Do I retire and downsize?",
+            "link": "https://www.marketwatch.com/story/the-stress-at-my-job-is-getting-worse-every-day-im-61-earn-177k-and-have-a-401-k-with-965k-do-i-retire-and-downsize-68376a3b?mod=mw_rss_topstories",
+            "summary": "“I don’t want to end up in a nursing home on Medicare like my grandma,” she says. “I’m not going to be like my grandmother.”",
+            "date": "Sat, 13 Dec 2025 20:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
-            "impact": "Neutral"
+            "stock_ticker": "BA",
+            "impact": "Bullish"
         },
         {
-            "title": "‘This seems absolutely insane’: Our children pay rent on our investment properties. Our lawyer says they should still buy us out.",
-            "link": "https://www.marketwatch.com/story/this-seems-absolutely-insane-our-children-pay-rent-on-our-investment-properties-our-lawyer-says-they-should-still-buy-us-out-49d2707d?mod=mw_rss_topstories",
-            "summary": "“They have already paid the mortgage. It makes no sense to require them to ‘pay’ it again,” he said.",
-            "date": "Sat, 13 Dec 2025 00:30:00 GMT",
+            "title": "‘This feels like an opportunity’: I’m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
+            "link": "https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories",
+            "summary": "“I also have $1,000 on a credit card, which will be paid in full next month,” she says.",
+            "date": "Sat, 13 Dec 2025 20:36:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
