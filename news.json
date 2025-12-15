@@ -1,16 +1,52 @@
 {
-    "date": "2025-12-14",
+    "date": "2025-12-15",
     "news": [
         {
-            "title": "End of 'The Berkshire Way'? Combs' departure isn't only big change as Buffett transition nears",
-            "link": "https://www.cnbc.com/2025/12/13/end-of-the-berkshire-way-combs-departure-isnt-only-big-change-as-buffett-transition-nears-.html",
-            "summary": "There were several additional personnel changes in Monday's three-page news release. The company is moving toward a more conventional structure, according to the release.",
-            "date": "Sat, 13 Dec 2025 18:24:36 GMT",
+            "title": "High cost of goods is causing consumers to spend less for the holidays, CNBC survey finds",
+            "link": "https://www.cnbc.com/2025/12/15/inflation-causing-less-holiday-spending-cnbc-all-america-economic-survey.html",
+            "summary": "CNBC All-America Economic Survey found the \"high cost of goods\" has emerged as a major factor affecting how much shoppers spend and where they spend.",
+            "date": "Mon, 15 Dec 2025 13:13:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EXK",
+            "stock_ticker": "HIGH",
+            "impact": "Neutral"
+        },
+        {
+            "title": "FDA approved a $250,000 Singapore work trip during government shutdown, records show",
+            "link": "https://www.cnbc.com/2025/12/15/fda-staff-trip-singapore-government-shutdown.html",
+            "summary": "The FDA sent 31 staffers to a Singapore conference during the shutdown, records show. The move raises questions of optics, spending and the agency's strained resources.",
+            "date": "Mon, 15 Dec 2025 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AEF2.HA",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Ukraine gives up joining NATO in bid to shift the dial in Russia peace talks",
+            "link": "https://www.cnbc.com/2025/12/15/ukraine-gives-up-joining-nato-in-bid-to-shift-the-dial-in-peace-talks.html",
+            "summary": "Russia's opposition made NATO membership unlikely for Ukraine, but it's a major policy shift to publicly abandon the goal. Russia's opposition has said NATO membership is unlikely but not impossible.",
+            "date": "Mon, 15 Dec 2025 11:50:44 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DE000SL0P475.SG",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Goldman Sachs makes big bet on ETFs specializing in downside protection",
+            "link": "https://www.cnbc.com/2025/12/13/goldman-sachs-makes-big-bet-on-etfs-focusing-on-downside-protection-.html",
+            "summary": "Goldman Sachs Asset Management is making a big bet on defined outcome exchange-traded funds. The funds use options to help protect against market losses.",
+            "date": "Sat, 13 Dec 2025 16:43:08 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GSGO",
             "impact": "Neutral"
         },
         {
@@ -26,99 +62,63 @@
             "impact": "Neutral"
         },
         {
-            "title": "Financial fraud cost older adults up to $81.5 billion in 2024, FTC estimates — more are losing at least $100,000",
-            "link": "https://www.cnbc.com/2025/12/13/financial-fraud-seniors-ftc.html",
-            "summary": "From 2020 to 2024, the 60-plus age group's reported losses have jumped 300% to $2.4 billion from $600 million.",
-            "date": "Sat, 13 Dec 2025 12:30:01 GMT",
+            "title": "Gen X-ers are lagging behind in  retirement saving and planning. Here’s how to catch up.",
+            "link": "https://www.marketwatch.com/story/gen-x-ers-are-lagging-behind-in-retirement-saving-and-planning-heres-how-to-catch-up-0d85f543?mod=mw_rss_topstories",
+            "summary": "A majority of Gen X-ers didn’t prioritize retirement until age 50 or older. A majority of Generation Z-ers don��’s priority retirement is at age 50.",
+            "date": "Mon, 15 Dec 2025 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XAF=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Top Wall Street analysts are upbeat on these 3 dividend stocks for enhanced returns",
-            "link": "https://www.cnbc.com/2025/12/14/top-wall-street-analysts-are-upbeat-on-these-3-dividend-stocks-for-enhanced-returns.html",
-            "summary": "TipRanks' ranking service discusses three dividend-paying stocks. Devon Energy and CVS Health are two of the three stocks discussed. The other two stocks are Cigna and Rite Aid.",
-            "date": "Sun, 14 Dec 2025 12:56:25 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "GEN",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says 'no big deal' after Jeffrey Epstein photos showing him released",
-            "link": "https://www.cnbc.com/2025/12/12/epstein-files-trump-clinton-gates-photos.html",
-            "summary": "Democrats on the House Oversight Committee released the photos to pressure the Trump administration to release files about Jeffrey Epstein. The photos were taken at Epstein's Florida mansion.",
-            "date": "Fri, 12 Dec 2025 23:18:45 GMT",
+            "title": "AI is crushing these once-reliable tech stocks. Are investors missing the point?",
+            "link": "https://www.marketwatch.com/story/ai-is-crushing-these-once-reliable-tech-stocks-are-investors-missing-the-point-7bc222ac?mod=mw_rss_topstories",
+            "summary": "FactSet and Gartner are among the S&amp;P 500’s worst performers this year. Some on Wall Street see resilient and sticky businesses that can adapt to AI.",
+            "date": "Mon, 15 Dec 2025 13:19:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "AI",
             "impact": "Neutral"
         },
         {
-            "title": "You’ve just won the $1 billion Powerball jackpot. Here are the 5 money moves you need to make next.",
-            "link": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
-            "summary": "Even if you’re not a big lottery winner, it’s still worth heeding this advice for managing a significant sum of money.",
-            "date": "Sun, 14 Dec 2025 03:12:00 GMT",
+            "title": "Why gold and bitcoin are uninvestible to this Wall Street legend",
+            "link": "https://www.marketwatch.com/story/why-gold-and-bitcoin-are-uninvestible-to-this-wall-street-legend-a9aff245?mod=mw_rss_topstories",
+            "summary": "Howard Marks has been writing investment memos for 35 years. The one thing you’ll never read is him making the case for gold or bitcoin.",
+            "date": "Mon, 15 Dec 2025 13:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JUST",
+            "stock_ticker": "3823.T",
             "impact": "Neutral"
         },
         {
-            "title": "Kevin Warsh’s odds of becoming Fed chair leap higher as Dimon signals support",
-            "link": "https://www.marketwatch.com/story/kevin-warshs-odds-of-becoming-fed-chair-leap-higher-as-dimon-signals-support-cf0f0c04?mod=mw_rss_topstories",
-            "summary": "President Trump said he was leaning toward choosing either Warsh or Kevin Hassett to succeed Fed Chair Jerome Powell. Warsh and Hassett are both former members of the Federal Reserve Board.",
-            "date": "Sat, 13 Dec 2025 21:08:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KEVIN25092-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My Taiwanese immigrant friend started working in Walmart for minimum wage and retired with $2 million. What was her secret?",
-            "link": "https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories",
-            "summary": "“She owns two houses and lives with a disabled son,” says a friend of the victim. “She’s a good woman,’ the friend adds.",
-            "date": "Sat, 13 Dec 2025 20:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘The stress at my job is getting worse every day’: I’m 61, earn $177K, and have a 401(k) with $965K. Do I retire and downsize?",
-            "link": "https://www.marketwatch.com/story/the-stress-at-my-job-is-getting-worse-every-day-im-61-earn-177k-and-have-a-401-k-with-965k-do-i-retire-and-downsize-68376a3b?mod=mw_rss_topstories",
-            "summary": "“I don’t want to end up in a nursing home on Medicare like my grandma,” she says. “I’m not going to be like my grandmother.”",
-            "date": "Sat, 13 Dec 2025 20:37:00 GMT",
+            "title": "The AI boom will turn to bust in 2026, says this forecaster who offers his trade of the year",
+            "link": "https://www.marketwatch.com/story/the-ai-boom-will-turn-to-bust-next-year-says-this-forecaster-who-offers-his-trade-of-the-year-9c2a2332?mod=mw_rss_topstories",
+            "summary": "High valuations leave stocks vulnerable to a big tech sell-off, according to BCA Research. BCA says tech stocks could be vulnerable to big sell-offs in the near future.",
+            "date": "Mon, 15 Dec 2025 12:48:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BA",
-            "impact": "Bullish"
+            "impact": "Neutral"
         },
         {
-            "title": "‘This feels like an opportunity’: I’m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
-            "link": "https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories",
-            "summary": "“I also have $1,000 on a credit card, which will be paid in full next month,” she says.",
-            "date": "Sat, 13 Dec 2025 20:36:00 GMT",
+            "title": "The deadline to enroll in Obamacare is Monday if you want coverage to start Jan. 1",
+            "link": "https://www.marketwatch.com/story/the-deadline-to-enroll-in-obamacare-is-monday-if-you-want-coverage-to-start-jan-1-430041a5?mod=mw_rss_topstories",
+            "summary": "The subsidies that made Affordable Care Act plans more affordable are expiring. The marketplace coverage in 2026 will be much more expensive, experts say.",
+            "date": "Mon, 15 Dec 2025 12:36:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         }
     ]
