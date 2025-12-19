@@ -1,124 +1,124 @@
 {
-    "date": "2025-12-18",
+    "date": "2025-12-19",
     "news": [
         {
-            "title": "November's inflation report is the first to be released after the shutdown. Here's what to expect",
-            "link": "https://www.cnbc.com/2025/12/17/novembers-inflation-report-is-the-first-to-be-released-after-the-shutdown.html",
-            "summary": "November's CPI report is expected to show the annual inflation rate at 3.1%. Economists polled by Dow Jones expect the rate to be the same as in October.",
-            "date": "Thu, 18 Dec 2025 11:27:57 GMT",
+            "title": "UnitedHealth Group commits to improvements after independent audit, patient backlash",
+            "link": "https://www.cnbc.com/2025/12/19/unitedhealth-group-results-independent-audit-investigation.html",
+            "summary": "The company said it has adopted 23 ongoing \"action plans\" to track and implement recommended improvements. All of the plans will be completed by the end of March.",
+            "date": "Fri, 19 Dec 2025 12:38:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IVOL",
+            "stock_ticker": "UNH",
             "impact": "Neutral"
         },
         {
-            "title": "Trump Media announces $6 billion merger with fusion company TAE Technologies; DJT stock soars 25%",
-            "link": "https://www.cnbc.com/2025/12/18/trump-media-djt-tae-fusion-merger.html",
-            "summary": "Trump Media and Technology Group announced a merger agreement with fusion power company TAE Technologies. The deal is valued at more than $6 billion.",
-            "date": "Thu, 18 Dec 2025 13:02:39 GMT",
+            "title": "Waller had a 'strong interview' for Fed chair with Trump as president appears to turn focus to job market",
+            "link": "https://www.cnbc.com/2025/12/19/waller-had-a-strong-interview-for-fed-chair-with-trump.html",
+            "summary": "The positive description of the Waller interview by officials was not necessarily an indication that he was a favorite candidate for the job. The positive description was just part of the interview, officials said.",
+            "date": "Fri, 19 Dec 2025 13:26:35 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "9601.SR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "CNBC's Official College Sports Valuations 2025: Top 75 athletic programs",
+            "link": "https://www.cnbc.com/2025/12/19/cnbc-official-college-sports-valuations-2025-top-75-athletic-programs.html",
+            "summary": "The top 75 programs in the world are worth a combined $51.22 billion. That's 13% more than the top 75 in last year's rankings.",
+            "date": "Fri, 19 Dec 2025 12:07:08 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RXO-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Wall Street banked on a flurry of deals under Trump in 2025. It wasn't that simple",
+            "link": "https://www.cnbc.com/2025/12/19/wall-street-deals-2025-trump-tariffs-uncertainty.html",
+            "summary": "Dealmakers expected a flood of M&amp;A to take place in 2025 following the election of President Trump. The number of transactions didn't live up to the hype.",
+            "date": "Fri, 19 Dec 2025 12:30:02 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WBX",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Jeffrey Epstein files hit deadline for ordered release by DOJ on Friday",
+            "link": "https://www.cnbc.com/2025/12/19/jeffrey-epstein-files-doj-release-order-maxwell.html",
+            "summary": "The DOJ for months had resisted calls to released the Epstein files. The DOJ has not said why it took so long to release the files.",
+            "date": "Fri, 19 Dec 2025 12:59:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EPSTAIN-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These are the secrets to Buffett’s investment success, according to this billionaire investor",
+            "link": "https://www.marketwatch.com/story/these-are-the-secrets-to-buffetts-investment-success-according-to-this-billionaire-investor-6e4d0e4e?mod=mw_rss_topstories",
+            "summary": "Seth Klarman, CEO and portfolio manager of the value-oriented investment management fund Baupost Group, says investors have much to learn from Warren Buffett.",
+            "date": "Fri, 19 Dec 2025 13:20:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ARE",
+            "impact": "Bullish"
+        },
+        {
+            "title": "‘I’m not looking to leave any money to the kids’: We’re in our 60s with $1.5 million in IRAs. Can we retire next year?",
+            "link": "https://www.marketwatch.com/story/im-not-looking-to-leave-any-money-to-the-kids-were-in-our-60s-with-1-5-million-in-iras-can-we-retire-next-year-10da42a0?mod=mw_rss_topstories",
+            "summary": "“Our current salary combined is $210,000,” he says. “We’re in a position of power. We’ve got to do something.”",
+            "date": "Fri, 19 Dec 2025 13:07:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BMNR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump says affordability is a ‘hoax,’ but consumers should expect more pain in 2026",
+            "link": "https://www.marketwatch.com/story/affordability-is-a-con-job-for-consumers-2025-was-one-hell-of-a-year-what-can-we-learn-from-it-4c99b891?mod=mw_rss_topstories",
+            "summary": "Tariffs, an AI boom, geopolitical divisions and a new administration ushered in a unique, unsettling year for consumers. The year was also marked by a rise in the number of women in the workforce.",
+            "date": "Fri, 19 Dec 2025 12:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Eli Lilly says obesity pill helps maintain weight loss after patients switch from Wegovy, Zepbound",
-            "link": "https://www.cnbc.com/2025/12/18/eli-lilly-obesity-pill-maintains-weight-loss-after-wegovy-zepbound-.html",
-            "summary": "Eli Lilly also said it has filed for Food and Drug Administration approval of the daily GLP-1 pill, called orforglipron, for obesity.",
-            "date": "Thu, 18 Dec 2025 11:51:29 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LLY",
             "impact": "Neutral"
         },
         {
-            "title": "Chipotle chases the protein craze with new menu items — including meat in a cup",
-            "link": "https://www.cnbc.com/2025/12/18/chipotle-high-protein-snack-meat-cup.html",
-            "summary": "Chipotle is launching a high-protein snack menu, including a new protein cup. The chain is looking to revive demand amid slowing sales and shifting eating habits.",
-            "date": "Thu, 18 Dec 2025 13:18:42 GMT",
+            "title": "‘I’m terrified I’ll be homeless when my husband, 76, stops working’: We only have $100K. What happens to people like us?",
+            "link": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
+            "summary": "“I’m sick of reading how many millions everyone has,” she says. “I'm sick of seeing how many billions everyone has.”",
+            "date": "Fri, 19 Dec 2025 12:48:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CMG",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Health care is the 'engine' of the job market — and that's risky for the economy",
-            "link": "https://www.cnbc.com/2025/12/18/health-care-jobs.html",
-            "summary": "Health care is a bright spot in the cooling job market. However, that poses risks to the economy if the sector falters. Health care is one of the few areas of growth in the U.S.",
-            "date": "Thu, 18 Dec 2025 13:27:28 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "XVT=F",
+            "stock_ticker": "BMNR",
             "impact": "Neutral"
         },
         {
-            "title": "From on-device AI to the ‘girlfriend index,’ trading ideas from the research firm that nailed 2025’s investment themes",
-            "link": "https://www.marketwatch.com/story/from-on-device-ai-to-the-girlfriend-index-trading-ideas-from-the-research-firm-that-nailed-2025s-investment-themes-34d3143f?mod=mw_rss_topstories",
-            "summary": "Citrini Research nailed many investment themes for 2025. Here are a handful of ideas they see delivering potential in 2026. Citrini has a number of ideas that could be big winners in the coming years.",
-            "date": "Thu, 18 Dec 2025 13:21:00 GMT",
+            "title": "‘I don’t know how much my wife earns’: I’m 63 with $6.4 million in stocks, mostly Apple. Will I get punished on taxes?",
+            "link": "https://www.marketwatch.com/story/i-dont-know-how-much-my-wife-earns-im-63-with-6-4-million-in-stocks-mostly-apple-will-i-get-punished-on-taxes-41c18f41?mod=mw_rss_topstories",
+            "summary": "“Each of our properties are worth over $1 million,” he says. “Each one of us is worth more than a million dollars.”",
+            "date": "Fri, 19 Dec 2025 12:48:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFCF",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Flu season is ‘early’ and ‘aggressive’ in New York City. Here’s what that means for the rest of the country.",
-            "link": "https://www.marketwatch.com/story/flu-season-is-early-and-aggressive-in-new-york-city-heres-what-that-means-for-the-rest-of-the-country-056cdbbf?mod=mw_rss_topstories",
-            "summary": "A new variant called H3N2 subclade K is causing most of the illness this season. The new strain is a strain of H3n2 that has never been seen before.",
-            "date": "Thu, 18 Dec 2025 13:09:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FLNC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fear of losing your job is no way to get employees on board with AI",
-            "link": "https://www.marketwatch.com/story/fear-of-losing-your-job-is-no-way-to-get-employees-on-board-with-ai-60953399?mod=mw_rss_topstories",
-            "summary": "Companies want workers to embrace AI, but a hardline ultimatum will backfire, experts say. Companies want to make it easier for workers to work with AI, they say.",
-            "date": "Thu, 18 Dec 2025 13:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FEAR-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why Trump Media is getting into the nuclear business with $6 billion TAE deal",
-            "link": "https://www.marketwatch.com/story/why-trump-media-is-getting-into-the-nuclear-business-with-6-billion-tae-deal-0bab63c6?mod=mw_rss_topstories",
-            "summary": "Trump Media’s stock is soaring as the Truth Social operator looks to get in on a hot AI power trend. Trump Media is a division of Trump Communications.",
-            "date": "Thu, 18 Dec 2025 12:40:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "3823.T",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The next year will be for stock picking — and the next two weeks should see gains, says Goldman Sachs",
-            "link": "https://www.marketwatch.com/story/the-next-year-will-be-for-stock-picking-and-the-next-two-weeks-should-see-gains-says-goldman-sachs-c9e59530?mod=mw_rss_topstories",
-            "summary": "Goldman Sachs says stocks won’t be tugging the same way next year. One interpretation of options market pricing by Goldman Sachs.",
-            "date": "Thu, 18 Dec 2025 12:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
+            "stock_ticker": "MDLN",
             "impact": "Neutral"
         }
     ]
