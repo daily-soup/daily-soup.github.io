@@ -1,125 +1,125 @@
 {
-    "date": "2025-12-19",
+    "date": "2025-12-20",
     "news": [
         {
-            "title": "UnitedHealth Group commits to improvements after independent audit, patient backlash",
-            "link": "https://www.cnbc.com/2025/12/19/unitedhealth-group-results-independent-audit-investigation.html",
-            "summary": "The company said it has adopted 23 ongoing \"action plans\" to track and implement recommended improvements. All of the plans will be completed by the end of March.",
-            "date": "Fri, 19 Dec 2025 12:38:22 GMT",
+            "title": "Google was at risk of losing its dominance — until it promoted this AI executive",
+            "link": "https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html",
+            "summary": "Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.",
+            "date": "Sat, 20 Dec 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UNH",
+            "stock_ticker": "GOOG",
             "impact": "Neutral"
         },
         {
-            "title": "Waller had a 'strong interview' for Fed chair with Trump as president appears to turn focus to job market",
-            "link": "https://www.cnbc.com/2025/12/19/waller-had-a-strong-interview-for-fed-chair-with-trump.html",
-            "summary": "The positive description of the Waller interview by officials was not necessarily an indication that he was a favorite candidate for the job. The positive description was just part of the interview, officials said.",
-            "date": "Fri, 19 Dec 2025 13:26:35 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "9601.SR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "CNBC's Official College Sports Valuations 2025: Top 75 athletic programs",
-            "link": "https://www.cnbc.com/2025/12/19/cnbc-official-college-sports-valuations-2025-top-75-athletic-programs.html",
-            "summary": "The top 75 programs in the world are worth a combined $51.22 billion. That's 13% more than the top 75 in last year's rankings.",
-            "date": "Fri, 19 Dec 2025 12:07:08 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RXO-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Wall Street banked on a flurry of deals under Trump in 2025. It wasn't that simple",
-            "link": "https://www.cnbc.com/2025/12/19/wall-street-deals-2025-trump-tariffs-uncertainty.html",
-            "summary": "Dealmakers expected a flood of M&amp;A to take place in 2025 following the election of President Trump. The number of transactions didn't live up to the hype.",
-            "date": "Fri, 19 Dec 2025 12:30:02 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WBX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Jeffrey Epstein files hit deadline for ordered release by DOJ on Friday",
+            "title": "Epstein files released by DOJ",
             "link": "https://www.cnbc.com/2025/12/19/jeffrey-epstein-files-doj-release-order-maxwell.html",
-            "summary": "The DOJ for months had resisted calls to released the Epstein files. The DOJ has not said why it took so long to release the files.",
-            "date": "Fri, 19 Dec 2025 12:59:00 GMT",
+            "summary": "President Donald Trump signed the Epstein Files Transparency Act in November. The act is aimed at transparency in the sex scandal involving billionaire financier Jeffrey Epstein.",
+            "date": "Sat, 20 Dec 2025 00:05:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EPSTAIN-USD",
+            "stock_ticker": "BY",
             "impact": "Neutral"
         },
         {
-            "title": "These are the secrets to Buffett’s investment success, according to this billionaire investor",
-            "link": "https://www.marketwatch.com/story/these-are-the-secrets-to-buffetts-investment-success-according-to-this-billionaire-investor-6e4d0e4e?mod=mw_rss_topstories",
-            "summary": "Seth Klarman, CEO and portfolio manager of the value-oriented investment management fund Baupost Group, says investors have much to learn from Warren Buffett.",
-            "date": "Fri, 19 Dec 2025 13:20:00 GMT",
+            "title": "Nine of the largest pharma companies ink deals with Trump to lower drug prices",
+            "link": "https://www.cnbc.com/2025/12/19/nine-pharma-companies-ink-deals-with-trump-to-lower-drug-prices.html",
+            "summary": "President Donald Trump has pushed to lower drug prices for Americans. Drug prices in the U.S. are on average nearly three times higher than overseas.",
+            "date": "Fri, 19 Dec 2025 22:14:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ARE",
-            "impact": "Bullish"
-        },
-        {
-            "title": "‘I’m not looking to leave any money to the kids’: We’re in our 60s with $1.5 million in IRAs. Can we retire next year?",
-            "link": "https://www.marketwatch.com/story/im-not-looking-to-leave-any-money-to-the-kids-were-in-our-60s-with-1-5-million-in-iras-can-we-retire-next-year-10da42a0?mod=mw_rss_topstories",
-            "summary": "“Our current salary combined is $210,000,” he says. “We’re in a position of power. We’ve got to do something.”",
-            "date": "Fri, 19 Dec 2025 13:07:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "NINE",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says affordability is a ‘hoax,’ but consumers should expect more pain in 2026",
-            "link": "https://www.marketwatch.com/story/affordability-is-a-con-job-for-consumers-2025-was-one-hell-of-a-year-what-can-we-learn-from-it-4c99b891?mod=mw_rss_topstories",
-            "summary": "Tariffs, an AI boom, geopolitical divisions and a new administration ushered in a unique, unsettling year for consumers. The year was also marked by a rise in the number of women in the workforce.",
-            "date": "Fri, 19 Dec 2025 12:50:00 GMT",
+            "title": "How Build-A-Bear went from a penny stock to a retail winner",
+            "link": "https://www.cnbc.com/2025/12/20/build-a-bear-workshop-bbw.html",
+            "summary": "Under CEO Sharon Price John, the company has undergone a significant turnaround. Build-A-Bear Workshop's business plummeted during the pandemic.",
+            "date": "Sat, 20 Dec 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m terrified I’ll be homeless when my husband, 76, stops working’: We only have $100K. What happens to people like us?",
-            "link": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
-            "summary": "“I’m sick of reading how many millions everyone has,” she says. “I'm sick of seeing how many billions everyone has.”",
-            "date": "Fri, 19 Dec 2025 12:48:00 GMT",
+            "title": "NY Fed President Williams says some 'technical factors' distorted November's CPI reading downward",
+            "link": "https://www.cnbc.com/2025/12/19/ny-fed-president-williams-says-some-technical-factors-distorted-novembers-cpi-reading-downward.html",
+            "summary": "\"Technical factors\" likely distorted November's inflation data, Williams says. That pushed the headline reading lower than it otherwise would have been, he says.",
+            "date": "Fri, 19 Dec 2025 15:48:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "SF=F",
             "impact": "Neutral"
         },
         {
-            "title": "‘I don’t know how much my wife earns’: I’m 63 with $6.4 million in stocks, mostly Apple. Will I get punished on taxes?",
-            "link": "https://www.marketwatch.com/story/i-dont-know-how-much-my-wife-earns-im-63-with-6-4-million-in-stocks-mostly-apple-will-i-get-punished-on-taxes-41c18f41?mod=mw_rss_topstories",
-            "summary": "“Each of our properties are worth over $1 million,” he says. “Each one of us is worth more than a million dollars.”",
-            "date": "Fri, 19 Dec 2025 12:48:00 GMT",
+            "title": "Adobe and these 9 fellow tech stocks are rarely this cheap. Are they great deals or value traps?",
+            "link": "https://www.marketwatch.com/story/adobe-and-these-9-fellow-tech-stocks-are-rarely-this-cheap-are-they-great-deals-or-value-traps-ea450807?mod=mw_rss_topstories",
+            "summary": "The AI threat has led storied software stocks like Salesforce and Adobe to trade near their cheapest levels in years. Analysts are divided on which names will re-emerge as winners.",
+            "date": "Sat, 20 Dec 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MDLN",
+            "stock_ticker": "ADBE",
             "impact": "Neutral"
+        },
+        {
+            "title": "In 2024, prediction markets called the presidential election before the polls could. Now, they’re mostly betting on sports.",
+            "link": "https://www.marketwatch.com/story/in-2024-prediction-markets-called-the-presidential-election-before-the-polls-could-now-theyre-mostly-betting-on-sports-113cc8cf?mod=mw_rss_topstories",
+            "summary": "Prediction markets saw exponential growth in 2025, according to a new report. The prediction market is set to grow even faster in the future, the report says.",
+            "date": "Sat, 20 Dec 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "OBTC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My husband and I are splitting our estate between his child and my three children. Should they get equal shares?",
+            "link": "https://www.marketwatch.com/story/my-husband-and-i-are-splitting-our-estate-between-his-child-and-my-three-children-should-they-get-equal-shares-ef1c0061?mod=mw_rss_topstories",
+            "summary": "“We try to help all our kids when we can, yet push for self-sufficiency,” she says. “We’re trying to help them as much as we can.”",
+            "date": "Sat, 20 Dec 2025 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Rocket Lab’s stock blasts to a new high. Here’s what’s driving the surge.",
+            "link": "https://www.marketwatch.com/story/rocket-labs-stock-blasts-toward-new-high-heres-whats-driving-the-surge-78814c96?mod=mw_rss_topstories",
+            "summary": "The rocket-launch company just completed a government contract months ahead of schedule — and won a new one. The contract is with the U.S. Department of Defense.",
+            "date": "Sat, 20 Dec 2025 00:09:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RKLB",
+            "impact": "Neutral"
+        },
+        {
+            "title": "As stock-market rally broadens, it’s tough for the S&P 500 to keep advancing without tech",
+            "link": "https://www.marketwatch.com/story/as-stock-market-rally-broadens-its-tough-for-the-s-p-500-to-keep-advancing-without-tech-0b8185ae?mod=mw_rss_topstories",
+            "summary": "The S&amp;P 500’s tech sector is down so far this month, even after its big rally on Friday. The tech sector has been the worst-performing sector in the S&P 500 this year.",
+            "date": "Fri, 19 Dec 2025 23:56:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AS",
+            "impact": "Bearish"
         }
     ]
 }
