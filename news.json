@@ -1,95 +1,83 @@
 {
-    "date": "2025-12-20",
+    "date": "2025-12-21",
     "news": [
         {
-            "title": "Google was at risk of losing its dominance — until it promoted this AI executive",
-            "link": "https://www.cnbc.com/2025/12/20/josh-woodward-google-gemini-ai-safety.html",
-            "summary": "Josh Woodward, a 16-year Google veteran, is tasked with running the Gemini app and going head-to-head with OpenAI in the booming generative AI market.",
-            "date": "Sat, 20 Dec 2025 12:00:01 GMT",
+            "title": "AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts",
+            "link": "https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html",
+            "summary": "Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025. Some of the largest tech companies are laying off workers and cutting jobs in favor of AI.",
+            "date": "Sun, 21 Dec 2025 08:10:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOOG",
+            "stock_ticker": "AI",
             "impact": "Neutral"
         },
         {
-            "title": "Epstein files released by DOJ",
-            "link": "https://www.cnbc.com/2025/12/19/jeffrey-epstein-files-doj-release-order-maxwell.html",
-            "summary": "President Donald Trump signed the Epstein Files Transparency Act in November. The act is aimed at transparency in the sex scandal involving billionaire financier Jeffrey Epstein.",
-            "date": "Sat, 20 Dec 2025 00:05:20 GMT",
+            "title": "Epstein files: A number of documents, including Trump photo, reportedly removed from DOJ release site",
+            "link": "https://www.cnbc.com/2025/12/20/trump-epstein-files-doj-photo.html",
+            "summary": "A missing photo shows a desk displaying a large assortment of framed pictures and other items. Among them is a picture showing President Donald Trump's face.",
+            "date": "Sun, 21 Dec 2025 11:03:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BY",
+            "stock_ticker": "A",
             "impact": "Neutral"
         },
         {
-            "title": "Nine of the largest pharma companies ink deals with Trump to lower drug prices",
-            "link": "https://www.cnbc.com/2025/12/19/nine-pharma-companies-ink-deals-with-trump-to-lower-drug-prices.html",
-            "summary": "President Donald Trump has pushed to lower drug prices for Americans. Drug prices in the U.S. are on average nearly three times higher than overseas.",
-            "date": "Fri, 19 Dec 2025 22:14:26 GMT",
+            "title": "Xbox is losing the console race by miles. It's part of Microsoft's big gaming pivot",
+            "link": "https://www.cnbc.com/2025/12/21/xbox-console-war-playstation-switch.html",
+            "summary": "Sales of Microsoft's Xbox Series S and Series X are even behind the original Nintendo Switch, which launched in 2017. Sales of the original Switch were even higher than those of the Xbox One.",
+            "date": "Sun, 21 Dec 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NINE",
+            "stock_ticker": "ISKHUX=X",
             "impact": "Neutral"
         },
         {
-            "title": "How Build-A-Bear went from a penny stock to a retail winner",
-            "link": "https://www.cnbc.com/2025/12/20/build-a-bear-workshop-bbw.html",
-            "summary": "Under CEO Sharon Price John, the company has undergone a significant turnaround. Build-A-Bear Workshop's business plummeted during the pandemic.",
-            "date": "Sat, 20 Dec 2025 12:00:01 GMT",
+            "title": "Roomba's bankruptcy may wreck a lot more than one robot vacuum maker",
+            "link": "https://www.cnbc.com/2025/12/20/roomba-bankruptcy-robot-vacuum-maker.html",
+            "summary": "Roomba's bankruptcy should serve as a warning sign to many small companies that big tech may not be able to come to the rescue, experts say.",
+            "date": "Sat, 20 Dec 2025 14:21:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "MEC",
+            "impact": "Bullish"
+        },
+        {
+            "title": "CNBC's Official College Sports Valuations 2025: Top 75 athletic programs",
+            "link": "https://www.cnbc.com/2025/12/19/cnbc-official-college-sports-valuations-2025-top-75-athletic-programs.html",
+            "summary": "The top 75 programs in the world are worth a combined $51.22 billion. That's 13% more than the top 75 in last year's rankings.",
+            "date": "Fri, 19 Dec 2025 12:07:08 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RXO-USD",
             "impact": "Neutral"
         },
         {
-            "title": "NY Fed President Williams says some 'technical factors' distorted November's CPI reading downward",
-            "link": "https://www.cnbc.com/2025/12/19/ny-fed-president-williams-says-some-technical-factors-distorted-novembers-cpi-reading-downward.html",
-            "summary": "\"Technical factors\" likely distorted November's inflation data, Williams says. That pushed the headline reading lower than it otherwise would have been, he says.",
-            "date": "Fri, 19 Dec 2025 15:48:35 GMT",
+            "title": "‘I’m not looking to leave any money to the kids’: We’re in our 60s with $1.5 million in IRAs. Can we retire next year?",
+            "link": "https://www.marketwatch.com/story/im-not-looking-to-leave-any-money-to-the-kids-were-in-our-60s-with-1-5-million-in-iras-can-we-retire-next-year-10da42a0?mod=mw_rss_topstories",
+            "summary": "“Our current salary combined is $210,000,” he says. “We’re in a position of power. We’ve got to do something.”",
+            "date": "Sun, 21 Dec 2025 10:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SF=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Adobe and these 9 fellow tech stocks are rarely this cheap. Are they great deals or value traps?",
-            "link": "https://www.marketwatch.com/story/adobe-and-these-9-fellow-tech-stocks-are-rarely-this-cheap-are-they-great-deals-or-value-traps-ea450807?mod=mw_rss_topstories",
-            "summary": "The AI threat has led storied software stocks like Salesforce and Adobe to trade near their cheapest levels in years. Analysts are divided on which names will re-emerge as winners.",
-            "date": "Sat, 20 Dec 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ADBE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "In 2024, prediction markets called the presidential election before the polls could. Now, they’re mostly betting on sports.",
-            "link": "https://www.marketwatch.com/story/in-2024-prediction-markets-called-the-presidential-election-before-the-polls-could-now-theyre-mostly-betting-on-sports-113cc8cf?mod=mw_rss_topstories",
-            "summary": "Prediction markets saw exponential growth in 2025, according to a new report. The prediction market is set to grow even faster in the future, the report says.",
-            "date": "Sat, 20 Dec 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OBTC",
+            "stock_ticker": "BMNR",
             "impact": "Neutral"
         },
         {
             "title": "My husband and I are splitting our estate between his child and my three children. Should they get equal shares?",
             "link": "https://www.marketwatch.com/story/my-husband-and-i-are-splitting-our-estate-between-his-child-and-my-three-children-should-they-get-equal-shares-ef1c0061?mod=mw_rss_topstories",
             "summary": "“We try to help all our kids when we can, yet push for self-sufficiency,” she says. “We’re trying to help them as much as we can.”",
-            "date": "Sat, 20 Dec 2025 12:00:00 GMT",
+            "date": "Sun, 21 Dec 2025 10:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,28 +86,40 @@
             "impact": "Neutral"
         },
         {
-            "title": "Rocket Lab’s stock blasts to a new high. Here’s what’s driving the surge.",
-            "link": "https://www.marketwatch.com/story/rocket-labs-stock-blasts-toward-new-high-heres-whats-driving-the-surge-78814c96?mod=mw_rss_topstories",
-            "summary": "The rocket-launch company just completed a government contract months ahead of schedule — and won a new one. The contract is with the U.S. Department of Defense.",
-            "date": "Sat, 20 Dec 2025 00:09:00 GMT",
+            "title": "‘I don’t know how much my wife earns’: I’m 63 with $6.4 million in stocks, mostly Apple. Will I get punished on taxes?",
+            "link": "https://www.marketwatch.com/story/i-dont-know-how-much-my-wife-earns-im-63-with-6-4-million-in-stocks-mostly-apple-will-i-get-punished-on-taxes-41c18f41?mod=mw_rss_topstories",
+            "summary": "“Each of our properties are worth over $1 million,” he says. “Each one of us is worth more than a million dollars.”",
+            "date": "Sat, 20 Dec 2025 22:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RKLB",
+            "stock_ticker": "IREG",
             "impact": "Neutral"
         },
         {
-            "title": "As stock-market rally broadens, it’s tough for the S&P 500 to keep advancing without tech",
-            "link": "https://www.marketwatch.com/story/as-stock-market-rally-broadens-its-tough-for-the-s-p-500-to-keep-advancing-without-tech-0b8185ae?mod=mw_rss_topstories",
-            "summary": "The S&amp;P 500’s tech sector is down so far this month, even after its big rally on Friday. The tech sector has been the worst-performing sector in the S&P 500 this year.",
-            "date": "Fri, 19 Dec 2025 23:56:00 GMT",
+            "title": "You’ve just won the $1.5 billion Powerball jackpot. Here are the 5 money moves you need to make next.",
+            "link": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
+            "summary": "Even if you’re not a big lottery winner, it’s still worth heeding this advice for managing a significant sum of money.",
+            "date": "Sat, 20 Dec 2025 19:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AS",
-            "impact": "Bearish"
+            "stock_ticker": "JUST",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m only 54 and my 401(k) plan is emailing me about buying annuities. Is this something I should do?",
+            "link": "https://www.marketwatch.com/story/my-401-k-plan-is-emailing-me-about-annuities-but-im-only-in-my-50s-is-this-something-i-should-do-6ba01b31?mod=mw_rss_topstories",
+            "summary": "Signing up for an annuity is something you want to carefully consider. Options will keep coming, but signing up is something to consider carefully.",
+            "date": "Sat, 20 Dec 2025 19:39:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BMNR",
+            "impact": "Bullish"
         }
     ]
 }
