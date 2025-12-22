@@ -1,71 +1,83 @@
 {
-    "date": "2025-12-21",
+    "date": "2025-12-22",
     "news": [
         {
-            "title": "AI was behind over 50,000 layoffs in 2025 — here are the top firms to cite it for job cuts",
-            "link": "https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html",
-            "summary": "Some of the world's biggest tech companies cited AI as part of their layoff and restructuring strategy in 2025. Some of the largest tech companies are laying off workers and cutting jobs in favor of AI.",
-            "date": "Sun, 21 Dec 2025 08:10:42 GMT",
+            "title": "Paramount guarantees Larry Ellison backing in amended WBD bid",
+            "link": "https://www.cnbc.com/2025/12/22/wbd-bid-paramount-larry-ellison-backing-bid.html",
+            "summary": "Paramount notably did not increase its bid on Monday, reiterating that it believes the deal is superior to Netflix's. Paramount is seeking to buy the streaming giant's streaming service.",
+            "date": "Mon, 22 Dec 2025 13:20:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Epstein files: A number of documents, including Trump photo, reportedly removed from DOJ release site",
-            "link": "https://www.cnbc.com/2025/12/20/trump-epstein-files-doj-photo.html",
-            "summary": "A missing photo shows a desk displaying a large assortment of framed pictures and other items. Among them is a picture showing President Donald Trump's face.",
-            "date": "Sun, 21 Dec 2025 11:03:59 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Xbox is losing the console race by miles. It's part of Microsoft's big gaming pivot",
-            "link": "https://www.cnbc.com/2025/12/21/xbox-console-war-playstation-switch.html",
-            "summary": "Sales of Microsoft's Xbox Series S and Series X are even behind the original Nintendo Switch, which launched in 2017. Sales of the original Switch were even higher than those of the Xbox One.",
-            "date": "Sun, 21 Dec 2025 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ISKHUX=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Roomba's bankruptcy may wreck a lot more than one robot vacuum maker",
-            "link": "https://www.cnbc.com/2025/12/20/roomba-bankruptcy-robot-vacuum-maker.html",
-            "summary": "Roomba's bankruptcy should serve as a warning sign to many small companies that big tech may not be able to come to the rescue, experts say.",
-            "date": "Sat, 20 Dec 2025 14:21:45 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MEC",
+            "stock_ticker": "PSKY",
             "impact": "Bullish"
         },
         {
-            "title": "CNBC's Official College Sports Valuations 2025: Top 75 athletic programs",
-            "link": "https://www.cnbc.com/2025/12/19/cnbc-official-college-sports-valuations-2025-top-75-athletic-programs.html",
-            "summary": "The top 75 programs in the world are worth a combined $51.22 billion. That's 13% more than the top 75 in last year's rankings.",
-            "date": "Fri, 19 Dec 2025 12:07:08 GMT",
+            "title": "Supplements in your stocking: Why wellness gifts are gaining steam for the holidays and beyond",
+            "link": "https://www.cnbc.com/2025/12/22/supplements-wellness-christmas-gifts.html",
+            "summary": "Retailers are blurring the lines between beauty and wellness. Customers look for holiday gifts and focus on self-care, experts say.",
+            "date": "Mon, 22 Dec 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RXO-USD",
+            "stock_ticker": "SOURCENTRL.BO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Gold and silver prices soar to new highs as the yellow metal reemerges as a hedge",
+            "link": "https://www.cnbc.com/2025/12/22/gold-and-silver-prices-soar-to-new-record-highs.html",
+            "summary": "The race for the next chair of the Federal Reserve weighs on investors' minds. It comes as fiscal deficits and the race for a Federal Reserve chair weigh on investors.",
+            "date": "Mon, 22 Dec 2025 09:29:50 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GOLD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Disney's 'Avatar: Fire and Ash' disappoints with weak $88 million domestic opening",
+            "link": "https://www.cnbc.com/2025/12/21/disneys-avatar-fire-and-ash-box-office.html",
+            "summary": "\"Avatar: Fire and Ash\" tallied just $88 million during its domestic debut. That's well shy of the $110 million to $125 million range analysts had expected.",
+            "date": "Sun, 21 Dec 2025 17:11:47 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LQAVF",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Epstein files: DOJ restores image showing Trump after backlash",
+            "link": "https://www.cnbc.com/2025/12/21/epstein-files-trump-photo-doj.html",
+            "summary": "The Department of Justice faces criticism for not releasing all of the Epstein files on Friday, despite a law signed by President Donald Trump requiring it.",
+            "date": "Mon, 22 Dec 2025 13:25:31 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DOJE38445-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How this commodity trader is preparing for a second wave of inflation",
+            "link": "https://www.marketwatch.com/story/how-this-commodity-trader-is-preparing-for-a-second-wave-of-inflation-2e57261a?mod=mw_rss_topstories",
+            "summary": "A similar pattern to the 1970’s may be on the cards, says this former commodity trader. The U.S. economy is expected to continue to grow in the next few years.",
+            "date": "Mon, 22 Dec 2025 13:24:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
             "title": "‘I’m not looking to leave any money to the kids’: We’re in our 60s with $1.5 million in IRAs. Can we retire next year?",
             "link": "https://www.marketwatch.com/story/im-not-looking-to-leave-any-money-to-the-kids-were-in-our-60s-with-1-5-million-in-iras-can-we-retire-next-year-10da42a0?mod=mw_rss_topstories",
             "summary": "“Our current salary combined is $210,000,” he says. “We’re in a position of power. We’ve got to do something.”",
-            "date": "Sun, 21 Dec 2025 10:40:00 GMT",
+            "date": "Mon, 22 Dec 2025 13:11:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,52 +86,40 @@
             "impact": "Neutral"
         },
         {
-            "title": "My husband and I are splitting our estate between his child and my three children. Should they get equal shares?",
-            "link": "https://www.marketwatch.com/story/my-husband-and-i-are-splitting-our-estate-between-his-child-and-my-three-children-should-they-get-equal-shares-ef1c0061?mod=mw_rss_topstories",
-            "summary": "“We try to help all our kids when we can, yet push for self-sufficiency,” she says. “We’re trying to help them as much as we can.”",
-            "date": "Sun, 21 Dec 2025 10:37:00 GMT",
+            "title": "Okta CEO Todd McKinnon has words of caution for people jumping ship to work at AI startups",
+            "link": "https://www.marketwatch.com/story/okta-ceo-todd-mckinnon-has-words-of-caution-for-people-jumping-ship-to-work-at-ai-startups-52a234f5?mod=mw_rss_topstories",
+            "summary": "As his coworkers bailed for ‘sexy’ jobs at internet startups during the height of the dot-com boom, McKinnon made a seemingly boring decision.",
+            "date": "Mon, 22 Dec 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I don’t know how much my wife earns’: I’m 63 with $6.4 million in stocks, mostly Apple. Will I get punished on taxes?",
-            "link": "https://www.marketwatch.com/story/i-dont-know-how-much-my-wife-earns-im-63-with-6-4-million-in-stocks-mostly-apple-will-i-get-punished-on-taxes-41c18f41?mod=mw_rss_topstories",
-            "summary": "“Each of our properties are worth over $1 million,” he says. “Each one of us is worth more than a million dollars.”",
-            "date": "Sat, 20 Dec 2025 22:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IREG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "You’ve just won the $1.5 billion Powerball jackpot. Here are the 5 money moves you need to make next.",
-            "link": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
-            "summary": "Even if you’re not a big lottery winner, it’s still worth heeding this advice for managing a significant sum of money.",
-            "date": "Sat, 20 Dec 2025 19:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JUST",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m only 54 and my 401(k) plan is emailing me about buying annuities. Is this something I should do?",
-            "link": "https://www.marketwatch.com/story/my-401-k-plan-is-emailing-me-about-annuities-but-im-only-in-my-50s-is-this-something-i-should-do-6ba01b31?mod=mw_rss_topstories",
-            "summary": "Signing up for an annuity is something you want to carefully consider. Options will keep coming, but signing up is something to consider carefully.",
-            "date": "Sat, 20 Dec 2025 19:39:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "OKTA",
             "impact": "Bullish"
+        },
+        {
+            "title": "Honeywell says it has a $470 million Flexjet problem, and a lowered profit outlook",
+            "link": "https://www.marketwatch.com/story/honeywell-says-it-has-a-470-million-flexjet-problem-and-a-lowered-profit-outlook-07f08a17?mod=mw_rss_topstories",
+            "summary": "Honeywell expects to make a one-time cash settlement payment of $470 million related to the Flexjet lawsuit — and the stock drops.",
+            "date": "Mon, 22 Dec 2025 12:44:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HON",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Young crypto bros love to gamble — and you’ll never guess where they get the money",
+            "link": "https://www.marketwatch.com/story/young-crypto-bros-love-to-gamble-and-youll-never-guess-where-they-get-the-money-b08d0cc5?mod=mw_rss_topstories",
+            "summary": "Crypto holders with college degrees and full-time jobs gamble at much higher rates than non-holders. Crypto holders with College degrees and Full-time Jobs gamble at more than twice the rate of non- holders.",
+            "date": "Mon, 22 Dec 2025 12:40:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "111770.KS",
+            "impact": "Neutral"
         }
     ]
 }
