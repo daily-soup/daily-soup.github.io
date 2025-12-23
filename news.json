@@ -1,124 +1,124 @@
 {
-    "date": "2025-12-22",
+    "date": "2025-12-23",
     "news": [
         {
-            "title": "Paramount guarantees Larry Ellison backing in amended WBD bid",
-            "link": "https://www.cnbc.com/2025/12/22/wbd-bid-paramount-larry-ellison-backing-bid.html",
-            "summary": "Paramount notably did not increase its bid on Monday, reiterating that it believes the deal is superior to Netflix's. Paramount is seeking to buy the streaming giant's streaming service.",
-            "date": "Mon, 22 Dec 2025 13:20:49 GMT",
+            "title": "EV realism is here. How automakers react in 2026 will be telling",
+            "link": "https://www.cnbc.com/2025/12/23/evs-gm-ford-hyundai-tesla.html",
+            "summary": "Detroit automakers are refocusing on large gas-guzzling trucks and SUVs. Many have admitted that policies, not consumers, were driving the charge for EVs.",
+            "date": "Tue, 23 Dec 2025 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PSKY",
+            "stock_ticker": "EVLV",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Novo Nordisk stock surges on hopes Wegovy pill approval will deliver some 'redemption' for investors",
+            "link": "https://www.cnbc.com/2025/12/23/wegovy-maker-novo-nordisk-shares-surge-after-glp-1-pill-approval.html",
+            "summary": "The FDA on Monday approved the first-ever GLP-1 pill for weight loss from the Danish pharmaceutical giant. The pill was developed by the Danish company, which also makes the popular weight-loss drug Advil.",
+            "date": "Tue, 23 Dec 2025 12:36:36 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Hanwha Ocean shares jump 10% after Trump says South Korean firm to build warships for U.S. Navy",
+            "link": "https://www.cnbc.com/2025/12/23/hanwha-ocean-shares-jump-10percent-after-trump-says-firm-to-build-warships-for-us-navy.html",
+            "summary": "Trump said that the frigates will be built at the Philadelphia shipyards. Hanwha had invested $5 billion into the shipyards, Trump said.",
+            "date": "Tue, 23 Dec 2025 03:00:36 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "009830.KS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Gas prices fall to four-year lows as millions embark on holiday road trips",
+            "link": "https://www.cnbc.com/2025/12/23/oil-prices-holiday-road-trip-december-aaa.html",
+            "summary": "The average price of unleaded gasoline in the U.S. is at its lowest since 2021, according to AAA. The average cost of a gallon of gas is now $2.36.",
+            "date": "Tue, 23 Dec 2025 13:02:45 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NG=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "H-1B visa applicants face more disruptions amid social media checks and wage protection rules",
+            "link": "https://www.cnbc.com/2025/12/23/h-1b-visa-applicants-face-more-disruptions-amid-social-media-checks.html",
+            "summary": "The U.S. administration has lined up a slew of actions to restrict the use of H-1B visas by businesses. The move is designed to boost the economy and create jobs.",
+            "date": "Tue, 23 Dec 2025 10:41:33 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "V",
             "impact": "Bullish"
         },
         {
-            "title": "Supplements in your stocking: Why wellness gifts are gaining steam for the holidays and beyond",
-            "link": "https://www.cnbc.com/2025/12/22/supplements-wellness-christmas-gifts.html",
-            "summary": "Retailers are blurring the lines between beauty and wellness. Customers look for holiday gifts and focus on self-care, experts say.",
-            "date": "Mon, 22 Dec 2025 12:00:01 GMT",
+            "title": "China has been open to Western consumer brands for decades. Those brands still have a lot to learn about Chinese consumers.",
+            "link": "https://www.marketwatch.com/story/china-has-been-open-to-western-consumer-brands-for-decades-those-brands-still-have-a-lot-to-learn-about-chinese-consumers-47187bd1?mod=mw_rss_topstories",
+            "summary": "Global brands from Starbucks to Costa to Häagen-Dazs are scrambling to adapt. Domestic rivals are moving faster, consumers are trading down.",
+            "date": "Tue, 23 Dec 2025 12:51:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SOURCENTRL.BO",
+            "stock_ticker": "^SPNCSCHN",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Quantum stocks are where AI was five years ago. These bets could be big winners.",
+            "link": "https://www.marketwatch.com/story/quantum-stocks-are-where-ai-was-five-years-ago-these-bets-could-be-big-winners-099dcf37?mod=mw_rss_topstories",
+            "summary": "The Pentagon sees quantum computing as a new Manhattan Project. China is “nanoseconds’ behind. And these stocks are still cheap.",
+            "date": "Tue, 23 Dec 2025 12:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "QS",
             "impact": "Neutral"
         },
         {
-            "title": "Gold and silver prices soar to new highs as the yellow metal reemerges as a hedge",
-            "link": "https://www.cnbc.com/2025/12/22/gold-and-silver-prices-soar-to-new-record-highs.html",
-            "summary": "The race for the next chair of the Federal Reserve weighs on investors' minds. It comes as fiscal deficits and the race for a Federal Reserve chair weigh on investors.",
-            "date": "Mon, 22 Dec 2025 09:29:50 GMT",
+            "title": "These are the catalysts to reignite stock market momentum in 2026, says UBS",
+            "link": "https://www.marketwatch.com/story/these-are-the-catalysts-to-reignite-stock-market-momentum-in-2026-says-ubs-6002e320?mod=mw_rss_topstories",
+            "summary": "UBS Wealth Management has a 7,700 target for the S&amp;P 500 by the end of 2026. The target is based on the current market value of the index.",
+            "date": "Tue, 23 Dec 2025 12:34:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOLD",
+            "stock_ticker": "ARE",
             "impact": "Neutral"
         },
         {
-            "title": "Disney's 'Avatar: Fire and Ash' disappoints with weak $88 million domestic opening",
-            "link": "https://www.cnbc.com/2025/12/21/disneys-avatar-fire-and-ash-box-office.html",
-            "summary": "\"Avatar: Fire and Ash\" tallied just $88 million during its domestic debut. That's well shy of the $110 million to $125 million range analysts had expected.",
-            "date": "Sun, 21 Dec 2025 17:11:47 GMT",
+            "title": "Social Security says its phone service is getting better — but watchdogs warn callback wait times can run over an hour",
+            "link": "https://www.marketwatch.com/story/social-security-says-its-phone-service-is-getting-better-but-watchdogs-warn-callback-wait-times-can-run-over-an-hour-5b2e78c6?mod=mw_rss_topstories",
+            "summary": "The Social Security Administration Office of Inspector General said the agency’s average speed of answer was only seven minutes in September. The average time it takes to answer a question is seven minutes.",
+            "date": "Tue, 23 Dec 2025 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LQAVF",
+            "stock_ticker": "VFTAX",
             "impact": "Neutral"
         },
         {
-            "title": "Epstein files: DOJ restores image showing Trump after backlash",
-            "link": "https://www.cnbc.com/2025/12/21/epstein-files-trump-photo-doj.html",
-            "summary": "The Department of Justice faces criticism for not releasing all of the Epstein files on Friday, despite a law signed by President Donald Trump requiring it.",
-            "date": "Mon, 22 Dec 2025 13:25:31 GMT",
+            "title": "‘It’s a heavy, heavy load’ helping aging parents who live far away. Here’s how you can make it work.",
+            "link": "https://www.marketwatch.com/story/its-a-heavy-heavy-load-helping-aging-parents-who-live-far-away-heres-how-you-can-make-it-work-b3d54304?mod=mw_rss_topstories",
+            "summary": "It takes travel, time and money to travel around the world. It also takes a lot of time to get there. It takes time, money and travel. It's not easy.",
+            "date": "Tue, 23 Dec 2025 12:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DOJE38445-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How this commodity trader is preparing for a second wave of inflation",
-            "link": "https://www.marketwatch.com/story/how-this-commodity-trader-is-preparing-for-a-second-wave-of-inflation-2e57261a?mod=mw_rss_topstories",
-            "summary": "A similar pattern to the 1970’s may be on the cards, says this former commodity trader. The U.S. economy is expected to continue to grow in the next few years.",
-            "date": "Mon, 22 Dec 2025 13:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m not looking to leave any money to the kids’: We’re in our 60s with $1.5 million in IRAs. Can we retire next year?",
-            "link": "https://www.marketwatch.com/story/im-not-looking-to-leave-any-money-to-the-kids-were-in-our-60s-with-1-5-million-in-iras-can-we-retire-next-year-10da42a0?mod=mw_rss_topstories",
-            "summary": "“Our current salary combined is $210,000,” he says. “We’re in a position of power. We’ve got to do something.”",
-            "date": "Mon, 22 Dec 2025 13:11:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMNR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Okta CEO Todd McKinnon has words of caution for people jumping ship to work at AI startups",
-            "link": "https://www.marketwatch.com/story/okta-ceo-todd-mckinnon-has-words-of-caution-for-people-jumping-ship-to-work-at-ai-startups-52a234f5?mod=mw_rss_topstories",
-            "summary": "As his coworkers bailed for ‘sexy’ jobs at internet startups during the height of the dot-com boom, McKinnon made a seemingly boring decision.",
-            "date": "Mon, 22 Dec 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OKTA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Honeywell says it has a $470 million Flexjet problem, and a lowered profit outlook",
-            "link": "https://www.marketwatch.com/story/honeywell-says-it-has-a-470-million-flexjet-problem-and-a-lowered-profit-outlook-07f08a17?mod=mw_rss_topstories",
-            "summary": "Honeywell expects to make a one-time cash settlement payment of $470 million related to the Flexjet lawsuit — and the stock drops.",
-            "date": "Mon, 22 Dec 2025 12:44:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HON",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Young crypto bros love to gamble — and you’ll never guess where they get the money",
-            "link": "https://www.marketwatch.com/story/young-crypto-bros-love-to-gamble-and-youll-never-guess-where-they-get-the-money-b08d0cc5?mod=mw_rss_topstories",
-            "summary": "Crypto holders with college degrees and full-time jobs gamble at much higher rates than non-holders. Crypto holders with College degrees and Full-time Jobs gamble at more than twice the rate of non- holders.",
-            "date": "Mon, 22 Dec 2025 12:40:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "111770.KS",
+            "stock_ticker": "ITS.SI",
             "impact": "Neutral"
         }
     ]
