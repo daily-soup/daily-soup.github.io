@@ -1,124 +1,124 @@
 {
-    "date": "2025-12-23",
+    "date": "2025-12-24",
     "news": [
         {
-            "title": "EV realism is here. How automakers react in 2026 will be telling",
-            "link": "https://www.cnbc.com/2025/12/23/evs-gm-ford-hyundai-tesla.html",
-            "summary": "Detroit automakers are refocusing on large gas-guzzling trucks and SUVs. Many have admitted that policies, not consumers, were driving the charge for EVs.",
-            "date": "Tue, 23 Dec 2025 12:00:01 GMT",
+            "title": "Amazon faces 'leader's dilemma' — fight AI shopping bots or join them",
+            "link": "https://www.cnbc.com/2025/12/24/amazon-faces-a-dilemma-fight-ai-shopping-agents-or-join-them.html",
+            "summary": "Agents like OpenAI's Instant Checkout and Perplexity's Instant Buy threaten to reshape the e-commerce landscape. OpenAI is a company that developed the technology that allows people to check out and buy goods online.",
+            "date": "Wed, 24 Dec 2025 12:00:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EVLV",
+            "stock_ticker": "AMZN",
             "impact": "Neutral"
         },
         {
-            "title": "Novo Nordisk stock surges on hopes Wegovy pill approval will deliver some 'redemption' for investors",
-            "link": "https://www.cnbc.com/2025/12/23/wegovy-maker-novo-nordisk-shares-surge-after-glp-1-pill-approval.html",
-            "summary": "The FDA on Monday approved the first-ever GLP-1 pill for weight loss from the Danish pharmaceutical giant. The pill was developed by the Danish company, which also makes the popular weight-loss drug Advil.",
-            "date": "Tue, 23 Dec 2025 12:36:36 GMT",
+            "title": "These 5 infrastructure stocks have more than tripled this year on the AI trade",
+            "link": "https://www.cnbc.com/2025/12/24/ai-infrastructure-stocks-lumentum-celestica-seagate-beat-nvidia-2025.html",
+            "summary": "Nvidia has been the biggest infrastructure winner during the AI boom. But other data center stocks have performed better this year. Nvidia is the most popular data center stock on Nasdaq.",
+            "date": "Wed, 24 Dec 2025 13:25:23 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVO",
+            "stock_ticker": "YM=F",
             "impact": "Neutral"
         },
         {
-            "title": "Hanwha Ocean shares jump 10% after Trump says South Korean firm to build warships for U.S. Navy",
-            "link": "https://www.cnbc.com/2025/12/23/hanwha-ocean-shares-jump-10percent-after-trump-says-firm-to-build-warships-for-us-navy.html",
-            "summary": "Trump said that the frigates will be built at the Philadelphia shipyards. Hanwha had invested $5 billion into the shipyards, Trump said.",
-            "date": "Tue, 23 Dec 2025 03:00:36 GMT",
+            "title": "Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning",
+            "link": "https://www.cnbc.com/2025/12/24/tubi-fox-streaming-free.html",
+            "summary": "Fox's Tubi outpaced Peacock and HBO Max for share of streaming minutes in Nielsen's November Gauge report. Tubi is available on the Fox streaming app.",
+            "date": "Wed, 24 Dec 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "009830.KS",
+            "stock_ticker": "FCX",
             "impact": "Neutral"
         },
         {
-            "title": "Gas prices fall to four-year lows as millions embark on holiday road trips",
-            "link": "https://www.cnbc.com/2025/12/23/oil-prices-holiday-road-trip-december-aaa.html",
-            "summary": "The average price of unleaded gasoline in the U.S. is at its lowest since 2021, according to AAA. The average cost of a gallon of gas is now $2.36.",
-            "date": "Tue, 23 Dec 2025 13:02:45 GMT",
+            "title": "'Witch hunt': Ex-EU commissioner Breton denounces U.S. visa ban targeting 'censorship'",
+            "link": "https://www.cnbc.com/2025/12/24/us-bans-visas-for-ex-eu-commissioner-over-alleged-censorship.html",
+            "summary": "The former EU commissioner and four anti-disinformation campaigners were the subject of U.S. travel sanctions. The group were accused of spreading false information about the EU.",
+            "date": "Wed, 24 Dec 2025 11:21:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NG=F",
+            "stock_ticker": "WITCH-USD",
             "impact": "Neutral"
         },
         {
-            "title": "H-1B visa applicants face more disruptions amid social media checks and wage protection rules",
-            "link": "https://www.cnbc.com/2025/12/23/h-1b-visa-applicants-face-more-disruptions-amid-social-media-checks.html",
-            "summary": "The U.S. administration has lined up a slew of actions to restrict the use of H-1B visas by businesses. The move is designed to boost the economy and create jobs.",
-            "date": "Tue, 23 Dec 2025 10:41:33 GMT",
+            "title": "Oil giant BP to sell 65% stake in $10 billion Castrol unit",
+            "link": "https://www.cnbc.com/2025/12/24/bp-to-sell-65percent-stake-in-10-billion-castrol-lubricants-to-stonepeak.html",
+            "summary": "The oil giant is looking to divest $20 billion of its assets by the end of 2027. The company is also looking to sell off $10 billion of assets a year.",
+            "date": "Wed, 24 Dec 2025 08:38:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "V",
+            "stock_ticker": "CL=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Less traffic, more lounge time, cheaper homes? How robotaxis promise a whole new world.",
+            "link": "https://www.marketwatch.com/story/less-traffic-more-lounge-time-cheaper-homes-how-robotaxis-promise-a-whole-new-world-733c4b15?mod=mw_rss_topstories",
+            "summary": "Nearly every car sold by 2050 could be autonomous, according to a new report. The technology will reshape far more than just your daily commute, the report says.",
+            "date": "Wed, 24 Dec 2025 13:02:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LLLI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "One of the most important ‘Magnificent Seven’ members is rumbling to life. Here’s what that means for tech and the S&P 500.",
+            "link": "https://www.marketwatch.com/story/one-of-the-most-important-magnificent-seven-members-is-rumbling-to-life-heres-what-that-means-for-tech-and-the-s-p-500-2867dc12?mod=mw_rss_topstories",
+            "summary": "Nvidia shares have been on a run lately and strategist Mark Newton says that has bigger meaning for the stock market in general. Nvidia shares are up more than 20% this year.",
+            "date": "Wed, 24 Dec 2025 12:40:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SR1=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s what Nvidia investors can look forward to in 2026",
+            "link": "https://www.marketwatch.com/story/heres-what-nvidia-investors-can-look-forward-to-in-2026-c80fc964?mod=mw_rss_topstories",
+            "summary": "OpenAI’s upcoming GPT model and the data center buildout will be telling for the chip maker. OpenAI is a startup that aims to develop artificial intelligence.",
+            "date": "Wed, 24 Dec 2025 12:32:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BD0.F",
             "impact": "Bullish"
         },
         {
-            "title": "China has been open to Western consumer brands for decades. Those brands still have a lot to learn about Chinese consumers.",
-            "link": "https://www.marketwatch.com/story/china-has-been-open-to-western-consumer-brands-for-decades-those-brands-still-have-a-lot-to-learn-about-chinese-consumers-47187bd1?mod=mw_rss_topstories",
-            "summary": "Global brands from Starbucks to Costa to Häagen-Dazs are scrambling to adapt. Domestic rivals are moving faster, consumers are trading down.",
-            "date": "Tue, 23 Dec 2025 12:51:00 GMT",
+            "title": "‘Is it a case of them or us?’ We’re in our 40s. Do we retire early in our 50s — or save for our kids’ education?",
+            "link": "https://www.marketwatch.com/story/is-it-a-case-of-them-or-us-were-in-our-40s-do-we-retire-early-in-our-50s-or-save-for-our-kids-education-40962f7d?mod=mw_rss_topstories",
+            "summary": "\"We’re both teachers, with a combined gross income of $210,000,” the couple says. “We�’ve got a lot of money to spend.”",
+            "date": "Wed, 24 Dec 2025 10:09:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^SPNCSCHN",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Quantum stocks are where AI was five years ago. These bets could be big winners.",
-            "link": "https://www.marketwatch.com/story/quantum-stocks-are-where-ai-was-five-years-ago-these-bets-could-be-big-winners-099dcf37?mod=mw_rss_topstories",
-            "summary": "The Pentagon sees quantum computing as a new Manhattan Project. China is “nanoseconds’ behind. And these stocks are still cheap.",
-            "date": "Tue, 23 Dec 2025 12:50:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "QS",
+            "stock_ticker": "ISKHUX=X",
             "impact": "Neutral"
         },
         {
-            "title": "These are the catalysts to reignite stock market momentum in 2026, says UBS",
-            "link": "https://www.marketwatch.com/story/these-are-the-catalysts-to-reignite-stock-market-momentum-in-2026-says-ubs-6002e320?mod=mw_rss_topstories",
-            "summary": "UBS Wealth Management has a 7,700 target for the S&amp;P 500 by the end of 2026. The target is based on the current market value of the index.",
-            "date": "Tue, 23 Dec 2025 12:34:00 GMT",
+            "title": "L.A. Lakers owner Jeanie Buss plunks down $4.2 million on seaside California home",
+            "link": "https://www.marketwatch.com/story/l-a-lakers-owner-jeanie-buss-plunks-down-4-2-million-on-seaside-california-home-d79b2e4e?mod=mw_rss_topstories",
+            "summary": "Buss’ purchase of the property comes just two months after she and her family finalized the sale of their majority stake in the Lakers.",
+            "date": "Wed, 24 Dec 2025 10:01:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ARE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Social Security says its phone service is getting better — but watchdogs warn callback wait times can run over an hour",
-            "link": "https://www.marketwatch.com/story/social-security-says-its-phone-service-is-getting-better-but-watchdogs-warn-callback-wait-times-can-run-over-an-hour-5b2e78c6?mod=mw_rss_topstories",
-            "summary": "The Social Security Administration Office of Inspector General said the agency’s average speed of answer was only seven minutes in September. The average time it takes to answer a question is seven minutes.",
-            "date": "Tue, 23 Dec 2025 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VFTAX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘It’s a heavy, heavy load’ helping aging parents who live far away. Here’s how you can make it work.",
-            "link": "https://www.marketwatch.com/story/its-a-heavy-heavy-load-helping-aging-parents-who-live-far-away-heres-how-you-can-make-it-work-b3d54304?mod=mw_rss_topstories",
-            "summary": "It takes travel, time and money to travel around the world. It also takes a lot of time to get there. It takes time, money and travel. It's not easy.",
-            "date": "Tue, 23 Dec 2025 12:20:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ITS.SI",
+            "stock_ticker": "DE000SL0BPE2.SG",
             "impact": "Neutral"
         }
     ]
