@@ -1,124 +1,124 @@
 {
-    "date": "2025-12-24",
+    "date": "2025-12-25",
     "news": [
         {
-            "title": "Amazon faces 'leader's dilemma' — fight AI shopping bots or join them",
-            "link": "https://www.cnbc.com/2025/12/24/amazon-faces-a-dilemma-fight-ai-shopping-agents-or-join-them.html",
-            "summary": "Agents like OpenAI's Instant Checkout and Perplexity's Instant Buy threaten to reshape the e-commerce landscape. OpenAI is a company that developed the technology that allows people to check out and buy goods online.",
-            "date": "Wed, 24 Dec 2025 12:00:02 GMT",
+            "title": "Wall Street wrote off Palantir as too expensive. Retail investors can't get enough",
+            "link": "https://www.cnbc.com/2025/12/25/palantir-retail-investors-valuation-karp.html",
+            "summary": "The stock, which made its market debut in 2020, is an indisputable star of the retail investing world. The stock is up more than 50 per cent so far this year.",
+            "date": "Thu, 25 Dec 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMZN",
+            "stock_ticker": "WBX",
             "impact": "Neutral"
         },
         {
-            "title": "These 5 infrastructure stocks have more than tripled this year on the AI trade",
-            "link": "https://www.cnbc.com/2025/12/24/ai-infrastructure-stocks-lumentum-celestica-seagate-beat-nvidia-2025.html",
-            "summary": "Nvidia has been the biggest infrastructure winner during the AI boom. But other data center stocks have performed better this year. Nvidia is the most popular data center stock on Nasdaq.",
-            "date": "Wed, 24 Dec 2025 13:25:23 GMT",
+            "title": "Why buying Berkshire was Warren Buffett's biggest mistake",
+            "link": "https://www.cnbc.com/2025/12/25/why-buying-berkshire-was-warren-buffetts-biggest-mistake.html",
+            "summary": "Buffett explains why buying the company was his biggest mistake in 2010 CNBC video clip. Buffett is in his last week as Berkshire Hathaway's CEO.",
+            "date": "Thu, 25 Dec 2025 13:12:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "YM=F",
+            "stock_ticker": "3823.T",
             "impact": "Neutral"
         },
         {
-            "title": "Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning",
-            "link": "https://www.cnbc.com/2025/12/24/tubi-fox-streaming-free.html",
-            "summary": "Fox's Tubi outpaced Peacock and HBO Max for share of streaming minutes in Nielsen's November Gauge report. Tubi is available on the Fox streaming app.",
-            "date": "Wed, 24 Dec 2025 13:00:01 GMT",
+            "title": "Tariffs hit boots, bags and more as leather prices jump — and relief could be years away",
+            "link": "https://www.cnbc.com/2025/12/25/leather-prices-tariffs-trump-boots-handbags-furniture-twisted-x.html",
+            "summary": " Leather prices are expected to continue rising in 2026 as Trump's tariffs crimple a global supply-chain. Domestic manufacturing and cattle herds are down.",
+            "date": "Thu, 25 Dec 2025 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FCX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "'Witch hunt': Ex-EU commissioner Breton denounces U.S. visa ban targeting 'censorship'",
-            "link": "https://www.cnbc.com/2025/12/24/us-bans-visas-for-ex-eu-commissioner-over-alleged-censorship.html",
-            "summary": "The former EU commissioner and four anti-disinformation campaigners were the subject of U.S. travel sanctions. The group were accused of spreading false information about the EU.",
-            "date": "Wed, 24 Dec 2025 11:21:36 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WITCH-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Oil giant BP to sell 65% stake in $10 billion Castrol unit",
-            "link": "https://www.cnbc.com/2025/12/24/bp-to-sell-65percent-stake-in-10-billion-castrol-lubricants-to-stonepeak.html",
-            "summary": "The oil giant is looking to divest $20 billion of its assets by the end of 2027. The company is also looking to sell off $10 billion of assets a year.",
-            "date": "Wed, 24 Dec 2025 08:38:34 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CL=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Less traffic, more lounge time, cheaper homes? How robotaxis promise a whole new world.",
-            "link": "https://www.marketwatch.com/story/less-traffic-more-lounge-time-cheaper-homes-how-robotaxis-promise-a-whole-new-world-733c4b15?mod=mw_rss_topstories",
-            "summary": "Nearly every car sold by 2050 could be autonomous, according to a new report. The technology will reshape far more than just your daily commute, the report says.",
-            "date": "Wed, 24 Dec 2025 13:02:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LLLI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "One of the most important ‘Magnificent Seven’ members is rumbling to life. Here’s what that means for tech and the S&P 500.",
-            "link": "https://www.marketwatch.com/story/one-of-the-most-important-magnificent-seven-members-is-rumbling-to-life-heres-what-that-means-for-tech-and-the-s-p-500-2867dc12?mod=mw_rss_topstories",
-            "summary": "Nvidia shares have been on a run lately and strategist Mark Newton says that has bigger meaning for the stock market in general. Nvidia shares are up more than 20% this year.",
-            "date": "Wed, 24 Dec 2025 12:40:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SR1=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here’s what Nvidia investors can look forward to in 2026",
-            "link": "https://www.marketwatch.com/story/heres-what-nvidia-investors-can-look-forward-to-in-2026-c80fc964?mod=mw_rss_topstories",
-            "summary": "OpenAI’s upcoming GPT model and the data center buildout will be telling for the chip maker. OpenAI is a startup that aims to develop artificial intelligence.",
-            "date": "Wed, 24 Dec 2025 12:32:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BD0.F",
+            "stock_ticker": "HIT",
             "impact": "Bullish"
         },
         {
-            "title": "‘Is it a case of them or us?’ We’re in our 40s. Do we retire early in our 50s — or save for our kids’ education?",
-            "link": "https://www.marketwatch.com/story/is-it-a-case-of-them-or-us-were-in-our-40s-do-we-retire-early-in-our-50s-or-save-for-our-kids-education-40962f7d?mod=mw_rss_topstories",
-            "summary": "\"We’re both teachers, with a combined gross income of $210,000,” the couple says. “We�’ve got a lot of money to spend.”",
-            "date": "Wed, 24 Dec 2025 10:09:00 GMT",
+            "title": "Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record",
+            "link": "https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html",
+            "summary": "N Nvidia is making its largest purchase ever, acquiring assets from nine-year-old chip startup Groq for about $20 billion. The move is Nvidia's first major acquisition since it bought computer maker PC maker PC makers in 2010.",
+            "date": "Thu, 25 Dec 2025 11:31:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ISKHUX=X",
+            "stock_ticker": "0P000199FZ.F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Monetizers vs manufactures: How the AI market could splinter in 2026",
+            "link": "https://www.cnbc.com/2025/12/25/how-the-ai-market-could-splinter-in-2026-.html",
+            "summary": "AI infrastructure firms are set to win from the evolution of once asset-light Big Tech firms. AI infrastructure firms will be able to compete with the likes of Google, Facebook and Apple.",
+            "date": "Thu, 25 Dec 2025 05:06:31 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VS",
             "impact": "Neutral"
         },
         {
-            "title": "L.A. Lakers owner Jeanie Buss plunks down $4.2 million on seaside California home",
-            "link": "https://www.marketwatch.com/story/l-a-lakers-owner-jeanie-buss-plunks-down-4-2-million-on-seaside-california-home-d79b2e4e?mod=mw_rss_topstories",
-            "summary": "Buss’ purchase of the property comes just two months after she and her family finalized the sale of their majority stake in the Lakers.",
-            "date": "Wed, 24 Dec 2025 10:01:00 GMT",
+            "title": "‘I’m terrified I’ll be homeless when my husband, 76, stops working’: We only have $100K. What happens to people like us?",
+            "link": "https://www.marketwatch.com/story/im-terrified-ill-be-homeless-when-my-husband-76-stops-working-we-only-have-100k-what-happens-to-people-like-us-1bd2f76d?mod=mw_rss_topstories",
+            "summary": "“I’m sick of reading how many millions everyone has,” she says. “I'm sick of seeing how many billions everyone has.”",
+            "date": "Thu, 25 Dec 2025 12:32:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DE000SL0BPE2.SG",
+            "stock_ticker": "IBRX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I’m not looking to leave any money to the kids’: We’re in our 60s with $1.5 million in IRAs. Can we retire next year?",
+            "link": "https://www.marketwatch.com/story/im-not-looking-to-leave-any-money-to-the-kids-were-in-our-60s-with-1-5-million-in-iras-can-we-retire-next-year-10da42a0?mod=mw_rss_topstories",
+            "summary": "“Our current salary combined is $210,000,” he says. “We’re in a position of power. We’ve got to do something.”",
+            "date": "Thu, 25 Dec 2025 11:32:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘So much for holiday cheer’: I saw a guest take a bottle of wine as they left a Christmas party. Do I tell the host?",
+            "link": "https://www.marketwatch.com/story/so-much-for-holiday-cheer-i-saw-a-guest-take-a-bottle-of-wine-as-they-left-a-christmas-party-do-i-tell-the-host-a4cebad1?mod=mw_rss_topstories",
+            "summary": "“I guess he thought no one would notice. It came in a gift bag, and it looked expensive,” she said.",
+            "date": "Thu, 25 Dec 2025 10:45:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Groq execs to join Nvidia as part of AI-chip licensing deal",
+            "link": "https://www.marketwatch.com/story/groq-execs-to-join-nvidia-as-part-of-ai-chip-licensing-deal-1d155338?mod=mw_rss_topstories",
+            "summary": "N Nvidia has entered into a nonexclusive licensing agreement with AI-chip maker Groq. The company will acquire some of the startup’s executive team.",
+            "date": "Thu, 25 Dec 2025 01:16:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GROQZZX",
+            "impact": "Bullish"
+        },
+        {
+            "title": "For investors, the real gift from Wall Street comes one day after Christmas",
+            "link": "https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories",
+            "summary": "Dec. 26 has historically been the most reliably positive day of the year. For the S&amp;P 500, Dec. 26 is a good day.",
+            "date": "Thu, 25 Dec 2025 00:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FOR",
             "impact": "Neutral"
         }
     ]
