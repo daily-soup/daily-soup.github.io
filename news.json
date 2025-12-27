@@ -1,11 +1,59 @@
 {
-    "date": "2025-12-26",
+    "date": "2025-12-27",
     "news": [
+        {
+            "title": "One year on from the UK's grand AI plan: Has its infrastructure buildout been a success?",
+            "link": "https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html",
+            "summary": "Big challenges remain for the U.K. to fulfil its ambitions. Hefty financial commitments from tech giants are positive signals, but big challenges remain.",
+            "date": "Sat, 27 Dec 2025 11:05:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SR1=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Airlines cancel more than 1,500 flights ahead of winter storm. Here's what to know",
+            "link": "https://www.cnbc.com/2025/12/26/winter-storm-flight-cancellations.html",
+            "summary": "Airlines waived change fees ahead of a large winter storm and low temperatures after the busy Christmas holiday. Airlines waived change fee ahead of winter storm, low temperatures.",
+            "date": "Fri, 26 Dec 2025 22:18:59 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia-Groq deal is structured to keep 'fiction of competition alive,' analyst says",
+            "link": "https://www.cnbc.com/2025/12/26/nvidia-groq-deal-is-structured-to-keep-fiction-of-competition-alive.html",
+            "summary": "Groq's description of its Nvidia deal as a \"non-exclusive licensing agreement\" mimics other recent big AI transactions orchestrated by U.S. tech giants.",
+            "date": "Fri, 26 Dec 2025 21:07:19 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IAI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record",
+            "link": "https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html",
+            "summary": "N Nvidia is making its largest purchase ever, acquiring assets from 9-year-old chip startup Groq. The deal is worth about $20 billion.",
+            "date": "Fri, 26 Dec 2025 14:14:39 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVDA",
+            "impact": "Bullish"
+        },
         {
             "title": "Oracle shares on pace for worst quarter since 2001 as new CEOs face concerns about AI build-out",
             "link": "https://www.cnbc.com/2025/12/26/oracle-stock-on-pace-for-worst-quarter-since-2001-ai-concerns.html",
             "summary": "Investors want to know if Oracle, under new CEOs Clay Magouyrk and Mike Sicilia, can pay for and deliver data centers packed with Nvidia chips.",
-            "date": "Fri, 26 Dec 2025 13:04:10 GMT",
+            "date": "Fri, 26 Dec 2025 16:09:23 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,58 +62,10 @@
             "impact": "Neutral"
         },
         {
-            "title": "Google is rolling out a new feature allowing users to change their Gmail address",
-            "link": "https://www.cnbc.com/2025/12/26/google-gmail-change-email-address-without-new-account-india-hindi-support.html",
-            "summary": "Google is rolling out a feature that lets users change their Gmail addresses. It's been a long-requested update to their email policy.",
-            "date": "Fri, 26 Dec 2025 08:58:52 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GOOG",
-            "impact": "Bullish"
-        },
-        {
-            "title": "The Trump-class battleship faces a large obstacle in its way: Reality",
-            "link": "https://www.cnbc.com/2025/12/26/trump-class-battleship-uss-defiant-golden-fleet-rail-gun-laser-reality-defense-war-experts-skeptical.html",
-            "summary": "The cost of building the battleship would be prohibitive. Even if it were technically feasible, it would be expensive and time-consuming.",
-            "date": "Fri, 26 Dec 2025 12:24:55 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why buying Berkshire was Warren Buffett's biggest mistake",
-            "link": "https://www.cnbc.com/2025/12/25/why-buying-berkshire-was-warren-buffetts-biggest-mistake.html",
-            "summary": "Buffett explains why buying the company was his biggest mistake in 2010 CNBC video clip. Buffett is in his last week as Berkshire Hathaway's CEO.",
-            "date": "Thu, 25 Dec 2025 13:12:55 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "3823.T",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning",
-            "link": "https://www.cnbc.com/2025/12/24/tubi-fox-streaming-free.html",
-            "summary": "Fox's Tubi outpaced Peacock and HBO Max for share of streaming minutes in Nielsen's November Gauge report. Tubi is available on the Fox streaming app.",
-            "date": "Wed, 24 Dec 2025 16:53:21 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FCX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "What’s ahead for Tesla as it doubles down on AI",
-            "link": "https://www.marketwatch.com/story/whats-ahead-for-tesla-as-it-doubles-down-on-ai-8802e001?mod=mw_rss_topstories",
-            "summary": "Tesla’s stock was closing 2025 on a high note, as investors see progress on CEO Elon Musk's promise to grow the robotaxi business.",
-            "date": "Fri, 26 Dec 2025 13:13:00 GMT",
+            "title": "What are the hottest tech stocks for 2026? Here’s what ChatGPT and Gemini had to say.",
+            "link": "https://www.marketwatch.com/story/what-are-the-hottest-tech-stocks-for-2026-heres-what-chatgpt-and-gemini-had-to-say-2cf896db?mod=mw_rss_topstories",
+            "summary": "MarketWatch asked the leading LLMs for their top stock picks — but the answers suggest AI may be following the herd instead of truly reasoning.",
+            "date": "Sat, 27 Dec 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "Silver is turning into one of the hottest trades of 2025. Why this veteran investor is targeting $300 in a coming ‘mania’ phase.",
-            "link": "https://www.marketwatch.com/story/silver-is-turning-into-one-of-the-hottest-trades-of-2025-why-this-veteran-investor-is-targeting-300-in-a-coming-mania-phase-683536fd?mod=mw_rss_topstories",
-            "summary": "Peter Krauth, author of “The Great Silver Bull,” says silver’s “mania phase” is not far off.",
-            "date": "Fri, 26 Dec 2025 13:13:00 GMT",
+            "title": "‘You need a third job or a rich husband’: I fell victim to Allen Stanford’s multibillion-dollar Ponzi scheme and survived",
+            "link": "https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories",
+            "summary": "“It’s wrong to talk down to anyone,” he said. “If you have never found yourself in a situation where your life does a complete 180, it's wrong.”",
+            "date": "Sat, 27 Dec 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SI=F",
+            "stock_ticker": "YOU",
+            "impact": "Bearish"
+        },
+        {
+            "title": "‘So much for holiday cheer’: I saw a guest take a bottle of wine as they left a Christmas party. Do I tell the host?",
+            "link": "https://www.marketwatch.com/story/so-much-for-holiday-cheer-i-saw-a-guest-take-a-bottle-of-wine-as-they-left-a-christmas-party-do-i-tell-the-host-a4cebad1?mod=mw_rss_topstories",
+            "summary": "“I guess he thought no one would notice. It came in a gift bag, and it looked expensive,” she said.",
+            "date": "Sat, 27 Dec 2025 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SO",
             "impact": "Neutral"
         },
         {
-            "title": "My in-laws say they’re ‘stakeholders’ in my daughter’s bat mitzvah and want us to throw a bigger party. Do I say no?",
-            "link": "https://www.marketwatch.com/story/my-in-laws-say-theyre-stakeholders-in-my-daughters-bat-mitzvah-and-want-us-to-throw-a-bigger-party-do-i-say-no-a7433f4b?mod=mw_rss_topstories",
-            "summary": "“If we do let them pay for  something small, my wife is worried that my in-laws will see it as a sign that they have permission to take over,” he says.",
-            "date": "Fri, 26 Dec 2025 13:00:00 GMT",
+            "title": "I want to gift my grandnieces, ages 5 and 10, stocks. How do I make sure they get an equal amount when they turn 18?",
+            "link": "https://www.marketwatch.com/story/i-want-to-gift-my-grandnieces-ages-5-and-10-stocks-how-do-i-make-sure-they-get-an-equal-amount-when-they-turn-18-52f12144?mod=mw_rss_topstories",
+            "summary": "“One child’s portfolio will have an additional five years of growth,” he says. “One. child” will have a portfolio that will grow for five more years, he adds.",
+            "date": "Sat, 27 Dec 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "OBTC",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s everything the ‘geniuses’ on Wall Street got wrong about the markets in 2025",
-            "link": "https://www.marketwatch.com/story/heres-everything-the-geniuses-on-wall-street-got-wrong-about-the-markets-in-2025-bf5da455?mod=mw_rss_topstories",
-            "summary": "Investing experts were wrong in so many ways this year, says CNN's John Sutter. Sutter: \"I think we're going to see a lot of good news in the next few months\"",
-            "date": "Fri, 26 Dec 2025 13:00:00 GMT",
+            "title": "I make more than my wife. Can she claim Social Security at 62 and later switch to spousal benefits?",
+            "link": "https://www.marketwatch.com/story/i-make-more-than-my-wife-can-she-claim-social-security-at-62-and-later-switch-to-spousal-benefits-4a6fa16b?mod=mw_rss_topstories",
+            "summary": "“I delayed collecting my benefits until this year, when I turned 70,” he said. “I didn’t want to miss out on anything.”",
+            "date": "Sat, 27 Dec 2025 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EBZT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Wall Street’s gift to investors often arrives a day after Christmas",
-            "link": "https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories",
-            "summary": "Dec. 26 has historically been the most reliably positive day of the year. For the S&amp;P 500, Dec. 26 is a good day.",
-            "date": "Fri, 26 Dec 2025 12:37:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WBX",
+            "stock_ticker": "OBTC",
             "impact": "Neutral"
         }
     ]
