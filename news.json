@@ -1,124 +1,124 @@
 {
-    "date": "2025-12-29",
+    "date": "2025-12-30",
     "news": [
         {
-            "title": "GM's record stock performance beats Tesla, Ford and other automakers in 2025",
-            "link": "https://www.cnbc.com/2025/12/29/gm-stock-tesla-ford.html",
-            "summary": "General Motors' stock is having its best year since the company's reemergence from bankruptcy in 2009. The company's stock is up more than 20% this year.",
-            "date": "Mon, 29 Dec 2025 13:25:28 GMT",
+            "title": "Copper on pace for best year since 2009 as AI demand, supply fears fuel record price rally",
+            "link": "https://www.cnbc.com/2025/12/30/copper-prices-what-next-for-the-red-metal-as-lme-prices-hit-record.html",
+            "summary": "Analysts say copper's record-breaking run could continue next year. Supply disruptions and masssive spending on artificial intelligence are cited as reasons.",
+            "date": "Tue, 30 Dec 2025 12:47:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GMI.SW",
+            "stock_ticker": "HG=F",
             "impact": "Bullish"
         },
         {
-            "title": "Silver tops $80 for first time, then stages dramatic reversal overnight",
-            "link": "https://www.cnbc.com/2025/12/29/silver-tops-80-for-first-time-then-stages-dramatic-reversal-overnight.html",
-            "summary": "Silver slid more than 3% on Monday, after topping $80 for the first time ever in overnight trading. Silver was down more than 2% on Tuesday morning.",
-            "date": "Mon, 29 Dec 2025 13:07:22 GMT",
+            "title": "California's Ro Khanna faces Silicon Valley backlash after embracing wealth tax",
+            "link": "https://www.cnbc.com/2025/12/29/silicon-valley-ro-khanna-faces-tech-backlash-over-wealth-tax.html",
+            "summary": "A proposal to tax California billionaires at 5% of their wealth could land on the California ballot in November. The proposal would apply to millionaires and billionaires with at least $1 billion in wealth.",
+            "date": "Mon, 29 Dec 2025 22:23:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SI=F",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Zelenskyy asks Trump for 50 years of security guarantees, says meeting with Russia possible",
-            "link": "https://www.cnbc.com/2025/12/29/zelenskyy-asks-trump-for-50-years-of-security-guarantees.html",
-            "summary": "Ukraine's president says he has asked for security guarantees for up to 50 years for Ukraine. Volodymyr Zelenskyy said he had asked for guarantees for security for Ukraine for 50 years.",
-            "date": "Mon, 29 Dec 2025 12:53:12 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ASKSB27-PRO.OL",
-            "impact": "Bullish"
-        },
-        {
-            "title": "DigitalBridge shares jump as much as 50% after report SoftBank is in talks to acquire data center firm",
-            "link": "https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html",
-            "summary": "The premarket move comes shortly after Bloomberg reported Japan's SoftBank was in advanced talks to acquire the data center investment firm. The deal is expected to close in the next few weeks.",
-            "date": "Mon, 29 Dec 2025 11:10:44 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DBRG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Your past-due student loans can make it harder to rent an apartment. These 5 tips can help",
-            "link": "https://www.cnbc.com/2025/12/29/student-debt-rent.html",
-            "summary": "If you've fallen behind on your student loans, it may be more challenging to get a property manager to approve you for rental housing, financial experts say.",
-            "date": "Mon, 29 Dec 2025 13:30:02 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RTV.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I completely trust her’: Should I name my daughter as beneficiary on all my accounts — or add her name instead?",
-            "link": "https://www.marketwatch.com/story/i-completely-trust-her-should-i-name-my-daughter-as-beneficiary-on-all-my-accounts-or-add-her-name-instead-dc24750b?mod=mw_rss_topstories",
-            "summary": "“She is an intelligent and responsible individual,” she says. “She’s not a bad person.” “I’m very proud of her,’ she adds.",
-            "date": "Mon, 29 Dec 2025 13:21:00 GMT",
+            "title": "Eurostar warns of ‘major disruption’ as power outage halts services between France and England",
+            "link": "https://www.cnbc.com/2025/12/30/eurostar-hit-by-power-outage-during-height-of-new-year-travel-season.html",
+            "summary": "The disruption brings one of Europe's busiest international rail corridors to a halt. The disruption comes at the peak of the New Year travel season.",
+            "date": "Tue, 30 Dec 2025 13:28:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "OBTC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Google rose to the top in the AI race. Here’s what it’ll take to stay there.",
-            "link": "https://www.marketwatch.com/story/google-rose-to-the-top-in-the-ai-race-heres-what-itll-take-to-stay-there-0507d4a4?mod=mw_rss_topstories",
-            "summary": "Alphabet took the title as this year’s top-performing ‘Magnificent Seven’ stock, but the AI competition is fierce.",
-            "date": "Mon, 29 Dec 2025 13:18:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GOOG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here are the ideas that could really help solve America’s affordability crisis in 2026",
-            "link": "https://www.marketwatch.com/story/trump-accounts-free-child-care-and-tariff-checks-heres-which-ideas-could-really-help-solve-americas-affordability-crisis-5028cb3b?mod=mw_rss_topstories",
-            "summary": "These 10 ideas targeting affordability will be tested in 2026. A look at the ones that could help most, including Trump accounts, free child care and tariff checks.",
-            "date": "Mon, 29 Dec 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HERE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here’s where AMD can gain ground in the AI chip race next year",
-            "link": "https://www.marketwatch.com/story/heres-where-amd-can-gain-ground-in-the-ai-chip-race-next-year-f94fa61a?mod=mw_rss_topstories",
-            "summary": "Wall Street will be watching to see if the chip maker’s upcoming AI accelerators and first rack-scale offering will bring it closer in competition with Nvidia.",
-            "date": "Mon, 29 Dec 2025 12:49:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHETH-USD",
             "impact": "Bullish"
         },
         {
-            "title": "The hot AI trade faces a 1980s style trap and these risks, says this market bull",
-            "link": "https://www.marketwatch.com/story/watch-for-these-warning-flags-in-the-hot-ai-trade-for-2026-says-this-market-bull-b7f65af2?mod=mw_rss_topstories",
-            "summary": "Evercore’s Emanuel: Expect more volatility for stocks next year. Emanuel: “I think we’re going to see a lot of volatility in the market.”",
-            "date": "Mon, 29 Dec 2025 12:45:00 GMT",
+            "title": "Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality",
+            "link": "https://www.cnbc.com/2025/12/30/elon-musk-wants-robots-everywhere-china-is-making-that-a-reality.html",
+            "summary": "China has made the development of humanoid robots a strategic priority in its tech battle with the U.S. China has made it a priority to develop humanoid robots in a bid to compete with the United States.",
+            "date": "Tue, 30 Dec 2025 06:10:04 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ELON.ST",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Novo Nordisk's 'long game' on weight loss drugs sparks hope in science, but the Street is impatient",
+            "link": "https://www.cnbc.com/2025/12/30/novo-nordisk-beyond-weight-loss-has-investors-wary-scientists-hopeful.html",
+            "summary": "The medicine developed by the100-year-old Danish drugmaker may impact patients' brains in surprising ways. The medicine was developed to treat conditions such as Parkinson's disease.",
+            "date": "Tue, 30 Dec 2025 06:12:25 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "You told us your financial New Year’s resolutions. Here’s how to make them happen.",
+            "link": "https://www.marketwatch.com/story/you-told-us-your-financial-new-years-resolutions-heres-how-to-make-them-happen-d8f7e9a9?mod=mw_rss_topstories",
+            "summary": "MarketWatch readers shared their money goals for 2026. These tips can help them — and you — embrace habits to build wealth, pay down debt.",
+            "date": "Tue, 30 Dec 2025 13:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "YOU",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Is the stock market open on New Year’s Eve and New Year’s Day? Will the post office deliver mail?",
+            "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-new-years-eve-and-new-years-day-will-the-post-office-deliver-mail-9dea15c3?mod=mw_rss_topstories",
+            "summary": "Be prepared for some holiday closures in 2026. As we greet 2026, be prepared to some holiday closure. Be prepared to be prepared for holiday closures.",
+            "date": "Tue, 30 Dec 2025 13:09:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ISKPLX=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The sneaky factor that Apple investors need to watch in the new year",
+            "link": "https://www.marketwatch.com/story/the-sneaky-factor-that-apple-investors-need-to-watch-in-the-new-year-43eb13fb?mod=mw_rss_topstories",
+            "summary": "Apple's iPhone 6 expected to be released this fall. Will it be able to compete with Google and Samsung in the memory market? Will it have enough memory to keep up with growing memory costs?",
+            "date": "Tue, 30 Dec 2025 13:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This trader says AI IPOs and a falling dollar could drive the S&P 500 to 8,200 next year",
+            "link": "https://www.marketwatch.com/story/this-trader-says-ai-ipos-and-a-falling-dollar-could-drive-the-s-p-500-to-8-200-next-year-90c14fe7?mod=mw_rss_topstories",
+            "summary": "Samantha LaDuc has nailed some big calls on stocks in recent years. She sees another S&amp;P 500 high coming in 2026, but an unhappy Main Street.",
+            "date": "Tue, 30 Dec 2025 12:37:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "S2819.MC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These stocks doubled the S&P 500’s return in 2025 — why a 2026 repeat looks likely",
+            "link": "https://www.marketwatch.com/story/these-stocks-doubled-the-s-p-500s-return-in-2025-why-a-2026-repeat-looks-likely-bdc93716?mod=mw_rss_topstories",
+            "summary": "Valuation indicators now are extremely bearish for U.S. stocks. Non-U.S.-based stocks are a much better bet.",
+            "date": "Tue, 30 Dec 2025 12:35:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOPT",
             "impact": "Neutral"
         }
     ]
