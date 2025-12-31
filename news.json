@@ -1,124 +1,124 @@
 {
-    "date": "2025-12-30",
+    "date": "2025-12-31",
     "news": [
         {
-            "title": "Copper on pace for best year since 2009 as AI demand, supply fears fuel record price rally",
-            "link": "https://www.cnbc.com/2025/12/30/copper-prices-what-next-for-the-red-metal-as-lme-prices-hit-record.html",
-            "summary": "Analysts say copper's record-breaking run could continue next year. Supply disruptions and masssive spending on artificial intelligence are cited as reasons.",
-            "date": "Tue, 30 Dec 2025 12:47:30 GMT",
+            "title": "Retail investors close out one of their best years ever. How they beat Wall Street at their own game",
+            "link": "https://www.cnbc.com/2025/12/31/retail-investors-dip-buying-taco-trade-strong-2025.html",
+            "summary": "Mom-and-pop investors bought the dip at key points, giving them outsized benefits from the market's run this year. The market is up more than 10% this year, with the S&P 500 up about 10%.",
+            "date": "Wed, 31 Dec 2025 13:00:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HG=F",
+            "stock_ticker": "SXR=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Gold, silver prices fall after CME raises precious metals margins — again",
+            "link": "https://www.cnbc.com/2025/12/31/gold-and-silver-prices-fall-after-cme-raises-precious-metals-margins.html",
+            "summary": "The moves come at the end of a blockbuster year of annual gains for the precious metals. The moves come after a year of gains for gold, silver and platinum.",
+            "date": "Wed, 31 Dec 2025 13:18:45 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GOLD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Space and defense boom lifted these satellite stocks by more than 200% in 2025",
+            "link": "https://www.cnbc.com/2025/12/31/space-and-defense-boom-lifted-these-satellite-stocks-by-200percent-in-2025.html",
+            "summary": "Satellite stocks have benefitted this year from renewed interest in space exploration and military reindustrialization efforts. Satellite stocks have benefited this year because of renewed interest.",
+            "date": "Wed, 31 Dec 2025 13:19:08 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SIDU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How $160 million worth of export-controlled Nvidia chips were allegedly smuggled into China",
+            "link": "https://www.cnbc.com/2025/12/31/160-million-export-controlled-nvidia-gpus-allegedly-smuggled-to-china.html",
+            "summary": "The scheme involved falsifying shipping documents to misclassify the GPUs and hide their true destinations, including China and other prohibited locations. The scheme was part of a larger scheme to falsify shipping documents.",
+            "date": "Wed, 31 Dec 2025 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Khanna calls for nationwide fraud investigation after wealth tax proposal caused firestorm",
+            "link": "https://www.cnbc.com/2025/12/30/ro-khanna-calls-for-fraud-probe-after-california-wealth-tax-firestorm.html",
+            "summary": "California Rep. Ro Khanna is navigating a difficult environment. One-time supporters turn on him due to his support of a wealth tax.",
+            "date": "Wed, 31 Dec 2025 00:47:53 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CALLS-USD",
             "impact": "Bullish"
         },
         {
-            "title": "California's Ro Khanna faces Silicon Valley backlash after embracing wealth tax",
-            "link": "https://www.cnbc.com/2025/12/29/silicon-valley-ro-khanna-faces-tech-backlash-over-wealth-tax.html",
-            "summary": "A proposal to tax California billionaires at 5% of their wealth could land on the California ballot in November. The proposal would apply to millionaires and billionaires with at least $1 billion in wealth.",
-            "date": "Mon, 29 Dec 2025 22:23:12 GMT",
+            "title": "I’m afraid my financial adviser will steal my money. I’ve read too many cautionary tales. How can I be sure?",
+            "link": "https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories",
+            "summary": "“I am 66 years old and have been retired for about a year and a half,” he says. “I’ve been in and out of the hospital. I’m not a big fan of hospitals.”",
+            "date": "Wed, 31 Dec 2025 13:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "Eurostar warns of ‘major disruption’ as power outage halts services between France and England",
-            "link": "https://www.cnbc.com/2025/12/30/eurostar-hit-by-power-outage-during-height-of-new-year-travel-season.html",
-            "summary": "The disruption brings one of Europe's busiest international rail corridors to a halt. The disruption comes at the peak of the New Year travel season.",
-            "date": "Tue, 30 Dec 2025 13:28:44 GMT",
+            "title": "Here’s what’s worth streaming in January 2026 on Netflix, Hulu, HBO Max and more",
+            "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-january-2026-on-netflix-hulu-hbo-max-and-more-a53de184?mod=mw_rss_topstories",
+            "summary": "From returning favorites like 'The Pitt' and 'Bridgerton' to newcomers like 'A Knight of the Seven Kingdoms,' there’s a lot on tap to kick off the new year.",
+            "date": "Wed, 31 Dec 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OBTC",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Elon Musk envisions humanoid robots everywhere. China may be the first to make it a reality",
-            "link": "https://www.cnbc.com/2025/12/30/elon-musk-wants-robots-everywhere-china-is-making-that-a-reality.html",
-            "summary": "China has made the development of humanoid robots a strategic priority in its tech battle with the U.S. China has made it a priority to develop humanoid robots in a bid to compete with the United States.",
-            "date": "Tue, 30 Dec 2025 06:10:04 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ELON.ST",
+            "stock_ticker": "BD0.F",
             "impact": "Neutral"
         },
         {
-            "title": "Novo Nordisk's 'long game' on weight loss drugs sparks hope in science, but the Street is impatient",
-            "link": "https://www.cnbc.com/2025/12/30/novo-nordisk-beyond-weight-loss-has-investors-wary-scientists-hopeful.html",
-            "summary": "The medicine developed by the100-year-old Danish drugmaker may impact patients' brains in surprising ways. The medicine was developed to treat conditions such as Parkinson's disease.",
-            "date": "Tue, 30 Dec 2025 06:12:25 GMT",
+            "title": "‘I’m fed up’: My selfish mother-in-law has controlled me for 30 years. How can I regain my power?",
+            "link": "https://www.marketwatch.com/story/im-completely-fed-up-my-selfish-boomer-mother-in-law-has-controlled-me-for-30-years-how-can-i-regain-my-power-7d6b82e0?mod=mw_rss_topstories",
+            "summary": "\"I'm almost 50 years old. Enough is enough,\" she says. \"I am exhausted by it. I am exhausted.”",
+            "date": "Wed, 31 Dec 2025 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVO",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "You told us your financial New Year’s resolutions. Here’s how to make them happen.",
-            "link": "https://www.marketwatch.com/story/you-told-us-your-financial-new-years-resolutions-heres-how-to-make-them-happen-d8f7e9a9?mod=mw_rss_topstories",
-            "summary": "MarketWatch readers shared their money goals for 2026. These tips can help them — and you — embrace habits to build wealth, pay down debt.",
-            "date": "Tue, 30 Dec 2025 13:30:00 GMT",
+            "title": "SpaceX, Anthropic and 4 more companies that could make an IPO splash in 2026",
+            "link": "https://www.marketwatch.com/story/spacex-anthropic-and-4-more-companies-that-could-make-an-ipo-splash-in-2026-e6ab5398?mod=mw_rss_topstories",
+            "summary": "SpaceX and Anthropic, two of the most valuable private companies in the world, are reportedly considering launching initial public offerings as soon as next year.",
+            "date": "Wed, 31 Dec 2025 12:42:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "YOU",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Is the stock market open on New Year’s Eve and New Year’s Day? Will the post office deliver mail?",
-            "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-new-years-eve-and-new-years-day-will-the-post-office-deliver-mail-9dea15c3?mod=mw_rss_topstories",
-            "summary": "Be prepared for some holiday closures in 2026. As we greet 2026, be prepared to some holiday closure. Be prepared to be prepared for holiday closures.",
-            "date": "Tue, 30 Dec 2025 13:09:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ISKPLX=X",
+            "stock_ticker": "SPACEX-USD",
             "impact": "Neutral"
         },
         {
-            "title": "The sneaky factor that Apple investors need to watch in the new year",
-            "link": "https://www.marketwatch.com/story/the-sneaky-factor-that-apple-investors-need-to-watch-in-the-new-year-43eb13fb?mod=mw_rss_topstories",
-            "summary": "Apple's iPhone 6 expected to be released this fall. Will it be able to compete with Google and Samsung in the memory market? Will it have enough memory to keep up with growing memory costs?",
-            "date": "Tue, 30 Dec 2025 13:05:00 GMT",
+            "title": "I’m 35 and the only house I can afford is a mobile home. Is it a bad idea to buy one?",
+            "link": "https://www.marketwatch.com/story/im-35-and-the-only-house-i-can-afford-is-a-mobile-home-is-it-a-bad-idea-to-buy-one-76e32c1c?mod=mw_rss_topstories",
+            "summary": "“I know there is a stigma of living in a trailer park,” she says. “I’m not ashamed of it.” “It’s just a way of life.’ “",
+            "date": "Wed, 31 Dec 2025 12:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This trader says AI IPOs and a falling dollar could drive the S&P 500 to 8,200 next year",
-            "link": "https://www.marketwatch.com/story/this-trader-says-ai-ipos-and-a-falling-dollar-could-drive-the-s-p-500-to-8-200-next-year-90c14fe7?mod=mw_rss_topstories",
-            "summary": "Samantha LaDuc has nailed some big calls on stocks in recent years. She sees another S&amp;P 500 high coming in 2026, but an unhappy Main Street.",
-            "date": "Tue, 30 Dec 2025 12:37:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "S2819.MC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "These stocks doubled the S&P 500’s return in 2025 — why a 2026 repeat looks likely",
-            "link": "https://www.marketwatch.com/story/these-stocks-doubled-the-s-p-500s-return-in-2025-why-a-2026-repeat-looks-likely-bdc93716?mod=mw_rss_topstories",
-            "summary": "Valuation indicators now are extremely bearish for U.S. stocks. Non-U.S.-based stocks are a much better bet.",
-            "date": "Tue, 30 Dec 2025 12:35:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TOPT",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         }
     ]
