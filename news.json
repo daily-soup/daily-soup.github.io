@@ -1,71 +1,107 @@
 {
-    "date": "2025-12-31",
+    "date": "2026-01-01",
     "news": [
         {
-            "title": "Retail investors close out one of their best years ever. How they beat Wall Street at their own game",
-            "link": "https://www.cnbc.com/2025/12/31/retail-investors-dip-buying-taco-trade-strong-2025.html",
-            "summary": "Mom-and-pop investors bought the dip at key points, giving them outsized benefits from the market's run this year. The market is up more than 10% this year, with the S&P 500 up about 10%.",
-            "date": "Wed, 31 Dec 2025 13:00:56 GMT",
+            "title": "Dust to data centers: The year AI tech giants, and billions in debt, began remaking the American landscape",
+            "link": "https://www.cnbc.com/2025/12/31/ai-data-centers-debt-sam-altman-elon-musk-mark-zuckerberg.html",
+            "summary": "Big Tech is remaking the U.S. map into an AI empire. It has kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.",
+            "date": "Thu, 01 Jan 2026 03:13:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SXR=F",
+            "stock_ticker": "DUST",
             "impact": "Neutral"
         },
         {
-            "title": "Gold, silver prices fall after CME raises precious metals margins — again",
-            "link": "https://www.cnbc.com/2025/12/31/gold-and-silver-prices-fall-after-cme-raises-precious-metals-margins.html",
-            "summary": "The moves come at the end of a blockbuster year of annual gains for the precious metals. The moves come after a year of gains for gold, silver and platinum.",
-            "date": "Wed, 31 Dec 2025 13:18:45 GMT",
+            "title": "Trump’s first vetoes of his second term hit bipartisan infrastructure projects, draw accusations of retribution",
+            "link": "https://www.cnbc.com/2025/12/31/trumps-first-vetoes-hit-bipartisan-infrastructure-projects.html",
+            "summary": "Trump promised retribution after Colorado refused to release Tina Peters, who was convicted by a state court last year. Trump promised retribution for Colorado refusing to release Peters.",
+            "date": "Wed, 31 Dec 2025 19:54:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOLD",
+            "stock_ticker": "AG",
             "impact": "Neutral"
         },
         {
-            "title": "Space and defense boom lifted these satellite stocks by more than 200% in 2025",
-            "link": "https://www.cnbc.com/2025/12/31/space-and-defense-boom-lifted-these-satellite-stocks-by-200percent-in-2025.html",
-            "summary": "Satellite stocks have benefitted this year from renewed interest in space exploration and military reindustrialization efforts. Satellite stocks have benefited this year because of renewed interest.",
-            "date": "Wed, 31 Dec 2025 13:19:08 GMT",
+            "title": "Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens",
+            "link": "https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html",
+            "summary": "Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors. Shares of Google's parent company, Alphabet, are up more than 10 percent this year.",
+            "date": "Wed, 31 Dec 2025 22:41:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SIDU",
+            "stock_ticker": "GOOG",
             "impact": "Neutral"
         },
         {
-            "title": "How $160 million worth of export-controlled Nvidia chips were allegedly smuggled into China",
-            "link": "https://www.cnbc.com/2025/12/31/160-million-export-controlled-nvidia-gpus-allegedly-smuggled-to-china.html",
-            "summary": "The scheme involved falsifying shipping documents to misclassify the GPUs and hide their true destinations, including China and other prohibited locations. The scheme was part of a larger scheme to falsify shipping documents.",
-            "date": "Wed, 31 Dec 2025 12:00:01 GMT",
+            "title": "'Big Short' investor Michael Burry says he's not shorting Tesla",
+            "link": "https://www.cnbc.com/2025/12/31/big-short-investor-michael-burry-denies-shorting-tesla-stock.html",
+            "summary": "The Scion Asset Management founder responded to a user asking if he would bet against Tesla by saying: \"I am not short.\" In a social media post on X, the Scion Asset management founder said he is not short.",
+            "date": "Wed, 31 Dec 2025 17:40:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "BBAI",
             "impact": "Neutral"
         },
         {
-            "title": "Khanna calls for nationwide fraud investigation after wealth tax proposal caused firestorm",
-            "link": "https://www.cnbc.com/2025/12/30/ro-khanna-calls-for-fraud-probe-after-california-wealth-tax-firestorm.html",
-            "summary": "California Rep. Ro Khanna is navigating a difficult environment. One-time supporters turn on him due to his support of a wealth tax.",
-            "date": "Wed, 31 Dec 2025 00:47:53 GMT",
+            "title": "Novo Nordisk enters 2026 on the defense as it faces a ‘must-win’ battle in the U.S. market",
+            "link": "https://www.cnbc.com/2026/01/01/novo-nordisk-faces-must-win-battle-over-us-wegovy-ozempic-in-2026.html",
+            "summary": "The FDA approval of the Wegovy pill highlights many of the key themes Novo Nordisk will have to face in 2026. The Wegovi pill has been approved by the FDA for use in the U.S.",
+            "date": "Thu, 01 Jan 2026 06:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CALLS-USD",
-            "impact": "Bullish"
+            "stock_ticker": "NVO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘We never want to think our children would strip us of all our money’: Is it safe to give my kids my Social Security number?",
+            "link": "https://www.marketwatch.com/story/we-never-want-to-think-our-children-would-strip-us-of-all-our-money-is-it-safe-to-give-my-kids-my-social-security-number-2d083e1f?mod=mw_rss_topstories",
+            "summary": "“Regrettably, I have a good friend whose brother robbed their mother of a significant amount of money before her death,” he said.",
+            "date": "Thu, 01 Jan 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WSTNR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘He has become hostile’: My mom is in her 80s and has dementia. My brother is blocking access.",
+            "link": "https://www.marketwatch.com/story/he-has-become-hostile-my-mom-is-in-her-80s-and-has-dementia-my-brother-is-blocking-access-b8258d3e?mod=mw_rss_topstories",
+            "summary": "“Can someone who has not been found legally incompetent, but who has a history of delusions, make decisions regarding property?” he asks.",
+            "date": "Thu, 01 Jan 2026 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "20 stocks in the S&P 500 that gained the most in 2025",
+            "link": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-gained-the-most-in-2025-98be5881?mod=mw_rss_topstories",
+            "summary": "Companies that added to huge gains the previous year included Robinhood, Palantir, Carvana and GE. Companies that lost huge gains in 2013 included GE, Robinhood and Carvana.",
+            "date": "Thu, 01 Jan 2026 11:29:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "QM=F",
+            "impact": "Neutral"
         },
         {
             "title": "I’m afraid my financial adviser will steal my money. I’ve read too many cautionary tales. How can I be sure?",
             "link": "https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories",
             "summary": "“I am 66 years old and have been retired for about a year and a half,” he says. “I’ve been in and out of the hospital. I’m not a big fan of hospitals.”",
-            "date": "Wed, 31 Dec 2025 13:20:00 GMT",
+            "date": "Thu, 01 Jan 2026 10:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "Here’s what’s worth streaming in January 2026 on Netflix, Hulu, HBO Max and more",
-            "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-january-2026-on-netflix-hulu-hbo-max-and-more-a53de184?mod=mw_rss_topstories",
-            "summary": "From returning favorites like 'The Pitt' and 'Bridgerton' to newcomers like 'A Knight of the Seven Kingdoms,' there’s a lot on tap to kick off the new year.",
-            "date": "Wed, 31 Dec 2025 13:00:00 GMT",
+            "title": "Is the Times Square New Year’s Eve ball drop on your bucket list? Here’s why life goals like that aren’t worth the time or money.",
+            "link": "https://www.marketwatch.com/story/is-the-times-square-new-years-eve-ball-drop-on-your-bucket-list-heres-why-life-goals-like-that-arent-worth-the-time-or-money-c4b20b87?mod=mw_rss_topstories",
+            "summary": "You can skip swimming with the dolphins, too. And you can skip going to the beach. You can also skip swimming in the ocean at all.",
+            "date": "Thu, 01 Jan 2026 03:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BD0.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m fed up’: My selfish mother-in-law has controlled me for 30 years. How can I regain my power?",
-            "link": "https://www.marketwatch.com/story/im-completely-fed-up-my-selfish-boomer-mother-in-law-has-controlled-me-for-30-years-how-can-i-regain-my-power-7d6b82e0?mod=mw_rss_topstories",
-            "summary": "\"I'm almost 50 years old. Enough is enough,\" she says. \"I am exhausted by it. I am exhausted.”",
-            "date": "Wed, 31 Dec 2025 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "SpaceX, Anthropic and 4 more companies that could make an IPO splash in 2026",
-            "link": "https://www.marketwatch.com/story/spacex-anthropic-and-4-more-companies-that-could-make-an-ipo-splash-in-2026-e6ab5398?mod=mw_rss_topstories",
-            "summary": "SpaceX and Anthropic, two of the most valuable private companies in the world, are reportedly considering launching initial public offerings as soon as next year.",
-            "date": "Wed, 31 Dec 2025 12:42:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPACEX-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m 35 and the only house I can afford is a mobile home. Is it a bad idea to buy one?",
-            "link": "https://www.marketwatch.com/story/im-35-and-the-only-house-i-can-afford-is-a-mobile-home-is-it-a-bad-idea-to-buy-one-76e32c1c?mod=mw_rss_topstories",
-            "summary": "“I know there is a stigma of living in a trailer park,” she says. “I’m not ashamed of it.” “It’s just a way of life.’ “",
-            "date": "Wed, 31 Dec 2025 12:38:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "ISKHUX=X",
             "impact": "Neutral"
         }
     ]
