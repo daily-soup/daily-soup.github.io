@@ -1,83 +1,71 @@
 {
-    "date": "2026-01-01",
+    "date": "2026-01-02",
     "news": [
         {
-            "title": "Dust to data centers: The year AI tech giants, and billions in debt, began remaking the American landscape",
-            "link": "https://www.cnbc.com/2025/12/31/ai-data-centers-debt-sam-altman-elon-musk-mark-zuckerberg.html",
-            "summary": "Big Tech is remaking the U.S. map into an AI empire. It has kingdom-scale data centers, unprecedented debt, power constraints, and a near-religious belief in scaling.",
-            "date": "Thu, 01 Jan 2026 03:13:37 GMT",
+            "title": "Buffett says Berkshire has the best odds of any company for lasting a century as he hands over reins",
+            "link": "https://www.cnbc.com/2026/01/02/warren-buffett-retirement-final-interview-berkshire-has-the-best-odds-of-lasting-a-century.html",
+            "summary": "Berkshire has \"a better chance I think of being here 100 years from now than any company I can think of,\" Buffett says.",
+            "date": "Fri, 02 Jan 2026 11:26:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DUST",
+            "stock_ticker": "0P0001BS00.L",
             "impact": "Neutral"
         },
         {
-            "title": "Trump’s first vetoes of his second term hit bipartisan infrastructure projects, draw accusations of retribution",
-            "link": "https://www.cnbc.com/2025/12/31/trumps-first-vetoes-hit-bipartisan-infrastructure-projects.html",
-            "summary": "Trump promised retribution after Colorado refused to release Tina Peters, who was convicted by a state court last year. Trump promised retribution for Colorado refusing to release Peters.",
-            "date": "Wed, 31 Dec 2025 19:54:16 GMT",
+            "title": "Will he stay or will he go? Powell is not saying whether he'll stay on Fed board when chair term ends",
+            "link": "https://www.cnbc.com/2026/01/02/fed-chair-powell-staying-on-fed-board-or-going.html",
+            "summary": "Fed Chair Jay Powell has so far skirted the question of whether he'll stay on with the Fed when his term ends this year. He has said he's not sure if he wants to stay on.",
+            "date": "Fri, 02 Jan 2026 12:35:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AG",
+            "stock_ticker": "SHW",
             "impact": "Neutral"
         },
         {
-            "title": "Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens",
-            "link": "https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html",
-            "summary": "Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors. Shares of Google's parent company, Alphabet, are up more than 10 percent this year.",
-            "date": "Wed, 31 Dec 2025 22:41:45 GMT",
+            "title": "Behind the mesh curtain: Why airline class wars will intensify in 2026",
+            "link": "https://www.cnbc.com/2026/01/02/airline-industry-2026.html",
+            "summary": "Airlines are adding lounges, new first-class cabins and other perks for customers willing to spend more to fly. Airlines are continuing their focus on premium travelers.",
+            "date": "Fri, 02 Jan 2026 12:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOOG",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "'Big Short' investor Michael Burry says he's not shorting Tesla",
-            "link": "https://www.cnbc.com/2025/12/31/big-short-investor-michael-burry-denies-shorting-tesla-stock.html",
-            "summary": "The Scion Asset Management founder responded to a user asking if he would bet against Tesla by saying: \"I am not short.\" In a social media post on X, the Scion Asset management founder said he is not short.",
-            "date": "Wed, 31 Dec 2025 17:40:18 GMT",
+            "title": "Trump says U.S. will intervene if Iran 'violently kills' protestors",
+            "link": "https://www.cnbc.com/2026/01/02/trump-says-us-will-intervene-if-iran-violently-kills-protestors.html",
+            "summary": "Protests erupted last week over the government's handling of a sharp fall in the nation's currency and soaring prices. Protests erupt over government's Handling of a Sharp Fall in the Nation's Currency and soaring Prices.",
+            "date": "Fri, 02 Jan 2026 11:05:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBAI",
-            "impact": "Neutral"
+            "stock_ticker": "DJT",
+            "impact": "Bullish"
         },
         {
-            "title": "Novo Nordisk enters 2026 on the defense as it faces a ‘must-win’ battle in the U.S. market",
-            "link": "https://www.cnbc.com/2026/01/01/novo-nordisk-faces-must-win-battle-over-us-wegovy-ozempic-in-2026.html",
-            "summary": "The FDA approval of the Wegovy pill highlights many of the key themes Novo Nordisk will have to face in 2026. The Wegovi pill has been approved by the FDA for use in the U.S.",
-            "date": "Thu, 01 Jan 2026 06:00:01 GMT",
+            "title": "Bernie Sanders and Ron DeSantis speak out against data center boom. It's a bad sign for AI industry",
+            "link": "https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html",
+            "summary": "Sen. Bernie Sanders has called for a data center moratoriu. Gov. Ron DeSantis has pushed back on the AI industry in Florida.",
+            "date": "Thu, 01 Jan 2026 15:39:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘We never want to think our children would strip us of all our money’: Is it safe to give my kids my Social Security number?",
-            "link": "https://www.marketwatch.com/story/we-never-want-to-think-our-children-would-strip-us-of-all-our-money-is-it-safe-to-give-my-kids-my-social-security-number-2d083e1f?mod=mw_rss_topstories",
-            "summary": "“Regrettably, I have a good friend whose brother robbed their mother of a significant amount of money before her death,” he said.",
-            "date": "Thu, 01 Jan 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WSTNR",
+            "stock_ticker": "BERNIE-USD",
             "impact": "Neutral"
         },
         {
             "title": "‘He has become hostile’: My mom is in her 80s and has dementia. My brother is blocking access.",
             "link": "https://www.marketwatch.com/story/he-has-become-hostile-my-mom-is-in-her-80s-and-has-dementia-my-brother-is-blocking-access-b8258d3e?mod=mw_rss_topstories",
             "summary": "“Can someone who has not been found legally incompetent, but who has a history of delusions, make decisions regarding property?” he asks.",
-            "date": "Thu, 01 Jan 2026 12:00:00 GMT",
+            "date": "Fri, 02 Jan 2026 13:24:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,22 +74,34 @@
             "impact": "Neutral"
         },
         {
-            "title": "20 stocks in the S&P 500 that gained the most in 2025",
-            "link": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-gained-the-most-in-2025-98be5881?mod=mw_rss_topstories",
-            "summary": "Companies that added to huge gains the previous year included Robinhood, Palantir, Carvana and GE. Companies that lost huge gains in 2013 included GE, Robinhood and Carvana.",
-            "date": "Thu, 01 Jan 2026 11:29:00 GMT",
+            "title": "These overlooked indicators say tech stocks may not lead the market in 2026",
+            "link": "https://www.marketwatch.com/story/these-overlooked-indicators-say-tech-stocks-may-not-lead-the-market-in-2026-b1446bc0?mod=mw_rss_topstories",
+            "summary": "Tech sector is over-owned and vulnerable to being hit with ‘loser’ tag,  says Wall Street veteran. Tech sector is  vulnerable to be hit with 'loser' tag, says Wall St veteran.",
+            "date": "Fri, 02 Jan 2026 12:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "QM=F",
+            "stock_ticker": "SAY",
             "impact": "Neutral"
         },
         {
-            "title": "I’m afraid my financial adviser will steal my money. I’ve read too many cautionary tales. How can I be sure?",
-            "link": "https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories",
-            "summary": "“I am 66 years old and have been retired for about a year and a half,” he says. “I’ve been in and out of the hospital. I’m not a big fan of hospitals.”",
-            "date": "Thu, 01 Jan 2026 10:45:00 GMT",
+            "title": "China’s BYD just raised the bar on EV sales. Tesla may struggle to catch up.",
+            "link": "https://www.marketwatch.com/story/chinas-byd-just-raised-the-bar-on-ev-sales-tesla-may-struggle-to-catch-up-84a73a31?mod=mw_rss_topstories",
+            "summary": "China EV maker BYD has published preliminary sales data for 2025. The data could put it ahead of Tesla when it comes to global sales.",
+            "date": "Fri, 02 Jan 2026 12:41:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CI4A.MU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I’m on a fixed budget’: Silver and gold are now too expensive for me. What else can I gift my infant grandchildren?",
+            "link": "https://www.marketwatch.com/story/im-on-a-fixed-budget-silver-and-gold-are-too-expensive-what-else-can-i-gift-my-infant-grandchildren-e12fa551?mod=mw_rss_topstories",
+            "summary": "“I’ve already listed them as beneficiaries on my 401(k),” he says. “Ive already list them as beneficiary on my401(k)”",
+            "date": "Fri, 02 Jan 2026 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "Is the Times Square New Year’s Eve ball drop on your bucket list? Here’s why life goals like that aren’t worth the time or money.",
-            "link": "https://www.marketwatch.com/story/is-the-times-square-new-years-eve-ball-drop-on-your-bucket-list-heres-why-life-goals-like-that-arent-worth-the-time-or-money-c4b20b87?mod=mw_rss_topstories",
-            "summary": "You can skip swimming with the dolphins, too. And you can skip going to the beach. You can also skip swimming in the ocean at all.",
-            "date": "Thu, 01 Jan 2026 03:27:00 GMT",
+            "title": "‘We never want to think our children would strip us of all our money’: Is it safe to give my kids my Social Security number?",
+            "link": "https://www.marketwatch.com/story/we-never-want-to-think-our-children-would-strip-us-of-all-our-money-is-it-safe-to-give-my-kids-my-social-security-number-2d083e1f?mod=mw_rss_topstories",
+            "summary": "“Regrettably, I have a good friend whose brother robbed their mother of a significant amount of money before her death,” he said.",
+            "date": "Fri, 02 Jan 2026 11:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ISKHUX=X",
+            "stock_ticker": "WSTNR",
             "impact": "Neutral"
         }
     ]
