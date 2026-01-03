@@ -1,11 +1,59 @@
 {
-    "date": "2026-01-02",
+    "date": "2026-01-03",
     "news": [
         {
-            "title": "Buffett says Berkshire has the best odds of any company for lasting a century as he hands over reins",
+            "title": "Trump launches 'large-scale' attack on Venezuela, captures Nicolas Maduro and wife",
+            "link": "https://www.cnbc.com/2026/01/03/trump-us-operation-captured-venezuela-president-nicolas-maduro.html",
+            "summary": " Maduro and his wife were captured and removed from the country following the operation, Trump said in a statement on Truth Social. The operation was carried out by the U.S. Central Command.",
+            "date": "Sat, 03 Jan 2026 13:06:15 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Berkshire Hathaway shares dip as Warren Buffett exits and Greg Abel era begins",
+            "link": "https://www.cnbc.com/2026/01/02/berkshire-hathaway-shares-dip-as-warren-buffett-exits-and-greg-abel-era-begins.html",
+            "summary": "Investors digested the formal end of Warren Buffett's six-decade tenure as chief executive. It was the start of a new era under successor Greg Abel.",
+            "date": "Fri, 02 Jan 2026 23:22:58 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BRK-B",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump orders Chinese-controlled firm to unwind chip asset deal, citing national security risks",
+            "link": "https://www.cnbc.com/2026/01/03/trump-orders-unwind-chinese-chip-acquisition-emcore-hiefo-emcore-velocity-one-navgiation-gyro.html",
+            "summary": "The White House said the deal could threaten U.S. national security. A Chinese-controlled company must divest semiconductor assets it bought from Emcore.",
+            "date": "Sat, 03 Jan 2026 09:31:04 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Tesla reports 418,227 deliveries for the fourth quarter, down 16%",
+            "link": "https://www.cnbc.com/2026/01/02/tesla-tsla-q4-2025-vehicle-deliveries.html",
+            "summary": "Tesla's fourth-quarter deliveries report follows a steep rally in the company's stock in the last few months of 2025. Tesla's stock has risen more than 50% since the start of the year.",
+            "date": "Fri, 02 Jan 2026 23:52:52 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSLA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Buffett says Berkshire has the best odds of any company for lasting 100 more years as he hands over reins",
             "link": "https://www.cnbc.com/2026/01/02/warren-buffett-retirement-final-interview-berkshire-has-the-best-odds-of-lasting-a-century.html",
             "summary": "Berkshire has \"a better chance I think of being here 100 years from now than any company I can think of,\" Buffett says.",
-            "date": "Fri, 02 Jan 2026 11:26:05 GMT",
+            "date": "Fri, 02 Jan 2026 14:16:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +62,63 @@
             "impact": "Neutral"
         },
         {
-            "title": "Will he stay or will he go? Powell is not saying whether he'll stay on Fed board when chair term ends",
-            "link": "https://www.cnbc.com/2026/01/02/fed-chair-powell-staying-on-fed-board-or-going.html",
-            "summary": "Fed Chair Jay Powell has so far skirted the question of whether he'll stay on with the Fed when his term ends this year. He has said he's not sure if he wants to stay on.",
-            "date": "Fri, 02 Jan 2026 12:35:04 GMT",
+            "title": "U.S. on verge of unemployment surge that forces Fed to slash rates, Wall Street veteran says",
+            "link": "https://www.marketwatch.com/story/u-s-on-verge-of-unemployment-surge-that-forces-fed-to-slash-rates-wall-street-veteran-says-e4bd0be1?mod=mw_rss_topstories",
+            "summary": "Those with optimistic views of 2026 are overlooking signs of a labor market in sharp decline, says David Rosenberg. Rosenberg: Those with optimistic outlooks are overlooking the decline of the U.S. labor market.",
+            "date": "Sat, 03 Jan 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHW",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Behind the mesh curtain: Why airline class wars will intensify in 2026",
-            "link": "https://www.cnbc.com/2026/01/02/airline-industry-2026.html",
-            "summary": "Airlines are adding lounges, new first-class cabins and other perks for customers willing to spend more to fly. Airlines are continuing their focus on premium travelers.",
-            "date": "Fri, 02 Jan 2026 12:30:01 GMT",
+            "title": "‘I have absolutely no idea what to do’: I was diagnosed with Alzheimer’s disease and inherited $400K. How do I invest it?",
+            "link": "https://www.marketwatch.com/story/i-have-absolutely-no-idea-what-to-do-i-was-diagnosed-with-alzheimers-disease-and-inherited-400k-how-do-i-invest-it-4722f704?mod=mw_rss_topstories",
+            "summary": "“I’m retired and 72. I don’t want to be here anymore,” he says. “I just want to go home.”",
+            "date": "Sat, 03 Jan 2026 12:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "OBTC",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says U.S. will intervene if Iran 'violently kills' protestors",
-            "link": "https://www.cnbc.com/2026/01/02/trump-says-us-will-intervene-if-iran-violently-kills-protestors.html",
-            "summary": "Protests erupted last week over the government's handling of a sharp fall in the nation's currency and soaring prices. Protests erupt over government's Handling of a Sharp Fall in the Nation's Currency and soaring Prices.",
-            "date": "Fri, 02 Jan 2026 11:05:28 GMT",
+            "title": "‘You need a third job or a rich husband’: I fell victim to Allen Stanford’s multibillion-dollar Ponzi scheme and survived",
+            "link": "https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories",
+            "summary": "“It’s wrong to talk down to anyone,” he said. “If you have never found yourself in a situation where your life does a complete 180, it's wrong.”",
+            "date": "Sat, 03 Jan 2026 12:39:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "YOU",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Here are the most popular Moneyist columns of 2025",
+            "link": "https://www.marketwatch.com/story/here-are-the-most-popular-moneyist-columns-of-2025-057730fd?mod=mw_rss_topstories",
+            "summary": "Bad executors, greedy friends, inheritances, elder abuse and qualifying for Medicaid featured as the most-read Moneyist columns of the year.",
+            "date": "Sat, 03 Jan 2026 11:28:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HERE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump says U.S. has captured Maduro. What happens next in markets.",
+            "link": "https://www.marketwatch.com/story/trump-says-u-s-has-captured-maduro-what-happens-next-in-markets-46fae56e?mod=mw_rss_topstories",
+            "summary": "The swift and successful U.S. operation to capture Venezuela president Nicolas Maduro is likely to pressure oil and could unleash a reaction in other financial markets.",
+            "date": "Sat, 03 Jan 2026 11:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Bernie Sanders and Ron DeSantis speak out against data center boom. It's a bad sign for AI industry",
-            "link": "https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html",
-            "summary": "Sen. Bernie Sanders has called for a data center moratoriu. Gov. Ron DeSantis has pushed back on the AI industry in Florida.",
-            "date": "Thu, 01 Jan 2026 15:39:54 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BERNIE-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘He has become hostile’: My mom is in her 80s and has dementia. My brother is blocking access.",
-            "link": "https://www.marketwatch.com/story/he-has-become-hostile-my-mom-is-in-her-80s-and-has-dementia-my-brother-is-blocking-access-b8258d3e?mod=mw_rss_topstories",
-            "summary": "“Can someone who has not been found legally incompetent, but who has a history of delusions, make decisions regarding property?” he asks.",
-            "date": "Fri, 02 Jan 2026 13:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "These overlooked indicators say tech stocks may not lead the market in 2026",
-            "link": "https://www.marketwatch.com/story/these-overlooked-indicators-say-tech-stocks-may-not-lead-the-market-in-2026-b1446bc0?mod=mw_rss_topstories",
-            "summary": "Tech sector is over-owned and vulnerable to being hit with ‘loser’ tag,  says Wall Street veteran. Tech sector is  vulnerable to be hit with 'loser' tag, says Wall St veteran.",
-            "date": "Fri, 02 Jan 2026 12:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SAY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "China’s BYD just raised the bar on EV sales. Tesla may struggle to catch up.",
-            "link": "https://www.marketwatch.com/story/chinas-byd-just-raised-the-bar-on-ev-sales-tesla-may-struggle-to-catch-up-84a73a31?mod=mw_rss_topstories",
-            "summary": "China EV maker BYD has published preliminary sales data for 2025. The data could put it ahead of Tesla when it comes to global sales.",
-            "date": "Fri, 02 Jan 2026 12:41:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CI4A.MU",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m on a fixed budget’: Silver and gold are now too expensive for me. What else can I gift my infant grandchildren?",
-            "link": "https://www.marketwatch.com/story/im-on-a-fixed-budget-silver-and-gold-are-too-expensive-what-else-can-i-gift-my-infant-grandchildren-e12fa551?mod=mw_rss_topstories",
-            "summary": "“I’ve already listed them as beneficiaries on my 401(k),” he says. “Ive already list them as beneficiary on my401(k)”",
-            "date": "Fri, 02 Jan 2026 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘We never want to think our children would strip us of all our money’: Is it safe to give my kids my Social Security number?",
-            "link": "https://www.marketwatch.com/story/we-never-want-to-think-our-children-would-strip-us-of-all-our-money-is-it-safe-to-give-my-kids-my-social-security-number-2d083e1f?mod=mw_rss_topstories",
-            "summary": "“Regrettably, I have a good friend whose brother robbed their mother of a significant amount of money before her death,” he said.",
-            "date": "Fri, 02 Jan 2026 11:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WSTNR",
             "impact": "Neutral"
         }
     ]
