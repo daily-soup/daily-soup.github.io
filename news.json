@@ -1,95 +1,59 @@
 {
-    "date": "2026-01-06",
+    "date": "2026-01-07",
     "news": [
         {
-            "title": "Memory chip giants spark global semiconductor rally as shortages stoke price hikes",
-            "link": "https://www.cnbc.com/2026/01/06/semiconductor-stocks-rally-led-by-asml-tsmc-samsung.html",
-            "summary": "Micron, SK Hynix and Samsung have led a rally in semiconductor stocks this year. Memory giants Micron and Samsung are among the top three semiconductor companies.",
-            "date": "Tue, 06 Jan 2026 12:45:09 GMT",
+            "title": "Private payrolls rose 41,000 in December, slightly below expectations, ADP says",
+            "link": "https://www.cnbc.com/2026/01/07/adp-jobs-report-december-2025.html",
+            "summary": "Private sector job creation turned positive in December though at a bit softer pace than expected. Private sector jobs creation in December was positive, though a bit slower than expected, according to the government.",
+            "date": "Wed, 07 Jan 2026 13:15:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "4DS.XA",
+            "stock_ticker": "XOVR",
             "impact": "Neutral"
         },
         {
-            "title": "'Greenland belongs to its people': European leaders unite over Trump’s threats to annex territory",
-            "link": "https://www.cnbc.com/2026/01/06/european-leaders-push-back-over-trumps-renewed-greenland-interest.html",
-            "summary": "European leaders push back against U.S. President Donald Trump's renewed interest in Greenland. European leaders issue a joint statement to push back at Trump.",
-            "date": "Tue, 06 Jan 2026 12:58:26 GMT",
+            "title": "WBD once again rejects Paramount offer in favor of Netflix deal",
+            "link": "https://www.cnbc.com/2026/01/07/wbd-rejects-paramount-offer-again-netflix-deal.html",
+            "summary": "Discovery's board still sees its deal with Netflix as the superior option over Paramount's recently amended hostile offer. Warner Bros. still sees Netflix deal as superior option.",
+            "date": "Wed, 07 Jan 2026 13:32:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GTEC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Software startup NinjaOne tops $500 million in annualized recurring revenue",
-            "link": "https://www.cnbc.com/2026/01/06/ninjaone-hits-revenue-benchmark-topping-500-million-arr.html",
-            "summary": "CapitalG-backed startup NinjaOne said it reached nearly 70% in year-over-year revenue growth. NinjaOne expects more in 2026.",
-            "date": "Tue, 06 Jan 2026 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "U",
+            "stock_ticker": "WBD",
             "impact": "Bullish"
         },
         {
-            "title": "Classified Venezuela briefing leaves lawmakers split along party lines after Maduro capture",
-            "link": "https://www.cnbc.com/2026/01/05/classified-maduro-capture-splits-lawmakers-war-law-enforcement-powers-congress.html",
-            "summary": "Senate Democrats are moving to force a vote on a measure to block further military action in Venezuela. Senate Democrats want to block any further military intervention in the country.",
-            "date": "Tue, 06 Jan 2026 03:22:29 GMT",
+            "title": "eVTOL maker Joby buys new Ohio factory, more than doubles manufacturing footprint as it vies for FAA approval",
+            "link": "https://www.cnbc.com/2026/01/07/joby-faa-air-taxi-evtol.html",
+            "summary": "Joby's expansion comes as electric air taxi companies race to gain Federal Aviation Administration certification to start flying their aircrafts commercially. Joby will be the first of its kind in the U.S.",
+            "date": "Wed, 07 Jan 2026 13:28:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "983.F",
+            "stock_ticker": "MKR-INR",
             "impact": "Neutral"
         },
         {
-            "title": "Iran unrest deepens as U.S. attack in Venezuela sharpens Trump intervention threat",
-            "link": "https://www.cnbc.com/2026/01/06/iran-protests-us-intervention-trump-economic-crisis-rial-ayatollah-khamenei-tehran.html",
-            "summary": "The unrest is fueled by a long-running economic crisis in Iran. At least 29 people have been killed and more than 1,200 have been arrested.",
-            "date": "Tue, 06 Jan 2026 07:06:01 GMT",
+            "title": "Watch Energy Secretary Chris Wright answer questions about Venezuela",
+            "link": "https://www.cnbc.com/2026/01/07/watch-energy-secretary-chris-wright-answer-questions-about-venezuela-.html",
+            "summary": "Wright will be interviewed by Goldman Sachs at the bank's annual energy conference in Miami. Wright will be on the panel at Goldman Sachs' energy conference.",
+            "date": "Wed, 07 Jan 2026 13:21:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3.SA",
+            "stock_ticker": "WOSG.L",
             "impact": "Neutral"
         },
         {
-            "title": "Bitcoin’s weakness is saying there will be a handoff to old-economy stocks, these market veterans say",
-            "link": "https://www.marketwatch.com/story/bitcoins-weakness-is-saying-there-will-be-a-handoff-to-old-economy-stocks-these-market-veterans-say-184da9aa?mod=mw_rss_topstories",
-            "summary": "Some 2026 predictions from a handful of market veterans including Steve Eisman. Watch out for old economy stocks to shine this year, they say.",
-            "date": "Tue, 06 Jan 2026 13:21:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "99BTC-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "An AI tsunami is coming — U.S. workers need to prepare, because we can’t dodge it",
-            "link": "https://www.marketwatch.com/story/an-ai-tsunami-is-coming-u-s-workers-need-to-prepare-because-we-cant-dodge-it-f09d86f4?mod=mw_rss_topstories",
-            "summary": ". 4 steps to strengthen training and skills so employees can meet AI head-on. 3 steps to train employees to meet AI face-to-face. 5 steps to help employees meet AI.",
-            "date": "Tue, 06 Jan 2026 12:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why bonds now look like a better bet over stocks and gold",
-            "link": "https://www.marketwatch.com/story/why-bonds-now-look-like-a-better-bet-over-stocks-and-gold-308042c2?mod=mw_rss_topstories",
-            "summary": "Market-timers hate bonds — it’s time to consider buying them. The U.S. dollar is down against the euro and the yen.",
-            "date": "Tue, 06 Jan 2026 12:45:00 GMT",
+            "title": "Why Trump wants Greenland — and what makes it so important for national security",
+            "link": "https://www.cnbc.com/2026/01/07/why-trump-wants-greenland-and-what-makes-it-so-important-for-security.html",
+            "summary": "Greenland, a vast and sparsely populated self-governing Danish territory, has been thrust into the geopolitical spotlight once again. Greenland is a vast, sparsely populate self-Governing Danish Territory.",
+            "date": "Wed, 07 Jan 2026 07:54:23 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -101,7 +65,7 @@
             "title": "‘We track our finances religiously’: Are we obliged to pay for our daughter’s medical school? We have $2.6 million saved for retirement.",
             "link": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
             "summary": "“I am retired, and my wife is an employed physician,” he says. “She is 56 and would like to retire as well.”",
-            "date": "Tue, 06 Jan 2026 12:20:00 GMT",
+            "date": "Wed, 07 Jan 2026 13:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘He even bragged about his Mercedes-Benz:’ I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?",
-            "link": "https://www.marketwatch.com/story/he-even-bragged-about-his-mercedes-benz-i-rejected-two-egotistical-advisers-i-managed-my-life-savings-and-they-tripled-over-25-years-did-i-do-ok-148d5d2e?mod=mw_rss_topstories",
-            "summary": "\"We do not take out-of-country or five-star vacations. Instead, we enjoy time with family and friends and hobbies,\" she says.",
-            "date": "Tue, 06 Jan 2026 11:20:00 GMT",
+            "title": "Businesses add 41,000 jobs in December, ADP says. U.S. jobs market not getting any worse.",
+            "link": "https://www.marketwatch.com/story/businesses-add-41-000-jobs-in-december-adp-says-u-s-jobs-market-not-getting-any-worse-a2289435?mod=mw_rss_topstories",
+            "summary": "ADP says businesses created 41,000 jobs in December. That suggests a weak U.S. labor market showed mild improvement heading into the new year.",
+            "date": "Wed, 07 Jan 2026 13:25:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HE",
+            "stock_ticker": "0P0000XHA8.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The last bearish overhang for crude — Venezuela — is now gone. Why one trader says oil will follow in gold’s footsteps.",
+            "link": "https://www.marketwatch.com/story/the-last-bearish-overhang-for-crude-venezuela-is-now-gone-why-one-trader-says-oil-will-follow-in-golds-footsteps-08050c63?mod=mw_rss_topstories",
+            "summary": "Energy bears had one last hope: a Venezuelan production ramp. That’s over and the energy sector has never been cheaper, says Kevin Muir.",
+            "date": "Wed, 07 Jan 2026 13:24:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "AI won’t pay off if employees can’t do the work it demands",
+            "link": "https://www.marketwatch.com/story/ai-wont-pay-off-if-employees-cant-do-the-work-it-demands-c71d96d6?mod=mw_rss_topstories",
+            "summary": "The U.S. urgently needs an education and workforce effort that can handle the significant changes stemming from AI. The education effort should focus on how to prepare people for the changes in the workplace.",
+            "date": "Wed, 07 Jan 2026 13:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "GameStop follows Tesla’s lead by tying its CEO’s pay to these ‘extraordinary growth’ targets",
+            "link": "https://www.marketwatch.com/story/gamestop-follows-teslas-lead-by-tying-its-ceos-pay-to-these-extraordinary-growth-targets-bceaccf1?mod=mw_rss_topstories",
+            "summary": "GameStop CEO Ryan Cohen would see a huge stock-options package if he can grow the company’s market cap by about 1,000% and hit new profit targets.",
+            "date": "Wed, 07 Jan 2026 13:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GME",
             "impact": "Neutral"
         }
     ]
