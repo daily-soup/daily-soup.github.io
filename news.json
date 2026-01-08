@@ -1,95 +1,107 @@
 {
-    "date": "2026-01-07",
+    "date": "2026-01-08",
     "news": [
         {
-            "title": "Private payrolls rose 41,000 in December, slightly below expectations, ADP says",
-            "link": "https://www.cnbc.com/2026/01/07/adp-jobs-report-december-2025.html",
-            "summary": "Private sector job creation turned positive in December though at a bit softer pace than expected. Private sector jobs creation in December was positive, though a bit slower than expected, according to the government.",
-            "date": "Wed, 07 Jan 2026 13:15:11 GMT",
+            "title": "Real estate agents say the housing market is starting to balance out",
+            "link": "https://www.cnbc.com/2026/01/08/cnbc-housing-market-survey-agents-balance-out.html",
+            "summary": "The latest housing survey shows agents slightly more optimistic about the new year. It shows a previously strong buyer's market becoming more balanced. The survey was carried out by the Australian National Association of Realtors.",
+            "date": "Thu, 08 Jan 2026 12:42:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XOVR",
+            "stock_ticker": "REAL",
             "impact": "Neutral"
         },
         {
-            "title": "WBD once again rejects Paramount offer in favor of Netflix deal",
-            "link": "https://www.cnbc.com/2026/01/07/wbd-rejects-paramount-offer-again-netflix-deal.html",
-            "summary": "Discovery's board still sees its deal with Netflix as the superior option over Paramount's recently amended hostile offer. Warner Bros. still sees Netflix deal as superior option.",
-            "date": "Wed, 07 Jan 2026 13:32:31 GMT",
+            "title": "Treasury Secretary Bessent says more Fed rate cuts are 'only ingredient missing' for stronger economy",
+            "link": "https://www.cnbc.com/2026/01/08/treasury-secretary-bessent-says-more-fed-rate-cuts-are-only-ingredient-missing-for-stronger-economy.html",
+            "summary": "Bessent pressed the administration's desire for lower interest rates. He said they are the key to future economic growth. Bessent: \"Lower interest rates are a key part of our economic strategy\"",
+            "date": "Thu, 08 Jan 2026 13:33:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WBD",
-            "impact": "Bullish"
-        },
-        {
-            "title": "eVTOL maker Joby buys new Ohio factory, more than doubles manufacturing footprint as it vies for FAA approval",
-            "link": "https://www.cnbc.com/2026/01/07/joby-faa-air-taxi-evtol.html",
-            "summary": "Joby's expansion comes as electric air taxi companies race to gain Federal Aviation Administration certification to start flying their aircrafts commercially. Joby will be the first of its kind in the U.S.",
-            "date": "Wed, 07 Jan 2026 13:28:19 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MKR-INR",
+            "stock_ticker": "ZB=F",
             "impact": "Neutral"
         },
         {
-            "title": "Watch Energy Secretary Chris Wright answer questions about Venezuela",
-            "link": "https://www.cnbc.com/2026/01/07/watch-energy-secretary-chris-wright-answer-questions-about-venezuela-.html",
-            "summary": "Wright will be interviewed by Goldman Sachs at the bank's annual energy conference in Miami. Wright will be on the panel at Goldman Sachs' energy conference.",
-            "date": "Wed, 07 Jan 2026 13:21:53 GMT",
+            "title": "Defense stocks surge after Trump calls for $1.5 trillion military budget in 2027",
+            "link": "https://www.cnbc.com/2026/01/08/defense-stocks-trump-military-spending-europe-us.html",
+            "summary": "U.S. defense stocks rallied in pre-market moves, following their European counterparts. U.S.-based defense companies are expected to report results for the quarter on Tuesday.",
+            "date": "Thu, 08 Jan 2026 12:59:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WOSG.L",
+            "stock_ticker": "KTOS",
             "impact": "Neutral"
         },
         {
-            "title": "Why Trump wants Greenland — and what makes it so important for national security",
-            "link": "https://www.cnbc.com/2026/01/07/why-trump-wants-greenland-and-what-makes-it-so-important-for-security.html",
-            "summary": "Greenland, a vast and sparsely populated self-governing Danish territory, has been thrust into the geopolitical spotlight once again. Greenland is a vast, sparsely populate self-Governing Danish Territory.",
-            "date": "Wed, 07 Jan 2026 07:54:23 GMT",
+            "title": "Layoff pace in December hit lowest level since mid-2024, Challenger says",
+            "link": "https://www.cnbc.com/2026/01/08/layoff-pace-in-december-hit-lowest-level-since-mid-2024-challenger-says.html",
+            "summary": "Planned job cuts totaled 35,553 for the month. That's a 50% slide from November and an 8% decrease from the same period a year ago.",
+            "date": "Thu, 08 Jan 2026 12:49:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "3823.T",
+            "stock_ticker": "COWZ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "CNBC's Becky Quick details daughter's rare disease journey",
+            "link": "https://www.cnbc.com/2026/01/08/cnbcs-becky-quick-details-daughters-rare-disease-journey.html",
+            "summary": "CNBC Squawk Box anchor Becky Quick details her daughter's rare disease journey. Quick explains why it inspired her to launch CNBC Cures.",
+            "date": "Thu, 08 Jan 2026 12:03:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "QUIK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Would you have invested in Berkshire Hathaway stock at the start of Warren Buffett’s career?",
+            "link": "https://www.marketwatch.com/story/would-you-have-invested-in-berkshire-hathaway-stock-at-the-start-of-warren-buffetts-career-533af7a1?mod=mw_rss_topstories",
+            "summary": "Buffett’s legendary investing record reveals a hard truth about the stock market. Buffett: “I’ve never seen anything like it.” “If you’re in it for the long term, you can’t lose,” Buffett says.",
+            "date": "Thu, 08 Jan 2026 13:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WOULD-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Oil’s ‘Maduro trade’ faded fast — and won’t come back until Venezuela stabilizes",
+            "link": "https://www.marketwatch.com/story/oils-maduro-trade-faded-fast-and-wont-come-back-until-venezuela-stabilizes-9c81a052?mod=mw_rss_topstories",
+            "summary": "The wait for Venezuela — and U.S. companies — could be long. Economic rebuilding depends on the U.N. lifting sanctions.",
+            "date": "Thu, 08 Jan 2026 13:10:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EGS38421C011.CA",
             "impact": "Neutral"
         },
         {
             "title": "‘We track our finances religiously’: Are we obliged to pay for our daughter’s medical school? We have $2.6 million saved for retirement.",
             "link": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
             "summary": "“I am retired, and my wife is an employed physician,” he says. “She is 56 and would like to retire as well.”",
-            "date": "Wed, 07 Jan 2026 13:31:00 GMT",
+            "date": "Thu, 08 Jan 2026 12:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFC",
+            "stock_ticker": "WDC",
             "impact": "Neutral"
         },
         {
-            "title": "Businesses add 41,000 jobs in December, ADP says. U.S. jobs market not getting any worse.",
-            "link": "https://www.marketwatch.com/story/businesses-add-41-000-jobs-in-december-adp-says-u-s-jobs-market-not-getting-any-worse-a2289435?mod=mw_rss_topstories",
-            "summary": "ADP says businesses created 41,000 jobs in December. That suggests a weak U.S. labor market showed mild improvement heading into the new year.",
-            "date": "Wed, 07 Jan 2026 13:25:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0000XHA8.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The last bearish overhang for crude — Venezuela — is now gone. Why one trader says oil will follow in gold’s footsteps.",
-            "link": "https://www.marketwatch.com/story/the-last-bearish-overhang-for-crude-venezuela-is-now-gone-why-one-trader-says-oil-will-follow-in-golds-footsteps-08050c63?mod=mw_rss_topstories",
-            "summary": "Energy bears had one last hope: a Venezuelan production ramp. That’s over and the energy sector has never been cheaper, says Kevin Muir.",
-            "date": "Wed, 07 Jan 2026 13:24:00 GMT",
+            "title": "The history doesn’t look good four years into a bull market. Why these strategists are optimistic anyway.",
+            "link": "https://www.marketwatch.com/story/the-history-doesnt-look-good-four-years-into-a-bull-market-why-these-strategists-are-still-optimistic-5beb3506?mod=mw_rss_topstories",
+            "summary": "The stock market’s valuation has never been in year four of a bull market. The market is now in the midst of its longest bull market on record. The Dow Jones Industrial Average is up more than 8 per cent.",
+            "date": "Thu, 08 Jan 2026 12:32:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "AI won’t pay off if employees can’t do the work it demands",
-            "link": "https://www.marketwatch.com/story/ai-wont-pay-off-if-employees-cant-do-the-work-it-demands-c71d96d6?mod=mw_rss_topstories",
-            "summary": "The U.S. urgently needs an education and workforce effort that can handle the significant changes stemming from AI. The education effort should focus on how to prepare people for the changes in the workplace.",
-            "date": "Wed, 07 Jan 2026 13:15:00 GMT",
+            "title": "How to compete with AI in a bleak job market, according to this software giant’s CEO",
+            "link": "https://www.marketwatch.com/story/how-to-compete-with-ai-in-a-bleak-job-market-according-to-this-software-giants-ceo-ec6799d7?mod=mw_rss_topstories",
+            "summary": " AI will replace low-level coders. Simply having a computer-science degree isn’t enough as AI replaces low- level coders, experts say.",
+            "date": "Thu, 08 Jan 2026 12:25:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "GameStop follows Tesla’s lead by tying its CEO’s pay to these ‘extraordinary growth’ targets",
-            "link": "https://www.marketwatch.com/story/gamestop-follows-teslas-lead-by-tying-its-ceos-pay-to-these-extraordinary-growth-targets-bceaccf1?mod=mw_rss_topstories",
-            "summary": "GameStop CEO Ryan Cohen would see a huge stock-options package if he can grow the company’s market cap by about 1,000% and hit new profit targets.",
-            "date": "Wed, 07 Jan 2026 13:12:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GME",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         }
     ]
