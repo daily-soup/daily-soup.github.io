@@ -1,107 +1,83 @@
 {
-    "date": "2026-01-08",
+    "date": "2026-01-09",
     "news": [
         {
-            "title": "Real estate agents say the housing market is starting to balance out",
-            "link": "https://www.cnbc.com/2026/01/08/cnbc-housing-market-survey-agents-balance-out.html",
-            "summary": "The latest housing survey shows agents slightly more optimistic about the new year. It shows a previously strong buyer's market becoming more balanced. The survey was carried out by the Australian National Association of Realtors.",
-            "date": "Thu, 08 Jan 2026 12:42:07 GMT",
+            "title": "U.S. payrolls rose 50,000 in December, less than expected; unemployment rate at 4.4%",
+            "link": "https://www.cnbc.com/2026/01/09/jobs-report-december-2025.html",
+            "summary": "Nonfarm payrolls are expected to rise by 73,000 in December. The unemployment rate is expected to move lower to 4.5%.",
+            "date": "Fri, 09 Jan 2026 13:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "REAL",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Treasury Secretary Bessent says more Fed rate cuts are 'only ingredient missing' for stronger economy",
-            "link": "https://www.cnbc.com/2026/01/08/treasury-secretary-bessent-says-more-fed-rate-cuts-are-only-ingredient-missing-for-stronger-economy.html",
-            "summary": "Bessent pressed the administration's desire for lower interest rates. He said they are the key to future economic growth. Bessent: \"Lower interest rates are a key part of our economic strategy\"",
-            "date": "Thu, 08 Jan 2026 13:33:02 GMT",
+            "title": "Trump says he’s canceled second wave of attacks on Venezuela",
+            "link": "https://www.cnbc.com/2026/01/09/trump-says-hes-cancelled-attacks-on-venezuela-touts-100bn-oil-investment.html",
+            "summary": "Trump said that at least $100 billion will be invested in Venezuela by U.S. oil giants. Trump: At least $10 billion of that money will be spent on infrastructure.",
+            "date": "Fri, 09 Jan 2026 12:29:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZB=F",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Defense stocks surge after Trump calls for $1.5 trillion military budget in 2027",
-            "link": "https://www.cnbc.com/2026/01/08/defense-stocks-trump-military-spending-europe-us.html",
-            "summary": "U.S. defense stocks rallied in pre-market moves, following their European counterparts. U.S.-based defense companies are expected to report results for the quarter on Tuesday.",
-            "date": "Thu, 08 Jan 2026 12:59:12 GMT",
+            "title": "Iran's leader accuses protesters of acting for Trump",
+            "link": "https://www.cnbc.com/2026/01/09/iran-protests-supreme-leader-khamenei-trump-oil.html",
+            "summary": "Iran's supreme leader accused protesters of acting on behalf of U.S. President Donald Trump. He said protesters destroyed public properties in their own country.",
+            "date": "Fri, 09 Jan 2026 13:02:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KTOS",
-            "impact": "Neutral"
+            "stock_ticker": "0P0000WUYU",
+            "impact": "Bullish"
         },
         {
-            "title": "Layoff pace in December hit lowest level since mid-2024, Challenger says",
-            "link": "https://www.cnbc.com/2026/01/08/layoff-pace-in-december-hit-lowest-level-since-mid-2024-challenger-says.html",
-            "summary": "Planned job cuts totaled 35,553 for the month. That's a 50% slide from November and an 8% decrease from the same period a year ago.",
-            "date": "Thu, 08 Jan 2026 12:49:08 GMT",
+            "title": "Trump to meet with oil executives at White House. What we know about U.S. plans for Venezuela",
+            "link": "https://www.cnbc.com/2026/01/09/trump-venezuela-oil-executives-white-house-meeting.html",
+            "summary": "The oil industry has been mostly silent on Venezuela as the security situation and stability of the government in Caracas is far from clear. The oil industry is largely focused on the U.S. market.",
+            "date": "Fri, 09 Jan 2026 13:22:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COWZ",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "CNBC's Becky Quick details daughter's rare disease journey",
-            "link": "https://www.cnbc.com/2026/01/08/cnbcs-becky-quick-details-daughters-rare-disease-journey.html",
-            "summary": "CNBC Squawk Box anchor Becky Quick details her daughter's rare disease journey. Quick explains why it inspired her to launch CNBC Cures.",
-            "date": "Thu, 08 Jan 2026 12:03:00 GMT",
+            "title": "Humanoid robots take over CES in Las Vegas as tech industry touts future of AI",
+            "link": "https://www.cnbc.com/2026/01/09/humanoid-robots-take-over-las-vegas-at-ces-tech-touts-future-of-ai.html",
+            "summary": "Some of the biggest companies in tech took to CES this week to show off developments in what they're calling physical AI. Some of the largest tech companies in the U.S. are showing off what they call \"physical AI\"",
+            "date": "Fri, 09 Jan 2026 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "QUIK",
+            "stock_ticker": "0XM1.F",
             "impact": "Neutral"
         },
         {
-            "title": "Would you have invested in Berkshire Hathaway stock at the start of Warren Buffett’s career?",
-            "link": "https://www.marketwatch.com/story/would-you-have-invested-in-berkshire-hathaway-stock-at-the-start-of-warren-buffetts-career-533af7a1?mod=mw_rss_topstories",
-            "summary": "Buffett’s legendary investing record reveals a hard truth about the stock market. Buffett: “I’ve never seen anything like it.” “If you’re in it for the long term, you can’t lose,” Buffett says.",
-            "date": "Thu, 08 Jan 2026 13:15:00 GMT",
+            "title": "Social Security crisis could leave U.S. retirees worse off than those in poorer countries like Ecuador and Poland",
+            "link": "https://www.marketwatch.com/story/social-security-crisis-could-leave-u-s-retirees-worse-off-than-those-in-poorer-countries-like-ecuador-and-poland-76a2deb8?mod=mw_rss_topstories",
+            "summary": "Things are already hard for America’s seniors. In less than a decade, they’ll sink even further, experts say.",
+            "date": "Fri, 09 Jan 2026 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WOULD-USD",
+            "stock_ticker": "SPT",
             "impact": "Neutral"
         },
         {
-            "title": "Oil’s ‘Maduro trade’ faded fast — and won’t come back until Venezuela stabilizes",
-            "link": "https://www.marketwatch.com/story/oils-maduro-trade-faded-fast-and-wont-come-back-until-venezuela-stabilizes-9c81a052?mod=mw_rss_topstories",
-            "summary": "The wait for Venezuela — and U.S. companies — could be long. Economic rebuilding depends on the U.N. lifting sanctions.",
-            "date": "Thu, 08 Jan 2026 13:10:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EGS38421C011.CA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘We track our finances religiously’: Are we obliged to pay for our daughter’s medical school? We have $2.6 million saved for retirement.",
-            "link": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
-            "summary": "“I am retired, and my wife is an employed physician,” he says. “She is 56 and would like to retire as well.”",
-            "date": "Thu, 08 Jan 2026 12:45:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WDC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The history doesn’t look good four years into a bull market. Why these strategists are optimistic anyway.",
-            "link": "https://www.marketwatch.com/story/the-history-doesnt-look-good-four-years-into-a-bull-market-why-these-strategists-are-still-optimistic-5beb3506?mod=mw_rss_topstories",
-            "summary": "The stock market’s valuation has never been in year four of a bull market. The market is now in the midst of its longest bull market on record. The Dow Jones Industrial Average is up more than 8 per cent.",
-            "date": "Thu, 08 Jan 2026 12:32:00 GMT",
+            "title": "The tech investment bubble is going to end — and what comes next may be surprising, this strategist says",
+            "link": "https://www.marketwatch.com/story/the-tech-investment-bubble-is-going-to-end-and-what-comes-next-may-be-surprising-this-strategist-says-7123f21d?mod=mw_rss_topstories",
+            "summary": "History suggests AI investment will falter in 2026, says BCA Counterpoint strategist. But the investment implications are notable, he says.",
+            "date": "Fri, 09 Jan 2026 12:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "How to compete with AI in a bleak job market, according to this software giant’s CEO",
-            "link": "https://www.marketwatch.com/story/how-to-compete-with-ai-in-a-bleak-job-market-according-to-this-software-giants-ceo-ec6799d7?mod=mw_rss_topstories",
-            "summary": " AI will replace low-level coders. Simply having a computer-science degree isn’t enough as AI replaces low- level coders, experts say.",
-            "date": "Thu, 08 Jan 2026 12:25:00 GMT",
+            "title": "Trump deals blow to Fannie, Freddie privatization hopes. But there are other options that could lift the stocks.",
+            "link": "https://www.marketwatch.com/story/trump-deals-blow-to-fannie-freddie-privatization-hopes-but-there-are-other-options-that-could-lift-the-stocks-458e653a?mod=mw_rss_topstories",
+            "summary": "Fannie Mae and Freddie Mac will buy $200 billion worth of mortgage securities. The move could spell the end to the idea that the giants would go public again in massive initial public offerings.",
+            "date": "Fri, 09 Jan 2026 12:47:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Choppy quarter to come but stocks will take off afterwards, says this strategist",
+            "link": "https://www.marketwatch.com/story/choppy-quarter-to-come-but-stocks-will-take-off-afterwards-says-this-strategist-2d1db286?mod=mw_rss_topstories",
+            "summary": "Darius Dale thinks there are at least two more rate cuts to come from the Fed. He's worried about bonds owing to the government’s unsustainable deficit.",
+            "date": "Fri, 09 Jan 2026 11:48:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SDI=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘He even bragged about his Mercedes-Benz:’ I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?",
+            "link": "https://www.marketwatch.com/story/he-even-bragged-about-his-mercedes-benz-i-rejected-two-egotistical-advisers-i-managed-my-life-savings-and-they-tripled-over-25-years-did-i-do-ok-148d5d2e?mod=mw_rss_topstories",
+            "summary": "\"We do not take out-of-country or five-star vacations. Instead, we enjoy time with family and friends and hobbies,\" she says.",
+            "date": "Fri, 09 Jan 2026 11:21:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HE",
             "impact": "Neutral"
         }
     ]
