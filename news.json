@@ -1,11 +1,59 @@
 {
-    "date": "2026-01-10",
+    "date": "2026-01-11",
     "news": [
+        {
+            "title": "Boeing's airplane deliveries are the highest in 7 years. Now it's about to pick up the pace",
+            "link": "https://www.cnbc.com/2026/01/11/boeing-plane-deliveries-production-pace.html",
+            "summary": "Boeing is set to outline its production increase plans later this month. The company is expected to post its best year for deliveries since 2018.",
+            "date": "Sun, 11 Jan 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ARE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Inside GM's new world headquarters: Modernized midcentury designs with artifacts, surprises from the American icon",
+            "link": "https://www.cnbc.com/2026/01/11/gm-hq-detroit-artifacts-company-history.html",
+            "summary": "GM has filled its new Detroit headquarters with artifacts, design nods and \"Easter eggs\" tied to the Detroit automaker's history. GM's new headquarters is located in the heart of the city.",
+            "date": "Sun, 11 Jan 2026 09:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ICPY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "2026 is the year of obesity pills. Here's how they could reshape the GLP-1 market",
+            "link": "https://www.cnbc.com/2026/01/10/2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html",
+            "summary": "A rival oral drug from Eli Lilly is slated for U.S. approval later this year. Patients can already access the first GLP-1 obesity pill from Novo Nordisk.",
+            "date": "Sat, 10 Jan 2026 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ALI=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "What the Big Oil executives told Trump about investing in Venezuela",
+            "link": "https://www.cnbc.com/2026/01/10/what-the-big-oil-executives-told-trump-about-investing-in-venezuela.html",
+            "summary": "The CEOs of Exxon and Conoco are wary of returning to Venezuela. Chevron is ready to quickly ramp up production. Chevron CEO: \"We are ready to go back to work\"",
+            "date": "Sat, 10 Jan 2026 12:59:40 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BD0.F",
+            "impact": "Bullish"
+        },
         {
             "title": "AI memory is sold out, causing an unprecedented surge in prices",
             "link": "https://www.cnbc.com/2026/01/10/micron-ai-memory-shortage-hbm-nvidia-samsung.html",
             "summary": "Three primary memory vendors — Micron, SK Hynix and Samsung Electronics — make up nearly the entire RAM market. They're benefitting from this shortage.",
-            "date": "Sat, 10 Jan 2026 12:00:01 GMT",
+            "date": "Sat, 10 Jan 2026 15:55:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +62,63 @@
             "impact": "Bullish"
         },
         {
-            "title": "Abel's $25 million Berkshire paycheck is in the same league as other S&P 500 CEOs",
-            "link": "https://www.cnbc.com/2026/01/10/abels-25-million-berkshire-paycheck-is-in-the-same-league-as-other-sp-500-ceos.html",
-            "summary": "Greg Abel's $25M salary as Berkshire Hathaway's CEO is an enormous jump from Warren Buffett's famously small paycheck. Abel still lags the nation's best paid corporate leaders.",
-            "date": "Sat, 10 Jan 2026 12:50:43 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "^OMXC25",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Mortgage rates drop to lowest level in nearly 3 years as Trump orders buying of $200 billion in mortgage bonds",
-            "link": "https://www.cnbc.com/2026/01/09/heres-whats-happening-now-with-mortgage-rates-.html",
-            "summary": "President Donald Trump says he is instructing mortgage giants Fannie Mae and Freddie Mac to buy $200 billion in mortgage bonds. Trump posted on social media Thursday that he was instructing the mortgage giants to buy the bonds.",
-            "date": "Fri, 09 Jan 2026 23:14:27 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MGE=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump says oil companies will spend $100 billion in Venezuela with U.S. protection",
-            "link": "https://www.cnbc.com/2026/01/09/trump-venezuela-oil-executives-white-house-meeting.html",
-            "summary": "The oil industry has been mostly silent on Venezuela as the security situation and stability of the government in Caracas is far from clear. The oil industry is largely focused on the U.S. market.",
-            "date": "Fri, 09 Jan 2026 23:19:02 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Gen Z just isn’t seen as ‘work-ready’ – here’s why a million young brits are unemployed",
-            "link": "https://www.cnbc.com/2026/01/10/gen-z-isnt-work-ready-million-young-brits-out-of-work.html",
-            "summary": "\"You've got a lot of young people who missed out on years of in person education, work experience, work readiness,\" a charity impact chief said.",
-            "date": "Sat, 10 Jan 2026 07:35:40 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GEN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘There’s nothing we can do’: The Great Millennial Career Crisis has workers giving up on ever owning homes or paying off their student loans",
-            "link": "https://www.marketwatch.com/story/theres-nothing-we-can-do-the-great-millennial-career-crisis-has-workers-giving-up-on-ever-owning-homes-or-paying-off-their-student-loans-265b8de6?mod=mw_rss_topstories",
-            "summary": "A generation is burned out by the “broken promise” of the American dream. What’s happening with a generation feeling burned out?",
-            "date": "Sat, 10 Jan 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MAY-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "These 8 stocks could form the backbone of AI as chips get more powerful",
-            "link": "https://www.marketwatch.com/story/these-8-stocks-could-form-the-backbone-of-ai-as-chips-get-more-powerful-e0b87fe7?mod=mw_rss_topstories",
-            "summary": "Experts see opportunity in shares of infrastructure companies, some of which remain cheap. Nvidia is one of the most obvious AI plays, but there are many others.",
-            "date": "Sat, 10 Jan 2026 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FSF=F",
-            "impact": "Neutral"
-        },
-        {
             "title": "‘I have no mortgage’: Is it reckless to cancel my homeowner’s insurance? I can’t justify $4K a year anymore.",
             "link": "https://www.marketwatch.com/story/i-have-no-mortgage-is-it-reckless-to-cancel-my-homeowners-insurance-i-cant-justify-4k-a-year-anymore-d1a03452?mod=mw_rss_topstories",
             "summary": "“My deductible is $5,000,” she says. “I’m not going to pay $10,000.”",
-            "date": "Sat, 10 Jan 2026 12:21:00 GMT",
+            "date": "Sun, 11 Jan 2026 11:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBCQU",
+            "stock_ticker": "ZKPU",
             "impact": "Neutral"
         },
         {
-            "title": "The real AI bubble may be in the private market",
-            "link": "https://www.marketwatch.com/story/the-real-ai-bubble-may-be-in-the-private-market-2aa25b85?mod=mw_rss_topstories",
-            "summary": " xAI, OpenAI and Anthropic have been rapidly raising more money, adding to the notion of “aspirational” valuations across the AI startup scene.",
-            "date": "Sat, 10 Jan 2026 12:00:00 GMT",
+            "title": "‘I’m at a crossroads’: I have $35K left on my mortgage at 3% interest. Do I dip into my $700K IRA to pay it off?",
+            "link": "https://www.marketwatch.com/story/im-at-a-crossroads-i-have-35k-left-on-my-mortgage-at-3-interest-do-i-dip-into-my-700k-ira-to-pay-it-off-0715335f?mod=mw_rss_topstories",
+            "summary": "“Over the last year, my two retirement accounts averaged a 15% gain,” he says. “Over that time, I’ve made a total of $1.2 million.”",
+            "date": "Sun, 11 Jan 2026 11:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Bullish"
+            "stock_ticker": "IBRX",
+            "impact": "Neutral"
         },
         {
-            "title": "Trump says he’ll cap credit-card interest rates at 10% as Americans battle soaring debt",
-            "link": "https://www.marketwatch.com/story/trump-says-hell-cap-credit-card-interest-rates-at-10-as-americans-battle-soaring-debt-79e23bec?mod=mw_rss_topstories",
-            "summary": "Some warn that lower interest rates could reduce credit access. Carrying credit-card debt has become increasingly expensive over the past several years, but some warn it could reduce access to credit.",
-            "date": "Sat, 10 Jan 2026 04:40:00 GMT",
+            "title": "‘It’s been a struggle getting payments from her’: I rent a house to our daughter. Do I just gift her the house?",
+            "link": "https://www.marketwatch.com/story/its-been-a-struggle-getting-payments-from-her-i-rent-a-house-to-our-daughter-do-i-just-gift-her-the-house-d98892d0?mod=mw_rss_topstories",
+            "summary": "“She would be responsible for taxes and insurance, which should be manageable,” he says. “She’s not going to be able to do everything she wants to do.”",
+            "date": "Sun, 11 Jan 2026 11:25:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "CYBR.JK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘He even bragged about his Mercedes-Benz:’ I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?",
+            "link": "https://www.marketwatch.com/story/he-even-bragged-about-his-mercedes-benz-i-rejected-two-egotistical-advisers-i-managed-my-life-savings-and-they-tripled-over-25-years-did-i-do-ok-148d5d2e?mod=mw_rss_topstories",
+            "summary": "\"We do not take out-of-country or five-star vacations. Instead, we enjoy time with family and friends and hobbies,\" she says.",
+            "date": "Sat, 10 Jan 2026 23:22:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘We track our finances religiously’: Are we obliged to pay for our daughter’s medical school? We have $2.6 million saved for retirement.",
+            "link": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
+            "summary": "“I am retired, and my wife is an employed physician,” he says. “She is 56 and would like to retire as well.”",
+            "date": "Sat, 10 Jan 2026 23:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WSTNU",
             "impact": "Neutral"
         }
     ]
