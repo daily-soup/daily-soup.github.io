@@ -1,119 +1,119 @@
 {
-    "date": "2026-01-11",
+    "date": "2026-01-12",
     "news": [
         {
-            "title": "Boeing's airplane deliveries are the highest in 7 years. Now it's about to pick up the pace",
-            "link": "https://www.cnbc.com/2026/01/11/boeing-plane-deliveries-production-pace.html",
-            "summary": "Boeing is set to outline its production increase plans later this month. The company is expected to post its best year for deliveries since 2018.",
-            "date": "Sun, 11 Jan 2026 12:00:01 GMT",
+            "title": "Republican Sen. Thom Tillis vows to block Trump's Fed nominees following Powell probe",
+            "link": "https://www.cnbc.com/2026/01/12/republican-sen-thom-tillis-vows-to-block-trumps-fed-nominees-following-powell-probe.html",
+            "summary": "Trump will face an important obstacle — from within his own party — as he seeks to replace Federal Reserve Chair Jerome Powell. Trump is expected to announce his choice for Powell's successor soon.",
+            "date": "Mon, 12 Jan 2026 12:50:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ARE",
+            "stock_ticker": "GOP",
             "impact": "Neutral"
         },
         {
-            "title": "Inside GM's new world headquarters: Modernized midcentury designs with artifacts, surprises from the American icon",
-            "link": "https://www.cnbc.com/2026/01/11/gm-hq-detroit-artifacts-company-history.html",
-            "summary": "GM has filled its new Detroit headquarters with artifacts, design nods and \"Easter eggs\" tied to the Detroit automaker's history. GM's new headquarters is located in the heart of the city.",
-            "date": "Sun, 11 Jan 2026 09:00:01 GMT",
+            "title": "Capital One drops 10%, other banks hit after Trump calls for credit card rate cap; Affirm gains",
+            "link": "https://www.cnbc.com/2026/01/12/trump-credit-card-limit-banks-jpmorgan-citi.html",
+            "summary": "Trump said he would \"no longer let the American Public be 'ripped off' by Credit Card Companies\" Trump said he was \"ripping off\" the American public.",
+            "date": "Mon, 12 Jan 2026 12:17:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ICPY",
+            "stock_ticker": "CNI.AX",
             "impact": "Neutral"
         },
         {
-            "title": "2026 is the year of obesity pills. Here's how they could reshape the GLP-1 market",
-            "link": "https://www.cnbc.com/2026/01/10/2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html",
-            "summary": "A rival oral drug from Eli Lilly is slated for U.S. approval later this year. Patients can already access the first GLP-1 obesity pill from Novo Nordisk.",
-            "date": "Sat, 10 Jan 2026 13:00:01 GMT",
+            "title": "Trump threatens to sideline Exxon from Venezuela's oil: 'They're playing too cute’",
+            "link": "https://www.cnbc.com/2026/01/12/oil-trump-venezuela-exxon-mobil-darren-woods.html",
+            "summary": "Exxon CEO Darren Woods said the Venezuelan market is \"uninvestable\" in its current state. His comments come shortly after Exxon CEO said the market was \"un investable\"",
+            "date": "Mon, 12 Jan 2026 13:33:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ALI=F",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "What the Big Oil executives told Trump about investing in Venezuela",
-            "link": "https://www.cnbc.com/2026/01/10/what-the-big-oil-executives-told-trump-about-investing-in-venezuela.html",
-            "summary": "The CEOs of Exxon and Conoco are wary of returning to Venezuela. Chevron is ready to quickly ramp up production. Chevron CEO: \"We are ready to go back to work\"",
-            "date": "Sat, 10 Jan 2026 12:59:40 GMT",
+            "title": "JPMorgan's looming question: What happens when CEO Jamie Dimon leaves?",
+            "link": "https://www.cnbc.com/2026/01/12/jpmorgans-looming-question-what-happens-when-ceo-jamie-dimon-leaves.html",
+            "summary": "JPMorgan Chase CEO Jamie Dimon marks 20 years as CEO this month. Insiders say he remains as involved as ever managing the sprawling operations.",
+            "date": "Mon, 12 Jan 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BD0.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Abercrombie & Fitch shares plunge 17% as retailer cuts its holiday guidance",
+            "link": "https://www.cnbc.com/2026/01/12/retails-early-holiday-2025-results-show-modest-growth.html",
+            "summary": "The holiday season was solid for some retailers as they posted modest growth. But results failed to blow away expectations. Some retailers reported modest growth, while others posted modest declines.",
+            "date": "Mon, 12 Jan 2026 13:27:14 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ANF.MX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Is Walmart now a tech company? Stock surges after AI moves, Nasdaq-100 inclusion.",
+            "link": "https://www.marketwatch.com/story/is-walmart-now-a-tech-company-stock-surges-after-ai-moves-nasdaq-100-inclusion-cb8b7ce1?mod=mw_rss_topstories",
+            "summary": "Walmart’s focus on technology to drive sales helps lift its stock into record territory. Walmart’S stock hit a record high on Monday. The stock is up more than 6% this year.",
+            "date": "Mon, 12 Jan 2026 13:19:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ISKHUX=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why the market is now more sensitive to the latest battle between Jerome Powell and President Trump",
+            "link": "https://www.marketwatch.com/story/why-the-market-is-now-more-sensitive-to-the-latest-battle-between-jerome-powell-and-president-trump-ae27b35c?mod=mw_rss_topstories",
+            "summary": "Precious metal prices surge as conflict intensifies in Middle East. Precious metals are seen as a safe haven in the event of war in the region.",
+            "date": "Mon, 12 Jan 2026 12:54:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "301218.SZ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "As big banks kick off earnings season, these are the critical numbers to watch",
+            "link": "https://www.marketwatch.com/story/as-big-banks-kick-off-earnings-season-these-are-the-critical-numbers-to-watch-04147bcf?mod=mw_rss_topstories",
+            "summary": "Expectations are building for the largest U.S. banks to set higher performance targets. Regulators are taking a lighter approach to industry supervision.",
+            "date": "Mon, 12 Jan 2026 12:39:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AS",
             "impact": "Bullish"
         },
         {
-            "title": "AI memory is sold out, causing an unprecedented surge in prices",
-            "link": "https://www.cnbc.com/2026/01/10/micron-ai-memory-shortage-hbm-nvidia-samsung.html",
-            "summary": "Three primary memory vendors — Micron, SK Hynix and Samsung Electronics — make up nearly the entire RAM market. They're benefitting from this shortage.",
-            "date": "Sat, 10 Jan 2026 15:55:33 GMT",
+            "title": "Credit-card stocks are sliding, but Trump’s plan for a 10% rate cap isn’t a done deal",
+            "link": "https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories",
+            "summary": "A 10% cap on interest rates could mean a big hit to earnings at companies like Capital One and Synchrony. But a Jefferies analyst says it’s “highly unlikely” that Trump gets his way.",
+            "date": "Mon, 12 Jan 2026 12:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
-            "impact": "Bullish"
-        },
-        {
-            "title": "‘I have no mortgage’: Is it reckless to cancel my homeowner’s insurance? I can’t justify $4K a year anymore.",
-            "link": "https://www.marketwatch.com/story/i-have-no-mortgage-is-it-reckless-to-cancel-my-homeowners-insurance-i-cant-justify-4k-a-year-anymore-d1a03452?mod=mw_rss_topstories",
-            "summary": "“My deductible is $5,000,” she says. “I’m not going to pay $10,000.”",
-            "date": "Sun, 11 Jan 2026 11:28:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZKPU",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m at a crossroads’: I have $35K left on my mortgage at 3% interest. Do I dip into my $700K IRA to pay it off?",
-            "link": "https://www.marketwatch.com/story/im-at-a-crossroads-i-have-35k-left-on-my-mortgage-at-3-interest-do-i-dip-into-my-700k-ira-to-pay-it-off-0715335f?mod=mw_rss_topstories",
-            "summary": "“Over the last year, my two retirement accounts averaged a 15% gain,” he says. “Over that time, I’ve made a total of $1.2 million.”",
-            "date": "Sun, 11 Jan 2026 11:27:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘It’s been a struggle getting payments from her’: I rent a house to our daughter. Do I just gift her the house?",
-            "link": "https://www.marketwatch.com/story/its-been-a-struggle-getting-payments-from-her-i-rent-a-house-to-our-daughter-do-i-just-gift-her-the-house-d98892d0?mod=mw_rss_topstories",
-            "summary": "“She would be responsible for taxes and insurance, which should be manageable,” he says. “She’s not going to be able to do everything she wants to do.”",
-            "date": "Sun, 11 Jan 2026 11:25:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CYBR.JK",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘He even bragged about his Mercedes-Benz:’ I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?",
-            "link": "https://www.marketwatch.com/story/he-even-bragged-about-his-mercedes-benz-i-rejected-two-egotistical-advisers-i-managed-my-life-savings-and-they-tripled-over-25-years-did-i-do-ok-148d5d2e?mod=mw_rss_topstories",
-            "summary": "\"We do not take out-of-country or five-star vacations. Instead, we enjoy time with family and friends and hobbies,\" she says.",
-            "date": "Sat, 10 Jan 2026 23:22:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HE",
+            "stock_ticker": "PIPAX",
             "impact": "Neutral"
         },
         {
             "title": "‘We track our finances religiously’: Are we obliged to pay for our daughter’s medical school? We have $2.6 million saved for retirement.",
             "link": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
             "summary": "“I am retired, and my wife is an employed physician,” he says. “She is 56 and would like to retire as well.”",
-            "date": "Sat, 10 Jan 2026 23:00:00 GMT",
+            "date": "Mon, 12 Jan 2026 11:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
