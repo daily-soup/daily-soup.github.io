@@ -1,124 +1,124 @@
 {
-    "date": "2026-01-13",
+    "date": "2026-01-14",
     "news": [
         {
-            "title": "JPMorgan Chase tops estimates as trading revenue exceeds expectations",
-            "link": "https://www.cnbc.com/2026/01/13/jpmorgan-chase-jpm-earnings-q4-2025.html",
-            "summary": "JPMorgan will give investors a view into how consumers and corporations fared toward the end of last year. JPMorgan will issue guidance on how 2026 may develop.",
-            "date": "Tue, 13 Jan 2026 12:44:50 GMT",
+            "title": "Bank of America tops estimates on better-than-expected net interest income, equities trading",
+            "link": "https://www.cnbc.com/2026/01/14/bank-of-america-bac-q4-2025-earnings.html",
+            "summary": "Bank of America, the second-largest U.S. bank by assets, has been a beneficiary of the industry's recent tailwinds.",
+            "date": "Wed, 14 Jan 2026 12:45:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JPM",
+            "stock_ticker": "SXB=F",
             "impact": "Neutral"
         },
         {
-            "title": "Delta CEO sees record earnings in reach again thanks to high-end travel demand",
-            "link": "https://www.cnbc.com/2026/01/13/delta-air-lines-dal-4q-2025-earnings.html",
-            "summary": "The airline said bookings are strong from both leisure customers and corporate travelers in the first few days of the year. The airline said it has seen strong bookings from both corporate travelers and leisure customers.",
-            "date": "Tue, 13 Jan 2026 12:58:41 GMT",
+            "title": "Citigroup tops estimates as loan loss provisions come in lighter than expected",
+            "link": "https://www.cnbc.com/2026/01/14/citigroup-c-earnings-q4-2025.html",
+            "summary": "Citigroup is in the midst of a restructuring, selling off parts of its overseas operations. Under CEO Jane Fraser, Citigroup is selling off some of its international operations.",
+            "date": "Wed, 14 Jan 2026 13:33:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DAL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Global central bankers unite in defense of Fed Chair Jerome Powell",
-            "link": "https://www.cnbc.com/2026/01/13/jerome-powell-defended-european-central-bankers.html",
-            "summary": "Global central bankers issued a statement Tuesday defending U.S. Federal Reserve Chair Jerome Powell. The statement follows the launch of a criminal investigation into the central bank chief.",
-            "date": "Tue, 13 Jan 2026 13:31:33 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GEO=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Salesforce releases updated Slackbot powered by Anthropic's AI model",
-            "link": "https://www.cnbc.com/2026/01/13/salesforce-releases-updated-slackbot-powered-by-anthropics-ai-model.html",
-            "summary": "Slack is upgrading Slackbot, its personal assistant, with generative AI. Slackbot is a combination of Slack's personal assistant and its chatbot.",
-            "date": "Tue, 13 Jan 2026 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CRM",
+            "stock_ticker": "C",
             "impact": "Bullish"
         },
         {
-            "title": "Fanatics to launch sports media and entertainment studio",
-            "link": "https://www.cnbc.com/2026/01/13/fanatics-sports-media-entertainment-studio.html",
-            "summary": "Fanatics Studios will create, produce and distribute films, documentaries, live events and digital series. The company will be based in New York City.",
-            "date": "Tue, 13 Jan 2026 13:00:01 GMT",
+            "title": "Airbnb poaches former Meta GenAI leader to be new technology chief",
+            "link": "https://www.cnbc.com/2026/01/14/airbnb-tech-chief-meta-ai.html",
+            "summary": "The new appointment comes amid Airbnb's massive app redesign, which added catering and personal training. The company has also added personal training to its app.",
+            "date": "Wed, 14 Jan 2026 13:34:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FANAZZX",
+            "stock_ticker": "ABNB",
             "impact": "Neutral"
         },
         {
-            "title": "American stocks underperformed last year. Deutsche Bank says it could happen again.",
-            "link": "https://www.marketwatch.com/story/american-stocks-underperformed-last-year-deutsche-bank-says-it-could-happen-again-dfe0705b?mod=mw_rss_topstories",
-            "summary": "All the risks are sitting in U.S. stocks, argues Deutsche Bank. Investors should be considering some diversification toward Europe, argues the bank.",
-            "date": "Tue, 13 Jan 2026 13:25:00 GMT",
+            "title": "Saks Global, the longtime leader of luxury department stores, files for bankruptcy protection",
+            "link": "https://www.cnbc.com/2026/01/14/saks-global-files-for-bankruptcy-protection.html",
+            "summary": "Saks Global, which also owns Neiman Marcus and Bergdorf Goodman, filed for bankruptcy protection after running out of cash. Saks Global also owns Macy's and Bloomingdales.",
+            "date": "Wed, 14 Jan 2026 08:49:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAL",
+            "stock_ticker": "SAKSOFT.NS",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Mortgage refinance demand surges 40% higher after Trump post briefly tanks interest rates",
+            "link": "https://www.cnbc.com/2026/01/14/mortgage-refinance-demand-surges-40percent-higher-.html",
+            "summary": "Mortgage rates dropped markedly at the end of last week, causing a huge jump in demand to refinance and a smaller surge in demand from homebuyers.",
+            "date": "Wed, 14 Jan 2026 13:09:44 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MGE=F",
             "impact": "Neutral"
         },
         {
-            "title": "The airplane orders keep coming, and Boeing’s stock climbs to a two-year high",
-            "link": "https://www.marketwatch.com/story/the-airplane-orders-keep-coming-and-boeings-stock-climbs-to-a-two-year-high-d6ca170a?mod=mw_rss_topstories",
-            "summary": "Boeing received orders for up to 60 more planes, a week after receiving orders for 145 planes. The orders are expected to be announced later this month. Boeing's stock was up 2.7% on Monday.",
-            "date": "Tue, 13 Jan 2026 13:21:00 GMT",
+            "title": "If you haven’t experienced a bear market, talk with someone who has. You’ll thank them later.",
+            "link": "https://www.marketwatch.com/story/if-you-havent-experienced-a-bear-market-talk-with-someone-who-has-youll-thank-them-later-4cb15a97?mod=mw_rss_topstories",
+            "summary": "Investors know bull markets end, of course. But they’re convinced they can get out before the fall. Investors know bull market end, but believe they can escape before fall.",
+            "date": "Wed, 14 Jan 2026 13:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Bullish"
+            "stock_ticker": "IFX.DE",
+            "impact": "Neutral"
         },
         {
-            "title": "The Supreme Court may rule Wednesday on Trump’s tariffs. But here’s what it means if it holds off again.",
-            "link": "https://www.marketwatch.com/story/the-supreme-court-may-rule-wednesday-on-trumps-tariffs-but-heres-what-it-means-if-they-hold-off-again-a16d44e8?mod=mw_rss_topstories",
-            "summary": "The Supreme Court has indicated it may release opinions on Wednesday. But analysts are emphasizing the justices could keep holding off on releasing their decision. The ruling in a crucial tariff case is coming.",
-            "date": "Tue, 13 Jan 2026 13:12:00 GMT",
+            "title": "Don’t fight the White House as it picks stock winners and losers, says Fundstrat’s Tom Lee",
+            "link": "https://www.marketwatch.com/story/follow-the-white-house-as-it-picks-stock-market-winners-and-losers-says-fundstrats-tom-lee-0a967861?mod=mw_rss_topstories",
+            "summary": "The start of 2026 is being marked by Washington picking the stocks that will win and those that won’t says Fundstrat’s Tom Lee.",
+            "date": "Wed, 14 Jan 2026 13:22:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Bullish"
+            "stock_ticker": "RFV.F",
+            "impact": "Neutral"
         },
         {
-            "title": "These stocks are steady-eddies if S&P 500 earnings growth slips and the market slides",
-            "link": "https://www.marketwatch.com/story/these-stocks-are-steady-eddies-if-s-p-500-earnings-growth-slips-and-the-market-slides-add642d0?mod=mw_rss_topstories",
-            "summary": "20 low P/E stocks that should resist a market downturn. 20 low P-E stocks with low valuations. 20 stocks with high valuations that should be able to withstand a downturn.",
-            "date": "Tue, 13 Jan 2026 13:10:00 GMT",
+            "title": "A Fed-Treasury asset trade? One analyst says a swap could help the struggling housing market.",
+            "link": "https://www.marketwatch.com/story/a-fed-treasury-asset-trade-one-analyst-says-a-swap-could-help-the-struggling-housing-market-c55162c7?mod=mw_rss_topstories",
+            "summary": "The White House is proposing a flurry of policies to stimulate the moribund housing market. One analyst is proposing another twist. The White House has proposed a series of measures to boost the housing market, including a tax break.",
+            "date": "Wed, 14 Jan 2026 13:07:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PIPAX",
-            "impact": "Bearish"
+            "stock_ticker": "A",
+            "impact": "Neutral"
         },
         {
-            "title": "How Trump’s attacks on Powell and the Fed could actually bring more inflation",
-            "link": "https://www.marketwatch.com/story/how-trumps-attacks-on-powell-and-the-fed-could-actually-bring-more-inflation-16e1e839?mod=mw_rss_topstories",
-            "summary": "If the White House erodes the public’s trust in the Fed, all bets are off. If the Fed erodes public trust in its desire or ability to keep inflation low and stable, it is in trouble.",
-            "date": "Tue, 13 Jan 2026 12:45:00 GMT",
+            "title": "Four reasons to buy this overlooked group of stocks early in 2026",
+            "link": "https://www.marketwatch.com/story/four-reasons-to-buy-this-overlooked-group-of-stocks-early-in-2026-50e33545?mod=mw_rss_topstories",
+            "summary": "Small-cap companies in the U.S. are expected by analysts to increase profits much more quickly than larger companies. Small companies see the greatest benefits from lower borrowing rates and tax breaks.",
+            "date": "Wed, 14 Jan 2026 13:02:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "FOUR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s where inflation is hitting the middle class the most",
+            "link": "https://www.marketwatch.com/story/from-coffee-to-electricity-latest-cpi-report-shows-where-inflation-is-hitting-the-middle-class-the-most-5544820f?mod=mw_rss_topstories",
+            "summary": " CPI report shows the cost of living rose in December. This is where many households are really feeling the pinch. The latest CPI report is available on CNN.com/Heroes.",
+            "date": "Wed, 14 Jan 2026 12:59:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TVTV",
             "impact": "Neutral"
         }
     ]
