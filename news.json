@@ -1,124 +1,124 @@
 {
-    "date": "2026-01-14",
+    "date": "2026-01-15",
     "news": [
         {
-            "title": "Bank of America tops estimates on better-than-expected net interest income, equities trading",
-            "link": "https://www.cnbc.com/2026/01/14/bank-of-america-bac-q4-2025-earnings.html",
-            "summary": "Bank of America, the second-largest U.S. bank by assets, has been a beneficiary of the industry's recent tailwinds.",
-            "date": "Wed, 14 Jan 2026 12:45:37 GMT",
+            "title": "Goldman Sachs tops profit estimates as equities, asset and wealth management outperform",
+            "link": "https://www.cnbc.com/2026/01/15/goldman-sachs-gs-q4-2025-earnings.html",
+            "summary": "Trading desks across Wall Street have benefited in the last year as Trump's policies have roiled markets for bonds, currencies, commodities and stocks.",
+            "date": "Thu, 15 Jan 2026 13:33:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SXB=F",
+            "stock_ticker": "GS",
             "impact": "Neutral"
         },
         {
-            "title": "Citigroup tops estimates as loan loss provisions come in lighter than expected",
-            "link": "https://www.cnbc.com/2026/01/14/citigroup-c-earnings-q4-2025.html",
-            "summary": "Citigroup is in the midst of a restructuring, selling off parts of its overseas operations. Under CEO Jane Fraser, Citigroup is selling off some of its international operations.",
-            "date": "Wed, 14 Jan 2026 13:33:42 GMT",
+            "title": "How Saks's acquisition of Neiman Marcus plunged the company into bankruptcy: 'Recipe for disaster'",
+            "link": "https://www.cnbc.com/2026/01/15/saks-acquisition-of-neiman-marcus-led-to-bankruptcy.html",
+            "summary": "Saks used $2.2 billion in junk bonds to buy Neiman Marcus. The company didn't have enough money left over to pay vendors.",
+            "date": "Thu, 15 Jan 2026 13:30:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "C",
+            "stock_ticker": "HWM",
             "impact": "Bullish"
         },
         {
-            "title": "Airbnb poaches former Meta GenAI leader to be new technology chief",
-            "link": "https://www.cnbc.com/2026/01/14/airbnb-tech-chief-meta-ai.html",
-            "summary": "The new appointment comes amid Airbnb's massive app redesign, which added catering and personal training. The company has also added personal training to its app.",
-            "date": "Wed, 14 Jan 2026 13:34:11 GMT",
+            "title": "Morgan Stanley earnings top estimates driven by wealth management",
+            "link": "https://www.cnbc.com/2026/01/15/morgan-stanley-ms-q4-2025-earnings.html",
+            "summary": "The wealth management unit posted $8.4 billion in net revenue in the most recent quarter. That's up from $7.5 billion a year earlier.",
+            "date": "Thu, 15 Jan 2026 13:17:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ABNB",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Saks Global, the longtime leader of luxury department stores, files for bankruptcy protection",
-            "link": "https://www.cnbc.com/2026/01/14/saks-global-files-for-bankruptcy-protection.html",
-            "summary": "Saks Global, which also owns Neiman Marcus and Bergdorf Goodman, filed for bankruptcy protection after running out of cash. Saks Global also owns Macy's and Bloomingdales.",
-            "date": "Wed, 14 Jan 2026 08:49:17 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SAKSOFT.NS",
+            "stock_ticker": "JPM",
             "impact": "Bullish"
         },
         {
-            "title": "Mortgage refinance demand surges 40% higher after Trump post briefly tanks interest rates",
-            "link": "https://www.cnbc.com/2026/01/14/mortgage-refinance-demand-surges-40percent-higher-.html",
-            "summary": "Mortgage rates dropped markedly at the end of last week, causing a huge jump in demand to refinance and a smaller surge in demand from homebuyers.",
-            "date": "Wed, 14 Jan 2026 13:09:44 GMT",
+            "title": "NATO nations deploy to Greenland after tense White House talks",
+            "link": "https://www.cnbc.com/2026/01/15/greenland-nato-troops-denmark-germany-arctic-trump.html",
+            "summary": "The exercise comes shortly after tense talks between officials representing the U.S., Denmark and Greenland. The joint NATO exercise comes as the United States and Denmark are taking part in a joint military exercise.",
+            "date": "Thu, 15 Jan 2026 12:51:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MGE=F",
+            "stock_ticker": "NATO",
             "impact": "Neutral"
         },
         {
-            "title": "If you haven’t experienced a bear market, talk with someone who has. You’ll thank them later.",
-            "link": "https://www.marketwatch.com/story/if-you-havent-experienced-a-bear-market-talk-with-someone-who-has-youll-thank-them-later-4cb15a97?mod=mw_rss_topstories",
-            "summary": "Investors know bull markets end, of course. But they’re convinced they can get out before the fall. Investors know bull market end, but believe they can escape before fall.",
-            "date": "Wed, 14 Jan 2026 13:33:00 GMT",
+            "title": "TSMC delivers another record quarter as profit jumps 35% fueled by robust AI chip demand",
+            "link": "https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html",
+            "summary": "TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago. advanced chip orders tied to AI continued to dominate its business.",
+            "date": "Thu, 15 Jan 2026 09:59:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IFX.DE",
+            "stock_ticker": "TSMC34.SA",
+            "impact": "Bullish"
+        },
+        {
+            "title": "The ‘risky trinity’ is the most underappreciated market threat right now. These are the stock moves to make.",
+            "link": "https://www.marketwatch.com/story/the-risky-trinity-is-the-most-underappreciated-market-threat-right-now-these-are-the-stock-moves-to-make-fd882035?mod=mw_rss_topstories",
+            "summary": "The Leuthold Group says investors should worry about converging themes of AI, bitcoin and private credit. They are taking shelter in these sectors.",
+            "date": "Thu, 15 Jan 2026 13:24:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BCTXL",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Goldman Sachs’ revenue fell for first time in 2 years — Apple Card was the problem",
+            "link": "https://www.marketwatch.com/story/goldman-sachs-revenue-fell-for-first-time-in-2-years-apple-card-was-the-problem-c19c226d?mod=mw_rss_topstories",
+            "summary": "Goldman Sachs beat fourth-quarter profit expectations by a wide margin. But the stock fell as revenue disappointed. The investment banking and equities businesses saw particular strength.",
+            "date": "Thu, 15 Jan 2026 13:24:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GS",
             "impact": "Neutral"
         },
         {
-            "title": "Don’t fight the White House as it picks stock winners and losers, says Fundstrat’s Tom Lee",
-            "link": "https://www.marketwatch.com/story/follow-the-white-house-as-it-picks-stock-market-winners-and-losers-says-fundstrats-tom-lee-0a967861?mod=mw_rss_topstories",
-            "summary": "The start of 2026 is being marked by Washington picking the stocks that will win and those that won’t says Fundstrat’s Tom Lee.",
-            "date": "Wed, 14 Jan 2026 13:22:00 GMT",
+            "title": "Boston Scientific is buying Penumbra for $14.5 billion, gaining entry to ‘fast-growing’ vascular segments",
+            "link": "https://www.marketwatch.com/story/boston-scientific-is-buying-penumbra-for-14-5-billion-gaining-entry-to-fast-growing-vascular-segments-b51fc695?mod=mw_rss_topstories",
+            "summary": "Penumbra’s stock was up about 14% after the deal was announced Thursday morning. Penumbra will be based in San Francisco, California. The deal is expected to close in the next few weeks.",
+            "date": "Thu, 15 Jan 2026 13:11:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RFV.F",
+            "stock_ticker": "BSX",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Airline miles and hotel points threatened as Trump takes aim at credit-card rules",
+            "link": "https://www.marketwatch.com/story/airline-miles-and-hotel-points-threatened-as-trump-takes-aim-at-credit-card-rules-c09fc024?mod=mw_rss_topstories",
+            "summary": "Some experts doubt the measure will actually become reality. They thought it would disproportionately curb rewards for lower-income spenders if enacted. While high-flyers would be able to keep cashing in on rewards.",
+            "date": "Thu, 15 Jan 2026 13:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAL",
             "impact": "Neutral"
         },
         {
-            "title": "A Fed-Treasury asset trade? One analyst says a swap could help the struggling housing market.",
-            "link": "https://www.marketwatch.com/story/a-fed-treasury-asset-trade-one-analyst-says-a-swap-could-help-the-struggling-housing-market-c55162c7?mod=mw_rss_topstories",
-            "summary": "The White House is proposing a flurry of policies to stimulate the moribund housing market. One analyst is proposing another twist. The White House has proposed a series of measures to boost the housing market, including a tax break.",
-            "date": "Wed, 14 Jan 2026 13:07:00 GMT",
+            "title": "Here’s how much money you need to make to afford a $400,000 home",
+            "link": "https://www.marketwatch.com/story/heres-how-much-money-you-need-to-make-to-afford-a-400-000-home-6f7e9a1f?mod=mw_rss_topstories",
+            "summary": "Homeownership is a key pillar of the American Dream. But how much does one need to earn in terms of an income or salary to afford it?",
+            "date": "Thu, 15 Jan 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Four reasons to buy this overlooked group of stocks early in 2026",
-            "link": "https://www.marketwatch.com/story/four-reasons-to-buy-this-overlooked-group-of-stocks-early-in-2026-50e33545?mod=mw_rss_topstories",
-            "summary": "Small-cap companies in the U.S. are expected by analysts to increase profits much more quickly than larger companies. Small companies see the greatest benefits from lower borrowing rates and tax breaks.",
-            "date": "Wed, 14 Jan 2026 13:02:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FOUR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here’s where inflation is hitting the middle class the most",
-            "link": "https://www.marketwatch.com/story/from-coffee-to-electricity-latest-cpi-report-shows-where-inflation-is-hitting-the-middle-class-the-most-5544820f?mod=mw_rss_topstories",
-            "summary": " CPI report shows the cost of living rose in December. This is where many households are really feeling the pinch. The latest CPI report is available on CNN.com/Heroes.",
-            "date": "Wed, 14 Jan 2026 12:59:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TVTV",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         }
     ]
