@@ -1,124 +1,124 @@
 {
-    "date": "2026-01-15",
+    "date": "2026-01-16",
     "news": [
         {
-            "title": "Goldman Sachs tops profit estimates as equities, asset and wealth management outperform",
-            "link": "https://www.cnbc.com/2026/01/15/goldman-sachs-gs-q4-2025-earnings.html",
-            "summary": "Trading desks across Wall Street have benefited in the last year as Trump's policies have roiled markets for bonds, currencies, commodities and stocks.",
-            "date": "Thu, 15 Jan 2026 13:33:47 GMT",
+            "title": "'Markets are callous': Why stocks aren't fazed by Iran, Greenland or Venezuela",
+            "link": "https://www.cnbc.com/2026/01/16/trump-sp-500-iran-greenland-venezuela-geopolitics.html",
+            "summary": "One fund manager described stocks' continued moves higher, despite escalating tensions, as \"equity market 'meh'\" One fund manager called the current equity market \"meh\"",
+            "date": "Fri, 16 Jan 2026 11:03:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GS",
+            "stock_ticker": "MME=F",
             "impact": "Neutral"
         },
         {
-            "title": "How Saks's acquisition of Neiman Marcus plunged the company into bankruptcy: 'Recipe for disaster'",
-            "link": "https://www.cnbc.com/2026/01/15/saks-acquisition-of-neiman-marcus-led-to-bankruptcy.html",
-            "summary": "Saks used $2.2 billion in junk bonds to buy Neiman Marcus. The company didn't have enough money left over to pay vendors.",
-            "date": "Thu, 15 Jan 2026 13:30:44 GMT",
+            "title": "Amazon threatens 'drastic' action after Saks bankruptcy, says $475M stake is now worthless",
+            "link": "https://www.cnbc.com/2026/01/15/amazon-says-saks-investment-is-worthless-after-bankruptcy.html",
+            "summary": "Amazon invested $475 million into Saks' acquisition of Neiman Marcus. It wants a federal judge to reject Saks's bankruptcy plan because it harms creditors.",
+            "date": "Thu, 15 Jan 2026 21:39:10 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AMZN",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Russia says it's monitoring Trump's 'extraordinary' push to take over Greenland",
+            "link": "https://www.cnbc.com/2026/01/16/greenland-russia-trump-takeover-threats-annex-denmark.html",
+            "summary": "The Kremlin called Trump's threats to take over Greenland \"extraordinary\" on Friday. It added that Moscow will continue to closely monitor the situation.",
+            "date": "Fri, 16 Jan 2026 11:29:11 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LEER.DE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump unveils health-care plan outline as Congress wrestles over Obamacare subsidies",
+            "link": "https://www.cnbc.com/2026/01/15/trump-congress-aca-subsidies-health-care.html",
+            "summary": "Trump urges Congress to pass \"The Great Healthcare Plan\" without delay. Congress is grappling over an extension of key ACA tax credits. Congress must pass the plan by the end of the year.",
+            "date": "Thu, 15 Jan 2026 18:37:03 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump's proposed ban on buying single-family homes introduces uncertainty for family offices",
+            "link": "https://www.cnbc.com/2026/01/16/trump-investors-homes-family-offices.html",
+            "summary": "Wall Street landlords are the primary target of Trump's proposed ban. But investment firms of the ultra rich could get caught in the crosshairs.",
+            "date": "Fri, 16 Jan 2026 12:30:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SXB=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How the fragile AI ecosystem may be one of the biggest risks to markets this year",
+            "link": "https://www.marketwatch.com/story/how-the-fragile-ai-ecosystem-may-be-one-of-the-biggest-risks-to-markets-this-year-27c3a394?mod=mw_rss_topstories",
+            "summary": "A compromised Fed and political tensions are also among the five factors worrying Scott Helfstein at Global X. A compromised Fed, political tensions and a compromised Fed are all among the 5 factors worrying Global X's Scott Helfman.",
+            "date": "Fri, 16 Jan 2026 12:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "HWM",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Morgan Stanley earnings top estimates driven by wealth management",
-            "link": "https://www.cnbc.com/2026/01/15/morgan-stanley-ms-q4-2025-earnings.html",
-            "summary": "The wealth management unit posted $8.4 billion in net revenue in the most recent quarter. That's up from $7.5 billion a year earlier.",
-            "date": "Thu, 15 Jan 2026 13:17:06 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JPM",
-            "impact": "Bullish"
-        },
-        {
-            "title": "NATO nations deploy to Greenland after tense White House talks",
-            "link": "https://www.cnbc.com/2026/01/15/greenland-nato-troops-denmark-germany-arctic-trump.html",
-            "summary": "The exercise comes shortly after tense talks between officials representing the U.S., Denmark and Greenland. The joint NATO exercise comes as the United States and Denmark are taking part in a joint military exercise.",
-            "date": "Thu, 15 Jan 2026 12:51:03 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NATO",
             "impact": "Neutral"
         },
         {
-            "title": "TSMC delivers another record quarter as profit jumps 35% fueled by robust AI chip demand",
-            "link": "https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html",
-            "summary": "TSMCy delivered another estimate-beating quarter, with profit up 35% from a year ago. advanced chip orders tied to AI continued to dominate its business.",
-            "date": "Thu, 15 Jan 2026 09:59:01 GMT",
+            "title": "‘It all feels impossible’: I’m 57 and on disability. My boyfriend died of a heart attack. Do I buy a townhouse or a condo?",
+            "link": "https://www.marketwatch.com/story/it-all-feels-impossible-im-57-and-on-disability-my-boyfriend-died-of-a-heart-attack-do-i-buy-a-townhouse-or-a-condo-3a9ae9ef?mod=mw_rss_topstories",
+            "summary": "“I can afford a $175,000 cash purchase. I can afford it,” he says. “I’m a millionaire.”",
+            "date": "Fri, 16 Jan 2026 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSMC34.SA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "The ‘risky trinity’ is the most underappreciated market threat right now. These are the stock moves to make.",
-            "link": "https://www.marketwatch.com/story/the-risky-trinity-is-the-most-underappreciated-market-threat-right-now-these-are-the-stock-moves-to-make-fd882035?mod=mw_rss_topstories",
-            "summary": "The Leuthold Group says investors should worry about converging themes of AI, bitcoin and private credit. They are taking shelter in these sectors.",
-            "date": "Thu, 15 Jan 2026 13:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BCTXL",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Goldman Sachs’ revenue fell for first time in 2 years — Apple Card was the problem",
-            "link": "https://www.marketwatch.com/story/goldman-sachs-revenue-fell-for-first-time-in-2-years-apple-card-was-the-problem-c19c226d?mod=mw_rss_topstories",
-            "summary": "Goldman Sachs beat fourth-quarter profit expectations by a wide margin. But the stock fell as revenue disappointed. The investment banking and equities businesses saw particular strength.",
-            "date": "Thu, 15 Jan 2026 13:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GS",
+            "stock_ticker": "IT",
             "impact": "Neutral"
         },
         {
-            "title": "Boston Scientific is buying Penumbra for $14.5 billion, gaining entry to ‘fast-growing’ vascular segments",
-            "link": "https://www.marketwatch.com/story/boston-scientific-is-buying-penumbra-for-14-5-billion-gaining-entry-to-fast-growing-vascular-segments-b51fc695?mod=mw_rss_topstories",
-            "summary": "Penumbra’s stock was up about 14% after the deal was announced Thursday morning. Penumbra will be based in San Francisco, California. The deal is expected to close in the next few weeks.",
-            "date": "Thu, 15 Jan 2026 13:11:00 GMT",
+            "title": "Play the AI boom without the bubble risk via these ‘transition’ stocks, says Bank of America",
+            "link": "https://www.marketwatch.com/story/play-the-ai-boom-without-the-bubble-risk-via-these-transition-stocks-says-bank-of-america-4c8f7217?mod=mw_rss_topstories",
+            "summary": "Bank of America analysts suggest defense, infrastructure and transition materials represent the optimal indirect exposure to AI. Bank of America: Defense, infrastructure, transition materials are the best areas for AI exposure.",
+            "date": "Fri, 16 Jan 2026 12:09:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BSX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Airline miles and hotel points threatened as Trump takes aim at credit-card rules",
-            "link": "https://www.marketwatch.com/story/airline-miles-and-hotel-points-threatened-as-trump-takes-aim-at-credit-card-rules-c09fc024?mod=mw_rss_topstories",
-            "summary": "Some experts doubt the measure will actually become reality. They thought it would disproportionately curb rewards for lower-income spenders if enacted. While high-flyers would be able to keep cashing in on rewards.",
-            "date": "Thu, 15 Jan 2026 13:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAL",
+            "stock_ticker": "PLAY",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s how much money you need to make to afford a $400,000 home",
-            "link": "https://www.marketwatch.com/story/heres-how-much-money-you-need-to-make-to-afford-a-400-000-home-6f7e9a1f?mod=mw_rss_topstories",
-            "summary": "Homeownership is a key pillar of the American Dream. But how much does one need to earn in terms of an income or salary to afford it?",
-            "date": "Thu, 15 Jan 2026 13:00:00 GMT",
+            "title": "‘I still have a mortgage’: I’m no longer confident that my costs will actually fall in retirement. What can I do?",
+            "link": "https://www.marketwatch.com/story/i-still-have-a-mortgage-im-no-longer-confident-that-my-costs-will-actually-fall-in-retirement-what-can-i-do-ff9164a5?mod=mw_rss_topstories",
+            "summary": "“I think my withdrawals from my 401(k) and IRA may need to be larger than my current take-home pay,” she says.",
+            "date": "Fri, 16 Jan 2026 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "OBTC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘The house has quadrupled in value’: I bought a house with my brother, but he did not contribute. How do I fix this?",
+            "link": "https://www.marketwatch.com/story/the-house-has-quadrupled-in-value-i-bought-a-house-with-my-brother-he-never-contributed-how-do-i-remove-him-de28bd02?mod=mw_rss_topstories",
+            "summary": "“My brother lived with me for eight years, then left to live abroad, married and followed his dreams,” she said.",
+            "date": "Fri, 16 Jan 2026 11:45:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSCM",
             "impact": "Neutral"
         }
     ]
