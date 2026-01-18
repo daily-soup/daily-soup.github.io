@@ -1,23 +1,11 @@
 {
-    "date": "2026-01-17",
+    "date": "2026-01-18",
     "news": [
         {
-            "title": "Disney dominated the 2025 box office. Here's how it could keep the crown in 2026",
-            "link": "https://www.cnbc.com/2026/01/17/disney-dominated-2025-box-office.html",
-            "summary": "Disney accounted for 27.5% of the domestic box office's overall annual haul. It looks to be a dominant force in 2026, too.",
-            "date": "Sat, 17 Jan 2026 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DIS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump floats new tariffs in push to acquire Greenland",
-            "link": "https://www.cnbc.com/2026/01/16/trump-greenland-tariffs.html",
-            "summary": "The comments show Trump considering applying his aggressive tariff strategies to his efforts to acquire Greenland. The comments also show that Trump is considering using his tariffs to try and get more of Greenland.",
-            "date": "Fri, 16 Jan 2026 19:32:38 GMT",
+            "title": "Trump says 8 European nations face tariffs rising to 25% if Greenland isn't sold to the U.S.",
+            "link": "https://www.cnbc.com/2026/01/17/trump-greenland-tariffs-nato.html",
+            "summary": "Trump has hinted that he may pursue a tariff strategy on Greenland similar to the one he used to force foreign countries to change their drug prices.",
+            "date": "Sun, 18 Jan 2026 11:36:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,34 +14,22 @@
             "impact": "Neutral"
         },
         {
-            "title": "Hassett pivots to possible 'Trump cards' amid credit card interest rate battle with banks",
-            "link": "https://www.cnbc.com/2026/01/16/white-house-hassett-trump-cards-credit-card-battle.html",
-            "summary": "Trump called for banks to cap credit card interest rates at 10%. The idea has been roundly rejected by industry executives and their lobbyists this week.",
-            "date": "Fri, 16 Jan 2026 19:33:45 GMT",
+            "title": "Global week ahead: Hopes that cooler heads can prevail in Davos",
+            "link": "https://www.cnbc.com/2026/01/18/trump-davos.html",
+            "summary": "The tension between countries that call themselves allies is palpable going into this meeting. The tension between the U.S. and Russia is palpable.",
+            "date": "Sun, 18 Jan 2026 11:45:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TPY=F",
+            "stock_ticker": "GEO=F",
             "impact": "Neutral"
         },
         {
-            "title": "The founders of billion-dollar AI startups are getting younger — here’s why",
-            "link": "https://www.cnbc.com/2026/01/17/billion-dollar-ai-startup-founders-are-getting-younger-heres-why.html",
-            "summary": "Experimenting in the age of AI \"counts as more important than traditional corporate experience,\" Antler's co-founder Fridjtof Berge says.",
-            "date": "Sat, 17 Jan 2026 09:54:08 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TSCM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump tells Hassett he wants to keep him where he is; Warsh Fed chair odds jump",
-            "link": "https://www.cnbc.com/2026/01/16/warsh-sprints-ahead-in-fed-chair-race-following-trump-comments-on-hassett-prediction-markets-show.html",
-            "summary": "Trump said he'd prefer to keep Hassett in his position as top economic advisor. Trump, without explicitly stating his decision, said Hassett would be a good choice for the job.",
-            "date": "Fri, 16 Jan 2026 20:28:14 GMT",
+            "title": "Trump threatens to sue JPMorgan Chase for 'debanking' him",
+            "link": "https://www.cnbc.com/2026/01/17/trump-jpmorgan-chase-debanking.html",
+            "summary": "President Trump threatened to sue JPMorgan for allegedly \"debanking\" him following the Jan. 6 insurrection in 2021. President Trump threatened the bank with a lawsuit following the January 6, 2021, insurrection.",
+            "date": "Sun, 18 Jan 2026 12:09:43 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,46 +38,34 @@
             "impact": "Neutral"
         },
         {
-            "title": "We plan to retire at 62 and have $1 million, plus my wife’s pension and Social Security. Do we have enough to retire early?",
-            "link": "https://www.marketwatch.com/story/we-plan-to-retire-at-62-and-have-1-million-plus-my-wifes-pension-and-social-security-do-we-have-enough-to-retire-early-70ebd262?mod=mw_rss_topstories",
-            "summary": "“We have no debt,” he says. “We’re not in debt. We’ve got no debt.”",
-            "date": "Sat, 17 Jan 2026 13:12:00 GMT",
+            "title": "Who will be next to implement an Australia-style under-16s social media ban?",
+            "link": "https://www.cnbc.com/2026/01/18/uk-australia-style-under-16s-social-media-ban.html",
+            "summary": "The House of Lords may vote next week on an under-16s social media ban. U.K. Prime Minister Keir Starmer expressed concerns about children's screen time.",
+            "date": "Sun, 18 Jan 2026 12:19:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WSTNR",
+            "stock_ticker": "COST",
             "impact": "Neutral"
         },
         {
-            "title": "I manage an $80K trust for a 15-year-old. How do I do deal with interfering relatives?",
-            "link": "https://www.marketwatch.com/story/i-dont-want-to-step-on-any-toes-i-manage-a-80k-trust-for-a-15-year-old-relative-how-do-i-deal-with-nosy-relatives-9f2d4754?mod=mw_rss_topstories",
-            "summary": "“I don’t want to step on any toes,” he says. “I’m not a big fan of stepping on anyone’s toes”",
-            "date": "Sat, 17 Jan 2026 13:05:00 GMT",
+            "title": "Top Wall Street analysts are confident about these three stocks for the long term",
+            "link": "https://www.cnbc.com/2026/01/18/top-wall-street-analysts-are-confident-about-these-three-stocks-for-the-long-term.html",
+            "summary": "TipRanks highlights three stocks, including Broadcom and Meta Platforms, favored by Wall Street pros. TipRanks: Broadcom, Meta platforms, Broadcom.",
+            "date": "Sun, 18 Jan 2026 12:30:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IEAGU",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I had hoped the virus would be contained in China’: An inside look at the Fed’s historic fight to save the U.S. economy",
-            "link": "https://www.marketwatch.com/story/i-had-hoped-the-virus-would-be-contained-in-china-an-inside-look-at-the-feds-historic-fight-to-save-the-u-s-economy-37fe1afc?mod=mw_rss_topstories",
-            "summary": "Senior Federal Reserve officials were in a good mood in January 2020. But danger was brewing on the other side of the world. The U.S. was in the midst of a global financial crisis at the time.",
-            "date": "Sat, 17 Jan 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IEAGU",
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
             "title": "I started working as a dishwasher at age 13. Social Security refuses to acknowledge this. Am I being cheated?",
             "link": "https://www.marketwatch.com/story/i-started-working-as-a-dishwasher-at-13-social-security-refuses-to-acknowledge-this-am-i-being-cheated-164d6435?mod=mw_rss_topstories",
             "summary": "“I am 69, and started collecting Social Security when I was 66½,” he says. “I started taking Social Security at the age of 66½.”",
-            "date": "Sat, 17 Jan 2026 12:39:00 GMT",
+            "date": "Sun, 18 Jan 2026 00:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,16 +74,52 @@
             "impact": "Neutral"
         },
         {
-            "title": "This group of tech stocks screams opportunity after a bewildering selloff",
-            "link": "https://www.marketwatch.com/story/this-group-of-tech-stocks-screams-opportunity-after-a-bewildering-selloff-f6ea4f88?mod=mw_rss_topstories",
-            "summary": "A meltdown in software stocks has left several high-growth names trading at bargain prices, according to some on Wall Street. The shares of software companies have fallen by as much as 40 percent since the start of the year.",
-            "date": "Sat, 17 Jan 2026 12:30:00 GMT",
+            "title": "My wealthy friend invited me to stay, but he doesn’t need more ‘stuff.’ What do I get the man who has everything?",
+            "link": "https://www.marketwatch.com/story/my-wealthy-friend-invited-me-to-stay-but-he-doesnt-need-more-stuff-what-do-i-get-the-man-who-has-everything-077914b7?mod=mw_rss_topstories",
+            "summary": "“He has a beautiful home, and enough antiques and collectibles stored up over a lifetime,” his daughter says. “He’s got a lot of antiques,’ she adds.",
+            "date": "Sat, 17 Jan 2026 23:57:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "S2819.MC",
-            "impact": "Bearish"
+            "stock_ticker": "MYR=X",
+            "impact": "Bullish"
+        },
+        {
+            "title": "These 20 cheap S&P 500 stocks can cushion the blow in a market downturn",
+            "link": "https://www.marketwatch.com/story/these-stocks-are-steady-eddies-if-s-p-500-earnings-growth-slips-and-the-market-slides-add642d0?mod=mw_rss_topstories",
+            "summary": "Conservative investors favor stocks trading at low P/E ratios. The long-term record proves them right, as shown by this chart of the S&P 500.",
+            "date": "Sat, 17 Jan 2026 19:54:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "QM=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "14 million Americans are getting access to these game-changing investment accounts — without risking their Supplemental Security Income and Medicaid benefits",
+            "link": "https://www.marketwatch.com/story/14-million-americans-are-getting-access-to-these-game-changing-investment-accounts-without-risking-their-supplemental-security-income-and-medicaid-benefits-afeb569d?mod=mw_rss_topstories",
+            "summary": "ABLE accounts have expanded eligibility to those up to age 46. ABLE accounts are available to anyone with an ABLE account and can be used to pay for health care.",
+            "date": "Sat, 17 Jan 2026 19:35:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GSK.L",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Trump plans 10% tariffs on European countries over Greenland: What it means for markets.",
+            "link": "https://www.marketwatch.com/story/trump-plans-10-tariffs-on-european-countries-over-greenland-what-it-means-for-markets-1b2d3373?mod=mw_rss_topstories",
+            "summary": "Trump levels latest threat at Europe as Supreme Court decision on his tariffs loom. Supreme Court will rule on whether or not to uphold his tariffs.",
+            "date": "Sat, 17 Jan 2026 19:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Bullish"
         }
     ]
 }
