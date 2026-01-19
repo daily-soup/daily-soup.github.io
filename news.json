@@ -1,11 +1,23 @@
 {
-    "date": "2026-01-18",
+    "date": "2026-01-19",
     "news": [
         {
-            "title": "Trump says 8 European nations face tariffs rising to 25% if Greenland isn't sold to the U.S.",
-            "link": "https://www.cnbc.com/2026/01/17/trump-greenland-tariffs-nato.html",
-            "summary": "Trump has hinted that he may pursue a tariff strategy on Greenland similar to the one he used to force foreign countries to change their drug prices.",
-            "date": "Sun, 18 Jan 2026 11:36:33 GMT",
+            "title": "Europe weighs using trade 'bazooka' against the U.S. as Greenland crisis deepens",
+            "link": "https://www.cnbc.com/2026/01/19/europe-retaliatory-tariffs-aci-greenland-trump-threat-us.html",
+            "summary": "European countries are reportedly considering retaliatory tariffs and wider economic counter-measures against the U.S. The European Union is expected to announce a new round of sanctions against the United States later this month.",
+            "date": "Mon, 19 Jan 2026 10:06:10 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ECF=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump wants nations to pay $1 billion for permanent Board of Peace seats",
+            "link": "https://www.cnbc.com/2026/01/18/trump-board-of-peace.html",
+            "summary": "The Trump administration wants nations to pay $1 billion to remain on his Gaza peace board, reports show. The U.S. wants the nations to stay on the board until a peace deal is reached.",
+            "date": "Sun, 18 Jan 2026 19:01:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,106 +26,94 @@
             "impact": "Neutral"
         },
         {
-            "title": "Global week ahead: Hopes that cooler heads can prevail in Davos",
-            "link": "https://www.cnbc.com/2026/01/18/trump-davos.html",
-            "summary": "The tension between countries that call themselves allies is palpable going into this meeting. The tension between the U.S. and Russia is palpable.",
-            "date": "Sun, 18 Jan 2026 11:45:28 GMT",
+            "title": "Putin invited to join Trump's 'Board of Peace,' Kremlin says",
+            "link": "https://www.cnbc.com/2026/01/19/putin-trump-board-of-peace-kremlin.html",
+            "summary": "The \"Board of Peace\" has been created by U.S. President Donald Trump to oversee the reconstruction of Gaza. The Board of Peace will be made up of representatives from Israel, the Palestinian Authority and the United Nations.",
+            "date": "Mon, 19 Jan 2026 11:10:32 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GEO=F",
+            "stock_ticker": "TPY=F",
             "impact": "Neutral"
         },
         {
-            "title": "Trump threatens to sue JPMorgan Chase for 'debanking' him",
-            "link": "https://www.cnbc.com/2026/01/17/trump-jpmorgan-chase-debanking.html",
-            "summary": "President Trump threatened to sue JPMorgan for allegedly \"debanking\" him following the Jan. 6 insurrection in 2021. President Trump threatened the bank with a lawsuit following the January 6, 2021, insurrection.",
-            "date": "Sun, 18 Jan 2026 12:09:43 GMT",
+            "title": "Greenland PM issues defiant rebuke over Trump's tariff threats: 'We will not be pressured'",
+            "link": "https://www.cnbc.com/2026/01/19/greenland-nielsen-trump-tariffs-europe.html",
+            "summary": " Greenland Prime Minister Jens-Frederik Nielsen says island will not be pressured over U.S. President Donald Trump's tariff threats.",
+            "date": "Mon, 19 Jan 2026 13:00:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "CGR0.F",
             "impact": "Neutral"
         },
         {
-            "title": "Who will be next to implement an Australia-style under-16s social media ban?",
-            "link": "https://www.cnbc.com/2026/01/18/uk-australia-style-under-16s-social-media-ban.html",
-            "summary": "The House of Lords may vote next week on an under-16s social media ban. U.K. Prime Minister Keir Starmer expressed concerns about children's screen time.",
-            "date": "Sun, 18 Jan 2026 12:19:41 GMT",
+            "title": "Gold and silver surge to fresh highs as investors digest Trump's push for Greenland and flock to safer assets",
+            "link": "https://www.cnbc.com/2026/01/19/gold-silver-hit-record-highs-greenland-geopolitics-market-reaction.html",
+            "summary": "U.S. gold and silver futures peaked on Monday as investors flock to safe-haven assets. Gold, silver prices hit record highs on Monday.",
+            "date": "Mon, 19 Jan 2026 11:16:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COST",
+            "stock_ticker": "GOLD",
             "impact": "Neutral"
         },
         {
-            "title": "Top Wall Street analysts are confident about these three stocks for the long term",
-            "link": "https://www.cnbc.com/2026/01/18/top-wall-street-analysts-are-confident-about-these-three-stocks-for-the-long-term.html",
-            "summary": "TipRanks highlights three stocks, including Broadcom and Meta Platforms, favored by Wall Street pros. TipRanks: Broadcom, Meta platforms, Broadcom.",
-            "date": "Sun, 18 Jan 2026 12:30:59 GMT",
+            "title": "Is the stock market open on MLK Day? Does the post office deliver mail?",
+            "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-mlk-day-does-the-post-office-deliver-mail-00591917?mod=mw_rss_topstories",
+            "summary": "The holiday commemorates the birth of civil rights leader Martin Luther King Jr. Today’s holiday marks the 50th anniversary of King's assassination.",
+            "date": "Mon, 19 Jan 2026 12:25:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "ISKHUX=X",
             "impact": "Neutral"
         },
         {
-            "title": "I started working as a dishwasher at age 13. Social Security refuses to acknowledge this. Am I being cheated?",
-            "link": "https://www.marketwatch.com/story/i-started-working-as-a-dishwasher-at-13-social-security-refuses-to-acknowledge-this-am-i-being-cheated-164d6435?mod=mw_rss_topstories",
-            "summary": "“I am 69, and started collecting Social Security when I was 66½,” he says. “I started taking Social Security at the age of 66½.”",
-            "date": "Sun, 18 Jan 2026 00:30:00 GMT",
+            "title": "As competition heats up, OpenAI changes course and introduces ads on ChatGPT",
+            "link": "https://www.marketwatch.com/story/as-competition-heats-up-openai-changes-course-and-introduces-ads-on-chatgpt-acc5f367?mod=mw_rss_topstories",
+            "summary": "Altman announced ads on ChatGPT. Confronted with fierce competition from its rivals and immense funding requirements in the next few years.",
+            "date": "Mon, 19 Jan 2026 11:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IEAGU",
+            "stock_ticker": "AS",
             "impact": "Neutral"
         },
         {
-            "title": "My wealthy friend invited me to stay, but he doesn’t need more ‘stuff.’ What do I get the man who has everything?",
-            "link": "https://www.marketwatch.com/story/my-wealthy-friend-invited-me-to-stay-but-he-doesnt-need-more-stuff-what-do-i-get-the-man-who-has-everything-077914b7?mod=mw_rss_topstories",
-            "summary": "“He has a beautiful home, and enough antiques and collectibles stored up over a lifetime,” his daughter says. “He’s got a lot of antiques,’ she adds.",
-            "date": "Sat, 17 Jan 2026 23:57:00 GMT",
+            "title": "A year after his death, Gene Hackman’s longtime Santa Fe home is listed for $6.25 million",
+            "link": "https://www.marketwatch.com/story/a-year-after-his-death-gene-hackmans-longtime-santa-fe-home-is-listed-for-6-25-million-78350927?mod=mw_rss_topstories",
+            "summary": "Gene Hackman and his wife, Betsy Arakawa, were found dead inside the home last year. The actor's longtime New Mexico compound has hit the market.",
+            "date": "Mon, 19 Jan 2026 10:02:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
-            "impact": "Bullish"
-        },
-        {
-            "title": "These 20 cheap S&P 500 stocks can cushion the blow in a market downturn",
-            "link": "https://www.marketwatch.com/story/these-stocks-are-steady-eddies-if-s-p-500-earnings-growth-slips-and-the-market-slides-add642d0?mod=mw_rss_topstories",
-            "summary": "Conservative investors favor stocks trading at low P/E ratios. The long-term record proves them right, as shown by this chart of the S&P 500.",
-            "date": "Sat, 17 Jan 2026 19:54:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "QM=F",
+            "stock_ticker": "A",
             "impact": "Neutral"
         },
         {
-            "title": "14 million Americans are getting access to these game-changing investment accounts — without risking their Supplemental Security Income and Medicaid benefits",
-            "link": "https://www.marketwatch.com/story/14-million-americans-are-getting-access-to-these-game-changing-investment-accounts-without-risking-their-supplemental-security-income-and-medicaid-benefits-afeb569d?mod=mw_rss_topstories",
-            "summary": "ABLE accounts have expanded eligibility to those up to age 46. ABLE accounts are available to anyone with an ABLE account and can be used to pay for health care.",
-            "date": "Sat, 17 Jan 2026 19:35:00 GMT",
+            "title": "Stock futures lead global markets sharply lower and gold hits fresh record as Trump threatens tariffs on Europe over Greenland",
+            "link": "https://www.marketwatch.com/story/stock-futures-lead-global-markets-sharply-lower-and-gold-hits-fresh-record-as-trump-threatens-tariffs-on-europe-over-greenland-e52bcb8e?mod=mw_rss_topstories",
+            "summary": "Fears European nations will retaliate raises fears of more trade turmoil. Concerns European countries will retaliate raise fears of further turmoil. European nations may retaliate against U.S. tariffs on steel and aluminum.",
+            "date": "Mon, 19 Jan 2026 08:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GSK.L",
-            "impact": "Bullish"
+            "stock_ticker": "VTI",
+            "impact": "Neutral"
         },
         {
             "title": "Trump plans 10% tariffs on European countries over Greenland: What it means for markets.",
             "link": "https://www.marketwatch.com/story/trump-plans-10-tariffs-on-european-countries-over-greenland-what-it-means-for-markets-1b2d3373?mod=mw_rss_topstories",
             "summary": "Trump levels latest threat at Europe as Supreme Court decision on his tariffs loom. Supreme Court will rule on whether or not to uphold his tariffs.",
-            "date": "Sat, 17 Jan 2026 19:15:00 GMT",
+            "date": "Mon, 19 Jan 2026 00:19:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
