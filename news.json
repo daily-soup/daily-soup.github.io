@@ -1,23 +1,23 @@
 {
-    "date": "2026-01-19",
+    "date": "2026-01-20",
     "news": [
         {
-            "title": "Europe weighs using trade 'bazooka' against the U.S. as Greenland crisis deepens",
-            "link": "https://www.cnbc.com/2026/01/19/europe-retaliatory-tariffs-aci-greenland-trump-threat-us.html",
-            "summary": "European countries are reportedly considering retaliatory tariffs and wider economic counter-measures against the U.S. The European Union is expected to announce a new round of sanctions against the United States later this month.",
-            "date": "Mon, 19 Jan 2026 10:06:10 GMT",
+            "title": "Tech stocks lead Wall Street sell-off as tensions over Greenland escalate",
+            "link": "https://www.cnbc.com/2026/01/20/tech-stocks-lead-wall-street-sell-off-as-tensions-over-greenland-escalate.html",
+            "summary": "Tech stocks led declines on Tuesday as renewed trade rhetoric tied to Greenland fueled a risk-off move across U.S. markets. Tech stocks led decline on Tuesday.",
+            "date": "Tue, 20 Jan 2026 12:38:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ECF=F",
+            "stock_ticker": "TECH",
             "impact": "Neutral"
         },
         {
-            "title": "Trump wants nations to pay $1 billion for permanent Board of Peace seats",
-            "link": "https://www.cnbc.com/2026/01/18/trump-board-of-peace.html",
-            "summary": "The Trump administration wants nations to pay $1 billion to remain on his Gaza peace board, reports show. The U.S. wants the nations to stay on the board until a peace deal is reached.",
-            "date": "Sun, 18 Jan 2026 19:01:42 GMT",
+            "title": "Trump is showing the world the U.S. is 'back,' Scott Bessent tells CNBC as Greenland tensions ratchet up",
+            "link": "https://www.cnbc.com/2026/01/20/trump-greenland-bessent-leadership-denmark-davos.html",
+            "summary": "U.S. Treasury Secretary Scott Bessent spoke to CNBC. He said President Donald Trump's bid to acquire Greenland is 'not something new'",
+            "date": "Tue, 20 Jan 2026 12:54:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,100 +26,100 @@
             "impact": "Neutral"
         },
         {
-            "title": "Putin invited to join Trump's 'Board of Peace,' Kremlin says",
-            "link": "https://www.cnbc.com/2026/01/19/putin-trump-board-of-peace-kremlin.html",
-            "summary": "The \"Board of Peace\" has been created by U.S. President Donald Trump to oversee the reconstruction of Gaza. The Board of Peace will be made up of representatives from Israel, the Palestinian Authority and the United Nations.",
-            "date": "Mon, 19 Jan 2026 11:10:32 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TPY=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Greenland PM issues defiant rebuke over Trump's tariff threats: 'We will not be pressured'",
-            "link": "https://www.cnbc.com/2026/01/19/greenland-nielsen-trump-tariffs-europe.html",
-            "summary": " Greenland Prime Minister Jens-Frederik Nielsen says island will not be pressured over U.S. President Donald Trump's tariff threats.",
-            "date": "Mon, 19 Jan 2026 13:00:53 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CGR0.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Gold and silver surge to fresh highs as investors digest Trump's push for Greenland and flock to safer assets",
-            "link": "https://www.cnbc.com/2026/01/19/gold-silver-hit-record-highs-greenland-geopolitics-market-reaction.html",
-            "summary": "U.S. gold and silver futures peaked on Monday as investors flock to safe-haven assets. Gold, silver prices hit record highs on Monday.",
-            "date": "Mon, 19 Jan 2026 11:16:39 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GOLD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Is the stock market open on MLK Day? Does the post office deliver mail?",
-            "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-mlk-day-does-the-post-office-deliver-mail-00591917?mod=mw_rss_topstories",
-            "summary": "The holiday commemorates the birth of civil rights leader Martin Luther King Jr. Today’s holiday marks the 50th anniversary of King's assassination.",
-            "date": "Mon, 19 Jan 2026 12:25:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ISKHUX=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "As competition heats up, OpenAI changes course and introduces ads on ChatGPT",
-            "link": "https://www.marketwatch.com/story/as-competition-heats-up-openai-changes-course-and-introduces-ads-on-chatgpt-acc5f367?mod=mw_rss_topstories",
-            "summary": "Altman announced ads on ChatGPT. Confronted with fierce competition from its rivals and immense funding requirements in the next few years.",
-            "date": "Mon, 19 Jan 2026 11:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "A year after his death, Gene Hackman’s longtime Santa Fe home is listed for $6.25 million",
-            "link": "https://www.marketwatch.com/story/a-year-after-his-death-gene-hackmans-longtime-santa-fe-home-is-listed-for-6-25-million-78350927?mod=mw_rss_topstories",
-            "summary": "Gene Hackman and his wife, Betsy Arakawa, were found dead inside the home last year. The actor's longtime New Mexico compound has hit the market.",
-            "date": "Mon, 19 Jan 2026 10:02:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Stock futures lead global markets sharply lower and gold hits fresh record as Trump threatens tariffs on Europe over Greenland",
-            "link": "https://www.marketwatch.com/story/stock-futures-lead-global-markets-sharply-lower-and-gold-hits-fresh-record-as-trump-threatens-tariffs-on-europe-over-greenland-e52bcb8e?mod=mw_rss_topstories",
-            "summary": "Fears European nations will retaliate raises fears of more trade turmoil. Concerns European countries will retaliate raise fears of further turmoil. European nations may retaliate against U.S. tariffs on steel and aluminum.",
-            "date": "Mon, 19 Jan 2026 08:33:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump plans 10% tariffs on European countries over Greenland: What it means for markets.",
-            "link": "https://www.marketwatch.com/story/trump-plans-10-tariffs-on-european-countries-over-greenland-what-it-means-for-markets-1b2d3373?mod=mw_rss_topstories",
-            "summary": "Trump levels latest threat at Europe as Supreme Court decision on his tariffs loom. Supreme Court will rule on whether or not to uphold his tariffs.",
-            "date": "Mon, 19 Jan 2026 00:19:00 GMT",
+            "title": "Trump threatens 200% tariff on French wines as Macron reportedly snubs 'Board of Peace' seat",
+            "link": "https://www.cnbc.com/2026/01/20/trump-threatens-200percent-tariff-on-french-wines-and-champagnes-.html",
+            "summary": "Trump also reiterated his plans to control Greenland, saying that European leaders \"won't push back too much\" Trump: \"We're going to be in charge of Greenland for the next 100 years\"",
+            "date": "Tue, 20 Jan 2026 06:40:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Bullish"
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bessent says Trump's pick for the next Fed chair could happen next week",
+            "link": "https://www.cnbc.com/2026/01/20/bessent-says-trumps-pick-for-the-next-fed-chair-could-happen-next-week.html",
+            "summary": "The president has whittled down the field to four candidates, Bessent told CNBC. The president was speaking at the World Economic Forum in Switzerland.",
+            "date": "Tue, 20 Jan 2026 13:21:05 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PICK",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Netflix amends Warner Bros. Discovery offer to all cash",
+            "link": "https://www.cnbc.com/2026/01/20/netflix-warner-bros-discovery-offer-all-cash.html",
+            "summary": "Netflix has agreed to pay $27.75 per WBD share to acquire the company's studio and streaming assets. The deal is expected to close in the next few weeks.",
+            "date": "Tue, 20 Jan 2026 13:35:22 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NFLX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Netflix bolsters its bid for Warner Bros. by making it all cash",
+            "link": "https://www.marketwatch.com/story/netflix-bolsters-its-bid-for-warner-bros-by-making-it-all-cash-f56e172b?mod=mw_rss_topstories",
+            "summary": "The change addresses one of Paramount’s arguments of why its buyout bid was better than that of Netflix — it didn’t include stock.",
+            "date": "Tue, 20 Jan 2026 13:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NFLX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How Greenland could turn into a Big Tech problem, according to Morgan Stanley’s Mike Wilson",
+            "link": "https://www.marketwatch.com/story/how-greenland-could-turn-into-a-big-tech-problem-according-to-morgan-stanleys-mike-wilson-eabee481?mod=mw_rss_topstories",
+            "summary": "U.S.-Europe spat over Greenland could be bad for tech. Strategists like Morgan Stanley’s chief U.S. equity strategist say fallout from the spat could be big.",
+            "date": "Tue, 20 Jan 2026 12:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Elon Musk and Ryanair’s CEO call each other ‘idiots.’ The numbers say something else.",
+            "link": "https://www.marketwatch.com/story/elon-musk-and-ryanairs-ceo-call-each-other-idiots-the-numbers-say-something-else-338bad3c?mod=mw_rss_topstories",
+            "summary": "Elon Musk and Michael O’Leary are calling each other idiots. But shareholders of both companies would reject that charge. Musk and O'Leary are both worth billions of dollars.",
+            "date": "Tue, 20 Jan 2026 12:27:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KYG8918W1069.SG",
+            "impact": "Neutral"
+        },
+        {
+            "title": "3M’s earnings beat can’t save the stock from the broad-market selloff",
+            "link": "https://www.marketwatch.com/story/3ms-earnings-beat-cant-save-the-stock-from-the-broad-market-selloff-cbc543c2?mod=mw_rss_topstories",
+            "summary": "Shares of 3M slip in early Tuesday trading. The Post-it Notes, Scotch tape and Command strips maker’s quarterly earnings beat and in-line profit outlook was overshadowed by a broad-market selloff.",
+            "date": "Tue, 20 Jan 2026 12:21:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "3MSE.DE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Ask these 3 questions before deciding whether to do your own taxes or hire a pro",
+            "link": "https://www.marketwatch.com/story/ask-these-3-questions-before-deciding-whether-to-do-your-own-taxes-or-hire-a-pro-5ae353bb?mod=mw_rss_topstories",
+            "summary": "Tax filing season starts Jan. 26 and it’s the first with Trump big new tax law on the books. Tax filing season is the first time taxpayers will be able to file under the new law.",
+            "date": "Tue, 20 Jan 2026 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "2678.T",
+            "impact": "Neutral"
         }
     ]
 }
