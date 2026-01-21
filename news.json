@@ -1,124 +1,124 @@
 {
-    "date": "2026-01-20",
+    "date": "2026-01-21",
     "news": [
         {
-            "title": "Tech stocks lead Wall Street sell-off as tensions over Greenland escalate",
-            "link": "https://www.cnbc.com/2026/01/20/tech-stocks-lead-wall-street-sell-off-as-tensions-over-greenland-escalate.html",
-            "summary": "Tech stocks led declines on Tuesday as renewed trade rhetoric tied to Greenland fueled a risk-off move across U.S. markets. Tech stocks led decline on Tuesday.",
-            "date": "Tue, 20 Jan 2026 12:38:46 GMT",
+            "title": "Watch: Trump speaks at Davos as Greenland push, tariff threats take center stage",
+            "link": "https://www.cnbc.com/2026/01/21/trump-greenland-tariffs-davos-europe.html",
+            "summary": "Trump said over the weekend that he would slap tariffs on imports from eight European countries. The move is in retaliation for moving troops to Greenland.",
+            "date": "Wed, 21 Jan 2026 13:38:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TECH",
+            "stock_ticker": "FWRG",
             "impact": "Neutral"
         },
         {
-            "title": "Trump is showing the world the U.S. is 'back,' Scott Bessent tells CNBC as Greenland tensions ratchet up",
-            "link": "https://www.cnbc.com/2026/01/20/trump-greenland-bessent-leadership-denmark-davos.html",
-            "summary": "U.S. Treasury Secretary Scott Bessent spoke to CNBC. He said President Donald Trump's bid to acquire Greenland is 'not something new'",
-            "date": "Tue, 20 Jan 2026 12:54:14 GMT",
+            "title": "Berkshire prepares to exit 28% stake in Kraft Heinz as new CEO aims to move on from rare Buffett gaffe",
+            "link": "https://www.cnbc.com/2026/01/21/berkshire-set-to-exit-28percent-stake-in-kraft-heinz-after-rare-buffett-blunder.html",
+            "summary": ". The move underscores Abel's willingness to look past a deal that has long stood out as a rare blemish in Buffett's otherwise storied record.",
+            "date": "Wed, 21 Jan 2026 13:24:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "BRK-B",
             "impact": "Neutral"
         },
         {
-            "title": "Trump threatens 200% tariff on French wines as Macron reportedly snubs 'Board of Peace' seat",
-            "link": "https://www.cnbc.com/2026/01/20/trump-threatens-200percent-tariff-on-french-wines-and-champagnes-.html",
-            "summary": "Trump also reiterated his plans to control Greenland, saying that European leaders \"won't push back too much\" Trump: \"We're going to be in charge of Greenland for the next 100 years\"",
-            "date": "Tue, 20 Jan 2026 06:40:29 GMT",
+            "title": "Scott Bessent says U.S. is unconcerned by Treasury sell-off over Greenland, calls Denmark ‘irrelevant’",
+            "link": "https://www.cnbc.com/2026/01/21/bessent-davos-denmark-greenland-treasuries.html",
+            "summary": "U.S. treasury secretary Scott Bessant addressed reporters at a press conference at the World Economic Forum on Wednesday. He said the U.S.'s role in the world was to be seen as a role model for the world.",
+            "date": "Wed, 21 Jan 2026 11:43:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "SMG",
             "impact": "Neutral"
         },
         {
-            "title": "Bessent says Trump's pick for the next Fed chair could happen next week",
-            "link": "https://www.cnbc.com/2026/01/20/bessent-says-trumps-pick-for-the-next-fed-chair-could-happen-next-week.html",
-            "summary": "The president has whittled down the field to four candidates, Bessent told CNBC. The president was speaking at the World Economic Forum in Switzerland.",
-            "date": "Tue, 20 Jan 2026 13:21:05 GMT",
+            "title": "Mortgage refinances surged again, but rates are now suddenly jumping higher",
+            "link": "https://www.cnbc.com/2026/01/21/mortgage-refinances-surged-again-but-rates-are-now-suddenly-jumping-higher.html",
+            "summary": "Mortgage refinancing jumped sharply higher for the second straight week, as interest rates fell further. But that boom may be about to bust.",
+            "date": "Wed, 21 Jan 2026 12:00:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PICK",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Netflix amends Warner Bros. Discovery offer to all cash",
-            "link": "https://www.cnbc.com/2026/01/20/netflix-warner-bros-discovery-offer-all-cash.html",
-            "summary": "Netflix has agreed to pay $27.75 per WBD share to acquire the company's studio and streaming assets. The deal is expected to close in the next few weeks.",
-            "date": "Tue, 20 Jan 2026 13:35:22 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NFLX",
+            "stock_ticker": "MGE=F",
             "impact": "Neutral"
         },
         {
-            "title": "Netflix bolsters its bid for Warner Bros. by making it all cash",
-            "link": "https://www.marketwatch.com/story/netflix-bolsters-its-bid-for-warner-bros-by-making-it-all-cash-f56e172b?mod=mw_rss_topstories",
-            "summary": "The change addresses one of Paramount’s arguments of why its buyout bid was better than that of Netflix — it didn’t include stock.",
-            "date": "Tue, 20 Jan 2026 13:12:00 GMT",
+            "title": "OpenEvidence, the 'ChatGPT for doctors,' doubles valuation to $12 billion",
+            "link": "https://www.cnbc.com/2026/01/21/openevidence-chatgpt-for-doctors-doubles-valuation-to-12-billion.html",
+            "summary": "OpenEvidence, based in Massachusetts, has topped a $12 billion valuation in a funding round led by Thrive and DST. OpenEvidence is a cloud-based data analysis and analysis company.",
+            "date": "Wed, 21 Jan 2026 13:37:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NFLX",
+            "stock_ticker": "OPNVZZX",
             "impact": "Neutral"
         },
         {
-            "title": "How Greenland could turn into a Big Tech problem, according to Morgan Stanley’s Mike Wilson",
-            "link": "https://www.marketwatch.com/story/how-greenland-could-turn-into-a-big-tech-problem-according-to-morgan-stanleys-mike-wilson-eabee481?mod=mw_rss_topstories",
-            "summary": "U.S.-Europe spat over Greenland could be bad for tech. Strategists like Morgan Stanley’s chief U.S. equity strategist say fallout from the spat could be big.",
-            "date": "Tue, 20 Jan 2026 12:50:00 GMT",
+            "title": "Kraft Heinz’s stock sinks as Berkshire Hathaway may sell off its large stake",
+            "link": "https://www.marketwatch.com/story/kraft-heinz-stock-falls-as-berkshire-hathaway-may-sell-off-nearly-its-entire-stake-55623e91?mod=mw_rss_topstories",
+            "summary": "The food giant is in the process of unraveling its 2015 merger between Kraft Foods and Heinz. It intends to split into two publicly traded companies.",
+            "date": "Wed, 21 Jan 2026 13:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "KHC",
             "impact": "Neutral"
         },
         {
-            "title": "Elon Musk and Ryanair’s CEO call each other ‘idiots.’ The numbers say something else.",
-            "link": "https://www.marketwatch.com/story/elon-musk-and-ryanairs-ceo-call-each-other-idiots-the-numbers-say-something-else-338bad3c?mod=mw_rss_topstories",
-            "summary": "Elon Musk and Michael O’Leary are calling each other idiots. But shareholders of both companies would reject that charge. Musk and O'Leary are both worth billions of dollars.",
-            "date": "Tue, 20 Jan 2026 12:27:00 GMT",
+            "title": "Sorry, ‘Dr. Google.’ ChatGPT and Claude are now getting into the business of providing health advice.",
+            "link": "https://www.marketwatch.com/story/sorry-dr-google-chatgpt-and-claude-are-now-getting-into-the-business-of-providing-health-advice-426c167e?mod=mw_rss_topstories",
+            "summary": "OpenAI and Anthropic are moving into the complicated world of health information. Will ChatGPT help or hurt patient health? The company is working on a chatbot that will help doctors and patients exchange information.",
+            "date": "Wed, 21 Jan 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KYG8918W1069.SG",
+            "stock_ticker": "GNF=F",
             "impact": "Neutral"
         },
         {
-            "title": "3M’s earnings beat can’t save the stock from the broad-market selloff",
-            "link": "https://www.marketwatch.com/story/3ms-earnings-beat-cant-save-the-stock-from-the-broad-market-selloff-cbc543c2?mod=mw_rss_topstories",
-            "summary": "Shares of 3M slip in early Tuesday trading. The Post-it Notes, Scotch tape and Command strips maker’s quarterly earnings beat and in-line profit outlook was overshadowed by a broad-market selloff.",
-            "date": "Tue, 20 Jan 2026 12:21:00 GMT",
+            "title": "Small stocks have crushed big ones this year, but that may just be a mirage",
+            "link": "https://www.marketwatch.com/story/small-stocks-have-crushed-big-ones-this-year-but-that-may-just-be-a-mirage-dcd84284?mod=mw_rss_topstories",
+            "summary": "Small-cap investors are convinced the stock-market tide has turned in their favor. They are convinced that the economy is set to perform well in 2014.",
+            "date": "Wed, 21 Jan 2026 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "3MSE.DE",
+            "stock_ticker": "SMC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Ask these 3 questions before deciding whether to do your own taxes or hire a pro",
-            "link": "https://www.marketwatch.com/story/ask-these-3-questions-before-deciding-whether-to-do-your-own-taxes-or-hire-a-pro-5ae353bb?mod=mw_rss_topstories",
-            "summary": "Tax filing season starts Jan. 26 and it’s the first with Trump big new tax law on the books. Tax filing season is the first time taxpayers will be able to file under the new law.",
-            "date": "Tue, 20 Jan 2026 12:00:00 GMT",
+            "title": "United’s perks and loyalty strategy pays off, as its stock surges after earnings",
+            "link": "https://www.marketwatch.com/story/uniteds-stock-rallies-as-airlines-perks-and-loyalty-strategy-pays-off-ce7ec4c3?mod=mw_rss_topstories",
+            "summary": "United Airlines reports better-than-expected profits for the holiday quarter. The airline says its focus on loyal fliers is paying off and that “strong momentum” continued into the new year.",
+            "date": "Wed, 21 Jan 2026 13:09:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "2678.T",
+            "stock_ticker": "LLY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This is the secret to spending money with no regrets, says the guy who wrote the book on it",
+            "link": "https://www.marketwatch.com/story/this-is-the-secret-to-spending-money-with-no-regrets-says-the-guy-who-wrote-the-book-on-it-c5b38940?mod=mw_rss_topstories",
+            "summary": "Morgan Housel has a strategy for your finances that works regardless of what the economy does. Author Morgan Housel is the author of the book \"Finance for a Lifetime\"",
+            "date": "Wed, 21 Jan 2026 13:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         }
     ]
