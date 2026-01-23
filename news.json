@@ -1,124 +1,124 @@
 {
-    "date": "2026-01-22",
+    "date": "2026-01-23",
     "news": [
         {
-            "title": "Trump's latest tariffs U-turn is sparking a global market rally — and reviving talk of the 'TACO trade'",
-            "link": "https://www.cnbc.com/2026/01/22/trump-tariffs-greenland-europe-deal-taco-trade-sell-america.html",
-            "summary": "\"Donald Trump’s TACO bell has rung once again, much to the joy of financial markets,\" one investor said.",
-            "date": "Thu, 22 Jan 2026 13:31:26 GMT",
+            "title": "Wall Street braced for a private credit meltdown. The risk of one is rising",
+            "link": "https://www.cnbc.com/2026/01/23/wall-street-private-credit-risk-rising.html",
+            "summary": "Private credit is expected to grow from $3.4 trillion in 2025 to an estimated $4.9 trillion by 2029. Wall Street is starting to raise alarms about the risks.",
+            "date": "Fri, 23 Jan 2026 12:48:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ISKHUX=X",
+            "stock_ticker": "WBX",
             "impact": "Neutral"
         },
         {
-            "title": "Spirit Airlines is in deal talks with investment firm Castlelake as struggling carrier seeks path forward",
-            "link": "https://www.cnbc.com/2026/01/22/spirit-airlines-deal-talks-castlelake.html",
-            "summary": "Spirit Airlines is in talks with investment firm Castlelake for a potential takeover of the discount airline, CNBC has learned. The airline is in bankruptcy.",
-            "date": "Thu, 22 Jan 2026 13:30:20 GMT",
+            "title": "What obesity drugmakers see next in the market: More pills, easier access and drug combinations",
+            "link": "https://www.cnbc.com/2026/01/23/weight-loss-glp-1-drugs-next-steps-for-eli-lilly-novo-nordisk-pfizer.html",
+            "summary": "CNBC spoke to executives from Eli Lilly, Novo Nordisk, Pfizer and other drugmakers at the annual JPMorgan Healthcare Conference in San Francisco.",
+            "date": "Fri, 23 Jan 2026 12:50:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FLYYQ",
+            "stock_ticker": "BD0.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump withdraws 'Board of Peace' invitation to Carney in widening rift with Canada",
+            "link": "https://www.cnbc.com/2026/01/23/trump-withdraws-board-of-peace-invitation-to-carney-in-widening-rift-with-canada.html",
+            "summary": "Trump withdraws invitation to Canada to join the new Board of Peace. Carney warned against economic coercion by superpowers. Trump said he has withdrawn the invitation.",
+            "date": "Fri, 23 Jan 2026 12:54:41 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
             "impact": "Bullish"
         },
         {
-            "title": "Jamie Dimon issues rare CEO criticism of Trump's immigration policy: 'I don’t like what I’m seeing'",
-            "link": "https://www.cnbc.com/2026/01/21/jamie-dimon-trump-immigration-policy.html",
-            "summary": "American CEOs have mostly avoided direct criticism of Trump's policies over the past year. American CEOs have largely avoided directly criticizing the president's policies.",
-            "date": "Thu, 22 Jan 2026 13:00:53 GMT",
+            "title": "Capital One is buying startup Brex for $5.15 billion in credit card firm's latest deal",
+            "link": "https://www.cnbc.com/2026/01/22/capital-one-is-buying-startup-brex-for-5point15-billion-in-credit-card-firms-latest-deal.html",
+            "summary": "Capital One's acquisition of Brex is the latest deal under Rich Fairbank. Fairbank is a rare founder-CEO of a major U.S. bank.",
+            "date": "Fri, 23 Jan 2026 12:50:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JWEL.TO",
+            "stock_ticker": "COF",
             "impact": "Neutral"
         },
         {
-            "title": "Procter & Gamble earnings top estimates, but shrinking demand weighs on sales",
-            "link": "https://www.cnbc.com/2026/01/22/procter-gamble-pg-q2-2026-earnings.html",
-            "summary": "Procter & Gamble topped Wall Street's estimates for its quarterly earnings. But the company's revenue was weaker than expected. The company's quarterly results were released on Thursday.",
-            "date": "Thu, 22 Jan 2026 13:15:42 GMT",
+            "title": "House passes final funding bills 8 days before shutdown, Senate now will consider",
+            "link": "https://www.cnbc.com/2026/01/22/government-funding-shutdown-house.html",
+            "summary": "The Senate will still have to pass the measures when it returns to Washington next week. The Senate is expected to take up the bills when it reconvenes on Monday.",
+            "date": "Fri, 23 Jan 2026 12:28:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PG",
+            "stock_ticker": "FLL",
             "impact": "Neutral"
         },
         {
-            "title": "Denmark open to 'Golden Dome' talks after Trump touts framework Greenland deal",
-            "link": "https://www.cnbc.com/2026/01/22/trump-greenland-deal-nato-denmark-golden-dome.html",
-            "summary": "Danish Prime Minister Mette Frederiksen welcomes U.S. President Donald Trump's Greenland pivot. Danish PM: \"I think it's a very good thing that he is making this move\"",
-            "date": "Thu, 22 Jan 2026 13:04:13 GMT",
+            "title": "The case for a U.S. bear market was building even before Trump antagonized overseas investors",
+            "link": "https://www.marketwatch.com/story/the-case-for-a-u-s-bear-market-was-already-building-before-trump-upset-foreign-investors-1d4399ee?mod=mw_rss_topstories",
+            "summary": "There are two important measures that point to a downturn for stocks, according to Longview Economics. The measures are the S&P 500 and the Dow Jones Industrial Average.",
+            "date": "Fri, 23 Jan 2026 12:21:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BK0K.BE",
+            "stock_ticker": "TSCM",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Gold is approaching $5,000, and ‘unavoidable uncertainty’ means it could go higher",
+            "link": "https://www.marketwatch.com/story/gold-is-approaching-5-000-and-unavoidable-uncertainty-means-it-could-go-higher-ec8480a4?mod=mw_rss_topstories",
+            "summary": "RBC’s head of commodities says there could be paths even higher for gold in a “real risk-off scenario”",
+            "date": "Fri, 23 Jan 2026 12:20:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GOLD",
             "impact": "Neutral"
         },
         {
-            "title": "China’s green-energy revolution is losing $60 billion a year. Why are investors still throwing money at it?",
-            "link": "https://www.marketwatch.com/story/china-tells-the-world-its-a-haven-for-clean-energy-investors-but-in-fact-its-a-big-time-coal-burner-c20b5367?mod=mw_rss_topstories",
-            "summary": "China is praised for being a global alternative-enegy innovator. But its coal mining industry holds the real power. The country is home to some of the world's biggest coal mines.",
-            "date": "Thu, 22 Jan 2026 13:02:00 GMT",
+            "title": "‘It’s my money’: My $800K inheritance is paying for a $1.6 million house. Shouldn’t I decide where my husband and I live?",
+            "link": "https://www.marketwatch.com/story/its-my-money-my-800k-inheritance-is-paying-for-a-1-6-million-house-shouldnt-i-decide-where-my-husband-and-i-live-995dbd0c?mod=mw_rss_topstories",
+            "summary": "‘My husband and I have been together for 25 years. We have two children’ ‘I’m so proud of my husband. He’s the best husband in the world.’",
+            "date": "Fri, 23 Jan 2026 12:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0354.HK",
+            "stock_ticker": "ITSA4.SA",
             "impact": "Neutral"
         },
         {
-            "title": "This contrarian trader says silver has topped out — and this week’s action proves it",
-            "link": "https://www.marketwatch.com/story/this-contrarian-trader-says-silver-has-topped-out-and-this-weeks-action-proves-it-daf3df03?mod=mw_rss_topstories",
-            "summary": "Silver’s failure to respond as positively to rising geopolitical risk as gold this week is evidence of the trade becoming “tired” says Kevin Muir.",
-            "date": "Thu, 22 Jan 2026 12:58:00 GMT",
+            "title": "Nvidia’s on-and-off China relationship appears to be on again",
+            "link": "https://www.marketwatch.com/story/nvidias-on-and-off-china-relationship-appears-to-be-on-again-f7bd6379?mod=mw_rss_topstories",
+            "summary": "China's government has given the go-ahead to big companies including Alibaba to buy the U.S. semiconductor maker’s chips.",
+            "date": "Fri, 23 Jan 2026 11:53:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "MMC=F",
             "impact": "Neutral"
         },
         {
-            "title": "J.D. and Usha Vance are expecting their fourth kid. Most American parents can’t afford to have that many children.",
-            "link": "https://www.marketwatch.com/story/j-d-and-usha-vance-are-expecting-their-fourth-kid-most-american-parents-cant-afford-to-have-that-many-children-f5e9eb5b?mod=mw_rss_topstories",
-            "summary": "The typical family cannot afford a “modest yet adequate standard of living’ for four children. The vice president wants Americans to have more babies.",
-            "date": "Thu, 22 Jan 2026 12:49:00 GMT",
+            "title": "Natural gas prices have overshot as deep freeze hits the U.S., says Goldman",
+            "link": "https://www.marketwatch.com/story/natural-gas-prices-have-overshot-as-deep-freeze-hits-the-u-s-says-goldman-a76e5a82?mod=mw_rss_topstories",
+            "summary": "Goldman Sachs thinks the current natural gas price reflects a temporary imbalance and should eventually correct. Goldman Sachs says the current price is too high for natural gas to be profitable.",
+            "date": "Fri, 23 Jan 2026 10:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "4402.TWO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Yes, ‘DOGE’ did put our Social Security data at risk. Here’s what lawmakers are doing about it.",
-            "link": "https://www.marketwatch.com/story/turns-out-doge-did-put-social-security-data-at-risk-heres-what-lawmakers-are-doing-about-it-d453c466?mod=mw_rss_topstories",
-            "summary": "Trump administration admits to security breaches that had been outlined in a whistleblower complaint. Trump administration admits security breaches in response to whistleblower complaint, White House says.",
-            "date": "Thu, 22 Jan 2026 12:48:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "YESBANK.NS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Lululemon’s founder lashes out at the company, saying it has ‘completely lost its way’",
-            "link": "https://www.marketwatch.com/story/lululemons-founder-lashes-out-at-the-company-saying-it-has-completely-lost-its-way-12ac062c?mod=mw_rss_topstories",
-            "summary": "Chip Wilson, who has been trying to reshape Lululemon’s board, said the company didn’t care about product development or quality.",
-            "date": "Thu, 22 Jan 2026 12:44:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FDRX",
+            "stock_ticker": "NG=F",
             "impact": "Neutral"
         }
     ]
