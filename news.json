@@ -1,47 +1,11 @@
 {
-    "date": "2026-01-24",
+    "date": "2026-01-25",
     "news": [
         {
-            "title": "Meta's Reality Labs cuts sparked fears of a 'VR winter'",
-            "link": "https://www.cnbc.com/2026/01/24/metas-reality-labs-cuts-sparked-fears-of-a-vr-winter.html",
-            "summary": " Meta's deprioritizing virtual reality in favor of artificial intelligence and Internet-connected smart glasses raised concerns about the future of the industry.",
-            "date": "Sat, 24 Jan 2026 12:00:02 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "1796.HK",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I spent the week with tech CEOs. Here's what they're talking about",
-            "link": "https://www.cnbc.com/2026/01/24/tech-davos-ai-agentic-robotics.html",
-            "summary": "Four themes were top of mind for tech executives at Davos, and they were all about AI. The themes were: AI, augmented reality, virtual reality and augmented reality.",
-            "date": "Sat, 24 Jan 2026 06:27:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EQPT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Investors went to Davos for AI. They left talking about Greenland",
-            "link": "https://www.cnbc.com/2026/01/24/davos-ai-greenland-trump-musk-energy-geopolitics.html",
-            "summary": "Two Davos's emerged: one chasing AI’s future, the other gripped by Greenland, tariffs and the geopolitical risks reshaping investor playbooks.",
-            "date": "Sat, 24 Jan 2026 12:47:36 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OHI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Airlines cancel nearly 4,000 weekend flights as massive winter storm sweeps across U.S.",
+            "title": "Airlines cancel more than 14,000 weekend flights as massive winter storm sweeps across the U.S.",
             "link": "https://www.cnbc.com/2026/01/23/winter-storm-fern-flight-cancellations.html",
-            "summary": "U.S. airlines canceled flights and waived change fees for travelers as a cold snap and massive winter storm were forecast to sweep across the country.",
-            "date": "Fri, 23 Jan 2026 21:41:00 GMT",
+            "summary": "U.S. airlines canceled tens of thousands of flights and waived change fees for travelers. A massive winter storm swept across the country. The storm is blamed for more than a dozen deaths in the United States.",
+            "date": "Sun, 25 Jan 2026 11:49:23 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,58 +14,70 @@
             "impact": "Neutral"
         },
         {
-            "title": "Musk’s $1 trillion pay package renews focus on soaring CEO compensation",
-            "link": "https://www.cnbc.com/2026/01/24/musks-1-trillion-pay-package-renews-focus-on-rising-ceo-compensation.html",
-            "summary": "Elon Musk's stock-fueled gains highlight the booming compensation and wealth gains of CEOs in recent decades. Musk's gains are the latest in a long line of CEOs who have made huge gains in recent years.",
-            "date": "Sat, 24 Jan 2026 12:00:02 GMT",
+            "title": "Trump threatens to impose 100% tariff if Canada makes deal with China",
+            "link": "https://www.cnbc.com/2026/01/24/trump-tariff-canada-china.html",
+            "summary": "Trump suggested that China would try to use Canada to try to avoid paying U.S. tariffs. In his Truth Social post, Trump suggested that Canada would be used as a bargaining chip.",
+            "date": "Sat, 24 Jan 2026 19:39:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GATSBY33970-USD",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "My husband’s kids didn’t even show up for his heart surgery. So why is he leaving them his $1 million life insurance?",
-            "link": "https://www.marketwatch.com/story/i-am-resentful-my-second-husbands-kids-treat-him-like-dirt-so-why-is-he-leaving-them-his-1-million-life-insurance-8fe0f2ae?mod=mw_rss_topstories",
-            "summary": "\"Both of us were widowed. We are in our late 60s and retired,\" she says. \"We are both in our 60s, and we are very happy\"",
-            "date": "Sat, 24 Jan 2026 13:00:00 GMT",
+            "title": "Gov. Walz calls on Trump to halt ICE operations in Minnesota after another fatal shooting",
+            "link": "https://www.cnbc.com/2026/01/24/walz-trump-ice-shooting.html",
+            "summary": "\"Minnesota has had it. This is sickening. The President must end this operation. Pull the thousands of violent, untrained officers out of Minnesota,\" Walz said.",
+            "date": "Sun, 25 Jan 2026 11:56:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "DEA",
             "impact": "Neutral"
         },
         {
-            "title": "When college athletes go to the NFL, some of them are taking pay cuts in the millions",
-            "link": "https://www.marketwatch.com/story/when-college-athletes-go-to-the-nfl-some-of-them-are-taking-pay-cuts-in-the-millions-93f54625?mod=mw_rss_topstories",
-            "summary": "Oregon’s Dante Moore is stiff-arming the NFL to keep playing college football next season. Moore will still make millions of dollars.",
-            "date": "Sat, 24 Jan 2026 13:00:00 GMT",
+            "title": "The top 10 analysts of 2025, as measured by TipRanks",
+            "link": "https://www.cnbc.com/2026/01/25/the-top-10-analysts-of-2025-as-measured-by-tipranks.html",
+            "summary": "TipRanks highlights U.S. analysts with the most successful ratings in the previous year. This year's list includes CNN, ABC, CBS, Fox, NBC, ABC2, ABC3 and ABC4.",
+            "date": "Sun, 25 Jan 2026 12:47:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHEN",
+            "stock_ticker": "TSCM",
             "impact": "Neutral"
         },
         {
-            "title": "These 4 charts capture the whirlwind action in global markets so far this year",
-            "link": "https://www.marketwatch.com/story/these-4-charts-capture-the-whirlwind-action-in-global-markets-so-far-this-year-8f71103d?mod=mw_rss_topstories",
-            "summary": "Investors are facing tumult in Japan’s bond market, a big rally in small-cap stocks, and surging prices for natural gas, gold and silver.",
-            "date": "Sat, 24 Jan 2026 13:00:00 GMT",
+            "title": "From Bill Gates to Emmanuel Macron: How the world’s most powerful people communicate and exert influence",
+            "link": "https://www.cnbc.com/2026/01/25/how-worlds-most-powerful-people-communicate-influence.html",
+            "summary": "Executive coach René Carayol tells CNBC about how leaders speak. \"It's not what you say, it's the way that you say it,\" he says.",
+            "date": "Sun, 25 Jan 2026 11:40:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001YPM3.L",
+            "stock_ticker": "WFCF",
             "impact": "Neutral"
+        },
+        {
+            "title": "‘I need protein shakes’: Couples disagree about panic-buying for nationwide snowstorm",
+            "link": "https://www.marketwatch.com/story/i-need-protein-shakes-couples-disagree-about-panic-buying-for-nationwide-snowstorm-f9a503bb?mod=mw_rss_topstories",
+            "summary": "There's one thing worse than hunkering down during a snowstorm — and that's doing so with someone who resents your spending.",
+            "date": "Sun, 25 Jan 2026 07:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EQPT",
+            "impact": "Bearish"
         },
         {
             "title": "I need to spend $15K on my roof. Should I take it from my Roth IRA, 401(k), IRA or money-market account?",
             "link": "https://www.marketwatch.com/story/i-need-to-spend-15k-on-my-roof-do-i-take-it-from-my-roth-ira-401-k-ira-or-money-market-account-170e36a9?mod=mw_rss_topstories",
             "summary": "“I’m 61 years old, single and still have a job,” he says. “I don’t know how I did it. I’ve never been able to do it.”",
-            "date": "Sat, 24 Jan 2026 12:00:00 GMT",
+            "date": "Sat, 24 Jan 2026 23:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "I’m inheriting $250K. Will paying off my student loans and credit-card debt hurt my credit score?",
-            "link": "https://www.marketwatch.com/story/im-inheriting-250k-will-paying-off-my-student-loans-and-credit-card-debt-hurt-my-credit-score-4679d9ab?mod=mw_rss_topstories",
-            "summary": "“The money is coming from the proceeds of the sale of a family home,” he says. “The funds are coming from people who want to give back to the community.”",
-            "date": "Sat, 24 Jan 2026 11:00:00 GMT",
+            "title": "‘It’s an expensive piece of equipment’: My neighbor asked to borrow my snowblower. Do I say yes?",
+            "link": "https://www.marketwatch.com/story/its-an-expensive-piece-of-equipment-my-neighbor-asked-to-borrow-my-snowblower-do-i-say-yes-4ae68f4e?mod=mw_rss_topstories",
+            "summary": "“The projected snowfall this weekend doesn’t look to be changing too much,” says the National Weather Service. “It’s not going to change too much.”",
+            "date": "Sat, 24 Jan 2026 23:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "ITS.AX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My sister is buying our parents’ $3 million house, but wants to deduct $100K for renovations. Who’s right?",
+            "link": "https://www.marketwatch.com/story/my-sister-is-buying-our-parents-3-million-house-but-wants-to-deduct-100k-for-renovations-whos-right-cd0e8129?mod=mw_rss_topstories",
+            "summary": "“If she didn’t want the home, it would have been sold at fair market value,” the mayor says.",
+            "date": "Sat, 24 Jan 2026 22:18:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nearly 15,000 U.S. flights have been canceled due to the winter storm — and counting",
+            "link": "https://www.marketwatch.com/story/nearly-2-000-u-s-flights-have-already-been-canceled-ahead-of-winter-storm-b2f46de3?mod=mw_rss_topstories",
+            "summary": "Airlines have canceled nearly 15,000 flights due to a winter storm. The storm is expected to wallop two-thirds of the U.S. over the weekend.",
+            "date": "Sat, 24 Jan 2026 21:25:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NIFTYMIDCAP150.NS",
             "impact": "Neutral"
         }
     ]
