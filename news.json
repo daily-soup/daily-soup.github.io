@@ -1,23 +1,83 @@
 {
-    "date": "2026-01-25",
+    "date": "2026-01-26",
     "news": [
         {
-            "title": "Airlines cancel more than 14,000 weekend flights as massive winter storm sweeps across the U.S.",
-            "link": "https://www.cnbc.com/2026/01/23/winter-storm-fern-flight-cancellations.html",
-            "summary": "U.S. airlines canceled tens of thousands of flights and waived change fees for travelers. A massive winter storm swept across the country. The storm is blamed for more than a dozen deaths in the United States.",
-            "date": "Sun, 25 Jan 2026 11:49:23 GMT",
+            "title": "USA Rare Earth shares jump 20% as Commerce Department takes equity stake",
+            "link": "https://www.cnbc.com/2026/01/26/usa-rare-earth-shares-jump-20percent-as-commerce-department-takes-equity-stake.html",
+            "summary": "The capital infusion will help USA Rare Earth advance its plan for a magnet manufacturing plant and a mine at a rare earth deposit in Texas called Round Top.",
+            "date": "Mon, 26 Jan 2026 13:25:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAL",
+            "stock_ticker": "USA",
             "impact": "Neutral"
         },
         {
-            "title": "Trump threatens to impose 100% tariff if Canada makes deal with China",
-            "link": "https://www.cnbc.com/2026/01/24/trump-tariff-canada-china.html",
-            "summary": "Trump suggested that China would try to use Canada to try to avoid paying U.S. tariffs. In his Truth Social post, Trump suggested that Canada would be used as a bargaining chip.",
-            "date": "Sat, 24 Jan 2026 19:39:02 GMT",
+            "title": "Alex Pretti killing: Minnesota CEOs, including UnitedHealth, Target, call for 'immediate deescalation'",
+            "link": "https://www.cnbc.com/2026/01/25/alex-pretti-ceo-minneapolis-minnesota.html",
+            "summary": "The Trump administration has surged federal law enforcement to the city. The move is to enforce its immigration crackdown and pursue allegations of widespread welfare fraud.",
+            "date": "Mon, 26 Jan 2026 13:33:58 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ALEX",
+            "impact": "Bearish"
+        },
+        {
+            "title": "CoreWeave stock jumps 10% as Nvidia invests $2 billion to expand AI data center capacity",
+            "link": "https://www.cnbc.com/2026/01/26/3coreweave-nvidia-stock-ai-data-centers.html",
+            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
+            "date": "Mon, 26 Jan 2026 13:37:14 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CRWV",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia set to supplant Apple as TSMC's top customer, signaling chip industry's 'changing dynamic'",
+            "link": "https://www.cnbc.com/2026/01/26/nvidia-set-to-supplant-apple-as-tsmcs-largest-customer.html",
+            "summary": "The positional swap will mark a fundamental shift in the semiconductor industry. The move reflects Nvidia's growing importance amid the AI infrastructure buildout.",
+            "date": "Mon, 26 Jan 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVDA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Memory chip shortage to last through 2027, semiconductor boss says",
+            "link": "https://www.cnbc.com/2026/01/26/memory-chip-shortage-synopsys-lenovo-ai-data-centers.html",
+            "summary": "The boom in AI data center building has caused a shortage of memory chips. The memory chips are also crucial for electronics like smartphones. The shortage is expected to last for at least a year.",
+            "date": "Mon, 26 Jan 2026 12:56:05 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "4DS.XA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The market has cooled on tech. These are the trades to make now, says this strategist.",
+            "link": "https://www.marketwatch.com/story/caution-ahead-of-big-tech-earnings-means-these-are-the-trades-to-make-1b343472?mod=mw_rss_topstories",
+            "summary": "Microsoft, Apple and Apple have options to play Meta, Microsoft and Apple says Evercore ISI. Use options to game Meta,Microsoft and Apple is a popular way to play the game, Evercore says.",
+            "date": "Mon, 26 Jan 2026 13:37:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump administration partners with another rare-earth company. Should you buy the stock?",
+            "link": "https://www.marketwatch.com/story/trump-administration-partners-with-another-rare-earth-company-should-you-buy-the-stock-ed09cf69?mod=mw_rss_topstories",
+            "summary": "USA Rare Earth’s stock soars after a partnership with the Trump administration. The partnership gives the rare-earth company access to $1.6 billion in funding.",
+            "date": "Mon, 26 Jan 2026 13:36:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,99 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "Gov. Walz calls on Trump to halt ICE operations in Minnesota after another fatal shooting",
-            "link": "https://www.cnbc.com/2026/01/24/walz-trump-ice-shooting.html",
-            "summary": "\"Minnesota has had it. This is sickening. The President must end this operation. Pull the thousands of violent, untrained officers out of Minnesota,\" Walz said.",
-            "date": "Sun, 25 Jan 2026 11:56:39 GMT",
+            "title": "Here’s what investors want even more than a Fed interest-rate cut this week",
+            "link": "https://www.marketwatch.com/story/heres-what-investors-want-even-more-than-a-fed-interest-rate-cut-this-week-1279f03f?mod=mw_rss_topstories",
+            "summary": "Investors are rotating out of tech stocks and into other sectors of the market. The U.S. economy chugs along, and tech stocks are among the best-performing sectors.",
+            "date": "Mon, 26 Jan 2026 13:34:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DEA",
+            "stock_ticker": "BD0.F",
             "impact": "Neutral"
         },
         {
-            "title": "The top 10 analysts of 2025, as measured by TipRanks",
-            "link": "https://www.cnbc.com/2026/01/25/the-top-10-analysts-of-2025-as-measured-by-tipranks.html",
-            "summary": "TipRanks highlights U.S. analysts with the most successful ratings in the previous year. This year's list includes CNN, ABC, CBS, Fox, NBC, ABC2, ABC3 and ABC4.",
-            "date": "Sun, 25 Jan 2026 12:47:58 GMT",
+            "title": "Michael Burry says Japanese yen recovery is a risk to U.S. stocks",
+            "link": "https://www.marketwatch.com/story/michael-burry-flags-risks-from-japan-yen-to-u-s-stocks-as-rate-check-stirs-debate-01c2c4f4?mod=mw_rss_topstories",
+            "summary": "The Big Short investor Michael Burry says the Japanese yen is due a reversal. A so-called “rate check’ stirred debate over whether an appreciation in the Asian currency’s country would bleed over into U.S. stocks.",
+            "date": "Mon, 26 Jan 2026 13:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSCM",
+            "stock_ticker": "MHJ.AX",
             "impact": "Neutral"
         },
         {
-            "title": "From Bill Gates to Emmanuel Macron: How the world’s most powerful people communicate and exert influence",
-            "link": "https://www.cnbc.com/2026/01/25/how-worlds-most-powerful-people-communicate-influence.html",
-            "summary": "Executive coach René Carayol tells CNBC about how leaders speak. \"It's not what you say, it's the way that you say it,\" he says.",
-            "date": "Sun, 25 Jan 2026 11:40:14 GMT",
+            "title": "Tax refunds could be much bigger this year. But is that really a good thing?",
+            "link": "https://www.marketwatch.com/story/tax-refunds-could-be-much-bigger-this-year-but-is-that-really-a-good-thing-1171e95b?mod=mw_rss_topstories",
+            "summary": "Bank of America economist: Americans could see an extra $100 billion in tax refunds this year. Bank of America: Tax refunds could rise to $1.2 trillion.",
+            "date": "Mon, 26 Jan 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WFCF",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I need protein shakes’: Couples disagree about panic-buying for nationwide snowstorm",
-            "link": "https://www.marketwatch.com/story/i-need-protein-shakes-couples-disagree-about-panic-buying-for-nationwide-snowstorm-f9a503bb?mod=mw_rss_topstories",
-            "summary": "There's one thing worse than hunkering down during a snowstorm — and that's doing so with someone who resents your spending.",
-            "date": "Sun, 25 Jan 2026 07:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EQPT",
-            "impact": "Bearish"
-        },
-        {
-            "title": "I need to spend $15K on my roof. Should I take it from my Roth IRA, 401(k), IRA or money-market account?",
-            "link": "https://www.marketwatch.com/story/i-need-to-spend-15k-on-my-roof-do-i-take-it-from-my-roth-ira-401-k-ira-or-money-market-account-170e36a9?mod=mw_rss_topstories",
-            "summary": "“I’m 61 years old, single and still have a job,” he says. “I don’t know how I did it. I’ve never been able to do it.”",
-            "date": "Sat, 24 Jan 2026 23:45:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EQPT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘It’s an expensive piece of equipment’: My neighbor asked to borrow my snowblower. Do I say yes?",
-            "link": "https://www.marketwatch.com/story/its-an-expensive-piece-of-equipment-my-neighbor-asked-to-borrow-my-snowblower-do-i-say-yes-4ae68f4e?mod=mw_rss_topstories",
-            "summary": "“The projected snowfall this weekend doesn’t look to be changing too much,” says the National Weather Service. “It’s not going to change too much.”",
-            "date": "Sat, 24 Jan 2026 23:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ITS.AX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My sister is buying our parents’ $3 million house, but wants to deduct $100K for renovations. Who’s right?",
-            "link": "https://www.marketwatch.com/story/my-sister-is-buying-our-parents-3-million-house-but-wants-to-deduct-100k-for-renovations-whos-right-cd0e8129?mod=mw_rss_topstories",
-            "summary": "“If she didn’t want the home, it would have been sold at fair market value,” the mayor says.",
-            "date": "Sat, 24 Jan 2026 22:18:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Nearly 15,000 U.S. flights have been canceled due to the winter storm — and counting",
-            "link": "https://www.marketwatch.com/story/nearly-2-000-u-s-flights-have-already-been-canceled-ahead-of-winter-storm-b2f46de3?mod=mw_rss_topstories",
-            "summary": "Airlines have canceled nearly 15,000 flights due to a winter storm. The storm is expected to wallop two-thirds of the U.S. over the weekend.",
-            "date": "Sat, 24 Jan 2026 21:25:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NIFTYMIDCAP150.NS",
+            "stock_ticker": "TAX",
             "impact": "Neutral"
         }
     ]
