@@ -1,125 +1,125 @@
 {
-    "date": "2026-01-26",
+    "date": "2026-01-27",
     "news": [
         {
-            "title": "USA Rare Earth shares jump 20% as Commerce Department takes equity stake",
-            "link": "https://www.cnbc.com/2026/01/26/usa-rare-earth-shares-jump-20percent-as-commerce-department-takes-equity-stake.html",
-            "summary": "The capital infusion will help USA Rare Earth advance its plan for a magnet manufacturing plant and a mine at a rare earth deposit in Texas called Round Top.",
-            "date": "Mon, 26 Jan 2026 13:25:51 GMT",
+            "title": "Fed is likely to lower rates only two more times, even under Trump's next chair pick: CNBC Fed survey",
+            "link": "https://www.cnbc.com/2026/01/27/fed-is-likely-to-lower-rates-only-two-more-times-even-under-trumps-next-chair-pick-cnbc-fed-survey.html",
+            "summary": "Forecasters don't believe the next Fed chair installed by President Donald Trump will drive down overnight rates towards the low levels demanded by the president.",
+            "date": "Tue, 27 Jan 2026 13:16:43 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "USA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Alex Pretti killing: Minnesota CEOs, including UnitedHealth, Target, call for 'immediate deescalation'",
-            "link": "https://www.cnbc.com/2026/01/25/alex-pretti-ceo-minneapolis-minnesota.html",
-            "summary": "The Trump administration has surged federal law enforcement to the city. The move is to enforce its immigration crackdown and pursue allegations of widespread welfare fraud.",
-            "date": "Mon, 26 Jan 2026 13:33:58 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ALEX",
+            "stock_ticker": "ZQ=F",
             "impact": "Bearish"
         },
         {
-            "title": "CoreWeave stock jumps 10% as Nvidia invests $2 billion to expand AI data center capacity",
-            "link": "https://www.cnbc.com/2026/01/26/3coreweave-nvidia-stock-ai-data-centers.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Mon, 26 Jan 2026 13:37:14 GMT",
+            "title": "Pinterest laying off 15% of workforce in push toward AI roles and teams",
+            "link": "https://www.cnbc.com/2026/01/27/pinterest-layoffs-stock-ai.html",
+            "summary": "The company said it's \"reallocating resources\" to roles and teams focused on artificial intelligence. The company also said it was creating new roles for data scientists and data analysts.",
+            "date": "Tue, 27 Jan 2026 13:39:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CRWV",
+            "stock_ticker": "PINS",
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia set to supplant Apple as TSMC's top customer, signaling chip industry's 'changing dynamic'",
-            "link": "https://www.cnbc.com/2026/01/26/nvidia-set-to-supplant-apple-as-tsmcs-largest-customer.html",
-            "summary": "The positional swap will mark a fundamental shift in the semiconductor industry. The move reflects Nvidia's growing importance amid the AI infrastructure buildout.",
-            "date": "Mon, 26 Jan 2026 12:00:01 GMT",
+            "title": "All eyes are on Trump's reaction to the 'mother of all deals' between India and the EU",
+            "link": "https://www.cnbc.com/2026/01/27/trump-reaction-eu-india-trade-deal-fta.html",
+            "summary": "The trade deal is being widely seen as a strategic hedge against volatile U.S. trade policies. The deal is expected to be in place by the end of the year.",
+            "date": "Tue, 27 Jan 2026 12:12:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "ALL",
             "impact": "Neutral"
         },
         {
-            "title": "Memory chip shortage to last through 2027, semiconductor boss says",
-            "link": "https://www.cnbc.com/2026/01/26/memory-chip-shortage-synopsys-lenovo-ai-data-centers.html",
-            "summary": "The boom in AI data center building has caused a shortage of memory chips. The memory chips are also crucial for electronics like smartphones. The shortage is expected to last for at least a year.",
-            "date": "Mon, 26 Jan 2026 12:56:05 GMT",
+            "title": "Health insurers tumble after Trump administration proposes keeping Medicare Advantage rates flat next year",
+            "link": "https://www.cnbc.com/2026/01/26/health-insurers-tumble-after-trump-proposes-keeping-medicare-rates-flat.html",
+            "summary": "Humana, CVS Health and UnitedHealth Group plunge in extended trading. Shares of large Medicare plan providers Humana, U.S. Health and CVS plunge.",
+            "date": "Tue, 27 Jan 2026 00:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "4DS.XA",
+            "stock_ticker": "XAV=F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Blockbuster social media trial kicks off, with more to come this year",
+            "link": "https://www.cnbc.com/2026/01/27/blockbuster-social-media-trial-kicks-off-with-more-to-come-this-year.html",
+            "summary": "A landmark case against social media giants Meta, Alphabet's YouTube and TikTok is set to begin Tuesday in Los Angeles Superior Court. The case is expected to last several days.",
+            "date": "Tue, 27 Jan 2026 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "483030.KS",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Wall Street veteran who called the dot-com bust says the Magnificent Seven represent an even bigger bubble",
+            "link": "https://www.marketwatch.com/story/wall-street-veteran-who-called-the-dot-com-bust-sees-a-bigger-bubble-in-magnificent-7-868dfe23?mod=mw_rss_topstories",
+            "summary": "Investors are ignoring a whole bunch of high-earning companies for the sake of a few tech giants. Richard Bernstein says investors are ignoring these companies because they are too big.",
+            "date": "Tue, 27 Jan 2026 13:22:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WM.TO",
             "impact": "Neutral"
         },
         {
-            "title": "The market has cooled on tech. These are the trades to make now, says this strategist.",
-            "link": "https://www.marketwatch.com/story/caution-ahead-of-big-tech-earnings-means-these-are-the-trades-to-make-1b343472?mod=mw_rss_topstories",
-            "summary": "Microsoft, Apple and Apple have options to play Meta, Microsoft and Apple says Evercore ISI. Use options to game Meta,Microsoft and Apple is a popular way to play the game, Evercore says.",
-            "date": "Mon, 26 Jan 2026 13:37:00 GMT",
+            "title": "Boeing beats revenue expectations by a wide margin, as airplane deliveries nearly triple",
+            "link": "https://www.marketwatch.com/story/boeing-beats-revenue-expectations-by-a-wide-margin-as-airplane-deliveries-nearly-triple-b03367dc?mod=mw_rss_topstories",
+            "summary": "Boeing reported a surprisingly large fourth-quarter profit and beat revenue expectations by a wide margin. Boeing reported a Surprisingly Large fourth- quarter profit and beating revenue expectations.",
+            "date": "Tue, 27 Jan 2026 13:19:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "BTX39089-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Trump administration partners with another rare-earth company. Should you buy the stock?",
-            "link": "https://www.marketwatch.com/story/trump-administration-partners-with-another-rare-earth-company-should-you-buy-the-stock-ed09cf69?mod=mw_rss_topstories",
-            "summary": "USA Rare Earth’s stock soars after a partnership with the Trump administration. The partnership gives the rare-earth company access to $1.6 billion in funding.",
-            "date": "Mon, 26 Jan 2026 13:36:00 GMT",
+            "title": "Here’s how Microsoft can prove the doubters wrong this earnings season",
+            "link": "https://www.marketwatch.com/story/heres-how-microsoft-can-prove-the-doubters-wrong-this-earnings-season-7e4a5a18?mod=mw_rss_topstories",
+            "summary": "Microsoft can’t currently meet all is AI demand due to a shortage of graphics processing units. Increasing its cloud capacity is key for Microsoft.",
+            "date": "Tue, 27 Jan 2026 13:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s what investors want even more than a Fed interest-rate cut this week",
-            "link": "https://www.marketwatch.com/story/heres-what-investors-want-even-more-than-a-fed-interest-rate-cut-this-week-1279f03f?mod=mw_rss_topstories",
-            "summary": "Investors are rotating out of tech stocks and into other sectors of the market. The U.S. economy chugs along, and tech stocks are among the best-performing sectors.",
-            "date": "Mon, 26 Jan 2026 13:34:00 GMT",
+            "title": "This chart tracks the ‘single greatest predictor’ of stock-market returns — and it’s never done this before",
+            "link": "https://www.marketwatch.com/story/this-chart-tracks-the-single-greatest-predictor-of-stock-market-returns-and-its-never-done-this-before-171daf85?mod=mw_rss_topstories",
+            "summary": "Individual stock ownership is a contrarian indicator. It’s flashing a warning. It could be a sign of things to come in the stock market.",
+            "date": "Tue, 27 Jan 2026 13:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BD0.F",
+            "stock_ticker": "S2819.MC",
             "impact": "Neutral"
         },
         {
-            "title": "Michael Burry says Japanese yen recovery is a risk to U.S. stocks",
-            "link": "https://www.marketwatch.com/story/michael-burry-flags-risks-from-japan-yen-to-u-s-stocks-as-rate-check-stirs-debate-01c2c4f4?mod=mw_rss_topstories",
-            "summary": "The Big Short investor Michael Burry says the Japanese yen is due a reversal. A so-called “rate check’ stirred debate over whether an appreciation in the Asian currency’s country would bleed over into U.S. stocks.",
-            "date": "Mon, 26 Jan 2026 13:04:00 GMT",
+            "title": "American Airlines provides upbeat revenue outlook despite $200 million hit from winter storm",
+            "link": "https://www.marketwatch.com/story/american-airlines-provides-upbeat-revenue-outlook-despite-200-million-hit-from-winter-storm-af279bc7?mod=mw_rss_topstories",
+            "summary": "American Airlines' quarterly revenue missed expectations only because of the government shutdown. American Airlines’ stock rallied, as quarterly revenue missing expectations only due to the shutdown.",
+            "date": "Tue, 27 Jan 2026 12:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MHJ.AX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Tax refunds could be much bigger this year. But is that really a good thing?",
-            "link": "https://www.marketwatch.com/story/tax-refunds-could-be-much-bigger-this-year-but-is-that-really-a-good-thing-1171e95b?mod=mw_rss_topstories",
-            "summary": "Bank of America economist: Americans could see an extra $100 billion in tax refunds this year. Bank of America: Tax refunds could rise to $1.2 trillion.",
-            "date": "Mon, 26 Jan 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TAX",
-            "impact": "Neutral"
+            "stock_ticker": "PAAS",
+            "impact": "Bearish"
         }
     ]
 }
