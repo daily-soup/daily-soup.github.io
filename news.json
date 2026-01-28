@@ -1,125 +1,125 @@
 {
-    "date": "2026-01-27",
+    "date": "2026-01-28",
     "news": [
         {
-            "title": "Fed is likely to lower rates only two more times, even under Trump's next chair pick: CNBC Fed survey",
-            "link": "https://www.cnbc.com/2026/01/27/fed-is-likely-to-lower-rates-only-two-more-times-even-under-trumps-next-chair-pick-cnbc-fed-survey.html",
-            "summary": "Forecasters don't believe the next Fed chair installed by President Donald Trump will drive down overnight rates towards the low levels demanded by the president.",
-            "date": "Tue, 27 Jan 2026 13:16:43 GMT",
+            "title": "Amazon laying off about 16,000 corporate workers in latest anti-bureaucracy push",
+            "link": "https://www.cnbc.com/2026/01/28/amazon-layoffs-anti-bureaucracy-ai.html",
+            "summary": "The layoffs mark the second round of mass cuts at Amazon since last October. The company laid off roughly 14,000 employees across its corporate workforce.",
+            "date": "Wed, 28 Jan 2026 13:20:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZQ=F",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Pinterest laying off 15% of workforce in push toward AI roles and teams",
-            "link": "https://www.cnbc.com/2026/01/27/pinterest-layoffs-stock-ai.html",
-            "summary": "The company said it's \"reallocating resources\" to roles and teams focused on artificial intelligence. The company also said it was creating new roles for data scientists and data analysts.",
-            "date": "Tue, 27 Jan 2026 13:39:26 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PINS",
+            "stock_ticker": "AMZN",
             "impact": "Neutral"
         },
         {
-            "title": "All eyes are on Trump's reaction to the 'mother of all deals' between India and the EU",
-            "link": "https://www.cnbc.com/2026/01/27/trump-reaction-eu-india-trade-deal-fta.html",
-            "summary": "The trade deal is being widely seen as a strategic hedge against volatile U.S. trade policies. The deal is expected to be in place by the end of the year.",
-            "date": "Tue, 27 Jan 2026 12:12:03 GMT",
+            "title": "Chip stocks rally after bumper earnings and a report of a game-changing China approval for Nvidia",
+            "link": "https://www.cnbc.com/2026/01/28/global-chip-stocks-today-nvidia-china-asml-sk-hynix.html",
+            "summary": "China has approved sales of Nvidia's H200, sending the AI chip giant's shares higher in premarket trade. Reuters reported that China has approved Sales of Nvidia’s H200.",
+            "date": "Wed, 28 Jan 2026 13:21:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ALL",
+            "stock_ticker": "CMG",
             "impact": "Neutral"
         },
         {
-            "title": "Health insurers tumble after Trump administration proposes keeping Medicare Advantage rates flat next year",
-            "link": "https://www.cnbc.com/2026/01/26/health-insurers-tumble-after-trump-proposes-keeping-medicare-rates-flat.html",
-            "summary": "Humana, CVS Health and UnitedHealth Group plunge in extended trading. Shares of large Medicare plan providers Humana, U.S. Health and CVS plunge.",
-            "date": "Tue, 27 Jan 2026 00:43:00 GMT",
+            "title": "Starbucks stock rises as coffee chain's traffic grows for the first time in two years",
+            "link": "https://www.cnbc.com/2026/01/28/starbucks-is-about-to-report-earnings-heres-what-to-expect.html",
+            "summary": "Shares of Starbucks have fallen more than 3% over the last year. Starbucks shares are down more than 2% this year. The stock is up more than 1% in the last 12 months.",
+            "date": "Wed, 28 Jan 2026 12:53:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XAV=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Blockbuster social media trial kicks off, with more to come this year",
-            "link": "https://www.cnbc.com/2026/01/27/blockbuster-social-media-trial-kicks-off-with-more-to-come-this-year.html",
-            "summary": "A landmark case against social media giants Meta, Alphabet's YouTube and TikTok is set to begin Tuesday in Los Angeles Superior Court. The case is expected to last several days.",
-            "date": "Tue, 27 Jan 2026 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "483030.KS",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Wall Street veteran who called the dot-com bust says the Magnificent Seven represent an even bigger bubble",
-            "link": "https://www.marketwatch.com/story/wall-street-veteran-who-called-the-dot-com-bust-sees-a-bigger-bubble-in-magnificent-7-868dfe23?mod=mw_rss_topstories",
-            "summary": "Investors are ignoring a whole bunch of high-earning companies for the sake of a few tech giants. Richard Bernstein says investors are ignoring these companies because they are too big.",
-            "date": "Tue, 27 Jan 2026 13:22:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WM.TO",
+            "stock_ticker": "SBUX",
             "impact": "Neutral"
         },
         {
-            "title": "Boeing beats revenue expectations by a wide margin, as airplane deliveries nearly triple",
-            "link": "https://www.marketwatch.com/story/boeing-beats-revenue-expectations-by-a-wide-margin-as-airplane-deliveries-nearly-triple-b03367dc?mod=mw_rss_topstories",
-            "summary": "Boeing reported a surprisingly large fourth-quarter profit and beat revenue expectations by a wide margin. Boeing reported a Surprisingly Large fourth- quarter profit and beating revenue expectations.",
-            "date": "Tue, 27 Jan 2026 13:19:00 GMT",
+            "title": "Southwest ends open seating after 54 years. Here's what the last flight was like",
+            "link": "https://www.cnbc.com/2026/01/28/southwest-airlines-ends-open-seating.html",
+            "summary": "Southwest Airlines replaced open seating with assigned seats after more than 50 years. Southwest Airlines replacedOpen seating with assignable seats for the first time in 1968. The airline has been changing its seating plans for more than half a century.",
+            "date": "Wed, 28 Jan 2026 13:22:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BTX39089-USD",
+            "stock_ticker": "LUV",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s how Microsoft can prove the doubters wrong this earnings season",
-            "link": "https://www.marketwatch.com/story/heres-how-microsoft-can-prove-the-doubters-wrong-this-earnings-season-7e4a5a18?mod=mw_rss_topstories",
-            "summary": "Microsoft can’t currently meet all is AI demand due to a shortage of graphics processing units. Increasing its cloud capacity is key for Microsoft.",
-            "date": "Tue, 27 Jan 2026 13:05:00 GMT",
+            "title": "The Fed releases its latest interest rate decision Wednesday. Here's what to expect",
+            "link": "https://www.cnbc.com/2026/01/27/fed-preview-january-2026.html",
+            "summary": "This week's meeting offers little suspense and probably not much action, even as massive changes loom over the Fed's longer-term direction.",
+            "date": "Tue, 27 Jan 2026 19:43:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "TSCM",
             "impact": "Neutral"
         },
         {
-            "title": "This chart tracks the ‘single greatest predictor’ of stock-market returns — and it’s never done this before",
-            "link": "https://www.marketwatch.com/story/this-chart-tracks-the-single-greatest-predictor-of-stock-market-returns-and-its-never-done-this-before-171daf85?mod=mw_rss_topstories",
-            "summary": "Individual stock ownership is a contrarian indicator. It’s flashing a warning. It could be a sign of things to come in the stock market.",
-            "date": "Tue, 27 Jan 2026 13:05:00 GMT",
+            "title": "‘I‘m facing an ethical dilemma’: My widowed mother is cutting my step siblings out of the family trust. Do I have a responsibility?",
+            "link": "https://www.marketwatch.com/story/im-facing-an-ethical-dilemma-my-widowed-mother-is-cutting-my-step-siblings-out-of-the-family-trust-do-i-have-an-ethical-responsibility-59e60ffb?mod=mw_rss_topstories",
+            "summary": "“My mother has now hired an attorney to revise the trust and remove her late husband’s children as beneficiaries,” her son says.",
+            "date": "Wed, 28 Jan 2026 13:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "S2819.MC",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "American Airlines provides upbeat revenue outlook despite $200 million hit from winter storm",
-            "link": "https://www.marketwatch.com/story/american-airlines-provides-upbeat-revenue-outlook-despite-200-million-hit-from-winter-storm-af279bc7?mod=mw_rss_topstories",
-            "summary": "American Airlines' quarterly revenue missed expectations only because of the government shutdown. American Airlines’ stock rallied, as quarterly revenue missing expectations only due to the shutdown.",
-            "date": "Tue, 27 Jan 2026 12:58:00 GMT",
+            "title": "Deutsche Bank’s offices raided, reportedly over allegations tied to Roman Abramovich",
+            "link": "https://www.marketwatch.com/story/deutsche-banks-offices-raided-reportedly-over-allegations-tied-to-roman-abramovich-ebdeb104?mod=mw_rss_topstories",
+            "summary": "Germany’s federal criminal police office on Wednesday carried out a raid on the country's largest bank, Deutsche Bank. The raid was reportedly on money-laundering allegations tied to Russian magnate Roman Abramovich.",
+            "date": "Wed, 28 Jan 2026 13:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PAAS",
-            "impact": "Bearish"
+            "stock_ticker": "DBK.DE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Starbucks rewards investors with another quarter of growth in a key sales metric",
+            "link": "https://www.marketwatch.com/story/starbucks-rewards-investors-with-another-quarter-of-growth-in-a-key-sales-metric-07ac6e69?mod=mw_rss_topstories",
+            "summary": "Starbucks said growth in stores open at least 13 months was much better than expected. The stock was headed toward a 10-month high.",
+            "date": "Wed, 28 Jan 2026 13:21:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SBUX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These stocks are the market’s new momentum plays as Big Tech loses steam",
+            "link": "https://www.marketwatch.com/story/these-stocks-are-the-markets-new-momentum-plays-as-big-tech-loses-steam-64705b8c?mod=mw_rss_topstories",
+            "summary": "A veteran money manager shares his top picks. Share your top picks with CNN iReport by sending us a picture of your best investment ideas. Send your best picks to: jennifer.smith@cnn.com.",
+            "date": "Wed, 28 Jan 2026 13:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001YPM3.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why this hedge-fund veteran says investors should own both high-flying gold and the sinking U.S. dollar",
+            "link": "https://www.marketwatch.com/story/why-this-hedge-fund-veteran-says-investors-should-own-both-high-flying-gold-and-the-sinking-u-s-dollar-f2656ffc?mod=mw_rss_topstories",
+            "summary": "Former head of commodities at Bridgewater says current dollar “freakout is overblown” Own dollar and gold,  he advises.",
+            "date": "Wed, 28 Jan 2026 13:09:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "3823.T",
+            "impact": "Neutral"
         }
     ]
 }
