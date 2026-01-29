@@ -1,124 +1,124 @@
 {
-    "date": "2026-01-28",
+    "date": "2026-01-29",
     "news": [
         {
-            "title": "Amazon laying off about 16,000 corporate workers in latest anti-bureaucracy push",
-            "link": "https://www.cnbc.com/2026/01/28/amazon-layoffs-anti-bureaucracy-ai.html",
-            "summary": "The layoffs mark the second round of mass cuts at Amazon since last October. The company laid off roughly 14,000 employees across its corporate workforce.",
-            "date": "Wed, 28 Jan 2026 13:20:54 GMT",
+            "title": "‘Climate of fear’: ICE violence in Minnesota forces CEOs to weigh the risks of speaking out against Trump",
+            "link": "https://www.cnbc.com/2026/01/29/trump-minnesota-ice-action-ceos-speaking-out.html",
+            "summary": "Minneapolis has become a testing ground for when and how far corporate leaders will wade into escalating political tensions. Minneapolis has become theTesting Ground for When and How far Corporate leaders Will wade in.",
+            "date": "Thu, 29 Jan 2026 13:25:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMZN",
+            "stock_ticker": "PABW.PA",
             "impact": "Neutral"
         },
         {
-            "title": "Chip stocks rally after bumper earnings and a report of a game-changing China approval for Nvidia",
-            "link": "https://www.cnbc.com/2026/01/28/global-chip-stocks-today-nvidia-china-asml-sk-hynix.html",
-            "summary": "China has approved sales of Nvidia's H200, sending the AI chip giant's shares higher in premarket trade. Reuters reported that China has approved Sales of Nvidia’s H200.",
-            "date": "Wed, 28 Jan 2026 13:21:37 GMT",
+            "title": "Oil prices rise more than 2% as Trump weighs strikes on Iran",
+            "link": "https://www.cnbc.com/2026/01/29/oil-prices-rise-more-than-2percent-as-trump-weighs-strikes-on-iran.html",
+            "summary": "Multiple sources told Reuters that Trump is weighing targeted strikes on Iranian security forces and leaders. Trump is believed to be considering strikes to inspire protestors.",
+            "date": "Thu, 29 Jan 2026 13:51:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CMG",
+            "stock_ticker": "CL=F",
             "impact": "Neutral"
         },
         {
-            "title": "Starbucks stock rises as coffee chain's traffic grows for the first time in two years",
-            "link": "https://www.cnbc.com/2026/01/28/starbucks-is-about-to-report-earnings-heres-what-to-expect.html",
-            "summary": "Shares of Starbucks have fallen more than 3% over the last year. Starbucks shares are down more than 2% this year. The stock is up more than 1% in the last 12 months.",
-            "date": "Wed, 28 Jan 2026 12:53:53 GMT",
+            "title": "Government shutdown: Republicans consider escape hatch as Congress careens toward deadline",
+            "link": "https://www.cnbc.com/2026/01/28/government-shutdown-republicans-mull-escape-hatch-.html",
+            "summary": "The U.S. government is poised to shut down early Saturday morning unless Congress approves spending measures. Much of the U.N. Security Council is expected to vote on a resolution to keep the government open.",
+            "date": "Thu, 29 Jan 2026 12:57:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SBUX",
+            "stock_ticker": "GOTXX",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Meta's Mark Zuckerberg gets green light from Wall Street to keep pouring money into AI",
+            "link": "https://www.cnbc.com/2026/01/28/metas-zuckerberg-gets-green-light-from-wall-street-to-invest-in-ai.html",
+            "summary": " Meta's stock pop following the company's latest earnings beat is a sign that investors are OK with hefty AI spending as long as the core business stays strong.",
+            "date": "Thu, 29 Jan 2026 13:28:39 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "8637.HK",
             "impact": "Neutral"
         },
         {
-            "title": "Southwest ends open seating after 54 years. Here's what the last flight was like",
-            "link": "https://www.cnbc.com/2026/01/28/southwest-airlines-ends-open-seating.html",
-            "summary": "Southwest Airlines replaced open seating with assigned seats after more than 50 years. Southwest Airlines replacedOpen seating with assignable seats for the first time in 1968. The airline has been changing its seating plans for more than half a century.",
-            "date": "Wed, 28 Jan 2026 13:22:27 GMT",
+            "title": "Comcast posts mixed quarter as broadband pressures weigh on business",
+            "link": "https://www.cnbc.com/2026/01/29/comcast-cmcsa-earnings-q4-2025.html",
+            "summary": "Comcast’s broadband business continues to be under pressure due to the rise of competitors, particularly in the 5G space. The company is expected to make a profit for the first time since 2010.",
+            "date": "Thu, 29 Jan 2026 13:11:10 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LUV",
+            "stock_ticker": "CMCSA",
             "impact": "Neutral"
         },
         {
-            "title": "The Fed releases its latest interest rate decision Wednesday. Here's what to expect",
-            "link": "https://www.cnbc.com/2026/01/27/fed-preview-january-2026.html",
-            "summary": "This week's meeting offers little suspense and probably not much action, even as massive changes loom over the Fed's longer-term direction.",
-            "date": "Tue, 27 Jan 2026 19:43:34 GMT",
+            "title": "Central banks have actually slowed their purchases of gold, but investors have more than made up the difference",
+            "link": "https://www.marketwatch.com/story/central-banks-have-actually-slowed-their-purchases-of-gold-but-investors-have-more-than-made-up-the-difference-cc3dc11d?mod=mw_rss_topstories",
+            "summary": "Total demand for gold smashed records last year, the World Gold Council said. But central-bank interest has a strong rival, the council said.",
+            "date": "Thu, 29 Jan 2026 13:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSCM",
+            "stock_ticker": "BBCA.JK",
             "impact": "Neutral"
         },
         {
-            "title": "‘I‘m facing an ethical dilemma’: My widowed mother is cutting my step siblings out of the family trust. Do I have a responsibility?",
-            "link": "https://www.marketwatch.com/story/im-facing-an-ethical-dilemma-my-widowed-mother-is-cutting-my-step-siblings-out-of-the-family-trust-do-i-have-an-ethical-responsibility-59e60ffb?mod=mw_rss_topstories",
-            "summary": "“My mother has now hired an attorney to revise the trust and remove her late husband’s children as beneficiaries,” her son says.",
-            "date": "Wed, 28 Jan 2026 13:33:00 GMT",
+            "title": "Gold’s soaring so fast it’s topped Goldman target set only last week. Now a JPMorgan analyst plots path to $8,500.",
+            "link": "https://www.marketwatch.com/story/golds-soaring-so-fast-its-topped-goldman-target-set-only-last-week-now-a-jpmorgan-analyst-plots-path-to-8-500-bfd3e1fc?mod=mw_rss_topstories",
+            "summary": "A JPMorgan strategist calculates impact on gold prices were households to swap out bonds for the yelllow metal in balanced portfolios. A JPMorgan Strategist calculates impact of gold prices on households.",
+            "date": "Thu, 29 Jan 2026 13:32:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "GSKR.V",
             "impact": "Neutral"
         },
         {
-            "title": "Deutsche Bank’s offices raided, reportedly over allegations tied to Roman Abramovich",
-            "link": "https://www.marketwatch.com/story/deutsche-banks-offices-raided-reportedly-over-allegations-tied-to-roman-abramovich-ebdeb104?mod=mw_rss_topstories",
-            "summary": "Germany’s federal criminal police office on Wednesday carried out a raid on the country's largest bank, Deutsche Bank. The raid was reportedly on money-laundering allegations tied to Russian magnate Roman Abramovich.",
-            "date": "Wed, 28 Jan 2026 13:27:00 GMT",
+            "title": "Surprisingly strong software growth sends IBM’s stock surging",
+            "link": "https://www.marketwatch.com/story/surprisingly-strong-software-growth-sends-ibm-stock-surging-e4f02a75?mod=mw_rss_topstories",
+            "summary": "IBM shares surged in early trade on Thursday. Surprisingly strong software growth sent IBM shares surging. IBM shares surged more than 7% in early trading.",
+            "date": "Thu, 29 Jan 2026 13:23:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DBK.DE",
+            "stock_ticker": "001279.SZ",
             "impact": "Neutral"
         },
         {
-            "title": "Starbucks rewards investors with another quarter of growth in a key sales metric",
-            "link": "https://www.marketwatch.com/story/starbucks-rewards-investors-with-another-quarter-of-growth-in-a-key-sales-metric-07ac6e69?mod=mw_rss_topstories",
-            "summary": "Starbucks said growth in stores open at least 13 months was much better than expected. The stock was headed toward a 10-month high.",
-            "date": "Wed, 28 Jan 2026 13:21:00 GMT",
+            "title": "Here’s what 2026 could look like for Levi’s: more dresses, less denim and an AI ‘stylist’",
+            "link": "https://www.marketwatch.com/story/more-tops-more-dresses-and-an-ai-stylist-heres-what-2026-could-look-like-for-levis-085054cf?mod=mw_rss_topstories",
+            "summary": "Levi’s sees sales of tops, dresses and non-denim bottoms growing fast. Levi's: Sales of tops and dresses are on the rise. Sales of bottoms are down, but sales of pants are up.",
+            "date": "Thu, 29 Jan 2026 13:11:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SBUX",
+            "stock_ticker": "BD0.F",
             "impact": "Neutral"
         },
         {
-            "title": "These stocks are the market’s new momentum plays as Big Tech loses steam",
-            "link": "https://www.marketwatch.com/story/these-stocks-are-the-markets-new-momentum-plays-as-big-tech-loses-steam-64705b8c?mod=mw_rss_topstories",
-            "summary": "A veteran money manager shares his top picks. Share your top picks with CNN iReport by sending us a picture of your best investment ideas. Send your best picks to: jennifer.smith@cnn.com.",
-            "date": "Wed, 28 Jan 2026 13:15:00 GMT",
+            "title": "Data-center demand helps Caterpillar to best quarter ever — but there’s a tariff sting",
+            "link": "https://www.marketwatch.com/story/data-center-demand-helps-caterpillar-to-best-quarter-ever-but-theres-a-tariff-sting-708017c0?mod=mw_rss_topstories",
+            "summary": "Caterpillar’s backlog increased by 71% from a year ago, reaching a record for the construction-machinery maker.",
+            "date": "Thu, 29 Jan 2026 13:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001YPM3.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why this hedge-fund veteran says investors should own both high-flying gold and the sinking U.S. dollar",
-            "link": "https://www.marketwatch.com/story/why-this-hedge-fund-veteran-says-investors-should-own-both-high-flying-gold-and-the-sinking-u-s-dollar-f2656ffc?mod=mw_rss_topstories",
-            "summary": "Former head of commodities at Bridgewater says current dollar “freakout is overblown” Own dollar and gold,  he advises.",
-            "date": "Wed, 28 Jan 2026 13:09:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "3823.T",
+            "stock_ticker": "DTCR",
             "impact": "Neutral"
         }
     ]
