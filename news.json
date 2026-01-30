@@ -1,124 +1,124 @@
 {
-    "date": "2026-01-29",
+    "date": "2026-01-30",
     "news": [
         {
-            "title": "‘Climate of fear’: ICE violence in Minnesota forces CEOs to weigh the risks of speaking out against Trump",
-            "link": "https://www.cnbc.com/2026/01/29/trump-minnesota-ice-action-ceos-speaking-out.html",
-            "summary": "Minneapolis has become a testing ground for when and how far corporate leaders will wade into escalating political tensions. Minneapolis has become theTesting Ground for When and How far Corporate leaders Will wade in.",
-            "date": "Thu, 29 Jan 2026 13:25:01 GMT",
+            "title": "Trump nominates Kevin Warsh for Federal Reserve chair to succeed Jerome Powell",
+            "link": "https://www.cnbc.com/2026/01/30/trump-nominates-kevin-warsh-for-federal-reserve-chair-to-succeed-jerome-powell.html",
+            "summary": "President Trump named Kevin Warsh to succeed Jerome Powell as Fed chair. Warsh's appointment ends an odyssey that has seen unprecedented turmoil around the central bank.",
+            "date": "Fri, 30 Jan 2026 13:43:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PABW.PA",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Oil prices rise more than 2% as Trump weighs strikes on Iran",
-            "link": "https://www.cnbc.com/2026/01/29/oil-prices-rise-more-than-2percent-as-trump-weighs-strikes-on-iran.html",
-            "summary": "Multiple sources told Reuters that Trump is weighing targeted strikes on Iranian security forces and leaders. Trump is believed to be considering strikes to inspire protestors.",
-            "date": "Thu, 29 Jan 2026 13:51:26 GMT",
+            "title": "Ford to record $600 million pretax pension charge in fourth quarter",
+            "link": "https://www.cnbc.com/2026/01/30/ford-q4-earnings-pension-charge.html",
+            "summary": "Ford will report a pretax charge of $600 million in its fourth quarter results. The charge is due to adjustments to employee pension plans and other postretirement benefits.",
+            "date": "Fri, 30 Jan 2026 13:03:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "F",
             "impact": "Neutral"
         },
         {
-            "title": "Government shutdown: Republicans consider escape hatch as Congress careens toward deadline",
-            "link": "https://www.cnbc.com/2026/01/28/government-shutdown-republicans-mull-escape-hatch-.html",
-            "summary": "The U.S. government is poised to shut down early Saturday morning unless Congress approves spending measures. Much of the U.N. Security Council is expected to vote on a resolution to keep the government open.",
-            "date": "Thu, 29 Jan 2026 12:57:05 GMT",
+            "title": "Gold and Silver tumble as Trump's Fed Chair pick Warsh seen as preserving central bank independence",
+            "link": "https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html",
+            "summary": "Gold and silver prices plunged on Friday, following weeks of gains as investors poured money into safe havens. Gold and silver Prices plunged on Thursday and Friday, respectively.",
+            "date": "Fri, 30 Jan 2026 12:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOTXX",
+            "stock_ticker": "GOLD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump backs Senate government funding deal that includes DHS extension",
+            "link": "https://www.cnbc.com/2026/01/29/trump-congress-government-shutdown.html",
+            "summary": "President Donald Trump's endorsement of a Senate spending deal will likely pave the way to its passage. The deal would avert another lengthy government shutdown. The Senate is expected to vote on the bill this week.",
+            "date": "Fri, 30 Jan 2026 02:50:28 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
             "impact": "Bearish"
         },
         {
-            "title": "Meta's Mark Zuckerberg gets green light from Wall Street to keep pouring money into AI",
-            "link": "https://www.cnbc.com/2026/01/28/metas-zuckerberg-gets-green-light-from-wall-street-to-invest-in-ai.html",
-            "summary": " Meta's stock pop following the company's latest earnings beat is a sign that investors are OK with hefty AI spending as long as the core business stays strong.",
-            "date": "Thu, 29 Jan 2026 13:28:39 GMT",
+            "title": "Hollywood has an IP problem: Box office sales are banking on franchise hits that keep falling flat",
+            "link": "https://www.cnbc.com/2026/01/30/hollywood-ip-franchise-hits-keep-falling-flat-weighing-on-box-office.html",
+            "summary": "Big-name installments like \"Wicked: For Good\" and \"Avatar: Fire and Ash\" have been underperforming ticket sales expectations.",
+            "date": "Fri, 30 Jan 2026 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "8637.HK",
+            "stock_ticker": "2022.HK",
             "impact": "Neutral"
         },
         {
-            "title": "Comcast posts mixed quarter as broadband pressures weigh on business",
-            "link": "https://www.cnbc.com/2026/01/29/comcast-cmcsa-earnings-q4-2025.html",
-            "summary": "Comcast’s broadband business continues to be under pressure due to the rise of competitors, particularly in the 5G space. The company is expected to make a profit for the first time since 2010.",
-            "date": "Thu, 29 Jan 2026 13:11:10 GMT",
+            "title": "Exxon, Chevron are producing record amounts of oil, but lower prices led to lower earnings",
+            "link": "https://www.marketwatch.com/story/exxon-chevron-are-producing-oil-at-record-rates-but-lower-prices-led-to-lower-earnings-6ce129fe?mod=mw_rss_topstories",
+            "summary": "The two U.S. integrated giants reported quarterly earnings with Venezuela in focus. The two companies reported quarterly results with Venezuela as a focus.",
+            "date": "Fri, 30 Jan 2026 13:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CMCSA",
+            "stock_ticker": "XOM",
             "impact": "Neutral"
         },
         {
-            "title": "Central banks have actually slowed their purchases of gold, but investors have more than made up the difference",
-            "link": "https://www.marketwatch.com/story/central-banks-have-actually-slowed-their-purchases-of-gold-but-investors-have-more-than-made-up-the-difference-cc3dc11d?mod=mw_rss_topstories",
-            "summary": "Total demand for gold smashed records last year, the World Gold Council said. But central-bank interest has a strong rival, the council said.",
-            "date": "Thu, 29 Jan 2026 13:43:00 GMT",
+            "title": "This Trump trade returned 29% in six months — but its authors say it’s time for a big change.",
+            "link": "https://www.marketwatch.com/story/this-trump-trade-returned-29-in-six-months-but-its-authors-say-its-time-for-a-big-change-49092e07?mod=mw_rss_topstories",
+            "summary": "Miners and rare earth plays boosted gains for a strategy devised by Ned Davis Research. The strategy was devised to help investors make money on rare earths.",
+            "date": "Fri, 30 Jan 2026 13:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBCA.JK",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         },
         {
-            "title": "Gold’s soaring so fast it’s topped Goldman target set only last week. Now a JPMorgan analyst plots path to $8,500.",
-            "link": "https://www.marketwatch.com/story/golds-soaring-so-fast-its-topped-goldman-target-set-only-last-week-now-a-jpmorgan-analyst-plots-path-to-8-500-bfd3e1fc?mod=mw_rss_topstories",
-            "summary": "A JPMorgan strategist calculates impact on gold prices were households to swap out bonds for the yelllow metal in balanced portfolios. A JPMorgan Strategist calculates impact of gold prices on households.",
-            "date": "Thu, 29 Jan 2026 13:32:00 GMT",
+            "title": "Most of us make assumptions about growth and value stocks. Here’s what we get wrong.",
+            "link": "https://www.marketwatch.com/story/most-of-us-make-assumptions-about-growth-and-value-stocks-heres-what-we-get-wrong-19da9b31?mod=mw_rss_topstories",
+            "summary": "Reading too much into short-term market moves can land you in trouble. Read more at CNN.com/sport and follow CNN Living on Facebook and Twitter.",
+            "date": "Fri, 30 Jan 2026 13:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GSKR.V",
+            "stock_ticker": "1716.HK",
             "impact": "Neutral"
         },
         {
-            "title": "Surprisingly strong software growth sends IBM’s stock surging",
-            "link": "https://www.marketwatch.com/story/surprisingly-strong-software-growth-sends-ibm-stock-surging-e4f02a75?mod=mw_rss_topstories",
-            "summary": "IBM shares surged in early trade on Thursday. Surprisingly strong software growth sent IBM shares surging. IBM shares surged more than 7% in early trading.",
-            "date": "Thu, 29 Jan 2026 13:23:00 GMT",
+            "title": "Amex sees strong travel and luxury spending as affluent customers open their wallets",
+            "link": "https://www.marketwatch.com/story/amex-sees-strong-travel-and-luxury-spending-as-affluent-customers-open-their-wallets-eab1c12b?mod=mw_rss_topstories",
+            "summary": "Amex sees spending rise, as its cardholders are ‘enjoying life’ and getting ready to travel. Amex: ‘Our customers are spending more because they’re enjoying life.’",
+            "date": "Fri, 30 Jan 2026 13:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "001279.SZ",
+            "stock_ticker": "AMX.V",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s what 2026 could look like for Levi’s: more dresses, less denim and an AI ‘stylist’",
-            "link": "https://www.marketwatch.com/story/more-tops-more-dresses-and-an-ai-stylist-heres-what-2026-could-look-like-for-levis-085054cf?mod=mw_rss_topstories",
-            "summary": "Levi’s sees sales of tops, dresses and non-denim bottoms growing fast. Levi's: Sales of tops and dresses are on the rise. Sales of bottoms are down, but sales of pants are up.",
-            "date": "Thu, 29 Jan 2026 13:11:00 GMT",
+            "title": "This is the No. 1 thing Americans worry about being able to afford in retirement — and it’s not food or housing",
+            "link": "https://www.marketwatch.com/story/this-is-the-no-1-thing-americans-worry-about-being-able-to-afford-in-retirement-and-its-not-food-or-housing-4f5fe40c?mod=mw_rss_topstories",
+            "summary": "Some say worries will impact how they vote in the midterm elections. Some say they are worried about the economy and how it will affect their vote.",
+            "date": "Fri, 30 Jan 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BD0.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Data-center demand helps Caterpillar to best quarter ever — but there’s a tariff sting",
-            "link": "https://www.marketwatch.com/story/data-center-demand-helps-caterpillar-to-best-quarter-ever-but-theres-a-tariff-sting-708017c0?mod=mw_rss_topstories",
-            "summary": "Caterpillar’s backlog increased by 71% from a year ago, reaching a record for the construction-machinery maker.",
-            "date": "Thu, 29 Jan 2026 13:06:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DTCR",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         }
     ]
