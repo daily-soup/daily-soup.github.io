@@ -1,124 +1,124 @@
 {
-    "date": "2026-01-30",
+    "date": "2026-01-31",
     "news": [
         {
-            "title": "Trump nominates Kevin Warsh for Federal Reserve chair to succeed Jerome Powell",
-            "link": "https://www.cnbc.com/2026/01/30/trump-nominates-kevin-warsh-for-federal-reserve-chair-to-succeed-jerome-powell.html",
-            "summary": "President Trump named Kevin Warsh to succeed Jerome Powell as Fed chair. Warsh's appointment ends an odyssey that has seen unprecedented turmoil around the central bank.",
-            "date": "Fri, 30 Jan 2026 13:43:50 GMT",
+            "title": "Everything you need to know about Kevin Warsh, Trump's pick to lead the Federal Reserve",
+            "link": "https://www.cnbc.com/2026/01/30/who-is-kevin-warsh-trumps-fed-chair-pick.html",
+            "summary": "Kevin Warsh, a former Fed governor, has emerged as Donald Trump's pick to lead the Federal Reserve. Here’s his background, views and why it matters.",
+            "date": "Fri, 30 Jan 2026 18:28:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "EBZT",
             "impact": "Neutral"
         },
         {
-            "title": "Ford to record $600 million pretax pension charge in fourth quarter",
-            "link": "https://www.cnbc.com/2026/01/30/ford-q4-earnings-pension-charge.html",
-            "summary": "Ford will report a pretax charge of $600 million in its fourth quarter results. The charge is due to adjustments to employee pension plans and other postretirement benefits.",
-            "date": "Fri, 30 Jan 2026 13:03:19 GMT",
+            "title": "U.S. government partially shuts down; House vote could reopen it by Monday",
+            "link": "https://www.cnbc.com/2026/01/30/government-shutdown-senate-vote-dhs.html",
+            "summary": "The funding deal addresses concerns Democrats have about funding the Department of Homeland Security. Democrats have concerns about funding Homeland Security because of enforcement actions in Minnesota.",
+            "date": "Sat, 31 Jan 2026 05:01:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "F",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Gold and Silver tumble as Trump's Fed Chair pick Warsh seen as preserving central bank independence",
-            "link": "https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html",
-            "summary": "Gold and silver prices plunged on Friday, following weeks of gains as investors poured money into safe havens. Gold and silver Prices plunged on Thursday and Friday, respectively.",
-            "date": "Fri, 30 Jan 2026 12:59:00 GMT",
+            "title": "Big Food gets leaner with divestitures and breakups as consumers turn away from packaged snacks",
+            "link": "https://www.cnbc.com/2026/01/31/kraft-heinz-kellogg-breakups-show-big-food-is-getting-smaller.html",
+            "summary": "Big Food has been selling off underperforming brands or even splitting up, as the industry faces weaker demand. Big Food has sold off underperformers or even split up.",
+            "date": "Sat, 31 Jan 2026 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOLD",
+            "stock_ticker": "BBAI",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Epstein files show Elon Musk apparently discussed plans to visit sex offender's island, host him at SpaceX",
+            "link": "https://www.cnbc.com/2026/01/30/epstein-files-show-elon-musk-planned-visit-to-island-host-at-spacex.html",
+            "summary": "Elon Musk corresponded with Jeffrey Epstein in 2012 and 2013, according to newly released files. Musk sought to visit Epstein's island and host him at SpaceX.",
+            "date": "Sat, 31 Jan 2026 05:56:33 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "9068.T",
             "impact": "Neutral"
         },
         {
-            "title": "Trump backs Senate government funding deal that includes DHS extension",
-            "link": "https://www.cnbc.com/2026/01/29/trump-congress-government-shutdown.html",
-            "summary": "President Donald Trump's endorsement of a Senate spending deal will likely pave the way to its passage. The deal would avert another lengthy government shutdown. The Senate is expected to vote on the bill this week.",
-            "date": "Fri, 30 Jan 2026 02:50:28 GMT",
+            "title": "Is 'America First' starting to backfire as Washington's allies go it alone?",
+            "link": "https://www.cnbc.com/2026/01/31/trump-america-first-policy-tariffs-hostility-backfire-trade-deals.html",
+            "summary": "Trump's volatility and unpredictability, as well as tariffs and territorial threats, have spooked erstwhile allies. Trump's unpredictability has spooked some of America's closest allies.",
+            "date": "Sat, 31 Jan 2026 09:03:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Hollywood has an IP problem: Box office sales are banking on franchise hits that keep falling flat",
-            "link": "https://www.cnbc.com/2026/01/30/hollywood-ip-franchise-hits-keep-falling-flat-weighing-on-box-office.html",
-            "summary": "Big-name installments like \"Wicked: For Good\" and \"Avatar: Fire and Ash\" have been underperforming ticket sales expectations.",
-            "date": "Fri, 30 Jan 2026 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "2022.HK",
+            "stock_ticker": "ISKHUX=X",
             "impact": "Neutral"
         },
         {
-            "title": "Exxon, Chevron are producing record amounts of oil, but lower prices led to lower earnings",
-            "link": "https://www.marketwatch.com/story/exxon-chevron-are-producing-oil-at-record-rates-but-lower-prices-led-to-lower-earnings-6ce129fe?mod=mw_rss_topstories",
-            "summary": "The two U.S. integrated giants reported quarterly earnings with Venezuela in focus. The two companies reported quarterly results with Venezuela as a focus.",
-            "date": "Fri, 30 Jan 2026 13:43:00 GMT",
+            "title": "These overlooked stocks are a backdoor way to play the AI chip boom",
+            "link": "https://www.marketwatch.com/story/these-overlooked-stocks-are-a-backdoor-way-to-play-the-ai-chip-boom-7157eab9?mod=mw_rss_topstories",
+            "summary": "Entegris and Qnity benefit from both the AI frenzy and a broader chip-sector recovery. The materials suppliers aren’t household names, but they benefit from the chip- sector recovery.",
+            "date": "Sat, 31 Jan 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XOM",
+            "stock_ticker": "0P0001YPM3.L",
+            "impact": "Bullish"
+        },
+        {
+            "title": "My pension enables me to delay Social Security benefits. What if I want survivor benefits sooner?",
+            "link": "https://www.marketwatch.com/story/my-pension-enables-me-to-delay-social-security-benefits-what-if-i-want-survivor-benefits-sooner-79a0184d?mod=mw_rss_topstories",
+            "summary": "”I have a higher monthly pension benefit until my Full Retirement Age of 67. ”I  have  a higher Monthly Pension benefit until I am 67.”",
+            "date": "Sat, 31 Jan 2026 13:03:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "This Trump trade returned 29% in six months — but its authors say it’s time for a big change.",
-            "link": "https://www.marketwatch.com/story/this-trump-trade-returned-29-in-six-months-but-its-authors-say-its-time-for-a-big-change-49092e07?mod=mw_rss_topstories",
-            "summary": "Miners and rare earth plays boosted gains for a strategy devised by Ned Davis Research. The strategy was devised to help investors make money on rare earths.",
-            "date": "Fri, 30 Jan 2026 13:33:00 GMT",
+            "title": "‘I’m rich in everything but parents’: I inherited $400K. Is it unwise to use this money to buy a house with my boyfriend?",
+            "link": "https://www.marketwatch.com/story/im-rich-in-everything-but-parents-i-inherited-400k-is-it-unwise-to-use-this-money-to-buy-a-house-with-my-boyfriend-37837138?mod=mw_rss_topstories",
+            "summary": "“I’m a 40-year-old woman in a committed relationship, and I’ve experienced the loss of both of my parents,” she said.",
+            "date": "Sat, 31 Jan 2026 13:01:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "QTI",
             "impact": "Neutral"
         },
         {
-            "title": "Most of us make assumptions about growth and value stocks. Here’s what we get wrong.",
-            "link": "https://www.marketwatch.com/story/most-of-us-make-assumptions-about-growth-and-value-stocks-heres-what-we-get-wrong-19da9b31?mod=mw_rss_topstories",
-            "summary": "Reading too much into short-term market moves can land you in trouble. Read more at CNN.com/sport and follow CNN Living on Facebook and Twitter.",
-            "date": "Fri, 30 Jan 2026 13:10:00 GMT",
+            "title": "Buy Microsoft’s stock while it’s down? First ask yourself this question.",
+            "link": "https://www.marketwatch.com/story/buy-microsofts-stock-while-its-down-first-ask-yourself-this-question-22425bba?mod=mw_rss_topstories",
+            "summary": "Microsoft’s stock is potentially compelling for long-term investors who believe the business is fundamentally “better than average,” a portfolio manager says.",
+            "date": "Sat, 31 Jan 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "1716.HK",
+            "stock_ticker": "BBY",
             "impact": "Neutral"
         },
         {
-            "title": "Amex sees strong travel and luxury spending as affluent customers open their wallets",
-            "link": "https://www.marketwatch.com/story/amex-sees-strong-travel-and-luxury-spending-as-affluent-customers-open-their-wallets-eab1c12b?mod=mw_rss_topstories",
-            "summary": "Amex sees spending rise, as its cardholders are ‘enjoying life’ and getting ready to travel. Amex: ‘Our customers are spending more because they’re enjoying life.’",
-            "date": "Fri, 30 Jan 2026 13:04:00 GMT",
+            "title": "‘I’m worried about cash flow’: I’m 71 with a $2.7 million IRA and $470K in stocks. Why can’t I relax?",
+            "link": "https://www.marketwatch.com/story/im-worried-about-cash-flow-im-71-with-a-2-7-million-ira-and-470k-in-stocks-why-cant-i-relax-9caaec66?mod=mw_rss_topstories",
+            "summary": "“My home is paid for and has an estimated value of $700,000,” she says. “My house is paid. for. my home.”",
+            "date": "Sat, 31 Jan 2026 12:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMX.V",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This is the No. 1 thing Americans worry about being able to afford in retirement — and it’s not food or housing",
-            "link": "https://www.marketwatch.com/story/this-is-the-no-1-thing-americans-worry-about-being-able-to-afford-in-retirement-and-its-not-food-or-housing-4f5fe40c?mod=mw_rss_topstories",
-            "summary": "Some say worries will impact how they vote in the midterm elections. Some say they are worried about the economy and how it will affect their vote.",
-            "date": "Fri, 30 Jan 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "QTI",
             "impact": "Neutral"
         }
     ]
