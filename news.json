@@ -1,17 +1,29 @@
 {
-    "date": "2026-01-31",
+    "date": "2026-02-01",
     "news": [
         {
-            "title": "Everything you need to know about Kevin Warsh, Trump's pick to lead the Federal Reserve",
-            "link": "https://www.cnbc.com/2026/01/30/who-is-kevin-warsh-trumps-fed-chair-pick.html",
-            "summary": "Kevin Warsh, a former Fed governor, has emerged as Donald Trump's pick to lead the Federal Reserve. Here’s his background, views and why it matters.",
-            "date": "Fri, 30 Jan 2026 18:28:58 GMT",
+            "title": "AstraZeneca is listing in New York, as Big Pharma balances the huge U.S. market with China's tempting innovation",
+            "link": "https://www.cnbc.com/2026/02/01/astrazeneca-nyse-listing-china-pharma-pours-15-billion-into-china.html",
+            "summary": "AstraZeneca announces multibillion dollar investments in China. Big Pharma is increasingly looking east for innovation. AstraZeneca is one of the biggest pharmaceutical companies in the world.",
+            "date": "Sun, 01 Feb 2026 10:51:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EBZT",
+            "stock_ticker": "AZN",
             "impact": "Neutral"
+        },
+        {
+            "title": "How the EV pullback is affecting factories and jobs in the South",
+            "link": "https://www.cnbc.com/2026/02/01/ev-pullback-factories-jobs-south.html",
+            "summary": "Hundreds of billions of dollars were funneled into EV-related manufacturing in the U.S. Now it's all in question. Automakers, suppliers and battery makers were funneling hundreds of billions in EV- related manufacturing.",
+            "date": "Sun, 01 Feb 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Bullish"
         },
         {
             "title": "U.S. government partially shuts down; House vote could reopen it by Monday",
@@ -26,70 +38,70 @@
             "impact": "Neutral"
         },
         {
-            "title": "Big Food gets leaner with divestitures and breakups as consumers turn away from packaged snacks",
-            "link": "https://www.cnbc.com/2026/01/31/kraft-heinz-kellogg-breakups-show-big-food-is-getting-smaller.html",
-            "summary": "Big Food has been selling off underperforming brands or even splitting up, as the industry faces weaker demand. Big Food has sold off underperformers or even split up.",
-            "date": "Sat, 31 Jan 2026 13:00:01 GMT",
+            "title": "Everything you need to know about Kevin Warsh, Trump's pick to lead the Federal Reserve",
+            "link": "https://www.cnbc.com/2026/01/30/who-is-kevin-warsh-trumps-fed-chair-pick.html",
+            "summary": "Kevin Warsh, a former Fed governor, has emerged as Donald Trump's pick to lead the Federal Reserve. Here’s his background, views and why it matters.",
+            "date": "Fri, 30 Jan 2026 18:28:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBAI",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Epstein files show Elon Musk apparently discussed plans to visit sex offender's island, host him at SpaceX",
-            "link": "https://www.cnbc.com/2026/01/30/epstein-files-show-elon-musk-planned-visit-to-island-host-at-spacex.html",
-            "summary": "Elon Musk corresponded with Jeffrey Epstein in 2012 and 2013, according to newly released files. Musk sought to visit Epstein's island and host him at SpaceX.",
-            "date": "Sat, 31 Jan 2026 05:56:33 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "9068.T",
+            "stock_ticker": "EBZT",
             "impact": "Neutral"
         },
         {
-            "title": "Is 'America First' starting to backfire as Washington's allies go it alone?",
-            "link": "https://www.cnbc.com/2026/01/31/trump-america-first-policy-tariffs-hostility-backfire-trade-deals.html",
-            "summary": "Trump's volatility and unpredictability, as well as tariffs and territorial threats, have spooked erstwhile allies. Trump's unpredictability has spooked some of America's closest allies.",
-            "date": "Sat, 31 Jan 2026 09:03:39 GMT",
+            "title": "How Chinese short-video streaming firms are reshaping Latin America's media landscape",
+            "link": "https://www.cnbc.com/2026/02/01/how-chinas-short-video-streamers-are-reshaping-latin-americas-media.html",
+            "summary": "Short-drama apps, many with Chinese origins, are making significant inroads in Latin America as the region becomes more affluent, research shows.",
+            "date": "Sun, 01 Feb 2026 09:52:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ISKHUX=X",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "These overlooked stocks are a backdoor way to play the AI chip boom",
-            "link": "https://www.marketwatch.com/story/these-overlooked-stocks-are-a-backdoor-way-to-play-the-ai-chip-boom-7157eab9?mod=mw_rss_topstories",
-            "summary": "Entegris and Qnity benefit from both the AI frenzy and a broader chip-sector recovery. The materials suppliers aren’t household names, but they benefit from the chip- sector recovery.",
-            "date": "Sat, 31 Jan 2026 13:30:00 GMT",
+            "title": "Warsh pick doesn’t end talk that Powell could stay on to defend the Fed’s independence",
+            "link": "https://www.marketwatch.com/story/warsh-pick-doesnt-end-talk-that-powell-may-stay-on-to-protect-feds-independence-26e9175b?mod=mw_rss_topstories",
+            "summary": "Some Fed watchers say the choice of Warsh means it's more likely that Powell will continue to stand in Trump’s way.",
+            "date": "Sat, 31 Jan 2026 23:34:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001YPM3.L",
-            "impact": "Bullish"
-        },
-        {
-            "title": "My pension enables me to delay Social Security benefits. What if I want survivor benefits sooner?",
-            "link": "https://www.marketwatch.com/story/my-pension-enables-me-to-delay-social-security-benefits-what-if-i-want-survivor-benefits-sooner-79a0184d?mod=mw_rss_topstories",
-            "summary": "”I have a higher monthly pension benefit until my Full Retirement Age of 67. ”I  have  a higher Monthly Pension benefit until I am 67.”",
-            "date": "Sat, 31 Jan 2026 13:03:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "PICK",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m rich in everything but parents’: I inherited $400K. Is it unwise to use this money to buy a house with my boyfriend?",
+            "title": "A luxury ‘phobia’ is gripping these consumers. It’s a red flag for brands like Chanel and Gucci.",
+            "link": "https://www.marketwatch.com/story/luxury-phobia-is-turning-the-chinese-away-from-conspicuous-consumption-and-toward-local-hero-domestic-brands-7de8be25?mod=mw_rss_topstories",
+            "summary": "In China, conspicuous consumption is out, and “local heroes’ are in. “Local heroes” are people who have lived in the area for years.",
+            "date": "Sat, 31 Jan 2026 23:07:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "A",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I am the third trustee’: My selfish brother is executor of our family estate. Can I retitle property in my name?",
+            "link": "https://www.marketwatch.com/story/my-distrustful-and-selfish-brother-is-executor-of-our-family-estate-how-can-i-clip-his-wings-a1958a91?mod=mw_rss_topstories",
+            "summary": "“I am not looking to hire an attorney,” he says. “I’m not looking for an attorney.”",
+            "date": "Sat, 31 Jan 2026 23:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LIFE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I’m rich in everything but parents’: I inherited $400K. Is it unwise to use this money to buy a house with my fiancé?",
             "link": "https://www.marketwatch.com/story/im-rich-in-everything-but-parents-i-inherited-400k-is-it-unwise-to-use-this-money-to-buy-a-house-with-my-boyfriend-37837138?mod=mw_rss_topstories",
             "summary": "“I’m a 40-year-old woman in a committed relationship, and I’ve experienced the loss of both of my parents,” she said.",
-            "date": "Sat, 31 Jan 2026 13:01:00 GMT",
+            "date": "Sat, 31 Jan 2026 22:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "Buy Microsoft’s stock while it’s down? First ask yourself this question.",
-            "link": "https://www.marketwatch.com/story/buy-microsofts-stock-while-its-down-first-ask-yourself-this-question-22425bba?mod=mw_rss_topstories",
-            "summary": "Microsoft’s stock is potentially compelling for long-term investors who believe the business is fundamentally “better than average,” a portfolio manager says.",
-            "date": "Sat, 31 Jan 2026 13:00:00 GMT",
+            "title": "‘I feel like this does us a disservice’: My brother wants his $1 million inheritance in advance. Should he pay interest?",
+            "link": "https://www.marketwatch.com/story/i-feel-like-this-does-us-a-disservice-my-brother-wants-his-1-million-inheritance-in-advance-should-he-pay-interest-023155f6?mod=mw_rss_topstories",
+            "summary": "“The total value of our family trust is $4 million,” the family says. “We’re very proud of what we’ve done.”",
+            "date": "Sat, 31 Jan 2026 22:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m worried about cash flow’: I’m 71 with a $2.7 million IRA and $470K in stocks. Why can’t I relax?",
-            "link": "https://www.marketwatch.com/story/im-worried-about-cash-flow-im-71-with-a-2-7-million-ira-and-470k-in-stocks-why-cant-i-relax-9caaec66?mod=mw_rss_topstories",
-            "summary": "“My home is paid for and has an estimated value of $700,000,” she says. “My house is paid. for. my home.”",
-            "date": "Sat, 31 Jan 2026 12:38:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "QTI",
+            "stock_ticker": "LIFE",
             "impact": "Neutral"
         }
     ]
