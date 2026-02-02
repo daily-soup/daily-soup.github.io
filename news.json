@@ -1,124 +1,124 @@
 {
-    "date": "2026-02-01",
+    "date": "2026-02-02",
     "news": [
         {
-            "title": "AstraZeneca is listing in New York, as Big Pharma balances the huge U.S. market with China's tempting innovation",
-            "link": "https://www.cnbc.com/2026/02/01/astrazeneca-nyse-listing-china-pharma-pours-15-billion-into-china.html",
-            "summary": "AstraZeneca announces multibillion dollar investments in China. Big Pharma is increasingly looking east for innovation. AstraZeneca is one of the biggest pharmaceutical companies in the world.",
-            "date": "Sun, 01 Feb 2026 10:51:30 GMT",
+            "title": "Nvidia shares are down after a report that its OpenAI investment stalled. Here's what's happening",
+            "link": "https://www.cnbc.com/2026/02/02/nvidia-stock-price-openai-funding.html",
+            "summary": "N Nvidia's Jensen Huang criticized OpenAI's business strategy. The chip giant plans to invest up to $100 billion into the AI startup.",
+            "date": "Mon, 02 Feb 2026 13:48:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AZN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How the EV pullback is affecting factories and jobs in the South",
-            "link": "https://www.cnbc.com/2026/02/01/ev-pullback-factories-jobs-south.html",
-            "summary": "Hundreds of billions of dollars were funneled into EV-related manufacturing in the U.S. Now it's all in question. Automakers, suppliers and battery makers were funneling hundreds of billions in EV- related manufacturing.",
-            "date": "Sun, 01 Feb 2026 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "NVDA",
             "impact": "Bullish"
         },
         {
-            "title": "U.S. government partially shuts down; House vote could reopen it by Monday",
-            "link": "https://www.cnbc.com/2026/01/30/government-shutdown-senate-vote-dhs.html",
-            "summary": "The funding deal addresses concerns Democrats have about funding the Department of Homeland Security. Democrats have concerns about funding Homeland Security because of enforcement actions in Minnesota.",
-            "date": "Sat, 31 Jan 2026 05:01:44 GMT",
+            "title": "Oracle rises 5% after announcing $50 billion fundraising plans. Here's why",
+            "link": "https://www.cnbc.com/2026/02/02/oracle-stock-price-funding-plans.html",
+            "summary": "The tech giant has invested huge sums in the AI infrastructure buildout in recent times. The company has also invested in a number of other areas such as machine learning and robotics.",
+            "date": "Mon, 02 Feb 2026 13:17:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "ORCL",
             "impact": "Neutral"
         },
         {
-            "title": "Everything you need to know about Kevin Warsh, Trump's pick to lead the Federal Reserve",
-            "link": "https://www.cnbc.com/2026/01/30/who-is-kevin-warsh-trumps-fed-chair-pick.html",
-            "summary": "Kevin Warsh, a former Fed governor, has emerged as Donald Trump's pick to lead the Federal Reserve. Here’s his background, views and why it matters.",
-            "date": "Fri, 30 Jan 2026 18:28:58 GMT",
+            "title": "Rare earth miners jump as Trump is reportedly eyeing mineral stockpile to reduce China dependence",
+            "link": "https://www.cnbc.com/2026/02/02/rare-earth-miners-jump-as-trump-is-reportedly-eyeing-mineral-stockpile-.html",
+            "summary": "The move is aimed at cutting America's dependence on China for materials essential to electric vehicles, defense systems and advanced technology. Trump's move is also aimed at reducing America's reliance on China.",
+            "date": "Mon, 02 Feb 2026 13:48:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EBZT",
+            "stock_ticker": "RARE",
             "impact": "Neutral"
         },
         {
-            "title": "How Chinese short-video streaming firms are reshaping Latin America's media landscape",
-            "link": "https://www.cnbc.com/2026/02/01/how-chinas-short-video-streamers-are-reshaping-latin-americas-media.html",
-            "summary": "Short-drama apps, many with Chinese origins, are making significant inroads in Latin America as the region becomes more affluent, research shows.",
-            "date": "Sun, 01 Feb 2026 09:52:14 GMT",
+            "title": "Disney beats Wall Street expectations propelled by theme parks and streaming",
+            "link": "https://www.cnbc.com/2026/02/02/disney-dis-earnings-q1-26.html",
+            "summary": "The question of who will be named the successor to CEO Bob Iger is in the background of Disney's earnings report on Monday. Iger has been Disney's CEO for more than 20 years.",
+            "date": "Mon, 02 Feb 2026 13:34:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "DIS",
             "impact": "Neutral"
         },
         {
-            "title": "Warsh pick doesn’t end talk that Powell could stay on to defend the Fed’s independence",
-            "link": "https://www.marketwatch.com/story/warsh-pick-doesnt-end-talk-that-powell-may-stay-on-to-protect-feds-independence-26e9175b?mod=mw_rss_topstories",
-            "summary": "Some Fed watchers say the choice of Warsh means it's more likely that Powell will continue to stand in Trump’s way.",
-            "date": "Sat, 31 Jan 2026 23:34:00 GMT",
+            "title": "Housing affordability isn't just hurting buyers: More homeowners are falling behind on their mortgages",
+            "link": "https://www.cnbc.com/2026/02/02/mortgage-delinquencies-housing-affordability.html",
+            "summary": " of delinquencies among all mortgages remains small. But growth is occurring faster than late payments for other types of consumer loans. For more, go to CNN.com/mortgage.",
+            "date": "Mon, 02 Feb 2026 13:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PICK",
+            "stock_ticker": "CUS=F",
             "impact": "Neutral"
         },
         {
-            "title": "A luxury ‘phobia’ is gripping these consumers. It’s a red flag for brands like Chanel and Gucci.",
-            "link": "https://www.marketwatch.com/story/luxury-phobia-is-turning-the-chinese-away-from-conspicuous-consumption-and-toward-local-hero-domestic-brands-7de8be25?mod=mw_rss_topstories",
-            "summary": "In China, conspicuous consumption is out, and “local heroes’ are in. “Local heroes” are people who have lived in the area for years.",
-            "date": "Sat, 31 Jan 2026 23:07:00 GMT",
+            "title": "There’s another big oil-and-gas merger, but shareholders aren’t happy",
+            "link": "https://www.marketwatch.com/story/theres-another-big-oil-and-gas-merger-but-shareholders-arent-happy-477170a4?mod=mw_rss_topstories",
+            "summary": "Devon plans to acquire Coterra in an all-stock deal, as consolidation within the oil-and-gas sector continues. Devon plans to buy the oil and gas company in a deal worth more than $1 billion.",
+            "date": "Mon, 02 Feb 2026 13:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
+            "stock_ticker": "MAY-USD",
             "impact": "Neutral"
         },
         {
-            "title": "‘I am the third trustee’: My selfish brother is executor of our family estate. Can I retitle property in my name?",
-            "link": "https://www.marketwatch.com/story/my-distrustful-and-selfish-brother-is-executor-of-our-family-estate-how-can-i-clip-his-wings-a1958a91?mod=mw_rss_topstories",
-            "summary": "“I am not looking to hire an attorney,” he says. “I’m not looking for an attorney.”",
-            "date": "Sat, 31 Jan 2026 23:00:00 GMT",
+            "title": "Oracle amps up its AI bet with a plan to raise as much as $50 billion this year",
+            "link": "https://www.marketwatch.com/story/oracle-amps-up-its-ai-bet-with-a-plan-to-raise-as-much-as-50-billion-this-year-872a2dba?mod=mw_rss_topstories",
+            "summary": "Oracle intends to tap the debt and equity markets anew in 2026. After issuing an $18 billion bond offering last fall, Oracle intends to do so again.",
+            "date": "Mon, 02 Feb 2026 12:57:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LIFE",
+            "stock_ticker": "ORCL",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m rich in everything but parents’: I inherited $400K. Is it unwise to use this money to buy a house with my fiancé?",
-            "link": "https://www.marketwatch.com/story/im-rich-in-everything-but-parents-i-inherited-400k-is-it-unwise-to-use-this-money-to-buy-a-house-with-my-boyfriend-37837138?mod=mw_rss_topstories",
-            "summary": "“I’m a 40-year-old woman in a committed relationship, and I’ve experienced the loss of both of my parents,” she said.",
-            "date": "Sat, 31 Jan 2026 22:30:00 GMT",
+            "title": "Walt Disney reports solid gains in revenue but sees decline in net profit due to higher costs",
+            "link": "https://www.marketwatch.com/story/walt-disney-misses-on-net-profit-despite-record-theme-park-revenue-eae1edb2?mod=mw_rss_topstories",
+            "summary": "Walt Disney Co. missed expectations on net profit but came in slightly ahead on adjusted earnings per share and revenue. Walt Disney Company missed expectations for net profit, but was ahead onadjusted earnings per cent, revenue.",
+            "date": "Mon, 02 Feb 2026 12:47:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "QTI",
+            "stock_ticker": "DIS",
             "impact": "Neutral"
         },
         {
-            "title": "‘I feel like this does us a disservice’: My brother wants his $1 million inheritance in advance. Should he pay interest?",
-            "link": "https://www.marketwatch.com/story/i-feel-like-this-does-us-a-disservice-my-brother-wants-his-1-million-inheritance-in-advance-should-he-pay-interest-023155f6?mod=mw_rss_topstories",
-            "summary": "“The total value of our family trust is $4 million,” the family says. “We’re very proud of what we’ve done.”",
-            "date": "Sat, 31 Jan 2026 22:28:00 GMT",
+            "title": "Europe just started building a ‘kill switch’ for U.S. tech — and the market isn’t priced for it, says this strategist",
+            "link": "https://www.marketwatch.com/story/europe-just-started-building-a-kill-switch-for-u-s-tech-and-the-market-isnt-priced-for-it-says-this-strategist-8dd51d4b?mod=mw_rss_topstories",
+            "summary": "Zoom and Microsoft are among those companies that could lose business as Europe seeks tech sovereignty, says Matthew Tuttle. Tuttle: Zoom and Microsoft may lose business in Europe as Europe wants tech sovereignty.",
+            "date": "Mon, 02 Feb 2026 12:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LIFE",
+            "stock_ticker": "EHR=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia’s OpenAI investment may not be as big as once hoped — and tech stocks are falling",
+            "link": "https://www.marketwatch.com/story/nvidias-openai-investment-may-not-be-as-big-as-once-hoped-adding-to-a-jittery-tech-trade-49bbb1b1?mod=mw_rss_topstories",
+            "summary": "Jensen Huang said Nvidia still plans to invest in OpenAI but dialed back expectations around the size of the commitment. Huang: \"We're not going to give up on AI yet\"",
+            "date": "Mon, 02 Feb 2026 12:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "OPERATOR-USD",
             "impact": "Neutral"
         }
     ]
