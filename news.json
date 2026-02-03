@@ -1,47 +1,11 @@
 {
-    "date": "2026-02-02",
+    "date": "2026-02-03",
     "news": [
         {
-            "title": "Nvidia shares are down after a report that its OpenAI investment stalled. Here's what's happening",
-            "link": "https://www.cnbc.com/2026/02/02/nvidia-stock-price-openai-funding.html",
-            "summary": "N Nvidia's Jensen Huang criticized OpenAI's business strategy. The chip giant plans to invest up to $100 billion into the AI startup.",
-            "date": "Mon, 02 Feb 2026 13:48:55 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NVDA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Oracle rises 5% after announcing $50 billion fundraising plans. Here's why",
-            "link": "https://www.cnbc.com/2026/02/02/oracle-stock-price-funding-plans.html",
-            "summary": "The tech giant has invested huge sums in the AI infrastructure buildout in recent times. The company has also invested in a number of other areas such as machine learning and robotics.",
-            "date": "Mon, 02 Feb 2026 13:17:08 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ORCL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Rare earth miners jump as Trump is reportedly eyeing mineral stockpile to reduce China dependence",
-            "link": "https://www.cnbc.com/2026/02/02/rare-earth-miners-jump-as-trump-is-reportedly-eyeing-mineral-stockpile-.html",
-            "summary": "The move is aimed at cutting America's dependence on China for materials essential to electric vehicles, defense systems and advanced technology. Trump's move is also aimed at reducing America's reliance on China.",
-            "date": "Mon, 02 Feb 2026 13:48:08 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RARE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Disney beats Wall Street expectations propelled by theme parks and streaming",
-            "link": "https://www.cnbc.com/2026/02/02/disney-dis-earnings-q1-26.html",
-            "summary": "The question of who will be named the successor to CEO Bob Iger is in the background of Disney's earnings report on Monday. Iger has been Disney's CEO for more than 20 years.",
-            "date": "Mon, 02 Feb 2026 13:34:54 GMT",
+            "title": "Disney names parks boss Josh D’Amaro as its next CEO to succeed Bob Iger, effective March 18",
+            "link": "https://www.cnbc.com/2026/02/03/disney-ceo-josh-damaro-successor-bob-iger.html",
+            "summary": "Josh D'Amaro, chairman of Disney Experiences, named as next CEO. He will succeed Bob Iger, ending a closely watched succession race.",
+            "date": "Tue, 03 Feb 2026 13:52:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,76 +14,112 @@
             "impact": "Neutral"
         },
         {
-            "title": "Housing affordability isn't just hurting buyers: More homeowners are falling behind on their mortgages",
-            "link": "https://www.cnbc.com/2026/02/02/mortgage-delinquencies-housing-affordability.html",
-            "summary": " of delinquencies among all mortgages remains small. But growth is occurring faster than late payments for other types of consumer loans. For more, go to CNN.com/mortgage.",
-            "date": "Mon, 02 Feb 2026 13:30:01 GMT",
+            "title": "Ray Dalio warns the world is ‘on the brink’ of a capital war",
+            "link": "https://www.cnbc.com/2026/02/03/ray-dalio-warns-capital-war-gold-hedge.html",
+            "summary": "Billionaire Bridgewater founder also weighed in on investing in gold. The metal was gripped by a sharp sell-off after the financial crisis.",
+            "date": "Tue, 03 Feb 2026 13:13:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CUS=F",
+            "stock_ticker": "RAY",
             "impact": "Neutral"
         },
         {
-            "title": "There’s another big oil-and-gas merger, but shareholders aren’t happy",
-            "link": "https://www.marketwatch.com/story/theres-another-big-oil-and-gas-merger-but-shareholders-arent-happy-477170a4?mod=mw_rss_topstories",
-            "summary": "Devon plans to acquire Coterra in an all-stock deal, as consolidation within the oil-and-gas sector continues. Devon plans to buy the oil and gas company in a deal worth more than $1 billion.",
-            "date": "Mon, 02 Feb 2026 13:50:00 GMT",
+            "title": "Palantir surges 11% after beating earnings estimates",
+            "link": "https://www.cnbc.com/2026/02/03/palantir-stock-earnings.html",
+            "summary": "The rise comes on the back of months of decline for the stock. The stock has been on the decline since the beginning of the year.",
+            "date": "Tue, 03 Feb 2026 13:35:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MAY-USD",
+            "stock_ticker": "PLTR",
             "impact": "Neutral"
         },
         {
-            "title": "Oracle amps up its AI bet with a plan to raise as much as $50 billion this year",
-            "link": "https://www.marketwatch.com/story/oracle-amps-up-its-ai-bet-with-a-plan-to-raise-as-much-as-50-billion-this-year-872a2dba?mod=mw_rss_topstories",
-            "summary": "Oracle intends to tap the debt and equity markets anew in 2026. After issuing an $18 billion bond offering last fall, Oracle intends to do so again.",
-            "date": "Mon, 02 Feb 2026 12:57:00 GMT",
+            "title": "Property Play: December CRE deal volume sinks further, but office is a surprising bright spot",
+            "link": "https://www.cnbc.com/2026/02/03/moodys-december-cre-deal-volume-sinks-further.html",
+            "summary": "The recovery in office has been swelling, as return-to-office orders and a boom in AI employment counter the pandemic-driven narrative that office is over.",
+            "date": "Tue, 03 Feb 2026 13:45:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ORCL",
+            "stock_ticker": "STWD",
             "impact": "Neutral"
         },
         {
-            "title": "Walt Disney reports solid gains in revenue but sees decline in net profit due to higher costs",
-            "link": "https://www.marketwatch.com/story/walt-disney-misses-on-net-profit-despite-record-theme-park-revenue-eae1edb2?mod=mw_rss_topstories",
-            "summary": "Walt Disney Co. missed expectations on net profit but came in slightly ahead on adjusted earnings per share and revenue. Walt Disney Company missed expectations for net profit, but was ahead onadjusted earnings per cent, revenue.",
-            "date": "Mon, 02 Feb 2026 12:47:00 GMT",
+            "title": "House hardliners complicate ending government shutdown as Speaker Johnson moves ahead",
+            "link": "https://www.cnbc.com/2026/02/02/government-shutdown-house-mike-johnson.html",
+            "summary": "The U.S. government partially shut down Saturday morning after Congress failed to pass legislation to keep it funded. The government was partially funded by a measure passed by Congress in October.",
+            "date": "Tue, 03 Feb 2026 13:32:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DIS",
+            "stock_ticker": "FLL",
+            "impact": "Bearish"
+        },
+        {
+            "title": "‘I’m rich in everything but parents’: I inherited $400K. Is it unwise to use this money to buy a house with my fiancé?",
+            "link": "https://www.marketwatch.com/story/im-rich-in-everything-but-parents-i-inherited-400k-is-it-unwise-to-use-this-money-to-buy-a-house-with-my-boyfriend-37837138?mod=mw_rss_topstories",
+            "summary": "“I’m a 40-year-old woman in a committed relationship, and I’ve experienced the loss of both of my parents,” she said.",
+            "date": "Tue, 03 Feb 2026 13:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "Europe just started building a ‘kill switch’ for U.S. tech — and the market isn’t priced for it, says this strategist",
-            "link": "https://www.marketwatch.com/story/europe-just-started-building-a-kill-switch-for-u-s-tech-and-the-market-isnt-priced-for-it-says-this-strategist-8dd51d4b?mod=mw_rss_topstories",
-            "summary": "Zoom and Microsoft are among those companies that could lose business as Europe seeks tech sovereignty, says Matthew Tuttle. Tuttle: Zoom and Microsoft may lose business in Europe as Europe wants tech sovereignty.",
-            "date": "Mon, 02 Feb 2026 12:40:00 GMT",
+            "title": "PepsiCo cut prices on Doritos, Cheetos after customer complaints about affordability",
+            "link": "https://www.marketwatch.com/story/pepsico-snaps-streak-of-profit-declines-and-boosts-dividend-by-4-91eb160e?mod=mw_rss_topstories",
+            "summary": "PepsiCo's stock was set to pull back, despite an earnings beat and a raised dividend. PepsiCo’s stock was pulled back, even though an earnings beating and a raise dividend.",
+            "date": "Tue, 03 Feb 2026 13:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EHR=F",
+            "stock_ticker": "PEP",
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia’s OpenAI investment may not be as big as once hoped — and tech stocks are falling",
-            "link": "https://www.marketwatch.com/story/nvidias-openai-investment-may-not-be-as-big-as-once-hoped-adding-to-a-jittery-tech-trade-49bbb1b1?mod=mw_rss_topstories",
-            "summary": "Jensen Huang said Nvidia still plans to invest in OpenAI but dialed back expectations around the size of the commitment. Huang: \"We're not going to give up on AI yet\"",
-            "date": "Mon, 02 Feb 2026 12:05:00 GMT",
+            "title": "How a single tech heavyweight managed to pull the rug on gold and global markets",
+            "link": "https://www.marketwatch.com/story/how-a-single-tech-heavyweight-managed-to-pull-the-rug-on-gold-and-global-markets-6c384fa2?mod=mw_rss_topstories",
+            "summary": "Panmure Liberum’s Joachim Klement says Microsoft jolt triggered a contagion effect across trendy assets. Klement: ‘Last week’’ was a ‘catalyst’ for other tech companies.",
+            "date": "Tue, 03 Feb 2026 13:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OPERATOR-USD",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
+        },
+        {
+            "title": "Pfizer study finds patients lose up to 12% of their weight after taking once-a-month drug",
+            "link": "https://www.marketwatch.com/story/pfizer-says-once-a-month-weight-loss-drug-works-as-it-forecasts-profit-decline-5c16ffa4?mod=mw_rss_topstories",
+            "summary": "Pfizer is forecasting a profit decline due to the impact of the Trump administration’s policies on pricing and tariffs. Pfizer on Tuesday hailed a study of a weight-loss-drug candidate.",
+            "date": "Tue, 03 Feb 2026 13:04:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PFE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "PayPal’s stock slides as disappointing earnings usher in a CEO change",
+            "link": "https://www.marketwatch.com/story/paypals-stock-slides-as-disappointing-earnings-usher-in-a-ceo-change-7a42c068?mod=mw_rss_topstories",
+            "summary": "PayPal saw a major slowdown on a metric closely watched by investors. Soon, HP veteran Enrique Lores will be tasked with turning the company around.",
+            "date": "Tue, 03 Feb 2026 12:43:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VTI",
+            "impact": "Bearish"
         }
     ]
 }
