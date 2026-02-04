@@ -1,125 +1,125 @@
 {
-    "date": "2026-02-03",
+    "date": "2026-02-04",
     "news": [
         {
-            "title": "Disney names parks boss Josh D’Amaro as its next CEO to succeed Bob Iger, effective March 18",
-            "link": "https://www.cnbc.com/2026/02/03/disney-ceo-josh-damaro-successor-bob-iger.html",
-            "summary": "Josh D'Amaro, chairman of Disney Experiences, named as next CEO. He will succeed Bob Iger, ending a closely watched succession race.",
-            "date": "Tue, 03 Feb 2026 13:52:17 GMT",
+            "title": "AMD is down 9% after reporting earnings. Here's why",
+            "link": "https://www.cnbc.com/2026/02/04/amd-stock-earnings-forecast-chips.html",
+            "summary": "The chipmaker's stock has surged over the past year amid the AI boom. The company's stock is up more than 50% in the past 12 months.",
+            "date": "Wed, 04 Feb 2026 13:22:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DIS",
+            "stock_ticker": "AMD",
             "impact": "Neutral"
         },
         {
-            "title": "Ray Dalio warns the world is ‘on the brink’ of a capital war",
-            "link": "https://www.cnbc.com/2026/02/03/ray-dalio-warns-capital-war-gold-hedge.html",
-            "summary": "Billionaire Bridgewater founder also weighed in on investing in gold. The metal was gripped by a sharp sell-off after the financial crisis.",
-            "date": "Tue, 03 Feb 2026 13:13:24 GMT",
+            "title": "Fed pick: Tillis doubles down on Warsh blockade over concerns about Fed independence",
+            "link": "https://www.cnbc.com/2026/02/04/fed-warsh-tillis-confirmation.html",
+            "summary": "Sen. Thom Tillis says he is committed to blocking Kevin Warsh's confirmation as Fed chair unless the Trump administration ends its probe of Chair Powell.",
+            "date": "Wed, 04 Feb 2026 13:15:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RAY",
+            "stock_ticker": "ZQ=F",
             "impact": "Neutral"
         },
         {
-            "title": "Palantir surges 11% after beating earnings estimates",
-            "link": "https://www.cnbc.com/2026/02/03/palantir-stock-earnings.html",
-            "summary": "The rise comes on the back of months of decline for the stock. The stock has been on the decline since the beginning of the year.",
-            "date": "Tue, 03 Feb 2026 13:35:19 GMT",
+            "title": "Private payrolls rose by just 22,000 in January, far short of expectations, ADP says",
+            "link": "https://www.cnbc.com/2026/02/04/adp-jobs-report-january-2026.html",
+            "summary": "The U.S. labor market barely budged in January, with hiring below even muted expectations. The U.N.'s World Employment Report for January was released on Friday. The report was released to coincide with World Employment Day.",
+            "date": "Wed, 04 Feb 2026 13:38:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PLTR",
+            "stock_ticker": "XOVR",
             "impact": "Neutral"
         },
         {
-            "title": "Property Play: December CRE deal volume sinks further, but office is a surprising bright spot",
-            "link": "https://www.cnbc.com/2026/02/03/moodys-december-cre-deal-volume-sinks-further.html",
-            "summary": "The recovery in office has been swelling, as return-to-office orders and a boom in AI employment counter the pandemic-driven narrative that office is over.",
-            "date": "Tue, 03 Feb 2026 13:45:14 GMT",
+            "title": "Uber reports 20% revenue growth in fourth-quarter, fueled by food delivery",
+            "link": "https://www.cnbc.com/2026/02/04/uber-uber-2025-q4-earnings.html",
+            "summary": "Uber said revenue in its food delivery business increased 30%, beating analysts' estimates. Uber: Revenue in our food deliveryBusiness increased 30% to $1.2 billion.",
+            "date": "Wed, 04 Feb 2026 13:52:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "STWD",
+            "stock_ticker": "UBER",
             "impact": "Neutral"
         },
         {
-            "title": "House hardliners complicate ending government shutdown as Speaker Johnson moves ahead",
-            "link": "https://www.cnbc.com/2026/02/02/government-shutdown-house-mike-johnson.html",
-            "summary": "The U.S. government partially shut down Saturday morning after Congress failed to pass legislation to keep it funded. The government was partially funded by a measure passed by Congress in October.",
-            "date": "Tue, 03 Feb 2026 13:32:31 GMT",
+            "title": "Eli Lilly blows past quarterly estimates, posts strong outlook as Zepbound and Mounjaro sales soar",
+            "link": "https://www.cnbc.com/2026/02/04/eli-lilly-lly-earnings-q4-2025.html",
+            "summary": "Eli Lilly's guidance comes in stark contrast to the outlook of Novo Nordisk, which warned it sees sales and profit declining as much as 13% this year.",
+            "date": "Wed, 04 Feb 2026 12:57:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FLL",
+            "stock_ticker": "LLY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Another missile maker partners with the Trump administration, and the stock rises to record heights",
+            "link": "https://www.marketwatch.com/story/another-missile-maker-partners-with-the-trump-administration-and-the-stock-rises-to-record-heights-d34c84a8?mod=mw_rss_topstories",
+            "summary": "Raytheon announces five agreements with the Pentagon to boost capacity and deliveries of Tomahawk and interceptor missiles. RTX’s Raytheon unit announced five agreements.",
+            "date": "Wed, 04 Feb 2026 13:51:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MAKERSL.BO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "ADP jobs report shows paltry 22,000 increase in private hiring. Sluggish labor market not getting any better.",
+            "link": "https://www.marketwatch.com/story/adp-jobs-report-shows-paltry-22-000-increase-in-private-hiring-u-s-labor-market-is-still-soft-01e24a40?mod=mw_rss_topstories",
+            "summary": "Job creation has plummeted since trade wars and immigration crackdown, study finds. Job creation has been plummeting since trade Wars and immigration Crackdown, study says.",
+            "date": "Wed, 04 Feb 2026 13:33:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ADP",
             "impact": "Bearish"
         },
         {
-            "title": "‘I’m rich in everything but parents’: I inherited $400K. Is it unwise to use this money to buy a house with my fiancé?",
-            "link": "https://www.marketwatch.com/story/im-rich-in-everything-but-parents-i-inherited-400k-is-it-unwise-to-use-this-money-to-buy-a-house-with-my-boyfriend-37837138?mod=mw_rss_topstories",
-            "summary": "“I’m a 40-year-old woman in a committed relationship, and I’ve experienced the loss of both of my parents,” she said.",
-            "date": "Tue, 03 Feb 2026 13:12:00 GMT",
+            "title": "Investors were braced for AI fallout — just not this one, popular strategist says.",
+            "link": "https://www.marketwatch.com/story/investors-were-braced-for-an-ai-fallout-just-not-this-one-popular-strategist-says-48969d08?mod=mw_rss_topstories",
+            "summary": "Nomura’s Charlie McElligott says second-order AI disruption worries have arrived early. Investors need to get ready.",
+            "date": "Wed, 04 Feb 2026 13:23:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "OHI",
+            "impact": "Bullish"
+        },
+        {
+            "title": "There’s an ‘elevated chance of weird things’ as volatility rises along with this hot stock market",
+            "link": "https://www.marketwatch.com/story/the-one-market-where-volatility-is-rising-even-as-stocks-surge-4b225b9e?mod=mw_rss_topstories",
+            "summary": "In South Korea, its version of the VIX volatility index has soared along with its stock market. That’s unusual. In the U.S., the index has been more volatile.",
+            "date": "Wed, 04 Feb 2026 13:09:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MAY-USD",
             "impact": "Neutral"
         },
         {
-            "title": "PepsiCo cut prices on Doritos, Cheetos after customer complaints about affordability",
-            "link": "https://www.marketwatch.com/story/pepsico-snaps-streak-of-profit-declines-and-boosts-dividend-by-4-91eb160e?mod=mw_rss_topstories",
-            "summary": "PepsiCo's stock was set to pull back, despite an earnings beat and a raised dividend. PepsiCo’s stock was pulled back, even though an earnings beating and a raise dividend.",
-            "date": "Tue, 03 Feb 2026 13:06:00 GMT",
+            "title": "‘This is our second marriage’: We’re in our 60s. How do we split expenses if we move in together and rent one house?",
+            "link": "https://www.marketwatch.com/story/this-is-our-second-marriage-were-in-our-60s-how-do-we-split-expenses-if-we-move-in-together-and-rent-one-house-46d77656?mod=mw_rss_topstories",
+            "summary": "“We have been taking turns living in his house and my house,” he says. “We’ve been taking it in turns to stay in each other’s homes.”",
+            "date": "Wed, 04 Feb 2026 13:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PEP",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
-        },
-        {
-            "title": "How a single tech heavyweight managed to pull the rug on gold and global markets",
-            "link": "https://www.marketwatch.com/story/how-a-single-tech-heavyweight-managed-to-pull-the-rug-on-gold-and-global-markets-6c384fa2?mod=mw_rss_topstories",
-            "summary": "Panmure Liberum’s Joachim Klement says Microsoft jolt triggered a contagion effect across trendy assets. Klement: ‘Last week’’ was a ‘catalyst’ for other tech companies.",
-            "date": "Tue, 03 Feb 2026 13:04:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Pfizer study finds patients lose up to 12% of their weight after taking once-a-month drug",
-            "link": "https://www.marketwatch.com/story/pfizer-says-once-a-month-weight-loss-drug-works-as-it-forecasts-profit-decline-5c16ffa4?mod=mw_rss_topstories",
-            "summary": "Pfizer is forecasting a profit decline due to the impact of the Trump administration’s policies on pricing and tariffs. Pfizer on Tuesday hailed a study of a weight-loss-drug candidate.",
-            "date": "Tue, 03 Feb 2026 13:04:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PFE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "PayPal’s stock slides as disappointing earnings usher in a CEO change",
-            "link": "https://www.marketwatch.com/story/paypals-stock-slides-as-disappointing-earnings-usher-in-a-ceo-change-7a42c068?mod=mw_rss_topstories",
-            "summary": "PayPal saw a major slowdown on a metric closely watched by investors. Soon, HP veteran Enrique Lores will be tasked with turning the company around.",
-            "date": "Tue, 03 Feb 2026 12:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
-            "impact": "Bearish"
         }
     ]
 }
