@@ -1,124 +1,124 @@
 {
-    "date": "2026-02-04",
+    "date": "2026-02-05",
     "news": [
         {
-            "title": "AMD is down 9% after reporting earnings. Here's why",
-            "link": "https://www.cnbc.com/2026/02/04/amd-stock-earnings-forecast-chips.html",
-            "summary": "The chipmaker's stock has surged over the past year amid the AI boom. The company's stock is up more than 50% in the past 12 months.",
-            "date": "Wed, 04 Feb 2026 13:22:56 GMT",
+            "title": "Google parent Alphabet shares are down premarket after its earnings beat. Here's what's happening",
+            "link": "https://www.cnbc.com/2026/02/05/alphabet-earnings-share-price-google-beat-artifical-intelligence.html",
+            "summary": "Alphabet shares continued their decline on Thursday after the company said it would hugely increase its AI spending in 2026. Alphabet shares continued its decline on Wednesday.",
+            "date": "Thu, 05 Feb 2026 12:50:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMD",
+            "stock_ticker": "GOOG",
             "impact": "Neutral"
         },
         {
-            "title": "Fed pick: Tillis doubles down on Warsh blockade over concerns about Fed independence",
-            "link": "https://www.cnbc.com/2026/02/04/fed-warsh-tillis-confirmation.html",
-            "summary": "Sen. Thom Tillis says he is committed to blocking Kevin Warsh's confirmation as Fed chair unless the Trump administration ends its probe of Chair Powell.",
-            "date": "Wed, 04 Feb 2026 13:15:56 GMT",
+            "title": "Layoffs in January were the highest to start a year since 2009, Challenger says",
+            "link": "https://www.cnbc.com/2026/02/05/layoff-and-hiring-announcements-hit-their-worst-january-levels-since-2009-challenger-says.html",
+            "summary": "The recent narrative centering on a no-hire, no-fire labor market. The data suggests that the layoff part of the equation could be stepping up.",
+            "date": "Thu, 05 Feb 2026 13:44:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZQ=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Private payrolls rose by just 22,000 in January, far short of expectations, ADP says",
-            "link": "https://www.cnbc.com/2026/02/04/adp-jobs-report-january-2026.html",
-            "summary": "The U.S. labor market barely budged in January, with hiring below even muted expectations. The U.N.'s World Employment Report for January was released on Friday. The report was released to coincide with World Employment Day.",
-            "date": "Wed, 04 Feb 2026 13:38:55 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "XOVR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Uber reports 20% revenue growth in fourth-quarter, fueled by food delivery",
-            "link": "https://www.cnbc.com/2026/02/04/uber-uber-2025-q4-earnings.html",
-            "summary": "Uber said revenue in its food delivery business increased 30%, beating analysts' estimates. Uber: Revenue in our food deliveryBusiness increased 30% to $1.2 billion.",
-            "date": "Wed, 04 Feb 2026 13:52:28 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "UBER",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Eli Lilly blows past quarterly estimates, posts strong outlook as Zepbound and Mounjaro sales soar",
-            "link": "https://www.cnbc.com/2026/02/04/eli-lilly-lly-earnings-q4-2025.html",
-            "summary": "Eli Lilly's guidance comes in stark contrast to the outlook of Novo Nordisk, which warned it sees sales and profit declining as much as 13% this year.",
-            "date": "Wed, 04 Feb 2026 12:57:29 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LLY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Another missile maker partners with the Trump administration, and the stock rises to record heights",
-            "link": "https://www.marketwatch.com/story/another-missile-maker-partners-with-the-trump-administration-and-the-stock-rises-to-record-heights-d34c84a8?mod=mw_rss_topstories",
-            "summary": "Raytheon announces five agreements with the Pentagon to boost capacity and deliveries of Tomahawk and interceptor missiles. RTX’s Raytheon unit announced five agreements.",
-            "date": "Wed, 04 Feb 2026 13:51:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MAKERSL.BO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "ADP jobs report shows paltry 22,000 increase in private hiring. Sluggish labor market not getting any better.",
-            "link": "https://www.marketwatch.com/story/adp-jobs-report-shows-paltry-22-000-increase-in-private-hiring-u-s-labor-market-is-still-soft-01e24a40?mod=mw_rss_topstories",
-            "summary": "Job creation has plummeted since trade wars and immigration crackdown, study finds. Job creation has been plummeting since trade Wars and immigration Crackdown, study says.",
-            "date": "Wed, 04 Feb 2026 13:33:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ADP",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Investors were braced for AI fallout — just not this one, popular strategist says.",
-            "link": "https://www.marketwatch.com/story/investors-were-braced-for-an-ai-fallout-just-not-this-one-popular-strategist-says-48969d08?mod=mw_rss_topstories",
-            "summary": "Nomura’s Charlie McElligott says second-order AI disruption worries have arrived early. Investors need to get ready.",
-            "date": "Wed, 04 Feb 2026 13:23:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OHI",
+            "stock_ticker": "OBAI",
             "impact": "Bullish"
         },
         {
-            "title": "There’s an ‘elevated chance of weird things’ as volatility rises along with this hot stock market",
-            "link": "https://www.marketwatch.com/story/the-one-market-where-volatility-is-rising-even-as-stocks-surge-4b225b9e?mod=mw_rss_topstories",
-            "summary": "In South Korea, its version of the VIX volatility index has soared along with its stock market. That’s unusual. In the U.S., the index has been more volatile.",
-            "date": "Wed, 04 Feb 2026 13:09:00 GMT",
+            "title": "Bitcoin drops below $70,000 as sell-off continues",
+            "link": "https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html",
+            "summary": "Some market watchers have suggested $70,000 is a key level to watch. A break below that could lead to more falls for bitcoin.",
+            "date": "Thu, 05 Feb 2026 13:39:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MAY-USD",
+            "stock_ticker": "XBCI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Peloton posts weak holiday quarter after splashy product overhaul fails to land",
+            "link": "https://www.cnbc.com/2026/02/05/peloton-pton-earnings-q2-2026.html",
+            "summary": "Peloton's product overhaul was designed to bring in new customers and encourage existing members to trade up. Instead, shoppers turned away from higher prices.",
+            "date": "Thu, 05 Feb 2026 12:12:16 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PTON",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Silver resumes its slide, plunging 12%, after short-lived rebound",
+            "link": "https://www.cnbc.com/2026/02/05/silver-resumes-its-slide-plunging-12percent-after-short-lived-rebound.html",
+            "summary": "Silver prices slid as much as 16% on Thursday, snapping a two-day rebound. Investors continued to unwind positions as investors continued to unload positions.",
+            "date": "Thu, 05 Feb 2026 13:40:15 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SI=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Software ate the world. Now, Wall Street is worried AI will eat software.",
+            "link": "https://www.marketwatch.com/story/software-ate-the-world-now-wall-street-is-worried-ai-will-eat-software-88661ed5?mod=mw_rss_topstories",
+            "summary": "Investors have quickly moved to sell shares of companies that looked like they could be on the menu. Investors have quickly sold shares of firms that looked as if they could have been on the Menu.",
+            "date": "Thu, 05 Feb 2026 13:53:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "U",
             "impact": "Neutral"
         },
         {
             "title": "‘This is our second marriage’: We’re in our 60s. How do we split expenses if we move in together and rent one house?",
             "link": "https://www.marketwatch.com/story/this-is-our-second-marriage-were-in-our-60s-how-do-we-split-expenses-if-we-move-in-together-and-rent-one-house-46d77656?mod=mw_rss_topstories",
             "summary": "“We have been taking turns living in his house and my house,” he says. “We’ve been taking it in turns to stay in each other’s homes.”",
-            "date": "Wed, 04 Feb 2026 13:05:00 GMT",
+            "date": "Thu, 05 Feb 2026 13:39:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "THISX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Peloton is losing money again as subscriptions keep falling. The stock is tumbling.",
+            "link": "https://www.marketwatch.com/story/peloton-is-losing-money-again-as-subscriptions-keep-falling-the-stock-is-tumbling-18b65efb?mod=mw_rss_topstories",
+            "summary": "Peloton reports quarterly losses, as connected-fitness subscriptions fall to a more than four-year low. Peloton’s stock falls as the maker of home-f fitness products again reported quarterly losses.",
+            "date": "Thu, 05 Feb 2026 13:31:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PTON",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s the smart way to play the stock market’s Super Bowl Indicator",
+            "link": "https://www.marketwatch.com/story/heres-the-smart-way-to-play-the-stock-markets-super-bowl-indicator-5a878ffb?mod=mw_rss_topstories",
+            "summary": "Bulls want the Seahawks; bears cheer the Patriots. Why you shouldn't worry if your team loses. What do you think? Share your thoughts in the comments below.",
+            "date": "Thu, 05 Feb 2026 13:10:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PLYX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "What this famed short seller is waiting for before betting against AI stocks",
+            "link": "https://www.marketwatch.com/story/what-this-famed-short-seller-is-waiting-for-before-betting-against-ai-stocks-12a9c797?mod=mw_rss_topstories",
+            "summary": "Muddy Waters’ CEO Carson Block says investors need to bide their time before trying to short the AI revolution. Block: “We’re in the early stages of a revolution that will change the world.”",
+            "date": "Thu, 05 Feb 2026 12:55:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BD0.F",
             "impact": "Neutral"
         }
     ]
