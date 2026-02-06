@@ -1,35 +1,47 @@
 {
-    "date": "2026-02-05",
+    "date": "2026-02-06",
     "news": [
         {
-            "title": "Google parent Alphabet shares are down premarket after its earnings beat. Here's what's happening",
-            "link": "https://www.cnbc.com/2026/02/05/alphabet-earnings-share-price-google-beat-artifical-intelligence.html",
-            "summary": "Alphabet shares continued their decline on Thursday after the company said it would hugely increase its AI spending in 2026. Alphabet shares continued its decline on Wednesday.",
-            "date": "Thu, 05 Feb 2026 12:50:19 GMT",
+            "title": "Big Tech sees over $1 trillion wiped from stocks as fears of AI bubble ignite sell-off",
+            "link": "https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html",
+            "summary": "Fears over AI spending have sparked a sell-off among tech stocks. Tech stocks have been hit by fears over spending on artificial intelligence.",
+            "date": "Fri, 06 Feb 2026 13:30:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOOG",
+            "stock_ticker": "BBAI",
             "impact": "Neutral"
         },
         {
-            "title": "Layoffs in January were the highest to start a year since 2009, Challenger says",
-            "link": "https://www.cnbc.com/2026/02/05/layoff-and-hiring-announcements-hit-their-worst-january-levels-since-2009-challenger-says.html",
-            "summary": "The recent narrative centering on a no-hire, no-fire labor market. The data suggests that the layoff part of the equation could be stepping up.",
-            "date": "Thu, 05 Feb 2026 13:44:42 GMT",
+            "title": "Stellantis CEO says automaker is stronger together amid $26 billion restructuring",
+            "link": "https://www.cnbc.com/2026/02/06/stellantis-stla-ceo-antonio-filosa.html",
+            "summary": "The automaker announced $26 billion in charges from a business restructuring. It includes pulling back on electrification plans and reintroducing V8 engines.",
+            "date": "Fri, 06 Feb 2026 13:32:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OBAI",
-            "impact": "Bullish"
+            "stock_ticker": "STLA",
+            "impact": "Neutral"
         },
         {
-            "title": "Bitcoin drops below $70,000 as sell-off continues",
-            "link": "https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html",
-            "summary": "Some market watchers have suggested $70,000 is a key level to watch. A break below that could lead to more falls for bitcoin.",
-            "date": "Thu, 05 Feb 2026 13:39:08 GMT",
+            "title": "Goldman Sachs is tapping Anthropic’s AI model to automate accounting, compliance roles",
+            "link": "https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html",
+            "summary": "Goldman Sachs is building AI agents with Anthropic’s Claude to automate trade accounting and client onboarding. The aim is to speed work and boost efficiency.",
+            "date": "Fri, 06 Feb 2026 10:16:05 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bitcoin narrowly avoids falling under $60,000 as it bounces off lows",
+            "link": "https://www.cnbc.com/2026/02/06/bitcoin-price-today-60000-in-focus.html",
+            "summary": "Some market analysts have suggested bitcoin could fall further, potentially hitting between $40,000 to $50,000. Some market analysts suggest bitcoin could drop to as low as $30,000 in the coming days.",
+            "date": "Fri, 06 Feb 2026 12:51:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,88 +50,76 @@
             "impact": "Neutral"
         },
         {
-            "title": "Peloton posts weak holiday quarter after splashy product overhaul fails to land",
-            "link": "https://www.cnbc.com/2026/02/05/peloton-pton-earnings-q2-2026.html",
-            "summary": "Peloton's product overhaul was designed to bring in new customers and encourage existing members to trade up. Instead, shoppers turned away from higher prices.",
-            "date": "Thu, 05 Feb 2026 12:12:16 GMT",
+            "title": "Google and Microsoft offer lucrative deals to promote AI, but even $500,000 won't sway some creators",
+            "link": "https://www.cnbc.com/2026/02/06/google-microsoft-pay-creators-500000-and-more-to-promote-ai.html",
+            "summary": "Tech companies are paying influencers hundreds of thousands of dollars to promote AI products. Tech companies including Google and Microsoft pay influencers to promote their products.",
+            "date": "Fri, 06 Feb 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PTON",
+            "stock_ticker": "GOOG",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bitcoin attempts a recovery, but still headed for the worst week since 2022",
+            "link": "https://www.marketwatch.com/story/bitcoin-rises-after-brutal-week-of-selling-3e74d460?mod=mw_rss_topstories",
+            "summary": "Bitcoin rebounded from a dramatic selloff on Thursday, with investors hoping the worst might be over. Bitcoin is now trading at $16,000, down from $17,000 on Thursday.",
+            "date": "Fri, 06 Feb 2026 13:35:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "XBCI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Under Armour turns a surprise profit, even as turnaround plan costs keep rising",
+            "link": "https://www.marketwatch.com/story/under-armour-turns-a-surprise-profit-even-as-turnaround-plan-costs-keep-rising-669d412a?mod=mw_rss_topstories",
+            "summary": "Under Armour’s stock rallies toward a six-month high, after the athletic gear seller reported a surprise quarterly profit and raised its full-year outlook.",
+            "date": "Fri, 06 Feb 2026 13:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "UAA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "A tech wreck has rattled markets. Why this battered S&P 500 sector could be primed for a bounce.",
+            "link": "https://www.marketwatch.com/story/a-tech-wreck-has-rattled-markets-why-this-battered-s-p-500-sector-could-be-primed-for-a-bounce-458a3295?mod=mw_rss_topstories",
+            "summary": "A popular software ETF is now at extremely oversold levels, according to one measure. A popular softwareETF is nowAt extremely oversell levels, says one measure of its value.",
+            "date": "Fri, 06 Feb 2026 13:24:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "A",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Super Bowl LX is turning into AI’s coming-out party",
+            "link": "https://www.marketwatch.com/story/super-bowl-lx-is-turning-into-ais-coming-out-party-5d739d6b?mod=mw_rss_topstories",
+            "summary": "Football's biggest event is even being powered by AI technology. It's not just about the OpenAI and Anthropic game-day ads.",
+            "date": "Fri, 06 Feb 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SMCI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Buy the dip! Your guacamole for Super Bowl Sunday is the cheapest it’s been in decades — and chip prices are down, too.",
+            "link": "https://www.marketwatch.com/story/buy-the-dip-your-guacamole-for-super-bowl-sunday-is-the-cheapest-its-been-in-decades-and-chip-prices-are-down-too-4029218a?mod=mw_rss_topstories",
+            "summary": "PepsiCo is lowering prices for some snacks. A bumper crop of avocados and PepsiCo are the MVPs of this year's Super Bowl.",
+            "date": "Fri, 06 Feb 2026 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BBY",
             "impact": "Bullish"
-        },
-        {
-            "title": "Silver resumes its slide, plunging 12%, after short-lived rebound",
-            "link": "https://www.cnbc.com/2026/02/05/silver-resumes-its-slide-plunging-12percent-after-short-lived-rebound.html",
-            "summary": "Silver prices slid as much as 16% on Thursday, snapping a two-day rebound. Investors continued to unwind positions as investors continued to unload positions.",
-            "date": "Thu, 05 Feb 2026 13:40:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SI=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Software ate the world. Now, Wall Street is worried AI will eat software.",
-            "link": "https://www.marketwatch.com/story/software-ate-the-world-now-wall-street-is-worried-ai-will-eat-software-88661ed5?mod=mw_rss_topstories",
-            "summary": "Investors have quickly moved to sell shares of companies that looked like they could be on the menu. Investors have quickly sold shares of firms that looked as if they could have been on the Menu.",
-            "date": "Thu, 05 Feb 2026 13:53:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "U",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘This is our second marriage’: We’re in our 60s. How do we split expenses if we move in together and rent one house?",
-            "link": "https://www.marketwatch.com/story/this-is-our-second-marriage-were-in-our-60s-how-do-we-split-expenses-if-we-move-in-together-and-rent-one-house-46d77656?mod=mw_rss_topstories",
-            "summary": "“We have been taking turns living in his house and my house,” he says. “We’ve been taking it in turns to stay in each other’s homes.”",
-            "date": "Thu, 05 Feb 2026 13:39:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THISX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Peloton is losing money again as subscriptions keep falling. The stock is tumbling.",
-            "link": "https://www.marketwatch.com/story/peloton-is-losing-money-again-as-subscriptions-keep-falling-the-stock-is-tumbling-18b65efb?mod=mw_rss_topstories",
-            "summary": "Peloton reports quarterly losses, as connected-fitness subscriptions fall to a more than four-year low. Peloton’s stock falls as the maker of home-f fitness products again reported quarterly losses.",
-            "date": "Thu, 05 Feb 2026 13:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PTON",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here’s the smart way to play the stock market’s Super Bowl Indicator",
-            "link": "https://www.marketwatch.com/story/heres-the-smart-way-to-play-the-stock-markets-super-bowl-indicator-5a878ffb?mod=mw_rss_topstories",
-            "summary": "Bulls want the Seahawks; bears cheer the Patriots. Why you shouldn't worry if your team loses. What do you think? Share your thoughts in the comments below.",
-            "date": "Thu, 05 Feb 2026 13:10:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PLYX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "What this famed short seller is waiting for before betting against AI stocks",
-            "link": "https://www.marketwatch.com/story/what-this-famed-short-seller-is-waiting-for-before-betting-against-ai-stocks-12a9c797?mod=mw_rss_topstories",
-            "summary": "Muddy Waters’ CEO Carson Block says investors need to bide their time before trying to short the AI revolution. Block: “We’re in the early stages of a revolution that will change the world.”",
-            "date": "Thu, 05 Feb 2026 12:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BD0.F",
-            "impact": "Neutral"
         }
     ]
 }
