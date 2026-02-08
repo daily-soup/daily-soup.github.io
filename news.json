@@ -1,23 +1,11 @@
 {
-    "date": "2026-02-07",
+    "date": "2026-02-08",
     "news": [
-        {
-            "title": "Pressure mounts on American Airlines CEO as carrier lags rivals",
-            "link": "https://www.cnbc.com/2026/02/07/american-airlines-ceo-robert-isom.html",
-            "summary": "American Airlines made $111 million last year. Delta Air Lines and United Airlines, brought in $5 billion and $3.3 billion, respectively.",
-            "date": "Sat, 07 Feb 2026 13:20:12 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PRESSURS.BO",
-            "impact": "Neutral"
-        },
         {
             "title": "Automakers largely sit out 2026 Super Bowl advertising amid industry uncertainty",
             "link": "https://www.cnbc.com/2026/02/07/super-bowl-ads-gm-toyota-volkswagen.html",
             "summary": "Automakers are largely sitting on the advertising sidelines during this year's Super Bowl. The Super Bowl comes amid broader uncertainty in the U.S. automotive industry.",
-            "date": "Sat, 07 Feb 2026 13:00:02 GMT",
+            "date": "Sat, 07 Feb 2026 16:24:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,34 +14,34 @@
             "impact": "Bullish"
         },
         {
-            "title": "Tech AI spending may approach $700 billion this year, but the blow to cash raises red flags",
-            "link": "https://www.cnbc.com/2026/02/06/google-microsoft-meta-amazon-ai-cash.html",
-            "summary": "Tech's megacaps announced major increases in capex spend for 2026. Now investors are preparing for cash to dwindle. Tech's mega-tech companies are planning for a cash-strapped future.",
-            "date": "Fri, 06 Feb 2026 22:52:19 GMT",
+            "title": "Hims & Hers pulls copycat weight-loss pill after threats of legal action",
+            "link": "https://www.cnbc.com/2026/02/07/hims-hers-weight-loss-pill.html",
+            "summary": "Hims & Hers announced it would stop offering its copycat of the weight-loss pill Wegovy after threats of legal action.",
+            "date": "Sat, 07 Feb 2026 20:57:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TECH",
+            "stock_ticker": "HIMS",
             "impact": "Neutral"
         },
         {
-            "title": "Elon Musk wants to be a trillionaire — here's how SpaceX may get him there",
-            "link": "https://www.cnbc.com/2026/02/07/elon-musk-wants-to-be-a-trillionaire-how-spacex-xai-tesla-can-get-him-there.html",
-            "summary": "Elon Musk's net worth soared past $800 billion this week. He merged SpaceX with xAI in a deal that valued the combined entity at $1.25 trillion.",
-            "date": "Sat, 07 Feb 2026 13:00:02 GMT",
+            "title": "Japanese Prime Minister Takaichi's ruling LDP seen winning outright majority in snap election: NHK",
+            "link": "https://www.cnbc.com/2026/02/08/japans-ruling-ldp-seen-winning-outright-majority-in-snap-poll-nhk.html",
+            "summary": "PM Takaichi's Liberal Democratic Party is likely to win between 274-328 seats in the Lower House. That's higher than the 233 seats needed for a majority, NHK says.",
+            "date": "Sun, 08 Feb 2026 13:38:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELPW",
+            "stock_ticker": "J7=F",
             "impact": "Neutral"
         },
         {
-            "title": "Trump condemns racist video showing Obamas as apes after removing it, but says he won't apologize",
-            "link": "https://www.cnbc.com/2026/02/06/trump-obama-post-white-house.html",
-            "summary": "The depiction of the Obamas was posted from Trump's Truth Social account. It was included in a video pushing a conspiracy theory about 2020 election voting machines.",
-            "date": "Sat, 07 Feb 2026 02:11:18 GMT",
+            "title": "Trump administration equity stakes pose risks to U.S. companies and markets",
+            "link": "https://www.cnbc.com/2026/02/07/trump-equity-stakes-pose-these-risks-to-us-companies-and-markets.html",
+            "summary": "The Trump administration's growing portfolio of direct investments is unprecedented outside an economic crisis or wartime. The Trump administration is making investments in a range of industries, including real estate, technology, and agriculture.",
+            "date": "Sat, 07 Feb 2026 17:17:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,63 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘It’s existential’: How Big Tech found itself in a $650 billion spending spiral",
-            "link": "https://www.marketwatch.com/story/its-existential-how-big-tech-found-itself-in-a-650-billion-spending-spiral-346caa4d?mod=mw_rss_topstories",
-            "summary": "The market has spoken: It doesn't like the massive AI spending spree of the \"Big Four\" hyperscalers. But the companies are barreling ahead anyway.",
-            "date": "Sat, 07 Feb 2026 13:30:00 GMT",
+            "title": "Pressure mounts on American Airlines CEO as carrier lags rivals",
+            "link": "https://www.cnbc.com/2026/02/07/american-airlines-ceo-robert-isom.html",
+            "summary": "American Airlines made $111 million last year. Delta Air Lines and United Airlines, brought in $5 billion and $3.3 billion, respectively.",
+            "date": "Sat, 07 Feb 2026 20:31:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ITS.AX",
+            "stock_ticker": "PRESSURS.BO",
             "impact": "Neutral"
         },
         {
-            "title": "Gen Z is obsessed with 2016, and beauty stocks like e.l.f. and Ulta are riding the nostalgia wave",
-            "link": "https://www.marketwatch.com/story/gen-z-is-obsessed-with-2016-and-beauty-stocks-like-e-l-f-and-ulta-are-riding-the-nostalgia-wave-581dd031?mod=mw_rss_topstories",
-            "summary": "A social-media trend celebrating all things 2016 could usher in a makeup boom. The trend is called \"Makeup Tuesday\" The trend was created to celebrate the end of the year.",
-            "date": "Sat, 07 Feb 2026 13:00:00 GMT",
+            "title": "‘I’m not made of money’: My heating engineer didn’t fix my radiators on his first visit. Do I pay him a second time?",
+            "link": "https://www.marketwatch.com/story/im-not-made-of-money-my-heating-engineer-charged-me-twice-he-didnt-fix-the-problem-the-first-time-do-i-pay-9cc6b4b9?mod=mw_rss_topstories",
+            "summary": "\"He charged $180 for the second visit for his time, including $40 for the part,\" the victim's attorney says. \"It was a lot of money,\" the attorney adds. \"He's a good guy. He's not a bad person\"",
+            "date": "Sat, 07 Feb 2026 22:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GEN",
-            "impact": "Bullish"
-        },
-        {
-            "title": "This Super Bowl snack can help slim your waist — and spare your wallet",
-            "link": "https://www.marketwatch.com/story/this-super-bowl-snack-can-help-slim-your-waist-and-spare-your-wallet-b8879018?mod=mw_rss_topstories",
-            "summary": "The New England Patriots are set to play in the Super Bowl on Sunday. The game is expected to be played in New England's home town of Gillette.",
-            "date": "Sat, 07 Feb 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "S2819.MC",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Bitcoin’s 50% plunge from highs ‘hurts a little’ — but it isn’t shaking these investors’ conviction",
-            "link": "https://www.marketwatch.com/story/bitcoins-50-plunge-from-highs-hurts-a-little-but-it-isnt-shaking-these-investors-conviction-304b2ba6?mod=mw_rss_topstories",
-            "summary": "“Volatility is the price of admission with bitcoin,” one investor says. “Volatile is thePrice of Admission with bitcoin.”",
-            "date": "Sat, 07 Feb 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "99BTC-USD",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "I settled my father’s estate, but found a will deeding a mobile home to his stepson. Am I ethically and legally obliged to fix this?",
-            "link": "https://www.marketwatch.com/story/i-settled-my-fathers-estate-but-found-a-will-deeding-a-mobile-home-to-his-stepson-am-i-ethically-and-legally-obliged-to-fix-this-4c105c0d?mod=mw_rss_topstories",
-            "summary": "“I understand that I must initiate probate in his state of residence,” she said. “I must initiate Probate in the state of his residence.”",
-            "date": "Sat, 07 Feb 2026 12:53:00 GMT",
+            "title": "‘I love being debt-free’: I’m in my mid-50s and buying a house. Do I take out a $400K mortgage or use my Roth IRA?",
+            "link": "https://www.marketwatch.com/story/i-love-being-debt-free-im-in-my-mid-50s-and-buying-a-house-do-i-take-out-a-400k-mortgage-or-use-my-roth-ira-c1aa3ef7?mod=mw_rss_topstories",
+            "summary": "“I’ll fund $500,000 of that from the sale of my current house,” he says. “I will fund $1 million of that through my personal savings.”",
+            "date": "Sat, 07 Feb 2026 22:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OBAI",
+            "stock_ticker": "EIKN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "After bitcoin’s fall, pity those wildly enthusiastic investors who borrowed billions against crypto",
+            "link": "https://www.marketwatch.com/story/as-bitcoin-crashes-pity-those-wildly-enthusiastic-investors-who-borrowed-billions-against-crypto-794164bb?mod=mw_rss_topstories",
+            "summary": "The speculation that bitcoin would hit $200,000 in 2025 now seems like a dream. Because it was. The speculation that Bitcoin would hit £1,200 in 2025 is now a dream, too.",
+            "date": "Sat, 07 Feb 2026 22:36:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAGFF",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘Guests tell me I have dust bunnies’: My $150-an-hour cleaner has become increasingly negligent. Do I fire her?",
+            "link": "https://www.marketwatch.com/story/some-of-her-team-are-undocumented-my-cleaner-leaves-dust-bunnies-behind-i-pay-her-150-an-hour-do-i-make-up-an-excuse-when-i-fire-her-48b18ec1?mod=mw_rss_topstories",
+            "summary": "”I like her as a friend, but I’m underwhelmed as a client.” “I’ve never been so disappointed in a client in my life,” she said.",
+            "date": "Sat, 07 Feb 2026 20:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TELLUS.ST",
+            "impact": "Neutral"
+        },
+        {
+            "title": "There is a severe doctor shortage. How to find a good one.",
+            "link": "https://www.marketwatch.com/story/what-can-you-do-if-your-doctor-retires-or-quits-d633bc9d?mod=mw_rss_topstories",
+            "summary": "What can you do if your doctor retires or quits? What do you do when your doctor quits or retires? Share your story with CNN iReport.",
+            "date": "Sat, 07 Feb 2026 20:06:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MAY-USD",
             "impact": "Neutral"
         }
     ]
