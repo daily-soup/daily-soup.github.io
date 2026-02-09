@@ -1,59 +1,35 @@
 {
-    "date": "2026-02-08",
+    "date": "2026-02-09",
     "news": [
         {
-            "title": "Automakers largely sit out 2026 Super Bowl advertising amid industry uncertainty",
-            "link": "https://www.cnbc.com/2026/02/07/super-bowl-ads-gm-toyota-volkswagen.html",
-            "summary": "Automakers are largely sitting on the advertising sidelines during this year's Super Bowl. The Super Bowl comes amid broader uncertainty in the U.S. automotive industry.",
-            "date": "Sat, 07 Feb 2026 16:24:06 GMT",
+            "title": "Novo Nordisk sues Hims & Hers over cheaper copycat versions of Wegovy pill, injections",
+            "link": "https://www.cnbc.com/2026/02/09/novo-nordisk-sues-hims-hers-compounded-obesity-drugs.html",
+            "summary": "Novo is asking the court to permanently ban Hims from selling compounded versions of its drugs that infringe patents. Novo is seeking to recover damages.",
+            "date": "Mon, 09 Feb 2026 13:39:25 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SITM",
+            "stock_ticker": "NVO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Cuba says international airlines can no longer refuel there as Trump turns up the pressure",
+            "link": "https://www.cnbc.com/2026/02/09/cuba-airlines-fuel-energy-oil-us-trump-pressure.html",
+            "summary": "The update comes shortly after U.S. President Donald Trump threatened tariffs on any country that supplies Cuba with oil. The update comes after the president said he would impose tariffs on countries that supply Cuba with crude oil.",
+            "date": "Mon, 09 Feb 2026 12:04:43 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CUBA",
             "impact": "Bullish"
-        },
-        {
-            "title": "Hims & Hers pulls copycat weight-loss pill after threats of legal action",
-            "link": "https://www.cnbc.com/2026/02/07/hims-hers-weight-loss-pill.html",
-            "summary": "Hims & Hers announced it would stop offering its copycat of the weight-loss pill Wegovy after threats of legal action.",
-            "date": "Sat, 07 Feb 2026 20:57:08 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HIMS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Japanese Prime Minister Takaichi's ruling LDP seen winning outright majority in snap election: NHK",
-            "link": "https://www.cnbc.com/2026/02/08/japans-ruling-ldp-seen-winning-outright-majority-in-snap-poll-nhk.html",
-            "summary": "PM Takaichi's Liberal Democratic Party is likely to win between 274-328 seats in the Lower House. That's higher than the 233 seats needed for a majority, NHK says.",
-            "date": "Sun, 08 Feb 2026 13:38:47 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "J7=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump administration equity stakes pose risks to U.S. companies and markets",
-            "link": "https://www.cnbc.com/2026/02/07/trump-equity-stakes-pose-these-risks-to-us-companies-and-markets.html",
-            "summary": "The Trump administration's growing portfolio of direct investments is unprecedented outside an economic crisis or wartime. The Trump administration is making investments in a range of industries, including real estate, technology, and agriculture.",
-            "date": "Sat, 07 Feb 2026 17:17:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
         },
         {
             "title": "Pressure mounts on American Airlines CEO as carrier lags rivals",
             "link": "https://www.cnbc.com/2026/02/07/american-airlines-ceo-robert-isom.html",
             "summary": "American Airlines made $111 million last year. Delta Air Lines and United Airlines, brought in $5 billion and $3.3 billion, respectively.",
-            "date": "Sat, 07 Feb 2026 20:31:11 GMT",
+            "date": "Mon, 09 Feb 2026 13:42:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,63 +38,87 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m not made of money’: My heating engineer didn’t fix my radiators on his first visit. Do I pay him a second time?",
-            "link": "https://www.marketwatch.com/story/im-not-made-of-money-my-heating-engineer-charged-me-twice-he-didnt-fix-the-problem-the-first-time-do-i-pay-9cc6b4b9?mod=mw_rss_topstories",
-            "summary": "\"He charged $180 for the second visit for his time, including $40 for the part,\" the victim's attorney says. \"It was a lot of money,\" the attorney adds. \"He's a good guy. He's not a bad person\"",
-            "date": "Sat, 07 Feb 2026 22:52:00 GMT",
+            "title": "Epstein files: Congressional lawmakers call for Trump Commerce chief Lutnick to resign, or be fired",
+            "link": "https://www.cnbc.com/2026/02/08/epstein-files-trump-lutnick-massie.html",
+            "summary": " Commerce Secretary Howard Lutnick previously said on a podcast that he had cut ties with the notorious sex offender since an initial 2005 encounter. He has since said that he has not spoken to him again.",
+            "date": "Sun, 08 Feb 2026 23:56:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "QYLD",
             "impact": "Neutral"
         },
         {
-            "title": "‘I love being debt-free’: I’m in my mid-50s and buying a house. Do I take out a $400K mortgage or use my Roth IRA?",
-            "link": "https://www.marketwatch.com/story/i-love-being-debt-free-im-in-my-mid-50s-and-buying-a-house-do-i-take-out-a-400k-mortgage-or-use-my-roth-ira-c1aa3ef7?mod=mw_rss_topstories",
-            "summary": "“I’ll fund $500,000 of that from the sale of my current house,” he says. “I will fund $1 million of that through my personal savings.”",
-            "date": "Sat, 07 Feb 2026 22:43:00 GMT",
+            "title": "Meta starts big week in court, with opening arguments beginning in New Mexico, LA trials",
+            "link": "https://www.cnbc.com/2026/02/09/meta-big-week-in-court-opening-arguments-in-new-mexico-la-trials.html",
+            "summary": "Opening arguments begin in high-profile social media trials in New Mexico and Los Angeles. Opening arguments begin on Monday in social media trial in New New Mexico. The trial is expected to last two weeks.",
+            "date": "Mon, 09 Feb 2026 14:06:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EIKN",
+            "stock_ticker": "META",
             "impact": "Neutral"
         },
         {
-            "title": "After bitcoin’s fall, pity those wildly enthusiastic investors who borrowed billions against crypto",
-            "link": "https://www.marketwatch.com/story/as-bitcoin-crashes-pity-those-wildly-enthusiastic-investors-who-borrowed-billions-against-crypto-794164bb?mod=mw_rss_topstories",
-            "summary": "The speculation that bitcoin would hit $200,000 in 2025 now seems like a dream. Because it was. The speculation that Bitcoin would hit £1,200 in 2025 is now a dream, too.",
-            "date": "Sat, 07 Feb 2026 22:36:00 GMT",
+            "title": "Gold futures once again reclaim $5,000 mark",
+            "link": "https://www.marketwatch.com/story/gold-futures-once-again-reclaim-5-000-mark-af3da5ee?mod=mw_rss_topstories",
+            "summary": "Gold futures rose on Monday, as the volatile yellow metal benefited from uncertainty overseas. Gold futures rose by 0.4 per cent to $1,253 per ounce on Monday.",
+            "date": "Mon, 09 Feb 2026 13:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAGFF",
+            "stock_ticker": "GOLD",
             "impact": "Neutral"
         },
         {
-            "title": "‘Guests tell me I have dust bunnies’: My $150-an-hour cleaner has become increasingly negligent. Do I fire her?",
-            "link": "https://www.marketwatch.com/story/some-of-her-team-are-undocumented-my-cleaner-leaves-dust-bunnies-behind-i-pay-her-150-an-hour-do-i-make-up-an-excuse-when-i-fire-her-48b18ec1?mod=mw_rss_topstories",
-            "summary": "”I like her as a friend, but I’m underwhelmed as a client.” “I’ve never been so disappointed in a client in my life,” she said.",
-            "date": "Sat, 07 Feb 2026 20:58:00 GMT",
+            "title": "Hims & Hers reverses plan for oral Wegovy, and its stock tumbled 20%",
+            "link": "https://www.marketwatch.com/story/hims-hers-stock-poised-for-heavy-losses-after-quick-u-turn-on-plan-for-oral-wegovy-competitor-c859798e?mod=mw_rss_topstories",
+            "summary": "U.S. company reverses plans to introduce own version of Novo Nordisk's Wegovy oral weight-loss drug. Hims & Hers stock tumbled in early action on Monday.",
+            "date": "Mon, 09 Feb 2026 13:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TELLUS.ST",
+            "stock_ticker": "HIMS",
             "impact": "Neutral"
         },
         {
-            "title": "There is a severe doctor shortage. How to find a good one.",
-            "link": "https://www.marketwatch.com/story/what-can-you-do-if-your-doctor-retires-or-quits-d633bc9d?mod=mw_rss_topstories",
-            "summary": "What can you do if your doctor retires or quits? What do you do when your doctor quits or retires? Share your story with CNN iReport.",
-            "date": "Sat, 07 Feb 2026 20:06:00 GMT",
+            "title": "STMicro shares boom on multiyear, mult-billion dollar deal with Amazon Web Services",
+            "link": "https://www.marketwatch.com/story/stmicro-shares-boom-on-multiyear-mult-billion-dollar-deal-with-amazon-web-services-7d19ee1a?mod=mw_rss_topstories",
+            "summary": "Amazon Web Services will receive a long-term supply of advanced semiconductor chips. In return, Amazon may acquire a stake of up to 2.7% in STMicro.",
+            "date": "Mon, 09 Feb 2026 13:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MAY-USD",
+            "stock_ticker": "STM",
+            "impact": "Bullish"
+        },
+        {
+            "title": "The labor market was bad last year. Will investors get stung by a poor January jobs report, too?",
+            "link": "https://www.marketwatch.com/story/the-labor-market-was-bad-last-year-will-investors-get-stung-by-a-poor-january-jobs-report-too-e641b04d?mod=mw_rss_topstories",
+            "summary": "Investors are on edge about the January jobs report after an anxious week on Wall Street. But the survey is likely to tell them more about the past than the future.",
+            "date": "Mon, 09 Feb 2026 13:48:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AGMB",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Kroger’s stock surges as the grocer finally names a new CEO",
+            "link": "https://www.marketwatch.com/story/krogers-stock-surges-as-the-grocer-finally-names-a-new-ceo-778e92e4?mod=mw_rss_topstories",
+            "summary": "Kroger named Greg Foran, the former leader of Walmart U.S. as its new CEO after a nearly yearlong search.",
+            "date": "Mon, 09 Feb 2026 13:36:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MSLE",
             "impact": "Neutral"
         }
     ]
