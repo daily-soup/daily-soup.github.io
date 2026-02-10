@@ -1,124 +1,124 @@
 {
-    "date": "2026-02-09",
+    "date": "2026-02-10",
     "news": [
         {
-            "title": "Novo Nordisk sues Hims & Hers over cheaper copycat versions of Wegovy pill, injections",
-            "link": "https://www.cnbc.com/2026/02/09/novo-nordisk-sues-hims-hers-compounded-obesity-drugs.html",
-            "summary": "Novo is asking the court to permanently ban Hims from selling compounded versions of its drugs that infringe patents. Novo is seeking to recover damages.",
-            "date": "Mon, 09 Feb 2026 13:39:25 GMT",
+            "title": "Disappointing holiday season: December retail sales were flat, falling well short of estimate",
+            "link": "https://www.cnbc.com/2026/02/10/december-retail-sales-were-flat-missing-expectations.html",
+            "summary": "Consumer activity slowed sharply for the December holiday shopping season. Consumer activity slows sharply for December holiday season, according to the NSC. NSC: Retail sales down sharply for holiday season in December.",
+            "date": "Tue, 10 Feb 2026 14:01:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVO",
+            "stock_ticker": "2702.TW",
             "impact": "Neutral"
         },
         {
-            "title": "Cuba says international airlines can no longer refuel there as Trump turns up the pressure",
-            "link": "https://www.cnbc.com/2026/02/09/cuba-airlines-fuel-energy-oil-us-trump-pressure.html",
-            "summary": "The update comes shortly after U.S. President Donald Trump threatened tariffs on any country that supplies Cuba with oil. The update comes after the president said he would impose tariffs on countries that supply Cuba with crude oil.",
-            "date": "Mon, 09 Feb 2026 12:04:43 GMT",
+            "title": "Kalshi says Super Bowl trading volume surpassed $1 billion",
+            "link": "https://www.cnbc.com/2026/02/10/kalshi-super-bowl.html",
+            "summary": "Kalshi CEO Tarek Mansour said Tuesday that the platform's Super Bowl trading volume exceeded $1 billion, up 2,700% year-over-year.",
+            "date": "Tue, 10 Feb 2026 14:07:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CUBA",
+            "stock_ticker": "KALSZZX",
             "impact": "Bullish"
         },
         {
-            "title": "Pressure mounts on American Airlines CEO as carrier lags rivals",
-            "link": "https://www.cnbc.com/2026/02/07/american-airlines-ceo-robert-isom.html",
-            "summary": "American Airlines made $111 million last year. Delta Air Lines and United Airlines, brought in $5 billion and $3.3 billion, respectively.",
-            "date": "Mon, 09 Feb 2026 13:42:24 GMT",
+            "title": "Paramount sweetens WBD bid, but stops short of raising its per-share value",
+            "link": "https://www.cnbc.com/2026/02/10/paramount-sweetens-wbd-bid-stops-short-of-raising-value-.html",
+            "summary": "Paramount has sweetened its offer for Warner Bros. Discovery, adding a so-called \"ticking fee\" to signal regulatory confidence among other new elements.",
+            "date": "Tue, 10 Feb 2026 14:10:40 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PRESSURS.BO",
+            "stock_ticker": "PZG",
             "impact": "Neutral"
         },
         {
-            "title": "Epstein files: Congressional lawmakers call for Trump Commerce chief Lutnick to resign, or be fired",
-            "link": "https://www.cnbc.com/2026/02/08/epstein-files-trump-lutnick-massie.html",
-            "summary": " Commerce Secretary Howard Lutnick previously said on a podcast that he had cut ties with the notorious sex offender since an initial 2005 encounter. He has since said that he has not spoken to him again.",
-            "date": "Sun, 08 Feb 2026 23:56:22 GMT",
+            "title": "'Impossible': Taiwan pushes back against Washington’s 40% chip supply relocation goal",
+            "link": "https://www.cnbc.com/2026/02/10/taiwan-chips-us-supply-chain-lutnick-trade-deal.html",
+            "summary": "Taiwan has told Washington that its proposal to move 40% of Taiwan's semiconductor supply chain is \"impossible,\" Vice Premier Cheng Li-chiun says.",
+            "date": "Tue, 10 Feb 2026 06:26:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "QYLD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Meta starts big week in court, with opening arguments beginning in New Mexico, LA trials",
-            "link": "https://www.cnbc.com/2026/02/09/meta-big-week-in-court-opening-arguments-in-new-mexico-la-trials.html",
-            "summary": "Opening arguments begin in high-profile social media trials in New Mexico and Los Angeles. Opening arguments begin on Monday in social media trial in New New Mexico. The trial is expected to last two weeks.",
-            "date": "Mon, 09 Feb 2026 14:06:20 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "META",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Gold futures once again reclaim $5,000 mark",
-            "link": "https://www.marketwatch.com/story/gold-futures-once-again-reclaim-5-000-mark-af3da5ee?mod=mw_rss_topstories",
-            "summary": "Gold futures rose on Monday, as the volatile yellow metal benefited from uncertainty overseas. Gold futures rose by 0.4 per cent to $1,253 per ounce on Monday.",
-            "date": "Mon, 09 Feb 2026 13:59:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GOLD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Hims & Hers reverses plan for oral Wegovy, and its stock tumbled 20%",
-            "link": "https://www.marketwatch.com/story/hims-hers-stock-poised-for-heavy-losses-after-quick-u-turn-on-plan-for-oral-wegovy-competitor-c859798e?mod=mw_rss_topstories",
-            "summary": "U.S. company reverses plans to introduce own version of Novo Nordisk's Wegovy oral weight-loss drug. Hims & Hers stock tumbled in early action on Monday.",
-            "date": "Mon, 09 Feb 2026 13:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HIMS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "STMicro shares boom on multiyear, mult-billion dollar deal with Amazon Web Services",
-            "link": "https://www.marketwatch.com/story/stmicro-shares-boom-on-multiyear-mult-billion-dollar-deal-with-amazon-web-services-7d19ee1a?mod=mw_rss_topstories",
-            "summary": "Amazon Web Services will receive a long-term supply of advanced semiconductor chips. In return, Amazon may acquire a stake of up to 2.7% in STMicro.",
-            "date": "Mon, 09 Feb 2026 13:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "STM",
+            "stock_ticker": "IDIA-USD",
             "impact": "Bullish"
         },
         {
-            "title": "The labor market was bad last year. Will investors get stung by a poor January jobs report, too?",
-            "link": "https://www.marketwatch.com/story/the-labor-market-was-bad-last-year-will-investors-get-stung-by-a-poor-january-jobs-report-too-e641b04d?mod=mw_rss_topstories",
-            "summary": "Investors are on edge about the January jobs report after an anxious week on Wall Street. But the survey is likely to tell them more about the past than the future.",
-            "date": "Mon, 09 Feb 2026 13:48:00 GMT",
+            "title": "Spotify pops 14% on strong user growth, earnings beat",
+            "link": "https://www.cnbc.com/2026/02/10/spotify-spot-q4-2025-earnings.html",
+            "summary": "Spotify's stock popped as the music streaming platform reported strong monthly average user growth. Spotify said it had its best \"Spotify Wrapped\" ever.",
+            "date": "Tue, 10 Feb 2026 13:58:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AGMB",
+            "stock_ticker": "SPOT",
             "impact": "Neutral"
         },
         {
-            "title": "Kroger’s stock surges as the grocer finally names a new CEO",
-            "link": "https://www.marketwatch.com/story/krogers-stock-surges-as-the-grocer-finally-names-a-new-ceo-778e92e4?mod=mw_rss_topstories",
-            "summary": "Kroger named Greg Foran, the former leader of Walmart U.S. as its new CEO after a nearly yearlong search.",
-            "date": "Mon, 09 Feb 2026 13:36:00 GMT",
+            "title": "Retail sales fizzled at the end of the holiday season, as tariffs alter Americans’ buying habits.",
+            "link": "https://www.marketwatch.com/story/retail-sales-fizzled-out-at-the-end-of-last-year-tariffs-altered-americans-buying-habits-e957fb2f?mod=mw_rss_topstories",
+            "summary": "Sales at U.S retailers fizzled at the end of the holiday shopping season. Consumers worried about the economy might be cutting back on spending as a new year got underway.",
+            "date": "Tue, 10 Feb 2026 13:53:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MSLE",
+            "stock_ticker": "SXR=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This is the analyst who has gold bugs thinking $12,000 is not only possible, it’s the right price",
+            "link": "https://www.marketwatch.com/story/this-is-the-analyst-who-has-gold-bugs-thinking-12-000-is-not-only-possible-its-the-right-price-057b489f?mod=mw_rss_topstories",
+            "summary": "Myrmikan Capital’s Daniel Oliver says we’re in the first phase of a massive bull market. Oliver says the second could come fast.",
+            "date": "Tue, 10 Feb 2026 13:48:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "THISX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "BP to halt stock buybacks ahead of new CEO’s start",
+            "link": "https://www.marketwatch.com/story/bp-to-halt-stock-buybacks-as-profit-slumps-0457cb71?mod=mw_rss_topstories",
+            "summary": "BP said it was halting stock buybacks as the oil and gas giant said it wanted to rebuild its balance sheet. BP is one of the world's biggest oil companies.",
+            "date": "Tue, 10 Feb 2026 13:23:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why stocks have climbed even after the appearance of three Hindenburg Omens",
+            "link": "https://www.marketwatch.com/story/why-stocks-have-climbed-even-after-the-appearance-of-three-hindenburg-omens-ecff5587?mod=mw_rss_topstories",
+            "summary": "The dreaded bear-market predictor isn't so ominous, after all. The U.S. stock market is up more than 1.5 percent this year.",
+            "date": "Tue, 10 Feb 2026 13:17:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHY.V",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Microsoft and Oracle may be bargain stocks, according to this analysis",
+            "link": "https://www.marketwatch.com/story/microsoft-and-oracle-may-be-bargain-stocks-according-to-this-analysis-57116fc3?mod=mw_rss_topstories",
+            "summary": "Both stocks are relatively cheap on an earnings basis. The companies have projected revenue growth rates much higher than that of the S&amp;P 500.",
+            "date": "Tue, 10 Feb 2026 13:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MSFT",
             "impact": "Neutral"
         }
     ]
