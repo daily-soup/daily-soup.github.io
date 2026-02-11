@@ -1,124 +1,124 @@
 {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "news": [
         {
-            "title": "Disappointing holiday season: December retail sales were flat, falling well short of estimate",
-            "link": "https://www.cnbc.com/2026/02/10/december-retail-sales-were-flat-missing-expectations.html",
-            "summary": "Consumer activity slowed sharply for the December holiday shopping season. Consumer activity slows sharply for December holiday season, according to the NSC. NSC: Retail sales down sharply for holiday season in December.",
-            "date": "Tue, 10 Feb 2026 14:01:45 GMT",
+            "title": "U.S. payrolls rose by 130,000 in January, more than expected; unemployment rate at 4.3%",
+            "link": "https://www.cnbc.com/2026/02/11/jobs-report-january-2026-.html",
+            "summary": "Job growth was stronger than expected to start 2026, providing some relief to concerns about the state of the U.S. labor market.",
+            "date": "Wed, 11 Feb 2026 14:06:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "2702.TW",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Kalshi says Super Bowl trading volume surpassed $1 billion",
-            "link": "https://www.cnbc.com/2026/02/10/kalshi-super-bowl.html",
-            "summary": "Kalshi CEO Tarek Mansour said Tuesday that the platform's Super Bowl trading volume exceeded $1 billion, up 2,700% year-over-year.",
-            "date": "Tue, 10 Feb 2026 14:07:16 GMT",
+            "title": "FAA abruptly lifts order halting El Paso airport flights for 10 days",
+            "link": "https://www.cnbc.com/2026/02/11/faa-el-paso-airport.html",
+            "summary": "The FAA has halted flights at El Paso International Airport for 10 days. The FAA has suspended all flights at the airport for the duration of the shutdown.",
+            "date": "Wed, 11 Feb 2026 14:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KALSZZX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Paramount sweetens WBD bid, but stops short of raising its per-share value",
-            "link": "https://www.cnbc.com/2026/02/10/paramount-sweetens-wbd-bid-stops-short-of-raising-value-.html",
-            "summary": "Paramount has sweetened its offer for Warner Bros. Discovery, adding a so-called \"ticking fee\" to signal regulatory confidence among other new elements.",
-            "date": "Tue, 10 Feb 2026 14:10:40 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PZG",
+            "stock_ticker": "FAASF",
             "impact": "Neutral"
         },
         {
-            "title": "'Impossible': Taiwan pushes back against Washington’s 40% chip supply relocation goal",
-            "link": "https://www.cnbc.com/2026/02/10/taiwan-chips-us-supply-chain-lutnick-trade-deal.html",
-            "summary": "Taiwan has told Washington that its proposal to move 40% of Taiwan's semiconductor supply chain is \"impossible,\" Vice Premier Cheng Li-chiun says.",
-            "date": "Tue, 10 Feb 2026 06:26:59 GMT",
+            "title": "Kraft Heinz pauses work to split the company as new CEO says 'challenges are fixable'",
+            "link": "https://www.cnbc.com/2026/02/11/kraft-heinz-pauses-split-new-ceo-challenges.html",
+            "summary": "Kraft Heinz CEO Steve Cahillane said many of the company's issues are \"fixable\" Kraft Heinz is the world's largest producer of ketchup.",
+            "date": "Wed, 11 Feb 2026 12:52:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IDIA-USD",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Spotify pops 14% on strong user growth, earnings beat",
-            "link": "https://www.cnbc.com/2026/02/10/spotify-spot-q4-2025-earnings.html",
-            "summary": "Spotify's stock popped as the music streaming platform reported strong monthly average user growth. Spotify said it had its best \"Spotify Wrapped\" ever.",
-            "date": "Tue, 10 Feb 2026 13:58:24 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPOT",
+            "stock_ticker": "KHC",
             "impact": "Neutral"
         },
         {
-            "title": "Retail sales fizzled at the end of the holiday season, as tariffs alter Americans’ buying habits.",
-            "link": "https://www.marketwatch.com/story/retail-sales-fizzled-out-at-the-end-of-last-year-tariffs-altered-americans-buying-habits-e957fb2f?mod=mw_rss_topstories",
-            "summary": "Sales at U.S retailers fizzled at the end of the holiday shopping season. Consumers worried about the economy might be cutting back on spending as a new year got underway.",
-            "date": "Tue, 10 Feb 2026 13:53:00 GMT",
+            "title": "Scripps launches cost cutting, AI integration in latest effort to generate earnings growth",
+            "link": "https://www.cnbc.com/2026/02/11/scripps-cost-cutting-ai-integration-earnings.html",
+            "summary": "CEO Adam Symson said the changes are intended to alleviate journalists from administrative tasks, but not replace them with AI. Symson: The changes are not intended to replace journalists with artificial intelligence.",
+            "date": "Wed, 11 Feb 2026 14:00:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SXR=F",
+            "stock_ticker": "SSP",
             "impact": "Neutral"
         },
         {
-            "title": "This is the analyst who has gold bugs thinking $12,000 is not only possible, it’s the right price",
-            "link": "https://www.marketwatch.com/story/this-is-the-analyst-who-has-gold-bugs-thinking-12-000-is-not-only-possible-its-the-right-price-057b489f?mod=mw_rss_topstories",
-            "summary": "Myrmikan Capital’s Daniel Oliver says we’re in the first phase of a massive bull market. Oliver says the second could come fast.",
-            "date": "Tue, 10 Feb 2026 13:48:00 GMT",
+            "title": "Apptronik raises $520 million to beat Chinese humanoids, Tesla Optimus to market",
+            "link": "https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html",
+            "summary": "Apollo humanoids are being tested in factories and warehouses with partners Mercedes-Benz and GXO Logistics. Apptronik's Apollo humanoids will be available in the U.S. in 2015.",
+            "date": "Wed, 11 Feb 2026 14:00:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "APPRZZX",
             "impact": "Neutral"
         },
         {
-            "title": "BP to halt stock buybacks ahead of new CEO’s start",
-            "link": "https://www.marketwatch.com/story/bp-to-halt-stock-buybacks-as-profit-slumps-0457cb71?mod=mw_rss_topstories",
-            "summary": "BP said it was halting stock buybacks as the oil and gas giant said it wanted to rebuild its balance sheet. BP is one of the world's biggest oil companies.",
-            "date": "Tue, 10 Feb 2026 13:23:00 GMT",
+            "title": "Taking the new Wegovy pill every day is really complicated. Will patients stick with it?",
+            "link": "https://www.marketwatch.com/story/taking-the-new-wegovy-pill-every-day-is-really-complicated-will-patients-stick-with-it-280d24f6?mod=mw_rss_topstories",
+            "summary": "The first highly anticipated GLP-1 pill is here, but physicians aren't sure it has the staying power of the injections. ‘It’s not an easy pill to take’:",
+            "date": "Wed, 11 Feb 2026 13:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BP",
+            "stock_ticker": "ERNAW",
             "impact": "Neutral"
         },
         {
-            "title": "Why stocks have climbed even after the appearance of three Hindenburg Omens",
-            "link": "https://www.marketwatch.com/story/why-stocks-have-climbed-even-after-the-appearance-of-three-hindenburg-omens-ecff5587?mod=mw_rss_topstories",
-            "summary": "The dreaded bear-market predictor isn't so ominous, after all. The U.S. stock market is up more than 1.5 percent this year.",
-            "date": "Tue, 10 Feb 2026 13:17:00 GMT",
+            "title": "Morgan Stanley just pored through 3,600 stocks and says these are the best opportunities from the AI shakeout",
+            "link": "https://www.marketwatch.com/story/morgan-stanley-just-poured-through-3-600-stocks-and-says-these-are-the-best-opportunities-from-the-ai-shakeout-ccb8975a?mod=mw_rss_topstories",
+            "summary": "Morgan Stanley strategists offer criteria on how to find the AI winners. They say the market is starting to demand proof of return on equity.",
+            "date": "Wed, 11 Feb 2026 13:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHY.V",
+            "stock_ticker": "JPM",
             "impact": "Neutral"
         },
         {
-            "title": "Microsoft and Oracle may be bargain stocks, according to this analysis",
-            "link": "https://www.marketwatch.com/story/microsoft-and-oracle-may-be-bargain-stocks-according-to-this-analysis-57116fc3?mod=mw_rss_topstories",
-            "summary": "Both stocks are relatively cheap on an earnings basis. The companies have projected revenue growth rates much higher than that of the S&amp;P 500.",
-            "date": "Tue, 10 Feb 2026 13:15:00 GMT",
+            "title": "T-Mobile sees huge boom in phone subscribers, but here’s why the stock is falling",
+            "link": "https://www.marketwatch.com/story/t-mobile-sees-huge-boom-in-phone-subscribers-but-heres-why-the-stock-is-falling-ae9c445d?mod=mw_rss_topstories",
+            "summary": "Investors were looking for more from the wireless carrier when it came to subscriber growth and profit. The wireless carrier is expected to make a profit for the first time in three years.",
+            "date": "Wed, 11 Feb 2026 13:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MSFT",
+            "stock_ticker": "TMUS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My husband, 73, wants to sell our $300K rental and buy an annuity. Is that wise?",
+            "link": "https://www.marketwatch.com/story/my-husband-73-wants-to-sell-our-300k-rental-and-buy-an-annuity-is-that-wise-a91ec6ca?mod=mw_rss_topstories",
+            "summary": "He believes the annuity will net $1,600 per month, the same as the rent from the house. “He believes he will be able to retire at the age of 70,” his son says.",
+            "date": "Wed, 11 Feb 2026 13:41:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Kraft Heinz puts separation plans on hold so it can focus on fixing these problems",
+            "link": "https://www.marketwatch.com/story/kraft-heinz-puts-separation-plans-on-hold-so-it-can-focus-on-fixing-these-problems-e07bd468?mod=mw_rss_topstories",
+            "summary": "Kraft Heinz's stock falls as sales again disappointed, particularly in North America. Kraft Heinz’s stock falls to a two-year low.",
+            "date": "Wed, 11 Feb 2026 13:25:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KHC",
             "impact": "Neutral"
         }
     ]
