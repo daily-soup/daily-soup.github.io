@@ -1,124 +1,124 @@
 {
-    "date": "2026-02-11",
+    "date": "2026-02-12",
     "news": [
         {
-            "title": "U.S. payrolls rose by 130,000 in January, more than expected; unemployment rate at 4.3%",
-            "link": "https://www.cnbc.com/2026/02/11/jobs-report-january-2026-.html",
-            "summary": "Job growth was stronger than expected to start 2026, providing some relief to concerns about the state of the U.S. labor market.",
-            "date": "Wed, 11 Feb 2026 14:06:07 GMT",
+            "title": "House votes to override Trump's Canada tariffs",
+            "link": "https://www.cnbc.com/2026/02/11/gop-trump-tariffs-canada.html",
+            "summary": "Republican House leaders tried, and failed, to pass a measure on Tuesday. The measure would have blocked House disapproval votes on Trump tariffs through July.",
+            "date": "Thu, 12 Feb 2026 13:43:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "300955.SZ",
             "impact": "Neutral"
         },
         {
-            "title": "FAA abruptly lifts order halting El Paso airport flights for 10 days",
-            "link": "https://www.cnbc.com/2026/02/11/faa-el-paso-airport.html",
-            "summary": "The FAA has halted flights at El Paso International Airport for 10 days. The FAA has suspended all flights at the airport for the duration of the shutdown.",
-            "date": "Wed, 11 Feb 2026 14:03:00 GMT",
+            "title": "Tech IPO hype gets drowned out on Wall Street by prospect of $1 trillion in debt sales",
+            "link": "https://www.cnbc.com/2026/02/12/tech-ipo-hype-drowned-out-by-prospect-of-1-trillion-in-debt-sales.html",
+            "summary": " SpaceX's potential IPO has generated plenty of investor buzz, but all of the real action in tech capital markets is currently on the debt side.",
+            "date": "Thu, 12 Feb 2026 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FAASF",
+            "stock_ticker": "TECH",
             "impact": "Neutral"
         },
         {
-            "title": "Kraft Heinz pauses work to split the company as new CEO says 'challenges are fixable'",
-            "link": "https://www.cnbc.com/2026/02/11/kraft-heinz-pauses-split-new-ceo-challenges.html",
-            "summary": "Kraft Heinz CEO Steve Cahillane said many of the company's issues are \"fixable\" Kraft Heinz is the world's largest producer of ketchup.",
-            "date": "Wed, 11 Feb 2026 12:52:29 GMT",
+            "title": "American Airlines flight attendants picket as CEO tries to calm frustrated employees",
+            "link": "https://www.cnbc.com/2026/02/12/american-airlines-ceo-pressure-flight-attendants-picket.html",
+            "summary": "The union that represents American's 28,000 cabin crew members issued a vote of no confidence of CEO Robert Isom. Isom is the CEO of American Airlines, which has a fleet of more than 100 aircraft.",
+            "date": "Thu, 12 Feb 2026 14:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KHC",
+            "stock_ticker": "ADAC",
             "impact": "Neutral"
         },
         {
-            "title": "Scripps launches cost cutting, AI integration in latest effort to generate earnings growth",
-            "link": "https://www.cnbc.com/2026/02/11/scripps-cost-cutting-ai-integration-earnings.html",
-            "summary": "CEO Adam Symson said the changes are intended to alleviate journalists from administrative tasks, but not replace them with AI. Symson: The changes are not intended to replace journalists with artificial intelligence.",
-            "date": "Wed, 11 Feb 2026 14:00:02 GMT",
+            "title": "Restaurant Brands earnings top estimates as international Burger King restaurants fuel sales growth",
+            "link": "https://www.cnbc.com/2026/02/12/restaurant-brands-international-qsr-q4-2025-earnings.html",
+            "summary": "Restaurant Brands' same-store sales climbed 6.1%. Outside of the U.S. and Canada, Restaurant Brands' sales rose 6.2%.",
+            "date": "Thu, 12 Feb 2026 13:35:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SSP",
+            "stock_ticker": "DRI",
             "impact": "Neutral"
         },
         {
-            "title": "Apptronik raises $520 million to beat Chinese humanoids, Tesla Optimus to market",
-            "link": "https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html",
-            "summary": "Apollo humanoids are being tested in factories and warehouses with partners Mercedes-Benz and GXO Logistics. Apptronik's Apollo humanoids will be available in the U.S. in 2015.",
-            "date": "Wed, 11 Feb 2026 14:00:02 GMT",
+            "title": "Why Alphabet’s 100-year sterling bond is raising new fears over debt-fuelled AI arms race",
+            "link": "https://www.cnbc.com/2026/02/12/alphabet-100-year-bond-debt-fears-ai-credit-risk.html",
+            "summary": "The novel ultra-long corporate bond diversifies the Google owner's lender base as it ramps up its capex spend. The bond is expected to be issued by the end of the year.",
+            "date": "Thu, 12 Feb 2026 10:09:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "APPRZZX",
+            "stock_ticker": "WHY.V",
+            "impact": "Bullish"
+        },
+        {
+            "title": "‘I’m not made of money’: My heating engineer didn’t fix my radiators on his first visit. Do I pay him a second time?",
+            "link": "https://www.marketwatch.com/story/im-not-made-of-money-my-heating-engineer-charged-me-twice-he-didnt-fix-the-problem-the-first-time-do-i-pay-9cc6b4b9?mod=mw_rss_topstories",
+            "summary": "\"He charged $180 for the second visit for his time, including $40 for the part,\" the victim's attorney says. \"It was a lot of money,\" the attorney adds. \"He's a good guy. He's not a bad person\"",
+            "date": "Thu, 12 Feb 2026 13:59:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "Taking the new Wegovy pill every day is really complicated. Will patients stick with it?",
-            "link": "https://www.marketwatch.com/story/taking-the-new-wegovy-pill-every-day-is-really-complicated-will-patients-stick-with-it-280d24f6?mod=mw_rss_topstories",
-            "summary": "The first highly anticipated GLP-1 pill is here, but physicians aren't sure it has the staying power of the injections. ‘It’s not an easy pill to take’:",
-            "date": "Wed, 11 Feb 2026 13:59:00 GMT",
+            "title": "It’s still a ‘low fire’ jobs market. Jobless claims stay low and unemployment falls early in the new year.",
+            "link": "https://www.marketwatch.com/story/its-still-a-low-fire-jobs-market-jobless-claims-stay-low-and-unemployment-falls-early-in-the-new-year-d8244970?mod=mw_rss_topstories",
+            "summary": "Businesses aren’t hiring much, but they’re not resorting to big layoffs, either. Businesses aren't hiring much but aren't resorting in big layoffs either. The U.S. economy is in a hiring slump.",
+            "date": "Thu, 12 Feb 2026 13:55:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ITS.AX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Crocs shoes are in high demand — in international markets, if not in North America",
+            "link": "https://www.marketwatch.com/story/crocss-stock-soars-as-sales-return-to-growth-over-the-holidays-on-strong-overseas-demand-c42e0269?mod=mw_rss_topstories",
+            "summary": "Crocs’s overall sales fell, but beat expectations by a wide margin. Strength in the Crocs brand and internationally offset HeyDude weakness.",
+            "date": "Thu, 12 Feb 2026 13:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CROX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The latest jobs report is bad news if you’re looking for work — except in these fields",
+            "link": "https://www.marketwatch.com/story/the-latest-jobs-report-is-bad-news-if-youre-looking-for-work-except-in-these-fields-e20d78c9?mod=mw_rss_topstories",
+            "summary": "January’s jobs report easily surpassed Wall Street expectations, giving a temporary boost to stocks. But it was downbeat data for many Americans who are unemployed and looking for work.",
+            "date": "Thu, 12 Feb 2026 13:48:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "ERNAW",
-            "impact": "Neutral"
+            "impact": "Bearish"
         },
         {
-            "title": "Morgan Stanley just pored through 3,600 stocks and says these are the best opportunities from the AI shakeout",
-            "link": "https://www.marketwatch.com/story/morgan-stanley-just-poured-through-3-600-stocks-and-says-these-are-the-best-opportunities-from-the-ai-shakeout-ccb8975a?mod=mw_rss_topstories",
-            "summary": "Morgan Stanley strategists offer criteria on how to find the AI winners. They say the market is starting to demand proof of return on equity.",
-            "date": "Wed, 11 Feb 2026 13:59:00 GMT",
+            "title": "The smartest AI trade right now is in molecules and powders, says the research firm known for nailing trends early",
+            "link": "https://www.marketwatch.com/story/the-smartest-ai-trade-right-now-is-in-molecules-and-powders-says-the-research-firm-known-for-nailing-trends-early-d36d6ff2?mod=mw_rss_topstories",
+            "summary": "Citrini Research says dig deep into the molecules that both AI and traditional industries need and stop focusing on software. Citrini says the molecules need to be developed in a way that can be applied to a variety of industries.",
+            "date": "Thu, 12 Feb 2026 13:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JPM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "T-Mobile sees huge boom in phone subscribers, but here’s why the stock is falling",
-            "link": "https://www.marketwatch.com/story/t-mobile-sees-huge-boom-in-phone-subscribers-but-heres-why-the-stock-is-falling-ae9c445d?mod=mw_rss_topstories",
-            "summary": "Investors were looking for more from the wireless carrier when it came to subscriber growth and profit. The wireless carrier is expected to make a profit for the first time in three years.",
-            "date": "Wed, 11 Feb 2026 13:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TMUS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My husband, 73, wants to sell our $300K rental and buy an annuity. Is that wise?",
-            "link": "https://www.marketwatch.com/story/my-husband-73-wants-to-sell-our-300k-rental-and-buy-an-annuity-is-that-wise-a91ec6ca?mod=mw_rss_topstories",
-            "summary": "He believes the annuity will net $1,600 per month, the same as the rent from the house. “He believes he will be able to retire at the age of 70,” his son says.",
-            "date": "Wed, 11 Feb 2026 13:41:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Kraft Heinz puts separation plans on hold so it can focus on fixing these problems",
-            "link": "https://www.marketwatch.com/story/kraft-heinz-puts-separation-plans-on-hold-so-it-can-focus-on-fixing-these-problems-e07bd468?mod=mw_rss_topstories",
-            "summary": "Kraft Heinz's stock falls as sales again disappointed, particularly in North America. Kraft Heinz’s stock falls to a two-year low.",
-            "date": "Wed, 11 Feb 2026 13:25:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KHC",
+            "stock_ticker": "ERNAW",
             "impact": "Neutral"
         }
     ]
