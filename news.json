@@ -1,83 +1,83 @@
 {
-    "date": "2026-02-12",
+    "date": "2026-02-13",
     "news": [
         {
-            "title": "House votes to override Trump's Canada tariffs",
-            "link": "https://www.cnbc.com/2026/02/11/gop-trump-tariffs-canada.html",
-            "summary": "Republican House leaders tried, and failed, to pass a measure on Tuesday. The measure would have blocked House disapproval votes on Trump tariffs through July.",
-            "date": "Thu, 12 Feb 2026 13:43:56 GMT",
+            "title": "Consumer prices rose 2.4% annually in January, less than expected",
+            "link": "https://www.cnbc.com/2026/02/13/cpi-inflation-report-january-2026.html",
+            "summary": "The consumer price index was expected to increase 2.5% from a year ago in January, according to the Dow Jones consensus. The Consumer Price Index is a measure of inflation in the United States.",
+            "date": "Fri, 13 Feb 2026 13:53:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "300955.SZ",
+            "stock_ticker": "XYT=F",
             "impact": "Neutral"
         },
         {
-            "title": "Tech IPO hype gets drowned out on Wall Street by prospect of $1 trillion in debt sales",
-            "link": "https://www.cnbc.com/2026/02/12/tech-ipo-hype-drowned-out-by-prospect-of-1-trillion-in-debt-sales.html",
-            "summary": " SpaceX's potential IPO has generated plenty of investor buzz, but all of the real action in tech capital markets is currently on the debt side.",
-            "date": "Thu, 12 Feb 2026 13:00:01 GMT",
+            "title": "Dubai's DP World replaces CEO after Epstein links emerge",
+            "link": "https://www.cnbc.com/2026/02/13/dubais-dp-world-replaces-ceo-after-epstein-links-emerge.html",
+            "summary": "Sultan Ahmed bin Sulayem had been the CEO of Dubai's largest port operator since 2016. He had also been the chairman of Dubai Port Authority since 2007.",
+            "date": "Fri, 13 Feb 2026 13:46:48 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TECH",
+            "stock_ticker": "DPZ",
             "impact": "Neutral"
         },
         {
-            "title": "American Airlines flight attendants picket as CEO tries to calm frustrated employees",
-            "link": "https://www.cnbc.com/2026/02/12/american-airlines-ceo-pressure-flight-attendants-picket.html",
-            "summary": "The union that represents American's 28,000 cabin crew members issued a vote of no confidence of CEO Robert Isom. Isom is the CEO of American Airlines, which has a fleet of more than 100 aircraft.",
-            "date": "Thu, 12 Feb 2026 14:00:01 GMT",
+            "title": "Senate should proceed with Warsh hearings for Fed chair despite Powell probe: Bessent",
+            "link": "https://www.cnbc.com/2026/02/13/fed-chair-warsh-powell-senate-bessent.html",
+            "summary": "Bessent says he believes Republicans on the Senate Banking Committee \"are going to proceed\" with a Fed chair nomination hearing for Warsh. Bessent told CNBC's \"Squawk Box\" he believes the hearing will go ahead.",
+            "date": "Fri, 13 Feb 2026 13:54:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ADAC",
+            "stock_ticker": "SENATE-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Restaurant Brands earnings top estimates as international Burger King restaurants fuel sales growth",
-            "link": "https://www.cnbc.com/2026/02/12/restaurant-brands-international-qsr-q4-2025-earnings.html",
-            "summary": "Restaurant Brands' same-store sales climbed 6.1%. Outside of the U.S. and Canada, Restaurant Brands' sales rose 6.2%.",
-            "date": "Thu, 12 Feb 2026 13:35:29 GMT",
+            "title": "Pinterest is down 22% premarket as tariffs hit earnings. Here's what's happening",
+            "link": "https://www.cnbc.com/2026/02/13/-pinterest-stock-price-tariff-earnings-layoffs.html",
+            "summary": "\"Many of the largest retailers have been disproportionately impacted by tariffs and have been pulling back on advertising spend,\" Pinterest's CEO said. Pinterest is a social media app that lets users share photos and videos.",
+            "date": "Fri, 13 Feb 2026 13:15:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DRI",
+            "stock_ticker": "PINS",
             "impact": "Neutral"
         },
         {
-            "title": "Why Alphabet’s 100-year sterling bond is raising new fears over debt-fuelled AI arms race",
-            "link": "https://www.cnbc.com/2026/02/12/alphabet-100-year-bond-debt-fears-ai-credit-risk.html",
-            "summary": "The novel ultra-long corporate bond diversifies the Google owner's lender base as it ramps up its capex spend. The bond is expected to be issued by the end of the year.",
-            "date": "Thu, 12 Feb 2026 10:09:46 GMT",
+            "title": "Trump tariffs leave importers with record-breaking $3.5 billion U.S. Customs bond funding shortfall",
+            "link": "https://www.cnbc.com/2026/02/12/trump-tariffs-us-customs-record-bond-funding-issues-flagged.html",
+            "summary": "U.S. Customs identified close to $3.6 billion in surety bond insufficiencies in fiscal 2025. Trade experts say trade experts say has soared due to tariffs.",
+            "date": "Fri, 13 Feb 2026 13:17:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHY.V",
-            "impact": "Bullish"
-        },
-        {
-            "title": "‘I’m not made of money’: My heating engineer didn’t fix my radiators on his first visit. Do I pay him a second time?",
-            "link": "https://www.marketwatch.com/story/im-not-made-of-money-my-heating-engineer-charged-me-twice-he-didnt-fix-the-problem-the-first-time-do-i-pay-9cc6b4b9?mod=mw_rss_topstories",
-            "summary": "\"He charged $180 for the second visit for his time, including $40 for the part,\" the victim's attorney says. \"It was a lot of money,\" the attorney adds. \"He's a good guy. He's not a bad person\"",
-            "date": "Thu, 12 Feb 2026 13:59:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "It’s still a ‘low fire’ jobs market. Jobless claims stay low and unemployment falls early in the new year.",
-            "link": "https://www.marketwatch.com/story/its-still-a-low-fire-jobs-market-jobless-claims-stay-low-and-unemployment-falls-early-in-the-new-year-d8244970?mod=mw_rss_topstories",
-            "summary": "Businesses aren’t hiring much, but they’re not resorting to big layoffs, either. Businesses aren't hiring much but aren't resorting in big layoffs either. The U.S. economy is in a hiring slump.",
-            "date": "Thu, 12 Feb 2026 13:55:00 GMT",
+            "title": "‘At first I laughed.’ More couples are gifting practical things like vacuum cleaners this Valentine’s Day.",
+            "link": "https://www.marketwatch.com/story/at-first-i-laughed-more-couples-are-gifting-practical-things-like-vacuum-cleaners-this-valentines-day-560128ee?mod=mw_rss_topstories",
+            "summary": "The idea of gifting something practical for the Feb. 14 holiday appears to be catching on. It may sound decidedly less-than-special, but the idea of gift-gifting is becoming more and more popular.",
+            "date": "Fri, 13 Feb 2026 13:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ATOM-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "It’s been a software horror show.  Here’s why it could get even scarier, according to Citi.",
+            "link": "https://www.marketwatch.com/story/its-been-a-software-horror-show-heres-why-it-could-get-even-scarier-according-to-citi-9495bd24?mod=mw_rss_topstories",
+            "summary": "A short term bounce may be due for software, but longer term problems remain. The software industry is in a long-term slump, and software is at the heart of it.",
+            "date": "Fri, 13 Feb 2026 13:36:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,40 +86,40 @@
             "impact": "Neutral"
         },
         {
-            "title": "Crocs shoes are in high demand — in international markets, if not in North America",
-            "link": "https://www.marketwatch.com/story/crocss-stock-soars-as-sales-return-to-growth-over-the-holidays-on-strong-overseas-demand-c42e0269?mod=mw_rss_topstories",
-            "summary": "Crocs’s overall sales fell, but beat expectations by a wide margin. Strength in the Crocs brand and internationally offset HeyDude weakness.",
-            "date": "Thu, 12 Feb 2026 13:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CROX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The latest jobs report is bad news if you’re looking for work — except in these fields",
-            "link": "https://www.marketwatch.com/story/the-latest-jobs-report-is-bad-news-if-youre-looking-for-work-except-in-these-fields-e20d78c9?mod=mw_rss_topstories",
-            "summary": "January’s jobs report easily surpassed Wall Street expectations, giving a temporary boost to stocks. But it was downbeat data for many Americans who are unemployed and looking for work.",
-            "date": "Thu, 12 Feb 2026 13:48:00 GMT",
+            "title": "The ‘golden age’ of aero engines is just getting started. These are the stocks to play, says JPMorgan",
+            "link": "https://www.marketwatch.com/story/the-golden-age-of-aero-engines-is-just-getting-started-these-are-the-stocks-to-play-says-jpmorgan-5e2d2a39?mod=mw_rss_topstories",
+            "summary": "JPMorgan says aero engines is a hot sector and not about to go away. GE Aerospace is among its picks for the sector.",
+            "date": "Fri, 13 Feb 2026 13:35:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "ERNAW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m trying to fix my relationship with my stepdaughter. Should my husband and I tell her how we have divided our assets?",
+            "link": "https://www.marketwatch.com/story/should-i-tell-my-stepdaughter-that-my-husband-and-i-own-our-home-50-50-and-that-she-will-have-to-wait-for-her-inheritance-d9434b31?mod=mw_rss_topstories",
+            "summary": "“We bought a house outright for $500,000. We each contributed $250,000,” she says. “We each contributed £250,00.”",
+            "date": "Fri, 13 Feb 2026 13:29:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘We have no prenup’: I want rights of survivorship in our marital home. My wife prefers tenants in common. Now what?",
+            "link": "https://www.marketwatch.com/story/we-have-no-prenup-i-want-rights-of-survivorship-in-our-marital-home-my-wife-prefers-tenants-in-common-now-what-996cf652?mod=mw_rss_topstories",
+            "summary": "“She is an old-school farm girl who inherited all her money and wants to pass it down to her children,” her daughter says.",
+            "date": "Fri, 13 Feb 2026 13:14:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WDC",
             "impact": "Bearish"
-        },
-        {
-            "title": "The smartest AI trade right now is in molecules and powders, says the research firm known for nailing trends early",
-            "link": "https://www.marketwatch.com/story/the-smartest-ai-trade-right-now-is-in-molecules-and-powders-says-the-research-firm-known-for-nailing-trends-early-d36d6ff2?mod=mw_rss_topstories",
-            "summary": "Citrini Research says dig deep into the molecules that both AI and traditional industries need and stop focusing on software. Citrini says the molecules need to be developed in a way that can be applied to a variety of industries.",
-            "date": "Thu, 12 Feb 2026 13:37:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ERNAW",
-            "impact": "Neutral"
         }
     ]
 }
