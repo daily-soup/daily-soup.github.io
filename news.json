@@ -1,59 +1,23 @@
 {
-    "date": "2026-02-13",
+    "date": "2026-02-14",
     "news": [
         {
-            "title": "Consumer prices rose 2.4% annually in January, less than expected",
-            "link": "https://www.cnbc.com/2026/02/13/cpi-inflation-report-january-2026.html",
-            "summary": "The consumer price index was expected to increase 2.5% from a year ago in January, according to the Dow Jones consensus. The Consumer Price Index is a measure of inflation in the United States.",
-            "date": "Fri, 13 Feb 2026 13:53:01 GMT",
+            "title": "U.S. and European interests are 'intertwined,' Secretary of State Rubio says",
+            "link": "https://www.cnbc.com/2026/02/14/us-and-european-interests-are-intertwined-rubio-says.html",
+            "summary": "U.S. Secretary of State John Kerry spoke at the Munich Security Conference. He stressed the importance of cooperation between the U.S and Europe.",
+            "date": "Sat, 14 Feb 2026 13:20:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XYT=F",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Dubai's DP World replaces CEO after Epstein links emerge",
-            "link": "https://www.cnbc.com/2026/02/13/dubais-dp-world-replaces-ceo-after-epstein-links-emerge.html",
-            "summary": "Sultan Ahmed bin Sulayem had been the CEO of Dubai's largest port operator since 2016. He had also been the chairman of Dubai Port Authority since 2007.",
-            "date": "Fri, 13 Feb 2026 13:46:48 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DPZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Senate should proceed with Warsh hearings for Fed chair despite Powell probe: Bessent",
-            "link": "https://www.cnbc.com/2026/02/13/fed-chair-warsh-powell-senate-bessent.html",
-            "summary": "Bessent says he believes Republicans on the Senate Banking Committee \"are going to proceed\" with a Fed chair nomination hearing for Warsh. Bessent told CNBC's \"Squawk Box\" he believes the hearing will go ahead.",
-            "date": "Fri, 13 Feb 2026 13:54:07 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SENATE-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Pinterest is down 22% premarket as tariffs hit earnings. Here's what's happening",
-            "link": "https://www.cnbc.com/2026/02/13/-pinterest-stock-price-tariff-earnings-layoffs.html",
-            "summary": "\"Many of the largest retailers have been disproportionately impacted by tariffs and have been pulling back on advertising spend,\" Pinterest's CEO said. Pinterest is a social media app that lets users share photos and videos.",
-            "date": "Fri, 13 Feb 2026 13:15:24 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PINS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump tariffs leave importers with record-breaking $3.5 billion U.S. Customs bond funding shortfall",
-            "link": "https://www.cnbc.com/2026/02/12/trump-tariffs-us-customs-record-bond-funding-issues-flagged.html",
-            "summary": "U.S. Customs identified close to $3.6 billion in surety bond insufficiencies in fiscal 2025. Trade experts say trade experts say has soared due to tariffs.",
-            "date": "Fri, 13 Feb 2026 13:17:55 GMT",
+            "title": "Trump says he will issue executive order to get voter-ID requirements before midterms",
+            "link": "https://www.cnbc.com/2026/02/13/trump-congress-voter-id-midterms.html",
+            "summary": "President Donald Trump says he will implement national voter-ID requirements by November's elections. President Donald Trump proclaims that he will find a way to implement national Voter ID requirements.",
+            "date": "Fri, 13 Feb 2026 23:58:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,64 +26,100 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘At first I laughed.’ More couples are gifting practical things like vacuum cleaners this Valentine’s Day.",
-            "link": "https://www.marketwatch.com/story/at-first-i-laughed-more-couples-are-gifting-practical-things-like-vacuum-cleaners-this-valentines-day-560128ee?mod=mw_rss_topstories",
-            "summary": "The idea of gifting something practical for the Feb. 14 holiday appears to be catching on. It may sound decidedly less-than-special, but the idea of gift-gifting is becoming more and more popular.",
-            "date": "Fri, 13 Feb 2026 13:52:00 GMT",
+            "title": "What's next for Cuba? Trump turns the screws as the island runs out of jet fuel",
+            "link": "https://www.cnbc.com/2026/02/14/cuba-fuel-shortage-trump-tariffs.html",
+            "summary": "Cuba’s government appears to be on the brink of economic collapse amid a worsening energy crisis. The country has been suffering from an energy crisis since the start of the year.",
+            "date": "Sat, 14 Feb 2026 06:58:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ATOM-USD",
+            "stock_ticker": "BD0.F",
             "impact": "Neutral"
         },
         {
-            "title": "It’s been a software horror show.  Here’s why it could get even scarier, according to Citi.",
-            "link": "https://www.marketwatch.com/story/its-been-a-software-horror-show-heres-why-it-could-get-even-scarier-according-to-citi-9495bd24?mod=mw_rss_topstories",
-            "summary": "A short term bounce may be due for software, but longer term problems remain. The software industry is in a long-term slump, and software is at the heart of it.",
-            "date": "Fri, 13 Feb 2026 13:36:00 GMT",
+            "title": "Lunar New Year gives luxury brands a chance to win back big spenders in China",
+            "link": "https://www.cnbc.com/2026/02/14/lunar-new-year-luxury-china.html",
+            "summary": "The Chinese luxury market is expected to turnaround this year. Western brands can't afford to be complacent, analysts say. The market is worth an estimated $1.2 trillion.",
+            "date": "Sat, 14 Feb 2026 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ITS.AX",
+            "stock_ticker": "LNR22103-USD",
             "impact": "Neutral"
         },
         {
-            "title": "The ‘golden age’ of aero engines is just getting started. These are the stocks to play, says JPMorgan",
-            "link": "https://www.marketwatch.com/story/the-golden-age-of-aero-engines-is-just-getting-started-these-are-the-stocks-to-play-says-jpmorgan-5e2d2a39?mod=mw_rss_topstories",
-            "summary": "JPMorgan says aero engines is a hot sector and not about to go away. GE Aerospace is among its picks for the sector.",
-            "date": "Fri, 13 Feb 2026 13:35:00 GMT",
+            "title": "Average IRS tax refund is up 10.9% so far this season, early filing data shows",
+            "link": "https://www.cnbc.com/2026/02/13/average-tax-refund-early-irs-data.html",
+            "summary": "The average IRS tax refund is up 10.9% so far this season, according to early filing data. Here's what taxpayers can expect.",
+            "date": "Sat, 14 Feb 2026 01:17:43 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^DJI",
+            "impact": "Bullish"
+        },
+        {
+            "title": "The stock market is reflecting fears of an AI apocalypse for white-collar jobs",
+            "link": "https://www.marketwatch.com/story/the-stock-market-is-reflecting-fears-of-an-ai-apocalypse-for-white-collar-jobs-c845c508?mod=mw_rss_topstories",
+            "summary": "Investors are shooting first and asking questions later as the momentum trade gets swept up by concerns that AI could disrupt established industries like insurance and wealth management.",
+            "date": "Sat, 14 Feb 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "ERNAW",
-            "impact": "Neutral"
+            "impact": "Bullish"
         },
         {
-            "title": "I’m trying to fix my relationship with my stepdaughter. Should my husband and I tell her how we have divided our assets?",
-            "link": "https://www.marketwatch.com/story/should-i-tell-my-stepdaughter-that-my-husband-and-i-own-our-home-50-50-and-that-she-will-have-to-wait-for-her-inheritance-d9434b31?mod=mw_rss_topstories",
-            "summary": "“We bought a house outright for $500,000. We each contributed $250,000,” she says. “We each contributed £250,00.”",
-            "date": "Fri, 13 Feb 2026 13:29:00 GMT",
+            "title": "A partial shutdown has hit. TSA is warning of long waits and missed or delayed flights.",
+            "link": "https://www.marketwatch.com/story/a-partial-shutdown-looks-almost-certain-tsa-is-warning-of-long-waits-and-missed-or-delayed-flights-124295c9?mod=mw_rss_topstories",
+            "summary": "The House and Senate left Washington earlier this week without providing full funding for the Department of Homeland Security. A partial U.S. government shutdown is underway Saturday.",
+            "date": "Sat, 14 Feb 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘We have no prenup’: I want rights of survivorship in our marital home. My wife prefers tenants in common. Now what?",
-            "link": "https://www.marketwatch.com/story/we-have-no-prenup-i-want-rights-of-survivorship-in-our-marital-home-my-wife-prefers-tenants-in-common-now-what-996cf652?mod=mw_rss_topstories",
-            "summary": "“She is an old-school farm girl who inherited all her money and wants to pass it down to her children,” her daughter says.",
-            "date": "Fri, 13 Feb 2026 13:14:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WDC",
+            "stock_ticker": "A",
             "impact": "Bearish"
+        },
+        {
+            "title": "Crypto investors who don’t fill out this new tax form the right way could overpay on their taxes",
+            "link": "https://www.marketwatch.com/story/crypto-investors-who-dont-fill-out-this-new-tax-form-the-right-way-could-overpay-on-their-taxes-4ccc7727?mod=mw_rss_topstories",
+            "summary": "Crypto investors can expect to receive a new tax form this year from exchanges such as Coinbase and Robinhood. The new form will be available on January 1, 2015.",
+            "date": "Sat, 14 Feb 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BITQ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How the riptide around AI and stocks could seep into Fed decisions and the housing market",
+            "link": "https://www.marketwatch.com/story/how-the-riptide-around-ai-and-stocks-could-seep-into-fed-decisions-and-the-housing-market-fa6509ec?mod=mw_rss_topstories",
+            "summary": " AI is suddenly driving big swings in stocks. It also could seep into central-bank policy decisions and the U.S. housing market.",
+            "date": "Sat, 14 Feb 2026 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "U.S. economy suddenly seems on track for fabled soft landing: 2% inflation without a recession",
+            "link": "https://www.marketwatch.com/story/u-s-economy-suddenly-seems-on-track-for-fabled-soft-landing-2-inflation-without-a-recession-a48a0008?mod=mw_rss_topstories",
+            "summary": "Who needs interest-rate cuts when the labor market is looking healthy and inflation is cooling? The U.S. Federal Reserve is expected to cut interest rates this week.",
+            "date": "Sat, 14 Feb 2026 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HRC=F",
+            "impact": "Neutral"
         }
     ]
 }
