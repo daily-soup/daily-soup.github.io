@@ -1,16 +1,28 @@
 {
-    "date": "2026-02-14",
+    "date": "2026-02-15",
     "news": [
         {
-            "title": "U.S. and European interests are 'intertwined,' Secretary of State Rubio says",
-            "link": "https://www.cnbc.com/2026/02/14/us-and-european-interests-are-intertwined-rubio-says.html",
-            "summary": "U.S. Secretary of State John Kerry spoke at the Munich Security Conference. He stressed the importance of cooperation between the U.S and Europe.",
-            "date": "Sat, 14 Feb 2026 13:20:09 GMT",
+            "title": "The NFL just wrapped a record-breaking season. Here’s why next year’s going to be even bigger",
+            "link": "https://www.cnbc.com/2026/02/15/nfl-just-had-record-breaking-season-next-year-will-be-bigger.html",
+            "summary": "The NFL announced that Paris, Melbourne and Rio de Janeiro will host regular-season games for the first time. In the days leading up to the Super Bowl, the NFL also announced that London will host a game.",
+            "date": "Sun, 15 Feb 2026 08:24:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "ERNAW",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Some European policymakers welcome U.S. Secretary of State Rubio's warm words, others remain cautious",
+            "link": "https://www.cnbc.com/2026/02/15/some-europeans-welcome-rubios-warm-words-others-remain-cautious.html",
+            "summary": "Rubio's comments struck a softer tone than Vice President JD Vance's at last year's event. Rubio's comments at the Munich Security Conference struck a tougher tone than Vance's last year.",
+            "date": "Sun, 15 Feb 2026 13:15:34 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SOME",
             "impact": "Neutral"
         },
         {
@@ -26,6 +38,18 @@
             "impact": "Neutral"
         },
         {
+            "title": "Global week ahead: Markets brace for more AI noise and 'scare trading'",
+            "link": "https://www.cnbc.com/2026/02/15/global-week-ahead-markets-brace-for-more-ai-noise-and-scare-trading.html",
+            "summary": "Looking back at last week's volatility could give some clues for the trading week ahead. Looking back at the volatility could gives some clues as to what to expect in the coming week.",
+            "date": "Sun, 15 Feb 2026 08:36:50 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "COIN",
+            "impact": "Neutral"
+        },
+        {
             "title": "What's next for Cuba? Trump turns the screws as the island runs out of jet fuel",
             "link": "https://www.cnbc.com/2026/02/14/cuba-fuel-shortage-trump-tariffs.html",
             "summary": "Cuba’s government appears to be on the brink of economic collapse amid a worsening energy crisis. The country has been suffering from an energy crisis since the start of the year.",
@@ -38,88 +62,64 @@
             "impact": "Neutral"
         },
         {
-            "title": "Lunar New Year gives luxury brands a chance to win back big spenders in China",
-            "link": "https://www.cnbc.com/2026/02/14/lunar-new-year-luxury-china.html",
-            "summary": "The Chinese luxury market is expected to turnaround this year. Western brands can't afford to be complacent, analysts say. The market is worth an estimated $1.2 trillion.",
-            "date": "Sat, 14 Feb 2026 13:00:01 GMT",
+            "title": "My elderly mother has dementia. My sister sold her house and has hidden the proceeds. What can we do?",
+            "link": "https://www.marketwatch.com/story/she-is-planning-to-move-out-of-state-my-sister-secretly-sold-our-elderly-mothers-house-what-can-i-do-e9a9f486?mod=mw_rss_topstories",
+            "summary": "“My sister is planning to move out of state and feels it is her right to control the money,” she said. “She feels she has a right to the money.”",
+            "date": "Sun, 15 Feb 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LNR22103-USD",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "Average IRS tax refund is up 10.9% so far this season, early filing data shows",
-            "link": "https://www.cnbc.com/2026/02/13/average-tax-refund-early-irs-data.html",
-            "summary": "The average IRS tax refund is up 10.9% so far this season, according to early filing data. Here's what taxpayers can expect.",
-            "date": "Sat, 14 Feb 2026 01:17:43 GMT",
+            "title": "‘I’m a loner’: I’m 62 with a multimillion-dollar portfolio and no heirs. Should I find a wife for my twilight years?",
+            "link": "https://www.marketwatch.com/story/im-a-loner-im-62-with-a-multimillion-dollar-portfolio-and-no-heirs-should-i-find-a-wife-for-my-twilight-years-4f4f4408?mod=mw_rss_topstories",
+            "summary": "“I have never been married, have no siblings, and both my parents have passed away,” she said. “I’ve never been in a relationship. I’m always on the lookout for the perfect man.”",
+            "date": "Sun, 15 Feb 2026 13:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^DJI",
-            "impact": "Bullish"
+            "stock_ticker": "IBRX",
+            "impact": "Neutral"
         },
         {
-            "title": "The stock market is reflecting fears of an AI apocalypse for white-collar jobs",
-            "link": "https://www.marketwatch.com/story/the-stock-market-is-reflecting-fears-of-an-ai-apocalypse-for-white-collar-jobs-c845c508?mod=mw_rss_topstories",
-            "summary": "Investors are shooting first and asking questions later as the momentum trade gets swept up by concerns that AI could disrupt established industries like insurance and wealth management.",
-            "date": "Sat, 14 Feb 2026 13:30:00 GMT",
+            "title": "‘I’m close to retiring’: I’m behind on my property tax. Is this a really bad time to sell my house?",
+            "link": "https://www.marketwatch.com/story/im-close-to-retiring-im-behind-on-my-property-taxes-is-this-a-bad-time-to-sell-my-house-40954efd?mod=mw_rss_topstories",
+            "summary": "“I’ve never been late on a mortgage, so this makes me nervous,” she says. “I've never beenLate on a Mortgage, so This Makes me nervous”",
+            "date": "Sun, 15 Feb 2026 13:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ERNAW",
-            "impact": "Bullish"
+            "stock_ticker": "IBRX",
+            "impact": "Neutral"
         },
         {
-            "title": "A partial shutdown has hit. TSA is warning of long waits and missed or delayed flights.",
-            "link": "https://www.marketwatch.com/story/a-partial-shutdown-looks-almost-certain-tsa-is-warning-of-long-waits-and-missed-or-delayed-flights-124295c9?mod=mw_rss_topstories",
-            "summary": "The House and Senate left Washington earlier this week without providing full funding for the Department of Homeland Security. A partial U.S. government shutdown is underway Saturday.",
-            "date": "Sat, 14 Feb 2026 13:30:00 GMT",
+            "title": "‘We’ve been dating for 5 years’: My boyfriend’s parents say he doesn’t earn enough to marry. Should I speak to his father?",
+            "link": "https://www.marketwatch.com/story/weve-been-dating-for-5-years-my-boyfriends-parents-say-he-doesnt-earn-enough-to-marry-should-i-speak-to-his-father-44b48700?mod=mw_rss_topstories",
+            "summary": "“Every year his very wealthy parents say that he needs to ‘earn more’ before he can marry me,” she said.",
+            "date": "Sun, 15 Feb 2026 12:49:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
+            "stock_ticker": "WEVER-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘We have no prenup’: I want rights of survivorship in our marital home. My wife prefers tenants in common. Now what?",
+            "link": "https://www.marketwatch.com/story/we-have-no-prenup-i-want-rights-of-survivorship-in-our-marital-home-my-wife-prefers-tenants-in-common-now-what-996cf652?mod=mw_rss_topstories",
+            "summary": "“She is an old-school farm girl who inherited all her money and wants to pass it down to her children,” her daughter says.",
+            "date": "Sun, 15 Feb 2026 00:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WSTNR",
             "impact": "Bearish"
-        },
-        {
-            "title": "Crypto investors who don’t fill out this new tax form the right way could overpay on their taxes",
-            "link": "https://www.marketwatch.com/story/crypto-investors-who-dont-fill-out-this-new-tax-form-the-right-way-could-overpay-on-their-taxes-4ccc7727?mod=mw_rss_topstories",
-            "summary": "Crypto investors can expect to receive a new tax form this year from exchanges such as Coinbase and Robinhood. The new form will be available on January 1, 2015.",
-            "date": "Sat, 14 Feb 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BITQ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How the riptide around AI and stocks could seep into Fed decisions and the housing market",
-            "link": "https://www.marketwatch.com/story/how-the-riptide-around-ai-and-stocks-could-seep-into-fed-decisions-and-the-housing-market-fa6509ec?mod=mw_rss_topstories",
-            "summary": " AI is suddenly driving big swings in stocks. It also could seep into central-bank policy decisions and the U.S. housing market.",
-            "date": "Sat, 14 Feb 2026 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. economy suddenly seems on track for fabled soft landing: 2% inflation without a recession",
-            "link": "https://www.marketwatch.com/story/u-s-economy-suddenly-seems-on-track-for-fabled-soft-landing-2-inflation-without-a-recession-a48a0008?mod=mw_rss_topstories",
-            "summary": "Who needs interest-rate cuts when the labor market is looking healthy and inflation is cooling? The U.S. Federal Reserve is expected to cut interest rates this week.",
-            "date": "Sat, 14 Feb 2026 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
         }
     ]
 }
