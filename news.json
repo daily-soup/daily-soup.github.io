@@ -1,125 +1,125 @@
 {
-    "date": "2026-02-15",
+    "date": "2026-02-16",
     "news": [
         {
-            "title": "The NFL just wrapped a record-breaking season. Here’s why next year’s going to be even bigger",
-            "link": "https://www.cnbc.com/2026/02/15/nfl-just-had-record-breaking-season-next-year-will-be-bigger.html",
-            "summary": "The NFL announced that Paris, Melbourne and Rio de Janeiro will host regular-season games for the first time. In the days leading up to the Super Bowl, the NFL also announced that London will host a game.",
-            "date": "Sun, 15 Feb 2026 08:24:07 GMT",
+            "title": "Average IRS tax refund is up 10.9% so far this season, early filing data shows",
+            "link": "https://www.cnbc.com/2026/02/13/average-tax-refund-early-irs-data.html",
+            "summary": "The average IRS tax refund is up 10.9% so far this season, according to early filing data. Here's what taxpayers can expect.",
+            "date": "Sat, 14 Feb 2026 01:17:43 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^DJI",
+            "impact": "Bullish"
+        },
+        {
+            "title": "OpenClaw creator Peter Steinberger joining OpenAI, Altman says",
+            "link": "https://www.cnbc.com/2026/02/15/openclaw-creator-peter-steinberger-joining-openai-altman-says.html",
+            "summary": "OpenClaw, the open source AI agent that's surged in popularity, will live within OpenAI, according to a post on X from Sam Altman.",
+            "date": "Mon, 16 Feb 2026 05:58:27 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "300730.SZ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Epstein files fallout: The high-profile people burned by past dealings with a predator",
+            "link": "https://www.cnbc.com/2026/02/15/epstein-files-fallout-goldman-ruemmler-harvard-yale.html",
+            "summary": "Jeffrey Epstein killed himself in a New York City federal jail in 2019. But more than six years later, people are still losing their jobs because of him.",
+            "date": "Mon, 16 Feb 2026 02:53:11 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ERNAW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "China's tech shock threatens the U.S. AI monopoly and is 'just getting started'",
+            "link": "https://www.cnbc.com/2026/02/16/chinas-tech-shock-ai-monopoly-us.html",
+            "summary": "\"You could see easily a world where maybe most of the world's population is running on a Chinese tech stack in five to 10 years time,\" one analyst told CNBC.",
+            "date": "Mon, 16 Feb 2026 12:30:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "002453.SZ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Altman and Pichai among tech CEOs heading to India for major AI summit in a key market",
+            "link": "https://www.cnbc.com/2026/02/16/india-ai-impact-summit-tech-ceos-new-delhi.html",
+            "summary": "India has a huge pool of talent which could be key to continued development of AI. India has a market of young, tech-forward consumers.",
+            "date": "Mon, 16 Feb 2026 09:33:41 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LLY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Hegseth reportedly considering severe penalty on Anthropic as negotiations stall",
+            "link": "https://www.marketwatch.com/story/hegseth-reportedly-considering-severe-penalty-on-anthropic-as-negotiations-stall-16dae92f?mod=mw_rss_topstories",
+            "summary": "Defense Sec. Pete Hegseth reportedly is close to putting Claude maker Anthropic on a “supply chain risk” list that would be a devastating blow to its finances.",
+            "date": "Mon, 16 Feb 2026 13:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ON",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Buying stocks everyone admires is a recipe for underperformance — but Apple breaks the rule",
+            "link": "https://www.marketwatch.com/story/buying-stocks-everyone-admires-is-a-recipe-for-underperformance-but-apple-breaks-the-rule-26de6e2f?mod=mw_rss_topstories",
+            "summary": "Unloved companies with rock-bottom expectations are the real engines of your portfolio. Unloved firms are often undervalued and underappreciated.",
+            "date": "Mon, 16 Feb 2026 13:51:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DBUYX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The shale boom that made the U.S. the world’s top oil producer is nearing a crucial turning point",
+            "link": "https://www.marketwatch.com/story/the-shale-boom-that-made-the-u-s-the-worlds-top-oil-producer-is-nearing-a-crucial-turning-point-a7bf72f8?mod=mw_rss_topstories",
+            "summary": "The shale-oil revolution that transformed the U.S. into the world’s top oil producer is entering a new phase. It could see America's hard-fought lead in energy erode in fewer than five years.",
+            "date": "Mon, 16 Feb 2026 13:07:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ERNAW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These markets have been ‘bangers’ this year. Here’s why they have further to rally, says Goldman Sachs.",
+            "link": "https://www.marketwatch.com/story/these-asian-markets-have-been-bangers-this-year-heres-why-they-have-further-to-rally-says-goldman-sachs-3467c694?mod=mw_rss_topstories",
+            "summary": "South Korea and Japan have left Wall Street in the dust in 2026. The two countries are expected to be the world's biggest economies in the next decade.",
+            "date": "Mon, 16 Feb 2026 12:49:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001YPM3.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The seeds of the dramatic sell-off in AI losers were planted as far back as 2022, says Deutsche Bank",
+            "link": "https://www.marketwatch.com/story/the-seeds-of-the-dramatic-sell-off-in-ai-losers-were-planted-as-far-back-as-2022-says-deutsche-bank-f144f47b?mod=mw_rss_topstories",
+            "summary": "Deutsche Bank says angst behind the selloff of over stocks vulnerable to AI disruption has been simmering awhile. Deutsche Bank: The selloff has been going on for some time.",
+            "date": "Mon, 16 Feb 2026 12:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "ERNAW",
             "impact": "Bullish"
-        },
-        {
-            "title": "Some European policymakers welcome U.S. Secretary of State Rubio's warm words, others remain cautious",
-            "link": "https://www.cnbc.com/2026/02/15/some-europeans-welcome-rubios-warm-words-others-remain-cautious.html",
-            "summary": "Rubio's comments struck a softer tone than Vice President JD Vance's at last year's event. Rubio's comments at the Munich Security Conference struck a tougher tone than Vance's last year.",
-            "date": "Sun, 15 Feb 2026 13:15:34 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SOME",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump says he will issue executive order to get voter-ID requirements before midterms",
-            "link": "https://www.cnbc.com/2026/02/13/trump-congress-voter-id-midterms.html",
-            "summary": "President Donald Trump says he will implement national voter-ID requirements by November's elections. President Donald Trump proclaims that he will find a way to implement national Voter ID requirements.",
-            "date": "Fri, 13 Feb 2026 23:58:44 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Global week ahead: Markets brace for more AI noise and 'scare trading'",
-            "link": "https://www.cnbc.com/2026/02/15/global-week-ahead-markets-brace-for-more-ai-noise-and-scare-trading.html",
-            "summary": "Looking back at last week's volatility could give some clues for the trading week ahead. Looking back at the volatility could gives some clues as to what to expect in the coming week.",
-            "date": "Sun, 15 Feb 2026 08:36:50 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "COIN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "What's next for Cuba? Trump turns the screws as the island runs out of jet fuel",
-            "link": "https://www.cnbc.com/2026/02/14/cuba-fuel-shortage-trump-tariffs.html",
-            "summary": "Cuba’s government appears to be on the brink of economic collapse amid a worsening energy crisis. The country has been suffering from an energy crisis since the start of the year.",
-            "date": "Sat, 14 Feb 2026 06:58:06 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BD0.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My elderly mother has dementia. My sister sold her house and has hidden the proceeds. What can we do?",
-            "link": "https://www.marketwatch.com/story/she-is-planning-to-move-out-of-state-my-sister-secretly-sold-our-elderly-mothers-house-what-can-i-do-e9a9f486?mod=mw_rss_topstories",
-            "summary": "“My sister is planning to move out of state and feels it is her right to control the money,” she said. “She feels she has a right to the money.”",
-            "date": "Sun, 15 Feb 2026 13:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m a loner’: I’m 62 with a multimillion-dollar portfolio and no heirs. Should I find a wife for my twilight years?",
-            "link": "https://www.marketwatch.com/story/im-a-loner-im-62-with-a-multimillion-dollar-portfolio-and-no-heirs-should-i-find-a-wife-for-my-twilight-years-4f4f4408?mod=mw_rss_topstories",
-            "summary": "“I have never been married, have no siblings, and both my parents have passed away,” she said. “I’ve never been in a relationship. I’m always on the lookout for the perfect man.”",
-            "date": "Sun, 15 Feb 2026 13:17:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m close to retiring’: I’m behind on my property tax. Is this a really bad time to sell my house?",
-            "link": "https://www.marketwatch.com/story/im-close-to-retiring-im-behind-on-my-property-taxes-is-this-a-bad-time-to-sell-my-house-40954efd?mod=mw_rss_topstories",
-            "summary": "“I’ve never been late on a mortgage, so this makes me nervous,” she says. “I've never beenLate on a Mortgage, so This Makes me nervous”",
-            "date": "Sun, 15 Feb 2026 13:10:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘We’ve been dating for 5 years’: My boyfriend’s parents say he doesn’t earn enough to marry. Should I speak to his father?",
-            "link": "https://www.marketwatch.com/story/weve-been-dating-for-5-years-my-boyfriends-parents-say-he-doesnt-earn-enough-to-marry-should-i-speak-to-his-father-44b48700?mod=mw_rss_topstories",
-            "summary": "“Every year his very wealthy parents say that he needs to ‘earn more’ before he can marry me,” she said.",
-            "date": "Sun, 15 Feb 2026 12:49:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WEVER-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘We have no prenup’: I want rights of survivorship in our marital home. My wife prefers tenants in common. Now what?",
-            "link": "https://www.marketwatch.com/story/we-have-no-prenup-i-want-rights-of-survivorship-in-our-marital-home-my-wife-prefers-tenants-in-common-now-what-996cf652?mod=mw_rss_topstories",
-            "summary": "“She is an old-school farm girl who inherited all her money and wants to pass it down to her children,” her daughter says.",
-            "date": "Sun, 15 Feb 2026 00:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WSTNR",
-            "impact": "Bearish"
         }
     ]
 }
