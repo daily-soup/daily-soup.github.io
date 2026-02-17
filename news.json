@@ -1,83 +1,83 @@
 {
-    "date": "2026-02-16",
+    "date": "2026-02-17",
     "news": [
         {
-            "title": "Average IRS tax refund is up 10.9% so far this season, early filing data shows",
-            "link": "https://www.cnbc.com/2026/02/13/average-tax-refund-early-irs-data.html",
-            "summary": "The average IRS tax refund is up 10.9% so far this season, according to early filing data. Here's what taxpayers can expect.",
-            "date": "Sat, 14 Feb 2026 01:17:43 GMT",
+            "title": "Netflix grants Warner Bros. Discovery 7-day waiver to reopen deal talks with Paramount Skydance",
+            "link": "https://www.cnbc.com/2026/02/17/netflix-wbd-waiver-deal-talks-paramount-skydance.html",
+            "summary": "Warner Bros. says it will engage in deal talks with Paramount Skydance under a 7-day waiver from Netflix. Warner Bros. Discovery on Tuesday said it would engage in deals with ParamountSkydance.",
+            "date": "Tue, 17 Feb 2026 13:30:52 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^DJI",
-            "impact": "Bullish"
-        },
-        {
-            "title": "OpenClaw creator Peter Steinberger joining OpenAI, Altman says",
-            "link": "https://www.cnbc.com/2026/02/15/openclaw-creator-peter-steinberger-joining-openai-altman-says.html",
-            "summary": "OpenClaw, the open source AI agent that's surged in popularity, will live within OpenAI, according to a post on X from Sam Altman.",
-            "date": "Mon, 16 Feb 2026 05:58:27 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "300730.SZ",
+            "stock_ticker": "NFLX",
             "impact": "Neutral"
         },
         {
-            "title": "Epstein files fallout: The high-profile people burned by past dealings with a predator",
-            "link": "https://www.cnbc.com/2026/02/15/epstein-files-fallout-goldman-ruemmler-harvard-yale.html",
-            "summary": "Jeffrey Epstein killed himself in a New York City federal jail in 2019. But more than six years later, people are still losing their jobs because of him.",
-            "date": "Mon, 16 Feb 2026 02:53:11 GMT",
+            "title": "Iran partially closes Strait of Hormuz, a vital oil chokepoint, as U.S. talks get underway",
+            "link": "https://www.cnbc.com/2026/02/17/iran-us-strait-of-hormuz-oil-nuclear-talks-geneva.html",
+            "summary": "Iranian state media reported the partial closure of the Strait of Hormuz on Tuesday for military drills in the waterway. Iranian state media said military drills were taking place in the area.",
+            "date": "Tue, 17 Feb 2026 13:32:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ERNAW",
+            "stock_ticker": "RANI3F.SA",
             "impact": "Neutral"
         },
         {
-            "title": "China's tech shock threatens the U.S. AI monopoly and is 'just getting started'",
-            "link": "https://www.cnbc.com/2026/02/16/chinas-tech-shock-ai-monopoly-us.html",
-            "summary": "\"You could see easily a world where maybe most of the world's population is running on a Chinese tech stack in five to 10 years time,\" one analyst told CNBC.",
-            "date": "Mon, 16 Feb 2026 12:30:01 GMT",
+            "title": "Rev. Jesse Jackson, civil rights leader and former presidential candidate, dies at 84",
+            "link": "https://www.cnbc.com/2026/02/17/jesse-jackson-dead.html",
+            "summary": "The Rev. Jesse Jackson was a civil rights icon and Baptist minister. He was a two-time Democratic presidential candidate. Jackson died in 2009. He is survived by his wife and three children.",
+            "date": "Tue, 17 Feb 2026 10:49:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "002453.SZ",
+            "stock_ticker": "RVPH",
             "impact": "Neutral"
         },
         {
-            "title": "Altman and Pichai among tech CEOs heading to India for major AI summit in a key market",
-            "link": "https://www.cnbc.com/2026/02/16/india-ai-impact-summit-tech-ceos-new-delhi.html",
-            "summary": "India has a huge pool of talent which could be key to continued development of AI. India has a market of young, tech-forward consumers.",
-            "date": "Mon, 16 Feb 2026 09:33:41 GMT",
+            "title": "Oil prices stable as Iran conducts war games in Strait of Hormuz",
+            "link": "https://www.cnbc.com/2026/02/17/oil-prices-stable-as-iran-conducts-war-games-in-strait-of-hormuz.html",
+            "summary": "The military exercises come as tensions are high between the U.S. and Iran. The military exercises are expected to last for up to a week.",
+            "date": "Tue, 17 Feb 2026 13:51:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LLY",
+            "stock_ticker": "CL=F",
             "impact": "Neutral"
         },
         {
-            "title": "Hegseth reportedly considering severe penalty on Anthropic as negotiations stall",
-            "link": "https://www.marketwatch.com/story/hegseth-reportedly-considering-severe-penalty-on-anthropic-as-negotiations-stall-16dae92f?mod=mw_rss_topstories",
-            "summary": "Defense Sec. Pete Hegseth reportedly is close to putting Claude maker Anthropic on a “supply chain risk” list that would be a devastating blow to its finances.",
-            "date": "Mon, 16 Feb 2026 13:58:00 GMT",
+            "title": "Hyatt Chairman Pritzker leaves board over Epstein ties",
+            "link": "https://www.cnbc.com/2026/02/16/hyatt-chairman-pritzker-leaves-board-over-epstein-ties.html",
+            "summary": "The 75-year-old billionaire heir said he would not seek reelection to the board at the annual stockholder meeting. He will not be re-elected to a second term.",
+            "date": "Mon, 16 Feb 2026 23:22:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ON",
-            "impact": "Bullish"
+            "stock_ticker": "H",
+            "impact": "Neutral"
         },
         {
-            "title": "Buying stocks everyone admires is a recipe for underperformance — but Apple breaks the rule",
+            "title": "How Paramount brought its failing bid for Warner Bros. back from the brink",
+            "link": "https://www.marketwatch.com/story/how-paramount-pulled-its-failing-bid-for-warner-bros-back-from-the-brink-ec3a1847?mod=mw_rss_topstories",
+            "summary": "Paramount Skydance convinced Warner Bros. to reopen negotiations after signaling it was finally ready to raise its price. ParamountSkydance: We're ready to pay more than $100 million.",
+            "date": "Tue, 17 Feb 2026 13:54:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Buying stocks everyone loves is a recipe for underperformance — but Apple breaks the rule",
             "link": "https://www.marketwatch.com/story/buying-stocks-everyone-admires-is-a-recipe-for-underperformance-but-apple-breaks-the-rule-26de6e2f?mod=mw_rss_topstories",
             "summary": "Unloved companies with rock-bottom expectations are the real engines of your portfolio. Unloved firms are often undervalued and underappreciated.",
-            "date": "Mon, 16 Feb 2026 13:51:00 GMT",
+            "date": "Tue, 17 Feb 2026 13:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,40 +86,40 @@
             "impact": "Neutral"
         },
         {
-            "title": "The shale boom that made the U.S. the world’s top oil producer is nearing a crucial turning point",
-            "link": "https://www.marketwatch.com/story/the-shale-boom-that-made-the-u-s-the-worlds-top-oil-producer-is-nearing-a-crucial-turning-point-a7bf72f8?mod=mw_rss_topstories",
-            "summary": "The shale-oil revolution that transformed the U.S. into the world’s top oil producer is entering a new phase. It could see America's hard-fought lead in energy erode in fewer than five years.",
-            "date": "Mon, 16 Feb 2026 13:07:00 GMT",
+            "title": "Gold prices tumble below $5,000, silver is under $75 as China holidays dent support",
+            "link": "https://www.marketwatch.com/story/gold-prices-tumble-below-5-000-as-china-holidays-dent-support-d093e677?mod=mw_rss_topstories",
+            "summary": "Gold and silver are under pressure as U.S. investors return from Monday’s holiday. Gold and silver have been under pressure for the past few days.",
+            "date": "Tue, 17 Feb 2026 13:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ERNAW",
+            "stock_ticker": "GOLD",
             "impact": "Neutral"
         },
         {
-            "title": "These markets have been ‘bangers’ this year. Here’s why they have further to rally, says Goldman Sachs.",
-            "link": "https://www.marketwatch.com/story/these-asian-markets-have-been-bangers-this-year-heres-why-they-have-further-to-rally-says-goldman-sachs-3467c694?mod=mw_rss_topstories",
-            "summary": "South Korea and Japan have left Wall Street in the dust in 2026. The two countries are expected to be the world's biggest economies in the next decade.",
-            "date": "Mon, 16 Feb 2026 12:49:00 GMT",
+            "title": "General Mills cut its sales outlook to mark the fifth birthday of its ‘growth’ strategy",
+            "link": "https://www.marketwatch.com/story/general-mills-cut-its-sales-outlook-to-mark-the-fifth-birthday-of-its-growth-strategy-936f3e9e?mod=mw_rss_topstories",
+            "summary": "General Mills’s stock was set to fall after the full-year profit and sales outlook were lowered. The consumer recovery has been slower and has cost more than expected.",
+            "date": "Tue, 17 Feb 2026 13:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001YPM3.L",
+            "stock_ticker": "GM",
             "impact": "Neutral"
         },
         {
-            "title": "The seeds of the dramatic sell-off in AI losers were planted as far back as 2022, says Deutsche Bank",
-            "link": "https://www.marketwatch.com/story/the-seeds-of-the-dramatic-sell-off-in-ai-losers-were-planted-as-far-back-as-2022-says-deutsche-bank-f144f47b?mod=mw_rss_topstories",
-            "summary": "Deutsche Bank says angst behind the selloff of over stocks vulnerable to AI disruption has been simmering awhile. Deutsche Bank: The selloff has been going on for some time.",
-            "date": "Mon, 16 Feb 2026 12:37:00 GMT",
+            "title": "Stop watching gold’s daily swings and get ready for a $10,000 supercycle",
+            "link": "https://www.marketwatch.com/story/stop-watching-golds-daily-swings-and-get-ready-for-a-10-000-supercycle-f54cf911?mod=mw_rss_topstories",
+            "summary": "Investors seeking a portfolio hedge will have two choices: gold or the U.S. dollar. Gold is the most popular currency in the world.",
+            "date": "Tue, 17 Feb 2026 13:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ERNAW",
-            "impact": "Bullish"
+            "stock_ticker": "OSS",
+            "impact": "Neutral"
         }
     ]
 }
