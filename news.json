@@ -1,124 +1,124 @@
 {
-    "date": "2026-02-17",
+    "date": "2026-02-18",
     "news": [
         {
-            "title": "Netflix grants Warner Bros. Discovery 7-day waiver to reopen deal talks with Paramount Skydance",
-            "link": "https://www.cnbc.com/2026/02/17/netflix-wbd-waiver-deal-talks-paramount-skydance.html",
-            "summary": "Warner Bros. says it will engage in deal talks with Paramount Skydance under a 7-day waiver from Netflix. Warner Bros. Discovery on Tuesday said it would engage in deals with ParamountSkydance.",
-            "date": "Tue, 17 Feb 2026 13:30:52 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NFLX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Iran partially closes Strait of Hormuz, a vital oil chokepoint, as U.S. talks get underway",
-            "link": "https://www.cnbc.com/2026/02/17/iran-us-strait-of-hormuz-oil-nuclear-talks-geneva.html",
-            "summary": "Iranian state media reported the partial closure of the Strait of Hormuz on Tuesday for military drills in the waterway. Iranian state media said military drills were taking place in the area.",
-            "date": "Tue, 17 Feb 2026 13:32:58 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RANI3F.SA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Rev. Jesse Jackson, civil rights leader and former presidential candidate, dies at 84",
-            "link": "https://www.cnbc.com/2026/02/17/jesse-jackson-dead.html",
-            "summary": "The Rev. Jesse Jackson was a civil rights icon and Baptist minister. He was a two-time Democratic presidential candidate. Jackson died in 2009. He is survived by his wife and three children.",
-            "date": "Tue, 17 Feb 2026 10:49:06 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RVPH",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Oil prices stable as Iran conducts war games in Strait of Hormuz",
-            "link": "https://www.cnbc.com/2026/02/17/oil-prices-stable-as-iran-conducts-war-games-in-strait-of-hormuz.html",
-            "summary": "The military exercises come as tensions are high between the U.S. and Iran. The military exercises are expected to last for up to a week.",
-            "date": "Tue, 17 Feb 2026 13:51:22 GMT",
+            "title": "Oil jumps more than 2% after Vance says Iran ignored key U.S. demand, military strikes on the table",
+            "link": "https://www.cnbc.com/2026/02/18/oil-prices-today-iran-trump-nuclear-talks.html",
+            "summary": "Oil traders are worried that war between the U.S. and Iran could lead to a major disruption of crude supplies in the Middle East.",
+            "date": "Wed, 18 Feb 2026 13:53:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "CL=F",
-            "impact": "Neutral"
+            "impact": "Bullish"
         },
         {
-            "title": "Hyatt Chairman Pritzker leaves board over Epstein ties",
-            "link": "https://www.cnbc.com/2026/02/16/hyatt-chairman-pritzker-leaves-board-over-epstein-ties.html",
-            "summary": "The 75-year-old billionaire heir said he would not seek reelection to the board at the annual stockholder meeting. He will not be re-elected to a second term.",
-            "date": "Mon, 16 Feb 2026 23:22:57 GMT",
+            "title": "FDA chief Marty Makary says 'everything should be over-the-counter' unless drug is unsafe or addictive",
+            "link": "https://www.cnbc.com/2026/02/18/fda-chief-marty-makary-more-drugs-should-be-over-the-counter.html",
+            "summary": "Makary said the FDA is looking at prescription drugs like nausea medications and vaginal estrogen. Makary said he hopes to make changes this year.",
+            "date": "Wed, 18 Feb 2026 13:56:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "H",
+            "stock_ticker": "AEF2.HA",
             "impact": "Neutral"
         },
         {
-            "title": "How Paramount brought its failing bid for Warner Bros. back from the brink",
-            "link": "https://www.marketwatch.com/story/how-paramount-pulled-its-failing-bid-for-warner-bros-back-from-the-brink-ec3a1847?mod=mw_rss_topstories",
-            "summary": "Paramount Skydance convinced Warner Bros. to reopen negotiations after signaling it was finally ready to raise its price. ParamountSkydance: We're ready to pay more than $100 million.",
-            "date": "Tue, 17 Feb 2026 13:54:00 GMT",
+            "title": "The 'boomcession': Why Americans feel left behind by a growing economy",
+            "link": "https://www.cnbc.com/2026/02/18/boomcession-econonomy-gdp-recession-consumer-sentiment.html",
+            "summary": "A combination of the words \"boom\" and \"recession\" can help explain why Americans feel so sour about a growing economy.",
+            "date": "Wed, 18 Feb 2026 13:56:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "ERNAW",
             "impact": "Neutral"
         },
         {
-            "title": "Buying stocks everyone loves is a recipe for underperformance — but Apple breaks the rule",
-            "link": "https://www.marketwatch.com/story/buying-stocks-everyone-admires-is-a-recipe-for-underperformance-but-apple-breaks-the-rule-26de6e2f?mod=mw_rss_topstories",
-            "summary": "Unloved companies with rock-bottom expectations are the real engines of your portfolio. Unloved firms are often undervalued and underappreciated.",
-            "date": "Tue, 17 Feb 2026 13:43:00 GMT",
+            "title": "As Walmart and Target head in different directions, all eyes are on their new CEOs",
+            "link": "https://www.cnbc.com/2026/02/18/walmart-target-earnings-new-ceos-furner-fiddelke.html",
+            "summary": "The two big-box retailers are contending with the same economic backdrop, yet Target is trying to prove it can make a comeback. Target is one of the largest retailers in the U.S.",
+            "date": "Wed, 18 Feb 2026 12:52:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DBUYX",
+            "stock_ticker": "AS",
             "impact": "Neutral"
         },
         {
-            "title": "Gold prices tumble below $5,000, silver is under $75 as China holidays dent support",
-            "link": "https://www.marketwatch.com/story/gold-prices-tumble-below-5-000-as-china-holidays-dent-support-d093e677?mod=mw_rss_topstories",
-            "summary": "Gold and silver are under pressure as U.S. investors return from Monday’s holiday. Gold and silver have been under pressure for the past few days.",
-            "date": "Tue, 17 Feb 2026 13:43:00 GMT",
+            "title": "Mortgage rates sink to the lowest level in a month, sparking more refinance demand",
+            "link": "https://www.cnbc.com/2026/02/18/mortgage-rates-sink-to-the-lowest-level-in-a-month-sparking-more-refinance-demand.html",
+            "summary": "Mortgage rates dropped again last week, sparking a small jump in refinancing. But potential buyers were not impressed with the rate drop.",
+            "date": "Wed, 18 Feb 2026 13:06:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOLD",
+            "stock_ticker": "MGE=F",
             "impact": "Neutral"
         },
         {
-            "title": "General Mills cut its sales outlook to mark the fifth birthday of its ‘growth’ strategy",
-            "link": "https://www.marketwatch.com/story/general-mills-cut-its-sales-outlook-to-mark-the-fifth-birthday-of-its-growth-strategy-936f3e9e?mod=mw_rss_topstories",
-            "summary": "General Mills’s stock was set to fall after the full-year profit and sales outlook were lowered. The consumer recovery has been slower and has cost more than expected.",
-            "date": "Tue, 17 Feb 2026 13:38:00 GMT",
+            "title": "Why a 40-year Wall Street veteran is telling clients to sell everything American",
+            "link": "https://www.marketwatch.com/story/why-a-40-year-wall-street-veteran-is-telling-clients-to-sell-everything-american-77e50ae5?mod=mw_rss_topstories",
+            "summary": "Andy Constan says the rest of the world now offers more opportunities. Andy Constan: 'The world is more open now than it was in the past'",
+            "date": "Wed, 18 Feb 2026 13:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GM",
+            "stock_ticker": "WHY-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Stop watching gold’s daily swings and get ready for a $10,000 supercycle",
-            "link": "https://www.marketwatch.com/story/stop-watching-golds-daily-swings-and-get-ready-for-a-10-000-supercycle-f54cf911?mod=mw_rss_topstories",
-            "summary": "Investors seeking a portfolio hedge will have two choices: gold or the U.S. dollar. Gold is the most popular currency in the world.",
-            "date": "Tue, 17 Feb 2026 13:13:00 GMT",
+            "title": "Berkshire returns to the newspaper business, takes bigger bite of Domino’s Pizza",
+            "link": "https://www.marketwatch.com/story/berkshire-returns-to-the-newspaper-business-takes-bigger-bite-of-dominos-pizza-5c4dc5d8?mod=mw_rss_topstories",
+            "summary": "Berkshire Hathaway is making a fresh bet on the New York Times. It is a return to newspapers for the conglomerate after exiting them six years ago.",
+            "date": "Wed, 18 Feb 2026 13:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OSS",
+            "stock_ticker": "BRK-B",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These are the only recession signals that matter to investors now",
+            "link": "https://www.marketwatch.com/story/these-are-the-only-recession-signals-that-matter-to-investors-now-6e9a5761?mod=mw_rss_topstories",
+            "summary": "Economist finds residential investment, equipment and durable goods are best signals of an economic contraction. Economist finds residential Investment, Equipment and Durable Goods are best signal of an Economic contraction.",
+            "date": "Wed, 18 Feb 2026 13:35:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001YPM3.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Crude-oil futures rise on U.S.-Iran tensions",
+            "link": "https://www.marketwatch.com/story/crude-futures-rise-on-u-s-iran-tensions-e59f7dc5?mod=mw_rss_topstories",
+            "summary": "Traders are assessing the possibility that the U.S. would attack Iran. Traders are considering the disruption that could cause to markets.",
+            "date": "Wed, 18 Feb 2026 12:39:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CL=F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Nvidia’s new Meta deal may not be great news for these other tech stocks",
+            "link": "https://www.marketwatch.com/story/nvidias-new-meta-deal-may-not-be-great-news-for-these-other-tech-stocks-82b6e4d1?mod=mw_rss_topstories",
+            "summary": "Shares of AMD and Arista fell after Nvidia and Meta announced an expansion of their partnership. Shares of AMD, Arista and Nvidia all fell after the announcement.",
+            "date": "Wed, 18 Feb 2026 12:18:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "6N=F",
             "impact": "Neutral"
         }
     ]
