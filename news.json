@@ -1,71 +1,59 @@
 {
-    "date": "2026-02-18",
+    "date": "2026-02-19",
     "news": [
         {
-            "title": "Oil jumps more than 2% after Vance says Iran ignored key U.S. demand, military strikes on the table",
-            "link": "https://www.cnbc.com/2026/02/18/oil-prices-today-iran-trump-nuclear-talks.html",
-            "summary": "Oil traders are worried that war between the U.S. and Iran could lead to a major disruption of crude supplies in the Middle East.",
-            "date": "Wed, 18 Feb 2026 13:53:58 GMT",
+            "title": "Walmart reports strong holiday growth, but earnings outlook falls short of estimates",
+            "link": "https://www.cnbc.com/2026/02/19/walmart-wmt-q4-2026-earnings.html",
+            "summary": "This is the first earnings report since new Walmart CEO John Furner took over in early February. It marks the first time Walmart has released its quarterly results since the beginning of February.",
+            "date": "Thu, 19 Feb 2026 13:48:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "WMT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "King Charles' brother Andrew arrested on suspicion of misconduct",
+            "link": "https://www.cnbc.com/2026/02/19/prince-andrew-arrest-misconduct-epstein-mountbatten-windsor.html",
+            "summary": "UK police arrest King Charles' brother Andrew Mountbatten-Windsor on suspicion of misconduct in public office. He was arrested on Thursday.",
+            "date": "Thu, 19 Feb 2026 12:37:26 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KCN.AX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "United Airlines is paring back rewards for travelers who don't have its credit card in MileagePlus overhaul",
+            "link": "https://www.cnbc.com/2026/02/19/united-airlines-frequent-flyer-mileage-plus-program-credit-card.html",
+            "summary": "United Airlines is overhauling its MileagePlus loyalty program. It will reward customers who have the carrier's credit card over those without it.",
+            "date": "Thu, 19 Feb 2026 12:55:53 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "UPS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Small furniture retailers face existential tariff threat, regardless of Supreme Court ruling",
+            "link": "https://www.cnbc.com/2026/02/19/supreme-court-tariffs-furniture-retailers-threat.html",
+            "summary": "Small furniture businesses will see little relief as upholstery duties remain. Retailers await a decision from the Supreme Court on the future of tariffs.",
+            "date": "Thu, 19 Feb 2026 13:00:02 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SMC=F",
             "impact": "Bullish"
         },
         {
-            "title": "FDA chief Marty Makary says 'everything should be over-the-counter' unless drug is unsafe or addictive",
-            "link": "https://www.cnbc.com/2026/02/18/fda-chief-marty-makary-more-drugs-should-be-over-the-counter.html",
-            "summary": "Makary said the FDA is looking at prescription drugs like nausea medications and vaginal estrogen. Makary said he hopes to make changes this year.",
-            "date": "Wed, 18 Feb 2026 13:56:49 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AEF2.HA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The 'boomcession': Why Americans feel left behind by a growing economy",
-            "link": "https://www.cnbc.com/2026/02/18/boomcession-econonomy-gdp-recession-consumer-sentiment.html",
-            "summary": "A combination of the words \"boom\" and \"recession\" can help explain why Americans feel so sour about a growing economy.",
-            "date": "Wed, 18 Feb 2026 13:56:56 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ERNAW",
-            "impact": "Neutral"
-        },
-        {
-            "title": "As Walmart and Target head in different directions, all eyes are on their new CEOs",
-            "link": "https://www.cnbc.com/2026/02/18/walmart-target-earnings-new-ceos-furner-fiddelke.html",
-            "summary": "The two big-box retailers are contending with the same economic backdrop, yet Target is trying to prove it can make a comeback. Target is one of the largest retailers in the U.S.",
-            "date": "Wed, 18 Feb 2026 12:52:44 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Mortgage rates sink to the lowest level in a month, sparking more refinance demand",
-            "link": "https://www.cnbc.com/2026/02/18/mortgage-rates-sink-to-the-lowest-level-in-a-month-sparking-more-refinance-demand.html",
-            "summary": "Mortgage rates dropped again last week, sparking a small jump in refinancing. But potential buyers were not impressed with the rate drop.",
-            "date": "Wed, 18 Feb 2026 13:06:14 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MGE=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why a 40-year Wall Street veteran is telling clients to sell everything American",
-            "link": "https://www.marketwatch.com/story/why-a-40-year-wall-street-veteran-is-telling-clients-to-sell-everything-american-77e50ae5?mod=mw_rss_topstories",
-            "summary": "Andy Constan says the rest of the world now offers more opportunities. Andy Constan: 'The world is more open now than it was in the past'",
-            "date": "Wed, 18 Feb 2026 13:50:00 GMT",
+            "title": "Why New Balance's 'dad shoes' are beating Nike as sales surge 19%",
+            "link": "https://www.cnbc.com/2026/02/19/new-balance-2025-sales-jump-19percent-as-brand-takes-share-from-nike.html",
+            "summary": "New Balance grew sales 19% to $9.2 billion in 2025. The emphasis on street-wear styles and performance resonate with a wide range of shoppers.",
+            "date": "Thu, 19 Feb 2026 13:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +62,63 @@
             "impact": "Neutral"
         },
         {
-            "title": "Berkshire returns to the newspaper business, takes bigger bite of Domino’s Pizza",
-            "link": "https://www.marketwatch.com/story/berkshire-returns-to-the-newspaper-business-takes-bigger-bite-of-dominos-pizza-5c4dc5d8?mod=mw_rss_topstories",
-            "summary": "Berkshire Hathaway is making a fresh bet on the New York Times. It is a return to newspapers for the conglomerate after exiting them six years ago.",
-            "date": "Wed, 18 Feb 2026 13:37:00 GMT",
+            "title": "Walmart’s stock falls as the outlook for future profits wasn’t good enough",
+            "link": "https://www.marketwatch.com/story/walmarts-stock-falls-as-the-outlook-for-future-profits-wasnt-good-enough-10d2c334?mod=mw_rss_topstories",
+            "summary": "Walmart’s stock drops after quarterly revenue from its U.S. stores and the outlook for profits this year were below Wall Street's projections.",
+            "date": "Thu, 19 Feb 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BRK-B",
+            "stock_ticker": "SHAZ",
             "impact": "Neutral"
         },
         {
-            "title": "These are the only recession signals that matter to investors now",
-            "link": "https://www.marketwatch.com/story/these-are-the-only-recession-signals-that-matter-to-investors-now-6e9a5761?mod=mw_rss_topstories",
-            "summary": "Economist finds residential investment, equipment and durable goods are best signals of an economic contraction. Economist finds residential Investment, Equipment and Durable Goods are best signal of an Economic contraction.",
-            "date": "Wed, 18 Feb 2026 13:35:00 GMT",
+            "title": "Deere’s stock jumps toward another record. The construction business is booming again.",
+            "link": "https://www.marketwatch.com/story/deeres-stock-jumps-toward-another-record-the-construction-business-is-booming-again-7eb69e6d?mod=mw_rss_topstories",
+            "summary": "Deere’s stock surges further into record territory after a big earnings beat and a full-year outlook for sales outperformance. Deere: ‘We’re in a good position to continue to grow our business.’",
+            "date": "Thu, 19 Feb 2026 13:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001YPM3.L",
+            "stock_ticker": "SHAZ",
             "impact": "Neutral"
         },
         {
-            "title": "Crude-oil futures rise on U.S.-Iran tensions",
-            "link": "https://www.marketwatch.com/story/crude-futures-rise-on-u-s-iran-tensions-e59f7dc5?mod=mw_rss_topstories",
-            "summary": "Traders are assessing the possibility that the U.S. would attack Iran. Traders are considering the disruption that could cause to markets.",
-            "date": "Wed, 18 Feb 2026 12:39:00 GMT",
+            "title": "While Wall Street is betting against software, retail investors have poured in — and done well",
+            "link": "https://www.marketwatch.com/story/while-wall-street-is-betting-against-software-retail-investors-have-poured-in-and-done-well-f91b9b58?mod=mw_rss_topstories",
+            "summary": "Retail investors have been a mighty force to start 2026 and they’ve not shying away from battered software stocks. Retail investors are expected to be a force to be reckoned with in 2026.",
+            "date": "Thu, 19 Feb 2026 13:51:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
-            "impact": "Bullish"
+            "stock_ticker": "WBX",
+            "impact": "Neutral"
         },
         {
-            "title": "Nvidia’s new Meta deal may not be great news for these other tech stocks",
-            "link": "https://www.marketwatch.com/story/nvidias-new-meta-deal-may-not-be-great-news-for-these-other-tech-stocks-82b6e4d1?mod=mw_rss_topstories",
-            "summary": "Shares of AMD and Arista fell after Nvidia and Meta announced an expansion of their partnership. Shares of AMD, Arista and Nvidia all fell after the announcement.",
-            "date": "Wed, 18 Feb 2026 12:18:00 GMT",
+            "title": "This stock-market strategy combines value, quality and momentum for stellar performance",
+            "link": "https://www.marketwatch.com/story/this-stock-market-strategy-combines-value-quality-and-momentum-for-stellar-performance-64ea93b2?mod=mw_rss_topstories",
+            "summary": "This fund has an unusual approach for setting its portfolio of stocks once a year and letting it ride. The fund has been set up to invest in a range of stocks, with a focus on the technology sector.",
+            "date": "Thu, 19 Feb 2026 13:14:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "6N=F",
+            "stock_ticker": "THISX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Hims & Hers is spending more than $1 billion in a push to expand globally",
+            "link": "https://www.marketwatch.com/story/hims-hers-is-spending-more-than-1-billion-in-a-push-to-expand-globally-8a271a6e?mod=mw_rss_topstories",
+            "summary": "Hims & Hers' stock surges as a $1.2 billion deal to buy an Australia-based telehealth company affirms the health-and-wellness company's global ambitions.",
+            "date": "Thu, 19 Feb 2026 13:08:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HIMS",
             "impact": "Neutral"
         }
     ]
