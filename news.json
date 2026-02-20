@@ -1,71 +1,71 @@
 {
-    "date": "2026-02-19",
+    "date": "2026-02-20",
     "news": [
         {
-            "title": "Walmart reports strong holiday growth, but earnings outlook falls short of estimates",
-            "link": "https://www.cnbc.com/2026/02/19/walmart-wmt-q4-2026-earnings.html",
-            "summary": "This is the first earnings report since new Walmart CEO John Furner took over in early February. It marks the first time Walmart has released its quarterly results since the beginning of February.",
-            "date": "Thu, 19 Feb 2026 13:48:24 GMT",
+            "title": "Fourth-quarter U.S. GDP up just 1.4%, badly missing estimate",
+            "link": "https://www.cnbc.com/2026/02/20/pce-inflation-december-2025.html",
+            "summary": "The core PCE price index was expected to increase 3% from a year ago in December. GDP was projected to rise at a 2.5% pace in Q4.",
+            "date": "Fri, 20 Feb 2026 13:52:43 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WMT",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "King Charles' brother Andrew arrested on suspicion of misconduct",
-            "link": "https://www.cnbc.com/2026/02/19/prince-andrew-arrest-misconduct-epstein-mountbatten-windsor.html",
-            "summary": "UK police arrest King Charles' brother Andrew Mountbatten-Windsor on suspicion of misconduct in public office. He was arrested on Thursday.",
-            "date": "Thu, 19 Feb 2026 12:37:26 GMT",
+            "title": "Trump could attack Iran in days — what's at stake for the oil market",
+            "link": "https://www.cnbc.com/2026/02/20/trump-could-attack-iran-in-days-whats-at-stake-for-the-oil-market.html",
+            "summary": "President Trump has warned Iran that an attack would be \"far worse\" than the U.S. airstrikes that targeted its nuclear facilities last June.",
+            "date": "Fri, 20 Feb 2026 13:33:25 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KCN.AX",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "United Airlines is paring back rewards for travelers who don't have its credit card in MileagePlus overhaul",
-            "link": "https://www.cnbc.com/2026/02/19/united-airlines-frequent-flyer-mileage-plus-program-credit-card.html",
-            "summary": "United Airlines is overhauling its MileagePlus loyalty program. It will reward customers who have the carrier's credit card over those without it.",
-            "date": "Thu, 19 Feb 2026 12:55:53 GMT",
+            "title": "Privacy is at the center of child safety accusations against Apple and Meta. Here’s why",
+            "link": "https://www.cnbc.com/2026/02/20/meta-apple-child-safety-zuckerberg-cook.html",
+            "summary": "Privacy and encryption are central themes in legal proceedings involving child safety. Meta and Apple are being sued by the National Center for Missing and Exploited Children.",
+            "date": "Fri, 20 Feb 2026 13:35:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UPS",
+            "stock_ticker": "CYBR.L",
             "impact": "Neutral"
         },
         {
-            "title": "Small furniture retailers face existential tariff threat, regardless of Supreme Court ruling",
-            "link": "https://www.cnbc.com/2026/02/19/supreme-court-tariffs-furniture-retailers-threat.html",
-            "summary": "Small furniture businesses will see little relief as upholstery duties remain. Retailers await a decision from the Supreme Court on the future of tariffs.",
-            "date": "Thu, 19 Feb 2026 13:00:02 GMT",
+            "title": "Bath & Body Works starts selling on Amazon as more brands embrace its logistics network",
+            "link": "https://www.cnbc.com/2026/02/20/bath-body-works-amazon-brands-embrace-logistics-network.html",
+            "summary": "Bath & Body Works CEO Daniel Heaf told CNBC the Amazon launch is about meeting customers where they are and leveraging Amazon's fast and free shipping.",
+            "date": "Fri, 20 Feb 2026 11:30:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SMC=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Why New Balance's 'dad shoes' are beating Nike as sales surge 19%",
-            "link": "https://www.cnbc.com/2026/02/19/new-balance-2025-sales-jump-19percent-as-brand-takes-share-from-nike.html",
-            "summary": "New Balance grew sales 19% to $9.2 billion in 2025. The emphasis on street-wear styles and performance resonate with a wide range of shoppers.",
-            "date": "Thu, 19 Feb 2026 13:30:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHY-USD",
+            "stock_ticker": "BBWI",
             "impact": "Neutral"
         },
         {
-            "title": "Walmart’s stock falls as the outlook for future profits wasn’t good enough",
-            "link": "https://www.marketwatch.com/story/walmarts-stock-falls-as-the-outlook-for-future-profits-wasnt-good-enough-10d2c334?mod=mw_rss_topstories",
-            "summary": "Walmart’s stock drops after quarterly revenue from its U.S. stores and the outlook for profits this year were below Wall Street's projections.",
-            "date": "Thu, 19 Feb 2026 14:00:00 GMT",
+            "title": "'Canary in the coal mine': Blue Owl liquidity curbs fuel fears about private credit bubble",
+            "link": "https://www.cnbc.com/2026/02/20/canary-in-the-coal-mine-blue-owl-liquidity-curbs-fuel-fears-private-credit-bubble-.html",
+            "summary": "Blue Owl Capital permanently restricted withdrawals from one of its retail-focused debt funds. The private credit boom is facing a new test after Blue Owl Capital restricted withdrawals.",
+            "date": "Fri, 20 Feb 2026 10:14:30 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SUIS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Opendoor’s stock rallies as the home buyer shows progress in pivot to leaner business model",
+            "link": "https://www.marketwatch.com/story/opendoors-stock-rallies-as-the-home-buyer-shows-progress-in-pivot-to-leaner-business-model-31576bde?mod=mw_rss_topstories",
+            "summary": "The home buyer said it’s making progress on becoming a less-capital intensive, more profitable business. The company said it's making progress in becoming less capital intensive and more profitable.",
+            "date": "Fri, 20 Feb 2026 13:53:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,52 +74,52 @@
             "impact": "Neutral"
         },
         {
-            "title": "Deere’s stock jumps toward another record. The construction business is booming again.",
-            "link": "https://www.marketwatch.com/story/deeres-stock-jumps-toward-another-record-the-construction-business-is-booming-again-7eb69e6d?mod=mw_rss_topstories",
-            "summary": "Deere’s stock surges further into record territory after a big earnings beat and a full-year outlook for sales outperformance. Deere: ‘We’re in a good position to continue to grow our business.’",
-            "date": "Thu, 19 Feb 2026 13:55:00 GMT",
+            "title": "GDP grew 2.2% in 2025. The economy might do even better this year.",
+            "link": "https://www.marketwatch.com/story/gdp-grew-2-2-in-2025-the-economy-might-do-even-better-this-year-0f56c26e?mod=mw_rss_topstories",
+            "summary": "The U.S. expanded at a subpar 1.4% annual pace in the fourth quarter of 2025. The record 43-day federal shutdown caused a big decline in government spending.",
+            "date": "Fri, 20 Feb 2026 13:46:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHAZ",
+            "stock_ticker": "GDPY.TO",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Gold’s push back above $5,000 is picking up steam, but it’s been a bumpy week",
+            "link": "https://www.marketwatch.com/story/golds-push-back-above-5-000-is-picking-up-steam-but-its-been-a-bumpy-week-e0b3e0c4?mod=mw_rss_topstories",
+            "summary": "Gold prices are attempting to cement a recovery above the $5,000 level. Gold prices have been in a downward trend since the beginning of the year.",
+            "date": "Fri, 20 Feb 2026 13:41:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^XAU",
             "impact": "Neutral"
         },
         {
-            "title": "While Wall Street is betting against software, retail investors have poured in — and done well",
-            "link": "https://www.marketwatch.com/story/while-wall-street-is-betting-against-software-retail-investors-have-poured-in-and-done-well-f91b9b58?mod=mw_rss_topstories",
-            "summary": "Retail investors have been a mighty force to start 2026 and they’ve not shying away from battered software stocks. Retail investors are expected to be a force to be reckoned with in 2026.",
-            "date": "Thu, 19 Feb 2026 13:51:00 GMT",
+            "title": "The economy just flashed a Goldilocks signal — and it’s been doing a lot of that lately",
+            "link": "https://www.marketwatch.com/story/the-economy-just-flashed-a-goldilocks-signal-and-its-been-doing-a-lot-of-that-lately-447289d4?mod=mw_rss_topstories",
+            "summary": "The tone of U.S. economic data has a Goldilocks feel, a strategist says. The tone of the data has been more positive than negative, he says.",
+            "date": "Fri, 20 Feb 2026 13:39:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WBX",
+            "stock_ticker": "ERNAW",
             "impact": "Neutral"
         },
         {
-            "title": "This stock-market strategy combines value, quality and momentum for stellar performance",
-            "link": "https://www.marketwatch.com/story/this-stock-market-strategy-combines-value-quality-and-momentum-for-stellar-performance-64ea93b2?mod=mw_rss_topstories",
-            "summary": "This fund has an unusual approach for setting its portfolio of stocks once a year and letting it ride. The fund has been set up to invest in a range of stocks, with a focus on the technology sector.",
-            "date": "Thu, 19 Feb 2026 13:14:00 GMT",
+            "title": "The Fed’s favorite inflation tool shows it has more work to do to ratchet down price increases",
+            "link": "https://www.marketwatch.com/story/the-feds-favorite-inflation-tool-shows-it-has-more-work-to-do-to-ratchet-down-price-increases-9fe9dfff?mod=mw_rss_topstories",
+            "summary": "The Federal Reserve’s preferred inflation gauge showed prices rose close to 3% in 2025. The central bank more work to do to get cost-of-living increases back down to pre-pandemic lows.",
+            "date": "Fri, 20 Feb 2026 13:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Hims & Hers is spending more than $1 billion in a push to expand globally",
-            "link": "https://www.marketwatch.com/story/hims-hers-is-spending-more-than-1-billion-in-a-push-to-expand-globally-8a271a6e?mod=mw_rss_topstories",
-            "summary": "Hims & Hers' stock surges as a $1.2 billion deal to buy an Australia-based telehealth company affirms the health-and-wellness company's global ambitions.",
-            "date": "Thu, 19 Feb 2026 13:08:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HIMS",
-            "impact": "Neutral"
+            "stock_ticker": "ERNAW",
+            "impact": "Bearish"
         }
     ]
 }
