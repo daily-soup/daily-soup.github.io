@@ -1,125 +1,125 @@
 {
-    "date": "2026-02-20",
+    "date": "2026-02-21",
     "news": [
         {
-            "title": "Fourth-quarter U.S. GDP up just 1.4%, badly missing estimate",
-            "link": "https://www.cnbc.com/2026/02/20/pce-inflation-december-2025.html",
-            "summary": "The core PCE price index was expected to increase 3% from a year ago in December. GDP was projected to rise at a 2.5% pace in Q4.",
-            "date": "Fri, 20 Feb 2026 13:52:43 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump could attack Iran in days — what's at stake for the oil market",
-            "link": "https://www.cnbc.com/2026/02/20/trump-could-attack-iran-in-days-whats-at-stake-for-the-oil-market.html",
-            "summary": "President Trump has warned Iran that an attack would be \"far worse\" than the U.S. airstrikes that targeted its nuclear facilities last June.",
-            "date": "Fri, 20 Feb 2026 13:33:25 GMT",
+            "title": "Trump announces new 10% global tariff after raging over Supreme Court loss",
+            "link": "https://www.cnbc.com/2026/02/20/trump-global-trade-tariff-supreme-court.html",
+            "summary": "President Donald Trump spoke hours after the Supreme Court ruled against his global tariffs that he imposed without Congress. President Donald Trump speaks hours after Supreme Court rules against hisglobal tariffs. Trump: 'I'm going to continue to do what I'm doing'",
+            "date": "Sat, 21 Feb 2026 01:31:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Trump says he's considering limited military strike against Iran",
+            "link": "https://www.cnbc.com/2026/02/20/trump-says-hes-considering-limited-military-strike-against-iran.html",
+            "summary": "The oil market's biggest fear is that a conflict between the U.S. and Iran could lead to a prolonged disruption of oil flows through the Strait of Hormuz.",
+            "date": "Sat, 21 Feb 2026 11:40:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Tech giants commit billions to Indian AI as New Delhi pushes for superpower status",
+            "link": "https://www.cnbc.com/2026/02/21/india-ai-summit-tech-giants-billion-dollar-investments.html",
+            "summary": "Tech and world leaders flocked to New Delhi for the India AI Impact Summit. The summit is the first of its kind in the world of AI.",
+            "date": "Sat, 21 Feb 2026 07:30:35 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TECH",
             "impact": "Neutral"
         },
         {
-            "title": "Privacy is at the center of child safety accusations against Apple and Meta. Here’s why",
-            "link": "https://www.cnbc.com/2026/02/20/meta-apple-child-safety-zuckerberg-cook.html",
-            "summary": "Privacy and encryption are central themes in legal proceedings involving child safety. Meta and Apple are being sued by the National Center for Missing and Exploited Children.",
-            "date": "Fri, 20 Feb 2026 13:35:33 GMT",
+            "title": "Under mounting toy pressures, Hasbro has a secret sauce that Mattel hasn't matched",
+            "link": "https://www.cnbc.com/2026/02/21/hasbro-vs-mattel-toy-industry-pressures-make-digital-the-star.html",
+            "summary": "Hasbro's Wizards of the Coast division includes Dungeons & Dragons, Magic: The Gathering and digital games. Hasbro's secret weapon has been its Wizards of The Coast division.",
+            "date": "Sat, 21 Feb 2026 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CYBR.L",
+            "stock_ticker": "UAA",
             "impact": "Neutral"
         },
         {
-            "title": "Bath & Body Works starts selling on Amazon as more brands embrace its logistics network",
-            "link": "https://www.cnbc.com/2026/02/20/bath-body-works-amazon-brands-embrace-logistics-network.html",
-            "summary": "Bath & Body Works CEO Daniel Heaf told CNBC the Amazon launch is about meeting customers where they are and leveraging Amazon's fast and free shipping.",
-            "date": "Fri, 20 Feb 2026 11:30:02 GMT",
+            "title": "OpenAI resets spending expectations, tells investors compute target is around $600 billion by 2030",
+            "link": "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html",
+            "summary": "OpenAI told investors it's targeting roughly $600 billion in total compute spend by 2030. The company had previously touted a $1.4 trillion figure.",
+            "date": "Fri, 20 Feb 2026 22:35:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBWI",
+            "stock_ticker": "OPENAI-USD",
             "impact": "Neutral"
         },
         {
-            "title": "'Canary in the coal mine': Blue Owl liquidity curbs fuel fears about private credit bubble",
-            "link": "https://www.cnbc.com/2026/02/20/canary-in-the-coal-mine-blue-owl-liquidity-curbs-fuel-fears-private-credit-bubble-.html",
-            "summary": "Blue Owl Capital permanently restricted withdrawals from one of its retail-focused debt funds. The private credit boom is facing a new test after Blue Owl Capital restricted withdrawals.",
-            "date": "Fri, 20 Feb 2026 10:14:30 GMT",
+            "title": "My ex-wife took out a $100K Parent PLUS loan for our son. Am I morally or legally obliged to pay it off?",
+            "link": "https://www.marketwatch.com/story/my-ex-wife-took-out-a-100k-parent-plus-loan-for-our-son-am-i-morally-or-legally-obliged-to-pay-it-off-30510e58?mod=mw_rss_topstories",
+            "summary": "“Our son makes $45,000 a year and has no immediate prospects for significantly increasing his income,” the family says.",
+            "date": "Sat, 21 Feb 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SUIS",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "Opendoor’s stock rallies as the home buyer shows progress in pivot to leaner business model",
-            "link": "https://www.marketwatch.com/story/opendoors-stock-rallies-as-the-home-buyer-shows-progress-in-pivot-to-leaner-business-model-31576bde?mod=mw_rss_topstories",
-            "summary": "The home buyer said it’s making progress on becoming a less-capital intensive, more profitable business. The company said it's making progress in becoming less capital intensive and more profitable.",
-            "date": "Fri, 20 Feb 2026 13:53:00 GMT",
+            "title": "This week’s slump in asset-manager stocks was driven by private-credit fears. Here’s what’s worrying investors.",
+            "link": "https://www.marketwatch.com/story/this-weeks-slump-in-asset-manager-stocks-was-driven-by-private-credit-fears-heres-whats-worrying-investors-0c47e043?mod=mw_rss_topstories",
+            "summary": "Shares of asset managers fell due to worries over a private-credit fund managed by Blue Owl Capital, triggering broader anxiety about spillover effects.",
+            "date": "Sat, 21 Feb 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHAZ",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         },
         {
-            "title": "GDP grew 2.2% in 2025. The economy might do even better this year.",
-            "link": "https://www.marketwatch.com/story/gdp-grew-2-2-in-2025-the-economy-might-do-even-better-this-year-0f56c26e?mod=mw_rss_topstories",
-            "summary": "The U.S. expanded at a subpar 1.4% annual pace in the fourth quarter of 2025. The record 43-day federal shutdown caused a big decline in government spending.",
-            "date": "Fri, 20 Feb 2026 13:46:00 GMT",
+            "title": "‘I need to get my financial ducks in a row’: I’m 80 with $1 million. How do I prevent my son from being hit with inheritance tax?",
+            "link": "https://www.marketwatch.com/story/i-need-to-get-my-financial-ducks-in-a-row-im-80-with-1-million-how-do-i-prevent-my-son-from-being-hit-with-inheritance-tax-27913be6?mod=mw_rss_topstories",
+            "summary": "“I have $650,000 in investments, $250,000 life insurance and about $150,000 equity in my home,” he says.",
+            "date": "Sat, 21 Feb 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GDPY.TO",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Gold’s push back above $5,000 is picking up steam, but it’s been a bumpy week",
-            "link": "https://www.marketwatch.com/story/golds-push-back-above-5-000-is-picking-up-steam-but-its-been-a-bumpy-week-e0b3e0c4?mod=mw_rss_topstories",
-            "summary": "Gold prices are attempting to cement a recovery above the $5,000 level. Gold prices have been in a downward trend since the beginning of the year.",
-            "date": "Fri, 20 Feb 2026 13:41:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "^XAU",
+            "stock_ticker": "AIDX",
             "impact": "Neutral"
         },
         {
-            "title": "The economy just flashed a Goldilocks signal — and it’s been doing a lot of that lately",
-            "link": "https://www.marketwatch.com/story/the-economy-just-flashed-a-goldilocks-signal-and-its-been-doing-a-lot-of-that-lately-447289d4?mod=mw_rss_topstories",
-            "summary": "The tone of U.S. economic data has a Goldilocks feel, a strategist says. The tone of the data has been more positive than negative, he says.",
-            "date": "Fri, 20 Feb 2026 13:39:00 GMT",
+            "title": "‘I won’t take out a loan’: I need $18K in house repairs. Do I take it from my Roth, 401(k) or IRA?",
+            "link": "https://www.marketwatch.com/story/i-wont-take-out-a-loan-i-need-18k-in-house-repairs-do-i-take-it-from-my-roth-401-k-or-ira-651f80f1?mod=mw_rss_topstories",
+            "summary": "“I plan to be debt-free in less than two years,” he says. “I’ve got a lot of work to do, but I’m excited.”",
+            "date": "Sat, 21 Feb 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ERNAW",
+            "stock_ticker": "AIDX",
             "impact": "Neutral"
         },
         {
-            "title": "The Fed’s favorite inflation tool shows it has more work to do to ratchet down price increases",
-            "link": "https://www.marketwatch.com/story/the-feds-favorite-inflation-tool-shows-it-has-more-work-to-do-to-ratchet-down-price-increases-9fe9dfff?mod=mw_rss_topstories",
-            "summary": "The Federal Reserve’s preferred inflation gauge showed prices rose close to 3% in 2025. The central bank more work to do to get cost-of-living increases back down to pre-pandemic lows.",
-            "date": "Fri, 20 Feb 2026 13:38:00 GMT",
+            "title": "Could these 6 non-AI chip stocks be the next leg of the AI boom?",
+            "link": "https://www.marketwatch.com/story/could-these-6-non-ai-chip-stocks-be-the-next-leg-of-the-ai-boom-6ddb23e9?mod=mw_rss_topstories",
+            "summary": "Analog chips have largely missed out on a broader semiconductor rally over the last two years. But that may be about to change.",
+            "date": "Sat, 21 Feb 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ERNAW",
-            "impact": "Bearish"
+            "stock_ticker": "0P0001YPM3.L",
+            "impact": "Neutral"
         }
     ]
 }
