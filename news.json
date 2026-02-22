@@ -1,124 +1,124 @@
 {
-    "date": "2026-02-21",
+    "date": "2026-02-22",
     "news": [
         {
-            "title": "Trump announces new 10% global tariff after raging over Supreme Court loss",
-            "link": "https://www.cnbc.com/2026/02/20/trump-global-trade-tariff-supreme-court.html",
-            "summary": "President Donald Trump spoke hours after the Supreme Court ruled against his global tariffs that he imposed without Congress. President Donald Trump speaks hours after Supreme Court rules against hisglobal tariffs. Trump: 'I'm going to continue to do what I'm doing'",
-            "date": "Sat, 21 Feb 2026 01:31:14 GMT",
+            "title": "The world's largest energy lender has a new head: Here's how it could shape U.S. policy",
+            "link": "https://www.cnbc.com/2026/02/22/the-worlds-largest-energy-lender-has-a-new-head-heres-how-it-could-shape-us-policy.html",
+            "summary": "Greg Beard heads the Office of Energy Dominance Financing, which has nearly $300 billion in lending authority. Beard: These are his energy priorities.",
+            "date": "Sun, 22 Feb 2026 12:32:18 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ERNAW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump to hike global tariffs to 15% from 10%, 'effective immediately'",
+            "link": "https://www.cnbc.com/2026/02/21/trump-tariffs.html",
+            "summary": "Trump also warned: \"During the next short number of months, the Trump Administration will determine and issue the new and legally permissible Tariffs\"",
+            "date": "Sat, 21 Feb 2026 18:49:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Airlines cancel thousands of flights ahead of another monster winter storm",
+            "link": "https://www.cnbc.com/2026/02/21/blizzard-prompts-airlines-waive-flight-change-fees.html",
+            "summary": "American, Delta, JetBlue, United and others waived change and cancellation fees ahead of another massive winter storm. American, Delta and JetBlue waive change and Cancellation Fees ahead of second major winter storm this week.",
+            "date": "Sun, 22 Feb 2026 12:07:51 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Five key takeaways from the Supreme Court's landmark decision against Trump's tariffs",
+            "link": "https://www.cnbc.com/2026/02/21/supreme-courts-trump-tariff-decision-five-takeaways.html",
+            "summary": ". What's far less certain is the longer-reaching impacts as the economy and markets again adjust to a changing landscape. The U.S. economy is expected to continue to grow, but at a slower pace.",
+            "date": "Sat, 21 Feb 2026 14:44:42 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FIVE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "India delays Washington trade visit as U.S. tariff policy shifts, source tells CNBC",
+            "link": "https://www.cnbc.com/2026/02/22/trump-tariffs-india-trade-deal.html",
+            "summary": "Negotiators want to 'evaluate the latest developments', source says. U.S.'s move to raise its global import tariffs to 15% from 10%.",
+            "date": "Sun, 22 Feb 2026 10:45:11 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "INDA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why you shouldn’t fall in love with the S&P 500",
+            "link": "https://www.marketwatch.com/story/this-chart-shows-why-stocks-arent-all-theyre-cracked-up-to-be-64b98603?mod=mw_rss_topstories",
+            "summary": "Wall Street doesn't tell you about the long-term return on your investments. What Wall Street doesn’t tell you About the Long-term Return on Your investments.",
+            "date": "Sat, 21 Feb 2026 23:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHY-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This is the biggest weakness in most people’s budgets. Here’s how to fix it.",
+            "link": "https://www.marketwatch.com/story/this-is-the-biggest-weakness-in-most-peoples-budgets-heres-how-to-fix-it-9290b3f0?mod=mw_rss_topstories",
+            "summary": "Most people don’t blow up their budget because they’re careless, one financial planner said. It happens because they neglect this critical detail.",
+            "date": "Sat, 21 Feb 2026 23:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "S2819.MC",
             "impact": "Bullish"
         },
         {
-            "title": "Trump says he's considering limited military strike against Iran",
-            "link": "https://www.cnbc.com/2026/02/20/trump-says-hes-considering-limited-military-strike-against-iran.html",
-            "summary": "The oil market's biggest fear is that a conflict between the U.S. and Iran could lead to a prolonged disruption of oil flows through the Strait of Hormuz.",
-            "date": "Sat, 21 Feb 2026 11:40:01 GMT",
+            "title": "The sobering way most Americans plan to use their tax refunds this year",
+            "link": "https://www.marketwatch.com/story/this-is-the-sobering-way-most-americans-plan-to-use-their-tax-refunds-this-year-cd7c585d?mod=mw_rss_topstories",
+            "summary": "Tax refunds are projected to be larger on average this year. Americans are thinking hard about how to spend them. The average tax refund will be $1,300, according to the IRS.",
+            "date": "Sat, 21 Feb 2026 23:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "ERNAW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "United Airlines’ best loyalty perks will soon be reserved for its cardholders. Is the card worth it?",
+            "link": "https://www.marketwatch.com/story/united-airlines-best-loyalty-perks-will-soon-be-reserved-for-its-cardholders-is-the-card-worth-it-39675942?mod=mw_rss_topstories",
+            "summary": "Frequent flyers who hold a United Airlines co-branded credit or debit card can soon earn up to twice as many miles as noncardholders. The move will reward the airline's biggest spenders.",
+            "date": "Sat, 21 Feb 2026 23:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "UPS",
             "impact": "Bullish"
         },
         {
-            "title": "Tech giants commit billions to Indian AI as New Delhi pushes for superpower status",
-            "link": "https://www.cnbc.com/2026/02/21/india-ai-summit-tech-giants-billion-dollar-investments.html",
-            "summary": "Tech and world leaders flocked to New Delhi for the India AI Impact Summit. The summit is the first of its kind in the world of AI.",
-            "date": "Sat, 21 Feb 2026 07:30:35 GMT",
+            "title": "8 ways you may be squandering money in retirement",
+            "link": "https://www.marketwatch.com/story/8-ways-to-keep-from-blowing-through-your-money-in-retirement-a9177a18?mod=mw_rss_topstories",
+            "summary": "Expenses that made sense during your peak earning years can drain your resources once you stop working. Expenses that make sense now can drain resources later in life.",
+            "date": "Sat, 21 Feb 2026 23:51:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TECH",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Under mounting toy pressures, Hasbro has a secret sauce that Mattel hasn't matched",
-            "link": "https://www.cnbc.com/2026/02/21/hasbro-vs-mattel-toy-industry-pressures-make-digital-the-star.html",
-            "summary": "Hasbro's Wizards of the Coast division includes Dungeons & Dragons, Magic: The Gathering and digital games. Hasbro's secret weapon has been its Wizards of The Coast division.",
-            "date": "Sat, 21 Feb 2026 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "UAA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "OpenAI resets spending expectations, tells investors compute target is around $600 billion by 2030",
-            "link": "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html",
-            "summary": "OpenAI told investors it's targeting roughly $600 billion in total compute spend by 2030. The company had previously touted a $1.4 trillion figure.",
-            "date": "Fri, 20 Feb 2026 22:35:29 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OPENAI-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My ex-wife took out a $100K Parent PLUS loan for our son. Am I morally or legally obliged to pay it off?",
-            "link": "https://www.marketwatch.com/story/my-ex-wife-took-out-a-100k-parent-plus-loan-for-our-son-am-i-morally-or-legally-obliged-to-pay-it-off-30510e58?mod=mw_rss_topstories",
-            "summary": "“Our son makes $45,000 a year and has no immediate prospects for significantly increasing his income,” the family says.",
-            "date": "Sat, 21 Feb 2026 13:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This week’s slump in asset-manager stocks was driven by private-credit fears. Here’s what’s worrying investors.",
-            "link": "https://www.marketwatch.com/story/this-weeks-slump-in-asset-manager-stocks-was-driven-by-private-credit-fears-heres-whats-worrying-investors-0c47e043?mod=mw_rss_topstories",
-            "summary": "Shares of asset managers fell due to worries over a private-credit fund managed by Blue Owl Capital, triggering broader anxiety about spillover effects.",
-            "date": "Sat, 21 Feb 2026 13:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THISX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I need to get my financial ducks in a row’: I’m 80 with $1 million. How do I prevent my son from being hit with inheritance tax?",
-            "link": "https://www.marketwatch.com/story/i-need-to-get-my-financial-ducks-in-a-row-im-80-with-1-million-how-do-i-prevent-my-son-from-being-hit-with-inheritance-tax-27913be6?mod=mw_rss_topstories",
-            "summary": "“I have $650,000 in investments, $250,000 life insurance and about $150,000 equity in my home,” he says.",
-            "date": "Sat, 21 Feb 2026 13:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AIDX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I won’t take out a loan’: I need $18K in house repairs. Do I take it from my Roth, 401(k) or IRA?",
-            "link": "https://www.marketwatch.com/story/i-wont-take-out-a-loan-i-need-18k-in-house-repairs-do-i-take-it-from-my-roth-401-k-or-ira-651f80f1?mod=mw_rss_topstories",
-            "summary": "“I plan to be debt-free in less than two years,” he says. “I’ve got a lot of work to do, but I’m excited.”",
-            "date": "Sat, 21 Feb 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AIDX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Could these 6 non-AI chip stocks be the next leg of the AI boom?",
-            "link": "https://www.marketwatch.com/story/could-these-6-non-ai-chip-stocks-be-the-next-leg-of-the-ai-boom-6ddb23e9?mod=mw_rss_topstories",
-            "summary": "Analog chips have largely missed out on a broader semiconductor rally over the last two years. But that may be about to change.",
-            "date": "Sat, 21 Feb 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001YPM3.L",
+            "stock_ticker": "HUT",
             "impact": "Neutral"
         }
     ]
