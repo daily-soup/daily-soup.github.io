@@ -1,35 +1,23 @@
 {
-    "date": "2026-02-22",
+    "date": "2026-02-23",
     "news": [
         {
-            "title": "The world's largest energy lender has a new head: Here's how it could shape U.S. policy",
-            "link": "https://www.cnbc.com/2026/02/22/the-worlds-largest-energy-lender-has-a-new-head-heres-how-it-could-shape-us-policy.html",
-            "summary": "Greg Beard heads the Office of Energy Dominance Financing, which has nearly $300 billion in lending authority. Beard: These are his energy priorities.",
-            "date": "Sun, 22 Feb 2026 12:32:18 GMT",
+            "title": "Europe hits back at 'pure tariff chaos' from the U.S., warning trade deals are at risk",
+            "link": "https://www.cnbc.com/2026/02/23/trump-15percent-global-tariff-europe-eu-uk-reaction.html",
+            "summary": "European officials have reacted with disbelief to President Donald Trump's latest tariff policy. European officials have warned that trade deals could be at risk under the new policy.",
+            "date": "Mon, 23 Feb 2026 11:30:25 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ERNAW",
+            "stock_ticker": "XDEF",
             "impact": "Neutral"
         },
         {
-            "title": "Trump to hike global tariffs to 15% from 10%, 'effective immediately'",
-            "link": "https://www.cnbc.com/2026/02/21/trump-tariffs.html",
-            "summary": "Trump also warned: \"During the next short number of months, the Trump Administration will determine and issue the new and legally permissible Tariffs\"",
-            "date": "Sat, 21 Feb 2026 18:49:29 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Airlines cancel thousands of flights ahead of another monster winter storm",
-            "link": "https://www.cnbc.com/2026/02/21/blizzard-prompts-airlines-waive-flight-change-fees.html",
-            "summary": "American, Delta, JetBlue, United and others waived change and cancellation fees ahead of another massive winter storm. American, Delta and JetBlue waive change and Cancellation Fees ahead of second major winter storm this week.",
-            "date": "Sun, 22 Feb 2026 12:07:51 GMT",
+            "title": "Airlines halt Puerto Vallarta flights after violence following Mexican cartel leader's killing",
+            "link": "https://www.cnbc.com/2026/02/23/puerto-vallarta-flights-mexico.html",
+            "summary": "U.S. and Canadian airlines halt flights to Puerto Vallarta, Mexico, as well as some to Guadalajara, Mexico.",
+            "date": "Mon, 23 Feb 2026 13:38:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,87 +26,99 @@
             "impact": "Neutral"
         },
         {
-            "title": "Five key takeaways from the Supreme Court's landmark decision against Trump's tariffs",
-            "link": "https://www.cnbc.com/2026/02/21/supreme-courts-trump-tariff-decision-five-takeaways.html",
-            "summary": ". What's far less certain is the longer-reaching impacts as the economy and markets again adjust to a changing landscape. The U.S. economy is expected to continue to grow, but at a slower pace.",
-            "date": "Sat, 21 Feb 2026 14:44:42 GMT",
+            "title": "Eli Lilly launches new form of obesity drug Zepbound with a month’s worth of doses in one pen",
+            "link": "https://www.cnbc.com/2026/02/23/eli-lilly-launches-zepbound-obesity-drug-pen-one-month-doses.html",
+            "summary": "Eli Lilly hopes the device can be more convenient for Zepbound users. The company hopes it will lead to more people taking the drug.",
+            "date": "Mon, 23 Feb 2026 14:00:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FIVE",
+            "stock_ticker": "LLY",
             "impact": "Neutral"
         },
         {
-            "title": "India delays Washington trade visit as U.S. tariff policy shifts, source tells CNBC",
-            "link": "https://www.cnbc.com/2026/02/22/trump-tariffs-india-trade-deal.html",
-            "summary": "Negotiators want to 'evaluate the latest developments', source says. U.S.'s move to raise its global import tariffs to 15% from 10%.",
-            "date": "Sun, 22 Feb 2026 10:45:11 GMT",
+            "title": "OpenAI lands multi-year deals with consulting giants in enterprise push",
+            "link": "https://www.cnbc.com/2026/02/23/open-ai-consulting-accenture-boston-capgemini-mckinsey-frontier.html",
+            "summary": "The consulting firms will help OpenAI's enterprise customers get AI agents into real production workflows more quickly. The consulting firms include Google, IBM, Microsoft, and others.",
+            "date": "Mon, 23 Feb 2026 13:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "INDA",
+            "stock_ticker": "OPERATOR-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Why you shouldn’t fall in love with the S&P 500",
-            "link": "https://www.marketwatch.com/story/this-chart-shows-why-stocks-arent-all-theyre-cracked-up-to-be-64b98603?mod=mw_rss_topstories",
-            "summary": "Wall Street doesn't tell you about the long-term return on your investments. What Wall Street doesn’t tell you About the Long-term Return on Your investments.",
-            "date": "Sat, 21 Feb 2026 23:52:00 GMT",
+            "title": "Google spinout Aalyria valued at $1.3 billion as investors pour into space-based communications",
+            "link": "https://www.cnbc.com/2026/02/23/google-spinout-aalyria-valued-at-1point3-billion-in-100-million-round.html",
+            "summary": "Aalyria raised $100 million in a funding round led by Battery Ventures. Aalyria, which was spun out of Google in 2022, raised the money.",
+            "date": "Mon, 23 Feb 2026 13:30:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GOOG",
+            "impact": "Neutral"
+        },
+        {
+            "title": "There’s another AI-doom post doing the rounds. This time, the S&P 500 dives nearly 40%.",
+            "link": "https://www.marketwatch.com/story/theres-another-ai-doom-post-doing-the-rounds-this-time-the-s-p-500-dives-nearly-40-13162b42?mod=mw_rss_topstories",
+            "summary": "A booming AI economy may be very bad for the broader economy, according to Citrini Research. A booming AI industry could have a negative impact on the rest of the economy.",
+            "date": "Mon, 23 Feb 2026 13:41:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MAY-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Fed’s Waller says next jobs report, not Supreme Court ruling, will be key for March interest rate decision",
+            "link": "https://www.marketwatch.com/story/feds-waller-says-next-jobs-report-not-supreme-court-ruling-will-impact-feds-march-rate-cut-decision-4ca7ca11?mod=mw_rss_topstories",
+            "summary": "The February jobs report, and not the Supreme Court ruling overturning a large part of President Donald Trump’s tariffs on imported goods, will be key to whether the Federal Reserve needs to cut interest rates in March.",
+            "date": "Mon, 23 Feb 2026 13:33:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FEDS.IL",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Congress must enact Trump’s tariffs now to steer the U.S. away from a massive revenue cliff",
+            "link": "https://www.marketwatch.com/story/congress-must-enact-trumps-tariffs-now-to-steer-the-u-s-away-from-a-massive-revenue-cliff-c147c999?mod=mw_rss_topstories",
+            "summary": "Tariffs need to become law or the federal budget will take a hit. Lawmakers have less than 150 days to decide on the issue.",
+            "date": "Mon, 23 Feb 2026 13:31:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CSMD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Snowstorm hits airline stocks as total flight cancellations top 5,300",
+            "link": "https://www.marketwatch.com/story/snowstorm-hits-airline-stocks-as-total-flight-cancellations-top-5-300-764ef9b6?mod=mw_rss_topstories",
+            "summary": "Airline stocks are taking a hit as a major Northeast snowstorm is leading to thousands of flight cancellations. Airline stock prices are down as a result.",
+            "date": "Mon, 23 Feb 2026 13:29:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why Honeywell just shaved about $600 million off the price of a chemicals acquisition",
+            "link": "https://www.marketwatch.com/story/green-deals-are-being-postponed-so-honeywell-just-shaved-500-million-off-a-chemicals-acquisition-93965abb?mod=mw_rss_topstories",
+            "summary": "Honeywell International received a 26% discount on its deal to acquire a business tied to the struggling chemicals industry. Honeywell International on Monday received a deal to buy a chemicals company at a discount.",
+            "date": "Mon, 23 Feb 2026 13:22:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "WHY-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This is the biggest weakness in most people’s budgets. Here’s how to fix it.",
-            "link": "https://www.marketwatch.com/story/this-is-the-biggest-weakness-in-most-peoples-budgets-heres-how-to-fix-it-9290b3f0?mod=mw_rss_topstories",
-            "summary": "Most people don’t blow up their budget because they’re careless, one financial planner said. It happens because they neglect this critical detail.",
-            "date": "Sat, 21 Feb 2026 23:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "S2819.MC",
-            "impact": "Bullish"
-        },
-        {
-            "title": "The sobering way most Americans plan to use their tax refunds this year",
-            "link": "https://www.marketwatch.com/story/this-is-the-sobering-way-most-americans-plan-to-use-their-tax-refunds-this-year-cd7c585d?mod=mw_rss_topstories",
-            "summary": "Tax refunds are projected to be larger on average this year. Americans are thinking hard about how to spend them. The average tax refund will be $1,300, according to the IRS.",
-            "date": "Sat, 21 Feb 2026 23:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ERNAW",
-            "impact": "Neutral"
-        },
-        {
-            "title": "United Airlines’ best loyalty perks will soon be reserved for its cardholders. Is the card worth it?",
-            "link": "https://www.marketwatch.com/story/united-airlines-best-loyalty-perks-will-soon-be-reserved-for-its-cardholders-is-the-card-worth-it-39675942?mod=mw_rss_topstories",
-            "summary": "Frequent flyers who hold a United Airlines co-branded credit or debit card can soon earn up to twice as many miles as noncardholders. The move will reward the airline's biggest spenders.",
-            "date": "Sat, 21 Feb 2026 23:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "UPS",
-            "impact": "Bullish"
-        },
-        {
-            "title": "8 ways you may be squandering money in retirement",
-            "link": "https://www.marketwatch.com/story/8-ways-to-keep-from-blowing-through-your-money-in-retirement-a9177a18?mod=mw_rss_topstories",
-            "summary": "Expenses that made sense during your peak earning years can drain your resources once you stop working. Expenses that make sense now can drain resources later in life.",
-            "date": "Sat, 21 Feb 2026 23:51:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HUT",
             "impact": "Neutral"
         }
     ]
