@@ -1,124 +1,124 @@
 {
-    "date": "2026-02-23",
+    "date": "2026-02-24",
     "news": [
         {
-            "title": "Europe hits back at 'pure tariff chaos' from the U.S., warning trade deals are at risk",
-            "link": "https://www.cnbc.com/2026/02/23/trump-15percent-global-tariff-europe-eu-uk-reaction.html",
-            "summary": "European officials have reacted with disbelief to President Donald Trump's latest tariff policy. European officials have warned that trade deals could be at risk under the new policy.",
-            "date": "Mon, 23 Feb 2026 11:30:25 GMT",
+            "title": "Meta strikes AI chip deal with AMD days after committing to deploy millions of Nvidia GPUs",
+            "link": "https://www.cnbc.com/2026/02/24/meta-to-use-6gw-of-amd-gpus-days-after-expanded-nvidia-ai-chip-deal.html",
+            "summary": " AMD has secured Meta as a customer for its Helios rack-scale system. The move comes as Nvidia's Blackwell faces heightened competition.",
+            "date": "Tue, 24 Feb 2026 13:23:40 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XDEF",
+            "stock_ticker": "META",
             "impact": "Neutral"
         },
         {
-            "title": "Airlines halt Puerto Vallarta flights after violence following Mexican cartel leader's killing",
-            "link": "https://www.cnbc.com/2026/02/23/puerto-vallarta-flights-mexico.html",
-            "summary": "U.S. and Canadian airlines halt flights to Puerto Vallarta, Mexico, as well as some to Guadalajara, Mexico.",
-            "date": "Mon, 23 Feb 2026 13:38:34 GMT",
+            "title": "Fed's Goolsbee calls for a hold on cuts as current rate of inflation is 'not good enough'",
+            "link": "https://www.cnbc.com/2026/02/24/feds-goolsbee-calls-for-a-hold-on-cuts-as-current-rate-of-inflation-is-not-good-enough.html",
+            "summary": "The Chicago Fed president said cuts aren't appropriate until there's more evidence that inflation is on its way down. The cuts won't take effect until there is more evidence of a slowdown in inflation, he said.",
+            "date": "Tue, 24 Feb 2026 13:00:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAL",
-            "impact": "Neutral"
+            "stock_ticker": "CALLS-USD",
+            "impact": "Bearish"
         },
         {
-            "title": "Eli Lilly launches new form of obesity drug Zepbound with a month’s worth of doses in one pen",
-            "link": "https://www.cnbc.com/2026/02/23/eli-lilly-launches-zepbound-obesity-drug-pen-one-month-doses.html",
-            "summary": "Eli Lilly hopes the device can be more convenient for Zepbound users. The company hopes it will lead to more people taking the drug.",
-            "date": "Mon, 23 Feb 2026 14:00:14 GMT",
+            "title": "Warner Bros. Discovery says Paramount makes higher bid, board will weigh offer against Netflix deal",
+            "link": "https://www.cnbc.com/2026/02/24/warner-bros-discovery-paramount-higher-bid-netflix.html",
+            "summary": "Netflix has four days to improve its previously agreed-upon bid for Paramount. If WBD deems the new Paramount offer superior, Netflix will have to increase its offer.",
+            "date": "Tue, 24 Feb 2026 13:50:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LLY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "OpenAI lands multi-year deals with consulting giants in enterprise push",
-            "link": "https://www.cnbc.com/2026/02/23/open-ai-consulting-accenture-boston-capgemini-mckinsey-frontier.html",
-            "summary": "The consulting firms will help OpenAI's enterprise customers get AI agents into real production workflows more quickly. The consulting firms include Google, IBM, Microsoft, and others.",
-            "date": "Mon, 23 Feb 2026 13:30:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OPERATOR-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Google spinout Aalyria valued at $1.3 billion as investors pour into space-based communications",
-            "link": "https://www.cnbc.com/2026/02/23/google-spinout-aalyria-valued-at-1point3-billion-in-100-million-round.html",
-            "summary": "Aalyria raised $100 million in a funding round led by Battery Ventures. Aalyria, which was spun out of Google in 2022, raised the money.",
-            "date": "Mon, 23 Feb 2026 13:30:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GOOG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "There’s another AI-doom post doing the rounds. This time, the S&P 500 dives nearly 40%.",
-            "link": "https://www.marketwatch.com/story/theres-another-ai-doom-post-doing-the-rounds-this-time-the-s-p-500-dives-nearly-40-13162b42?mod=mw_rss_topstories",
-            "summary": "A booming AI economy may be very bad for the broader economy, according to Citrini Research. A booming AI industry could have a negative impact on the rest of the economy.",
-            "date": "Mon, 23 Feb 2026 13:41:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MAY-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fed’s Waller says next jobs report, not Supreme Court ruling, will be key for March interest rate decision",
-            "link": "https://www.marketwatch.com/story/feds-waller-says-next-jobs-report-not-supreme-court-ruling-will-impact-feds-march-rate-cut-decision-4ca7ca11?mod=mw_rss_topstories",
-            "summary": "The February jobs report, and not the Supreme Court ruling overturning a large part of President Donald Trump’s tariffs on imported goods, will be key to whether the Federal Reserve needs to cut interest rates in March.",
-            "date": "Mon, 23 Feb 2026 13:33:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FEDS.IL",
+            "stock_ticker": "WBD",
             "impact": "Bullish"
         },
         {
-            "title": "Congress must enact Trump’s tariffs now to steer the U.S. away from a massive revenue cliff",
-            "link": "https://www.marketwatch.com/story/congress-must-enact-trumps-tariffs-now-to-steer-the-u-s-away-from-a-massive-revenue-cliff-c147c999?mod=mw_rss_topstories",
-            "summary": "Tariffs need to become law or the federal budget will take a hit. Lawmakers have less than 150 days to decide on the issue.",
-            "date": "Mon, 23 Feb 2026 13:31:00 GMT",
+            "title": "Novo Nordisk to slash GLP-1 list prices by up to 50% in U.S. to cut costs for insured patients",
+            "link": "https://www.cnbc.com/2026/02/24/novo-nordisk-to-slash-wegovy-ozempic-us-list-prices-by-up-to-50percent.html",
+            "summary": "The cuts aim to make the drugs more accessible to insured patients, particularly people with high-deductible health plans or co-insurance benefit designs.",
+            "date": "Tue, 24 Feb 2026 13:54:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CSMD",
+            "stock_ticker": "NVO",
             "impact": "Neutral"
         },
         {
-            "title": "Snowstorm hits airline stocks as total flight cancellations top 5,300",
-            "link": "https://www.marketwatch.com/story/snowstorm-hits-airline-stocks-as-total-flight-cancellations-top-5-300-764ef9b6?mod=mw_rss_topstories",
-            "summary": "Airline stocks are taking a hit as a major Northeast snowstorm is leading to thousands of flight cancellations. Airline stock prices are down as a result.",
-            "date": "Mon, 23 Feb 2026 13:29:00 GMT",
+            "title": "Stripe valued at $159 billion after tender offer for employees, shareholders",
+            "link": "https://www.cnbc.com/2026/02/24/stripe-value-stock-sale-tender-offer.html",
+            "summary": "Fintech startup Stripe continues to show strong growth, with a valuation now at $159 billion. Total volume nearing $2 trillion last year.",
+            "date": "Tue, 24 Feb 2026 13:37:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAL",
+            "stock_ticker": "0P00011MOB.F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "10 stocks Wall Street expects to roar back after dropping at least 20% in 2026",
+            "link": "https://www.marketwatch.com/story/10-stocks-wall-street-expects-to-roar-back-after-dropping-at-least-20-in-2026-ea6eb2c2?mod=mw_rss_topstories",
+            "summary": "Analysts expect these stocks to soar at least 46% over the next 12 months. Analysts expect the stocks to rise at least 44% in the next year. The shares of these companies are expected to rise 46% or more in the coming year.",
+            "date": "Tue, 24 Feb 2026 14:01:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NQ=F",
             "impact": "Neutral"
         },
         {
-            "title": "Why Honeywell just shaved about $600 million off the price of a chemicals acquisition",
-            "link": "https://www.marketwatch.com/story/green-deals-are-being-postponed-so-honeywell-just-shaved-500-million-off-a-chemicals-acquisition-93965abb?mod=mw_rss_topstories",
-            "summary": "Honeywell International received a 26% discount on its deal to acquire a business tied to the struggling chemicals industry. Honeywell International on Monday received a deal to buy a chemicals company at a discount.",
-            "date": "Mon, 23 Feb 2026 13:22:00 GMT",
+            "title": "‘I found out too late’: My stepmother cheated me out of $500K from my father’s estate. What can I do?",
+            "link": "https://www.marketwatch.com/story/i-found-out-too-late-my-stepmother-cheated-me-out-of-500k-from-my-fathers-estate-what-can-i-do-97f387c6?mod=mw_rss_topstories",
+            "summary": "“Within a week or two after the deadline to contest the will expired, my stepmother sent me an email stating she would not share anything,” he says.",
+            "date": "Tue, 24 Feb 2026 13:26:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHY-USD",
+            "stock_ticker": "TDOG",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Novo Nordisk and Eli Lilly shares both fall after Novo’s price-cut plan for Ozempic and Wegovy",
+            "link": "https://www.marketwatch.com/story/novo-nordisk-and-eli-lilly-shares-both-fall-after-ozempic-price-cut-plan-5472626b?mod=mw_rss_topstories",
+            "summary": "Shares of Novo Nordisk and rival Eli Lilly fell on Tuesday after a report said price cuts are coming for popular weight-loss drugs.",
+            "date": "Tue, 24 Feb 2026 13:26:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Intuit’s stock pops as new Anthropic partnership calms some nerves around AI disruption",
+            "link": "https://www.marketwatch.com/story/intuits-stock-pops-as-new-anthropic-partnership-calms-some-nerves-around-ai-disruption-46dbfdce?mod=mw_rss_topstories",
+            "summary": "Intuit's stock has been the S&amp;P 500's worst performer this year. Now the company is teaming up with the company that’s fueled investor fears.",
+            "date": "Tue, 24 Feb 2026 13:23:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VTI",
+            "impact": "Bullish"
+        },
+        {
+            "title": "FedEx starts the fight for tariff refunds by suing the Trump administration",
+            "link": "https://www.marketwatch.com/story/fedex-starts-the-fight-for-tariff-refunds-by-suing-the-trump-administration-6e3026f5?mod=mw_rss_topstories",
+            "summary": "FedEx filed a lawsuit against the Trump administration for refunds on tariffs paid. The company is seeking refunds for tariffs paid to the U.S. government.",
+            "date": "Tue, 24 Feb 2026 13:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FDX",
             "impact": "Neutral"
         }
     ]
