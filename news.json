@@ -1,124 +1,124 @@
 {
-    "date": "2026-02-24",
+    "date": "2026-02-25",
     "news": [
         {
-            "title": "Meta strikes AI chip deal with AMD days after committing to deploy millions of Nvidia GPUs",
-            "link": "https://www.cnbc.com/2026/02/24/meta-to-use-6gw-of-amd-gpus-days-after-expanded-nvidia-ai-chip-deal.html",
-            "summary": " AMD has secured Meta as a customer for its Helios rack-scale system. The move comes as Nvidia's Blackwell faces heightened competition.",
-            "date": "Tue, 24 Feb 2026 13:23:40 GMT",
+            "title": "David Tepper sends scathing letter to Whirlpool for destroying shareholder value, pushes for changes",
+            "link": "https://www.cnbc.com/2026/02/25/david-tepper-sends-scathing-letter-to-whirlpool.html",
+            "summary": "Tepper says he watched with \"a certain astonishment\" as the company issued equity. He called it a large and unnecessary dilution of shareholders.",
+            "date": "Wed, 25 Feb 2026 14:13:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "META",
+            "stock_ticker": "HOG",
             "impact": "Neutral"
         },
         {
-            "title": "Fed's Goolsbee calls for a hold on cuts as current rate of inflation is 'not good enough'",
-            "link": "https://www.cnbc.com/2026/02/24/feds-goolsbee-calls-for-a-hold-on-cuts-as-current-rate-of-inflation-is-not-good-enough.html",
-            "summary": "The Chicago Fed president said cuts aren't appropriate until there's more evidence that inflation is on its way down. The cuts won't take effect until there is more evidence of a slowdown in inflation, he said.",
-            "date": "Tue, 24 Feb 2026 13:00:59 GMT",
+            "title": "5 takeaways from Trump's State of Union address",
+            "link": "https://www.cnbc.com/2026/02/25/takeaways-trump-state-of-the-union-2026.html",
+            "summary": "Democrats are nipping at the heels of the incumbent Republicans for control of Congress in the 2026 midterms. Democrats are hoping to take control of the House of Representatives for the first time.",
+            "date": "Wed, 25 Feb 2026 07:30:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CALLS-USD",
+            "stock_ticker": "ES=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "David Ellison has a rocky history at the box office. Buying Warner Bros. could fix that",
+            "link": "https://www.cnbc.com/2026/02/25/paramount-wbd-david-ellison-box-office-history.html",
+            "summary": "Only five of Skydance's features to date — three of them starring Tom Cruise — have generated more than $200 million domestically. The company's first film, \"The Matrix,\" was released in 2004.",
+            "date": "Wed, 25 Feb 2026 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HOG",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia’s new AI system Vera Rubin is 10 times more efficient than its predecessor — here’s a first look",
+            "link": "https://www.cnbc.com/2026/02/25/first-look-at-nvidias-ai-system-vera-rubin-and-how-it-beats-blackwell.html",
+            "summary": "CNBC got an exclusive first look at Vera Rubin, Nvidia's next AI system. It's due to ship in the second half of the year.",
+            "date": "Wed, 25 Feb 2026 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "6N=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Mortgage rates hit lowest level in nearly 4 years, but homebuyers are still stuck on the sidelines",
+            "link": "https://www.cnbc.com/2026/02/25/mortgage-rates-hit-lowest-level-in-nearly-4-years.html",
+            "summary": "Mortgage rates dropped to the lowest level since 2022 last week. Demand from homebuyers declined as well, as they continue to struggle with affordability.",
+            "date": "Wed, 25 Feb 2026 13:22:02 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MGE=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I am fearful’: My ailing relative is being forced into assisted living. What can I do?",
+            "link": "https://www.marketwatch.com/story/i-am-fearful-my-ailing-relative-is-being-forced-into-assisted-living-what-can-i-do-7ce8b42a?mod=mw_rss_topstories",
+            "summary": "“My relative also has no idea what they are being charged for these services,” she said. “My relatives also have no idea.”",
+            "date": "Wed, 25 Feb 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSUI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "HSBC reports a beat and a raise as it leapfrogs Wells Fargo by market cap",
+            "link": "https://www.marketwatch.com/story/hsbc-reports-a-beat-and-a-raise-as-it-leapfrogs-wells-fargo-by-market-cap-0e9f15ee?mod=mw_rss_topstories",
+            "summary": "HSBC’s guidance for 2026 is pushing analysts to raise their stock-price estimates by around 6%. HSBC is expected to report a 6% rise in its share price by 2026.",
+            "date": "Wed, 25 Feb 2026 13:31:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HSBC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I spend $7,500 a month’: I’m 47, earn $260K, and have $3 million. Can I retire at 50?",
+            "link": "https://www.marketwatch.com/story/i-spend-7-500-a-month-im-47-earn-260k-and-have-3-million-can-i-retire-at-50-05afc0b5?mod=mw_rss_topstories",
+            "summary": "“I own a home worth $520,000 and do not have a mortgage on it,” she says. “I’m not going to let that get in the way of my dreams.”",
+            "date": "Wed, 25 Feb 2026 13:28:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSUI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why this investor says you can make good money off software stocks — if you trade them like telephone directories",
+            "link": "https://www.marketwatch.com/story/why-this-investor-says-you-can-make-good-money-off-software-stocks-if-you-trade-them-like-telephone-directories-e4d15635?mod=mw_rss_topstories",
+            "summary": "Deep value investor Lee Roach is looking at beaten-down software stocks for the first time ever. Roach says he's looking at software stocks as a potential takeover target.",
+            "date": "Wed, 25 Feb 2026 13:24:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHY-USD",
             "impact": "Bearish"
         },
         {
-            "title": "Warner Bros. Discovery says Paramount makes higher bid, board will weigh offer against Netflix deal",
-            "link": "https://www.cnbc.com/2026/02/24/warner-bros-discovery-paramount-higher-bid-netflix.html",
-            "summary": "Netflix has four days to improve its previously agreed-upon bid for Paramount. If WBD deems the new Paramount offer superior, Netflix will have to increase its offer.",
-            "date": "Tue, 24 Feb 2026 13:50:17 GMT",
+            "title": "Why more CEOs are taking a page from Elon Musk and chatting directly with customers",
+            "link": "https://www.marketwatch.com/story/why-more-ceos-are-chatting-directly-with-customers-e9c34f1d?mod=mw_rss_topstories",
+            "summary": "Some corporate watchers question if this is just a PR move. Executives say it's all about learning how to better run their businesses.",
+            "date": "Wed, 25 Feb 2026 12:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WBD",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Novo Nordisk to slash GLP-1 list prices by up to 50% in U.S. to cut costs for insured patients",
-            "link": "https://www.cnbc.com/2026/02/24/novo-nordisk-to-slash-wegovy-ozempic-us-list-prices-by-up-to-50percent.html",
-            "summary": "The cuts aim to make the drugs more accessible to insured patients, particularly people with high-deductible health plans or co-insurance benefit designs.",
-            "date": "Tue, 24 Feb 2026 13:54:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NVO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Stripe valued at $159 billion after tender offer for employees, shareholders",
-            "link": "https://www.cnbc.com/2026/02/24/stripe-value-stock-sale-tender-offer.html",
-            "summary": "Fintech startup Stripe continues to show strong growth, with a valuation now at $159 billion. Total volume nearing $2 trillion last year.",
-            "date": "Tue, 24 Feb 2026 13:37:41 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P00011MOB.F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "10 stocks Wall Street expects to roar back after dropping at least 20% in 2026",
-            "link": "https://www.marketwatch.com/story/10-stocks-wall-street-expects-to-roar-back-after-dropping-at-least-20-in-2026-ea6eb2c2?mod=mw_rss_topstories",
-            "summary": "Analysts expect these stocks to soar at least 46% over the next 12 months. Analysts expect the stocks to rise at least 44% in the next year. The shares of these companies are expected to rise 46% or more in the coming year.",
-            "date": "Tue, 24 Feb 2026 14:01:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NQ=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I found out too late’: My stepmother cheated me out of $500K from my father’s estate. What can I do?",
-            "link": "https://www.marketwatch.com/story/i-found-out-too-late-my-stepmother-cheated-me-out-of-500k-from-my-fathers-estate-what-can-i-do-97f387c6?mod=mw_rss_topstories",
-            "summary": "“Within a week or two after the deadline to contest the will expired, my stepmother sent me an email stating she would not share anything,” he says.",
-            "date": "Tue, 24 Feb 2026 13:26:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TDOG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Novo Nordisk and Eli Lilly shares both fall after Novo’s price-cut plan for Ozempic and Wegovy",
-            "link": "https://www.marketwatch.com/story/novo-nordisk-and-eli-lilly-shares-both-fall-after-ozempic-price-cut-plan-5472626b?mod=mw_rss_topstories",
-            "summary": "Shares of Novo Nordisk and rival Eli Lilly fell on Tuesday after a report said price cuts are coming for popular weight-loss drugs.",
-            "date": "Tue, 24 Feb 2026 13:26:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NVO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Intuit’s stock pops as new Anthropic partnership calms some nerves around AI disruption",
-            "link": "https://www.marketwatch.com/story/intuits-stock-pops-as-new-anthropic-partnership-calms-some-nerves-around-ai-disruption-46dbfdce?mod=mw_rss_topstories",
-            "summary": "Intuit's stock has been the S&amp;P 500's worst performer this year. Now the company is teaming up with the company that’s fueled investor fears.",
-            "date": "Tue, 24 Feb 2026 13:23:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
-            "impact": "Bullish"
-        },
-        {
-            "title": "FedEx starts the fight for tariff refunds by suing the Trump administration",
-            "link": "https://www.marketwatch.com/story/fedex-starts-the-fight-for-tariff-refunds-by-suing-the-trump-administration-6e3026f5?mod=mw_rss_topstories",
-            "summary": "FedEx filed a lawsuit against the Trump administration for refunds on tariffs paid. The company is seeking refunds for tariffs paid to the U.S. government.",
-            "date": "Tue, 24 Feb 2026 13:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FDX",
+            "stock_ticker": "WHY-USD",
             "impact": "Neutral"
         }
     ]
