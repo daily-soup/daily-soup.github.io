@@ -1,124 +1,124 @@
 {
-    "date": "2026-02-26",
+    "date": "2026-02-27",
     "news": [
         {
-            "title": "Nvidia's stock sees only marginal gains after better-than-expected results. Here's the latest",
-            "link": "https://www.cnbc.com/2026/02/26/nvidia-nvda-stock-price-q4-earnings.html",
-            "summary": "Better-than-expected results drew a muted investor response as AI bubble concerns remain. Better- than- expected results draw a muted investors response asAI bubble concerns still remain.",
-            "date": "Thu, 26 Feb 2026 12:44:06 GMT",
+            "title": "Core wholesale prices rose 0.8% in January, much more than expected",
+            "link": "https://www.cnbc.com/2026/02/27/ppi-january-2026-.html",
+            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
+            "date": "Fri, 27 Feb 2026 13:44:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NUCL",
+            "stock_ticker": "CRWV",
             "impact": "Neutral"
         },
         {
-            "title": "Trump said beef, egg and chicken prices are falling. Here's what the data shows",
-            "link": "https://www.cnbc.com/2026/02/26/trump-beef-egg-chicken-food-prices.html",
-            "summary": "President Donald Trump said that prices for certain proteins like beef, chicken and eggs have declined. Here's what the data shows about costs for these items.",
-            "date": "Thu, 26 Feb 2026 12:35:01 GMT",
+            "title": "OpenAI closes $110 billion funding round with backing from Amazon, Nvidia, Softbank",
+            "link": "https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html",
+            "summary": "OpenAI's latest funding round is even bigger than its prior financing, which was a record amount for private tech companies. OpenAI is a AI company that aims to improve the quality of the world's information.",
+            "date": "Fri, 27 Feb 2026 13:48:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "OPENAI-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Democrat senators press Commerce Secretary Lutnick on conflict of interest concerns in USA Rare Earth deal",
-            "link": "https://www.cnbc.com/2026/02/26/warren-lutnick-usa-rare-earth-usar-critical-minerals.html",
-            "summary": "Sens. Elizabeth Warren, Chris Van Hollen and Ron Wyden are pressing Commerce Secretary Howard Lutnick for more information on the USA Rare Earth deal.",
-            "date": "Thu, 26 Feb 2026 13:49:00 GMT",
+            "title": "Netflix ditches deal for Warner Bros. Discovery after Paramount’s offer is deemed superior",
+            "link": "https://www.cnbc.com/2026/02/26/warner-bros-discovery-paramount-skydance-deal-superior-netflix.html",
+            "summary": "Netflix is ditching a deal to buy Warner Bros. Discovery's studio and streaming assets. WBD board deemed a revised bid by Paramount to be superior.",
+            "date": "Fri, 27 Feb 2026 12:48:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NANC",
+            "stock_ticker": "NFLX",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Block shares soar as much as 24% as company slashes workforce by nearly half",
+            "link": "https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html",
+            "summary": "Block said Thursday it's laying off more than 4,000 employees, or about half of its head count. Block: \"We are going through a very difficult time in our business\"",
+            "date": "Fri, 27 Feb 2026 10:05:10 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "XYZ",
             "impact": "Neutral"
         },
         {
-            "title": "Russia says Cuba situation is escalating after deadly incident with U.S.-tagged speedboat",
-            "link": "https://www.cnbc.com/2026/02/26/cuba-crisis-russia-boat-incident-florida-trump-oil.html",
-            "summary": "The incident comes at a time of heightened tensions between Washington and Havana. The U.S. and Cuba have been at odds for years over Cuba's human rights record.",
-            "date": "Thu, 26 Feb 2026 13:09:36 GMT",
+            "title": "Anthropic CEO Amodei says Pentagon's threats 'do not change our position' on AI",
+            "link": "https://www.cnbc.com/2026/02/26/anthropic-pentagon-ai-amodei.html",
+            "summary": "Anthropic said its negotiations with the DOD are still ongoing. Anthropic is working with the Defense Department on a new contract to build a new facility.",
+            "date": "Fri, 27 Feb 2026 12:55:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "H416.MU",
+            "stock_ticker": "ANTHROPIC-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Jeep maker Stellantis posts first annual loss in company history after EV writedowns",
-            "link": "https://www.cnbc.com/2026/02/26/stellantis-earnings-full-year-2025-autos-evs.html",
-            "summary": "The results come shortly after the auto giant scaled back its EV ambitions following a major strategic shift. The results come weeks after the company announced it was scaling back its ambitions for electric vehicles.",
-            "date": "Thu, 26 Feb 2026 14:00:59 GMT",
+            "title": "Wholesale prices rise sharply and point to persistent inflation — but there’s glimmers of hope",
+            "link": "https://www.marketwatch.com/story/wholesale-prices-rise-sharply-and-point-to-persistent-inflation-c8a24e15?mod=mw_rss_topstories",
+            "summary": "Cost of wholesale goods and services rose at an accelerated pace in January for the second month in a row. Persistent inflation could dog the economy at least through the early part of the new year.",
+            "date": "Fri, 27 Feb 2026 13:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JEEP.DU",
+            "stock_ticker": "COST",
             "impact": "Neutral"
         },
         {
-            "title": "CEOs say they won’t add many jobs in 2026. Is a low-hire, low-fire labor market the new norm?",
-            "link": "https://www.marketwatch.com/story/ceos-say-they-wont-add-many-jobs-in-2026-is-a-low-hire-low-fire-labor-market-the-new-norm-1d700dc3?mod=mw_rss_topstories",
-            "summary": "Most CEOs of U.S. companies say they no plans to increase the size of their workforce this year. The “low-fire, low-hire’ labor market appears here to stay — at least in 2026.",
-            "date": "Thu, 26 Feb 2026 13:53:00 GMT",
+            "title": "Is it OK to wear pajamas on your next flight? A viral post sparks debate.",
+            "link": "https://www.marketwatch.com/story/is-it-ok-to-wear-pajamas-on-your-next-flight-a-viral-post-sparks-debate-29bad4de?mod=mw_rss_topstories",
+            "summary": "Tampa International Airport issued a mock ban on sleepwear. Plenty of comments soon followed on social media. The airport has since issued an apology for the incident.",
+            "date": "Fri, 27 Feb 2026 13:32:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CEOS",
+            "stock_ticker": "GBPISK=X",
             "impact": "Neutral"
         },
         {
-            "title": "As nuclear talks restart in Geneva, Iran’s ‘oil on the water’ reaches record levels",
-            "link": "https://www.marketwatch.com/story/as-nuclear-talks-restart-in-geneva-irans-oil-on-the-water-reaches-record-levels-100961cc?mod=mw_rss_topstories",
-            "summary": "Goldman Sachs believes the current geopolitical tension might have eased somewhat and they forecast $60 by year-end. By the fourth quarter of 2026, Goldman Sachs believes that $60 could be worth $1 trillion.",
-            "date": "Thu, 26 Feb 2026 13:45:00 GMT",
+            "title": "FanDuel parent’s stock tumbles as the house just can’t seem to win for its investors",
+            "link": "https://www.marketwatch.com/story/fanduel-parents-stock-tumbles-as-the-house-just-cant-seem-to-win-for-its-investors-bea0d4dc?mod=mw_rss_topstories",
+            "summary": "FanDuel's users lost too many bets and left for competitors. Shares of FanDuel’s parent were pointing down after disappointing earnings.",
+            "date": "Fri, 27 Feb 2026 13:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AS",
+            "stock_ticker": "PETZX",
+            "impact": "Bearish"
+        },
+        {
+            "title": "‘I spend $7,500 a month’: I’m 47, earn $260K, and have $3 million. Can I retire at 50?",
+            "link": "https://www.marketwatch.com/story/i-spend-7-500-a-month-im-47-earn-260k-and-have-3-million-can-i-retire-at-50-05afc0b5?mod=mw_rss_topstories",
+            "summary": "“I own a home worth $520,000 and do not have a mortgage on it,” she says. “I’m not going to let that get in the way of my dreams.”",
+            "date": "Fri, 27 Feb 2026 13:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RNA",
             "impact": "Neutral"
         },
         {
-            "title": "Why strategist Tom Lee believes the AI and crypto selloffs are almost over",
-            "link": "https://www.marketwatch.com/story/why-strategist-tom-lee-believes-the-ai-bloodbath-and-crypto-selloff-is-almost-over-0ccdbb49?mod=mw_rss_topstories",
-            "summary": "Fundstrat’s Tom Lee says the tech and crypto selloff has gone just about as far as it's going to go.",
-            "date": "Thu, 26 Feb 2026 13:44:00 GMT",
+            "title": "Beware of banks breaking bad, warns top B. of A. strategist. He casts a wary eye on bank-loan ETFs.",
+            "link": "https://www.marketwatch.com/story/beware-of-banks-breaking-bad-warns-top-b-of-a-strategist-he-casts-a-wary-eye-on-bank-loan-etfs-d90a9920?mod=mw_rss_topstories",
+            "summary": "Problem loans in the financial-services sector imply mounting risks for markets. Problem loans in financial- services sector imply rising risks for market.",
+            "date": "Fri, 27 Feb 2026 12:51:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHY-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Private-credit managers are betting your money on a market that has never been truly stress-tested",
-            "link": "https://www.marketwatch.com/story/private-credit-managers-are-betting-your-money-on-a-market-that-has-never-been-truly-stress-tested-b65546a6?mod=mw_rss_topstories",
-            "summary": "Retail investors seeking fast cash could trigger a financial crisis, experts warn. Retail investors seeking quick cash could triggered a financial Crisis, they warn.",
-            "date": "Thu, 26 Feb 2026 13:35:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PCMM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "If you can’t beat the market, you’d better hope it falls",
-            "link": "https://www.marketwatch.com/story/if-you-cant-beat-the-market-youd-better-hope-it-falls-87c53697?mod=mw_rss_topstories",
-            "summary": "If you want stock picking to pay off, you’re essentially rooting for a crash. Investment professionals rarely outperform in a bull market.",
-            "date": "Thu, 26 Feb 2026 13:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IFF",
+            "stock_ticker": "TSUI",
             "impact": "Neutral"
         }
     ]
