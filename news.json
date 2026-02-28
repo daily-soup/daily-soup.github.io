@@ -1,23 +1,23 @@
 {
-    "date": "2026-02-27",
+    "date": "2026-02-28",
     "news": [
         {
-            "title": "Core wholesale prices rose 0.8% in January, much more than expected",
-            "link": "https://www.cnbc.com/2026/02/27/ppi-january-2026-.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Fri, 27 Feb 2026 13:44:01 GMT",
+            "title": "U.S.-Israel launch massive attack on Iran; 4 U.S. military bases hit in retaliation",
+            "link": "https://www.cnbc.com/2026/02/28/trump-us-military-iran-strikes-middle-east-oil.html",
+            "summary": "U.S. President Donald Trump said Iran has continued to pursue nuclear weapons despite ongoing negotiations to end its program. Trump: Iran is pursuing nuclear weapons even as negotiations are ongoing to end program.",
+            "date": "Sat, 28 Feb 2026 13:15:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CRWV",
+            "stock_ticker": "LAUNCH-USD",
             "impact": "Neutral"
         },
         {
-            "title": "OpenAI closes $110 billion funding round with backing from Amazon, Nvidia, Softbank",
-            "link": "https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html",
-            "summary": "OpenAI's latest funding round is even bigger than its prior financing, which was a record amount for private tech companies. OpenAI is a AI company that aims to improve the quality of the world's information.",
-            "date": "Fri, 27 Feb 2026 13:48:07 GMT",
+            "title": "OpenAI strikes deal with Pentagon, hours after rival Anthropic was blacklisted by Trump",
+            "link": "https://www.cnbc.com/2026/02/27/openai-strikes-deal-with-pentagon-hours-after-rival-anthropic-was-blacklisted-by-trump.html",
+            "summary": "OpenAI CEO Sam Altman says his company has come to terms with the Defense Department for use of its models. Altman said on X that the company has agreed to share its AI technology with the government.",
+            "date": "Sat, 28 Feb 2026 04:25:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,82 +26,46 @@
             "impact": "Neutral"
         },
         {
-            "title": "Netflix ditches deal for Warner Bros. Discovery after Paramount’s offer is deemed superior",
-            "link": "https://www.cnbc.com/2026/02/26/warner-bros-discovery-paramount-skydance-deal-superior-netflix.html",
-            "summary": "Netflix is ditching a deal to buy Warner Bros. Discovery's studio and streaming assets. WBD board deemed a revised bid by Paramount to be superior.",
-            "date": "Fri, 27 Feb 2026 12:48:46 GMT",
+            "title": "WBD employees fear coming wave of job losses as Paramount tops Netflix's bid to acquire company",
+            "link": "https://www.cnbc.com/2026/02/27/warner-bros-employees-paramount.html",
+            "summary": "WBD employees fear potential job cuts, culture clashes and high debt loads. Paramount supplants Netflix as the company's acquirer. WBD employees worry about job cuts and culture clashes.",
+            "date": "Fri, 27 Feb 2026 22:02:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NFLX",
+            "stock_ticker": "WBD",
             "impact": "Bullish"
         },
         {
-            "title": "Block shares soar as much as 24% as company slashes workforce by nearly half",
-            "link": "https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html",
-            "summary": "Block said Thursday it's laying off more than 4,000 employees, or about half of its head count. Block: \"We are going through a very difficult time in our business\"",
-            "date": "Fri, 27 Feb 2026 10:05:10 GMT",
+            "title": "NASA is sending its first Black and first female astronauts to the moon",
+            "link": "https://www.cnbc.com/2026/02/28/nasa-astronauts-moon-artemis.html",
+            "summary": "NASA is sending the first Black and first female astronauts to the moon in an upcoming launch. It will be the first journey to the Moon in over 50 years.",
+            "date": "Sat, 28 Feb 2026 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XYZ",
-            "impact": "Neutral"
+            "stock_ticker": "NASA.JK",
+            "impact": "Bullish"
         },
         {
-            "title": "Anthropic CEO Amodei says Pentagon's threats 'do not change our position' on AI",
-            "link": "https://www.cnbc.com/2026/02/26/anthropic-pentagon-ai-amodei.html",
-            "summary": "Anthropic said its negotiations with the DOD are still ongoing. Anthropic is working with the Defense Department on a new contract to build a new facility.",
-            "date": "Fri, 27 Feb 2026 12:55:21 GMT",
+            "title": "AI just leveled up and there are no guardrails anymore",
+            "link": "https://www.cnbc.com/2026/02/28/ai-selloff-politics-agents.html",
+            "summary": "CNBC's Deirdre Bosa goes inside the AI-driven market meltdown, the political fight, and the race that's moving faster than anyone can govern.",
+            "date": "Sat, 28 Feb 2026 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ANTHROPIC-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Wholesale prices rise sharply and point to persistent inflation — but there’s glimmers of hope",
-            "link": "https://www.marketwatch.com/story/wholesale-prices-rise-sharply-and-point-to-persistent-inflation-c8a24e15?mod=mw_rss_topstories",
-            "summary": "Cost of wholesale goods and services rose at an accelerated pace in January for the second month in a row. Persistent inflation could dog the economy at least through the early part of the new year.",
-            "date": "Fri, 27 Feb 2026 13:38:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "COST",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Is it OK to wear pajamas on your next flight? A viral post sparks debate.",
-            "link": "https://www.marketwatch.com/story/is-it-ok-to-wear-pajamas-on-your-next-flight-a-viral-post-sparks-debate-29bad4de?mod=mw_rss_topstories",
-            "summary": "Tampa International Airport issued a mock ban on sleepwear. Plenty of comments soon followed on social media. The airport has since issued an apology for the incident.",
-            "date": "Fri, 27 Feb 2026 13:32:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GBPISK=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "FanDuel parent’s stock tumbles as the house just can’t seem to win for its investors",
-            "link": "https://www.marketwatch.com/story/fanduel-parents-stock-tumbles-as-the-house-just-cant-seem-to-win-for-its-investors-bea0d4dc?mod=mw_rss_topstories",
-            "summary": "FanDuel's users lost too many bets and left for competitors. Shares of FanDuel’s parent were pointing down after disappointing earnings.",
-            "date": "Fri, 27 Feb 2026 13:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PETZX",
+            "stock_ticker": "AI",
             "impact": "Bearish"
         },
         {
-            "title": "‘I spend $7,500 a month’: I’m 47, earn $260K, and have $3 million. Can I retire at 50?",
-            "link": "https://www.marketwatch.com/story/i-spend-7-500-a-month-im-47-earn-260k-and-have-3-million-can-i-retire-at-50-05afc0b5?mod=mw_rss_topstories",
-            "summary": "“I own a home worth $520,000 and do not have a mortgage on it,” she says. “I’m not going to let that get in the way of my dreams.”",
-            "date": "Fri, 27 Feb 2026 13:30:00 GMT",
+            "title": "The week, FOBO — ‘fear of becoming obsolete’ because of AI — became real for workers and markets",
+            "link": "https://www.marketwatch.com/story/the-week-fobo-fear-of-becoming-obsolete-because-of-ai-became-real-for-workers-and-markets-1206b279?mod=mw_rss_topstories",
+            "summary": "Some CEOs and researchers are skeptical about doomsday scenarios. Massive jobs cuts at Block and a cataclysmic Citrini blog post stoked anxieties.",
+            "date": "Sat, 28 Feb 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "Beware of banks breaking bad, warns top B. of A. strategist. He casts a wary eye on bank-loan ETFs.",
-            "link": "https://www.marketwatch.com/story/beware-of-banks-breaking-bad-warns-top-b-of-a-strategist-he-casts-a-wary-eye-on-bank-loan-etfs-d90a9920?mod=mw_rss_topstories",
-            "summary": "Problem loans in the financial-services sector imply mounting risks for markets. Problem loans in financial- services sector imply rising risks for market.",
-            "date": "Fri, 27 Feb 2026 12:51:00 GMT",
+            "title": "My boss told me to dress better. Now I feel uncomfortable. He is a white man and I am a Black woman.",
+            "link": "https://www.marketwatch.com/story/my-boss-told-me-to-dress-better-now-i-feel-uncomfortable-he-is-a-white-man-and-i-am-a-black-woman-70a7fd80?mod=mw_rss_topstories",
+            "summary": "\"I just feel like you don’t dress for the occasion.” says the manager. \"You don't have to dress for it,\" he adds.",
+            "date": "Sat, 28 Feb 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSUI",
+            "stock_ticker": "MYHD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Can China just steal America’s AI brain that’s costing trillions to develop?",
+            "link": "https://www.marketwatch.com/story/can-china-just-steal-americas-ai-brain-thats-costing-trillions-to-develop-da126634?mod=mw_rss_topstories",
+            "summary": "American companies are spending enormous sums to develop high-performing AI models. Distillation attacks are attempting to maliciously extract them. Nobody is doing much to stop it.",
+            "date": "Sat, 28 Feb 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CAN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I dread the snow’: My heating and air conditioning always breaks down. Do I spend $15K on a new one?",
+            "link": "https://www.marketwatch.com/story/i-dread-the-snow-my-heating-and-air-conditioning-always-breaks-down-do-i-spend-15k-on-a-new-one-e4cbf07e?mod=mw_rss_topstories",
+            "summary": "“Is there a formula or method for figuring out when replacement becomes more cost-effective than ongoing repairs?” asks the author.",
+            "date": "Sat, 28 Feb 2026 12:45:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RNA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These fintech stocks are loved by analysts and could bounce back in a big way",
+            "link": "https://www.marketwatch.com/story/these-fintech-stocks-are-loved-by-analysts-and-could-bounce-back-in-a-big-way-567f0f46?mod=mw_rss_topstories",
+            "summary": "PayPal and Block are both cheap relative to historic levels. But only one of them commands heavy enthusiasm from analysts. PayPal is the only one that is attracting the most interest from investors.",
+            "date": "Sat, 28 Feb 2026 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001YPM3.L",
             "impact": "Neutral"
         }
     ]
