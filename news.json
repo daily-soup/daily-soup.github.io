@@ -1,35 +1,11 @@
 {
-    "date": "2026-03-01",
+    "date": "2026-03-02",
     "news": [
         {
-            "title": "Iran may 'lash out harder' as Khamenei's death puts Tehran on a war footing, leaving the world bracing for what's next",
-            "link": "https://www.cnbc.com/2026/03/01/us-israel-attacks-strikes-iran-retaliate-china-russia-allies.html",
-            "summary": "Analysts say neither Russia nor China is in a position to offer meaningful support. Iran's strategic allies Russia and China have made strong diplomatic protests.",
-            "date": "Sun, 01 Mar 2026 09:21:20 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RANI3F.SA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "$100 oil? Prolonged Hormuz closure could spark a 1970s-style energy shock",
-            "link": "https://www.cnbc.com/2026/03/01/experts-weigh-potential-scenarios-for-oil-if-strait-of-hormuz-closes.html",
-            "summary": "U.S. strikes on Iran reignited fears of disruptions in the Strait of Hormuz. Energy analysts are bracing for a possible oil supply shock.",
-            "date": "Sun, 01 Mar 2026 10:57:52 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NQ=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Iran after Khamenei: What's next and what it means for the country?",
-            "link": "https://www.cnbc.com/2026/03/01/iran-khamenei-dead-us-israel-strike-trump-netanyahu.html",
-            "summary": "Khamenei assumed power following the death of Ayatollah Ruhollah Khomeini in 1989. He inheriting a revolutionary state still consolidating itself.",
-            "date": "Sun, 01 Mar 2026 08:40:22 GMT",
+            "title": "Iran strikes halt Qatar LNG output, shaking global energy markets",
+            "link": "https://www.cnbc.com/2026/03/02/qatars-state-owned-energy-company-halts-lng-production-after-iran-drone-attacks.html",
+            "summary": "QatarEnergy said the attack hit its facilities at Ras Laffan Industrial City and Mesaieed Industrial City. QatarEnergy: The attack hit our facilities at the two industrial cities.",
+            "date": "Mon, 02 Mar 2026 13:41:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,88 +14,112 @@
             "impact": "Neutral"
         },
         {
-            "title": "All the highlights from Berkshire CEO Abel's first shareholder letter",
-            "link": "https://www.cnbc.com/2026/03/01/all-the-highlights-from-berkshire-ceo-abels-first-shareholder-letter.html",
-            "summary": "New Berkshire Hathaway CEO Greg Abel emphasizes he won't be making major changes to the way the company has operated for decades under Warren Buffett's leadership.",
-            "date": "Sun, 01 Mar 2026 12:20:34 GMT",
+            "title": "Steve Eisman says investors should ignore U.S.-Iran war, will be long-term 'positive'",
+            "link": "https://www.cnbc.com/2026/03/02/steve-eisman-says-investors-should-ignore-us-iran-war-will-be-long-term-positive.html",
+            "summary": "'The Big Short' investor says he wouldn't change a single trade because of the conflict. He also said he would not change anything about his investment strategy.",
+            "date": "Mon, 02 Mar 2026 13:47:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ALL",
+            "stock_ticker": "SJM.F",
             "impact": "Neutral"
         },
         {
-            "title": "Top Wall Street analysts recommend these dividend stocks for enhanced returns",
-            "link": "https://www.cnbc.com/2026/03/01/top-wall-street-analysts-recommend-these-dividend-stocks-for-enhanced-returns.html",
-            "summary": "TipRanks names three stocks with dividends that analysts believe can bolster investors' portfolios. TipRanks: Three stocks with dividend payouts that can bolster portfolios.",
-            "date": "Sun, 01 Mar 2026 12:38:29 GMT",
+            "title": "Nvidia to invest $4 billion in two photonics companies",
+            "link": "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html",
+            "summary": "Coherent and Lumentum will both receive $2 billion each from the chip giant as part of the strategic investment. Coherent will get $1 billion each, while Lumentsum will receive $1.5 billion each.",
+            "date": "Mon, 02 Mar 2026 13:43:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s how much you could pay for a gallon of gas by May because of the attacks on Iran",
-            "link": "https://www.marketwatch.com/story/heres-how-much-you-could-pay-for-a-gallon-of-gas-by-may-because-of-the-attacks-on-iran-e12e976f?mod=mw_rss_topstories",
-            "summary": "U.S.-Israel strikes against Iran will push up oil futures, and prices at the pump, GasBuddy forecasts. The U.S. and Israel are planning to strike Iran's oil facilities.",
-            "date": "Sun, 01 Mar 2026 13:29:00 GMT",
+            "title": "Travel stocks sink after thousands of flights grounded following Iran strikes",
+            "link": "https://www.cnbc.com/2026/03/02/iran-strikes-flights-travel-stocks.html",
+            "summary": "Airlines and hotel stocks fell after the U.S.-Israeli attacks on Iran and subsequent retaliation strikes. Airlines and some hotel stocks fall after the United States and Israel attack on Iran.",
+            "date": "Mon, 02 Mar 2026 13:15:54 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TRV",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Global markets after Iran strikes: Oil surges, airlines sink, bonds defy safe-haven playbook",
+            "link": "https://www.cnbc.com/2026/03/02/global-markets-after-iran-strikes-oil-surges-airlines-sink-bonds-defy-safe-haven-playbook.html",
+            "summary": "Global markets open lower across the board. Major sectors in Europe and Asia negative. FTSE 100 down 0.4%, DAX down 0% and CAC down 1%.",
+            "date": "Mon, 02 Mar 2026 13:44:28 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "COIN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My brother is paranoid, alone and has forgotten that he sold his house. How can we help?",
+            "link": "https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories",
+            "summary": "His lawyer said, “He’s gone off the deep end.” His lawyer said he was “going off thedeep end’",
+            "date": "Mon, 02 Mar 2026 13:44:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s how far oil is away from dragging stocks into a bear market, according to Morgan Stanley",
+            "link": "https://www.marketwatch.com/story/heres-how-far-oil-is-away-from-dragging-stocks-into-a-bear-market-according-to-morgan-stanley-b8e1932b?mod=mw_rss_topstories",
+            "summary": "History shows market can recover quite quickly from geopolitical shocks, as seen in recent days. In this case, the U.S. is facing a threat from North Korea, which has threatened to invade the South.",
+            "date": "Mon, 02 Mar 2026 13:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Anthropic’s Claude suffers an outage. Here’s what to know.",
+            "link": "https://www.marketwatch.com/story/anthropics-claude-suffers-an-outage-heres-what-to-know-df8ada64?mod=mw_rss_topstories",
+            "summary": "Claude had been gaining more respect with users following ChatGPT backlash and the introduction of new coding tools. An outage might erode some of that goodwill.",
+            "date": "Mon, 02 Mar 2026 13:29:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MONET-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s what’s worth streaming in March 2026 on Netflix, Hulu, HBO Max and more",
+            "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-march-2026-on-netflix-hulu-hbo-max-and-more-83f5b64d?mod=mw_rss_topstories",
+            "summary": "HBO’s ‘DTF St. Louis’ and ‘Rooster’ jump out of the gate as Emmy season gets underway. ‘Peaky Blinders’ movie is set to be released on Netflix.",
+            "date": "Mon, 02 Mar 2026 13:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BD0.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I don’t earn enough to support us and our baby’: My husband is unemployed and lost $22,000 trading sports cards. What now?",
+            "link": "https://www.marketwatch.com/story/i-dont-earn-enough-to-support-us-and-our-baby-my-husband-is-unemployed-and-lost-22-000-trading-sports-cards-what-now-200c1438?mod=mw_rss_topstories",
+            "summary": "“I intervened, shut the business down and got him into therapy and support for gambling-type behaviors,” she says. “I shut down his business and got his behavior under control.”",
+            "date": "Mon, 02 Mar 2026 13:11:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IVSX",
             "impact": "Bullish"
-        },
-        {
-            "title": "Investors should brace for more than a brief military campaign in Iran",
-            "link": "https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?mod=mw_rss_topstories",
-            "summary": "U.S. President Trump said Saturday that Iran’s Supreme Leader Ayatollah Ali Khamenei was killed by U.S.-Israel strikes.",
-            "date": "Sat, 28 Feb 2026 22:40:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OHI",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Drone warfare could mean investors need a new guidebook for this Iran conflict",
-            "link": "https://www.marketwatch.com/story/drone-warfare-could-mean-investors-need-a-new-guidebook-for-this-iran-conflict-ccac6a82?mod=mw_rss_topstories",
-            "summary": "Use of ‘shoot and scoot’ drone warfare could prolong Iran conflict, warns Papic at BCA Research. ‘Shooting and scooting’ is a term used to refer to the use of drone warfare by U.S. forces.",
-            "date": "Sat, 28 Feb 2026 22:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "2DV0.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My wife’s credit-card payment is three months overdue. As an authorized user, am I in trouble?",
-            "link": "https://www.marketwatch.com/story/my-wifes-credit-card-payment-is-three-months-overdue-as-an-authorized-user-am-i-in-trouble-9094513f?mod=mw_rss_topstories",
-            "summary": "“All correspondence regarding the account was sent to my wife’s email,” he said. “All of the emails were sent to her.”",
-            "date": "Sat, 28 Feb 2026 22:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SGDMYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Will the bank get suspicious if I deposit $150,000 in cash into my checking account?",
-            "link": "https://www.marketwatch.com/story/i-live-in-a-state-with-no-inheritance-tax-is-it-legal-to-deposit-150k-cash-into-my-bank-account-d7987cfe?mod=mw_rss_topstories",
-            "summary": "“I live in a state with no inheritance tax. I assume I can make this deposit legally,” he says. “I assume I will be able to make it legally.”",
-            "date": "Sat, 28 Feb 2026 21:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SHW",
-            "impact": "Neutral"
         }
     ]
 }
