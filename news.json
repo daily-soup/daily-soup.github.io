@@ -1,95 +1,95 @@
 {
-    "date": "2026-03-04",
+    "date": "2026-03-05",
     "news": [
         {
-            "title": "Bessent says global 15% tariff starts this week, predicts Trump duties will return to old levels later this year",
-            "link": "https://www.cnbc.com/2026/03/04/bessent-says-global-15percent-tariff-starts-this-week-move-back-to-prior-rates-within-5-months.html",
-            "summary": "The Supreme Court last month ruled that President Donald Trump's sweeping global tariffs are not authorized under the law known as IEEPA. The Supreme Court ruled that the president's sweepingGlobal Tariffs Act is not authorized by the law.",
-            "date": "Wed, 04 Mar 2026 13:44:43 GMT",
+            "title": "Berkshire Hathaway begins repurchasing shares, CEO Greg Abel buys $15 million in stock",
+            "link": "https://www.cnbc.com/2026/03/05/berkshire-hathaway-begins-repurchasing-shares-ceo-greg-abel-buys-15-million-in-stock-.html",
+            "summary": "The 62-year-old executive's purchase came a little more than two months into his tenure running the Omaha-based conglomerate. The 62- year-old exec's purchase comes a little over two months after he took over the company.",
+            "date": "Thu, 05 Mar 2026 13:22:32 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COIN",
+            "stock_ticker": "BRK-B",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Iran war threatens $11.7 trillion global travel industry as passengers get caught in crossfire",
+            "link": "https://www.cnbc.com/2026/03/05/iran-war-travel-flights-cruise-hotels.html",
+            "summary": "Travelers who are far from falling missiles, drone attacks and other geopolitical flashpoints aren't immune to ripple effects. The U.S. has been involved in more than a dozen drone attacks in recent years.",
+            "date": "Thu, 05 Mar 2026 12:49:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RANI3.SA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Merkley proposes prediction market ban for government officials after Maduro, Iran bets",
+            "link": "https://www.cnbc.com/2026/03/05/prediction-markets-merkley-ban-iran.html",
+            "summary": "Lawmakers are looking to ban insider trading on prediction markets. After a series of dubious bets placed on the ouster of Venezuela's Maduro and Iran strikes, lawmakers want to ban it.",
+            "date": "Thu, 05 Mar 2026 13:54:47 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MKT.V",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Spain rejects White House claim it agreed to cooperate with U.S. forces amid Iran war",
+            "link": "https://www.cnbc.com/2026/03/05/iran-war-us-spain-trump-sanchez-defense-trade-eu.html",
+            "summary": "The White House says Spain will now cooperate with the U.S. militarily over the Iran conflict. Madrid swiftly rejected this claim and said it would not join the war effort.",
+            "date": "Thu, 05 Mar 2026 12:11:43 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "YEIS.MC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Lawmakers to introduce bill strengthening federal anti-poverty program: It's 'a critical lifeline,' Warren says",
+            "link": "https://www.cnbc.com/2026/03/05/supplemental-security-income-ssi-bill.html",
+            "summary": "SSI was created in 1972 to help the nation's most vulnerable. Some features of the program have not been updated in decades.",
+            "date": "Thu, 05 Mar 2026 13:40:02 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOP=X",
             "impact": "Bullish"
         },
         {
-            "title": "Private companies added 63,000 jobs in February, January revised to just 11,000 additions, ADP says",
-            "link": "https://www.cnbc.com/2026/03/04/private-companies-added-63000-jobs-in-february-january-revised-to-just-11000-additions-adp-says.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Wed, 04 Mar 2026 13:48:37 GMT",
+            "title": "This stock-market correction signal just triggered for only the third time in seven years. Here’s the message for investors.",
+            "link": "https://www.marketwatch.com/story/this-stock-market-correction-signal-just-triggered-for-only-the-third-time-in-seven-years-heres-the-message-for-investors-7142847e?mod=mw_rss_topstories",
+            "summary": " Variant Perception said its S&amp;P 500 “Correction Signal” has only been triggered three times since 2019. Variant Perception: S&amps;P500 “ correction signal’s only triggered three time since 2019, not all at once.",
+            "date": "Thu, 05 Mar 2026 13:39:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XOVR",
+            "stock_ticker": "S2819.MC",
             "impact": "Neutral"
         },
         {
-            "title": "'No to war’: Spain PM hits back at Trump threat to cut trade over air base dispute",
-            "link": "https://www.cnbc.com/2026/03/04/spain-pm-sanchez-trump-trade-nato-defense-iran-israel-crisis.html",
-            "summary": "The U.S. president pledged to cut off all trade with Madrid over its position on the Iran conflict. His comments come after the U.N. Security Council passed a resolution condemning Iran's nuclear program.",
-            "date": "Wed, 04 Mar 2026 13:13:07 GMT",
+            "title": "Jobless claims and Challenger Gray point to declining layoffs. What about hiring plans?",
+            "link": "https://www.marketwatch.com/story/jobless-claims-and-challenger-gray-point-to-declining-layoffs-what-about-hiring-plans-ce1b7215?mod=mw_rss_topstories",
+            "summary": "The number of people who lost jobs and applied for unemployment benefits at the end of February clung to recent lows. It added to a flurry of signals suggesting the labor market has stabilized.",
+            "date": "Thu, 05 Mar 2026 13:36:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GAING",
+            "stock_ticker": "JOBIESS-USD",
             "impact": "Neutral"
-        },
-        {
-            "title": "Remember Twitter? Elon Musk expected to testify over flip-flop in $44 billion buyout",
-            "link": "https://www.cnbc.com/2026/03/04/elon-musk-to-testify-securities-fraud-trial-over-twitter-deal-in-sf.html",
-            "summary": "Musk is on trial for a case filed by Twitter investors in 2022. The year he purchased the social media company for $44 billion.",
-            "date": "Wed, 04 Mar 2026 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0000YI4F.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. crude oil retreats for the first session since Iran war began as Bessent pledges support",
-            "link": "https://www.cnbc.com/2026/03/04/crude-oil-prices-today-iran-war.html",
-            "summary": "The oil market has calmed after President Donald Trump said the U.S. would insure tankers and provide naval escorts if necessary. The oil market had been in a state of uncertainty over the future of the global oil market.",
-            "date": "Wed, 04 Mar 2026 13:35:26 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How this top-performing trend-following manager got ahead of the Iran conflict and a software rout",
-            "link": "https://www.marketwatch.com/story/how-this-top-performing-trend-following-manager-got-ahead-of-the-iran-conflict-and-a-software-rout-8110f662?mod=mw_rss_topstories",
-            "summary": "Longboard Asset Management has made a strategy of not getting hung up on headlines. Here's what the trend-following manager sees as worth investing in now.",
-            "date": "Wed, 04 Mar 2026 13:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Bullish"
-        },
-        {
-            "title": "ADP says businesses add 63,000 jobs in February. Hiring picks up, but labor market is still sluggish.",
-            "link": "https://www.marketwatch.com/story/adp-says-businesses-add-63-000-jobs-in-february-as-hiring-picks-up-93f1ab7c?mod=mw_rss_topstories",
-            "summary": "ADP: Businesses created 63,000 new jobs in February. It's the biggest increase in seven months. The increase is another sign that a sluggish U.S. labor market might be slightly perking up.",
-            "date": "Wed, 04 Mar 2026 13:20:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ADP",
-            "impact": "Bullish"
         },
         {
             "title": "‘When he doesn’t get money, he becomes angry’: My brother has led a life of chaos and financial ruin. What is my moral obligation?",
             "link": "https://www.marketwatch.com/story/when-he-doesnt-get-money-he-becomes-angry-my-brother-has-led-a-life-of-chaos-and-financial-ruin-what-is-my-moral-obligation-ac5efa9d?mod=mw_rss_topstories",
             "summary": "“Without clear distance and boundaries, he will pull me down with him,” she says. “Withoutclear distance and boundary, he’s going to pull you down too.”",
-            "date": "Wed, 04 Mar 2026 13:15:00 GMT",
+            "date": "Thu, 05 Mar 2026 13:32:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,28 +98,28 @@
             "impact": "Bearish"
         },
         {
-            "title": "There’s a new record number of 401(k) millionaires — and the Iran conflict will test their discipline",
-            "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-and-the-iran-conflict-will-test-their-discipline-fae185b8?mod=mw_rss_topstories",
-            "summary": "The same financial habits that pushed the number of 401(k) millionaires to new highs should help retirement savers through the current global uncertainty.",
-            "date": "Wed, 04 Mar 2026 13:02:00 GMT",
+            "title": "I walked away from $70 million in sales to remake my brand. Shrinking the business actually made it more profitable.",
+            "link": "https://www.marketwatch.com/story/i-walked-away-from-70-million-in-sales-to-remake-my-brand-shrinking-the-business-actually-made-it-more-profitable-c48edee0?mod=mw_rss_topstories",
+            "summary": "Tibi founder Amy Smilovic talks about building the fashion retail giant — her way. She also answers the question every successful entrepreneur faces.",
+            "date": "Thu, 05 Mar 2026 13:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MAY-USD",
+            "stock_ticker": "IVSX",
             "impact": "Neutral"
         },
         {
-            "title": "Adidas shares slump on weak profit guidance as tariffs and exchange rates bite",
-            "link": "https://www.marketwatch.com/story/shares-in-adidas-slump-on-weak-profit-guidance-as-tariffs-exchange-rate-bites-f711a372?mod=mw_rss_topstories",
-            "summary": "The German sporting-goods retailer announced a €400 million hit from tariffs and exchange rate changes. The retailer said it would take a year to recover from the hit.",
-            "date": "Wed, 04 Mar 2026 12:49:00 GMT",
+            "title": "British billionaire’s retail company builds stake in Puma",
+            "link": "https://www.marketwatch.com/story/british-billionaires-retail-company-builds-stake-in-puma-d4b8df34?mod=mw_rss_topstories",
+            "summary": "Frasers Group has become the second company this year to build a stake in the sporting giant. Frasers Group is the second firm to build an interest in Arsenal this year.",
+            "date": "Thu, 05 Mar 2026 13:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ADS.DE",
-            "impact": "Neutral"
+            "stock_ticker": "PJY=F",
+            "impact": "Bullish"
         }
     ]
 }
