@@ -1,125 +1,125 @@
 {
-    "date": "2026-03-05",
+    "date": "2026-03-06",
     "news": [
         {
-            "title": "Berkshire Hathaway begins repurchasing shares, CEO Greg Abel buys $15 million in stock",
-            "link": "https://www.cnbc.com/2026/03/05/berkshire-hathaway-begins-repurchasing-shares-ceo-greg-abel-buys-15-million-in-stock-.html",
-            "summary": "The 62-year-old executive's purchase came a little more than two months into his tenure running the Omaha-based conglomerate. The 62- year-old exec's purchase comes a little over two months after he took over the company.",
-            "date": "Thu, 05 Mar 2026 13:22:32 GMT",
+            "title": "U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%",
+            "link": "https://www.cnbc.com/2026/03/06/february-2026-jobs-report.html",
+            "summary": "Nonfarm payrolls were expected to increase 50,000 in February. The unemployment rate held steady at 4.3%. The economy is expected to grow by 0.3% in the first quarter.",
+            "date": "Fri, 06 Mar 2026 13:44:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BRK-B",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Iran war threatens $11.7 trillion global travel industry as passengers get caught in crossfire",
-            "link": "https://www.cnbc.com/2026/03/05/iran-war-travel-flights-cruise-hotels.html",
-            "summary": "Travelers who are far from falling missiles, drone attacks and other geopolitical flashpoints aren't immune to ripple effects. The U.S. has been involved in more than a dozen drone attacks in recent years.",
-            "date": "Thu, 05 Mar 2026 12:49:07 GMT",
+            "title": "WTI crude tops $86, hits highest level since April 2024, Brent crude breaks above $89 a barrel",
+            "link": "https://www.cnbc.com/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
+            "summary": "The oil market is worried that Gulf countries will have to shut production if tankers are unable to pass the the Strait of Hormuz.",
+            "date": "Fri, 06 Mar 2026 13:43:48 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3.SA",
+            "stock_ticker": "WTI",
             "impact": "Neutral"
         },
         {
-            "title": "Merkley proposes prediction market ban for government officials after Maduro, Iran bets",
-            "link": "https://www.cnbc.com/2026/03/05/prediction-markets-merkley-ban-iran.html",
-            "summary": "Lawmakers are looking to ban insider trading on prediction markets. After a series of dubious bets placed on the ouster of Venezuela's Maduro and Iran strikes, lawmakers want to ban it.",
-            "date": "Thu, 05 Mar 2026 13:54:47 GMT",
+            "title": "Trump wants U.S. Navy to escort tankers through the Gulf. Why that plan may not work",
+            "link": "https://www.cnbc.com/2026/03/06/trump-navy-strait-hormuz-iran-oil-tanker.html",
+            "summary": "A backup of oil tankers in the Persian Gulf is disrupting supplies, and will only get worse the longer the Strait of Hormuz is closed.",
+            "date": "Fri, 06 Mar 2026 12:04:40 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MKT.V",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Spain rejects White House claim it agreed to cooperate with U.S. forces amid Iran war",
-            "link": "https://www.cnbc.com/2026/03/05/iran-war-us-spain-trump-sanchez-defense-trade-eu.html",
-            "summary": "The White House says Spain will now cooperate with the U.S. militarily over the Iran conflict. Madrid swiftly rejected this claim and said it would not join the war effort.",
-            "date": "Thu, 05 Mar 2026 12:11:43 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "YEIS.MC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Lawmakers to introduce bill strengthening federal anti-poverty program: It's 'a critical lifeline,' Warren says",
-            "link": "https://www.cnbc.com/2026/03/05/supplemental-security-income-ssi-bill.html",
-            "summary": "SSI was created in 1972 to help the nation's most vulnerable. Some features of the program have not been updated in decades.",
-            "date": "Thu, 05 Mar 2026 13:40:02 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TOP=X",
+            "stock_ticker": "DJT",
             "impact": "Bullish"
         },
         {
-            "title": "This stock-market correction signal just triggered for only the third time in seven years. Here’s the message for investors.",
-            "link": "https://www.marketwatch.com/story/this-stock-market-correction-signal-just-triggered-for-only-the-third-time-in-seven-years-heres-the-message-for-investors-7142847e?mod=mw_rss_topstories",
-            "summary": " Variant Perception said its S&amp;P 500 “Correction Signal” has only been triggered three times since 2019. Variant Perception: S&amps;P500 “ correction signal’s only triggered three time since 2019, not all at once.",
-            "date": "Thu, 05 Mar 2026 13:39:00 GMT",
+            "title": "Samsung reveals first details of its AI smart glasses to CNBC",
+            "link": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html",
+            "summary": "Samsung's AI smart glasses will be launched in 2026. It will mark the company's first foray into the product category. The glasses are expected to cost around $1,000.",
+            "date": "Fri, 06 Mar 2026 13:15:43 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "S2819.MC",
+            "stock_ticker": "005930.KS",
             "impact": "Neutral"
         },
         {
-            "title": "Jobless claims and Challenger Gray point to declining layoffs. What about hiring plans?",
-            "link": "https://www.marketwatch.com/story/jobless-claims-and-challenger-gray-point-to-declining-layoffs-what-about-hiring-plans-ce1b7215?mod=mw_rss_topstories",
-            "summary": "The number of people who lost jobs and applied for unemployment benefits at the end of February clung to recent lows. It added to a flurry of signals suggesting the labor market has stabilized.",
-            "date": "Thu, 05 Mar 2026 13:36:00 GMT",
+            "title": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
+            "link": "https://www.cnbc.com/2026/03/06/us-iran-war-gas-mortgage-markets.html",
+            "summary": "U.S.-Israeli strikes on Iran over the weekend gave way to a week with topsy-turvy markets, spiking mortgage rates and higher prices at the pump.",
+            "date": "Fri, 06 Mar 2026 12:37:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JOBIESS-USD",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "‘When he doesn’t get money, he becomes angry’: My brother has led a life of chaos and financial ruin. What is my moral obligation?",
-            "link": "https://www.marketwatch.com/story/when-he-doesnt-get-money-he-becomes-angry-my-brother-has-led-a-life-of-chaos-and-financial-ruin-what-is-my-moral-obligation-ac5efa9d?mod=mw_rss_topstories",
-            "summary": "“Without clear distance and boundaries, he will pull me down with him,” she says. “Withoutclear distance and boundary, he’s going to pull you down too.”",
-            "date": "Thu, 05 Mar 2026 13:32:00 GMT",
+            "title": "The ‘everybody loses’ scenario: Why the Iran conflict is breaking this classic portfolio strategy",
+            "link": "https://www.marketwatch.com/story/the-everybody-loses-scenario-why-the-iran-conflict-is-breaking-this-classic-portfolio-strategy-b47c298d?mod=mw_rss_topstories",
+            "summary": "Morgan Stanley: Shifting correlations are a problem for investors. Morgan Stanley says investors need to be aware of the impact of shifting correlations.",
+            "date": "Fri, 06 Mar 2026 13:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHEN",
-            "impact": "Bearish"
-        },
-        {
-            "title": "I walked away from $70 million in sales to remake my brand. Shrinking the business actually made it more profitable.",
-            "link": "https://www.marketwatch.com/story/i-walked-away-from-70-million-in-sales-to-remake-my-brand-shrinking-the-business-actually-made-it-more-profitable-c48edee0?mod=mw_rss_topstories",
-            "summary": "Tibi founder Amy Smilovic talks about building the fashion retail giant — her way. She also answers the question every successful entrepreneur faces.",
-            "date": "Thu, 05 Mar 2026 13:20:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IVSX",
+            "stock_ticker": "ERNAW",
             "impact": "Neutral"
         },
         {
-            "title": "British billionaire’s retail company builds stake in Puma",
-            "link": "https://www.marketwatch.com/story/british-billionaires-retail-company-builds-stake-in-puma-d4b8df34?mod=mw_rss_topstories",
-            "summary": "Frasers Group has become the second company this year to build a stake in the sporting giant. Frasers Group is the second firm to build an interest in Arsenal this year.",
-            "date": "Thu, 05 Mar 2026 13:12:00 GMT",
+            "title": "‘I don’t earn enough to support us and our baby’: My unemployed husband lost $22,000 trading sports cards. What now?",
+            "link": "https://www.marketwatch.com/story/i-dont-earn-enough-to-support-us-and-our-baby-my-husband-is-unemployed-and-lost-22-000-trading-sports-cards-what-now-200c1438?mod=mw_rss_topstories",
+            "summary": "“I intervened, shut the business down and got him into therapy and support for gambling-type behaviors,” she says. “I shut down his business and got his behavior under control.”",
+            "date": "Fri, 06 Mar 2026 13:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PJY=F",
+            "stock_ticker": "BAIV",
             "impact": "Bullish"
+        },
+        {
+            "title": "The 4% rule is done — 5 signs your $1 million retirement portfolio can survive the new withdrawal reality",
+            "link": "https://www.marketwatch.com/story/the-4-rule-is-done-5-signs-your-1-million-retirement-portfolio-can-survive-the-new-withdrawal-reality-490c029a?mod=mw_rss_topstories",
+            "summary": "Many retirees discover too late. Here's what financial planners know but many retirees don't. Here’s what you need to know to make the most of retirement.",
+            "date": "Fri, 06 Mar 2026 12:59:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ERNAW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Tax season can be poison for couples. Here’s how to keep the peace.",
+            "link": "https://www.marketwatch.com/story/tax-season-can-be-poison-for-couples-heres-how-to-keep-the-peace-8c897584?mod=mw_rss_topstories",
+            "summary": "Blended families, income inequality and investing blunders are in the spotlight at tax time. Blended families and income inequality will be the focus of the tax season.",
+            "date": "Fri, 06 Mar 2026 12:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TAX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Will the bank get suspicious if I deposit $150,000 in cash into my checking account?",
+            "link": "https://www.marketwatch.com/story/i-live-in-a-state-with-no-inheritance-tax-is-it-legal-to-deposit-150k-cash-into-my-bank-account-d7987cfe?mod=mw_rss_topstories",
+            "summary": "“I live in a state with no inheritance tax. I assume I can make this deposit legally,” he says. “I assume I will be able to make it legally.”",
+            "date": "Fri, 06 Mar 2026 12:55:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SHW",
+            "impact": "Neutral"
         }
     ]
 }
