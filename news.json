@@ -1,59 +1,23 @@
 {
-    "date": "2026-03-06",
+    "date": "2026-03-07",
     "news": [
         {
-            "title": "U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%",
-            "link": "https://www.cnbc.com/2026/03/06/february-2026-jobs-report.html",
-            "summary": "Nonfarm payrolls were expected to increase 50,000 in February. The unemployment rate held steady at 4.3%. The economy is expected to grow by 0.3% in the first quarter.",
-            "date": "Fri, 06 Mar 2026 13:44:50 GMT",
+            "title": "Iran war threatens to scramble the 'affordability' midterm",
+            "link": "https://www.cnbc.com/2026/03/07/iran-war-affordability-midterm.html",
+            "summary": "Midterm election messaging on affordability could be undercut by the Iran war and related uncertainty. Midterm election message on affordability may be undermined by Iran war.",
+            "date": "Sat, 07 Mar 2026 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "RANI3F.SA",
             "impact": "Neutral"
         },
         {
-            "title": "WTI crude tops $86, hits highest level since April 2024, Brent crude breaks above $89 a barrel",
-            "link": "https://www.cnbc.com/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
-            "summary": "The oil market is worried that Gulf countries will have to shut production if tankers are unable to pass the the Strait of Hormuz.",
-            "date": "Fri, 06 Mar 2026 13:43:48 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WTI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump wants U.S. Navy to escort tankers through the Gulf. Why that plan may not work",
-            "link": "https://www.cnbc.com/2026/03/06/trump-navy-strait-hormuz-iran-oil-tanker.html",
-            "summary": "A backup of oil tankers in the Persian Gulf is disrupting supplies, and will only get worse the longer the Strait of Hormuz is closed.",
-            "date": "Fri, 06 Mar 2026 12:04:40 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Samsung reveals first details of its AI smart glasses to CNBC",
-            "link": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html",
-            "summary": "Samsung's AI smart glasses will be launched in 2026. It will mark the company's first foray into the product category. The glasses are expected to cost around $1,000.",
-            "date": "Fri, 06 Mar 2026 13:15:43 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "005930.KS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
-            "link": "https://www.cnbc.com/2026/03/06/us-iran-war-gas-mortgage-markets.html",
-            "summary": "U.S.-Israeli strikes on Iran over the weekend gave way to a week with topsy-turvy markets, spiking mortgage rates and higher prices at the pump.",
-            "date": "Fri, 06 Mar 2026 12:37:03 GMT",
+            "title": "How China is challenging the U.S. to become the next great space power",
+            "link": "https://www.cnbc.com/2026/03/07/china-us-space-race-rockets.html",
+            "summary": "A new report warns that the U.S. could lose its dominance in space to China in the next few years. The report was published by the Center for Strategic and International Studies.",
+            "date": "Sat, 07 Mar 2026 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,63 +26,99 @@
             "impact": "Neutral"
         },
         {
-            "title": "The ‘everybody loses’ scenario: Why the Iran conflict is breaking this classic portfolio strategy",
-            "link": "https://www.marketwatch.com/story/the-everybody-loses-scenario-why-the-iran-conflict-is-breaking-this-classic-portfolio-strategy-b47c298d?mod=mw_rss_topstories",
-            "summary": "Morgan Stanley: Shifting correlations are a problem for investors. Morgan Stanley says investors need to be aware of the impact of shifting correlations.",
-            "date": "Fri, 06 Mar 2026 13:38:00 GMT",
+            "title": "Oil surges 35% this week for biggest gain in futures trading history dating back to 1983",
+            "link": "https://www.cnbc.com/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
+            "summary": "The oil market is worried that Gulf countries will have to shut production if tankers are unable to pass through the Strait of Hormuz.",
+            "date": "Fri, 06 Mar 2026 20:23:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ERNAW",
+            "stock_ticker": "CL=F",
             "impact": "Neutral"
         },
         {
-            "title": "‘I don’t earn enough to support us and our baby’: My unemployed husband lost $22,000 trading sports cards. What now?",
-            "link": "https://www.marketwatch.com/story/i-dont-earn-enough-to-support-us-and-our-baby-my-husband-is-unemployed-and-lost-22-000-trading-sports-cards-what-now-200c1438?mod=mw_rss_topstories",
-            "summary": "“I intervened, shut the business down and got him into therapy and support for gambling-type behaviors,” she says. “I shut down his business and got his behavior under control.”",
-            "date": "Fri, 06 Mar 2026 13:04:00 GMT",
+            "title": "Inside the booming business of wellness third spaces and membership clubs",
+            "link": "https://www.cnbc.com/2026/03/07/wellness-third-spaces-othership-bathhouse-glo30.html",
+            "summary": "A growing number of consumers are seeking out third spaces and membership clubs surrounding wellness, to improve their health while also socializing. A number of third spaces are now available in the U.S.",
+            "date": "Sat, 07 Mar 2026 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BAIV",
+            "stock_ticker": "COPY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "FDA vaccine head will step down in April after string of controversial decisions",
+            "link": "https://www.cnbc.com/2026/03/06/fda-vaccine-head-prasad-step-down.html",
+            "summary": "Vinay Prasad is leaving his post as director of the Center for Biologics Evaluation and Research. He will be succeeded by Dr. Ravi Agrawal.",
+            "date": "Fri, 06 Mar 2026 23:23:33 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AEF2.HA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘My mother refuses to turn on the heat’: Will America’s war with Iran really push up our utility bills?",
+            "link": "https://www.marketwatch.com/story/my-mother-refuses-to-turn-on-the-heat-will-americas-war-with-iran-really-push-up-our-utility-bills-df746548?mod=mw_rss_topstories",
+            "summary": "\"She is reading alarmist headlines about Iran in the newspapers,\" says a source close to the Iranian government. \"She is worried about what she sees in the news,\" the source adds.",
+            "date": "Sat, 07 Mar 2026 13:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SGDMYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Spike in oil prices triggers talk of an economic doomsday scenario",
+            "link": "https://www.marketwatch.com/story/spike-in-oil-prices-triggers-talk-of-an-economic-doomsday-scenario-86860a98?mod=mw_rss_topstories",
+            "summary": "Another week of record gains could lift oil prices close to their all-time highs. That would invite talk of an economic doomsday. The price of oil has been rising for more than a year.",
+            "date": "Sat, 07 Mar 2026 13:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "L5Y.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These 6 stocks could be major winners of an upcoming optics ‘supercycle’",
+            "link": "https://www.marketwatch.com/story/these-6-stocks-could-be-major-winners-of-an-upcoming-optics-supercycle-3aee252e?mod=mw_rss_topstories",
+            "summary": " Optical components are becoming a critical chokepoint in AI infrastructure. Data-center buildout drives strong demand for more efficient data-transfer methods.",
+            "date": "Sat, 07 Mar 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001YPM3.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump is offering $20 billion in reinsurance for oil tankers stuck in the Strait of Hormuz. Here’s why it might not be enough.",
+            "link": "https://www.marketwatch.com/story/trump-is-offering-20-billion-in-reinsurance-for-oil-tankers-stuck-in-the-strait-of-hormuz-heres-why-it-might-not-be-enough-3e9090a4?mod=mw_rss_topstories",
+            "summary": "Supply disruptions in the Persian Gulf “are accelerating faster than expected” as storage options dwindle, analysts say. Production shut-ins could begin as early as next week, J.P. Morgan says.",
+            "date": "Sat, 07 Mar 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
             "impact": "Bullish"
         },
         {
-            "title": "The 4% rule is done — 5 signs your $1 million retirement portfolio can survive the new withdrawal reality",
-            "link": "https://www.marketwatch.com/story/the-4-rule-is-done-5-signs-your-1-million-retirement-portfolio-can-survive-the-new-withdrawal-reality-490c029a?mod=mw_rss_topstories",
-            "summary": "Many retirees discover too late. Here's what financial planners know but many retirees don't. Here’s what you need to know to make the most of retirement.",
-            "date": "Fri, 06 Mar 2026 12:59:00 GMT",
+            "title": "‘He has been emotionally abusive’: My father, 75, is on oxygen and destitute. What do I owe him?",
+            "link": "https://www.marketwatch.com/story/he-has-been-emotionally-abusive-my-father-75-is-on-oxygen-and-destitute-what-do-i-owe-him-eb21e873?mod=mw_rss_topstories",
+            "summary": "“He has less than $20,000 to his name and no income besides Social Security,” his attorney says. “He’s got nothing.” “I’m not going to let him get away with anything,’ he adds.",
+            "date": "Sat, 07 Mar 2026 12:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ERNAW",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Tax season can be poison for couples. Here’s how to keep the peace.",
-            "link": "https://www.marketwatch.com/story/tax-season-can-be-poison-for-couples-heres-how-to-keep-the-peace-8c897584?mod=mw_rss_topstories",
-            "summary": "Blended families, income inequality and investing blunders are in the spotlight at tax time. Blended families and income inequality will be the focus of the tax season.",
-            "date": "Fri, 06 Mar 2026 12:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TAX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Will the bank get suspicious if I deposit $150,000 in cash into my checking account?",
-            "link": "https://www.marketwatch.com/story/i-live-in-a-state-with-no-inheritance-tax-is-it-legal-to-deposit-150k-cash-into-my-bank-account-d7987cfe?mod=mw_rss_topstories",
-            "summary": "“I live in a state with no inheritance tax. I assume I can make this deposit legally,” he says. “I assume I will be able to make it legally.”",
-            "date": "Fri, 06 Mar 2026 12:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SHW",
+            "stock_ticker": "HE",
             "impact": "Neutral"
         }
     ]
