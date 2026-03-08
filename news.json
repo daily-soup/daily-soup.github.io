@@ -1,11 +1,59 @@
 {
-    "date": "2026-03-07",
+    "date": "2026-03-08",
     "news": [
         {
-            "title": "Iran war threatens to scramble the 'affordability' midterm",
+            "title": "Iranian projectiles continue to strike Gulf countries; Tehran says new leader appointed",
+            "link": "https://www.cnbc.com/2026/03/08/iranian-projectiles-continue-to-strike-gulf-countries-infrastructure.html",
+            "summary": "Bahrain and the United Arab Emirates report more strikes on civilian targets as U.S.-Israeli attacks on Iran continue. Bahrain and the U.A.E. say more strikes are being carried out against Iranian targets.",
+            "date": "Sun, 08 Mar 2026 12:35:45 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MEMES39445-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "China says 'thorough preparations' needed as Trump-Xi meeting hangs in the balance amid Iran war",
+            "link": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html",
+            "summary": "China's top diplomat Wang Yi signaled preparations are underway for a planned meeting between the presidents of the U.S. and China. Wang Yi said preparations were made for a meeting between President Obama and President Xi Jinping.",
+            "date": "Sun, 08 Mar 2026 07:17:53 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CHH=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Global week ahead: Diplomacy in ruins as G7 meets on Iran",
+            "link": "https://www.cnbc.com/2026/03/08/global-week-ahead-diplomacy-in-ruins-as-g7-meets-on-iran.html",
+            "summary": "G7 finance ministers and central bank governors are set to convene for a key meeting. The meeting comes as diplomatic tensions escalate over the Iran conflict.",
+            "date": "Sun, 08 Mar 2026 11:12:45 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "COIN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Top Wall Street analysts are bullish on these 3 stocks despite ongoing volatility",
+            "link": "https://www.cnbc.com/2026/03/08/top-analysts-are-bullish-on-these-3-stocks-despite-ongoing-volatility.html",
+            "summary": "TipRanks compiles some of the best stocks to own amid the current volatility, according to the Street's top analysts. Check out the list below.",
+            "date": "Sun, 08 Mar 2026 12:56:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Iran war could make affordability bigger issue in 2026 elections",
             "link": "https://www.cnbc.com/2026/03/07/iran-war-affordability-midterm.html",
-            "summary": "Midterm election messaging on affordability could be undercut by the Iran war and related uncertainty. Midterm election message on affordability may be undermined by Iran war.",
-            "date": "Sat, 07 Mar 2026 13:00:01 GMT",
+            "summary": "The 2026 midterm election will determine whether Democrats can win back majorities in both chambers of Congress, and check President Donald Trump's policies. The election will be held on November 4, 2026.",
+            "date": "Sat, 07 Mar 2026 17:27:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +62,63 @@
             "impact": "Neutral"
         },
         {
-            "title": "How China is challenging the U.S. to become the next great space power",
-            "link": "https://www.cnbc.com/2026/03/07/china-us-space-race-rockets.html",
-            "summary": "A new report warns that the U.S. could lose its dominance in space to China in the next few years. The report was published by the Center for Strategic and International Studies.",
-            "date": "Sat, 07 Mar 2026 13:00:01 GMT",
+            "title": "‘I don’t own a home’: I’m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?",
+            "link": "https://www.marketwatch.com/story/i-dont-own-a-home-im-62-unemployed-and-have-1-5-million-saved-can-i-afford-to-divorce-my-husband-f5887515?mod=mw_rss_topstories",
+            "summary": "“He has no loyalty to me or our vows,” she says. “He’s not loyal to his wife or his family.”",
+            "date": "Sun, 08 Mar 2026 13:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "MMED",
             "impact": "Neutral"
         },
         {
-            "title": "Oil surges 35% this week for biggest gain in futures trading history dating back to 1983",
-            "link": "https://www.cnbc.com/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
-            "summary": "The oil market is worried that Gulf countries will have to shut production if tankers are unable to pass through the Strait of Hormuz.",
-            "date": "Fri, 06 Mar 2026 20:23:08 GMT",
+            "title": "‘When he doesn’t get money, he becomes angry’: My brother has led a life of chaos and financial ruin. What is my moral obligation?",
+            "link": "https://www.marketwatch.com/story/when-he-doesnt-get-money-he-becomes-angry-my-brother-has-led-a-life-of-chaos-and-financial-ruin-what-is-my-moral-obligation-ac5efa9d?mod=mw_rss_topstories",
+            "summary": "“Without clear distance and boundaries, he will pull me down with him,” she says. “Withoutclear distance and boundary, he’s going to pull you down too.”",
+            "date": "Sun, 08 Mar 2026 11:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Inside the booming business of wellness third spaces and membership clubs",
-            "link": "https://www.cnbc.com/2026/03/07/wellness-third-spaces-othership-bathhouse-glo30.html",
-            "summary": "A growing number of consumers are seeking out third spaces and membership clubs surrounding wellness, to improve their health while also socializing. A number of third spaces are now available in the U.S.",
-            "date": "Sat, 07 Mar 2026 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "COPY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "FDA vaccine head will step down in April after string of controversial decisions",
-            "link": "https://www.cnbc.com/2026/03/06/fda-vaccine-head-prasad-step-down.html",
-            "summary": "Vinay Prasad is leaving his post as director of the Center for Biologics Evaluation and Research. He will be succeeded by Dr. Ravi Agrawal.",
-            "date": "Fri, 06 Mar 2026 23:23:33 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AEF2.HA",
-            "impact": "Neutral"
+            "stock_ticker": "WHEN",
+            "impact": "Bearish"
         },
         {
             "title": "‘My mother refuses to turn on the heat’: Will America’s war with Iran really push up our utility bills?",
             "link": "https://www.marketwatch.com/story/my-mother-refuses-to-turn-on-the-heat-will-americas-war-with-iran-really-push-up-our-utility-bills-df746548?mod=mw_rss_topstories",
             "summary": "\"She is reading alarmist headlines about Iran in the newspapers,\" says a source close to the Iranian government. \"She is worried about what she sees in the news,\" the source adds.",
-            "date": "Sat, 07 Mar 2026 13:30:00 GMT",
+            "date": "Sun, 08 Mar 2026 10:56:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SGDMYR=X",
+            "stock_ticker": "MYHD",
             "impact": "Neutral"
-        },
-        {
-            "title": "Spike in oil prices triggers talk of an economic doomsday scenario",
-            "link": "https://www.marketwatch.com/story/spike-in-oil-prices-triggers-talk-of-an-economic-doomsday-scenario-86860a98?mod=mw_rss_topstories",
-            "summary": "Another week of record gains could lift oil prices close to their all-time highs. That would invite talk of an economic doomsday. The price of oil has been rising for more than a year.",
-            "date": "Sat, 07 Mar 2026 13:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "L5Y.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "These 6 stocks could be major winners of an upcoming optics ‘supercycle’",
-            "link": "https://www.marketwatch.com/story/these-6-stocks-could-be-major-winners-of-an-upcoming-optics-supercycle-3aee252e?mod=mw_rss_topstories",
-            "summary": " Optical components are becoming a critical chokepoint in AI infrastructure. Data-center buildout drives strong demand for more efficient data-transfer methods.",
-            "date": "Sat, 07 Mar 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001YPM3.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump is offering $20 billion in reinsurance for oil tankers stuck in the Strait of Hormuz. Here’s why it might not be enough.",
-            "link": "https://www.marketwatch.com/story/trump-is-offering-20-billion-in-reinsurance-for-oil-tankers-stuck-in-the-strait-of-hormuz-heres-why-it-might-not-be-enough-3e9090a4?mod=mw_rss_topstories",
-            "summary": "Supply disruptions in the Persian Gulf “are accelerating faster than expected” as storage options dwindle, analysts say. Production shut-ins could begin as early as next week, J.P. Morgan says.",
-            "date": "Sat, 07 Mar 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Bullish"
         },
         {
             "title": "‘He has been emotionally abusive’: My father, 75, is on oxygen and destitute. What do I owe him?",
             "link": "https://www.marketwatch.com/story/he-has-been-emotionally-abusive-my-father-75-is-on-oxygen-and-destitute-what-do-i-owe-him-eb21e873?mod=mw_rss_topstories",
             "summary": "“He has less than $20,000 to his name and no income besides Social Security,” his attorney says. “He’s got nothing.” “I’m not going to let him get away with anything,’ he adds.",
-            "date": "Sat, 07 Mar 2026 12:58:00 GMT",
+            "date": "Sun, 08 Mar 2026 10:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "HE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "We have $13.5 million and 3 kids, but one is an addict. How do we fairly divide our estate?",
+            "link": "https://www.marketwatch.com/story/my-husband-and-i-have-13-5-million-and-3-kids-but-one-is-an-addict-how-do-we-fairly-divide-our-estate-669a955b?mod=mw_rss_topstories",
+            "summary": "“We are the first generation on either side of our families to experience this level of success,” he says. “We’re the first family to have achieved this.”",
+            "date": "Sat, 07 Mar 2026 22:14:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WFC",
             "impact": "Neutral"
         }
     ]
