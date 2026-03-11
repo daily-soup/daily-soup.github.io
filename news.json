@@ -1,11 +1,47 @@
 {
-    "date": "2026-03-10",
+    "date": "2026-03-11",
     "news": [
         {
-            "title": "Surging oil prices could wipe out benefits from Trump’s ‘big beautiful bill’",
-            "link": "https://www.cnbc.com/2026/03/10/rising-oil-prices-may-wipe-out-effects-of-trumps-big-beautiful-bill.html",
-            "summary": "If oil prices stay elevated for too long, consumers will lose as much as they gain from the new tax law, analysts say. Estimates from Wall Street project that if oil prices are elevated for a long time, consumers could lose as many as $1,000 per year.",
-            "date": "Tue, 10 Mar 2026 11:56:23 GMT",
+            "title": "Three cargo ships struck off Iran's coast, UK says, including one in Strait of Hormuz",
+            "link": "https://www.cnbc.com/2026/03/11/cargo-ship-struck-strait-of-hormuz-uk-iran-war.html",
+            "summary": "The incidents mark the latest in a string of reported attacks in or near the Strait of Hormuz. Shipping traffic has virtually ground to a halt.",
+            "date": "Wed, 11 Mar 2026 13:51:37 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SR3=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Interior Secretary Burgum calls for IEA to release oil reserves to address supply disruption",
+            "link": "https://www.cnbc.com/2026/03/11/iran-war-oil-iea-strait-hormuz.html",
+            "summary": "The Iran war has triggered the biggest oil disruption in history. Tankers are unwilling to transit the Strait of Hormuz because they fear attacks.",
+            "date": "Wed, 11 Mar 2026 13:36:52 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ETD",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Here's the inflation breakdown for February 2026 — in one chart",
+            "link": "https://www.cnbc.com/2026/03/11/cpi-inflation-february-2026-breakdown.html",
+            "summary": "The consumer price index was rose 2.4% in February 2026, above policymakers' target. War in Iran complicates the picture.",
+            "date": "Wed, 11 Mar 2026 13:33:09 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ERNAW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Oil ticks higher to $85 as traders await possible historic reserve release",
+            "link": "https://www.cnbc.com/2026/03/11/oil-price-today-crude-wti-us-iran-war-strait-hormuz-iea.html",
+            "summary": "Oil prices move higher as markets continue to watch developments in the U.S.-Iran war. Oil prices moved higher on Wednesday as markets continued to watch Developments in the US-Iran War.",
+            "date": "Wed, 11 Mar 2026 11:58:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,82 +50,58 @@
             "impact": "Neutral"
         },
         {
-            "title": "Iran war: Hegseth says Tuesday 'will be our most intense day of strikes'",
-            "link": "https://www.cnbc.com/2026/03/10/iran-war-trump-hegseth-oil.html",
-            "summary": "President Donald Trump had predicted that the war against Iran would be over \"very soon\" He also warned that country against withholding oil afterward. President Donald Trump on Monday had predicted the war would beOver \"Very soon\"",
-            "date": "Tue, 10 Mar 2026 13:19:04 GMT",
+            "title": "Consumer prices rose 2.4% annually in February, as expected",
+            "link": "https://www.cnbc.com/2026/03/11/cpi-inflation-report-february-2026.html",
+            "summary": "Consumer price index in February was expected to show a 2.4% increase from a year ago, according to the Dow Jones consensus. The consumer price index is a barometer of inflation.",
+            "date": "Wed, 11 Mar 2026 13:32:13 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3F.SA",
+            "stock_ticker": "XPT=F",
             "impact": "Neutral"
         },
         {
-            "title": "Spirit Airlines to recall furloughed pilots to combat attrition as carrier eyes bankruptcy exit",
-            "link": "https://www.cnbc.com/2026/03/10/spirit-airlines-pilots-bankruptcy.html",
-            "summary": "Spirit Airlines is reversing course on pilot furloughs after aviators left in high numbers for rival airlines. Spirit Airlines is reversing course on Pilot Furlough's after Aviators Left in High Numbers for Rivals.",
-            "date": "Tue, 10 Mar 2026 13:20:43 GMT",
+            "title": "Oil futures rise as IEA proposes largest-ever release of reserves",
+            "link": "https://www.marketwatch.com/story/oil-futures-rise-as-traders-await-decision-on-reserves-3cd81485?mod=mw_rss_topstories",
+            "summary": "Oil futures rise on Wednesday as traders awaited what could be a historic release of emergency government reserves to counter the disruption to supplies from the attack on Iran.",
+            "date": "Wed, 11 Mar 2026 13:53:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AGCC",
-            "impact": "Neutral"
+            "stock_ticker": "CL=F",
+            "impact": "Bullish"
         },
         {
-            "title": "Federal appeals court orders end to SAVE plan used by millions of student loan borrowers",
-            "link": "https://www.cnbc.com/2026/03/10/save-plan-for-student-loan-borrowers-is-over-federal-appeals-court-.html",
-            "summary": "A federal appeals court ordered the end to the SAVE plan, the Biden-administration era program used by millions of student loan borrowers.",
-            "date": "Tue, 10 Mar 2026 13:35:49 GMT",
+            "title": "Unreliable nursing-home ratings raise disturbing questions — leaving families at a dead end",
+            "link": "https://www.marketwatch.com/story/new-research-on-nursing-home-ratings-raises-disturbing-questions-what-are-families-to-do-685da1ef?mod=mw_rss_topstories",
+            "summary": "The government’s “star’ ratings for nursing homes are misleading, new research finds. The ratings are based on a number of factors, including the quality of care provided.",
+            "date": "Wed, 11 Mar 2026 13:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZQ=F",
+            "stock_ticker": "CARERATING.NS",
             "impact": "Neutral"
         },
         {
-            "title": "How the Iran war and rising energy prices are threatening semiconductor demand",
-            "link": "https://www.cnbc.com/2026/03/10/iran-war-semiconductor-memory-chip-impact.html",
-            "summary": "A prolonged U.S.-Israel war against Iran could lead to shortages of key chipmaking materials and higher energy costs which could hurt semiconductor demand.",
-            "date": "Tue, 10 Mar 2026 13:11:31 GMT",
+            "title": "‘I have lost nearly everything’: My mother’s trustee changed her $1 million will and my attorney fleeced me. What can I do?",
+            "link": "https://www.marketwatch.com/story/i-have-lost-nearly-everything-my-mothers-trustee-changed-her-1-million-will-and-my-attorney-fleeced-me-what-can-i-do-37768a2a?mod=mw_rss_topstories",
+            "summary": "“My attorney, who described himself as a minister doing ‘God’s work,’ had me sign a 40% contingency agreement,” he said.",
+            "date": "Wed, 11 Mar 2026 13:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "CODX",
             "impact": "Neutral"
         },
         {
-            "title": "Return to the 2022 stock-market playbook as Iran conflict drags on, say these strategists",
-            "link": "https://www.marketwatch.com/story/return-to-the-2022-stock-market-playbook-as-iran-conflict-drags-on-say-these-strategists-7bb7e01b?mod=mw_rss_topstories",
-            "summary": "Barclays says the chasm between winning and losing stocks in 2022 when Russia invaded Ukraine was huge. Here are their style picks.",
-            "date": "Tue, 10 Mar 2026 13:53:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "^XNDX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "5 tips for travelers during the most chaotic spring break in years",
-            "link": "https://www.marketwatch.com/story/an-already-chaotic-spring-travel-season-is-colliding-with-effects-of-iran-conflict-5201b5b4?mod=mw_rss_topstories",
-            "summary": "Americans who thought spring break would offer rest and relaxation after a tough winter may be in for a rude awakening. The U.S. has had a rough winter.",
-            "date": "Tue, 10 Mar 2026 13:48:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ES=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Medicare Advantage is facing a reality check — and seniors are the ones who will pay for it",
-            "link": "https://www.marketwatch.com/story/medicare-advantage-is-facing-a-reality-check-and-seniors-are-the-ones-who-will-pay-for-it-abab012e?mod=mw_rss_topstories",
-            "summary": "Medicare Advantage is getting squeezed. Once lucrative for insurers and a safe haven for patients, Medicare Advantage is now getting squeezed by insurers and patients.",
-            "date": "Tue, 10 Mar 2026 13:40:00 GMT",
+            "title": "Medicare Advantage insurers are overcharging taxpayers and seniors billions of dollars. Why is anyone surprised?",
+            "link": "https://www.marketwatch.com/story/medicare-advantage-insurers-are-overcharging-taxpayers-and-seniors-billions-of-dollars-why-is-anyone-surprised-71ca5da4?mod=mw_rss_topstories",
+            "summary": "The big for-profit health insurers who run the Medicare Advantage program aren’t happy with the latest government watchdog report. The report was released by the Department of Health and Human Services.",
+            "date": "Wed, 11 Mar 2026 13:42:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,28 +110,16 @@
             "impact": "Neutral"
         },
         {
-            "title": "How I got $1,000 back by complaining like a pro",
-            "link": "https://www.marketwatch.com/story/how-i-got-1-000-back-by-complaining-like-a-pro-afe7f5e2?mod=mw_rss_topstories",
-            "summary": "Investing during times of geopolitical uncertainty. Exploring the conventional wisdom around how to invest during these times of uncertainty. Plus: Exploring some of the most popular investment ideas of recent years.",
-            "date": "Tue, 10 Mar 2026 13:39:00 GMT",
+            "title": "New Social Security whistleblower alleges DOGE worker improperly accessed data and planned to share it",
+            "link": "https://www.marketwatch.com/story/new-social-security-whistleblower-alleges-doge-worker-improperly-accessed-data-and-planned-to-share-it-d6100479?mod=mw_rss_topstories",
+            "summary": "A former DOGE software engineer allegedly told co-workers that he had two databases of U.S. citizens’ information. According to a report, a former DogsE software. engineer allegedly said he had 2 databases of citizens' information.",
+            "date": "Wed, 11 Mar 2026 13:41:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "6N=F",
             "impact": "Neutral"
-        },
-        {
-            "title": "The Iran conflict marks the biggest oil disruption in history, with no capacity cushion",
-            "link": "https://www.marketwatch.com/story/the-iran-conflict-marks-the-biggest-oil-disruption-in-history-with-no-capacity-cushion-a6fb4490?mod=mw_rss_topstories",
-            "summary": " Rapidan Energy Group says the 20% disruption from “Gulf War III’ is more than double the prior record set in 1956-57.",
-            "date": "Tue, 10 Mar 2026 13:37:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ERNAW",
-            "impact": "Bullish"
         }
     ]
 }
