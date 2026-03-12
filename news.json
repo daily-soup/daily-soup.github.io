@@ -1,35 +1,59 @@
 {
-    "date": "2026-03-11",
+    "date": "2026-03-12",
     "news": [
         {
-            "title": "Three cargo ships struck off Iran's coast, UK says, including one in Strait of Hormuz",
-            "link": "https://www.cnbc.com/2026/03/11/cargo-ship-struck-strait-of-hormuz-uk-iran-war.html",
-            "summary": "The incidents mark the latest in a string of reported attacks in or near the Strait of Hormuz. Shipping traffic has virtually ground to a halt.",
-            "date": "Wed, 11 Mar 2026 13:51:37 GMT",
+            "title": "Strait of Hormuz must remain closed as 'tool to pressure enemy,' Iran's new supreme leader says",
+            "link": "https://www.cnbc.com/2026/03/12/strait-of-hormuz-closure-iran-oil-prices-mojtaba-khamenei.html",
+            "summary": "Iran's new Supreme Leader Mojtaba Khamenei has said all U.S. military bases in the Middle East should close immediately as those bases will be attacked.",
+            "date": "Thu, 12 Mar 2026 13:51:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SR3=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Interior Secretary Burgum calls for IEA to release oil reserves to address supply disruption",
-            "link": "https://www.cnbc.com/2026/03/11/iran-war-oil-iea-strait-hormuz.html",
-            "summary": "The Iran war has triggered the biggest oil disruption in history. Tankers are unwilling to transit the Strait of Hormuz because they fear attacks.",
-            "date": "Wed, 11 Mar 2026 13:36:52 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ETD",
+            "stock_ticker": "IAKBSC.CO",
             "impact": "Bullish"
         },
         {
-            "title": "Here's the inflation breakdown for February 2026 — in one chart",
-            "link": "https://www.cnbc.com/2026/03/11/cpi-inflation-february-2026-breakdown.html",
-            "summary": "The consumer price index was rose 2.4% in February 2026, above policymakers' target. War in Iran complicates the picture.",
-            "date": "Wed, 11 Mar 2026 13:33:09 GMT",
+            "title": "Energy Secretary Wright says U.S. 'not ready' to escort oil tankers through Strait of Hormuz yet",
+            "link": "https://www.cnbc.com/2026/03/12/energy-secretary-wright-says-us-not-ready-to-escort-tankers-through-strait-of-hormuz-yet.html",
+            "summary": "Tanker traffic through the Strait remains at a standstill as ship owners fear attacks by Iran. The closure has triggered the largest oil supply disruption ever.",
+            "date": "Thu, 12 Mar 2026 13:15:36 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "XET=F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Anthropic’s Claude would ‘pollute’ defense supply chain: Pentagon CTO",
+            "link": "https://www.cnbc.com/2026/03/12/anthropic-claude-emil-michael-defense.html",
+            "summary": "\"This is not meant to be punitive,\" Michael told CNBC's \"Squawk Box\" Michael: \"It's not a punishment. It's a way for us to move forward\"",
+            "date": "Thu, 12 Mar 2026 13:44:26 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MONET-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Palantir is still using Anthropic's Claude as Pentagon blacklist plays out, CEO Karp says",
+            "link": "https://www.cnbc.com/2026/03/12/karp-palantir-anthropic-claude-pentagon-blacklist.html",
+            "summary": "The Pentagon officially designated Anthropic a supply-chain risk last week, but the DOD is still using Claude for the war in Iran. The Pentagon is using Anthropic to send weapons to the Middle East.",
+            "date": "Thu, 12 Mar 2026 13:48:03 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PLTR",
+            "impact": "Bullish"
+        },
+        {
+            "title": "The two oil pipelines helping Saudi Arabia and UAE bypass the Strait of Hormuz",
+            "link": "https://www.cnbc.com/2026/03/12/strait-of-hormuz-oil-pipelines-iran-war-saudi-arabia-uae.html",
+            "summary": "Saudi Arabia's East-West pipeline and the UAE's Abu Dhabi Crude Oil Pipeline are thought to be able to help partially offset the Strait of Hormuz blockage.",
+            "date": "Thu, 12 Mar 2026 12:52:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,34 +62,10 @@
             "impact": "Neutral"
         },
         {
-            "title": "Oil ticks higher to $85 as traders await possible historic reserve release",
-            "link": "https://www.cnbc.com/2026/03/11/oil-price-today-crude-wti-us-iran-war-strait-hormuz-iea.html",
-            "summary": "Oil prices move higher as markets continue to watch developments in the U.S.-Iran war. Oil prices moved higher on Wednesday as markets continued to watch Developments in the US-Iran War.",
-            "date": "Wed, 11 Mar 2026 11:58:37 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CL=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Consumer prices rose 2.4% annually in February, as expected",
-            "link": "https://www.cnbc.com/2026/03/11/cpi-inflation-report-february-2026.html",
-            "summary": "Consumer price index in February was expected to show a 2.4% increase from a year ago, according to the Dow Jones consensus. The consumer price index is a barometer of inflation.",
-            "date": "Wed, 11 Mar 2026 13:32:13 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "XPT=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Oil futures rise as IEA proposes largest-ever release of reserves",
-            "link": "https://www.marketwatch.com/story/oil-futures-rise-as-traders-await-decision-on-reserves-3cd81485?mod=mw_rss_topstories",
-            "summary": "Oil futures rise on Wednesday as traders awaited what could be a historic release of emergency government reserves to counter the disruption to supplies from the attack on Iran.",
-            "date": "Wed, 11 Mar 2026 13:53:00 GMT",
+            "title": "Oil tops $101 before dipping as Iran ramps up strikes and IEA calls conflict biggest supply disruption in history",
+            "link": "https://www.marketwatch.com/story/oil-taps-101-as-iran-dramatically-changes-strategy-and-iea-calls-conflict-biggest-supply-disruption-in-history-b38215b5?mod=mw_rss_topstories",
+            "summary": "Oil prices spiked again on Thursday morning after Iran ramped up its strikes on infrastructure in the Gulf. Oil prices spike again as Iran ramps up strikes in Gulf.",
+            "date": "Thu, 12 Mar 2026 13:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +74,51 @@
             "impact": "Bullish"
         },
         {
-            "title": "Unreliable nursing-home ratings raise disturbing questions — leaving families at a dead end",
-            "link": "https://www.marketwatch.com/story/new-research-on-nursing-home-ratings-raises-disturbing-questions-what-are-families-to-do-685da1ef?mod=mw_rss_topstories",
-            "summary": "The government’s “star’ ratings for nursing homes are misleading, new research finds. The ratings are based on a number of factors, including the quality of care provided.",
-            "date": "Wed, 11 Mar 2026 13:45:00 GMT",
+            "title": "‘My parents begged me never to put him in a home’: I have taken care of my disabled brother my entire life. Am I doing enough?",
+            "link": "https://www.marketwatch.com/story/i-promised-my-parents-i-take-care-of-my-brother-who-is-developmentally-disabled-im-now-retired-am-i-doing-enough-c3d926a9?mod=mw_rss_topstories",
+            "summary": "”I have $560,000 in my IRA, $125,000  in stocks and $50,00 in savings,” she says. ”I’m in a good place.”",
+            "date": "Thu, 12 Mar 2026 13:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CARERATING.NS",
+            "stock_ticker": "MYHD",
             "impact": "Neutral"
         },
         {
-            "title": "‘I have lost nearly everything’: My mother’s trustee changed her $1 million will and my attorney fleeced me. What can I do?",
-            "link": "https://www.marketwatch.com/story/i-have-lost-nearly-everything-my-mothers-trustee-changed-her-1-million-will-and-my-attorney-fleeced-me-what-can-i-do-37768a2a?mod=mw_rss_topstories",
-            "summary": "“My attorney, who described himself as a minister doing ‘God’s work,’ had me sign a 40% contingency agreement,” he said.",
-            "date": "Wed, 11 Mar 2026 13:45:00 GMT",
+            "title": "U.S. economic outlook cut by Goldman over the Iran war — and the fear goes beyond oil",
+            "link": "https://www.marketwatch.com/story/goldman-cuts-u-s-economic-outlook-over-the-iran-war-and-the-fears-goes-beyond-oil-dd9e1462?mod=mw_rss_topstories",
+            "summary": "Goldman Sachs economists Manuel Abecasis and David Mericle in a new research note looked at the economic implications of the Iran war on the U.S. economy.",
+            "date": "Thu, 12 Mar 2026 13:44:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CODX",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Medicare Advantage insurers are overcharging taxpayers and seniors billions of dollars. Why is anyone surprised?",
-            "link": "https://www.marketwatch.com/story/medicare-advantage-insurers-are-overcharging-taxpayers-and-seniors-billions-of-dollars-why-is-anyone-surprised-71ca5da4?mod=mw_rss_topstories",
-            "summary": "The big for-profit health insurers who run the Medicare Advantage program aren’t happy with the latest government watchdog report. The report was released by the Department of Health and Human Services.",
-            "date": "Wed, 11 Mar 2026 13:42:00 GMT",
+            "title": "Oil price target hiked for second time in a week at Goldman Sachs",
+            "link": "https://www.marketwatch.com/story/goldman-warns-of-150-oil-peak-as-it-hikes-price-target-for-second-time-in-a-week-55f85285?mod=mw_rss_topstories",
+            "summary": "If Strait of Hormuz stays shut through March then a 2008-type price spike is possible, says CNN's John Defterios.",
+            "date": "Thu, 12 Mar 2026 13:41:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NEXUSSURGL.BO",
+            "stock_ticker": "CL=F",
             "impact": "Neutral"
         },
         {
-            "title": "New Social Security whistleblower alleges DOGE worker improperly accessed data and planned to share it",
-            "link": "https://www.marketwatch.com/story/new-social-security-whistleblower-alleges-doge-worker-improperly-accessed-data-and-planned-to-share-it-d6100479?mod=mw_rss_topstories",
-            "summary": "A former DOGE software engineer allegedly told co-workers that he had two databases of U.S. citizens’ information. According to a report, a former DogsE software. engineer allegedly said he had 2 databases of citizens' information.",
-            "date": "Wed, 11 Mar 2026 13:41:00 GMT",
+            "title": "America is on the brink of stagflation, warns Nobel prize-winning economist",
+            "link": "https://www.marketwatch.com/story/nobel-prize-winning-economist-warns-that-america-is-on-the-brink-of-stagflation-75e47b4a?mod=mw_rss_topstories",
+            "summary": "Joseph Stiglitz says the four horsemen of the economic apocalypse are nearing. He says the U.S. is on the verge of an economic collapse.",
+            "date": "Thu, 12 Mar 2026 13:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "6N=F",
+            "stock_ticker": "BAC",
             "impact": "Neutral"
         }
     ]
