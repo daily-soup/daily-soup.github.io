@@ -1,125 +1,125 @@
 {
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "news": [
         {
-            "title": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
-            "link": "https://www.cnbc.com/2026/03/13/fourth-quarter-gdp-revised-down-to-just-0point7percent-growth-january-core-inflation-was-3point1percent.html",
-            "summary": "The PCE price index for January was expected to show headline inflation at 2.9% and core at 3.1%. The PCE is the price index used to measure inflation in the United States.",
-            "date": "Fri, 13 Mar 2026 12:51:13 GMT",
+            "title": "The biggest release of emergency oil stockpiles in history was announced. Why crude may keep rising",
+            "link": "https://www.cnbc.com/2026/03/14/iran-war-iea-oil-stockpile-spr-strait-hormuz.html",
+            "summary": "Oil prices have surged more than 17% since the International Energy Agency announced the largest release of crude stockpiles in its 50-year history.",
+            "date": "Sat, 14 Mar 2026 13:07:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GDPY.TO",
+            "stock_ticker": "ERNAW",
             "impact": "Neutral"
         },
         {
-            "title": "Pete Hegseth on Strait of Hormuz: 'Don't need to worry about it'",
-            "link": "https://www.cnbc.com/2026/03/13/iran-war-strait-of-hormuz-hegseth.html",
-            "summary": "The Strait of Hormuz is the world's most critical chokepoint for oil shipments. It has been effectively closed since the U.S. and Israel began the war on Iran.",
-            "date": "Fri, 13 Mar 2026 13:17:24 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0000KPSM.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Oil holds near $100 as Trump says America has 'ammunition, and plenty of time’ to fight Iran war",
-            "link": "https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html",
-            "summary": "WTI crude saw its biggest weekly gain since the 1980s last week. WTI crude was up more than 6% last week, the biggest weekly rise since the mid-1980s.",
-            "date": "Fri, 13 Mar 2026 13:05:17 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CL=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Four crew killed in U.S. refueling plane that crashed in Iraq, Pentagon says",
-            "link": "https://www.cnbc.com/2026/03/13/us-kc135-crash-iraq-iran-threats-shipping-attacks.html",
-            "summary": "The U.S. Central Command said that the loss was \"not due to hostile or enemy fire\" The loss was not due to \"hostile or enemy\" fire, it said.",
-            "date": "Fri, 13 Mar 2026 12:22:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FOUR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. launches fresh Section 301 probes into 60 economies over forced-labor trade practices",
-            "link": "https://www.cnbc.com/2026/03/13/us-section-301-probe-trade-trump-labor-practices.html",
-            "summary": "The forced-labor probes follow Section 301 investigations launched on Wednesday. The Section 301 probes target excess industrial capacity across more than a dozen economies.",
-            "date": "Fri, 13 Mar 2026 06:25:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "GDP grew at a tepid 0.7% pace in the fourth quarter. The future is foggy, too.",
-            "link": "https://www.marketwatch.com/story/gdp-grew-at-a-tepid-0-7-pace-in-the-fourth-quarter-the-future-is-foggy-too-39d5a867?mod=mw_rss_topstories",
-            "summary": "The U.S. Iran conflict and the Supreme Court’s tariff ruling add to uncertainty around the economy. The Supreme Court's tariff ruling and the Iran conflict add to the uncertainty.",
-            "date": "Fri, 13 Mar 2026 13:48:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GDPY.TO",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Chip makers face a looming shortage of a key ingredient if the Iran conflict drags on",
-            "link": "https://www.marketwatch.com/story/chip-makers-face-a-looming-shortage-of-a-key-ingredient-if-the-iran-conflict-drags-on-f5ea2bfa?mod=mw_rss_topstories",
-            "summary": "Qatar accounts for a third of global helium supply. But it has halted production of the gas, which is essential for semiconductor manufacturing.",
-            "date": "Fri, 13 Mar 2026 13:40:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CMG",
-            "impact": "Bullish"
-        },
-        {
-            "title": "11 stocks to harden your portfolio against Iran risk",
-            "link": "https://www.marketwatch.com/story/11-stocks-to-harden-your-portfolio-against-iran-risk-d926712a?mod=mw_rss_topstories",
-            "summary": "Focus on stocks that are stable when investors flee to safety and stock-market liquidity dries up. Focus on stocks with strong fundamentals.",
-            "date": "Fri, 13 Mar 2026 13:17:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "1156.HK",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Shoppers seeking a tariff refund from retailers are likely out of luck",
-            "link": "https://www.marketwatch.com/story/shoppers-seeking-a-tariff-refund-from-retailers-are-likely-out-of-luck-5aacf5f4?mod=mw_rss_topstories",
-            "summary": "A new lawsuit alleges that Costco owes shoppers refunds for tariffs. Experts say that’s a tough call. The lawsuit was filed in federal court in California.",
-            "date": "Fri, 13 Mar 2026 13:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SHOPERSTOP.NS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump is scrambling to quell the rise of $100 oil. But the market keeps circling one cure.",
-            "link": "https://www.marketwatch.com/story/trump-is-scrambling-to-quell-the-rise-of-100-oil-but-the-market-keeps-circling-one-answer-bf9abf20?mod=mw_rss_topstories",
-            "summary": "Other efforts to coax oil down prices — now at $100 a barrel — are like putting a Band-Aid on a shotgun wound, says analyst.",
-            "date": "Fri, 13 Mar 2026 12:50:00 GMT",
+            "title": "Trump says U.S. 'obliterated' military targets on Iran's Kharg Island but didn't 'wipe out' oil infrastructure",
+            "link": "https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html",
+            "summary": "President Trump said he directed U.S. Central Command to execute a bombing raid on Kharg Island. He said the raid \"obliterated\" military targets on the island.",
+            "date": "Sat, 14 Mar 2026 11:52:52 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Bearish"
+            "impact": "Neutral"
+        },
+        {
+            "title": "Berkshire Hathaway filing provides glimpse of share buyback resumption",
+            "link": "https://www.cnbc.com/2026/03/14/berkshire-hathaway-filing-provides-glimpse-of-share-buyback-resumption.html",
+            "summary": "Berkshire Hathaway filed its definitive proxy statement with the SEC late this afternoon. The company's annual shareholders meeting will take place on May 2 in Omaha.",
+            "date": "Sat, 14 Mar 2026 13:03:09 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BRK-B",
+            "impact": "Neutral"
+        },
+        {
+            "title": "As New York Mayor Zohran Mamdani faces $7 billion budget hole, free parking may be history",
+            "link": "https://www.cnbc.com/2026/03/14/mayor-zohran-mamdani-new-york-budget-deficit-parking-tax.html",
+            "summary": "New York City Mayor Zohran Mamdani is facing a $7 billion budget hole. The free parking NYC residents have taken for granted may be a revenue opportunity.",
+            "date": "Sat, 14 Mar 2026 13:07:49 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "A Paramount-Warner Bros. movie slate could rule the 2027 box office, but is it sustainable?",
+            "link": "https://www.cnbc.com/2026/03/14/paramount-wbd-2027-movie-slate.html",
+            "summary": " Paramount CEO David Ellison has said he wants to make 30 movies a year. He has franchises like Godzilla-Kong, Superman and Sonic the Hedgehog to lean on.",
+            "date": "Sat, 14 Mar 2026 11:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "A",
+            "impact": "Bullish"
+        },
+        {
+            "title": "‘I’m experiencing issues with arthritis’: I’m 68 with $3 million saved. Why am I not ready for a life of leisure?",
+            "link": "https://www.marketwatch.com/story/im-experiencing-issues-with-arthritis-im-68-with-3-million-saved-why-am-i-not-ready-for-a-life-of-leisure-9bc15359?mod=mw_rss_topstories",
+            "summary": "“I can draw $4,300 a month in Social Security if I retire this summer,” he says. “I’ll be able to retire in the summer.”",
+            "date": "Sat, 14 Mar 2026 13:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These parents retired in their 30s and 40s while raising young kids. Here’s how they pulled off the impossible.",
+            "link": "https://www.marketwatch.com/story/these-parents-retired-in-their-30s-and-40s-while-raising-young-kids-heres-how-they-pulled-off-the-impossible-593968bd?mod=mw_rss_topstories",
+            "summary": "A new generation of money-minded parents is urging young people who want to start families to map a path to early financial independence so they can prioritize their families.",
+            "date": "Sat, 14 Mar 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001YPM3.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I have no savings’: I’m inheriting $400,000. I’m 64 with $900 in Social Security. What should I do?",
+            "link": "https://www.marketwatch.com/story/i-have-no-savings-im-inheriting-400-000-im-64-with-900-in-social-security-what-should-i-do-084ec1cb?mod=mw_rss_topstories",
+            "summary": "“I have no experience with any life other than paycheck to paycheck,” he says. “I’ve never been in a position of power. I’m not a politician.”",
+            "date": "Sat, 14 Mar 2026 12:46:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CODX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These 4 cybersecurity stocks are Wall Street’s favorite AI-proof plays",
+            "link": "https://www.marketwatch.com/story/these-4-cybersecurity-stocks-are-wall-streets-favorite-ai-proof-plays-7f49f15d?mod=mw_rss_topstories",
+            "summary": "Cybersecurity platforms are emerging as essential infrastructure needed to channel rising traffic from AI agents. While the broader software sector stumbles, cybersecurity platforms are becoming essential infrastructure.",
+            "date": "Sat, 14 Mar 2026 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001YPM3.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here are the ways private-credit pain could hurt your portfolio",
+            "link": "https://www.marketwatch.com/story/here-are-the-ways-private-credit-pain-could-hurt-your-portfolio-fb06dabc?mod=mw_rss_topstories",
+            "summary": "Big banks are increasingly seeing their shares impacted by worries about underwriting quality at private lenders. Big banks are seeing their share prices impacted by concerns about private lenders' underwriting.",
+            "date": "Sat, 14 Mar 2026 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HERE",
+            "impact": "Neutral"
         }
     ]
 }
