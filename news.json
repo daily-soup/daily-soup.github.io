@@ -1,71 +1,95 @@
 {
-    "date": "2026-03-14",
+    "date": "2026-03-15",
     "news": [
         {
-            "title": "The biggest release of emergency oil stockpiles in history was announced. Why crude may keep rising",
-            "link": "https://www.cnbc.com/2026/03/14/iran-war-iea-oil-stockpile-spr-strait-hormuz.html",
-            "summary": "Oil prices have surged more than 17% since the International Energy Agency announced the largest release of crude stockpiles in its 50-year history.",
-            "date": "Sat, 14 Mar 2026 13:07:11 GMT",
+            "title": "Iran vows to kill Israel's Netanyahu as impact of war on Gulf region widens",
+            "link": "https://www.cnbc.com/2026/03/15/iran-war.html",
+            "summary": "Oil loading reportedly resumes in the UAE's Fujairah port following a fire. Israel says it has killed two senior Iranian intelligence officials as oil loading resumes.",
+            "date": "Sun, 15 Mar 2026 11:05:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ERNAW",
+            "stock_ticker": "RANI3F.SA",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says U.S. 'obliterated' military targets on Iran's Kharg Island but didn't 'wipe out' oil infrastructure",
-            "link": "https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html",
-            "summary": "President Trump said he directed U.S. Central Command to execute a bombing raid on Kharg Island. He said the raid \"obliterated\" military targets on the island.",
-            "date": "Sat, 14 Mar 2026 11:52:52 GMT",
+            "title": "Price caps, taking the stairs, and short-sleeved shirts: How countries are coping with the Iran war energy shock",
+            "link": "https://www.cnbc.com/2026/03/15/price-caps-and-stairs-how-nations-are-coping-with-the-iran-oil-shock.html",
+            "summary": "Some countries have imposed price caps and released oil stockpiles to maintain energy supplies. Others have tried to reduce consumption by imposing price caps or releasing stockpiles.",
+            "date": "Sun, 15 Mar 2026 11:01:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Berkshire Hathaway filing provides glimpse of share buyback resumption",
-            "link": "https://www.cnbc.com/2026/03/14/berkshire-hathaway-filing-provides-glimpse-of-share-buyback-resumption.html",
-            "summary": "Berkshire Hathaway filed its definitive proxy statement with the SEC late this afternoon. The company's annual shareholders meeting will take place on May 2 in Omaha.",
-            "date": "Sat, 14 Mar 2026 13:03:09 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BRK-B",
-            "impact": "Neutral"
-        },
-        {
-            "title": "As New York Mayor Zohran Mamdani faces $7 billion budget hole, free parking may be history",
-            "link": "https://www.cnbc.com/2026/03/14/mayor-zohran-mamdani-new-york-budget-deficit-parking-tax.html",
-            "summary": "New York City Mayor Zohran Mamdani is facing a $7 billion budget hole. The free parking NYC residents have taken for granted may be a revenue opportunity.",
-            "date": "Sat, 14 Mar 2026 13:07:49 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "A Paramount-Warner Bros. movie slate could rule the 2027 box office, but is it sustainable?",
-            "link": "https://www.cnbc.com/2026/03/14/paramount-wbd-2027-movie-slate.html",
-            "summary": " Paramount CEO David Ellison has said he wants to make 30 movies a year. He has franchises like Godzilla-Kong, Superman and Sonic the Hedgehog to lean on.",
-            "date": "Sat, 14 Mar 2026 11:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
+            "stock_ticker": "TROW",
             "impact": "Bullish"
+        },
+        {
+            "title": "Global week ahead: Price pressure in the pipeline",
+            "link": "https://www.cnbc.com/2026/03/15/global-week-ahead-price-pressure-in-the-pipeline.html",
+            "summary": "Keep inflation under control becomes a critical task for central banks. Keeping inflation undercontrol becomes a key task for Central Bank governors. The U.S. Federal Reserve is the world's largest central bank, with an interest rate of nearly zero.",
+            "date": "Sun, 15 Mar 2026 12:41:03 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "COIN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Fertitta in weekend deal talks to acquire Caesars, while billionaire Carl Icahn waits in the wings",
+            "link": "https://www.cnbc.com/2026/03/14/fertitta-caesars-talks-casino-acquisition.html",
+            "summary": "The deal is not expected to close until 2027. The deal would not be finalized until early April, if it gets done at all.",
+            "date": "Sat, 14 Mar 2026 21:29:38 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BAIV",
+            "impact": "Neutral"
+        },
+        {
+            "title": "FCC chair slams broadcasters after Trump disputes reports on Iran-damaged U.S. tankers",
+            "link": "https://www.cnbc.com/2026/03/14/trump-iran-war-fcc-chair-carr-broadcasters.html",
+            "summary": "FCC Chair Brendan Carr blasted broadcasters shortly after President Donald Trump called reports that Iran struck five U.S. tanker planes \"fake news\"",
+            "date": "Sat, 14 Mar 2026 22:30:28 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FCCO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I am stuck in a low-income trap’: I’m a teacher and very good at my job. Will I ever earn six figures?",
+            "link": "https://www.marketwatch.com/story/i-am-stuck-in-a-low-income-trap-im-a-teacher-will-i-ever-earn-six-figures-5f7dd2b9?mod=mw_rss_topstories",
+            "summary": "“My low salary requires me to have multiple other part-time jobs,” she says. “I’m not able to work full-time. I’ve got to work part time.”",
+            "date": "Sun, 15 Mar 2026 13:22:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ETHB",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘Healthcare is important to me’: I’m worried about relocating to Florida from New Jersey. Are hospitals there under stress?",
+            "link": "https://www.marketwatch.com/story/healthcare-is-important-to-me-im-worried-about-relocating-to-florida-from-new-jersey-are-hospitals-there-under-stress-5c270b07?mod=mw_rss_topstories",
+            "summary": "“The issue is not the weather, high insurance premiums or high maintenance fees,” he says. “It’s the cost of living.”",
+            "date": "Sun, 15 Mar 2026 12:22:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GEHC",
+            "impact": "Neutral"
         },
         {
             "title": "‘I’m experiencing issues with arthritis’: I’m 68 with $3 million saved. Why am I not ready for a life of leisure?",
             "link": "https://www.marketwatch.com/story/im-experiencing-issues-with-arthritis-im-68-with-3-million-saved-why-am-i-not-ready-for-a-life-of-leisure-9bc15359?mod=mw_rss_topstories",
             "summary": "“I can draw $4,300 a month in Social Security if I retire this summer,” he says. “I’ll be able to retire in the summer.”",
-            "date": "Sat, 14 Mar 2026 13:30:00 GMT",
+            "date": "Sun, 15 Mar 2026 11:22:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +98,27 @@
             "impact": "Neutral"
         },
         {
-            "title": "These parents retired in their 30s and 40s while raising young kids. Here’s how they pulled off the impossible.",
-            "link": "https://www.marketwatch.com/story/these-parents-retired-in-their-30s-and-40s-while-raising-young-kids-heres-how-they-pulled-off-the-impossible-593968bd?mod=mw_rss_topstories",
-            "summary": "A new generation of money-minded parents is urging young people who want to start families to map a path to early financial independence so they can prioritize their families.",
-            "date": "Sat, 14 Mar 2026 13:00:00 GMT",
+            "title": "‘I find that advice questionable’: Is it time to rethink the rule of tapping your Roth last — after your 401(k) and IRA?",
+            "link": "https://www.marketwatch.com/story/i-find-that-advice-questionable-is-it-time-to-rethink-the-myth-of-tapping-your-roth-last-before-your-401-k-and-ira-2975ac61?mod=mw_rss_topstories",
+            "summary": "“I’ve read this advice again and again,” he says. “I've read it over and over again.”",
+            "date": "Sun, 15 Mar 2026 10:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001YPM3.L",
+            "stock_ticker": "BAIV",
             "impact": "Neutral"
         },
         {
-            "title": "‘I have no savings’: I’m inheriting $400,000. I’m 64 with $900 in Social Security. What should I do?",
-            "link": "https://www.marketwatch.com/story/i-have-no-savings-im-inheriting-400-000-im-64-with-900-in-social-security-what-should-i-do-084ec1cb?mod=mw_rss_topstories",
-            "summary": "“I have no experience with any life other than paycheck to paycheck,” he says. “I’ve never been in a position of power. I’m not a politician.”",
-            "date": "Sat, 14 Mar 2026 12:46:00 GMT",
+            "title": "‘I didn’t ask a man to rear-end my car’: Social Security is replacing my disability benefits. Will the fund run out of money?",
+            "link": "https://www.marketwatch.com/story/i-didnt-ask-a-man-to-rear-end-my-car-social-security-is-replacing-my-disability-benefits-will-the-fund-run-out-of-money-794d81b0?mod=mw_rss_topstories",
+            "summary": "“I didn’t ask a man to rear-end my car at a red light,” she said. “I’m not a bad person. I’ve always been a good person.”",
+            "date": "Sat, 14 Mar 2026 20:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CODX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "These 4 cybersecurity stocks are Wall Street’s favorite AI-proof plays",
-            "link": "https://www.marketwatch.com/story/these-4-cybersecurity-stocks-are-wall-streets-favorite-ai-proof-plays-7f49f15d?mod=mw_rss_topstories",
-            "summary": "Cybersecurity platforms are emerging as essential infrastructure needed to channel rising traffic from AI agents. While the broader software sector stumbles, cybersecurity platforms are becoming essential infrastructure.",
-            "date": "Sat, 14 Mar 2026 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001YPM3.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here are the ways private-credit pain could hurt your portfolio",
-            "link": "https://www.marketwatch.com/story/here-are-the-ways-private-credit-pain-could-hurt-your-portfolio-fb06dabc?mod=mw_rss_topstories",
-            "summary": "Big banks are increasingly seeing their shares impacted by worries about underwriting quality at private lenders. Big banks are seeing their share prices impacted by concerns about private lenders' underwriting.",
-            "date": "Sat, 14 Mar 2026 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HERE",
+            "stock_ticker": "BAIV",
             "impact": "Neutral"
         }
     ]
