@@ -1,47 +1,59 @@
 {
-    "date": "2026-03-17",
+    "date": "2026-03-18",
     "news": [
         {
-            "title": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz",
-            "link": "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html",
-            "summary": "Oil prices advance as energy market participants monitor Middle East supply disruptions. Oil prices advanced on Tuesday as energyMarket participants monitored Middle East Supply Disruptions.",
-            "date": "Tue, 17 Mar 2026 12:48:36 GMT",
+            "title": "Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually",
+            "link": "https://www.cnbc.com/2026/03/18/ppi-inflation-february-2026.html",
+            "summary": "Wholesale prices rose sharply in February, providing another sign that inflation continues to percolate. Even aside from rising energy prices, wholesale prices rose in February.",
+            "date": "Wed, 18 Mar 2026 13:13:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3F.SA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Diesel prices surge to $5 per gallon, highest since 2022, as Iran war disrupts global oil supplies",
-            "link": "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html",
-            "summary": "Crude oil flows through the Strait of Hormuz return to normal. Fuel prices are likely to keep rising until crude oil flows are restored.",
-            "date": "Tue, 17 Mar 2026 13:49:11 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "6018.T",
+            "stock_ticker": "COST",
             "impact": "Neutral"
         },
         {
-            "title": "Delta, American raise revenue guidance, citing growth in demand",
-            "link": "https://www.cnbc.com/2026/03/17/airline-guidance-iran-war-oil.html",
-            "summary": "Delta CEO Ed Bastian says demand has been \"really, really great\" Delta has taken a $400 million hit so far for the fourth quarter.",
-            "date": "Tue, 17 Mar 2026 13:37:27 GMT",
+            "title": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
+            "link": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
+            "summary": "Israel's Defense Forces say Iran's Intelligence Minister Esmail Khatib was killed in a \"targeted strike\" in Tehran. Israel says the strike was carried out in response to the Iranian government's actions in Syria.",
+            "date": "Wed, 18 Mar 2026 13:55:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DAL",
+            "stock_ticker": "ILS=F",
             "impact": "Neutral"
         },
         {
-            "title": "Oil pares gains as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping",
-            "link": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
-            "summary": "Oil prices pared gains on Tuesday as uncertainty lingers over a U.S.-led coalition to protect shipping through the Strait of Hormuz.",
-            "date": "Tue, 17 Mar 2026 14:01:26 GMT",
+            "title": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect",
+            "link": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
+            "summary": "The Federal Reserve has little choice but to stay on the sidelines this week. The central bank is expected to keep interest rates at a record low.",
+            "date": "Tue, 17 Mar 2026 20:29:55 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ERNAW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Disney embarks on new chapter as Josh D'Amaro takes over as CEO",
+            "link": "https://www.cnbc.com/2026/03/18/disney-josh-damaro-ceo-new-chapter.html",
+            "summary": "Josh D'Amaro, who previously served as chairman of Disney's experiences division, takes over as CEO. Bob Iger is stepping aside as Disney's CEO.",
+            "date": "Wed, 18 Mar 2026 13:59:03 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DIS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Oil prices top $108 after Iran threatens oil facilities in Saudi Arabia, UAE and Qatar",
+            "link": "https://www.cnbc.com/2026/03/18/oil-prices-brent-wti-uae-energy-attacks-us-crude-inventories-hormuz.html",
+            "summary": "Oil prices rise as attacks on Middle East energy infrastructure escalate. Oil prices rose as attacks were carried out by militants in the Middle East. The attacks were aimed at energy infrastructure in the region.",
+            "date": "Wed, 18 Mar 2026 14:03:43 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,75 +62,63 @@
             "impact": "Neutral"
         },
         {
-            "title": "Senators tell ByteDance to 'immediately shut down' Seedance AI video app",
-            "link": "https://www.cnbc.com/2026/03/17/bytedance-seedance-shut-down-tiktok-marsha-blackburn-peter-welch.html",
-            "summary": "Lawmakers say the new version of the Seedance AI video-generation app violates copyright and intellectual property laws. Lawmakers say it violates copyright, intellectual property law.",
-            "date": "Tue, 17 Mar 2026 09:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001Q6K9.SA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "After I totaled my car, I set out to find a used one for under $10,000",
-            "link": "https://www.marketwatch.com/story/after-i-totaled-my-car-i-set-out-to-find-a-used-one-for-under-10-000-d3afd1dc?mod=mw_rss_topstories",
-            "summary": "The average used car now costs around $26,000. Here’s how I bought a Lexus for $8,000 and how I paid for it.",
-            "date": "Tue, 17 Mar 2026 13:50:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "^QIV",
-            "impact": "Neutral"
-        },
-        {
-            "title": "A man used ChatGPT to cure his dog. Here are the stocks for the new age of programmable medicine.",
-            "link": "https://www.marketwatch.com/story/rose-the-dog-might-have-just-heralded-the-age-of-programmable-medicine-and-here-are-the-stocks-that-benefit-c8fd4726?mod=mw_rss_topstories",
-            "summary": "The age of programmable medicine may be upon us, says Dr. Andrew Weisman. Weisman: \"I think we're in the early stages of a new era of medicine\"",
-            "date": "Tue, 17 Mar 2026 13:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
-            "impact": "Bullish"
-        },
-        {
-            "title": "A recession will be hard to avoid if oil prices stay elevated for even a few more weeks, says Moody’s",
-            "link": "https://www.marketwatch.com/story/moodys-says-a-recession-will-be-hard-to-avoid-if-oil-prices-stay-elevated-for-even-a-few-more-weeks-cd53a198?mod=mw_rss_topstories",
-            "summary": "The Strait of Hormuz remains effectively closed to oil-tanker traffic. The U.S. now produces about as much oil and natural gas as it consumes.",
-            "date": "Tue, 17 Mar 2026 13:01:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
-            "impact": "Neutral"
-        },
-        {
-            "title": "MrBeast’s finance app for kids is backed by a bank that’s faced regulatory scrutiny and a fintech partner’s failure",
-            "link": "https://www.marketwatch.com/story/mrbeasts-finance-app-for-kids-is-backed-by-a-bank-thats-faced-regulatory-scrutiny-and-a-fintech-partners-failure-2c7ff7c2?mod=mw_rss_topstories",
-            "summary": "The YouTuber’s new fintech venture relies on Evolve Bank & Trust, a partner bank of the now-collapsed Synapse that has dealt with numerous setbacks.",
-            "date": "Tue, 17 Mar 2026 12:57:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IVSX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why fund managers may be caught off guard by a ‘ripper of a rally’",
-            "link": "https://www.marketwatch.com/story/why-fund-managers-may-be-caught-off-guard-by-a-ripper-of-a-rally-aff2ee61?mod=mw_rss_topstories",
-            "summary": "It hasn't taken long to see some bullish technical signals in the market. It hasn’t taken long for some bullishTechnical signals to appear in the stock market.",
-            "date": "Tue, 17 Mar 2026 12:56:00 GMT",
+            "title": "Why is everything so expensive? America has a wage problem — not a price problem",
+            "link": "https://www.marketwatch.com/story/why-does-everything-feel-so-expensive-look-at-wages-not-the-cpi-d4d4376e?mod=mw_rss_topstories",
+            "summary": " Cheap imports broke the middle class, and curbing inflation won’t fix the wage gap. “It’s not a question of if, but when,’’ says economist Andrew Keen.",
+            "date": "Wed, 18 Mar 2026 14:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "WHY-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘Never get out-hustled.’ ServiceNow’s CEO shares his best career advice.",
+            "link": "https://www.marketwatch.com/story/never-get-out-hustled-servicenows-ceo-shares-his-best-career-advice-6afa95b1?mod=mw_rss_topstories",
+            "summary": "Bill McDermott says he was able to rise through the ranks at Xerox because he worked harder than the people around him. McDermott is now CEO of SAP and ServiceNow.",
+            "date": "Wed, 18 Mar 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001NRNX.SA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "It’s a ‘black swan’ moment in oil but nowhere else. The stock market is at risk of a 20% fall, say these strategists.",
+            "link": "https://www.marketwatch.com/story/why-the-real-black-swan-of-the-iran-war-is-the-lack-of-them-in-stocks-bonds-or-almost-anything-but-oil-79fa1504?mod=mw_rss_topstories",
+            "summary": "Almost everything except for bonds – stocks, interest rates, credit, gold and the U.S. dollar – is having “very normal white swan types of moves.”",
+            "date": "Wed, 18 Mar 2026 13:31:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ITS.AX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "It’s time to sell this fertilizer stock that’s been the S&P 500’s top gainer, analyst says",
+            "link": "https://www.marketwatch.com/story/its-time-to-sell-this-fertilizer-stock-thats-been-the-s-p-500s-top-gainer-analyst-says-65ca5e05?mod=mw_rss_topstories",
+            "summary": "Mizuho turned bearish on CF Industries’ stock, saying it has rallied too much since the Iran conflict started. Mizuho: CF Industries' stock has risen too much.",
+            "date": "Wed, 18 Mar 2026 13:26:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ITS.AX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Oil prices climb after Iran reports attacks on key oil and natural gas field",
+            "link": "https://www.marketwatch.com/story/oil-prices-dip-after-iraq-resumes-oil-exports-via-pipeline-to-turkey-7e706930?mod=mw_rss_topstories",
+            "summary": "Iran says U.S. and Israeli airstrikes hit one of its key natural gas field. Nearby oil and petrochemical facilities also came under attack.",
+            "date": "Wed, 18 Mar 2026 12:43:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CL=F",
             "impact": "Neutral"
         }
     ]
