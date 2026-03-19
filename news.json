@@ -1,124 +1,124 @@
 {
-    "date": "2026-03-18",
+    "date": "2026-03-19",
     "news": [
         {
-            "title": "Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually",
-            "link": "https://www.cnbc.com/2026/03/18/ppi-inflation-february-2026.html",
-            "summary": "Wholesale prices rose sharply in February, providing another sign that inflation continues to percolate. Even aside from rising energy prices, wholesale prices rose in February.",
-            "date": "Wed, 18 Mar 2026 13:13:09 GMT",
+            "title": "Hegseth says potential $200 billion Iran war spending request could shift: 'Takes money to kill bad guys'",
+            "link": "https://www.cnbc.com/2026/03/19/hegseth-iran-war-budget.html",
+            "summary": "President Donald Trump's National Economic Council director Kevin Hassett said Sunday that the war has already cost $12 billion. Hassett: The war has cost the U.S. more than $10 billion so far.",
+            "date": "Thu, 19 Mar 2026 13:40:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COST",
+            "stock_ticker": "0P0001N3LC.F",
             "impact": "Neutral"
         },
         {
-            "title": "Israel says it has killed Iran’s intelligence minister in third assassination in two days",
-            "link": "https://www.cnbc.com/2026/03/18/iran-war-intelligence-esmail-khatib-israel-middle-east-crisis.html",
-            "summary": "Israel's Defense Forces say Iran's Intelligence Minister Esmail Khatib was killed in a \"targeted strike\" in Tehran. Israel says the strike was carried out in response to the Iranian government's actions in Syria.",
-            "date": "Wed, 18 Mar 2026 13:55:21 GMT",
+            "title": "Micron falls 5% after blowout earnings. CEO says it can supply only a fraction of key customer needs",
+            "link": "https://www.cnbc.com/2026/03/19/micron-falls-blockbuster-earnings-chips-ai.html",
+            "summary": "Micron stock is up more than 350% in the past year, however, thanks to a memory supply shortage driven by surging demand for Nvidia's AI chips.",
+            "date": "Thu, 19 Mar 2026 13:46:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ILS=F",
+            "stock_ticker": "MU",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Traders now see little chance of an interest rate cut this year following Fed decision",
+            "link": "https://www.cnbc.com/2026/03/19/traders-rate-cut.html",
+            "summary": "All of the positive economic talk out of this week's Federal Reserve meeting had a negative impact on investors. The U.S. economy is expected to grow by 0.3 percent this year.",
+            "date": "Thu, 19 Mar 2026 13:26:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FLOW.AS",
             "impact": "Neutral"
         },
         {
-            "title": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect",
-            "link": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
-            "summary": "The Federal Reserve has little choice but to stay on the sidelines this week. The central bank is expected to keep interest rates at a record low.",
-            "date": "Tue, 17 Mar 2026 20:29:55 GMT",
+            "title": "Uber to invest up to $1.25 billion in EV maker Rivian in deal to launch 50,000 robotaxis",
+            "link": "https://www.cnbc.com/2026/03/19/uber-rivian-robotaxi.html",
+            "summary": "Uber plans to invest up to $1.25 billion in Rivian as part of a deal to deploy up to 50,000 robotaxis in several countries.",
+            "date": "Thu, 19 Mar 2026 13:18:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ERNAW",
+            "stock_ticker": "UBER",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Trump's DHS pick Markwayne Mullin advances out of Senate committee",
+            "link": "https://www.cnbc.com/2026/03/19/markwayne-mullin-dhs-immigration-senate-vote.html",
+            "summary": "President Donald Trump tapped Sen. Markwayne Mullin, R-Okla., earlier this month to replace Kristi Noem. Mullin is a former governor of Oklahoma.",
+            "date": "Thu, 19 Mar 2026 13:52:57 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DHS",
             "impact": "Neutral"
         },
         {
-            "title": "Disney embarks on new chapter as Josh D'Amaro takes over as CEO",
-            "link": "https://www.cnbc.com/2026/03/18/disney-josh-damaro-ceo-new-chapter.html",
-            "summary": "Josh D'Amaro, who previously served as chairman of Disney's experiences division, takes over as CEO. Bob Iger is stepping aside as Disney's CEO.",
-            "date": "Wed, 18 Mar 2026 13:59:03 GMT",
+            "title": "How America’s war is turning into a European market nightmare",
+            "link": "https://www.marketwatch.com/story/how-americas-war-is-turning-into-a-european-market-nightmare-a43ffb4a?mod=mw_rss_topstories",
+            "summary": "Interest-rate expectations surge for both the Bank of England and European Central Bank. U.S.-Israeli attacks on Iran are hurting European markets most of all.",
+            "date": "Thu, 19 Mar 2026 13:51:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DIS",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Oil prices top $108 after Iran threatens oil facilities in Saudi Arabia, UAE and Qatar",
-            "link": "https://www.cnbc.com/2026/03/18/oil-prices-brent-wti-uae-energy-attacks-us-crude-inventories-hormuz.html",
-            "summary": "Oil prices rise as attacks on Middle East energy infrastructure escalate. Oil prices rose as attacks were carried out by militants in the Middle East. The attacks were aimed at energy infrastructure in the region.",
-            "date": "Wed, 18 Mar 2026 14:03:43 GMT",
+            "title": "Alibaba’s stock slips as a big drop in net income overshadows AI progress",
+            "link": "https://www.marketwatch.com/story/alibabas-stock-slips-as-a-big-drop-in-net-income-overshadows-ai-progress-0aefbd83?mod=mw_rss_topstories",
+            "summary": "Alibaba's cloud and AI units delivered another quarter of triple-digit growth. But the company’s costly pivot to rapid e-commerce delivery led to an earnings miss.",
+            "date": "Thu, 19 Mar 2026 13:47:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "SWMR",
             "impact": "Neutral"
         },
         {
-            "title": "Why is everything so expensive? America has a wage problem — not a price problem",
-            "link": "https://www.marketwatch.com/story/why-does-everything-feel-so-expensive-look-at-wages-not-the-cpi-d4d4376e?mod=mw_rss_topstories",
-            "summary": " Cheap imports broke the middle class, and curbing inflation won’t fix the wage gap. “It’s not a question of if, but when,’’ says economist Andrew Keen.",
-            "date": "Wed, 18 Mar 2026 14:06:00 GMT",
+            "title": "‘Epic Fury’ has already canceled out Big Beautiful Bill’s tax refunds — even if the Iran war ended today",
+            "link": "https://www.marketwatch.com/story/epic-fury-has-already-cancelled-out-big-beautiful-bills-tax-refunds-even-if-the-iran-war-ended-today-cf8ed3fa?mod=mw_rss_topstories",
+            "summary": "A group of Stanford economists pit tax refunds versus rising gasoline prices. The results aren't good for American households, the economists say. The study was published in the journal American Economic Journal.",
+            "date": "Thu, 19 Mar 2026 13:46:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHY-USD",
+            "stock_ticker": "0P0001KM4Q.L",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Is the economy really losing jobs? The low number of unemployment filings says no.",
+            "link": "https://www.marketwatch.com/story/is-the-economy-really-losing-jobs-the-low-number-of-unemployment-filings-says-no-95a1e3d8?mod=mw_rss_topstories",
+            "summary": "The U.S. economy is not losing jobs, as the February employment report found. Not according to the low number of people applying for jobless benefits.",
+            "date": "Thu, 19 Mar 2026 13:40:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ETHB",
             "impact": "Neutral"
         },
         {
-            "title": "‘Never get out-hustled.’ ServiceNow’s CEO shares his best career advice.",
-            "link": "https://www.marketwatch.com/story/never-get-out-hustled-servicenows-ceo-shares-his-best-career-advice-6afa95b1?mod=mw_rss_topstories",
-            "summary": "Bill McDermott says he was able to rise through the ranks at Xerox because he worked harder than the people around him. McDermott is now CEO of SAP and ServiceNow.",
-            "date": "Wed, 18 Mar 2026 14:00:00 GMT",
+            "title": "Global oil prices trade at $112 a barrel after Trump threatens to ‘blow up’ the world’s largest gas field",
+            "link": "https://www.marketwatch.com/story/oil-prices-surge-after-iran-attacks-middle-east-energy-facilities-c43c7d1e?mod=mw_rss_topstories",
+            "summary": "Global oil prices are back near their highest levels in nearly four years Thursday. Iran targeted energy production in the Gulf region. Iran has been accused of being a major oil producer in the region.",
+            "date": "Thu, 19 Mar 2026 13:22:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001NRNX.SA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "It’s a ‘black swan’ moment in oil but nowhere else. The stock market is at risk of a 20% fall, say these strategists.",
-            "link": "https://www.marketwatch.com/story/why-the-real-black-swan-of-the-iran-war-is-the-lack-of-them-in-stocks-bonds-or-almost-anything-but-oil-79fa1504?mod=mw_rss_topstories",
-            "summary": "Almost everything except for bonds – stocks, interest rates, credit, gold and the U.S. dollar – is having “very normal white swan types of moves.”",
-            "date": "Wed, 18 Mar 2026 13:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ITS.AX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "It’s time to sell this fertilizer stock that’s been the S&P 500’s top gainer, analyst says",
-            "link": "https://www.marketwatch.com/story/its-time-to-sell-this-fertilizer-stock-thats-been-the-s-p-500s-top-gainer-analyst-says-65ca5e05?mod=mw_rss_topstories",
-            "summary": "Mizuho turned bearish on CF Industries’ stock, saying it has rallied too much since the Iran conflict started. Mizuho: CF Industries' stock has risen too much.",
-            "date": "Wed, 18 Mar 2026 13:26:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ITS.AX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Oil prices climb after Iran reports attacks on key oil and natural gas field",
-            "link": "https://www.marketwatch.com/story/oil-prices-dip-after-iraq-resumes-oil-exports-via-pipeline-to-turkey-7e706930?mod=mw_rss_topstories",
-            "summary": "Iran says U.S. and Israeli airstrikes hit one of its key natural gas field. Nearby oil and petrochemical facilities also came under attack.",
-            "date": "Wed, 18 Mar 2026 12:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "COIN",
             "impact": "Neutral"
         }
     ]
