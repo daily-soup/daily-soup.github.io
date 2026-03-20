@@ -1,124 +1,124 @@
 {
-    "date": "2026-03-19",
+    "date": "2026-03-20",
     "news": [
         {
-            "title": "Hegseth says potential $200 billion Iran war spending request could shift: 'Takes money to kill bad guys'",
-            "link": "https://www.cnbc.com/2026/03/19/hegseth-iran-war-budget.html",
-            "summary": "President Donald Trump's National Economic Council director Kevin Hassett said Sunday that the war has already cost $12 billion. Hassett: The war has cost the U.S. more than $10 billion so far.",
-            "date": "Thu, 19 Mar 2026 13:40:04 GMT",
+            "title": "Super Micro shares tank 25% after employees charged with smuggling Nvidia chips to China",
+            "link": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
+            "summary": "The U.S. government has been trying to crack down on illegal shipments of top-tier Nvidia artificial intelligence chips to China. The chips are used to build artificial intelligence systems.",
+            "date": "Fri, 20 Mar 2026 13:13:23 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001N3LC.F",
+            "stock_ticker": "SMCI",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Trump admin. unveils national AI policy framework to limit state power",
+            "link": "https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html",
+            "summary": " AI industry leaders have opposed state-level regulatory efforts. They argue that a \"patchwork\" of laws would hobble innovation and give China a competitive edge.",
+            "date": "Fri, 20 Mar 2026 13:48:11 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Micron falls 5% after blowout earnings. CEO says it can supply only a fraction of key customer needs",
-            "link": "https://www.cnbc.com/2026/03/19/micron-falls-blockbuster-earnings-chips-ai.html",
-            "summary": "Micron stock is up more than 350% in the past year, however, thanks to a memory supply shortage driven by surging demand for Nvidia's AI chips.",
-            "date": "Thu, 19 Mar 2026 13:46:34 GMT",
+            "title": "Fed Governor Waller urges caution for now, says rate cuts possible later in the year",
+            "link": "https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html",
+            "summary": "Waller said recent developments require a more conservative approach. Waller said in a CNBC interview that recent developments need a 'more conservative approach'",
+            "date": "Fri, 20 Mar 2026 13:36:43 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MU",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Traders now see little chance of an interest rate cut this year following Fed decision",
-            "link": "https://www.cnbc.com/2026/03/19/traders-rate-cut.html",
-            "summary": "All of the positive economic talk out of this week's Federal Reserve meeting had a negative impact on investors. The U.S. economy is expected to grow by 0.3 percent this year.",
-            "date": "Thu, 19 Mar 2026 13:26:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FLOW.AS",
+            "stock_ticker": "ZQ=F",
             "impact": "Neutral"
         },
         {
-            "title": "Uber to invest up to $1.25 billion in EV maker Rivian in deal to launch 50,000 robotaxis",
-            "link": "https://www.cnbc.com/2026/03/19/uber-rivian-robotaxi.html",
-            "summary": "Uber plans to invest up to $1.25 billion in Rivian as part of a deal to deploy up to 50,000 robotaxis in several countries.",
-            "date": "Thu, 19 Mar 2026 13:18:11 GMT",
+            "title": "U.S. says Cuba is prohibited from taking Russian oil as two tankers head to island",
+            "link": "https://www.cnbc.com/2026/03/20/cuba-crisis-fuel-tankers-russia-oil-gas-energy-us-trump.html",
+            "summary": "The fuel-starved Caribbean island is facing its biggest test since the collapse of the Soviet Union under a U.S. oil blockade.",
+            "date": "Fri, 20 Mar 2026 08:54:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UBER",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Trump's DHS pick Markwayne Mullin advances out of Senate committee",
-            "link": "https://www.cnbc.com/2026/03/19/markwayne-mullin-dhs-immigration-senate-vote.html",
-            "summary": "President Donald Trump tapped Sen. Markwayne Mullin, R-Okla., earlier this month to replace Kristi Noem. Mullin is a former governor of Oklahoma.",
-            "date": "Thu, 19 Mar 2026 13:52:57 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DHS",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "How America’s war is turning into a European market nightmare",
-            "link": "https://www.marketwatch.com/story/how-americas-war-is-turning-into-a-european-market-nightmare-a43ffb4a?mod=mw_rss_topstories",
-            "summary": "Interest-rate expectations surge for both the Bank of England and European Central Bank. U.S.-Israeli attacks on Iran are hurting European markets most of all.",
-            "date": "Thu, 19 Mar 2026 13:51:00 GMT",
+            "title": "Trump invokes emergency powers with $23 billion in Gulf arms sales as Iran war wages on: WSJ report",
+            "link": "https://www.cnbc.com/2026/03/20/us-arms-weapon-sales-middle-east-iran-israel-war.html",
+            "summary": "The U.S. approved roughly $23 billion in weapons sales to three Gulf nations. The move was to bolster their defenses as the Middle East war continued to escalate.",
+            "date": "Fri, 20 Mar 2026 07:35:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Alibaba’s stock slips as a big drop in net income overshadows AI progress",
-            "link": "https://www.marketwatch.com/story/alibabas-stock-slips-as-a-big-drop-in-net-income-overshadows-ai-progress-0aefbd83?mod=mw_rss_topstories",
-            "summary": "Alibaba's cloud and AI units delivered another quarter of triple-digit growth. But the company’s costly pivot to rapid e-commerce delivery led to an earnings miss.",
-            "date": "Thu, 19 Mar 2026 13:47:00 GMT",
+            "title": "Unilever shift to beauty proceeds with talks to sell division that sells mayonnaise and Marmite",
+            "link": "https://www.marketwatch.com/story/unilever-in-talks-to-sell-food-business-to-mccormick-ebca7094?mod=mw_rss_topstories",
+            "summary": "The consumer-goods company has been making efforts to focus on its beauty and well-being products. The company has also been focusing on its health and fitness products.",
+            "date": "Fri, 20 Mar 2026 13:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SWMR",
+            "stock_ticker": "UL",
             "impact": "Neutral"
         },
         {
-            "title": "‘Epic Fury’ has already canceled out Big Beautiful Bill’s tax refunds — even if the Iran war ended today",
-            "link": "https://www.marketwatch.com/story/epic-fury-has-already-cancelled-out-big-beautiful-bills-tax-refunds-even-if-the-iran-war-ended-today-cf8ed3fa?mod=mw_rss_topstories",
-            "summary": "A group of Stanford economists pit tax refunds versus rising gasoline prices. The results aren't good for American households, the economists say. The study was published in the journal American Economic Journal.",
-            "date": "Thu, 19 Mar 2026 13:46:00 GMT",
+            "title": "Markets are getting closer to a buying opportunity as investors capitulate, says Bank of America strategist",
+            "link": "https://www.marketwatch.com/story/markets-are-getting-closer-to-a-buying-opportunity-as-investors-capitulate-says-bank-of-america-strategist-e1bab447?mod=mw_rss_topstories",
+            "summary": "The pressure on Trump to deescalate in the Middle East is building. Markets need to be convinced oil is back below $100 forgood before they can rally.",
+            "date": "Fri, 20 Mar 2026 13:51:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001KM4Q.L",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Is the economy really losing jobs? The low number of unemployment filings says no.",
-            "link": "https://www.marketwatch.com/story/is-the-economy-really-losing-jobs-the-low-number-of-unemployment-filings-says-no-95a1e3d8?mod=mw_rss_topstories",
-            "summary": "The U.S. economy is not losing jobs, as the February employment report found. Not according to the low number of people applying for jobless benefits.",
-            "date": "Thu, 19 Mar 2026 13:40:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ETHB",
+            "stock_ticker": "MMN=F",
             "impact": "Neutral"
         },
         {
-            "title": "Global oil prices trade at $112 a barrel after Trump threatens to ‘blow up’ the world’s largest gas field",
-            "link": "https://www.marketwatch.com/story/oil-prices-surge-after-iran-attacks-middle-east-energy-facilities-c43c7d1e?mod=mw_rss_topstories",
-            "summary": "Global oil prices are back near their highest levels in nearly four years Thursday. Iran targeted energy production in the Gulf region. Iran has been accused of being a major oil producer in the region.",
-            "date": "Thu, 19 Mar 2026 13:22:00 GMT",
+            "title": "‘Selling will be a very difficult process’: My mom, 93, owns a timeshare in Florida. How can I disclaim this inheritance?",
+            "link": "https://www.marketwatch.com/story/selling-will-be-a-very-difficult-process-my-mom-93-owns-a-timeshare-in-florida-how-can-i-disclaim-this-inheritance-914f9823?mod=mw_rss_topstories",
+            "summary": "“I want to address this issue proactively before it becomes urgent,” he says. “I’m not going to wait for something to become urgent.”",
+            "date": "Fri, 20 Mar 2026 13:48:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COIN",
+            "stock_ticker": "0P0000TWOQ.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?",
+            "link": "https://www.marketwatch.com/story/the-money-is-tax-free-im-76-and-won-50-000-in-a-settlement-related-to-cancer-from-nuclear-waste-what-should-i-do-with-it-5549449e?mod=mw_rss_topstories",
+            "summary": "“The money is tax-free and does not affect our income, which comes from investments and Social Security,” she says.",
+            "date": "Fri, 20 Mar 2026 13:47:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "JACK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Fed’s Waller says he doesn’t support rate hikes, sees inflation cooling in the second half of the year",
+            "link": "https://www.marketwatch.com/story/feds-waller-says-he-doesnt-support-rate-hikes-sees-inflation-cooling-in-second-half-of-the-year-3ca9f671?mod=mw_rss_topstories",
+            "summary": "If oil prices stay high for months, they could bleed through to other prices, Fed governor Christopher Waller says. Waller is a former Fed governor and a member of the Federal Reserve Board.",
+            "date": "Fri, 20 Mar 2026 13:46:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FEDS.IL",
             "impact": "Neutral"
         }
     ]
