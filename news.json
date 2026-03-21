@@ -1,125 +1,125 @@
 {
-    "date": "2026-03-20",
+    "date": "2026-03-21",
     "news": [
         {
-            "title": "Super Micro shares tank 25% after employees charged with smuggling Nvidia chips to China",
-            "link": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html",
-            "summary": "The U.S. government has been trying to crack down on illegal shipments of top-tier Nvidia artificial intelligence chips to China. The chips are used to build artificial intelligence systems.",
-            "date": "Fri, 20 Mar 2026 13:13:23 GMT",
+            "title": "Trump says he doesn't want Iran war ceasefire, but is considering 'winding down' military ops",
+            "link": "https://www.cnbc.com/2026/03/20/trump-iran-war-ceasefire.html",
+            "summary": "President Donald Trump said the Strait of Hormuz, \"will have to be guarded and policed, as necessary, by other Nations who use it\"",
+            "date": "Fri, 20 Mar 2026 22:23:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SMCI",
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities",
+            "link": "https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html",
+            "summary": "OpenClaw is a technology that didn't exist six months ago. Nvidia CEO Jensen Huang dedicated a major part of his keynote to OpenClaw.",
+            "date": "Sat, 21 Mar 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CHATTY-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Analysis: Trump's unshackled presidency puts him at the center of the economy",
+            "link": "https://www.cnbc.com/2026/03/21/trump-oil-fed-economy-iran-war.html",
+            "summary": "The president's unprecedented use of executive power has made him a driving force behind oil prices, the Federal Reserve's interest rates, and more.",
+            "date": "Sat, 21 Mar 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "3587.TWO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "GLP-1 drugs are changing how Americans eat. Food companies are racing to catch up",
+            "link": "https://www.cnbc.com/2026/03/21/glp-1-diets-restaurants-protein-fiber-weight-loss-drugs.html",
+            "summary": "The increasing adoption of GLP-1 drugs present both an opportunity and a threat to their businesses. For restaurants and food companies, the increase in the use of the drug could be an opportunity or threat.",
+            "date": "Sat, 21 Mar 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "OZEM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Buffett defends 'Giving Pledge' against Thiel and 'billionaire backlash'",
+            "link": "https://www.cnbc.com/2026/03/21/buffett-defends-giving-pledge-against-thiel-and-billionaire-backlash.html",
+            "summary": "Warren Buffett is defending the philanthropic initiative he co-founded with Bill Gates almost 15 years ago. Warren Buffett and Bill Gates are co-founders of the Buffett-Gates Foundation.",
+            "date": "Sat, 21 Mar 2026 12:22:34 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001BS00.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Jensen Huang once said there was ‘no evidence’ Nvidia chips were getting diverted to China. The scandal at Super Micro suggests otherwise.",
+            "link": "https://www.marketwatch.com/story/jensen-huang-once-said-there-was-no-evidence-nvidia-chips-were-getting-diverted-to-china-the-scandal-at-super-micro-suggests-otherwise-12ec0904?mod=mw_rss_topstories",
+            "summary": "The case highlights how the industry appears to not have taken the issue of chip smuggling seriously, experts say. The chip industry has been accused of not taking the issue seriously.",
+            "date": "Sat, 21 Mar 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GJ.CO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘This guy has no manners’: My Airbnb guest requested I buy bacon and beer. The $30 bill remains unpaid. Do I insist?",
+            "link": "https://www.marketwatch.com/story/this-guy-has-no-manners-my-airbnb-guest-requested-i-buy-bacon-and-beer-the-30-bill-remains-unpaid-do-i-insist-e98ccecd?mod=mw_rss_topstories",
+            "summary": "“I don’t want him to retaliate with a bad review,” she says. “I’m not going to let him get away with it.”",
+            "date": "Sat, 21 Mar 2026 12:40:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "THISX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Americans are about to get a crash course in the global economy: Higher prices are coming for pineapples, plastic, chocolate and berries",
+            "link": "https://www.marketwatch.com/story/americans-are-about-to-get-a-crash-course-in-the-global-economy-higher-prices-are-coming-for-pineapples-plastic-chocolate-and-berries-0be67162?mod=mw_rss_topstories",
+            "summary": "Rising costs for fertilizer, feed, packaging and shipping are going to seep into the prices that people see on grocery shelves, experts say.",
+            "date": "Sat, 21 Mar 2026 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ARE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Retirees, steel yourselves: Global crises might rattle the markets, but they don’t have to ruin your retirement",
+            "link": "https://www.marketwatch.com/story/retirees-steel-yourselves-global-crises-might-rattle-the-markets-but-they-dont-have-to-ruin-your-retirement-b73fcb7a?mod=mw_rss_topstories",
+            "summary": "The economic shock from the Iran conflict can take on outsize importance for those close to or in retirement. The impact on the economy can be felt for years to come.",
+            "date": "Sat, 21 Mar 2026 12:10:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "STLD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Financial markets are responding to the Iran conflict in unexpected ways — leaving some investors puzzled",
+            "link": "https://www.marketwatch.com/story/financial-markets-are-responding-to-the-iran-conflict-in-unexpected-ways-leaving-some-investors-puzzled-0ce070d9?mod=mw_rss_topstories",
+            "summary": "Gold, often a haven during times of stress, has been falling. Meanwhile, stocks are down, but not as much as many expected.",
+            "date": "Sat, 21 Mar 2026 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "XAF=F",
             "impact": "Bearish"
-        },
-        {
-            "title": "Trump admin. unveils national AI policy framework to limit state power",
-            "link": "https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html",
-            "summary": " AI industry leaders have opposed state-level regulatory efforts. They argue that a \"patchwork\" of laws would hobble innovation and give China a competitive edge.",
-            "date": "Fri, 20 Mar 2026 13:48:11 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fed Governor Waller urges caution for now, says rate cuts possible later in the year",
-            "link": "https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html",
-            "summary": "Waller said recent developments require a more conservative approach. Waller said in a CNBC interview that recent developments need a 'more conservative approach'",
-            "date": "Fri, 20 Mar 2026 13:36:43 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZQ=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. says Cuba is prohibited from taking Russian oil as two tankers head to island",
-            "link": "https://www.cnbc.com/2026/03/20/cuba-crisis-fuel-tankers-russia-oil-gas-energy-us-trump.html",
-            "summary": "The fuel-starved Caribbean island is facing its biggest test since the collapse of the Soviet Union under a U.S. oil blockade.",
-            "date": "Fri, 20 Mar 2026 08:54:28 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump invokes emergency powers with $23 billion in Gulf arms sales as Iran war wages on: WSJ report",
-            "link": "https://www.cnbc.com/2026/03/20/us-arms-weapon-sales-middle-east-iran-israel-war.html",
-            "summary": "The U.S. approved roughly $23 billion in weapons sales to three Gulf nations. The move was to bolster their defenses as the Middle East war continued to escalate.",
-            "date": "Fri, 20 Mar 2026 07:35:51 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Unilever shift to beauty proceeds with talks to sell division that sells mayonnaise and Marmite",
-            "link": "https://www.marketwatch.com/story/unilever-in-talks-to-sell-food-business-to-mccormick-ebca7094?mod=mw_rss_topstories",
-            "summary": "The consumer-goods company has been making efforts to focus on its beauty and well-being products. The company has also been focusing on its health and fitness products.",
-            "date": "Fri, 20 Mar 2026 13:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "UL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Markets are getting closer to a buying opportunity as investors capitulate, says Bank of America strategist",
-            "link": "https://www.marketwatch.com/story/markets-are-getting-closer-to-a-buying-opportunity-as-investors-capitulate-says-bank-of-america-strategist-e1bab447?mod=mw_rss_topstories",
-            "summary": "The pressure on Trump to deescalate in the Middle East is building. Markets need to be convinced oil is back below $100 forgood before they can rally.",
-            "date": "Fri, 20 Mar 2026 13:51:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MMN=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘Selling will be a very difficult process’: My mom, 93, owns a timeshare in Florida. How can I disclaim this inheritance?",
-            "link": "https://www.marketwatch.com/story/selling-will-be-a-very-difficult-process-my-mom-93-owns-a-timeshare-in-florida-how-can-i-disclaim-this-inheritance-914f9823?mod=mw_rss_topstories",
-            "summary": "“I want to address this issue proactively before it becomes urgent,” he says. “I’m not going to wait for something to become urgent.”",
-            "date": "Fri, 20 Mar 2026 13:48:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0000TWOQ.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?",
-            "link": "https://www.marketwatch.com/story/the-money-is-tax-free-im-76-and-won-50-000-in-a-settlement-related-to-cancer-from-nuclear-waste-what-should-i-do-with-it-5549449e?mod=mw_rss_topstories",
-            "summary": "“The money is tax-free and does not affect our income, which comes from investments and Social Security,” she says.",
-            "date": "Fri, 20 Mar 2026 13:47:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JACK",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fed’s Waller says he doesn’t support rate hikes, sees inflation cooling in the second half of the year",
-            "link": "https://www.marketwatch.com/story/feds-waller-says-he-doesnt-support-rate-hikes-sees-inflation-cooling-in-second-half-of-the-year-3ca9f671?mod=mw_rss_topstories",
-            "summary": "If oil prices stay high for months, they could bleed through to other prices, Fed governor Christopher Waller says. Waller is a former Fed governor and a member of the Federal Reserve Board.",
-            "date": "Fri, 20 Mar 2026 13:46:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FEDS.IL",
-            "impact": "Neutral"
         }
     ]
 }
