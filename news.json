@@ -1,125 +1,125 @@
 {
-    "date": "2026-03-25",
+    "date": "2026-03-26",
     "news": [
         {
-            "title": "Iran won't accept U.S. effort at ceasefire in war, state media reports",
-            "link": "https://www.cnbc.com/2026/03/25/iran-war-us-trump.html",
-            "summary": "U.S. President Donald Trump has claimed the United States and Iran are \"in negotiations now\" But the Islamic Republic denies any direct talks to end the war.",
-            "date": "Wed, 25 Mar 2026 13:15:45 GMT",
+            "title": "Trump says Iranian negotiators 'better get serious soon, before it is too late'",
+            "link": "https://www.cnbc.com/2026/03/26/trump-iran-negotiations.html",
+            "summary": "The comments come amid ongoing confusion over whether the U.S. and Iran have held negotiations over ending the war. Trump's comments come as the White House continues to investigate the claims. The White House has not commented on the reports.",
+            "date": "Thu, 26 Mar 2026 13:20:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3.SA",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
-            "link": "https://www.cnbc.com/2026/03/25/recession-odds-climb-on-wall-street-as-economy-shows-cracks-beneath-the-surface.html",
-            "summary": " Economists have pulled up their risk assessments of a contraction amid heightened uncertainty over geopolitical risk and a labor market slump. The U.S. economy is expected to contract for the first time in more than two years.",
-            "date": "Wed, 25 Mar 2026 13:22:06 GMT",
+            "title": "Meta's court defeats add to Zuckerberg's recent woes, represent 'watershed event' for social media",
+            "link": "https://www.cnbc.com/2026/03/26/meta-lawsuit-decision-zuckerberg-woes.html",
+            "summary": " Meta suffered stinging defeats in two separate trials involving child safety that underscore shifting public sentiment toward the social media industry. The social media giant was found guilty in both cases of child safety violations.",
+            "date": "Thu, 26 Mar 2026 13:26:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DE000SLA7TR2.SG",
+            "stock_ticker": "LABZ.CN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
+            "link": "https://www.cnbc.com/2026/03/26/global-forecasting-group-sees-us-inflation-at-4point2percent-this-year-much-higher-than-fed-estimate.html",
+            "summary": "The forecast is a sharp step up from the prior projection of 2.8%. Moreover, it is much higher than the 2.7% Fed officials estimated.",
+            "date": "Thu, 26 Mar 2026 14:02:43 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "COIN",
             "impact": "Bullish"
         },
         {
-            "title": "Hugo Barra's return to Meta 5 years after exit underscores Zuckerberg's AI urgency",
-            "link": "https://www.cnbc.com/2026/03/25/hugo-barras-return-to-meta-5-years-after-exit-underscores-ai-urgency.html",
-            "summary": "During Hugo Barra's first stint at Meta, the company was pushing heavily into VR. Now, he's back and the focus is AI agents.",
-            "date": "Wed, 25 Mar 2026 13:11:46 GMT",
+            "title": "Iran war will spare no major economy, says OECD — but the UK is more vulnerable than others",
+            "link": "https://www.cnbc.com/2026/03/26/uk-could-be-worse-hit-from-iran-war-of-all-major-economies-oecd.html",
+            "summary": "The U.K. is predicted to be worse hit by the Iran war than its developed market counterparts. The OECD said in its interim economic outlook on Thursday.",
+            "date": "Thu, 26 Mar 2026 14:06:52 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BOSS.DE",
+            "stock_ticker": "RANI3F.SA",
             "impact": "Neutral"
         },
         {
-            "title": "Mortgage demand drops more than 10% as rates hit the highest level since October",
-            "link": "https://www.cnbc.com/2026/03/25/mortgage-demand-drops-highest-level-since-october.html",
-            "summary": "Mortgage demand continued to tumble last week, as mortgage rates surged higher and affordability weakened further. Mortgage demand continues to tumble as rates surge and affordability weakens further.",
-            "date": "Wed, 25 Mar 2026 13:09:42 GMT",
+            "title": "What comes next? Three attack scenarios as U.S. sends thousands more troops to Middle East",
+            "link": "https://www.cnbc.com/2026/03/26/iran-war-trump-us-troops-kharg-island-qeshm-island-nuclear-middle-east.html",
+            "summary": "One of Iran's top lawmakers has said that they were anticipating a potential ground invasion of one of the country's islands. One of the top lawmakers said that the country was preparing for a ground invasion.",
+            "date": "Thu, 26 Mar 2026 13:35:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MGE=F",
+            "stock_ticker": "WHATS.BR",
             "impact": "Neutral"
         },
         {
-            "title": "Arm jumps 15% as company expects revenue windfall from new chip, a 'significant shift'",
-            "link": "https://www.cnbc.com/2026/03/25/arm-stock-chip-revenue-agi-cpu.html",
-            "summary": "Arm said it expects its new chip to generate six times more revenue in 2031 than the $4 billion it made in 2025. Arm said it expected to make $6 billion in revenue by 2031, up from $3.5 billion in 2025, and $2 billion in 2020.",
-            "date": "Wed, 25 Mar 2026 13:46:54 GMT",
+            "title": "An older relative wants to give my daughter $19,000 when she turns 18. I said no. Who’s right?",
+            "link": "https://www.marketwatch.com/story/an-older-relative-wants-to-give-my-daughter-19-000-when-she-turns-18-i-said-no-whos-right-f793a2f1?mod=mw_rss_topstories",
+            "summary": "“We don’t think it’s healthy for very young adults to have access to large sums of money without working for it,” he says.",
+            "date": "Thu, 26 Mar 2026 14:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ARM",
+            "stock_ticker": "AN",
             "impact": "Neutral"
         },
         {
-            "title": "Intel’s stock is climbing. Here’s why the company’s new chip launch is so significant.",
-            "link": "https://www.marketwatch.com/story/intels-stock-is-climbing-heres-why-the-companys-new-chip-launch-is-so-significant-52c79cff?mod=mw_rss_topstories",
-            "summary": "The launch of enterprise-focused processors shows that it’s ready to ship high volumes of products made with its new chip technology, an analyst said.",
-            "date": "Wed, 25 Mar 2026 13:56:00 GMT",
+            "title": "Here’s what airlines are offering passengers trapped in long TSA lines — and why travelers won’t get much else",
+            "link": "https://www.marketwatch.com/story/heres-what-airlines-are-offering-passengers-trapped-in-long-tsa-lines-and-why-travelers-wont-get-much-else-0cb139ae?mod=mw_rss_topstories",
+            "summary": "Airlines are making it easier and less expensive to change flights. Some airlines are also making it cheaper and easier to get a new flight.",
+            "date": "Thu, 26 Mar 2026 14:14:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OXLCM",
+            "stock_ticker": "WHATS.BR",
             "impact": "Neutral"
         },
         {
-            "title": "SpaceX could soon file for an IPO. Why EchoStar and other space stocks are rising.",
-            "link": "https://www.marketwatch.com/story/spacex-could-soon-file-for-an-ipo-why-echostar-and-other-space-stocks-are-rising-8850317f?mod=mw_rss_topstories",
-            "summary": "Elon Musk’s company could raise more than $75 billion, according to The Information. That would easily make for one of the biggest IPOs in history.",
-            "date": "Wed, 25 Mar 2026 13:53:00 GMT",
+            "title": "Micron’s stock falls further, but this analyst says bears are missing the point",
+            "link": "https://www.marketwatch.com/story/microns-stock-falls-further-but-this-analyst-says-bears-are-missing-the-point-5d59828a?mod=mw_rss_topstories",
+            "summary": "Investors are getting spooked about the historically cyclical memory market. But trends are “anything but normal” this time around, Morgan Stanley said.",
+            "date": "Thu, 26 Mar 2026 13:56:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPACEX39501-USD",
+            "stock_ticker": "20MICRONS.BO",
             "impact": "Neutral"
         },
         {
-            "title": "Elizabeth Warren raises concerns over MrBeast’s teen banking app — and its connection to a troubled bank",
-            "link": "https://www.marketwatch.com/story/elizabeth-warren-raises-alarm-over-mrbeasts-teen-banking-app-encouraging-risky-investments-ce7f58a4?mod=mw_rss_topstories",
-            "summary": "Sen. Elizabeth Warren is raising concerns about a popular YouTuber’s venture into financial services with his acquisition of a banking app. Step and its connection to Evolve Bank & Trust.",
-            "date": "Wed, 25 Mar 2026 13:46:00 GMT",
+            "title": "This ‘single greatest’ stock-market predictor has never been more bearish",
+            "link": "https://www.marketwatch.com/story/this-single-greatest-stock-market-predictor-has-never-been-more-bearish-5d8c48d1?mod=mw_rss_topstories",
+            "summary": "Retail investors have loaded up on stocks, which is typical before a bull market peaks. The U.S. stock market is expected to reach a record high in the coming months.",
+            "date": "Thu, 26 Mar 2026 13:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELIZABETH-USD",
-            "impact": "Neutral"
+            "stock_ticker": "THISX",
+            "impact": "Bullish"
         },
         {
-            "title": "Leading home builder says the Iran war is already hurting housing market",
-            "link": "https://www.marketwatch.com/story/kb-home-says-the-war-is-already-hurting-home-sales-as-it-cuts-guidance-2402c65e?mod=mw_rss_topstories",
-            "summary": " KB Home shares were under pressure on Wednesday after saying it’s already seeing prospective buyers deterred by the war. The Los Angeles home builder cut its full-year guidance.",
-            "date": "Wed, 25 Mar 2026 13:44:00 GMT",
+            "title": "Your stock portfolio soared on cheap risk — but now that moneymaker is done",
+            "link": "https://www.marketwatch.com/story/your-portfolio-soared-on-cheap-risk-but-thats-over-now-ba4b52d4?mod=mw_rss_topstories",
+            "summary": "Investors are waking up to the harsh realities and the financial penalties of a reordered, reactionary world. The world is becoming more reactionary, and investors are paying the price.",
+            "date": "Thu, 26 Mar 2026 13:32:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LEMIF",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Iran war volatility is pushing retail investors to sell stocks, but they aren’t leaving the market entirely",
-            "link": "https://www.marketwatch.com/story/iran-war-volatility-is-pushing-retail-investors-to-sell-stocks-but-they-arent-leaving-the-market-entirely-734826f5?mod=mw_rss_topstories",
-            "summary": "Retail investors are gaining exposure to the market beyond single stocks. Retail investors are gain exposure to markets beyond just single stocks, analysts say.",
-            "date": "Wed, 25 Mar 2026 13:42:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RANI3.SA",
-            "impact": "Neutral"
+            "stock_ticker": "RTV.DE",
+            "impact": "Bullish"
         }
     ]
 }
