@@ -1,71 +1,95 @@
 {
-    "date": "2026-03-26",
+    "date": "2026-03-27",
     "news": [
         {
-            "title": "Trump says Iranian negotiators 'better get serious soon, before it is too late'",
-            "link": "https://www.cnbc.com/2026/03/26/trump-iran-negotiations.html",
-            "summary": "The comments come amid ongoing confusion over whether the U.S. and Iran have held negotiations over ending the war. Trump's comments come as the White House continues to investigate the claims. The White House has not commented on the reports.",
-            "date": "Thu, 26 Mar 2026 13:20:20 GMT",
+            "title": "Brent oil tops $110 again after Chinese ships are turned away from Strait of Hormuz",
+            "link": "https://www.cnbc.com/2026/03/27/oil-price-wti-brent-crude-trump-strait-hormuz-tensions-iran-ships.html",
+            "summary": "Oil prices traded higher after U.S. President Donald Trump said Iran had allowed 10 oil tankers to pass through the Strait of Hormuz.",
+            "date": "Fri, 27 Mar 2026 12:44:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "BZ=F",
             "impact": "Neutral"
         },
         {
-            "title": "Meta's court defeats add to Zuckerberg's recent woes, represent 'watershed event' for social media",
-            "link": "https://www.cnbc.com/2026/03/26/meta-lawsuit-decision-zuckerberg-woes.html",
-            "summary": " Meta suffered stinging defeats in two separate trials involving child safety that underscore shifting public sentiment toward the social media industry. The social media giant was found guilty in both cases of child safety violations.",
-            "date": "Thu, 26 Mar 2026 13:26:30 GMT",
+            "title": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
+            "link": "https://www.cnbc.com/2026/03/27/markets-see-the-feds-next-move-as-a-potential-hike-as-oil-prices-inflation-fears-rise.html",
+            "summary": "Traders in the futures market shifted the probability of a rate increase by the end of 2026 to 52% on Friday morning. The U.S. Federal Reserve is expected to raise its benchmark rate to a record-high of 1.5% in December.",
+            "date": "Fri, 27 Mar 2026 12:40:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LABZ.CN",
+            "stock_ticker": "HOOD",
             "impact": "Neutral"
         },
         {
-            "title": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
-            "link": "https://www.cnbc.com/2026/03/26/global-forecasting-group-sees-us-inflation-at-4point2percent-this-year-much-higher-than-fed-estimate.html",
-            "summary": "The forecast is a sharp step up from the prior projection of 2.8%. Moreover, it is much higher than the 2.7% Fed officials estimated.",
-            "date": "Thu, 26 Mar 2026 14:02:43 GMT",
+            "title": "TSA funding update: Senate advances DHS bill, tees up House vote to end government shutdown",
+            "link": "https://www.cnbc.com/2026/03/27/dhs-tsa-shutdown-congress.html",
+            "summary": "Funding for the Department of Homeland Security lapsed in February. The lapse led to chaos at airports. The government is now fully funded again.",
+            "date": "Fri, 27 Mar 2026 13:56:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COIN",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Iran war will spare no major economy, says OECD — but the UK is more vulnerable than others",
-            "link": "https://www.cnbc.com/2026/03/26/uk-could-be-worse-hit-from-iran-war-of-all-major-economies-oecd.html",
-            "summary": "The U.K. is predicted to be worse hit by the Iran war than its developed market counterparts. The OECD said in its interim economic outlook on Thursday.",
-            "date": "Thu, 26 Mar 2026 14:06:52 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RANI3F.SA",
+            "stock_ticker": "TK41.F",
             "impact": "Neutral"
         },
         {
-            "title": "What comes next? Three attack scenarios as U.S. sends thousands more troops to Middle East",
-            "link": "https://www.cnbc.com/2026/03/26/iran-war-trump-us-troops-kharg-island-qeshm-island-nuclear-middle-east.html",
-            "summary": "One of Iran's top lawmakers has said that they were anticipating a potential ground invasion of one of the country's islands. One of the top lawmakers said that the country was preparing for a ground invasion.",
-            "date": "Thu, 26 Mar 2026 13:35:30 GMT",
+            "title": "Novartis shells out $2 billion for immunology biotech Excellergy, in second multi-billion dollar deal in a week",
+            "link": "https://www.cnbc.com/2026/03/27/novartis-nvs-stock-excellergy-buy-biotech-deal.html",
+            "summary": "The Swiss pharma giant is betting on a next-generation allergy treatment that may prove to work faster and better than anything currently on the market.",
+            "date": "Fri, 27 Mar 2026 11:43:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHATS.BR",
+            "stock_ticker": "NVS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Iran war wipes out $100 billion from luxury stocks",
+            "link": "https://www.cnbc.com/2026/03/27/iran-war-wipes-out-100-billion-from-luxury-stocks.html",
+            "summary": "Middle East tensions come at a critical time in the luxury industry. Dubai in the UAE has been the biggest driver of growth in recent years.",
+            "date": "Fri, 27 Mar 2026 14:01:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RANI3.SA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My PayPal account received money from the Philippines with two phone numbers listed. I called them. Big mistake.",
+            "link": "https://www.marketwatch.com/story/my-paypal-account-received-money-from-the-philippines-with-two-phone-numbers-listed-i-called-them-big-mistake-5cd4cd47?mod=mw_rss_topstories",
+            "summary": "“I know my information is on the dark web, and I have taken steps to be cautious,” she said. “I have taken measures to be careful,’ she said, “and I’m not alone.”",
+            "date": "Fri, 27 Mar 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SGDMYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Uncertainty around Social Security, taxes and healthcare is bad for households — and the economy",
+            "link": "https://www.marketwatch.com/story/uncertainty-around-social-security-taxes-and-healthcare-is-bad-for-households-and-the-economy-0deed7b4?mod=mw_rss_topstories",
+            "summary": "Workers and retirees are anxious when faced with unpredictable policies. Workers and retirees face an uncertain future under the new administration. The U.S. government is expected to announce new policies in the coming weeks.",
+            "date": "Fri, 27 Mar 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AT1.DE",
             "impact": "Neutral"
         },
         {
             "title": "An older relative wants to give my daughter $19,000 when she turns 18. I said no. Who’s right?",
             "link": "https://www.marketwatch.com/story/an-older-relative-wants-to-give-my-daughter-19-000-when-she-turns-18-i-said-no-whos-right-f793a2f1?mod=mw_rss_topstories",
             "summary": "“We don’t think it’s healthy for very young adults to have access to large sums of money without working for it,” he says.",
-            "date": "Thu, 26 Mar 2026 14:16:00 GMT",
+            "date": "Fri, 27 Mar 2026 13:34:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,52 +98,28 @@
             "impact": "Neutral"
         },
         {
-            "title": "Here’s what airlines are offering passengers trapped in long TSA lines — and why travelers won’t get much else",
-            "link": "https://www.marketwatch.com/story/heres-what-airlines-are-offering-passengers-trapped-in-long-tsa-lines-and-why-travelers-wont-get-much-else-0cb139ae?mod=mw_rss_topstories",
-            "summary": "Airlines are making it easier and less expensive to change flights. Some airlines are also making it cheaper and easier to get a new flight.",
-            "date": "Thu, 26 Mar 2026 14:14:00 GMT",
+            "title": "Mortgage rates climb for the fourth week in a row — and they won’t drop back down until this happens",
+            "link": "https://www.marketwatch.com/story/mortgage-rates-climb-for-the-fourth-week-in-a-row-and-they-wont-drop-back-down-until-this-happens-6b36757b?mod=mw_rss_topstories",
+            "summary": "Rates had fallen under 6% for the first time since 2022 just days before the start of Operation Epic Fury. Rates had fallen below 6% just days earlier before the operation began.",
+            "date": "Fri, 27 Mar 2026 13:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHATS.BR",
+            "stock_ticker": "MGE=F",
             "impact": "Neutral"
         },
         {
-            "title": "Micron’s stock falls further, but this analyst says bears are missing the point",
-            "link": "https://www.marketwatch.com/story/microns-stock-falls-further-but-this-analyst-says-bears-are-missing-the-point-5d59828a?mod=mw_rss_topstories",
-            "summary": "Investors are getting spooked about the historically cyclical memory market. But trends are “anything but normal” this time around, Morgan Stanley said.",
-            "date": "Thu, 26 Mar 2026 13:56:00 GMT",
+            "title": "The two reasons higher oil prices may not trigger the inflationary spike that investors fear",
+            "link": "https://www.marketwatch.com/story/the-two-reasons-higher-oil-prices-may-not-trigger-the-inflationary-spike-that-investors-fear-a807991f?mod=mw_rss_topstories",
+            "summary": "The economy is better suited to absorb higher energy costs, says Jim Paulsen. Paulsen: The U.S. is better positioned to deal with the cost of energy.",
+            "date": "Fri, 27 Mar 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "20MICRONS.BO",
+            "stock_ticker": "JACK",
             "impact": "Neutral"
-        },
-        {
-            "title": "This ‘single greatest’ stock-market predictor has never been more bearish",
-            "link": "https://www.marketwatch.com/story/this-single-greatest-stock-market-predictor-has-never-been-more-bearish-5d8c48d1?mod=mw_rss_topstories",
-            "summary": "Retail investors have loaded up on stocks, which is typical before a bull market peaks. The U.S. stock market is expected to reach a record high in the coming months.",
-            "date": "Thu, 26 Mar 2026 13:50:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THISX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Your stock portfolio soared on cheap risk — but now that moneymaker is done",
-            "link": "https://www.marketwatch.com/story/your-portfolio-soared-on-cheap-risk-but-thats-over-now-ba4b52d4?mod=mw_rss_topstories",
-            "summary": "Investors are waking up to the harsh realities and the financial penalties of a reordered, reactionary world. The world is becoming more reactionary, and investors are paying the price.",
-            "date": "Thu, 26 Mar 2026 13:32:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RTV.DE",
-            "impact": "Bullish"
         }
     ]
 }
