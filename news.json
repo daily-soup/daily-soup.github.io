@@ -1,71 +1,107 @@
 {
-    "date": "2026-03-27",
+    "date": "2026-03-28",
     "news": [
         {
-            "title": "Brent oil tops $110 again after Chinese ships are turned away from Strait of Hormuz",
-            "link": "https://www.cnbc.com/2026/03/27/oil-price-wti-brent-crude-trump-strait-hormuz-tensions-iran-ships.html",
-            "summary": "Oil prices traded higher after U.S. President Donald Trump said Iran had allowed 10 oil tankers to pass through the Strait of Hormuz.",
-            "date": "Fri, 27 Mar 2026 12:44:36 GMT",
+            "title": "Yemen's Houthis launch Israel strike, the first time since the U.S.-Israel war began",
+            "link": "https://www.cnbc.com/2026/03/28/yemens-houthis-launch-israel-strike-the-first-of-the-iran-war.html",
+            "summary": "The entry of the Houthis in the war marks a significant escalation in the conflict. The conflict in Yemen is now in its second month.",
+            "date": "Sat, 28 Mar 2026 11:55:23 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BZ=F",
+            "stock_ticker": "MAXQ.NE",
             "impact": "Neutral"
         },
         {
-            "title": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
-            "link": "https://www.cnbc.com/2026/03/27/markets-see-the-feds-next-move-as-a-potential-hike-as-oil-prices-inflation-fears-rise.html",
-            "summary": "Traders in the futures market shifted the probability of a rate increase by the end of 2026 to 52% on Friday morning. The U.S. Federal Reserve is expected to raise its benchmark rate to a record-high of 1.5% in December.",
-            "date": "Fri, 27 Mar 2026 12:40:04 GMT",
+            "title": "Analysis: A new oil shock is building. The next few weeks of war will be decisive for the economy.",
+            "link": "https://www.cnbc.com/2026/03/28/oil-gas-prices-iran-war-hormuz.html",
+            "summary": "Energy markets are starting to reflect the growing risk of physical supply disruptions, says Andrew Keen. Keen: \"The world needs to be prepared for the possibility of a physical supply disruption\"",
+            "date": "Sat, 28 Mar 2026 11:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HOOD",
-            "impact": "Neutral"
+            "stock_ticker": "3587.TWO",
+            "impact": "Bullish"
         },
         {
-            "title": "TSA funding update: Senate advances DHS bill, tees up House vote to end government shutdown",
-            "link": "https://www.cnbc.com/2026/03/27/dhs-tsa-shutdown-congress.html",
-            "summary": "Funding for the Department of Homeland Security lapsed in February. The lapse led to chaos at airports. The government is now fully funded again.",
-            "date": "Fri, 27 Mar 2026 13:56:18 GMT",
+            "title": "How the big oil and gas CEOs think the Iran war supply disruption will play out",
+            "link": "https://www.cnbc.com/2026/03/28/iran-war-oil-companies-price-gas-diesel-strait-hormuz.html",
+            "summary": "The oil industry's grim outlook for global oil and gas supplies stands in contrast to the Trump administration's promise that the disruption is short term.",
+            "date": "Sat, 28 Mar 2026 12:09:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TK41.F",
-            "impact": "Neutral"
+            "stock_ticker": "HWM",
+            "impact": "Bullish"
         },
         {
-            "title": "Novartis shells out $2 billion for immunology biotech Excellergy, in second multi-billion dollar deal in a week",
-            "link": "https://www.cnbc.com/2026/03/27/novartis-nvs-stock-excellergy-buy-biotech-deal.html",
-            "summary": "The Swiss pharma giant is betting on a next-generation allergy treatment that may prove to work faster and better than anything currently on the market.",
-            "date": "Fri, 27 Mar 2026 11:43:54 GMT",
+            "title": "As stocks and bonds fall, and oil hits $100, a futures trade that boomed in 2022 may again be a winner",
+            "link": "https://www.cnbc.com/2026/03/28/market-correction-futures-hedging-strategies.html",
+            "summary": "Managed futures, which track macro themes expected to play out over months, do well when traditional assets are falling. This could be one of those times.",
+            "date": "Sat, 28 Mar 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVS",
+            "stock_ticker": "AS",
             "impact": "Neutral"
         },
         {
-            "title": "Iran war wipes out $100 billion from luxury stocks",
-            "link": "https://www.cnbc.com/2026/03/27/iran-war-wipes-out-100-billion-from-luxury-stocks.html",
-            "summary": "Middle East tensions come at a critical time in the luxury industry. Dubai in the UAE has been the biggest driver of growth in recent years.",
-            "date": "Fri, 27 Mar 2026 14:01:07 GMT",
+            "title": "Berkshire shares suffer longest losing streak in more than 7 years",
+            "link": "https://www.cnbc.com/2026/03/28/berkshire-shares-suffer-longest-losing-streak-in-more-than-7-years.html",
+            "summary": "Berkshire Hathaway shares have lost ground for eight consecutive days. It is their longest losing streak since December of 2018. Berkshire Hathaway is owned by Warren Buffett and other prominent investors.",
+            "date": "Sat, 28 Mar 2026 11:55:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3.SA",
+            "stock_ticker": "BRK-B",
             "impact": "Neutral"
         },
         {
-            "title": "My PayPal account received money from the Philippines with two phone numbers listed. I called them. Big mistake.",
-            "link": "https://www.marketwatch.com/story/my-paypal-account-received-money-from-the-philippines-with-two-phone-numbers-listed-i-called-them-big-mistake-5cd4cd47?mod=mw_rss_topstories",
-            "summary": "“I know my information is on the dark web, and I have taken steps to be cautious,” she said. “I have taken measures to be careful,’ she said, “and I’m not alone.”",
-            "date": "Fri, 27 Mar 2026 14:00:00 GMT",
+            "title": "‘He didn’t seem very alert’: Our CPA said we owe the IRS $443, but we’re actually due a refund of $637. Do we fire him?",
+            "link": "https://www.marketwatch.com/story/he-didnt-seem-very-alert-our-new-cpa-said-we-owe-a-443-tax-refund-but-were-actually-due-637-do-we-fire-him-82590675?mod=mw_rss_topstories",
+            "summary": "“We’re both concerned about the accuracy of our returns,” he says. “We are both concerned that we’ve done the right thing.”",
+            "date": "Sat, 28 Mar 2026 13:33:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘What felt like a great deal turned into a $150 night’: How am I supposed to have fun without going broke?",
+            "link": "https://www.marketwatch.com/story/what-felt-like-a-great-deal-turned-into-a-150-night-how-am-i-supposed-to-have-fun-without-going-broke-ced48667?mod=mw_rss_topstories",
+            "summary": "“How can I strike a balance between enjoying the present and saving for the future?” she asks. “How do I balance the two?’",
+            "date": "Sat, 28 Mar 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHATS.BR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These 2 chip stocks could be cheaper ways to invest in a hot AI trend",
+            "link": "https://www.marketwatch.com/story/these-2-chip-stocks-could-be-cheaper-ways-to-invest-in-a-hot-ai-trend-fc52000a?mod=mw_rss_topstories",
+            "summary": "Shares of Veeco and Axcelis have lagged their larger semiconductor-equipment peers. This makes them potentially compelling opportunities for investors.",
+            "date": "Sat, 28 Mar 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001YPM3.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My brother says lawyers can get him a Medicaid nursing home in Florida for a ‘hefty fee,’ despite his assets. Is this a scam?",
+            "link": "https://www.marketwatch.com/story/my-brother-says-lawyers-can-get-him-into-a-medicaid-nursing-home-despite-his-many-assets-is-this-a-scam-614c2f85?mod=mw_rss_topstories",
+            "summary": "“I do not believe there is a way to preserve assets and still qualify for Medicaid,” he says. “I don’t believe there’s a way.”",
+            "date": "Sat, 28 Mar 2026 12:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "Uncertainty around Social Security, taxes and healthcare is bad for households — and the economy",
-            "link": "https://www.marketwatch.com/story/uncertainty-around-social-security-taxes-and-healthcare-is-bad-for-households-and-the-economy-0deed7b4?mod=mw_rss_topstories",
-            "summary": "Workers and retirees are anxious when faced with unpredictable policies. Workers and retirees face an uncertain future under the new administration. The U.S. government is expected to announce new policies in the coming weeks.",
-            "date": "Fri, 27 Mar 2026 14:00:00 GMT",
+            "title": "Gas prices are nearing this ‘psychological wall.’ One group of drivers might smash right through.",
+            "link": "https://www.marketwatch.com/story/gas-prices-are-nearing-this-psychological-wall-one-group-of-drivers-might-smash-right-through-7605bdd8?mod=mw_rss_topstories",
+            "summary": "“The economy feels a bit miserable right now,” one financial-wellness expert says. “I’m shifting from autopilot to a more intentional strategy.”",
+            "date": "Sat, 28 Mar 2026 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AT1.DE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "An older relative wants to give my daughter $19,000 when she turns 18. I said no. Who’s right?",
-            "link": "https://www.marketwatch.com/story/an-older-relative-wants-to-give-my-daughter-19-000-when-she-turns-18-i-said-no-whos-right-f793a2f1?mod=mw_rss_topstories",
-            "summary": "“We don’t think it’s healthy for very young adults to have access to large sums of money without working for it,” he says.",
-            "date": "Fri, 27 Mar 2026 13:34:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Mortgage rates climb for the fourth week in a row — and they won’t drop back down until this happens",
-            "link": "https://www.marketwatch.com/story/mortgage-rates-climb-for-the-fourth-week-in-a-row-and-they-wont-drop-back-down-until-this-happens-6b36757b?mod=mw_rss_topstories",
-            "summary": "Rates had fallen under 6% for the first time since 2022 just days before the start of Operation Epic Fury. Rates had fallen below 6% just days earlier before the operation began.",
-            "date": "Fri, 27 Mar 2026 13:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MGE=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The two reasons higher oil prices may not trigger the inflationary spike that investors fear",
-            "link": "https://www.marketwatch.com/story/the-two-reasons-higher-oil-prices-may-not-trigger-the-inflationary-spike-that-investors-fear-a807991f?mod=mw_rss_topstories",
-            "summary": "The economy is better suited to absorb higher energy costs, says Jim Paulsen. Paulsen: The U.S. is better positioned to deal with the cost of energy.",
-            "date": "Fri, 27 Mar 2026 13:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JACK",
+            "stock_ticker": "NG=F",
             "impact": "Neutral"
         }
     ]
