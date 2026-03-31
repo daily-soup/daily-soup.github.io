@@ -1,125 +1,125 @@
 {
-    "date": "2026-03-30",
+    "date": "2026-03-31",
     "news": [
         {
-            "title": "Trump says U.S. will destroy Iran’s oil wells, Kharg Island without deal to 'immediately' reopen Hormuz Strait",
-            "link": "https://www.cnbc.com/2026/03/30/trump-iran-war-obliterate-kharg-island-strait-of-hormuz-peace-deal.html",
-            "summary": "The U.S. will obliterate all of Iran's electric generating plants, oil wells and Kharg Island if a peace deal is not reached.",
-            "date": "Mon, 30 Mar 2026 13:20:52 GMT",
+            "title": "Warren Buffett says he sold Apple too soon and would buy more of it, though not in this market",
+            "link": "https://www.cnbc.com/2026/03/31/warren-buffett-says-he-sold-apple-too-soon-and-would-buy-more-of-it-though-not-in-this-market-.html",
+            "summary": "Apple remains Berkshire Hathaway's largest holding even after the conglomerate trimmed its stake at the end of last year. Apple remains the world's most valuable company, with a market value of more than $1 trillion.",
+            "date": "Tue, 31 Mar 2026 13:11:29 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PWR.XA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump lashes out at UK and France, telling allies 'the U.S.A. won't be there to help you anymore'",
+            "link": "https://www.cnbc.com/2026/03/31/trump-attacks-uk-france-x-posts-tells-allies-the-usa-wont-help-anymore.html",
+            "summary": "The U.S. and Israel are conducting a military operation against Iran. President Trump has criticized European allies for refusing to take part in the operation.",
+            "date": "Tue, 31 Mar 2026 13:25:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Neutral"
+            "impact": "Bullish"
         },
         {
-            "title": "Russia welcomes arrival of oil tanker in Cuba after Trump softens approach to U.S. blockade",
-            "link": "https://www.cnbc.com/2026/03/30/cuba-crisis-trump-fuel-oil-bloackade-energy-russia-tanker-tariffs.html",
-            "summary": "A Russian oil tanker carrying a humanitarian shipment of 100,000 tons of crude oil reportedly arrived in Cuba on Monday. The shipment is part of a humanitarian effort to help the Cuban people.",
-            "date": "Mon, 30 Mar 2026 13:04:16 GMT",
+            "title": "McCormick buys Unilever's food business in deal that values it at nearly $45 billion",
+            "link": "https://www.cnbc.com/2026/03/31/mccormick-buys-unilever-food-business.html",
+            "summary": "McCormick to pay combination of cash and equity to expand further into condiments and spreads. McCormick will pay a combination ofcash and equity.",
+            "date": "Tue, 31 Mar 2026 14:10:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CEC.PA",
+            "stock_ticker": "MKC",
             "impact": "Neutral"
         },
         {
-            "title": "Trump reportedly wants to 'take the oil in Iran' as Tehran targets water, power facilities in Kuwait",
-            "link": "https://www.cnbc.com/2026/03/30/trump-iran-oil-middle-east-war-israel-us-kuwait-attack-.html",
-            "summary": "The Middle East conflict has entered its fifth week, with attacks expanding across the region. The attacks are raising risks to energy and infrastructure, according to the U.N.",
-            "date": "Mon, 30 Mar 2026 13:07:30 GMT",
+            "title": "Epstein files: Buffett says he hasn't talked to Bill Gates 'since the whole thing was unveiled'",
+            "link": "https://www.cnbc.com/2026/03/31/warren-buffett-bill-gates-epstein.html",
+            "summary": "Microsoft founder Bill Gates is one of many high-profile people who have suffered reputational fallout from their relationship with Jeffrey Epstein. Bill Gates has been accused of having an affair with Epstein.",
+            "date": "Tue, 31 Mar 2026 14:18:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "0P0001BS00.L",
             "impact": "Neutral"
         },
         {
-            "title": "401(k) alternative asset rule proposed by Labor Department",
-            "link": "https://www.cnbc.com/2026/03/30/401ks-alternative-investments.html",
-            "summary": "The Department of Labor has proposed a rule regarding how plan sponsors and fiduciaries can include alternative assets in 401(k) retirement accounts.",
-            "date": "Mon, 30 Mar 2026 14:19:32 GMT",
+            "title": "Marvell stock pops 8% as Nvidia takes $2 billion stake, continuing run of similar bets",
+            "link": "https://www.cnbc.com/2026/03/31/marvell-nvidia-stock-stake.html",
+            "summary": ". Nvidia has also made $2 billion investments in CoreWeave, Nebius and Coherent in recent months. Nvidia also has a $1.5 billion investment in cloud-computing company Cogent.",
+            "date": "Tue, 31 Mar 2026 14:19:10 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XFLT",
+            "stock_ticker": "MRVL",
             "impact": "Neutral"
         },
         {
-            "title": "Watch Fed Chair Jerome Powell speak live to an economics class at Harvard",
-            "link": "https://www.cnbc.com/2026/03/30/watch-fed-chair-jerome-powell-speak-live-to-an-economics-class-at-harvard.html",
-            "summary": "Powell's final scheduled public appearance before his term ends in May. This will be one of his last scheduled public appearances before he leaves the White House.",
-            "date": "Mon, 30 Mar 2026 14:15:01 GMT",
+            "title": "McCormick’s stock having worst month in 46 years, as investor frown on Unilever Foods deal",
+            "link": "https://www.marketwatch.com/story/mccormick-looks-to-merge-with-unilevers-food-business-but-theres-no-mention-in-earnings-report-88e98464?mod=mw_rss_topstories",
+            "summary": "McCormick's stock was headed for its worst month since September 1980. McCormick announced terms of a $44.8 billion deal to combine with Unilever’s foods business.",
+            "date": "Tue, 31 Mar 2026 14:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "7762.T",
+            "stock_ticker": "MAKO",
             "impact": "Neutral"
         },
         {
-            "title": "I’m 75 and retired. Should I put my life savings into CDs or hire a financial adviser to help?",
-            "link": "https://www.marketwatch.com/story/im-75-and-retired-should-i-put-my-life-savings-into-cds-or-hire-a-financial-adviser-to-help-8c82fb03?mod=mw_rss_topstories",
-            "summary": "“At my age, I want minimal to moderate risk,” he says. “At his age, he wants minimal tomoderate risk.”",
-            "date": "Mon, 30 Mar 2026 14:00:00 GMT",
+            "title": "More college students will need to turn to private loans to pay for school — but 40% of Americans won’t qualify, according to a new report",
+            "link": "https://www.marketwatch.com/story/more-college-students-will-need-to-turn-to-private-loans-to-pay-for-school-but-40-of-americans-wont-qualify-according-to-a-new-report-db70f86d?mod=mw_rss_topstories",
+            "summary": "Federal government set to pull back significantly from lending to students. Private student lenders are gearing up to fill the void. A new report indicates a large share of students could be left behind.",
+            "date": "Tue, 31 Mar 2026 14:14:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
+            "stock_ticker": "MORE.TO",
+            "impact": "Bullish"
         },
         {
-            "title": "Why Oracle’s stock may be a ‘go-to’ AI winner that investors are overlooking",
-            "link": "https://www.marketwatch.com/story/why-oracles-stock-may-be-a-go-to-ai-winner-that-investors-are-overlooking-b9fcb6bd?mod=mw_rss_topstories",
-            "summary": "Oracle's stock has been weighed down by fears of overspending on AI. Bernstein believes the company's big bet is on track to pay off.",
-            "date": "Mon, 30 Mar 2026 14:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHY-USD",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Gas prices are nearing this ‘psychological wall.’ One group of drivers could cruise right through.",
+            "title": "$4 gas is here — but one group of drivers could cruise through this ‘psychological wall’",
             "link": "https://www.marketwatch.com/story/gas-prices-are-nearing-this-psychological-wall-one-group-of-drivers-might-smash-right-through-7605bdd8?mod=mw_rss_topstories",
             "summary": "“The economy feels a bit miserable right now,” one financial-wellness expert says. “I’m shifting from autopilot to a more intentional strategy.”",
-            "date": "Mon, 30 Mar 2026 13:59:00 GMT",
+            "date": "Tue, 31 Mar 2026 14:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NG=F",
+            "stock_ticker": "45U=F",
             "impact": "Neutral"
         },
         {
-            "title": "Gold’s bull run could be nearing its finish line, says UBS strategist",
-            "link": "https://www.marketwatch.com/story/golds-bull-run-could-be-nearing-its-finish-line-says-ubs-strategist-0f2d94f8?mod=mw_rss_topstories",
-            "summary": "Bullion prices may fall if the Federal Reserve decides to hold interest rates for the rest of the year, which the market has priced in.",
-            "date": "Mon, 30 Mar 2026 13:44:00 GMT",
+            "title": "Amazon’s satellite business gets another win as it seeks to challenge Musk’s Starlink",
+            "link": "https://www.marketwatch.com/story/amazons-satellite-business-gets-another-win-as-it-seeks-to-challenge-musks-starlink-9ecd6773?mod=mw_rss_topstories",
+            "summary": "Delta Air Lines says it will equip hundreds of aircraft with Amazon’s nascent satellite-internet system. Delta Air Lines said it would equip Hundreds of Aircraft with Amazon's nascent satellite internet system.",
+            "date": "Tue, 31 Mar 2026 14:02:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^XAU",
+            "stock_ticker": "GILT",
             "impact": "Neutral"
         },
         {
-            "title": "The market’s wobble amid Iran war has left world-beating U.S. stocks ‘extremely cheap,’ says Bill Ackman",
-            "link": "https://www.marketwatch.com/story/the-markets-iran-war-wobble-has-left-world-beating-u-s-stocks-extremely-cheap-says-bill-ackman-6d135e49?mod=mw_rss_topstories",
-            "summary": "Hedge-fund billionaire John Paulson says investors should ignore the bears. He says the U.S. economy is in good shape and will continue to do so.",
-            "date": "Mon, 30 Mar 2026 13:31:00 GMT",
+            "title": "Here’s what’s worth streaming in April 2026 on Netflix, Hulu, HBO Max and more",
+            "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-april-2026-on-netflix-hulu-hbo-max-and-more-e6e085e7?mod=mw_rss_topstories",
+            "summary": "HBO Max has new seasons of ‘Hacks’ and ‘Euphoria’ Hulu revives ‘Malcolm in the Middle’",
+            "date": "Tue, 31 Mar 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ERNAW",
-            "impact": "Neutral"
+            "stock_ticker": "WHATS.BR",
+            "impact": "Bullish"
         }
     ]
 }
