@@ -1,124 +1,124 @@
 {
-    "date": "2026-04-01",
+    "date": "2026-04-02",
     "news": [
         {
-            "title": "Trump says Iran's president asked for ceasefire, but U.S. wants Hormuz Strait open first",
-            "link": "https://www.cnbc.com/2026/04/01/trump-iran-war-ceasefire.html",
-            "summary": "The war began in late February when the U.S. and Israel launched strikes on Iran. The strikes caused economic turmoil and massive global energy disruptions.",
-            "date": "Wed, 01 Apr 2026 13:36:41 GMT",
+            "title": "Oil prices soar 13% as Trump's Iran war speech stokes fears of further escalation",
+            "link": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
+            "summary": "Oil surged as Trump in his address to the nation on Iran war said that he expected the conflict to last another two to three weeks. Oil surged asTrump in his speech on Iran War said he expected that the conflict would last another 2 to 3 weeks.",
+            "date": "Thu, 02 Apr 2026 13:27:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "CL=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Tesla reports 358,000 first-quarter vehicle deliveries, down 14% from last quarter",
+            "link": "https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html",
+            "summary": "Tesla is coming off a year of declining deliveries due in part to increased competition from rivals in China offering lower-cost models. Tesla is based in Palo Alto, California.",
+            "date": "Thu, 02 Apr 2026 14:02:35 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSLA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Coca-Cola unveils ad campaign with 13 restaurant chains to boost drink sales as diner traffic falls",
+            "link": "https://www.cnbc.com/2026/04/02/coca-cola-ad-campaign-dominos-wendys-wingstop.html",
+            "summary": "The restaurant industry has been struggling with declining traffic and sluggish sales growth. The restaurant industry is facing a number of issues, including declining sales growth and declining traffic.",
+            "date": "Thu, 02 Apr 2026 13:12:14 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "One year on from Trump's 'liberation day,' global investors are rethinking American exceptionalism",
+            "link": "https://www.cnbc.com/2026/04/02/liberation-day-1-year-on-investors-are-rethinking-us-assets.html",
+            "summary": "U.S. exceptionalism is \"no longer automatic\" among global investors, one market watcher says. U.N. Secretary-General Ban Ki-moon has called for a U.S.-led global effort to improve the economy. The United States is the largest economy in the world.",
+            "date": "Thu, 02 Apr 2026 12:58:41 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SR1=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "DHS shutdown: Senate advances deal to fund agency with TSA, waits on House",
+            "link": "https://www.cnbc.com/2026/04/02/tsa-dhs-shutdown-senate-house.html",
+            "summary": "The Department of Homeland Security shutdown that sowed chaos in airports across the country could draw to a close. GOP leaders coalesced around a deal.",
+            "date": "Thu, 02 Apr 2026 13:28:24 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DHS",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Pariah Capital won the first quarter — and it’s winning the war",
+            "link": "https://www.marketwatch.com/story/pariah-capital-won-the-first-quarter-and-its-winning-the-war-ec2978e2?mod=mw_rss_topstories",
+            "summary": "The imaginary fund created by MarketWatch that invests in stocks hated by Wall Street has outperformed the S&amp;P 500, the Nasdaq and most active fund managers.",
+            "date": "Thu, 02 Apr 2026 14:07:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NLY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Tesla’s stock falls as new numbers show weakness in both the EV and energy businesses",
+            "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-new-numbers-show-weakness-in-both-the-ev-and-energy-businesses-740ae2a0?mod=mw_rss_topstories",
+            "summary": "Elon Musk's company reported vehicle sales and energy-storage deployments well below Wall Street’s expectations. Musk: “I don’t think we’ve seen anything like this in our history.”",
+            "date": "Thu, 02 Apr 2026 13:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HMH",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Investor in pre-IPO Apple: Questionable management, price is rich, but the sector is hot",
+            "link": "https://www.marketwatch.com/story/sequoia-capitals-early-investment-in-a-trillion-dollar-tech-giant-with-questionable-management-f05d2763?mod=mw_rss_topstories",
+            "summary": "Venture capitalist Don Valentine invested $150,000 in Apple in 1978. Valentine invested two years before the startup went public. Apple went public in 1986.",
+            "date": "Thu, 02 Apr 2026 13:51:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "OHI",
             "impact": "Bullish"
         },
         {
-            "title": "Iran threatens Nvidia, Apple and other tech giants with attacks",
-            "link": "https://www.cnbc.com/2026/04/01/iran-irgc-nvidia-appple-attack-threat.html",
-            "summary": "Iran's Revolutionary Guard has warned a number of tech companies with Middle East operations that they'll be considered \"legitimate targets\" The tech companies include Apple, Google, Facebook, Microsoft and Twitter.",
-            "date": "Wed, 01 Apr 2026 12:56:14 GMT",
+            "title": "Airline stocks drop, but worries over rising fuel prices haven’t hurt travel demand yet",
+            "link": "https://www.marketwatch.com/story/airline-stocks-drop-but-worries-over-rising-fuel-prices-havent-hurt-travel-demand-yet-e79d9e10?mod=mw_rss_topstories",
+            "summary": "Airline stocks are falling amid renewed worries about rising fuel costs, and how that could eventually hurt travel demand. Airline stocks were falling amid renewed worries aboutrising fuel costs.",
+            "date": "Thu, 02 Apr 2026 13:46:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3F.SA",
+            "stock_ticker": "AAL",
             "impact": "Neutral"
         },
         {
-            "title": "Supreme Court hears birthright citizenship case with Trump in room",
-            "link": "https://www.cnbc.com/2026/04/01/trump-supreme-court-birthright-citizenship.html",
-            "summary": "Babies born in the U.S. are not entitled to citizenship if their parents are illegal immigrants or undocumented workers. Trump's executive order says babies born to illegal immigrants are not eligible for citizenship.",
-            "date": "Wed, 01 Apr 2026 14:18:28 GMT",
+            "title": "The S&P 500 could hit bottom by May — and 6,000 is the stock market’s correction floor",
+            "link": "https://www.marketwatch.com/story/the-s-p-500-could-hit-bottom-by-may-and-6-000-is-the-stock-markets-correction-floor-ab151500?mod=mw_rss_topstories",
+            "summary": "Strong one-day rallies are far more common in weak markets. Strong one- day rallies are more common when markets are in a state of weakness.",
+            "date": "Thu, 02 Apr 2026 13:41:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SUPREME.NS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
-            "link": "https://www.cnbc.com/2026/04/01/private-sector-hiring-totaled-62000-in-march-better-than-expected-adp-says.html",
-            "summary": "Health care and construction continued to provide nearly all the momentum. Private sector employment growth kept pace, but private sector employment grew at a slower rate.",
-            "date": "Wed, 01 Apr 2026 13:31:33 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "XOVR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Visa launches new AI tools to manage the charge dispute process",
-            "link": "https://www.cnbc.com/2026/04/01/visa-ai-tools-dispute-management.html",
-            "summary": "Visa's new tools are part of a larger push by major banks and financial institutions to incorporate AI into their businesses. Visa is one of many banks that are looking to use AI to improve their services.",
-            "date": "Wed, 01 Apr 2026 12:51:58 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "V",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘We’re aiming for a monthly income of $11,500’: I’m 64. I’ve $1.5 million in a 401(k). How do I time my withdrawals?",
-            "link": "https://www.marketwatch.com/story/were-aiming-for-a-monthly-income-of-11-500-im-64-ive-1-5-million-in-a-401-k-how-do-i-time-my-withdrawals-ae3e6f40?mod=mw_rss_topstories",
-            "summary": "“I plan to start collecting my Social Security of $4,100 at 68,” he says. “I’m going to be able to retire at 68.”",
-            "date": "Wed, 01 Apr 2026 14:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HOWL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Boeing’s stock surges again after 7-year missile deal with the Trump administration",
-            "link": "https://www.marketwatch.com/story/boeings-stock-extends-bounce-after-7-year-missile-deal-with-the-trump-administration-dd660e7e?mod=mw_rss_topstories",
-            "summary": "Boeing’s stock still dropped 12.5% in March. Even with Tuesday’S bounce, the stock is still down more than 10% for the year.",
-            "date": "Wed, 01 Apr 2026 14:13:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MAKO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. manufacturers see best month in 2 1/2 years, but Iran war threatens to derail progress",
-            "link": "https://www.marketwatch.com/story/u-s-manufacturers-see-best-month-in-2-1-2-years-but-iran-war-threatens-to-derail-progress-dd0d7b59?mod=mw_rss_topstories",
-            "summary": "American manufacturers grew in March at the fastest pace in two and a half years. But the conflict with Iran added a new level of uncertainty just as the effects of the Trump tariffs were fading.",
-            "date": "Wed, 01 Apr 2026 14:09:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Nike’s price drop sets up a buying opportunity for long-term investors",
-            "link": "https://www.marketwatch.com/story/nikes-price-drop-sets-up-a-buying-opportunity-for-long-term-investors-79e53bf8?mod=mw_rss_topstories",
-            "summary": "Nike’s price-to-earnings ratio is now well below its long-term average, but is still above that of the S&amp;P 500.",
-            "date": "Wed, 01 Apr 2026 14:06:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TROW",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Moon launches are having a moment. But can you make money off the lunar frenzy?",
-            "link": "https://www.marketwatch.com/story/moon-launches-are-having-a-moment-but-can-you-make-money-off-the-lunar-frenzy-847babed?mod=mw_rss_topstories",
-            "summary": "Artemis II is ready to fly, as Musk, Bezos and NASA race to make the lunar economy a reality. The moon rush is on: Artemis II isready to fly.",
-            "date": "Wed, 01 Apr 2026 14:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MLTX",
+            "stock_ticker": "ERNAW",
             "impact": "Neutral"
         }
     ]
