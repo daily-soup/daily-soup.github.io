@@ -1,83 +1,95 @@
 {
-    "date": "2026-04-02",
+    "date": "2026-04-03",
     "news": [
         {
-            "title": "Oil prices soar 13% as Trump's Iran war speech stokes fears of further escalation",
-            "link": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
-            "summary": "Oil surged as Trump in his address to the nation on Iran war said that he expected the conflict to last another two to three weeks. Oil surged asTrump in his speech on Iran War said he expected that the conflict would last another 2 to 3 weeks.",
-            "date": "Thu, 02 Apr 2026 13:27:45 GMT",
+            "title": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
+            "link": "https://www.cnbc.com/2026/04/03/jobs-report-march-2026-.html",
+            "summary": "Nonfarm payrolls were expected to increase by 59,000 in March. The unemployment rate was expected to hold at 4.4%. The economy is expected to grow by 0.3% in the first quarter.",
+            "date": "Fri, 03 Apr 2026 13:35:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Tesla reports 358,000 first-quarter vehicle deliveries, down 14% from last quarter",
-            "link": "https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html",
-            "summary": "Tesla is coming off a year of declining deliveries due in part to increased competition from rivals in China offering lower-cost models. Tesla is based in Palo Alto, California.",
-            "date": "Thu, 02 Apr 2026 14:02:35 GMT",
+            "title": "Trump threatens to destroy Iranian infrastructure, saying its government 'knows what has to be done'",
+            "link": "https://www.cnbc.com/2026/04/03/trump-iran-threats-un-resolution-blocked-strait-of-hormuz-f35-shot-down.html",
+            "summary": "The threat comes a day after he said the U.S. military will be hitting Tehran \"extremely hard\" for the next two or three weeks.",
+            "date": "Fri, 03 Apr 2026 13:13:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSLA",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Coca-Cola unveils ad campaign with 13 restaurant chains to boost drink sales as diner traffic falls",
-            "link": "https://www.cnbc.com/2026/04/02/coca-cola-ad-campaign-dominos-wendys-wingstop.html",
-            "summary": "The restaurant industry has been struggling with declining traffic and sluggish sales growth. The restaurant industry is facing a number of issues, including declining sales growth and declining traffic.",
-            "date": "Thu, 02 Apr 2026 13:12:14 GMT",
+            "title": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
+            "link": "https://www.cnbc.com/2026/04/03/trump-tariffs-trade-war-impact.html",
+            "summary": "A year after his \"liberation day,\" Trump's trade war has reshaped how companies in industries such as retail and autos are modeling economic and policy risk.",
+            "date": "Fri, 03 Apr 2026 11:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KO",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "One year on from Trump's 'liberation day,' global investors are rethinking American exceptionalism",
-            "link": "https://www.cnbc.com/2026/04/02/liberation-day-1-year-on-investors-are-rethinking-us-assets.html",
-            "summary": "U.S. exceptionalism is \"no longer automatic\" among global investors, one market watcher says. U.N. Secretary-General Ban Ki-moon has called for a U.S.-led global effort to improve the economy. The United States is the largest economy in the world.",
-            "date": "Thu, 02 Apr 2026 12:58:41 GMT",
+            "title": "Meta, Google under attack as court cases bypass 30-year-old legal shield",
+            "link": "https://www.cnbc.com/2026/04/03/meta-google-under-attack-court-cases-bypass-30-year-old-legal-shield.html",
+            "summary": "Internet platforms have long been able to rely on special protections to avoid liability for what takes place on their sites. But that may be changing.",
+            "date": "Fri, 03 Apr 2026 12:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SR1=F",
+            "stock_ticker": "META",
             "impact": "Neutral"
         },
         {
-            "title": "DHS shutdown: Senate advances deal to fund agency with TSA, waits on House",
-            "link": "https://www.cnbc.com/2026/04/02/tsa-dhs-shutdown-senate-house.html",
-            "summary": "The Department of Homeland Security shutdown that sowed chaos in airports across the country could draw to a close. GOP leaders coalesced around a deal.",
-            "date": "Thu, 02 Apr 2026 13:28:24 GMT",
+            "title": "'Chasing vibes' — OpenAI's M&A strategy gets more confusing with TBPN purchase",
+            "link": "https://www.cnbc.com/2026/04/03/chasing-vibes-openai-ma-strategy-gets-more-confusing-with-tbpn-.html",
+            "summary": "OpenAI announced it's buying media company TBPN. OpenAI paid $6.4 billion for Jony Ive's nascent devices startup.",
+            "date": "Fri, 03 Apr 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DHS",
-            "impact": "Bearish"
+            "stock_ticker": "MYRAUD=X",
+            "impact": "Bullish"
         },
         {
-            "title": "Pariah Capital won the first quarter — and it’s winning the war",
-            "link": "https://www.marketwatch.com/story/pariah-capital-won-the-first-quarter-and-its-winning-the-war-ec2978e2?mod=mw_rss_topstories",
-            "summary": "The imaginary fund created by MarketWatch that invests in stocks hated by Wall Street has outperformed the S&amp;P 500, the Nasdaq and most active fund managers.",
-            "date": "Thu, 02 Apr 2026 14:07:00 GMT",
+            "title": "U.S. jobs report shows 178,000 workers were hired in March. But the hiring boomlet is unlikely to last.",
+            "link": "https://www.marketwatch.com/story/u-s-jobs-report-shows-178-000-workers-were-hired-in-march-but-hiring-boomlet-is-unlikely-to-last-547dbe48?mod=mw_rss_topstories",
+            "summary": "The U.S. added a greater-than-expected 178,000 jobs in March. The unemployment rate fell a tick to 4.3% — signs that the labor market is holding firm.",
+            "date": "Fri, 03 Apr 2026 13:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NLY",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Tesla’s stock falls as new numbers show weakness in both the EV and energy businesses",
-            "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-new-numbers-show-weakness-in-both-the-ev-and-energy-businesses-740ae2a0?mod=mw_rss_topstories",
-            "summary": "Elon Musk's company reported vehicle sales and energy-storage deployments well below Wall Street’s expectations. Musk: “I don’t think we’ve seen anything like this in our history.”",
-            "date": "Thu, 02 Apr 2026 13:58:00 GMT",
+            "title": "It’s not just patients who are sick of fighting health insurers. Doctors are frustrated, too.",
+            "link": "https://www.marketwatch.com/story/its-not-just-patients-who-are-sick-of-fighting-health-insurers-doctors-are-frustrated-too-06a591b8?mod=mw_rss_topstories",
+            "summary": "Insurance companies get rewarded for their ability to profit from system complexity. The pattern is clear — insurance companies get reward for being able to make money from complexity.",
+            "date": "Fri, 03 Apr 2026 13:34:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ITS.SI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Stock futures and bitcoin slip, Treasury yields climb, as hot jobs report raises more questions about Fed rate cuts",
+            "link": "https://www.marketwatch.com/story/stock-futures-and-bitcoin-slip-treasury-yields-climb-as-hot-jobs-report-raises-more-questions-about-fed-rate-cuts-921ff82f?mod=mw_rss_topstories",
+            "summary": "Stock futures have slipped while Treasury yields pressed higher during Friday’s holiday trading session. The hotter-than-expected jobs report raised more questions about whether the Federal Reserve will deliver an interest-rate cut this year.",
+            "date": "Fri, 03 Apr 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +98,27 @@
             "impact": "Neutral"
         },
         {
-            "title": "Investor in pre-IPO Apple: Questionable management, price is rich, but the sector is hot",
-            "link": "https://www.marketwatch.com/story/sequoia-capitals-early-investment-in-a-trillion-dollar-tech-giant-with-questionable-management-f05d2763?mod=mw_rss_topstories",
-            "summary": "Venture capitalist Don Valentine invested $150,000 in Apple in 1978. Valentine invested two years before the startup went public. Apple went public in 1986.",
-            "date": "Thu, 02 Apr 2026 13:51:00 GMT",
+            "title": "Starbucks just made two noteworthy moves to boost its turnaround — but they didn’t help the coffee chain’s stock",
+            "link": "https://www.marketwatch.com/story/starbucks-made-two-big-moves-to-help-its-turnaround-today-but-they-didnt-help-the-coffee-chains-stock-f8ccd9dc?mod=mw_rss_topstories",
+            "summary": "Starbucks rolls out a bonus and tipping program for its employees. It also hands off a big slice of its store business in China to an investment firm.",
+            "date": "Fri, 03 Apr 2026 13:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OHI",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Airline stocks drop, but worries over rising fuel prices haven’t hurt travel demand yet",
-            "link": "https://www.marketwatch.com/story/airline-stocks-drop-but-worries-over-rising-fuel-prices-havent-hurt-travel-demand-yet-e79d9e10?mod=mw_rss_topstories",
-            "summary": "Airline stocks are falling amid renewed worries about rising fuel costs, and how that could eventually hurt travel demand. Airline stocks were falling amid renewed worries aboutrising fuel costs.",
-            "date": "Thu, 02 Apr 2026 13:46:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAL",
+            "stock_ticker": "SBUX",
             "impact": "Neutral"
         },
         {
-            "title": "The S&P 500 could hit bottom by May — and 6,000 is the stock market’s correction floor",
-            "link": "https://www.marketwatch.com/story/the-s-p-500-could-hit-bottom-by-may-and-6-000-is-the-stock-markets-correction-floor-ab151500?mod=mw_rss_topstories",
-            "summary": "Strong one-day rallies are far more common in weak markets. Strong one- day rallies are more common when markets are in a state of weakness.",
-            "date": "Thu, 02 Apr 2026 13:41:00 GMT",
+            "title": "‘This is an overlooked catastrophe’: Why do so many hospitals not accept Medicare Advantage for cancer patients?",
+            "link": "https://www.marketwatch.com/story/this-is-an-overlooked-catastrophe-why-do-so-many-hospitals-not-accept-medicare-advantage-for-cancer-patients-130c1a13?mod=mw_rss_topstories",
+            "summary": "Insurers have pushed certain cancer-care centers out of network before the end of the calendar or policy year, the company says. “Insurers are pushing certain cancer care centers.” the company adds.",
+            "date": "Fri, 03 Apr 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ERNAW",
+            "stock_ticker": "TIMI-USD",
             "impact": "Neutral"
         }
     ]
