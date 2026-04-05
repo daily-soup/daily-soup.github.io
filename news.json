@@ -1,16 +1,52 @@
 {
-    "date": "2026-04-04",
+    "date": "2026-04-05",
     "news": [
         {
-            "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
-            "link": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
-            "summary": "To compete in AI, Apple may have to pivot. In dominating consumer devices, Apple sold users on the promise of privacy. To compete inAI, Apple must pivot.",
-            "date": "Sat, 04 Apr 2026 12:00:01 GMT",
+            "title": "Trump says rescued U.S. airman 'seriously wounded,' threatens to strike Iran power plants and bridges",
+            "link": "https://www.cnbc.com/2026/04/05/us-trump-confirms-missing-us-pilot-rescued.html",
+            "summary": "Trump says the officer was rescued \"deep in Enemy Territory\" in mountainous terrain. Trump says he was rescued in \"enemy territory\"",
+            "date": "Sun, 05 Apr 2026 13:34:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAPL",
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Chinese chip firms hit record high revenue driven by the AI boom and U.S. curbs",
+            "link": "https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html",
+            "summary": "Chinese chip companies have benefited from strong domestic demand for AI. U.S. tech curbs have bolstered local firms, according to analysts.",
+            "date": "Fri, 03 Apr 2026 05:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P000021IA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "'Anything but autos': Can defense save Europe’s ailing car industry?",
+            "link": "https://www.cnbc.com/2026/04/05/autos-defense-europe-car-industry.html",
+            "summary": "Many of the underlying skills are highly transferable, according to experts. The transition from wheels to weapons is achievable in part because of these skills, experts say.",
+            "date": "Sun, 05 Apr 2026 05:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EXMT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "'Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems",
+            "link": "https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html",
+            "summary": "The rapid evolution of generative AI has finally made these applications good enough to meaningfully impact retailers' bottom lines. It is now possible to use AI to predict what customers want to buy and when.",
+            "date": "Sun, 05 Apr 2026 12:37:57 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SILENTIS-USD",
             "impact": "Neutral"
         },
         {
@@ -26,99 +62,63 @@
             "impact": "Neutral"
         },
         {
-            "title": "Buffett may end donations to Gates charity over Bill's ties to Epstein",
-            "link": "https://www.cnbc.com/2026/04/04/buffett-may-end-donations-to-gates-charity-over-bills-ties-to-epstein.html",
-            "summary": "Revelations about Jeffrey Epstein's ties to Bill Gates have strained his friendship with Warren Buffett and the Omaha billionaire's annual multi-billion-dollar donations to the Gates Foundation.",
-            "date": "Sat, 04 Apr 2026 13:08:53 GMT",
+            "title": "‘Our mood changes almost on a daily basis’: Why $4 gas prices feel a lot worse this time around",
+            "link": "https://www.marketwatch.com/story/were-a-wildly-fickle-bunch-gas-prices-hit-4-a-gallon-why-do-i-feel-like-im-the-only-american-who-is-genuinely-upset-7b3f2216?mod=mw_rss_topstories",
+            "summary": "\"There is no hive mind. As far as gas prices go, there are no hiveminds,\" he says. \"There is just no reason to be concerned about it\"",
+            "date": "Sun, 05 Apr 2026 11:26:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001BS00.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
-            "link": "https://www.cnbc.com/2026/04/03/jobs-report-march-2026-.html",
-            "summary": "Nonfarm payrolls were expected to increase by 59,000 in March. The unemployment rate was expected to hold at 4.4%. The economy is expected to grow by 0.3% in the first quarter.",
-            "date": "Fri, 03 Apr 2026 13:35:34 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. fighter jet shot down in Iran, one crew member rescued, MS NOW reports",
-            "link": "https://www.cnbc.com/2026/04/03/us-fighter-jet-downed-in-iran.html",
-            "summary": "The U.S. is searching for the second member of the F-15 aircraft's crew, whose whereabouts are unknown, MS NOW reported.",
-            "date": "Sat, 04 Apr 2026 10:29:11 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I feel overwhelmed’: I’m 56 and only have $60,000 in my IRA. Is it too late for me?",
-            "link": "https://www.marketwatch.com/story/i-feel-overwhelmed-im-56-and-have-a-60-000-sep-ira-is-it-too-late-for-me-3671eba9?mod=mw_rss_topstories",
-            "summary": "“My husband has a pension, but I worry that if he passes before me, I could be left with nothing,” she says.",
-            "date": "Sat, 04 Apr 2026 13:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ETHB",
-            "impact": "Neutral"
-        },
-        {
-            "title": "These charts show the cracks in the stock market are widening",
-            "link": "https://www.marketwatch.com/story/these-charts-show-the-cracks-in-the-stock-market-are-widening-9ee6a281?mod=mw_rss_topstories",
-            "summary": "S&amp;P 500 technical indicators point to further weakening. S&P 500 Technical indicators point towards further weakening in the U.S.",
-            "date": "Sat, 04 Apr 2026 13:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001YPM3.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Is it unethical to use AI in my Airbnb photos to market my property to guests?",
-            "link": "https://www.marketwatch.com/story/id-like-to-be-a-superhost-is-it-unethical-to-use-ai-in-my-airbnb-photos-to-market-my-property-67c0db11?mod=mw_rss_topstories",
-            "summary": "“No matter what I do, the beds still look a bit creased and worn, even grubby, in pictures.”",
-            "date": "Sat, 04 Apr 2026 13:09:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ETHB",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Some central banks have been selling their gold. That doesn’t mean you should too.",
-            "link": "https://www.marketwatch.com/story/some-central-banks-have-been-selling-their-gold-that-doesnt-mean-you-should-too-d544ba1c?mod=mw_rss_topstories",
-            "summary": "Gold suffered its biggest monthly drop in nearly 13 years and some central banks have shifted from being buyers to sellers. But that actually proves the precious metal can be more valuable to investors than it's ever been.",
-            "date": "Sat, 04 Apr 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SOME",
+            "stock_ticker": "OURLIV.ST",
             "impact": "Neutral"
         },
         {
             "title": "‘This is an overlooked catastrophe’: Why do so many hospitals not accept Medicare Advantage for cancer patients?",
             "link": "https://www.marketwatch.com/story/this-is-an-overlooked-catastrophe-why-do-so-many-hospitals-not-accept-medicare-advantage-for-cancer-patients-130c1a13?mod=mw_rss_topstories",
             "summary": "Insurers have pushed certain cancer-care centers out of network before the end of the calendar or policy year, the company says. “Insurers are pushing certain cancer care centers.” the company adds.",
-            "date": "Sat, 04 Apr 2026 12:45:00 GMT",
+            "date": "Sun, 05 Apr 2026 11:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "THISX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘We’re aiming for a monthly income of $11,500’: I’m 64. I’ve $1.5 million in a 401(k). How do I time my withdrawals?",
+            "link": "https://www.marketwatch.com/story/were-aiming-for-a-monthly-income-of-11-500-im-64-ive-1-5-million-in-a-401-k-how-do-i-time-my-withdrawals-ae3e6f40?mod=mw_rss_topstories",
+            "summary": "“I plan to start collecting my Social Security of $4,100 at 68,” he says. “I’m going to be able to retire at 68.”",
+            "date": "Sun, 05 Apr 2026 10:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHA.AS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I feel overwhelmed’: I’m 56 and only have $60,000 in my IRA. Is it too late for me?",
+            "link": "https://www.marketwatch.com/story/i-feel-overwhelmed-im-56-and-have-a-60-000-sep-ira-is-it-too-late-for-me-3671eba9?mod=mw_rss_topstories",
+            "summary": "“My husband has a pension, but I worry that if he passes before me, I could be left with nothing,” she says.",
+            "date": "Sun, 05 Apr 2026 10:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ETHB",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The 5 highest-paid college basketball players this year: No. 1 is making $4.2 million from NIL",
+            "link": "https://www.marketwatch.com/story/the-5-highest-paid-college-basketball-players-this-year-no-1-is-making-4-2-million-from-nil-963cbc7a?mod=mw_rss_topstories",
+            "summary": "Several athletes are now earning over $1 million from NIL deals. As the Final Four of March Madness tips off, multiple athletes are getting paid.",
+            "date": "Sat, 04 Apr 2026 18:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ERNAW",
             "impact": "Neutral"
         }
     ]
