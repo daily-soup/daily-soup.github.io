@@ -1,53 +1,41 @@
 {
-    "date": "2026-04-05",
+    "date": "2026-04-06",
     "news": [
         {
-            "title": "Trump says rescued U.S. airman 'seriously wounded,' threatens to strike Iran power plants and bridges",
-            "link": "https://www.cnbc.com/2026/04/05/us-trump-confirms-missing-us-pilot-rescued.html",
-            "summary": "Trump says the officer was rescued \"deep in Enemy Territory\" in mountainous terrain. Trump says he was rescued in \"enemy territory\"",
-            "date": "Sun, 05 Apr 2026 13:34:31 GMT",
+            "title": "JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets",
+            "link": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html",
+            "summary": "JPMorgan CEO Jamie Dimon calls for recommitment to U.S. ideals in annual letter to shareholders. Dimon noted the country's 250th anniversary and called for a broad recommitting to American ideals.",
+            "date": "Mon, 06 Apr 2026 11:55:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "JPM",
             "impact": "Neutral"
         },
         {
-            "title": "Chinese chip firms hit record high revenue driven by the AI boom and U.S. curbs",
-            "link": "https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html",
-            "summary": "Chinese chip companies have benefited from strong domestic demand for AI. U.S. tech curbs have bolstered local firms, according to analysts.",
-            "date": "Fri, 03 Apr 2026 05:00:01 GMT",
+            "title": "Trump's Iran ultimatum and signals of a possible deal keep investors on tenterhooks",
+            "link": "https://www.cnbc.com/2026/04/06/trump-iran-deadline-investors-markets-trade-deal-war-.html",
+            "summary": "Investors are scrambling to position for binary outcomes in the Iran conflict. An imminent deal or further escalation could be the most consequential week of the conflict.",
+            "date": "Mon, 06 Apr 2026 13:20:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P000021IA",
+            "stock_ticker": "RANI3.SA",
             "impact": "Neutral"
         },
         {
-            "title": "'Anything but autos': Can defense save Europe’s ailing car industry?",
-            "link": "https://www.cnbc.com/2026/04/05/autos-defense-europe-car-industry.html",
-            "summary": "Many of the underlying skills are highly transferable, according to experts. The transition from wheels to weapons is achievable in part because of these skills, experts say.",
-            "date": "Sun, 05 Apr 2026 05:00:01 GMT",
+            "title": "India turns to Iran for oil and gas after 7-year hiatus, signaling limits to U.S. tilt",
+            "link": "https://www.cnbc.com/2026/04/06/india-iran-oil-imports-strait-hormuz-us-tensions.html",
+            "summary": "India has resumed oil and gas imports from Iran after seven years. The move is a bid to rebalance its ties with Tehran and secure supplies through the Strait of Hormuz.",
+            "date": "Mon, 06 Apr 2026 07:43:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EXMT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "'Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems",
-            "link": "https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html",
-            "summary": "The rapid evolution of generative AI has finally made these applications good enough to meaningfully impact retailers' bottom lines. It is now possible to use AI to predict what customers want to buy and when.",
-            "date": "Sun, 05 Apr 2026 12:37:57 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SILENTIS-USD",
-            "impact": "Neutral"
+            "stock_ticker": "KAYNES.NS",
+            "impact": "Bullish"
         },
         {
             "title": "Warsh nomination moves ahead, putting Trump's competing Fed plans on a collision course",
@@ -62,63 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘Our mood changes almost on a daily basis’: Why $4 gas prices feel a lot worse this time around",
-            "link": "https://www.marketwatch.com/story/were-a-wildly-fickle-bunch-gas-prices-hit-4-a-gallon-why-do-i-feel-like-im-the-only-american-who-is-genuinely-upset-7b3f2216?mod=mw_rss_topstories",
-            "summary": "\"There is no hive mind. As far as gas prices go, there are no hiveminds,\" he says. \"There is just no reason to be concerned about it\"",
-            "date": "Sun, 05 Apr 2026 11:26:00 GMT",
+            "title": "'Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems",
+            "link": "https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html",
+            "summary": "The rapid evolution of generative AI has finally made these applications good enough to meaningfully impact retailers' bottom lines. It is now possible to use AI to predict what customers want to buy and when.",
+            "date": "Mon, 06 Apr 2026 08:18:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OURLIV.ST",
+            "stock_ticker": "SILENTIS-USD",
             "impact": "Neutral"
         },
         {
-            "title": "‘This is an overlooked catastrophe’: Why do so many hospitals not accept Medicare Advantage for cancer patients?",
-            "link": "https://www.marketwatch.com/story/this-is-an-overlooked-catastrophe-why-do-so-many-hospitals-not-accept-medicare-advantage-for-cancer-patients-130c1a13?mod=mw_rss_topstories",
-            "summary": "Insurers have pushed certain cancer-care centers out of network before the end of the calendar or policy year, the company says. “Insurers are pushing certain cancer care centers.” the company adds.",
-            "date": "Sun, 05 Apr 2026 11:15:00 GMT",
+            "title": "Jamie Dimon warns rising oil prices could trigger a recession and a bear market in 2026",
+            "link": "https://www.marketwatch.com/story/jamie-dimon-isnt-too-worried-about-private-credit-but-he-sees-another-problem-for-markets-8ba4aa1a?mod=mw_rss_topstories",
+            "summary": "Jamie Dimon warns of a “skunk at the party” in 2026 in the form of rising inflation leading to a selloff in the stock market.",
+            "date": "Mon, 06 Apr 2026 14:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "JWLLF",
             "impact": "Neutral"
         },
         {
-            "title": "‘We’re aiming for a monthly income of $11,500’: I’m 64. I’ve $1.5 million in a 401(k). How do I time my withdrawals?",
-            "link": "https://www.marketwatch.com/story/were-aiming-for-a-monthly-income-of-11-500-im-64-ive-1-5-million-in-a-401-k-how-do-i-time-my-withdrawals-ae3e6f40?mod=mw_rss_topstories",
-            "summary": "“I plan to start collecting my Social Security of $4,100 at 68,” he says. “I’m going to be able to retire at 68.”",
-            "date": "Sun, 05 Apr 2026 10:12:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHA.AS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I feel overwhelmed’: I’m 56 and only have $60,000 in my IRA. Is it too late for me?",
-            "link": "https://www.marketwatch.com/story/i-feel-overwhelmed-im-56-and-have-a-60-000-sep-ira-is-it-too-late-for-me-3671eba9?mod=mw_rss_topstories",
-            "summary": "“My husband has a pension, but I worry that if he passes before me, I could be left with nothing,” she says.",
-            "date": "Sun, 05 Apr 2026 10:12:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ETHB",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The 5 highest-paid college basketball players this year: No. 1 is making $4.2 million from NIL",
-            "link": "https://www.marketwatch.com/story/the-5-highest-paid-college-basketball-players-this-year-no-1-is-making-4-2-million-from-nil-963cbc7a?mod=mw_rss_topstories",
-            "summary": "Several athletes are now earning over $1 million from NIL deals. As the Final Four of March Madness tips off, multiple athletes are getting paid.",
-            "date": "Sat, 04 Apr 2026 18:00:00 GMT",
+            "title": "‘I worked very hard’: I’m 71 and have $6 million after scrimping and saving. My son, 33, wants money for a house. Do I say yes?",
+            "link": "https://www.marketwatch.com/story/i-worked-very-hard-im-71-and-have-6-million-after-scrimping-and-saving-my-son-33-wants-money-for-a-house-do-i-say-yes-a62657f7?mod=mw_rss_topstories",
+            "summary": "“My son is 33 years old, married, with an 18-month-old baby and another baby due in September,” she said.",
+            "date": "Mon, 06 Apr 2026 13:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "ERNAW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Multimillion-dollar CEO pay at these 20 low-wage companies is costing you. This is the only fix.",
+            "link": "https://www.marketwatch.com/story/multimillion-dollar-ceo-pay-at-these-20-low-wage-companies-is-costing-you-this-is-the-only-fix-ac6bf8b0?mod=mw_rss_topstories",
+            "summary": "CEO pay at the ‘low-wage 20’ averages $18.6 million. Many of their median workers rely on taxpayer-supported Medicaid and SNAP.",
+            "date": "Mon, 06 Apr 2026 13:42:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CEK.DE",
+            "impact": "Bullish"
+        },
+        {
+            "title": "April is usually a strong month for stocks — but three factors now jeopardize the market rebound",
+            "link": "https://www.marketwatch.com/story/april-is-usually-a-strong-month-for-stocks-but-three-factors-now-jeopardize-the-market-rebound-b5cbf142?mod=mw_rss_topstories",
+            "summary": "Worries about Fed rate hikes and souring earnings expectations could easily trip up the market for a second straight month. The Dow Jones Industrial Average is down 0.7% for the month.",
+            "date": "Mon, 06 Apr 2026 13:39:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "XTAP",
+            "impact": "Bullish"
+        },
+        {
+            "title": "U.S. oil prices stay above $110 a barrel after Iran pushes back against Trump’s deadline for Tehran to reopen Strait of Hormuz",
+            "link": "https://www.marketwatch.com/story/crude-oil-dropping-after-historic-11-surge-as-negotiators-race-against-trumps-deadline-for-iran-407a2094?mod=mw_rss_topstories",
+            "summary": "Trump has threatened to knock out Iran’s power plants and bridges if the crucial strait is not reopened. The U.S. president has also said he will close the Strait of Hormuz if it is not re-opened.",
+            "date": "Mon, 06 Apr 2026 13:33:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         }
     ]
