@@ -1,83 +1,95 @@
 {
-    "date": "2026-04-06",
+    "date": "2026-04-07",
     "news": [
         {
-            "title": "JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets",
-            "link": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html",
-            "summary": "JPMorgan CEO Jamie Dimon calls for recommitment to U.S. ideals in annual letter to shareholders. Dimon noted the country's 250th anniversary and called for a broad recommitting to American ideals.",
-            "date": "Mon, 06 Apr 2026 11:55:38 GMT",
+            "title": "Trump warns Iran’s ‘whole civilization will die tonight’ unless deal struck",
+            "link": "https://www.cnbc.com/2026/04/07/iran-war-trump-deadline.html",
+            "summary": "The near closure of the Strait of Hormuz since the war began has led to a historic oil supply shock. It quickly sent global energy prices soaring.",
+            "date": "Tue, 07 Apr 2026 13:59:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JPM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump's Iran ultimatum and signals of a possible deal keep investors on tenterhooks",
-            "link": "https://www.cnbc.com/2026/04/06/trump-iran-deadline-investors-markets-trade-deal-war-.html",
-            "summary": "Investors are scrambling to position for binary outcomes in the Iran conflict. An imminent deal or further escalation could be the most consequential week of the conflict.",
-            "date": "Mon, 06 Apr 2026 13:20:44 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RANI3.SA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "India turns to Iran for oil and gas after 7-year hiatus, signaling limits to U.S. tilt",
-            "link": "https://www.cnbc.com/2026/04/06/india-iran-oil-imports-strait-hormuz-us-tensions.html",
-            "summary": "India has resumed oil and gas imports from Iran after seven years. The move is a bid to rebalance its ties with Tehran and secure supplies through the Strait of Hormuz.",
-            "date": "Mon, 06 Apr 2026 07:43:06 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KAYNES.NS",
+            "stock_ticker": "DJT",
             "impact": "Bullish"
         },
         {
-            "title": "Warsh nomination moves ahead, putting Trump's competing Fed plans on a collision course",
-            "link": "https://www.cnbc.com/2026/04/04/warsh-fed-nomination-hearing-set-for-mid-april.html",
-            "summary": "A Senate committee will consider Kevin Warsh's nomination even as one of its members still plans to block it. Warsh is a former head of the U.S. Army Corps of Engineers. He was nominated by President Barack Obama.",
-            "date": "Sat, 04 Apr 2026 13:19:30 GMT",
+            "title": "House Democrats call on federal regulator to crack down on offshore prediction market war bets",
+            "link": "https://www.cnbc.com/2026/04/07/kalshi-polymarket-prediction-markets-cftc-war-bets.html",
+            "summary": "Prediction markets like Kalshi and Polymarket have exploded in popularity recently. The platforms have raised questions about how to properly regulate the platforms.",
+            "date": "Tue, 07 Apr 2026 13:47:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001JXLQ.ST",
+            "stock_ticker": "SKHSY",
             "impact": "Neutral"
         },
         {
-            "title": "'Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems",
-            "link": "https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html",
-            "summary": "The rapid evolution of generative AI has finally made these applications good enough to meaningfully impact retailers' bottom lines. It is now possible to use AI to predict what customers want to buy and when.",
-            "date": "Mon, 06 Apr 2026 08:18:20 GMT",
+            "title": "Used car prices rise to highest point since summer 2023",
+            "link": "https://www.cnbc.com/2026/04/07/used-car-prices.html",
+            "summary": "Used car prices rise to highest point since summer 2023, according to new figures. Used car prices hit highest level since summer of 2023. Prices are up more than 10 per cent since the start of the year.",
+            "date": "Tue, 07 Apr 2026 14:22:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SILENTIS-USD",
+            "stock_ticker": "USEDCAR-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Jamie Dimon warns rising oil prices could trigger a recession and a bear market in 2026",
-            "link": "https://www.marketwatch.com/story/jamie-dimon-isnt-too-worried-about-private-credit-but-he-sees-another-problem-for-markets-8ba4aa1a?mod=mw_rss_topstories",
-            "summary": "Jamie Dimon warns of a “skunk at the party” in 2026 in the form of rising inflation leading to a selloff in the stock market.",
-            "date": "Mon, 06 Apr 2026 14:03:00 GMT",
+            "title": "Universal Music stock rises after Pershing Square's $64 billion takeover proposal",
+            "link": "https://www.cnbc.com/2026/04/07/umg-pershing-square-merger-bil-ackman-universal-music.html",
+            "summary": "Bill Ackman's Pershing Square said Universal Music's stock price has \"languished\" due to a range of issues that can be addressed with the merger.",
+            "date": "Tue, 07 Apr 2026 12:14:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JWLLF",
+            "stock_ticker": "FCUV",
             "impact": "Neutral"
         },
         {
-            "title": "‘I worked very hard’: I’m 71 and have $6 million after scrimping and saving. My son, 33, wants money for a house. Do I say yes?",
-            "link": "https://www.marketwatch.com/story/i-worked-very-hard-im-71-and-have-6-million-after-scrimping-and-saving-my-son-33-wants-money-for-a-house-do-i-say-yes-a62657f7?mod=mw_rss_topstories",
-            "summary": "“My son is 33 years old, married, with an 18-month-old baby and another baby due in September,” she said.",
-            "date": "Mon, 06 Apr 2026 13:50:00 GMT",
+            "title": "Novo Nordisk's explosive Wegovy pill launch draws a new wave of patients into GLP-1 weight loss treatment",
+            "link": "https://www.cnbc.com/2026/04/07/novo-nordisks-wegovy-pill-launch-draws-new-wave-of-patients-to-glp-1s.html",
+            "summary": "CNBC spoke with five U.S. patients who recently started the pill following its launch. They have varying initial experiences with the drug.",
+            "date": "Tue, 07 Apr 2026 11:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump moves to scrap utility bill aid for Americans, as soaring energy costs hit over $1,000 on average this winter",
+            "link": "https://www.marketwatch.com/story/trump-moves-to-scrap-utility-bill-aid-for-americans-as-soaring-energy-costs-hit-over-1-000-on-average-this-winter-1c486251?mod=mw_rss_topstories",
+            "summary": "The White House is moving to scrap a program that helps low-income people pay their utility bills. The move comes at a time when Americans’ energy costs are surging.",
+            "date": "Tue, 07 Apr 2026 14:23:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s an overlooked reason the housing market could soon get even worse",
+            "link": "https://www.marketwatch.com/story/heres-an-overlooked-reason-the-housing-market-could-soon-get-even-worse-d46a603f?mod=mw_rss_topstories",
+            "summary": "Seaport analyst has turned bearish on multiple home-builder stocks. Analyst says outlook for job growth could be worse for the housing market over the long term.",
+            "date": "Tue, 07 Apr 2026 14:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The price Americans pay for medicine has gotten horribly out of control. Here’s how to fix it.",
+            "link": "https://www.marketwatch.com/story/the-price-americans-pay-for-medicine-has-gotten-horribly-out-of-control-heres-how-to-fix-it-5c2e0750?mod=mw_rss_topstories",
+            "summary": "We can start with laws that limit the power of pharmacy-benefit managers. We can start by changing the law to make it easier for pharmacies to manage their benefits.",
+            "date": "Tue, 07 Apr 2026 13:53:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +98,27 @@
             "impact": "Neutral"
         },
         {
-            "title": "Multimillion-dollar CEO pay at these 20 low-wage companies is costing you. This is the only fix.",
-            "link": "https://www.marketwatch.com/story/multimillion-dollar-ceo-pay-at-these-20-low-wage-companies-is-costing-you-this-is-the-only-fix-ac6bf8b0?mod=mw_rss_topstories",
-            "summary": "CEO pay at the ‘low-wage 20’ averages $18.6 million. Many of their median workers rely on taxpayer-supported Medicaid and SNAP.",
-            "date": "Mon, 06 Apr 2026 13:42:00 GMT",
+            "title": "Businesses are spending for the future despite uncertain times — a good omen for the economy",
+            "link": "https://www.marketwatch.com/story/businesses-are-spending-for-the-future-despite-uncertain-times-a-good-omen-for-the-economy-daef84d0?mod=mw_rss_topstories",
+            "summary": "Business investment rose in March for the seventh time in eight months and hit an all-time high. Companies poured more money into the technologies of the future.",
+            "date": "Tue, 07 Apr 2026 13:47:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CEK.DE",
-            "impact": "Bullish"
+            "stock_ticker": "0P0000XHA8.F",
+            "impact": "Neutral"
         },
         {
-            "title": "April is usually a strong month for stocks — but three factors now jeopardize the market rebound",
-            "link": "https://www.marketwatch.com/story/april-is-usually-a-strong-month-for-stocks-but-three-factors-now-jeopardize-the-market-rebound-b5cbf142?mod=mw_rss_topstories",
-            "summary": "Worries about Fed rate hikes and souring earnings expectations could easily trip up the market for a second straight month. The Dow Jones Industrial Average is down 0.7% for the month.",
-            "date": "Mon, 06 Apr 2026 13:39:00 GMT",
+            "title": "How to move past your biggest money mistakes",
+            "link": "https://www.marketwatch.com/story/how-to-move-past-your-biggest-money-mistakes-37d26a94?mod=mw_rss_topstories",
+            "summary": ".com will feature iReporter photos in a weekly Travel Snapshots gallery. Visit CNN.com/Travel each week for a new gallery of snapshots.",
+            "date": "Tue, 07 Apr 2026 13:44:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XTAP",
-            "impact": "Bullish"
-        },
-        {
-            "title": "U.S. oil prices stay above $110 a barrel after Iran pushes back against Trump’s deadline for Tehran to reopen Strait of Hormuz",
-            "link": "https://www.marketwatch.com/story/crude-oil-dropping-after-historic-11-surge-as-negotiators-race-against-trumps-deadline-for-iran-407a2094?mod=mw_rss_topstories",
-            "summary": "Trump has threatened to knock out Iran’s power plants and bridges if the crucial strait is not reopened. The U.S. president has also said he will close the Strait of Hormuz if it is not re-opened.",
-            "date": "Mon, 06 Apr 2026 13:33:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         }
     ]
