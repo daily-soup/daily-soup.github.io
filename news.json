@@ -1,11 +1,11 @@
 {
-    "date": "2026-04-07",
+    "date": "2026-04-08",
     "news": [
         {
-            "title": "Trump warns Iran’s ‘whole civilization will die tonight’ unless deal struck",
-            "link": "https://www.cnbc.com/2026/04/07/iran-war-trump-deadline.html",
-            "summary": "The near closure of the Strait of Hormuz since the war began has led to a historic oil supply shock. It quickly sent global energy prices soaring.",
-            "date": "Tue, 07 Apr 2026 13:59:20 GMT",
+            "title": "Trump threatens tariffs of 50% on countries 'supplying military weapons to Iran'",
+            "link": "https://www.cnbc.com/2026/04/08/trump-threatens-tariffs-countries-supplying-weapons-iran-ceasefire.html",
+            "summary": "The U.S. will impose tariffs of 50% on goods imported to the country from any nation \"supplying military weapons to Iran\"",
+            "date": "Wed, 08 Apr 2026 12:11:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,82 +14,70 @@
             "impact": "Bullish"
         },
         {
-            "title": "House Democrats call on federal regulator to crack down on offshore prediction market war bets",
-            "link": "https://www.cnbc.com/2026/04/07/kalshi-polymarket-prediction-markets-cftc-war-bets.html",
-            "summary": "Prediction markets like Kalshi and Polymarket have exploded in popularity recently. The platforms have raised questions about how to properly regulate the platforms.",
-            "date": "Tue, 07 Apr 2026 13:47:55 GMT",
+            "title": "JD Vance calls Iran ceasefire a 'fragile truce' and says Trump is 'impatient to make progress'",
+            "link": "https://www.cnbc.com/2026/04/08/jd-vance-iran-ceasefire-fragile-truce-hungary-trump.html",
+            "summary": "The U.S. vice president said the response from Iran to the ceasefire had varied, with some 'lying about even the fragile truce that we've already struck'",
+            "date": "Wed, 08 Apr 2026 12:04:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SKHSY",
+            "stock_ticker": "JD",
             "impact": "Neutral"
         },
         {
-            "title": "Used car prices rise to highest point since summer 2023",
-            "link": "https://www.cnbc.com/2026/04/07/used-car-prices.html",
-            "summary": "Used car prices rise to highest point since summer 2023, according to new figures. Used car prices hit highest level since summer of 2023. Prices are up more than 10 per cent since the start of the year.",
-            "date": "Tue, 07 Apr 2026 14:22:04 GMT",
+            "title": "Oil prices plunge below $95 after Iran agrees to safe passage through Strait of Hormuz during ceasefire",
+            "link": "https://www.cnbc.com/2026/04/07/oil-prices-iran-war-trump-deadline-strait-hormuz.html",
+            "summary": "U.S. President Donald Trump agreed to the ceasefire with Iran after discussions with Pakistan Prime Minister Shehbaz Sharif. The ceasefire will take place between the United States and Iran.",
+            "date": "Wed, 08 Apr 2026 12:48:40 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "USEDCAR-USD",
+            "stock_ticker": "CL=F",
             "impact": "Neutral"
         },
         {
-            "title": "Universal Music stock rises after Pershing Square's $64 billion takeover proposal",
-            "link": "https://www.cnbc.com/2026/04/07/umg-pershing-square-merger-bil-ackman-universal-music.html",
-            "summary": "Bill Ackman's Pershing Square said Universal Music's stock price has \"languished\" due to a range of issues that can be addressed with the merger.",
-            "date": "Tue, 07 Apr 2026 12:14:55 GMT",
+            "title": "Markets shift back towards potential Fed rate cut this year with Iran ceasefire in place",
+            "link": "https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html",
+            "summary": "Odds for a reduction jumped Wednesday morning, hitting about 43%, according to the CME Group. Odds of a reduction in the U.S. debt ceiling hit about 43% Wednesday morning.",
+            "date": "Wed, 08 Apr 2026 14:25:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FCUV",
-            "impact": "Neutral"
+            "stock_ticker": "HOOD",
+            "impact": "Bullish"
         },
         {
-            "title": "Novo Nordisk's explosive Wegovy pill launch draws a new wave of patients into GLP-1 weight loss treatment",
-            "link": "https://www.cnbc.com/2026/04/07/novo-nordisks-wegovy-pill-launch-draws-new-wave-of-patients-to-glp-1s.html",
-            "summary": "CNBC spoke with five U.S. patients who recently started the pill following its launch. They have varying initial experiences with the drug.",
-            "date": "Tue, 07 Apr 2026 11:00:01 GMT",
+            "title": "Delta CEO says airline will 'meaningfully' cut growth plans, sees $300 million boost from its refinery",
+            "link": "https://www.cnbc.com/2026/04/08/delta-air-lines-q1-2026-earnings.html",
+            "summary": "Delta is scaling back its flight plans as fuel costs grow. Delta is trying to reduce its expenses by cutting back on flights. The company is also trying to cut back on the number of flights it flies.",
+            "date": "Wed, 08 Apr 2026 14:20:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVO",
+            "stock_ticker": "DAL",
             "impact": "Neutral"
         },
         {
-            "title": "Trump moves to scrap utility bill aid for Americans, as soaring energy costs hit over $1,000 on average this winter",
-            "link": "https://www.marketwatch.com/story/trump-moves-to-scrap-utility-bill-aid-for-americans-as-soaring-energy-costs-hit-over-1-000-on-average-this-winter-1c486251?mod=mw_rss_topstories",
-            "summary": "The White House is moving to scrap a program that helps low-income people pay their utility bills. The move comes at a time when Americans’ energy costs are surging.",
-            "date": "Tue, 07 Apr 2026 14:23:00 GMT",
+            "title": "Why SpaceX could trade like a meme stock after its blockbuster IPO",
+            "link": "https://www.marketwatch.com/story/why-spacex-could-trade-like-a-meme-stock-after-its-blockbuster-ipo-1e03a564?mod=mw_rss_topstories",
+            "summary": "SpaceX has “a massive narrative, a founder with a loyal following, and a valuation likely driven in part by future potential,” says CNN’s John Sutter.",
+            "date": "Wed, 08 Apr 2026 14:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "WHY.V",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s an overlooked reason the housing market could soon get even worse",
-            "link": "https://www.marketwatch.com/story/heres-an-overlooked-reason-the-housing-market-could-soon-get-even-worse-d46a603f?mod=mw_rss_topstories",
-            "summary": "Seaport analyst has turned bearish on multiple home-builder stocks. Analyst says outlook for job growth could be worse for the housing market over the long term.",
-            "date": "Tue, 07 Apr 2026 14:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The price Americans pay for medicine has gotten horribly out of control. Here’s how to fix it.",
-            "link": "https://www.marketwatch.com/story/the-price-americans-pay-for-medicine-has-gotten-horribly-out-of-control-heres-how-to-fix-it-5c2e0750?mod=mw_rss_topstories",
-            "summary": "We can start with laws that limit the power of pharmacy-benefit managers. We can start by changing the law to make it easier for pharmacies to manage their benefits.",
-            "date": "Tue, 07 Apr 2026 13:53:00 GMT",
+            "title": "The U.S. government has found ‘alarming instances’ of nursing homes drugging residents and falsifying medical records",
+            "link": "https://www.marketwatch.com/story/nursing-homes-are-drugging-your-parents-to-keep-them-docile-and-falsifying-medical-records-to-cover-it-up-be64f9f9?mod=mw_rss_topstories",
+            "summary": "Nursing homes are sedating vulnerable people in order to keep them docile. The aim is to make them more docile and less aggressive.",
+            "date": "Wed, 08 Apr 2026 13:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "Businesses are spending for the future despite uncertain times — a good omen for the economy",
-            "link": "https://www.marketwatch.com/story/businesses-are-spending-for-the-future-despite-uncertain-times-a-good-omen-for-the-economy-daef84d0?mod=mw_rss_topstories",
-            "summary": "Business investment rose in March for the seventh time in eight months and hit an all-time high. Companies poured more money into the technologies of the future.",
-            "date": "Tue, 07 Apr 2026 13:47:00 GMT",
+            "title": "The $7 billion reason the Big Ten is dominating college sports",
+            "link": "https://www.marketwatch.com/story/from-tv-deals-to-titles-why-the-big-tens-money-machine-is-just-getting-started-86df9fd8?mod=mw_rss_topstories",
+            "summary": "A $7 billion TV deal and nationwide reach are fueling the Big Ten’s dominance in college sports. The Big Ten has won the national championship in each of the last three seasons.",
+            "date": "Wed, 08 Apr 2026 13:51:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0000XHA8.F",
+            "stock_ticker": "ERNAW",
             "impact": "Neutral"
         },
         {
-            "title": "How to move past your biggest money mistakes",
-            "link": "https://www.marketwatch.com/story/how-to-move-past-your-biggest-money-mistakes-37d26a94?mod=mw_rss_topstories",
-            "summary": ".com will feature iReporter photos in a weekly Travel Snapshots gallery. Visit CNN.com/Travel each week for a new gallery of snapshots.",
-            "date": "Tue, 07 Apr 2026 13:44:00 GMT",
+            "title": "What the market is pricing for Fed and global central-bank interest rates after the cease-fire",
+            "link": "https://www.marketwatch.com/story/what-the-market-is-now-pricing-for-fed-and-global-central-bank-interest-rates-after-the-cease-fire-6e0d3d2e?mod=mw_rss_topstories",
+            "summary": "The two-week cease-fire agreed between the U.S. and Iran has left investors less worried that major central banks will raise borrowing costs this year.",
+            "date": "Wed, 08 Apr 2026 13:35:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "WHATS.BR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Broadcom’s stock picks up a rare downgrade. What’s behind the contrarian call.",
+            "link": "https://www.marketwatch.com/story/broadcoms-stock-picks-up-a-rare-downgrade-whats-behind-the-contrarian-call-26fcd7c5?mod=mw_rss_topstories",
+            "summary": "Analyst worries about a line from a recent Broadcom filing that suggests the company may be somewhat involved in the funding of an Anthropic data center.",
+            "date": "Wed, 08 Apr 2026 13:13:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ANABV",
             "impact": "Neutral"
         }
     ]
