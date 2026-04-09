@@ -1,124 +1,124 @@
 {
-    "date": "2026-04-08",
+    "date": "2026-04-09",
     "news": [
         {
-            "title": "Trump threatens tariffs of 50% on countries 'supplying military weapons to Iran'",
-            "link": "https://www.cnbc.com/2026/04/08/trump-threatens-tariffs-countries-supplying-weapons-iran-ceasefire.html",
-            "summary": "The U.S. will impose tariffs of 50% on goods imported to the country from any nation \"supplying military weapons to Iran\"",
-            "date": "Wed, 08 Apr 2026 12:11:34 GMT",
+            "title": "The Strait of Hormuz is not open as Iran controls access after ceasefire, UAE oil CEO says",
+            "link": "https://www.cnbc.com/2026/04/09/iran-war-oil-strait-hormuz-tanker-ship-uae.html",
+            "summary": "Sultan Ahmed Al Jaber demanded a full reopening of the Strait. He warned that the oil supply disruption will increase if Iran maintains control of the passage.",
+            "date": "Thu, 09 Apr 2026 13:37:55 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TMCR",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows",
+            "link": "https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html",
+            "summary": "The gauge offers the Federal Reserve a snapshot of conditions leading into the Iran war. The gauge released Thursday offers the Fed a snapshot into the conditions leading up to the war.",
+            "date": "Thu, 09 Apr 2026 14:38:23 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PCPI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump says U.S. ready for 'next conquest,' warns military to remain near Iran until 'real agreement' is honored",
+            "link": "https://www.cnbc.com/2026/04/09/trump-military-troops-iran-conflict-middle-east-hormuz.html",
+            "summary": "The statement came a day after Washington and Tehran agreed to a two-week ceasefire. The ceasefire was brokered by Pakistan, which halted six weeks of fighting.",
+            "date": "Thu, 09 Apr 2026 04:58:43 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Disney plans layoffs of as many as 1,000 employees",
+            "link": "https://www.cnbc.com/2026/04/09/disney-layoffs-ceo-josh-damaro.html",
+            "summary": "Disney is planning a new phase of cost cutting, including as many as 1,000 layoffs, according to a person familiar with the matter.",
+            "date": "Thu, 09 Apr 2026 14:38:02 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DIS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "American Airlines makes bag fees even more expensive for basic economy tickets",
+            "link": "https://www.cnbc.com/2026/04/09/american-airlines-bag-fees-basic-economy.html",
+            "summary": "American Airlines is joining Delta, United, Southwest and JetBlue in raising its checked bag fees. The move is in response to high jet fuel prices.",
+            "date": "Thu, 09 Apr 2026 14:35:15 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The $250 million daily bet: How the Iran crisis triggered a frenzy in leveraged oil trades",
+            "link": "https://www.marketwatch.com/story/the-250-million-daily-bet-how-the-iran-crisis-triggered-a-frenzy-in-leveraged-oil-trades-fc48cdd9?mod=mw_rss_topstories",
+            "summary": "Interest leveraged or inverse ETFs are taking off. Investors have sought new ways to take advantage of volatile energy prices. The interest leveraged and inverseETFs are popular with investors.",
+            "date": "Thu, 09 Apr 2026 14:27:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TMCR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "We’re in our 70s with no heirs. I like donating $30,000 from our $700,000 IRA to charity — my husband disagrees. Who’s right?",
+            "link": "https://www.marketwatch.com/story/were-in-our-70s-with-no-heirs-i-like-donating-30-000-from-our-700-000-ira-to-charity-my-husband-disagrees-whos-right-46080fcc?mod=mw_rss_topstories",
+            "summary": "“Our income — Social Security, his VA disability and three pensions — covers all expenses,” she says. “Our Income — Social security, hisVA disability and 3 pensions — cover all expenses.”",
+            "date": "Thu, 09 Apr 2026 14:24:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HOWL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Intel’s stock is set to extend its hot streak. Here’s the company’s latest win.",
+            "link": "https://www.marketwatch.com/story/intels-stock-set-to-extend-its-hot-streak-heres-the-companys-latest-win-7925a95f?mod=mw_rss_topstories",
+            "summary": "Google and Intel are collaborating on CPUs and custom infrastructure chips to scale AI. Google and Intel have been working together on AI chips for years. The two companies are teaming up to develop new chips for AI.",
+            "date": "Thu, 09 Apr 2026 14:17:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TMCR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "You think Iran is only about oil? No, it’s also about your dinner table.",
+            "link": "https://www.marketwatch.com/story/you-think-iran-is-only-about-oil-no-its-also-about-your-dinner-table-636de6a5?mod=mw_rss_topstories",
+            "summary": "Four food-supply chokeholds are squeezing investor portfolios. Here’s what to do before your grocery bill proves it in October.",
+            "date": "Thu, 09 Apr 2026 14:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "YOU",
             "impact": "Bullish"
         },
         {
-            "title": "JD Vance calls Iran ceasefire a 'fragile truce' and says Trump is 'impatient to make progress'",
-            "link": "https://www.cnbc.com/2026/04/08/jd-vance-iran-ceasefire-fragile-truce-hungary-trump.html",
-            "summary": "The U.S. vice president said the response from Iran to the ceasefire had varied, with some 'lying about even the fragile truce that we've already struck'",
-            "date": "Wed, 08 Apr 2026 12:04:30 GMT",
+            "title": "‘Several hurricanes have come close’: I’m 73 and live in a mobile home in Florida. Do I ditch my $2,400 home insurance?",
+            "link": "https://www.marketwatch.com/story/several-hurricanes-have-come-close-im-73-and-live-in-a-mobile-home-in-florida-do-i-ditch-my-2-400-home-insurance-87397157?mod=mw_rss_topstories",
+            "summary": "“I live in a 2016 double-wide mobile home with no mortgage,” she says. “I’m a single mother of two. I’ve never had a mortgage.”",
+            "date": "Thu, 09 Apr 2026 14:08:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Oil prices plunge below $95 after Iran agrees to safe passage through Strait of Hormuz during ceasefire",
-            "link": "https://www.cnbc.com/2026/04/07/oil-prices-iran-war-trump-deadline-strait-hormuz.html",
-            "summary": "U.S. President Donald Trump agreed to the ceasefire with Iran after discussions with Pakistan Prime Minister Shehbaz Sharif. The ceasefire will take place between the United States and Iran.",
-            "date": "Wed, 08 Apr 2026 12:48:40 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CL=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Markets shift back towards potential Fed rate cut this year with Iran ceasefire in place",
-            "link": "https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html",
-            "summary": "Odds for a reduction jumped Wednesday morning, hitting about 43%, according to the CME Group. Odds of a reduction in the U.S. debt ceiling hit about 43% Wednesday morning.",
-            "date": "Wed, 08 Apr 2026 14:25:55 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HOOD",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Delta CEO says airline will 'meaningfully' cut growth plans, sees $300 million boost from its refinery",
-            "link": "https://www.cnbc.com/2026/04/08/delta-air-lines-q1-2026-earnings.html",
-            "summary": "Delta is scaling back its flight plans as fuel costs grow. Delta is trying to reduce its expenses by cutting back on flights. The company is also trying to cut back on the number of flights it flies.",
-            "date": "Wed, 08 Apr 2026 14:20:35 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DAL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why SpaceX could trade like a meme stock after its blockbuster IPO",
-            "link": "https://www.marketwatch.com/story/why-spacex-could-trade-like-a-meme-stock-after-its-blockbuster-ipo-1e03a564?mod=mw_rss_topstories",
-            "summary": "SpaceX has “a massive narrative, a founder with a loyal following, and a valuation likely driven in part by future potential,” says CNN’s John Sutter.",
-            "date": "Wed, 08 Apr 2026 14:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHY.V",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The U.S. government has found ‘alarming instances’ of nursing homes drugging residents and falsifying medical records",
-            "link": "https://www.marketwatch.com/story/nursing-homes-are-drugging-your-parents-to-keep-them-docile-and-falsifying-medical-records-to-cover-it-up-be64f9f9?mod=mw_rss_topstories",
-            "summary": "Nursing homes are sedating vulnerable people in order to keep them docile. The aim is to make them more docile and less aggressive.",
-            "date": "Wed, 08 Apr 2026 13:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ERNAW",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The $7 billion reason the Big Ten is dominating college sports",
-            "link": "https://www.marketwatch.com/story/from-tv-deals-to-titles-why-the-big-tens-money-machine-is-just-getting-started-86df9fd8?mod=mw_rss_topstories",
-            "summary": "A $7 billion TV deal and nationwide reach are fueling the Big Ten’s dominance in college sports. The Big Ten has won the national championship in each of the last three seasons.",
-            "date": "Wed, 08 Apr 2026 13:51:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ERNAW",
-            "impact": "Neutral"
-        },
-        {
-            "title": "What the market is pricing for Fed and global central-bank interest rates after the cease-fire",
-            "link": "https://www.marketwatch.com/story/what-the-market-is-now-pricing-for-fed-and-global-central-bank-interest-rates-after-the-cease-fire-6e0d3d2e?mod=mw_rss_topstories",
-            "summary": "The two-week cease-fire agreed between the U.S. and Iran has left investors less worried that major central banks will raise borrowing costs this year.",
-            "date": "Wed, 08 Apr 2026 13:35:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHATS.BR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Broadcom’s stock picks up a rare downgrade. What’s behind the contrarian call.",
-            "link": "https://www.marketwatch.com/story/broadcoms-stock-picks-up-a-rare-downgrade-whats-behind-the-contrarian-call-26fcd7c5?mod=mw_rss_topstories",
-            "summary": "Analyst worries about a line from a recent Broadcom filing that suggests the company may be somewhat involved in the funding of an Anthropic data center.",
-            "date": "Wed, 08 Apr 2026 13:13:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ANABV",
+            "stock_ticker": "HCT-USD",
             "impact": "Neutral"
         }
     ]
