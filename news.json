@@ -1,124 +1,124 @@
 {
-    "date": "2026-04-09",
+    "date": "2026-04-10",
     "news": [
         {
-            "title": "The Strait of Hormuz is not open as Iran controls access after ceasefire, UAE oil CEO says",
-            "link": "https://www.cnbc.com/2026/04/09/iran-war-oil-strait-hormuz-tanker-ship-uae.html",
-            "summary": "Sultan Ahmed Al Jaber demanded a full reopening of the Strait. He warned that the oil supply disruption will increase if Iran maintains control of the passage.",
-            "date": "Thu, 09 Apr 2026 13:37:55 GMT",
+            "title": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict",
+            "link": "https://www.cnbc.com/2026/04/10/cpi-inflation-report-march-2026.html",
+            "summary": "The consumer price index was expected to show a 3.3% year-over-year gain in March, according to the Dow Jones consensus.",
+            "date": "Fri, 10 Apr 2026 13:37:13 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TMCR",
+            "stock_ticker": "XAP=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major U.S. banks",
+            "link": "https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html",
+            "summary": "Anthropic rolled out the new Mythos AI model to a select group of companies. There are concerns that hackers could exploit its capabilities.",
+            "date": "Fri, 10 Apr 2026 14:06:56 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "POWL",
             "impact": "Bullish"
         },
         {
-            "title": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows",
-            "link": "https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html",
-            "summary": "The gauge offers the Federal Reserve a snapshot of conditions leading into the Iran war. The gauge released Thursday offers the Fed a snapshot into the conditions leading up to the war.",
-            "date": "Thu, 09 Apr 2026 14:38:23 GMT",
+            "title": "CoreWeave adds ninth top AI model provider with deal to power Anthropic's Claude",
+            "link": "https://www.cnbc.com/2026/04/10/coreweave-anthropic-claude-ai-deal.html",
+            "summary": "The deal comes one day after Meta committed an additional $21 billion in spending to the cloud provider. The deal comes as AI demand continues to soar.",
+            "date": "Fri, 10 Apr 2026 14:00:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PCPI",
+            "stock_ticker": "CRWV",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says U.S. ready for 'next conquest,' warns military to remain near Iran until 'real agreement' is honored",
-            "link": "https://www.cnbc.com/2026/04/09/trump-military-troops-iran-conflict-middle-east-hormuz.html",
-            "summary": "The statement came a day after Washington and Tehran agreed to a two-week ceasefire. The ceasefire was brokered by Pakistan, which halted six weeks of fighting.",
-            "date": "Thu, 09 Apr 2026 04:58:43 GMT",
+            "title": "Kevin Warsh Fed chair confirmation plan hits snag as nomination hearing is delayed",
+            "link": "https://www.cnbc.com/2026/04/10/warsh-fed-nomination-hearing-delayed.html",
+            "summary": "Kevin Warsh's nomination already faced a hurdle by Sen. Thom Tillis over a probe of current Chair Jerome Powell. President Trump's nomination of Kevin Warsh as Federal Reserve chair already faces a hurdle.",
+            "date": "Fri, 10 Apr 2026 11:59:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "ZQ=F",
             "impact": "Neutral"
         },
         {
-            "title": "Disney plans layoffs of as many as 1,000 employees",
-            "link": "https://www.cnbc.com/2026/04/09/disney-layoffs-ceo-josh-damaro.html",
-            "summary": "Disney is planning a new phase of cost cutting, including as many as 1,000 layoffs, according to a person familiar with the matter.",
-            "date": "Thu, 09 Apr 2026 14:38:02 GMT",
+            "title": "Defense's Silicon Valley pivot: Ukraine, Iran wars challenge the legacy playbook",
+            "link": "https://www.cnbc.com/2026/04/10/defense-tech-ai-startup-silicon-valley-ukraine-iran-war-stocks.html",
+            "summary": "Companies are betting on a new type of warfare, based on shorter lead times. Short lead times allow for rapid deployments and more cost-effective solutions.",
+            "date": "Fri, 10 Apr 2026 13:51:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DIS",
+            "stock_ticker": "SIMO",
             "impact": "Neutral"
         },
         {
-            "title": "American Airlines makes bag fees even more expensive for basic economy tickets",
-            "link": "https://www.cnbc.com/2026/04/09/american-airlines-bag-fees-basic-economy.html",
-            "summary": "American Airlines is joining Delta, United, Southwest and JetBlue in raising its checked bag fees. The move is in response to high jet fuel prices.",
-            "date": "Thu, 09 Apr 2026 14:35:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The $250 million daily bet: How the Iran crisis triggered a frenzy in leveraged oil trades",
-            "link": "https://www.marketwatch.com/story/the-250-million-daily-bet-how-the-iran-crisis-triggered-a-frenzy-in-leveraged-oil-trades-fc48cdd9?mod=mw_rss_topstories",
-            "summary": "Interest leveraged or inverse ETFs are taking off. Investors have sought new ways to take advantage of volatile energy prices. The interest leveraged and inverseETFs are popular with investors.",
-            "date": "Thu, 09 Apr 2026 14:27:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TMCR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "We’re in our 70s with no heirs. I like donating $30,000 from our $700,000 IRA to charity — my husband disagrees. Who’s right?",
-            "link": "https://www.marketwatch.com/story/were-in-our-70s-with-no-heirs-i-like-donating-30-000-from-our-700-000-ira-to-charity-my-husband-disagrees-whos-right-46080fcc?mod=mw_rss_topstories",
-            "summary": "“Our income — Social Security, his VA disability and three pensions — covers all expenses,” she says. “Our Income — Social security, hisVA disability and 3 pensions — cover all expenses.”",
-            "date": "Thu, 09 Apr 2026 14:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HOWL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Intel’s stock is set to extend its hot streak. Here’s the company’s latest win.",
-            "link": "https://www.marketwatch.com/story/intels-stock-set-to-extend-its-hot-streak-heres-the-companys-latest-win-7925a95f?mod=mw_rss_topstories",
-            "summary": "Google and Intel are collaborating on CPUs and custom infrastructure chips to scale AI. Google and Intel have been working together on AI chips for years. The two companies are teaming up to develop new chips for AI.",
-            "date": "Thu, 09 Apr 2026 14:17:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TMCR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "You think Iran is only about oil? No, it’s also about your dinner table.",
-            "link": "https://www.marketwatch.com/story/you-think-iran-is-only-about-oil-no-its-also-about-your-dinner-table-636de6a5?mod=mw_rss_topstories",
-            "summary": "Four food-supply chokeholds are squeezing investor portfolios. Here’s what to do before your grocery bill proves it in October.",
-            "date": "Thu, 09 Apr 2026 14:12:00 GMT",
+            "title": "You only really need to know one thing to save for retirement",
+            "link": "https://www.marketwatch.com/story/you-only-really-need-to-know-one-thing-to-save-for-retirement-9e377901?mod=mw_rss_topstories",
+            "summary": "Saving for your future can be this simple. Save money for the future by saving for a house or a car. Save for your retirement by saving money for a home or a pension.",
+            "date": "Fri, 10 Apr 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "YOU",
-            "impact": "Bullish"
+            "impact": "Neutral"
         },
         {
-            "title": "‘Several hurricanes have come close’: I’m 73 and live in a mobile home in Florida. Do I ditch my $2,400 home insurance?",
-            "link": "https://www.marketwatch.com/story/several-hurricanes-have-come-close-im-73-and-live-in-a-mobile-home-in-florida-do-i-ditch-my-2-400-home-insurance-87397157?mod=mw_rss_topstories",
-            "summary": "“I live in a 2016 double-wide mobile home with no mortgage,” she says. “I’m a single mother of two. I’ve never had a mortgage.”",
-            "date": "Thu, 09 Apr 2026 14:08:00 GMT",
+            "title": "When should parents start saving for college? The answer may surprise you.",
+            "link": "https://www.marketwatch.com/story/dont-start-saving-for-college-until-you-have-these-4-financial-priorities-under-control-84988ed6?mod=mw_rss_topstories",
+            "summary": "It's OK to postpone saving for college until you have these 4 financial priorities under control. It’s OK to wait to save until you’ve got your financial priorities in order. You’ll be able to focus on other areas of your life.",
+            "date": "Fri, 10 Apr 2026 13:53:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HCT-USD",
+            "stock_ticker": "WHEN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Wall Street’s fear gauge just flashed an unusual signal that could carry the S&P 500 to 7,400 within months",
+            "link": "https://www.marketwatch.com/story/wall-streets-fear-gauge-just-flashed-an-unusual-signal-that-could-carry-the-s-p-500-to-7-400-within-months-f47eb753?mod=mw_rss_topstories",
+            "summary": "The falling VIX is a third sign that the bottom for stocks is in says Fundstrat’s Tom Lee. The falling Vix is also a sign the economy is on the road to recovery, he says.",
+            "date": "Fri, 10 Apr 2026 13:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WBX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "CoreWeave’s stock pops as new Anthropic deal highlights intense scramble for AI compute",
+            "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-anthropic-deal-highlights-intense-scramble-for-ai-compute-77867de3?mod=mw_rss_topstories",
+            "summary": "The deal follows an expanded arrangement with Meta that was announced on Thursday. The deal is expected to be in place for at least two years.",
+            "date": "Fri, 10 Apr 2026 12:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RMIX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Global chaos has become a permanent guest in your portfolio. This strategist says Big Tech and emerging markets are now essentials.",
+            "link": "https://www.marketwatch.com/story/global-chaos-is-now-a-permanent-guest-in-your-portfolio-why-big-tech-and-emerging-markets-are-essential-says-this-strategist-2eff3878?mod=mw_rss_topstories",
+            "summary": "The Strait of Hormuz crisis is not an aberration from the new geopolitical order. Investors need to adjust to this fast, says a Nuveen strategist.",
+            "date": "Fri, 10 Apr 2026 12:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "COIN",
             "impact": "Neutral"
         }
     ]
