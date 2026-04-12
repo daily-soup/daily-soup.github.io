@@ -1,16 +1,16 @@
 {
-    "date": "2026-04-11",
+    "date": "2026-04-12",
     "news": [
         {
-            "title": "U.S.-Iran talks set to begin in Pakistani capital after delegations arrive",
-            "link": "https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html",
-            "summary": "Pakistan confirms arrival of Iran's parliament speaker and foreign minister ahead of talks with a U.S. delegation led by Vice President JD Vance.",
-            "date": "Sat, 11 Apr 2026 13:09:54 GMT",
+            "title": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail",
+            "link": "https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html",
+            "summary": "Trump said the U.S. blockade will stop Iran from policing the strait and benefiting economically. He said the rest of the world suffers from its closure.",
+            "date": "Sun, 12 Apr 2026 13:46:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TALK",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
@@ -38,6 +38,18 @@
             "impact": "Neutral"
         },
         {
+            "title": "Top Wall Street analysts prefer these dividend stocks for steady income",
+            "link": "https://www.cnbc.com/2026/04/12/top-street-analysts-prefer-these-dividend-stocks-for-steady-income-.html",
+            "summary": "Investors may seek to add some stability to their portfolios by buying dividend stocks for steady income. Given ongoing uncertainty, investors may want to buy dividend stocks.",
+            "date": "Sun, 12 Apr 2026 11:18:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOP",
+            "impact": "Neutral"
+        },
+        {
             "title": "Vibe check from inside one of AI industry's main events: 'Claude mania'",
             "link": "https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html",
             "summary": "At the HumanX conference in San Francisco this week, Anthropic's momentum was on everyone's lips. Anthropic is an app that allows users to share photos of themselves with other people.",
@@ -50,10 +62,10 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump praises Palantir as stock has worst week in over a year and Iran conflict drags on",
-            "link": "https://www.cnbc.com/2026/04/10/trump-pltr-palantir-stock-iran-war.html",
-            "summary": "Palantir's Maven platform have reportedly been used in the U.S. military campaign in Iran. Palantir has not commented on the reports.",
-            "date": "Fri, 10 Apr 2026 21:16:19 GMT",
+            "title": "Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting.",
+            "link": "https://www.marketwatch.com/story/vance-leaves-pakistan-talks-with-no-deal-how-financial-markets-are-reacting-ef6916b3?mod=mw_rss_topstories",
+            "summary": "U.S.-Iran talks in Pakistan ended without a deal. U.S. stock futures were sliding and oil was climbing, based on trading via a crypto-based trading platform.",
+            "date": "Sun, 12 Apr 2026 13:44:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,63 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "Are you a ‘HENRY’? Why 90% of financial advisers will waive their minimums to get your business.",
-            "link": "https://www.marketwatch.com/story/are-you-a-henry-why-90-of-financial-advisers-will-waive-their-minimums-to-get-your-business-2b7bd083?mod=mw_rss_topstories",
-            "summary": "Most advisory firms’ $500,000 or $1 million thresholds are just branding tools. Here’s how to tell if you’re actually a good fit for their services.",
-            "date": "Sat, 11 Apr 2026 13:46:00 GMT",
+            "title": "How Beyond Meat sank from a $14 billion plant-based protein powerhouse to a penny stock",
+            "link": "https://www.marketwatch.com/story/how-beyond-meat-sank-from-a-14-billion-plant-based-protein-powerhouse-to-a-penny-stock-464c9781?mod=mw_rss_topstories",
+            "summary": "There's more to Beyond Meat's fall from grace than just falling sales and mounting losses. There's a lot more to the company's fall than just losing money and falling sales.",
+            "date": "Sun, 12 Apr 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ARE",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "We’re in our 70s with no heirs. I like donating $30,000 from our $700,000 IRA to charity — my husband disagrees. Who’s right?",
-            "link": "https://www.marketwatch.com/story/were-in-our-70s-with-no-heirs-i-like-donating-30-000-from-our-700-000-ira-to-charity-my-husband-disagrees-whos-right-46080fcc?mod=mw_rss_topstories",
-            "summary": "“Our income — Social Security, his VA disability and three pensions — covers all expenses,” she says. “Our Income — Social security, hisVA disability and 3 pensions — cover all expenses.”",
-            "date": "Sat, 11 Apr 2026 13:26:00 GMT",
+            "title": "Here are some bargain bank stocks heading into earnings season",
+            "link": "https://www.marketwatch.com/story/here-are-some-bargain-bank-stocks-heading-into-earnings-season-d0e6b3da?mod=mw_rss_topstories",
+            "summary": "A close look at valuations for the largest U.S. banks highlights opportunities for long-term investors. A look at some of the biggest banks in the world. A closer look at one of the largest banks in America.",
+            "date": "Sat, 11 Apr 2026 18:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HOWL",
+            "stock_ticker": "HERE",
             "impact": "Neutral"
         },
         {
-            "title": "‘I plan to exit corporate life’: I’m 50 and have $400,000. My wife is a teacher. Can I retire at 55?",
-            "link": "https://www.marketwatch.com/story/i-plan-to-exit-corporate-life-im-50-and-have-400-000-my-wife-is-a-teacher-can-i-retire-at-55-d296dba0?mod=mw_rss_topstories",
-            "summary": "“I would like to stop working in about five years to spend more time with our child and support my wife,” he said.",
-            "date": "Sat, 11 Apr 2026 13:00:00 GMT",
+            "title": "There are years-long waiting lists to retire on college campuses. 6 steps to take before enrolling.",
+            "link": "https://www.marketwatch.com/story/there-are-years-long-waiting-lists-to-retire-on-college-campuses-6-steps-to-take-before-enrolling-d7bd2d2d?mod=mw_rss_topstories",
+            "summary": "A college community can be great — if you can afford it. Retiring to a college community is a great way to spend time with friends and family.",
+            "date": "Sat, 11 Apr 2026 18:51:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RMIX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Here’s a look at the known damage to Gulf energy facilities as the U.S. and Iran meet for talks",
-            "link": "https://www.marketwatch.com/story/heres-a-look-at-the-known-damage-to-gulf-energy-facilities-as-the-u-s-and-iran-meet-for-talks-c21f7ada?mod=mw_rss_topstories",
-            "summary": "More than 60 energy facilities struck across at least nine countries in the Persian Gulf. Nearly six weeks of war in Middle East saw more than 60 facilities struck.",
-            "date": "Sat, 11 Apr 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
+            "stock_ticker": "MAY-USD",
             "impact": "Neutral"
         },
         {
-            "title": "We asked our wedding guests to give money to St. Jude’s Children’s Hospital. Can we write off their donations?",
-            "link": "https://www.marketwatch.com/story/we-asked-our-wedding-guests-to-give-money-to-st-judes-childrens-hospital-can-we-write-off-their-donations-0a326156?mod=mw_rss_topstories",
-            "summary": "“There were substantial donations made,” says the mayor. “There’s been a lot of support.” “We’ve been very fortunate,’ the mayor adds.",
-            "date": "Sat, 11 Apr 2026 12:56:00 GMT",
+            "title": "United Airlines wants even higher ticket prices. It’ll get them — with or without the Iran war.",
+            "link": "https://www.marketwatch.com/story/united-airlines-wants-even-higher-ticket-prices-itll-get-them-with-or-without-the-iran-war-4833e1d1?mod=mw_rss_topstories",
+            "summary": "United’s new ‘luxury’ strategy is a risky bet for investors when fares and complaints are sky-high. United have been criticised for their high prices and poor service.",
+            "date": "Sat, 11 Apr 2026 18:42:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WDC",
+            "stock_ticker": "UPS",
             "impact": "Neutral"
         }
     ]
