@@ -1,124 +1,124 @@
 {
-    "date": "2026-04-13",
+    "date": "2026-04-16",
     "news": [
         {
-            "title": "U.S. begins blockade of Strait of Hormuz",
-            "link": "https://www.cnbc.com/2026/04/13/trump-iran-war-strait-of-hormuz-blockade.html",
-            "summary": "The U.S. blockade would apply to \"any and all Ships trying to enter, or leave, the Strait of Hormuz,\" President Donald Trump said.",
-            "date": "Mon, 13 Apr 2026 14:13:16 GMT",
+            "title": "TSMC and ASML post-earnings stock moves could be a sign of what's to come from chip companies",
+            "link": "https://www.cnbc.com/2026/04/16/taiwan-semi-tsm-asml-stock-earnings-ai-chips.html",
+            "summary": "TSMC and ASML failed to catch major tailwinds from strong earnings. It could be a bellwether for the chip industry as a whole.",
+            "date": "Thu, 16 Apr 2026 14:15:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUP=F",
+            "stock_ticker": "TSMC34.SA",
             "impact": "Neutral"
         },
         {
-            "title": "Goldman Sachs tops estimates on record equities trading — here's why the stock is falling",
-            "link": "https://www.cnbc.com/2026/04/13/goldman-sachs-gs-earnings-1q-2026.html",
-            "summary": "Goldman Sachs posted record equities trading revenue for the first quarter. The overall firm to its second-highest quarterly revenue. Goldman Sachs posted a record $1.2 billion in first-quarter revenue.",
-            "date": "Mon, 13 Apr 2026 14:03:18 GMT",
+            "title": "U.S. Navy stopped 13 ships from passing Iranian port blockade, Pentagon says",
+            "link": "https://www.cnbc.com/2026/04/16/trump-iran-war-hormuz-strait-blockade.html",
+            "summary": "The U.S. has signaled optimism about the prospect of reaching a diplomatic end to the Iran war. The U.N. Security Council is expected to meet this week to discuss the situation.",
+            "date": "Thu, 16 Apr 2026 13:42:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GS",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Revolution Medicines says its potential breakthrough pancreatic cancer drug succeeds in late-stage trial",
-            "link": "https://www.cnbc.com/2026/04/13/pancreatic-cancer-drug-daraxonrasib-from-revolution-medicines-succeeds-in-trial.html",
-            "summary": "Revolution Medicines' drug for pancreatic cancer succeeds in a highly anticipated Phase 3 trial. The drug is the first of its kind to be approved in the U.S.",
-            "date": "Mon, 13 Apr 2026 14:17:42 GMT",
+            "title": "Anthropic rolls out Claude Opus 4.7, an AI model that is 'broadly less capable' than Mythos",
+            "link": "https://www.cnbc.com/2026/04/16/anthropic-claude-opus-4-7-model-mythos.html",
+            "summary": "Claude Mythos Preview is Anthropic's most powerful AI model. It excels at identifying weaknesses and security flaws within software. It can be used to identify and fix security holes in software.",
+            "date": "Thu, 16 Apr 2026 14:47:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RVMD",
+            "stock_ticker": "ANTHROPIC-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Judge dismisses Trump defamation lawsuit against Murdoch, WSJ about Epstein letter",
-            "link": "https://www.cnbc.com/2026/04/13/trump-epstein-murdoch-wsj-lawsuit-dismissed.html",
-            "summary": "Trump denies sending a bawdy 50th birthday letter to his then-friend Jeffrey Epstein. The letter was sent at the request of Ghislaine Maxwell.",
-            "date": "Mon, 13 Apr 2026 14:16:08 GMT",
+            "title": "Charles Schwab to launch direct bitcoin, ethereum trading to compete with Robinhood",
+            "link": "https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html",
+            "summary": "Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether. Schwab Crypto is a new arm of Charles Schwab.",
+            "date": "Thu, 16 Apr 2026 14:48:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JDG.L",
+            "stock_ticker": "SCHW",
             "impact": "Neutral"
         },
         {
-            "title": "OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients",
-            "link": "https://www.cnbc.com/2026/04/13/openai-touts-amazon-alliance-in-memo-microsoft-limited-our-ability.html",
-            "summary": "OpenAI's new revenue chief points to the artificial intelligence company's ongoing effort to reduce its reliance on Microsoft. In an internal memo, Open AI's new Revenue Chief pointed to the company's efforts to reduce reliance onMicrosoft.",
-            "date": "Mon, 13 Apr 2026 14:24:20 GMT",
+            "title": "Airline CEOs urged by lawmaker to lower fares if fuel prices come down",
+            "link": "https://www.cnbc.com/2026/04/16/airline-ceos-prices.html",
+            "summary": "Airlines have raised airfare, fuel surcharges and baggage fees this year to help cover a surge in fuel costs since the Iran war started.",
+            "date": "Thu, 16 Apr 2026 13:44:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OPEAZZX",
+            "stock_ticker": "AAL",
             "impact": "Neutral"
         },
         {
-            "title": "Trump’s blockade takes effect. Here’s why stocks are only off modestly for now.",
-            "link": "https://www.marketwatch.com/story/trumps-blockade-is-starting-heres-why-stocks-are-only-off-modestly-for-now-bcbb67d8?mod=mw_rss_topstories",
-            "summary": "The U.S. military is implementing a blockade on all ships entering and exiting Iranian ports. President Donald Trump and the Pentagon both said the blockade would be starting at 10 a.m. Eastern.",
-            "date": "Mon, 13 Apr 2026 14:02:00 GMT",
+            "title": "People are actively managing their money more than ever, Charles Schwab says",
+            "link": "https://www.marketwatch.com/story/people-are-actively-managing-their-money-more-than-ever-charles-schwab-says-bd2199a1?mod=mw_rss_topstories",
+            "summary": "Charles Schwab's stock was leading the S&amp;P 500’s decliners Thursday. Revenue rose to a quarterly record amid record trading activity, but missed expectations.",
+            "date": "Thu, 16 Apr 2026 14:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EFF0.F",
+            "stock_ticker": "SNG.MC",
             "impact": "Neutral"
         },
         {
-            "title": "Private credit not only won’t spark a financial crisis — it may be more stable than your bank",
-            "link": "https://www.marketwatch.com/story/private-credit-is-actually-built-to-survive-the-ghosts-of-the-great-financial-crisis-6eaa35d6?mod=mw_rss_topstories",
-            "summary": "With 65% equity cushions and 10-year lockups, Wall Street’s ‘anti-banks’ won’t face a ‘Lehman moment’",
-            "date": "Mon, 13 Apr 2026 13:50:00 GMT",
+            "title": "I’m selling my law practice and retiring. Do I pay off the $2 million mortgage on my office building — or rent it out?",
+            "link": "https://www.marketwatch.com/story/im-selling-my-law-practice-and-retiring-do-i-pay-off-the-2-million-loan-on-my-office-building-or-keep-the-mortgage-e8a4015b?mod=mw_rss_topstories",
+            "summary": "“My wife is not a fan of tying up $2 million of equity in one building,” he says. “I don’t want to be in a building that’s worth that much equity.”",
+            "date": "Thu, 16 Apr 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XOVR",
+            "stock_ticker": "IBRX",
             "impact": "Bullish"
         },
         {
-            "title": "Why ‘Rule of 10’ stocks like Nvidia and Meta are now poised for a comeback, according to Goldman Sachs",
-            "link": "https://www.marketwatch.com/story/why-rule-of-10-stocks-like-nvidia-and-meta-are-now-poised-for-a-comeback-according-to-goldman-sachs-349b5531?mod=mw_rss_topstories",
-            "summary": "Higher bond yields have been hitting secular growth stocks, but that may be about to change. Higher bond yields may be hitting secular Growth stocks, too.",
-            "date": "Mon, 13 Apr 2026 13:31:00 GMT",
+            "title": "A bullish indicator for software stocks just flashed. Why a true comeback could be in the cards.",
+            "link": "https://www.marketwatch.com/story/a-bullish-indicator-for-software-stocks-just-flashed-why-a-true-comeback-could-be-in-the-cards-129f0010?mod=mw_rss_topstories",
+            "summary": "The software sector has closed above its 50-day moving average in a key technical breakout. After a five-month slide fueled by AI disruption fears, the software sector is back on track.",
+            "date": "Thu, 16 Apr 2026 13:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYRF",
+            "stock_ticker": "A",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Planning to age in place? Watch out for these hidden costs.",
+            "link": "https://www.marketwatch.com/story/most-retirees-want-to-age-in-their-own-homes-but-theyre-not-factoring-in-these-hidden-costs-3e0467e9?mod=mw_rss_topstories",
+            "summary": "Most retirees want to stay in their homes as they age. It might not be worth it, experts say. The cost of staying in your home may be too high.",
+            "date": "Thu, 16 Apr 2026 13:22:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "300864.SZ",
             "impact": "Neutral"
         },
         {
-            "title": "My friend’s girlfriend went ‘ballistic’ after he gave his kids $19,000 a year. Is this a red flag?",
-            "link": "https://www.marketwatch.com/story/my-friends-girlfriend-went-ballistic-after-he-gave-his-kids-19-000-a-year-is-this-a-red-flag-c894366f?mod=mw_rss_topstories",
-            "summary": "“He spent $1,000 on his girlfriend at Christmas and several hundred dollars on each of her children,” the woman said.",
-            "date": "Mon, 13 Apr 2026 13:20:00 GMT",
+            "title": "‘I’m in my 30s and majored in finance’: In the age of AI, which pays off — a CFA or an executive MBA?",
+            "link": "https://www.marketwatch.com/story/im-in-my-30s-and-majored-in-finance-in-the-age-of-ai-which-pays-off-a-cfa-or-an-executive-mba-15350461?mod=mw_rss_topstories",
+            "summary": "“I want long-term job security and to not be in a crazy amount of debt,” she says. “I don’t want to be in debt for the rest of my life.”",
+            "date": "Thu, 16 Apr 2026 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The best places to invest now are Chinese tech stocks and this out-of-fashion sector, according to Bank of America",
-            "link": "https://www.marketwatch.com/story/why-the-best-stock-markets-bets-are-chinese-tech-stocks-and-this-out-of-fashion-sector-according-to-bank-of-america-d2ec6b6d?mod=mw_rss_topstories",
-            "summary": "Bank of America’s Michael Hartnett reckons the stock market is now too big to fail. So no rate increases before the midterms and a Sino-American detente in May.",
-            "date": "Mon, 13 Apr 2026 13:12:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ERNAW",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         }
     ]
