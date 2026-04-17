@@ -1,23 +1,95 @@
 {
-    "date": "2026-04-16",
+    "date": "2026-04-17",
     "news": [
         {
-            "title": "TSMC and ASML post-earnings stock moves could be a sign of what's to come from chip companies",
-            "link": "https://www.cnbc.com/2026/04/16/taiwan-semi-tsm-asml-stock-earnings-ai-chips.html",
-            "summary": "TSMC and ASML failed to catch major tailwinds from strong earnings. It could be a bellwether for the chip industry as a whole.",
-            "date": "Thu, 16 Apr 2026 14:15:11 GMT",
+            "title": "Iran declares Strait of Hormuz open to shipping; Trump says U.S. blockade still active",
+            "link": "https://www.cnbc.com/2026/04/17/iran-war-hormuz-strait-israel-lebanon-ceasefire.html",
+            "summary": "The Strait of Hormuz has remained almost completely closed as the U.S. and Iran have disputed the terms of their ceasefire agreement.",
+            "date": "Fri, 17 Apr 2026 14:12:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSMC34.SA",
+            "stock_ticker": "RANI3F.SA",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. Navy stopped 13 ships from passing Iranian port blockade, Pentagon says",
-            "link": "https://www.cnbc.com/2026/04/16/trump-iran-war-hormuz-strait-blockade.html",
-            "summary": "The U.S. has signaled optimism about the prospect of reaching a diplomatic end to the Iran war. The U.N. Security Council is expected to meet this week to discuss the situation.",
-            "date": "Thu, 16 Apr 2026 13:42:53 GMT",
+            "title": "Oil prices tumble more than 10% as Iran declares Strait of Hormuz open, easing supply fears",
+            "link": "https://www.cnbc.com/2026/04/17/oil-prices-wti-brent-israel-lebanon-ceasefire-trump.html",
+            "summary": "Iran declared the Strait of Hormuz open amid a ceasefire deal with Lebanon. Oil prices tumbled more than 10% after the announcement.",
+            "date": "Fri, 17 Apr 2026 14:02:05 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CL=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Netflix was long 'a builder not a buyer.' Is that era over?",
+            "link": "https://www.cnbc.com/2026/04/17/netflix-mergers-m-a-strategy.html",
+            "summary": "Netflix co-CEO Ted Sarandos said the company built its 'M&amp;A muscle' during its pursuit for WBD's assets.",
+            "date": "Fri, 17 Apr 2026 13:27:56 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NFLX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "AMD, Oracle, Microsoft and the IGV lead a monster week for tech stocks",
+            "link": "https://www.cnbc.com/2026/04/17/big-tech-stocks-winning-streaks-oracle-amd-microsoft-igv-.html",
+            "summary": "Oracle, AMD and Microsoft are on pace for historic weeks. Intel, Broadcom, Micron, Marvell and ON Semiconductor are all roaring in April.",
+            "date": "Fri, 17 Apr 2026 14:08:53 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AMD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "House Dem Sam Liccardo probes suspicious oil trades during Iran war",
+            "link": "https://www.cnbc.com/2026/04/17/house-dem-probe-iran-war-trades-suspicious.html",
+            "summary": "A number of well-timed trades during the war have caught the attention of lawmakers and regulators. The U.S. government has been cracking down on trading during the conflict.",
+            "date": "Fri, 17 Apr 2026 13:30:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FLL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Mortgage rates dip to 4-week low — just in time for the best week of the year to sell a home",
+            "link": "https://www.marketwatch.com/story/mortgage-rates-dip-to-4-week-low-just-in-time-for-the-best-week-of-the-year-to-sell-a-home-c921a9b1?mod=mw_rss_topstories",
+            "summary": "Mortgage rates fell for the second straight week, setting the spring home-buying season up for a reboot. Inflation worries linked to the Iran war sent rates climbing last month.",
+            "date": "Fri, 17 Apr 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MGE=F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "These insurance companies are sending record-breaking cash payouts to their customers this year. Should you switch plans?",
+            "link": "https://www.marketwatch.com/story/mutual-insurance-companies-are-paying-record-breaking-dividends-to-their-customers-this-year-is-using-one-right-for-you-cb6717e8?mod=mw_rss_topstories",
+            "summary": "Mutual-insurance companies are owned by their customers. While most carriers pocket your premiums, mutual-ins insurance companies are often owned by customers.",
+            "date": "Fri, 17 Apr 2026 13:56:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001YPM3.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "U.S. oil prices plunge to around $80 a barrel after Iran declares Strait of Hormuz ‘completely open’ during cease-fire",
+            "link": "https://www.marketwatch.com/story/oil-prices-dropping-after-trump-says-iran-war-should-end-pretty-soon-da53676a?mod=mw_rss_topstories",
+            "summary": "Strait of Hormuz is declared open for the passage of all commercial vessels for the remaining period of the cease-fire. Oil prices were plunging on Friday morning after Iran’s foreign minister said the Strait was open.",
+            "date": "Fri, 17 Apr 2026 13:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,100 +98,28 @@
             "impact": "Neutral"
         },
         {
-            "title": "Anthropic rolls out Claude Opus 4.7, an AI model that is 'broadly less capable' than Mythos",
-            "link": "https://www.cnbc.com/2026/04/16/anthropic-claude-opus-4-7-model-mythos.html",
-            "summary": "Claude Mythos Preview is Anthropic's most powerful AI model. It excels at identifying weaknesses and security flaws within software. It can be used to identify and fix security holes in software.",
-            "date": "Thu, 16 Apr 2026 14:47:01 GMT",
+            "title": "These two sectors have been boosted by AI hopes. Why investors should buy one, and trim exposure to the other.",
+            "link": "https://www.marketwatch.com/story/these-two-sectors-have-been-boosted-by-ai-hopes-why-investors-should-buy-one-and-trim-exposure-to-the-other-55f7a34a?mod=mw_rss_topstories",
+            "summary": "Technology has lifted the market higher and has further to go, says Ned Davis Research. The market has been lifted by technology, but there is still a long way to go.",
+            "date": "Fri, 17 Apr 2026 13:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ANTHROPIC-USD",
+            "stock_ticker": "0P0001YPM3.L",
             "impact": "Neutral"
         },
         {
-            "title": "Charles Schwab to launch direct bitcoin, ethereum trading to compete with Robinhood",
-            "link": "https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html",
-            "summary": "Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether. Schwab Crypto is a new arm of Charles Schwab.",
-            "date": "Thu, 16 Apr 2026 14:48:37 GMT",
+            "title": "Even OpenAI’s top economist thinks the AI job apocalypse is overstated. Here’s why.",
+            "link": "https://www.marketwatch.com/story/even-openais-top-economist-thinks-the-ai-job-apocalypse-is-overstated-heres-why-7e920e7a?mod=mw_rss_topstories",
+            "summary": "OpenAI has done an in-depth study at just what AI disruption means for the jobs market. The study pushes back at some gloomier forecasts.",
+            "date": "Fri, 17 Apr 2026 12:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SCHW",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Airline CEOs urged by lawmaker to lower fares if fuel prices come down",
-            "link": "https://www.cnbc.com/2026/04/16/airline-ceos-prices.html",
-            "summary": "Airlines have raised airfare, fuel surcharges and baggage fees this year to help cover a surge in fuel costs since the Iran war started.",
-            "date": "Thu, 16 Apr 2026 13:44:30 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "People are actively managing their money more than ever, Charles Schwab says",
-            "link": "https://www.marketwatch.com/story/people-are-actively-managing-their-money-more-than-ever-charles-schwab-says-bd2199a1?mod=mw_rss_topstories",
-            "summary": "Charles Schwab's stock was leading the S&amp;P 500’s decliners Thursday. Revenue rose to a quarterly record amid record trading activity, but missed expectations.",
-            "date": "Thu, 16 Apr 2026 14:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SNG.MC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m selling my law practice and retiring. Do I pay off the $2 million mortgage on my office building — or rent it out?",
-            "link": "https://www.marketwatch.com/story/im-selling-my-law-practice-and-retiring-do-i-pay-off-the-2-million-loan-on-my-office-building-or-keep-the-mortgage-e8a4015b?mod=mw_rss_topstories",
-            "summary": "“My wife is not a fan of tying up $2 million of equity in one building,” he says. “I don’t want to be in a building that’s worth that much equity.”",
-            "date": "Thu, 16 Apr 2026 14:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "GLO.PA",
             "impact": "Bullish"
-        },
-        {
-            "title": "A bullish indicator for software stocks just flashed. Why a true comeback could be in the cards.",
-            "link": "https://www.marketwatch.com/story/a-bullish-indicator-for-software-stocks-just-flashed-why-a-true-comeback-could-be-in-the-cards-129f0010?mod=mw_rss_topstories",
-            "summary": "The software sector has closed above its 50-day moving average in a key technical breakout. After a five-month slide fueled by AI disruption fears, the software sector is back on track.",
-            "date": "Thu, 16 Apr 2026 13:59:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Planning to age in place? Watch out for these hidden costs.",
-            "link": "https://www.marketwatch.com/story/most-retirees-want-to-age-in-their-own-homes-but-theyre-not-factoring-in-these-hidden-costs-3e0467e9?mod=mw_rss_topstories",
-            "summary": "Most retirees want to stay in their homes as they age. It might not be worth it, experts say. The cost of staying in your home may be too high.",
-            "date": "Thu, 16 Apr 2026 13:22:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "300864.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m in my 30s and majored in finance’: In the age of AI, which pays off — a CFA or an executive MBA?",
-            "link": "https://www.marketwatch.com/story/im-in-my-30s-and-majored-in-finance-in-the-age-of-ai-which-pays-off-a-cfa-or-an-executive-mba-15350461?mod=mw_rss_topstories",
-            "summary": "“I want long-term job security and to not be in a crazy amount of debt,” she says. “I don’t want to be in debt for the rest of my life.”",
-            "date": "Thu, 16 Apr 2026 13:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
         }
     ]
 }
