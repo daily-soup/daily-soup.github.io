@@ -1,11 +1,11 @@
 {
-    "date": "2026-04-17",
+    "date": "2026-04-18",
     "news": [
         {
-            "title": "Iran declares Strait of Hormuz open to shipping; Trump says U.S. blockade still active",
-            "link": "https://www.cnbc.com/2026/04/17/iran-war-hormuz-strait-israel-lebanon-ceasefire.html",
-            "summary": "The Strait of Hormuz has remained almost completely closed as the U.S. and Iran have disputed the terms of their ceasefire agreement.",
-            "date": "Fri, 17 Apr 2026 14:12:31 GMT",
+            "title": "Iran says Strait of Hormuz is closed again as vessel attempting to cross comes under gunfire",
+            "link": "https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html",
+            "summary": "Iranian officials say they have closed the strait because of the U.S.'s ongoing blockade of its ports. Iranian officials say it is in response to a U.N. Security Council resolution passed earlier this week.",
+            "date": "Sat, 18 Apr 2026 12:23:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,70 +14,82 @@
             "impact": "Neutral"
         },
         {
-            "title": "Oil prices tumble more than 10% as Iran declares Strait of Hormuz open, easing supply fears",
-            "link": "https://www.cnbc.com/2026/04/17/oil-prices-wti-brent-israel-lebanon-ceasefire-trump.html",
-            "summary": "Iran declared the Strait of Hormuz open amid a ceasefire deal with Lebanon. Oil prices tumbled more than 10% after the announcement.",
-            "date": "Fri, 17 Apr 2026 14:02:05 GMT",
+            "title": "We spoke to over 30 central bankers, policymakers and politicians. Here are their top concerns",
+            "link": "https://www.cnbc.com/2026/04/18/iran-war-inflation-prices-energy-trump-economy-end.html",
+            "summary": "The U.S.-Iran war is one of the biggest risks facing the world, experts say. From stagflation to energy security, policymakers talk about the risks.",
+            "date": "Sat, 18 Apr 2026 10:24:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "WFC",
             "impact": "Neutral"
         },
         {
-            "title": "Netflix was long 'a builder not a buyer.' Is that era over?",
-            "link": "https://www.cnbc.com/2026/04/17/netflix-mergers-m-a-strategy.html",
-            "summary": "Netflix co-CEO Ted Sarandos said the company built its 'M&amp;A muscle' during its pursuit for WBD's assets.",
-            "date": "Fri, 17 Apr 2026 13:27:56 GMT",
+            "title": "Berkshire shares left behind as S&P 500 rallies to record high",
+            "link": "https://www.cnbc.com/2026/04/18/berkshire-shares-left-behind-as-sp-500-rallies-to-record-high.html",
+            "summary": "Berkshire's shares slipped to MTD drops of just under 1%. While the overall market was soaring over the past two weeks, Berkshire wasn't doing much of anything.",
+            "date": "Sat, 18 Apr 2026 12:56:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NFLX",
+            "stock_ticker": "BRK-B",
             "impact": "Neutral"
         },
         {
-            "title": "AMD, Oracle, Microsoft and the IGV lead a monster week for tech stocks",
-            "link": "https://www.cnbc.com/2026/04/17/big-tech-stocks-winning-streaks-oracle-amd-microsoft-igv-.html",
-            "summary": "Oracle, AMD and Microsoft are on pace for historic weeks. Intel, Broadcom, Micron, Marvell and ON Semiconductor are all roaring in April.",
-            "date": "Fri, 17 Apr 2026 14:08:53 GMT",
+            "title": "Iran war, $4 gas prices, took all the fun right out of the U.S. consumer economy",
+            "link": "https://www.cnbc.com/2026/04/18/iran-war-gas-prices-consumer-spending-economy.html",
+            "summary": "The U.S.-Iran war and $4 gas prices are hitting local economies hard. Consumers are still spending amid the war, but there's a pullback at entertainment and dining venues.",
+            "date": "Sat, 18 Apr 2026 13:31:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMD",
+            "stock_ticker": "RANI3F.SA",
             "impact": "Neutral"
         },
         {
-            "title": "House Dem Sam Liccardo probes suspicious oil trades during Iran war",
-            "link": "https://www.cnbc.com/2026/04/17/house-dem-probe-iran-war-trades-suspicious.html",
-            "summary": "A number of well-timed trades during the war have caught the attention of lawmakers and regulators. The U.S. government has been cracking down on trading during the conflict.",
-            "date": "Fri, 17 Apr 2026 13:30:01 GMT",
+            "title": "'It's just scale': Local mom-and-pop car dealerships are growing or dying amid industry consolidation, rise of mega-retailers",
+            "link": "https://www.cnbc.com/2026/04/18/car-dealerships-auto-retail.html",
+            "summary": "Multibillion-dollar dealerships have been on the rise amid a decadeslong consolidation that has led to a grow-or-die mentality for many U.S. auto retailers.",
+            "date": "Sat, 18 Apr 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FLL",
+            "stock_ticker": "SITS",
             "impact": "Neutral"
         },
         {
-            "title": "Mortgage rates dip to 4-week low — just in time for the best week of the year to sell a home",
-            "link": "https://www.marketwatch.com/story/mortgage-rates-dip-to-4-week-low-just-in-time-for-the-best-week-of-the-year-to-sell-a-home-c921a9b1?mod=mw_rss_topstories",
-            "summary": "Mortgage rates fell for the second straight week, setting the spring home-buying season up for a reboot. Inflation worries linked to the Iran war sent rates climbing last month.",
-            "date": "Fri, 17 Apr 2026 14:00:00 GMT",
+            "title": "Trump expects his Fed chair nominee to cut interest rates. Here’s how Kevin Warsh might try to do it.",
+            "link": "https://www.marketwatch.com/story/trump-expects-his-fed-chair-nominee-to-cut-interest-rates-heres-how-kevin-warsh-might-try-to-do-it-f4cf11cd?mod=mw_rss_topstories",
+            "summary": "Warsh will be pressed on his outlook for rates at his Senate confirmation hearing Tuesday. Warsh is expected to be confirmed as the next head of the Fed.",
+            "date": "Sat, 18 Apr 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MGE=F",
-            "impact": "Bullish"
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
         },
         {
-            "title": "These insurance companies are sending record-breaking cash payouts to their customers this year. Should you switch plans?",
-            "link": "https://www.marketwatch.com/story/mutual-insurance-companies-are-paying-record-breaking-dividends-to-their-customers-this-year-is-using-one-right-for-you-cb6717e8?mod=mw_rss_topstories",
-            "summary": "Mutual-insurance companies are owned by their customers. While most carriers pocket your premiums, mutual-ins insurance companies are often owned by customers.",
-            "date": "Fri, 17 Apr 2026 13:56:00 GMT",
+            "title": "‘I hope to retire at 59’: I have $950,000 in my 401(k)s. When do I do a Roth conversion?",
+            "link": "https://www.marketwatch.com/story/i-hope-to-retire-at-59-i-have-950-000-in-my-401-k-s-when-do-i-do-a-roth-conversion-07bf2c58?mod=mw_rss_topstories",
+            "summary": "Roth conversions are permanent. Once done, they cannot be undone. Roth conversions can only be made after a Roth conversion has been made.",
+            "date": "Sat, 18 Apr 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ARXS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These Alzheimer’s drugs were supposed to revolutionize the way we fight the disease. The reality is more complicated.",
+            "link": "https://www.marketwatch.com/story/these-alzheimers-drugs-were-supposed-to-revolutionize-the-way-we-fight-the-disease-the-reality-is-more-complicated-80223b95?mod=mw_rss_topstories",
+            "summary": "A scientific report has raised questions about how much Leqimbi and Kisunla really help slow the disease. The drugs have been on the market in the last few years.",
+            "date": "Sat, 18 Apr 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,40 +98,28 @@
             "impact": "Neutral"
         },
         {
-            "title": "U.S. oil prices plunge to around $80 a barrel after Iran declares Strait of Hormuz ‘completely open’ during cease-fire",
-            "link": "https://www.marketwatch.com/story/oil-prices-dropping-after-trump-says-iran-war-should-end-pretty-soon-da53676a?mod=mw_rss_topstories",
-            "summary": "Strait of Hormuz is declared open for the passage of all commercial vessels for the remaining period of the cease-fire. Oil prices were plunging on Friday morning after Iran’s foreign minister said the Strait was open.",
-            "date": "Fri, 17 Apr 2026 13:52:00 GMT",
+            "title": "Reed Hastings created a work culture that made Netflix a giant. Can it survive without him?",
+            "link": "https://www.marketwatch.com/story/reed-hastings-created-a-work-culture-that-made-netflix-a-giant-can-it-survive-without-him-cb6d0508?mod=mw_rss_topstories",
+            "summary": "Hastings insisted that employees be ready to give and receive constructive criticism at all times. He said people should be willing to argue for their ideas.",
+            "date": "Sat, 18 Apr 2026 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "REED",
             "impact": "Neutral"
         },
         {
-            "title": "These two sectors have been boosted by AI hopes. Why investors should buy one, and trim exposure to the other.",
-            "link": "https://www.marketwatch.com/story/these-two-sectors-have-been-boosted-by-ai-hopes-why-investors-should-buy-one-and-trim-exposure-to-the-other-55f7a34a?mod=mw_rss_topstories",
-            "summary": "Technology has lifted the market higher and has further to go, says Ned Davis Research. The market has been lifted by technology, but there is still a long way to go.",
-            "date": "Fri, 17 Apr 2026 13:31:00 GMT",
+            "title": "The real outcome of the Iran war: America is now the world’s most secure energy power",
+            "link": "https://www.marketwatch.com/story/the-real-outcome-of-the-iran-war-america-is-now-the-worlds-most-secure-energy-power-70498648?mod=mw_rss_topstories",
+            "summary": "The U.S. has fuel and is a safe alternative to the Gulf. Trump’s message is ‘buy American’",
+            "date": "Sat, 18 Apr 2026 12:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001YPM3.L",
+            "stock_ticker": "KLRA",
             "impact": "Neutral"
-        },
-        {
-            "title": "Even OpenAI’s top economist thinks the AI job apocalypse is overstated. Here’s why.",
-            "link": "https://www.marketwatch.com/story/even-openais-top-economist-thinks-the-ai-job-apocalypse-is-overstated-heres-why-7e920e7a?mod=mw_rss_topstories",
-            "summary": "OpenAI has done an in-depth study at just what AI disruption means for the jobs market. The study pushes back at some gloomier forecasts.",
-            "date": "Fri, 17 Apr 2026 12:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GLO.PA",
-            "impact": "Bullish"
         }
     ]
 }
