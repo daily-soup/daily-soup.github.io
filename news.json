@@ -1,16 +1,28 @@
 {
-    "date": "2026-04-18",
+    "date": "2026-04-19",
     "news": [
         {
-            "title": "Iran says Strait of Hormuz is closed again as vessel attempting to cross comes under gunfire",
-            "link": "https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html",
-            "summary": "Iranian officials say they have closed the strait because of the U.S.'s ongoing blockade of its ports. Iranian officials say it is in response to a U.N. Security Council resolution passed earlier this week.",
-            "date": "Sat, 18 Apr 2026 12:23:31 GMT",
+            "title": "Trump says talks between U.S. and Iran to resume in Pakistan on Monday",
+            "link": "https://www.cnbc.com/2026/04/19/iran-says-talks-continue-while-it-retains-control-of-strait-of-hormuz-.html",
+            "summary": "Iran's top negotiator says his government has \"no trust\" in its enemies. Trump says the U.S. won't be blackmailed.",
+            "date": "Sun, 19 Apr 2026 13:36:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3F.SA",
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SiIicon Valley's AI agent hiccups: Wasted tokens and 'chaotic' systems",
+            "link": "https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html",
+            "summary": "N Nvidia CEO Jensen Huang told CNBC's Jim Cramer in March that AI agents are \"definitely the next ChatGPT\" Huang: \"AI agents are definitely the next chatGPT.\"",
+            "date": "Sun, 19 Apr 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AI",
             "impact": "Neutral"
         },
         {
@@ -38,87 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "Iran war, $4 gas prices, took all the fun right out of the U.S. consumer economy",
-            "link": "https://www.cnbc.com/2026/04/18/iran-war-gas-prices-consumer-spending-economy.html",
-            "summary": "The U.S.-Iran war and $4 gas prices are hitting local economies hard. Consumers are still spending amid the war, but there's a pullback at entertainment and dining venues.",
-            "date": "Sat, 18 Apr 2026 13:31:50 GMT",
+            "title": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
+            "link": "https://www.cnbc.com/2026/04/19/top-analysts-are-bullish-on-these-3-stocks-for-the-long-haul.html",
+            "summary": "Picking stocks can be challenging due to the vast universe of equities. Investors can follow the ratings of top Street analysts and make informed decisions.",
+            "date": "Sun, 19 Apr 2026 12:26:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3F.SA",
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
-            "title": "'It's just scale': Local mom-and-pop car dealerships are growing or dying amid industry consolidation, rise of mega-retailers",
-            "link": "https://www.cnbc.com/2026/04/18/car-dealerships-auto-retail.html",
-            "summary": "Multibillion-dollar dealerships have been on the rise amid a decadeslong consolidation that has led to a grow-or-die mentality for many U.S. auto retailers.",
-            "date": "Sat, 18 Apr 2026 12:00:01 GMT",
+            "title": "I’m planning to retire at 60. Should I sell my house and invest the $500,000?",
+            "link": "https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories",
+            "summary": "“Renting improves cash flow by about $1,300 a month’s worth of rent,” says the owner. “Renters get better value for their money.”",
+            "date": "Sun, 19 Apr 2026 12:36:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SITS",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "Trump expects his Fed chair nominee to cut interest rates. Here’s how Kevin Warsh might try to do it.",
-            "link": "https://www.marketwatch.com/story/trump-expects-his-fed-chair-nominee-to-cut-interest-rates-heres-how-kevin-warsh-might-try-to-do-it-f4cf11cd?mod=mw_rss_topstories",
-            "summary": "Warsh will be pressed on his outlook for rates at his Senate confirmation hearing Tuesday. Warsh is expected to be confirmed as the next head of the Fed.",
-            "date": "Sat, 18 Apr 2026 13:00:00 GMT",
+            "title": "‘I have full guardianship’: My son has special needs. If I buy him a condo, will that hurt his benefits?",
+            "link": "https://www.marketwatch.com/story/i-have-full-guardianship-my-son-has-special-needs-if-i-buy-him-a-condo-will-that-hurt-his-benefits-6f26e904?mod=mw_rss_topstories",
+            "summary": "“Another option would be for me to purchase the condo myself and have him pay me rent,” she said. “I’d like to be able to live in my own home.”",
+            "date": "Sun, 19 Apr 2026 11:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "MU",
             "impact": "Neutral"
         },
         {
-            "title": "‘I hope to retire at 59’: I have $950,000 in my 401(k)s. When do I do a Roth conversion?",
-            "link": "https://www.marketwatch.com/story/i-hope-to-retire-at-59-i-have-950-000-in-my-401-k-s-when-do-i-do-a-roth-conversion-07bf2c58?mod=mw_rss_topstories",
-            "summary": "Roth conversions are permanent. Once done, they cannot be undone. Roth conversions can only be made after a Roth conversion has been made.",
-            "date": "Sat, 18 Apr 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ARXS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "These Alzheimer’s drugs were supposed to revolutionize the way we fight the disease. The reality is more complicated.",
-            "link": "https://www.marketwatch.com/story/these-alzheimers-drugs-were-supposed-to-revolutionize-the-way-we-fight-the-disease-the-reality-is-more-complicated-80223b95?mod=mw_rss_topstories",
-            "summary": "A scientific report has raised questions about how much Leqimbi and Kisunla really help slow the disease. The drugs have been on the market in the last few years.",
-            "date": "Sat, 18 Apr 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001YPM3.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Reed Hastings created a work culture that made Netflix a giant. Can it survive without him?",
-            "link": "https://www.marketwatch.com/story/reed-hastings-created-a-work-culture-that-made-netflix-a-giant-can-it-survive-without-him-cb6d0508?mod=mw_rss_topstories",
-            "summary": "Hastings insisted that employees be ready to give and receive constructive criticism at all times. He said people should be willing to argue for their ideas.",
-            "date": "Sat, 18 Apr 2026 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "REED",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The real outcome of the Iran war: America is now the world’s most secure energy power",
-            "link": "https://www.marketwatch.com/story/the-real-outcome-of-the-iran-war-america-is-now-the-worlds-most-secure-energy-power-70498648?mod=mw_rss_topstories",
-            "summary": "The U.S. has fuel and is a safe alternative to the Gulf. Trump’s message is ‘buy American’",
-            "date": "Sat, 18 Apr 2026 12:10:00 GMT",
+            "title": "‘I have more money than I know what to do with’: I’m a single millionaire with no heirs and don’t like spending. What’s wrong with me?",
+            "link": "https://www.marketwatch.com/story/i-have-more-money-than-i-know-what-to-do-with-im-a-single-millionaire-with-no-heirs-and-dont-like-spending-whats-wrong-dd5acfb6?mod=mw_rss_topstories",
+            "summary": "\"I buy clothes at thrift stores,\" she says. \"I don't buy clothes from stores. I buy them from thrift shops\"",
+            "date": "Sun, 19 Apr 2026 10:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "KLRA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘It is their fault’: My condo board forgot to bill for storage fees. Must I pay retroactively?",
+            "link": "https://www.marketwatch.com/story/it-is-their-fault-my-condo-board-forgot-to-bill-for-storage-fees-must-i-pay-retroactively-e5f6246b?mod=mw_rss_topstories",
+            "summary": "“They now intend to bill us for seven to eight months of storage fees,” he says. “They’re going to charge us for storage fees.”",
+            "date": "Sun, 19 Apr 2026 08:35:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "New York City is floating a $500 million second-home tax — and it would hurt industries that support thousands of jobs",
+            "link": "https://www.marketwatch.com/story/mayor-mamdanis-500-million-war-on-the-rich-will-force-new-york-citys-top-taxpayers-to-florida-e179b49a?mod=mw_rss_topstories",
+            "summary": "Surcharge on luxury units is a gamble that the ultrawealthy won’t leave for low-tax states. Surcharge will be charged on all luxury units sold in the United States.",
+            "date": "Sat, 18 Apr 2026 22:42:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "6N=F",
             "impact": "Neutral"
         }
     ]
