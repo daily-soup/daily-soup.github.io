@@ -1,124 +1,124 @@
 {
-    "date": "2026-04-21",
+    "date": "2026-04-22",
     "news": [
         {
-            "title": "Trump says 'I'll remember' companies that don’t seek tariff refunds",
-            "link": "https://www.cnbc.com/2026/04/21/trump-says-hell-remember-companies-that-dont-seek-tariff-refund.html",
-            "summary": "The U.S. Supreme Court ruled IEEPA tariffs were illegal. Trump said he was \"not happy with the Supreme Court\" for ruling the tariffs illegal. He said the court should have kept the tariffs already collected.",
-            "date": "Tue, 21 Apr 2026 14:15:38 GMT",
+            "title": "Iran says it has seized two ships in Strait of Hormuz after U.S. extends ceasefire",
+            "link": "https://www.cnbc.com/2026/04/22/strait-of-hormuz-ships-attacked-iran-war.html",
+            "summary": "The attacks come shortly after President Donald Trump said the U.S. would extend the ceasefire with Iran to allow peace talks to continue. The attacks come after the president said the ceasefire would be extended until the end of the year.",
+            "date": "Wed, 22 Apr 2026 13:45:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "RANI3F.SA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Boeing CEO says 'all systems are go' to increase 737 production as company narrows loss",
+            "link": "https://www.cnbc.com/2026/04/22/boeing-ba-q1-2026-earnings.html",
+            "summary": "Boeing expects certification of new Max 7 and 10 models later this year. Deliveries start in 2027, with the Max 7 expected to go on sale in 2018.",
+            "date": "Wed, 22 Apr 2026 14:05:20 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Google unveils chips for AI training and inference in latest shot at Nvidia",
+            "link": "https://www.cnbc.com/2026/04/22/google-launches-training-and-inference-tpus-in-latest-shot-at-nvidia.html",
+            "summary": "Google is packing ample amounts of static random access memory into a dedicated chip for running artificial intelligence models. Google is following in the footsteps of Nvidia, which also has a dedicated AI chip.",
+            "date": "Wed, 22 Apr 2026 13:18:40 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GOOG",
+            "impact": "Neutral"
+        },
+        {
+            "title": "United Airlines slashes 2026 forecast as fuel costs surge, but demand remains strong",
+            "link": "https://www.cnbc.com/2026/04/21/united-airlines-ual-q1-2026-earnings.html",
+            "summary": "The carrier's first-quarter earnings topped Wall Street's expectations. The company also reported better-than-expected results for the second quarter.",
+            "date": "Wed, 22 Apr 2026 12:33:44 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "UNH",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Retail traders can now get long OpenAI as Robinhood's venture fund takes a stake",
+            "link": "https://www.cnbc.com/2026/04/22/retail-traders-can-now-get-long-openai-as-robinhoods-venture-fund-takes-a-stake.html",
+            "summary": "Robinhood's proprietary investment vehicle has taken a $75 million stake in OpenAI. The trading company announced Wednesday that it would be investing in the AI company.",
+            "date": "Wed, 22 Apr 2026 12:13:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BPTRX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I went to an Advanced Placement personal-finance class. Here’s what I learned.",
+            "link": "https://www.marketwatch.com/story/financial-literacy-will-get-serious-treatment-in-high-schools-starting-next-year-13e94b76?mod=mw_rss_topstories",
+            "summary": "Financial literacy will get serious treatment in high schools starting next year. It will be part of the AP’s new ‘Career Kickstart’ bundle.",
+            "date": "Wed, 22 Apr 2026 14:22:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ETHB",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘Some stocks have risen, but others have flopped’: I will soon inherit my parents’ $1.5 million estate. Do I fire the adviser who charges a 3% fee?",
+            "link": "https://www.marketwatch.com/story/some-stocks-have-risen-but-others-have-flopped-i-will-soon-inherit-my-parents-1-5-million-estate-do-i-fire-the-adviser-who-charges-a-3-fee-6b5b2caa?mod=mw_rss_topstories",
+            "summary": "“This broker does not achieve returns better than the S&amp;P 500,” he says. “It’s not a good investment.” He adds: “I don’t think the market is interested in it.’",
+            "date": "Wed, 22 Apr 2026 14:17:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SOME",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘The Lord has taken care of me’: I’m 74. I went from earning $14 an hour to retiring with $3.4 million. Here’s how I did it.",
+            "link": "https://www.marketwatch.com/story/the-lord-has-taken-care-of-me-im-74-i-went-from-working-14-an-hour-to-3-4-million-heres-how-i-did-it-e0af1045?mod=mw_rss_topstories",
+            "summary": "“I have always thought that I did not have any real talents or skills,” she said. “I’ve always thought I was not very good at anything.”",
+            "date": "Wed, 22 Apr 2026 14:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ERNAW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I paid $4,500 instead of filing an insurance claim. Here’s when you should do the same.",
+            "link": "https://www.marketwatch.com/story/i-paid-4-500-instead-of-filing-an-insurance-claim-heres-when-you-should-do-the-same-c8b5dd35?mod=mw_rss_topstories",
+            "summary": "Don’t Short Yourself Live is CNN Tech’s weekly, offbeat look at the world around us. This week, Jarrett looks at how to save on insurance as premiums skyrocket. Plus, we talk about cutting college costs.",
+            "date": "Wed, 22 Apr 2026 14:10:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ETHB",
             "impact": "Bullish"
         },
         {
-            "title": "Trump tells CNBC he expects U.S. to make ‘great deal’ with Iran",
-            "link": "https://www.cnbc.com/2026/04/21/trump-iran-war-ceasefire-peace-talks.html",
-            "summary": "President Donald Trump has repeatedly said he expects the U.S. and Israel war against Iran to end soon since it began in late February.",
-            "date": "Tue, 21 Apr 2026 13:31:01 GMT",
+            "title": "Happy 54½ birthday to me! I’m now exactly 5 years from retirement. Here’s what I’ll do first to prepare.",
+            "link": "https://www.marketwatch.com/story/happy-54-birthday-to-me-im-now-exactly-5-years-from-retirement-heres-what-ill-do-first-to-prepare-cc0bf06b?mod=mw_rss_topstories",
+            "summary": "This could be my most consequential age milestone, because it’s the ideal time for me to start detailed planning for my golden years.",
+            "date": "Wed, 22 Apr 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "UPS and FedEx have begun filing for some tariff refunds",
-            "link": "https://www.cnbc.com/2026/04/21/ups-fedex-tariff-refunds-ieepa.html",
-            "summary": "UPS and FedEx have begun filing requests for some tariff refunds through the government's refund process. Those funds could take months to reach customers.",
-            "date": "Tue, 21 Apr 2026 13:50:18 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "UPS",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Trump surprised by stock market comeback amid Iran conflict, thought Dow would be down 20%",
-            "link": "https://www.cnbc.com/2026/04/21/trump-surprised-by-stock-market-comeback-amid-iran-conflict-thought-dow-would-be-down-20percent.html",
-            "summary": "President Donald Trump says he is surprised by the resiliency of the stock market amid the Iran conflict. Trump: I'm surprised by how well the market is doing.",
-            "date": "Tue, 21 Apr 2026 13:55:22 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump says Anthropic is shaping up and a deal is 'possible' for Department of Defense use",
-            "link": "https://www.cnbc.com/2026/04/21/trump-anthropic-department-defense-deal.html",
-            "summary": "President Trump said his administration had \"some very good talks\" with Anthropic during a meeting at the White House last week. Trump said the talks were \"very good\"",
-            "date": "Tue, 21 Apr 2026 13:45:41 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "McDonald’s $3 menu kicks off today. Here’s why Wall Street is already a fan.",
-            "link": "https://www.marketwatch.com/story/mcdonalds-3-menu-is-about-to-kick-off-heres-why-wall-street-is-already-a-fan-8906ea71?mod=mw_rss_topstories",
-            "summary": "UBS analysts say the new more affordable menu options further support McDonald’s value strength. UBS analysts: The new menu options will support McDonald's value strength in the long term.",
-            "date": "Tue, 21 Apr 2026 14:20:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MCD",
-            "impact": "Bullish"
-        },
-        {
-            "title": "GE sees fuel prices higher than they are now through the summer due to the Iran conflict",
-            "link": "https://www.marketwatch.com/story/ges-profit-beats-by-wide-margin-sending-its-stock-into-positive-territory-for-the-year-8463b635?mod=mw_rss_topstories",
-            "summary": "GE Aerospace’s stock falls as the full-year outlook was kept mostly intact despite a big first-quarter earnings beat. GE Aerospace‘s stock fell as theFull-year Outlook was kept largely intact despite the big First-quarter Earnings Beat.",
-            "date": "Tue, 21 Apr 2026 14:18:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "These alternative index strategies are beating the S&P 500 after the stock market’s new highs",
-            "link": "https://www.marketwatch.com/story/these-alternative-index-strategies-are-beating-the-s-p-500-after-the-stock-markets-new-highs-9bd7295a?mod=mw_rss_topstories",
-            "summary": "Invesco has nine factor approaches to tracking the S&amp;P 500. All but one have beaten the index this year. Two have stood out since the stock market’s March 30 low.",
-            "date": "Tue, 21 Apr 2026 14:18:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001YPM3.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Did JetBlue just admit to surveillance pricing? Airline now says viral post about $230 fare hike was an error.",
-            "link": "https://www.marketwatch.com/story/did-jetblue-just-admit-to-surveillance-pricing-airline-now-says-viral-post-about-230-fare-hike-was-an-error-70c8322e?mod=mw_rss_topstories",
-            "summary": "JetBlue is now walking back advice given to a customer via social media to search for fares in incognito mode. JetBlue: We are sorry for any confusion this has caused.",
-            "date": "Tue, 21 Apr 2026 14:11:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DIDIY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "ChatGPT is so 2025 — these 3 sectors are the real AI gold mines for 2026",
-            "link": "https://www.marketwatch.com/story/the-chatbot-era-is-over-these-3-sectors-are-the-real-ai-gold-mines-for-2026-002372c7?mod=mw_rss_topstories",
-            "summary": "Defense, healthcare and agentics are the big winners, writes Mark Minevich. Money is flooding into AI, writes Minevich, and it's set to get even better.",
-            "date": "Tue, 21 Apr 2026 13:50:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CHATTY-USD",
+            "stock_ticker": "DE000SLA5N03.SG",
             "impact": "Neutral"
         }
     ]
