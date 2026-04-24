@@ -1,124 +1,124 @@
 {
-    "date": "2026-04-23",
+    "date": "2026-04-24",
     "news": [
         {
-            "title": "Trump orders Navy to 'shoot and kill any boat' laying mines in Hormuz Strait",
-            "link": "https://www.cnbc.com/2026/04/23/trump-hormuz-strait-iran-war.html",
-            "summary": "The U.S. is ratcheting up tensions with Iran over the strait. The strait has been largely choked off to oil tanker traffic since the war began.",
-            "date": "Thu, 23 Apr 2026 15:01:40 GMT",
+            "title": "DOJ drops criminal probe of Fed Chair Powell",
+            "link": "https://www.cnbc.com/2026/04/24/fed-powell-doj-warsh-trump.html",
+            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
+            "date": "Fri, 24 Apr 2026 14:27:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "DOJE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Iran's top diplomat expected in Pakistan Friday night to discuss peace plans: MS NOW",
+            "link": "https://www.cnbc.com/2026/04/24/iran-war-pakistan-trump-hegseth.html",
+            "summary": "President Donald Trump said he is in no rush to make a peace deal with Iran. Trump said the Iran war has harmed stocks and oil prices less than he expected.",
+            "date": "Fri, 24 Apr 2026 14:06:54 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Musk v. Altman heads to court next week. Here's what's at stake",
+            "link": "https://www.cnbc.com/2026/04/24/musk-v-altman-trial-openai-lawsuit-xai.html",
+            "summary": "Elon Musk and Sam Altman's trial is scheduled to begin Monday. Jury selection is set to begin on Monday. The trial is expected to last two weeks.",
+            "date": "Fri, 24 Apr 2026 14:24:28 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CRAZYMUSK-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Wall Street's 'fear gauge' is doing something unusual. What it means",
+            "link": "https://www.cnbc.com/2026/04/24/wall-streets-fear-gauge-is-doing-something-unusual-what-it-means.html",
+            "summary": "The S&amp;P 500 touched record highs Thursday morning. The Cboe Volatility Index (VIX) remained stuck near 20 and is up from five days ago.",
+            "date": "Fri, 24 Apr 2026 11:44:11 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WM.TO",
             "impact": "Bullish"
         },
         {
-            "title": "Trump administration moves to reclassify cannabis in major shift that could expand research",
-            "link": "https://www.cnbc.com/2026/04/23/trump-administration-reclassifies-cannabis.html",
-            "summary": "Trump administration to reclassify marijuana as Schedule III, easing research barriers but not legalizing the drug or changing current federal penalties. Trump administration toReclassifymarijuana.com.",
-            "date": "Thu, 23 Apr 2026 13:21:43 GMT",
+            "title": "FDA fast-tracks psychedelic drug research following Trump executive order",
+            "link": "https://www.cnbc.com/2026/04/24/fda-psychedelic-drug-research-trump.html",
+            "summary": "It's a big shift toward supporting psychedelic-based medicines for treatment-resistant depression, PTSD and substance use disorders, the FDA said. It's also a big move toward supporting the use of psychedelic drugs in the U.S.",
+            "date": "Fri, 24 Apr 2026 13:06:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump's net approval rating on economy and overall falls to lowest of his two terms, CNBC survey shows",
-            "link": "https://www.cnbc.com/2026/04/23/trumps-approval-rating-on-economy-and-overall-falls-to-lowest-of-his-two-terms-cnbc-survey-shows.html",
-            "summary": "President Donald Trump's approval ratings plunged in the latest CNBC All-America Economic Survey. Trump's overall — and economic — approval ratings dropped in the survey.",
-            "date": "Thu, 23 Apr 2026 15:06:38 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NET",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Warner Bros. Discovery shareholders approve Paramount acquisition",
-            "link": "https://www.cnbc.com/2026/04/23/warner-bros-discovery-shareholder-vote-paramount-deal.html",
-            "summary": "Warner Bros. Discovery shareholders held a special meeting on Thursday for shareholders to vote on Paramount's proposed acquisition of the company. Paramount has offered to buy out Warner Bros. for $4 billion.",
-            "date": "Thu, 23 Apr 2026 14:31:30 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WBD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "American Airlines cuts 2026 earnings projections after surge in jet fuel",
-            "link": "https://www.cnbc.com/2026/04/23/american-airlines-aal-q1-2026-earnings.html",
-            "summary": "American Airlines cut its 2026 earnings forecast. It is the latest airline to lower its outlook after a surge in fuel costs added billions to its expenses.",
-            "date": "Thu, 23 Apr 2026 13:35:06 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. inflation picture is the worst in almost 4 years",
-            "link": "https://www.marketwatch.com/story/u-s-inflation-picture-is-the-worst-in-almost-4-years-f3a3b03a?mod=mw_rss_topstories",
-            "summary": "S&amp;P Global surveys show that companies are willing to pay more for scarce supplies. The survey is an echo of the pandemic.",
-            "date": "Thu, 23 Apr 2026 14:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "AEF2.HA",
             "impact": "Bullish"
         },
         {
-            "title": "I’m 56. My home has $400,000 in equity. If I lose my job, should I do a reverse mortgage?",
-            "link": "https://www.marketwatch.com/story/im-56-my-home-has-400-000-in-equity-if-i-lose-my-job-should-i-do-a-reverse-mortgage-593a85f0?mod=mw_rss_topstories",
-            "summary": "“I currently make $145,000, and my wife makes $98,000.” he said. “I’m very happy. I’ve never been happier.’",
-            "date": "Thu, 23 Apr 2026 14:30:00 GMT",
+            "title": "Pirro drops probe into Fed’s Powell, paving way for Warsh confirmation",
+            "link": "https://www.marketwatch.com/story/pirro-drops-probe-into-feds-powell-paving-way-for-warsh-confirmation-b77bc126?mod=mw_rss_topstories",
+            "summary": "Justice Department says it's backing down in standoff over leadership of the Federal Reserve. Announcement is expected to pave the way for Trump’s nominee for Fed chair, Kevin Warsh, to take over.",
+            "date": "Fri, 24 Apr 2026 14:26:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "6217.TWO",
+            "impact": "Bearish"
+        },
+        {
+            "title": "‘My child will need lifelong support’: I’m in my 40s with $330,000. How can I make this last both our lifetimes?",
+            "link": "https://www.marketwatch.com/story/my-child-will-need-lifelong-support-im-in-my-40s-with-a-330-000-inherited-retirement-account-how-can-i-grow-it-4fc7f64a?mod=mw_rss_topstories",
+            "summary": "\"I can't help feeling that it hasn't grown as much as it could have,\" he says. \"The portfolio has grown, but I can’t help feeling ... that it has grown as little as it should have\"",
+            "date": "Fri, 24 Apr 2026 14:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NZDMYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "Hainan was China’s shopping paradise. For Beijing that’s no longer enough.",
-            "link": "https://www.marketwatch.com/story/hainan-was-chinas-shopping-paradise-for-beijing-thats-no-longer-enough-c2535a40?mod=mw_rss_topstories",
-            "summary": "Beijing's message is unmistakable: Hainan can no longer thrive merely as a place for domestic shoppers to buy their perfume and handbags. It will have to become a place to process goods, attract overseas capital and experiment with a more open economic model.",
-            "date": "Thu, 23 Apr 2026 14:27:00 GMT",
+            "title": "‘AI genuinely freaks me out’: Do I leave my cushy $150,000 nonprofit job for a $215,000 position in data analytics?",
+            "link": "https://www.marketwatch.com/story/ai-genuinely-freaks-me-out-do-i-leave-my-150-000-job-for-a-215-000-role-in-data-analytics-with-a-50-minute-commute-440b4c36?mod=mw_rss_topstories",
+            "summary": "“There’s basically no upward mobility unless someone above me leaves,” he says. “There are no jobs for me if I’m not in the top spot.”",
+            "date": "Fri, 24 Apr 2026 14:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "600221.SS",
-            "impact": "Neutral"
+            "stock_ticker": "AI",
+            "impact": "Bullish"
         },
         {
-            "title": "Texas Instruments topped Wall Street’s outlook on more than just data-center demand",
-            "link": "https://www.marketwatch.com/story/texas-instruments-topped-wall-streets-outlook-on-more-than-just-data-center-demand-c033d44a?mod=mw_rss_topstories",
-            "summary": "Texas Instruments, one of the microchip makers most exposed to the manufacturing sector, raised its outlook. The company saw strong demand from industrial customers as well as from the build-out of data centers.",
-            "date": "Thu, 23 Apr 2026 14:12:00 GMT",
+            "title": "Private funds with high fees are coming for your 401(k) — and Trump’s acting labor secretary is cheering them on",
+            "link": "https://www.marketwatch.com/story/private-funds-with-high-fees-are-coming-for-your-401-k-and-trumps-acting-labor-secretary-is-cheering-them-on-be2855ae?mod=mw_rss_topstories",
+            "summary": "Donald Trump’s new retirement plan overseer is eager to open up Americans’ retirement accounts to exotic investments. Donald Trump's new retirement plans overseer wants to open retirement accounts up to foreign investments.",
+            "date": "Fri, 24 Apr 2026 14:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TXN",
-            "impact": "Neutral"
+            "stock_ticker": "XOVR",
+            "impact": "Bullish"
         },
         {
-            "title": "Why ServiceNow’s stock is sliding in the wake of earnings",
-            "link": "https://www.marketwatch.com/story/why-servicenows-stock-is-sliding-in-the-wake-of-earnings-d1f63e4e?mod=mw_rss_topstories",
-            "summary": "Investors may be taking issue with various elements of the software company’s margin forecast. The software company's margin forecast has been questioned by some investors.",
-            "date": "Thu, 23 Apr 2026 14:01:00 GMT",
+            "title": "AMD’s stock is red hot and on track to hit a major milestone",
+            "link": "https://www.marketwatch.com/story/amds-stock-is-red-hot-and-on-track-to-hit-a-major-milestone-0b3d9f9d?mod=mw_rss_topstories",
+            "summary": " chip maker will likely benefit from server CPU demand more than Intel, Morgan Stanley says. Morgan Stanley: Chip maker will benefit more from server demand than Intel.",
+            "date": "Fri, 24 Apr 2026 13:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHY-USD",
+            "stock_ticker": "AMDS.L",
             "impact": "Neutral"
         }
     ]
