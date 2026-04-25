@@ -1,95 +1,11 @@
 {
-    "date": "2026-04-24",
+    "date": "2026-04-25",
     "news": [
         {
-            "title": "DOJ drops criminal probe of Fed Chair Powell",
-            "link": "https://www.cnbc.com/2026/04/24/fed-powell-doj-warsh-trump.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Fri, 24 Apr 2026 14:27:18 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DOJE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Iran's top diplomat expected in Pakistan Friday night to discuss peace plans: MS NOW",
-            "link": "https://www.cnbc.com/2026/04/24/iran-war-pakistan-trump-hegseth.html",
-            "summary": "President Donald Trump said he is in no rush to make a peace deal with Iran. Trump said the Iran war has harmed stocks and oil prices less than he expected.",
-            "date": "Fri, 24 Apr 2026 14:06:54 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TOP",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Musk v. Altman heads to court next week. Here's what's at stake",
-            "link": "https://www.cnbc.com/2026/04/24/musk-v-altman-trial-openai-lawsuit-xai.html",
-            "summary": "Elon Musk and Sam Altman's trial is scheduled to begin Monday. Jury selection is set to begin on Monday. The trial is expected to last two weeks.",
-            "date": "Fri, 24 Apr 2026 14:24:28 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CRAZYMUSK-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Wall Street's 'fear gauge' is doing something unusual. What it means",
-            "link": "https://www.cnbc.com/2026/04/24/wall-streets-fear-gauge-is-doing-something-unusual-what-it-means.html",
-            "summary": "The S&amp;P 500 touched record highs Thursday morning. The Cboe Volatility Index (VIX) remained stuck near 20 and is up from five days ago.",
-            "date": "Fri, 24 Apr 2026 11:44:11 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WM.TO",
-            "impact": "Bullish"
-        },
-        {
-            "title": "FDA fast-tracks psychedelic drug research following Trump executive order",
-            "link": "https://www.cnbc.com/2026/04/24/fda-psychedelic-drug-research-trump.html",
-            "summary": "It's a big shift toward supporting psychedelic-based medicines for treatment-resistant depression, PTSD and substance use disorders, the FDA said. It's also a big move toward supporting the use of psychedelic drugs in the U.S.",
-            "date": "Fri, 24 Apr 2026 13:06:03 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AEF2.HA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Pirro drops probe into Fed’s Powell, paving way for Warsh confirmation",
-            "link": "https://www.marketwatch.com/story/pirro-drops-probe-into-feds-powell-paving-way-for-warsh-confirmation-b77bc126?mod=mw_rss_topstories",
-            "summary": "Justice Department says it's backing down in standoff over leadership of the Federal Reserve. Announcement is expected to pave the way for Trump’s nominee for Fed chair, Kevin Warsh, to take over.",
-            "date": "Fri, 24 Apr 2026 14:26:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "6217.TWO",
-            "impact": "Bearish"
-        },
-        {
-            "title": "‘My child will need lifelong support’: I’m in my 40s with $330,000. How can I make this last both our lifetimes?",
-            "link": "https://www.marketwatch.com/story/my-child-will-need-lifelong-support-im-in-my-40s-with-a-330-000-inherited-retirement-account-how-can-i-grow-it-4fc7f64a?mod=mw_rss_topstories",
-            "summary": "\"I can't help feeling that it hasn't grown as much as it could have,\" he says. \"The portfolio has grown, but I can’t help feeling ... that it has grown as little as it should have\"",
-            "date": "Fri, 24 Apr 2026 14:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NZDMYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘AI genuinely freaks me out’: Do I leave my cushy $150,000 nonprofit job for a $215,000 position in data analytics?",
-            "link": "https://www.marketwatch.com/story/ai-genuinely-freaks-me-out-do-i-leave-my-150-000-job-for-a-215-000-role-in-data-analytics-with-a-50-minute-commute-440b4c36?mod=mw_rss_topstories",
-            "summary": "“There’s basically no upward mobility unless someone above me leaves,” he says. “There are no jobs for me if I’m not in the top spot.”",
-            "date": "Fri, 24 Apr 2026 14:15:00 GMT",
+            "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
+            "link": "https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html",
+            "summary": "Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem. They have to find a way to make sure their software can compete with the new technology.",
+            "date": "Sat, 25 Apr 2026 12:43:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +14,111 @@
             "impact": "Bullish"
         },
         {
-            "title": "Private funds with high fees are coming for your 401(k) — and Trump’s acting labor secretary is cheering them on",
-            "link": "https://www.marketwatch.com/story/private-funds-with-high-fees-are-coming-for-your-401-k-and-trumps-acting-labor-secretary-is-cheering-them-on-be2855ae?mod=mw_rss_topstories",
-            "summary": "Donald Trump’s new retirement plan overseer is eager to open up Americans’ retirement accounts to exotic investments. Donald Trump's new retirement plans overseer wants to open retirement accounts up to foreign investments.",
-            "date": "Fri, 24 Apr 2026 14:04:00 GMT",
+            "title": "Iran says no meeting with U.S. negotiators planned in Pakistan, with Trump envoys due to head to Islamabad",
+            "link": "https://www.cnbc.com/2026/04/25/iran-says-no-meeting-with-us-negotiators-planned-in-pakistan.html",
+            "summary": "U.S. special envoy Steve Witkoff and Jared Kushner are expected to arrive in Islamabad on Saturday. They are due to meet with Pakistani Prime Minister Nawaz Sharif.",
+            "date": "Sat, 25 Apr 2026 08:44:32 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XOVR",
-            "impact": "Bullish"
+            "stock_ticker": "RANI3F.SA",
+            "impact": "Neutral"
         },
         {
-            "title": "AMD’s stock is red hot and on track to hit a major milestone",
-            "link": "https://www.marketwatch.com/story/amds-stock-is-red-hot-and-on-track-to-hit-a-major-milestone-0b3d9f9d?mod=mw_rss_topstories",
-            "summary": " chip maker will likely benefit from server CPU demand more than Intel, Morgan Stanley says. Morgan Stanley: Chip maker will benefit more from server demand than Intel.",
-            "date": "Fri, 24 Apr 2026 13:55:00 GMT",
+            "title": "Berkshire attracts interest as it slips further behind the S&P 500",
+            "link": "https://www.cnbc.com/2026/04/25/berkshire-attracts-interest-as-it-slips-further-behind-the-sp-500.html",
+            "summary": "As Berkshire Hathaway shares fall, the stock is drawing attention from some investors. The company's stock is down about 2% this year. The stock is also down about 1% in 2014.",
+            "date": "Sat, 25 Apr 2026 12:35:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMDS.L",
+            "stock_ticker": "BRK-B",
+            "impact": "Neutral"
+        },
+        {
+            "title": "For car, phone, even tractor owners, a populist wave is rising to end the 'captive' repair economy",
+            "link": "https://www.cnbc.com/2026/04/25/right-to-repair-consumer-prices-affordability-economy-elections.html",
+            "summary": "\"Right to repair\" legislation is an issue that political candidates across the U.S. have made part of their affordability messaging. \"Right to Repair\" legislation has become an issue for political candidates.",
+            "date": "Sat, 25 Apr 2026 13:31:28 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FOR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Pirro could reopen Fed probe at any time, Democratic senators warn",
+            "link": "https://www.cnbc.com/2026/04/24/fed-powell-pirro-elizabeth-warren-durbin.html",
+            "summary": "Sens. Elizabeth Warren and Dick Durbin question Jeanine Pirro's mention of reopening a probe of Fed Chair Jerome Powell.",
+            "date": "Fri, 24 Apr 2026 22:02:04 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ZQ=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "As mass layoffs threaten jobs, here are 4 smart moves to protect yourself",
+            "link": "https://www.marketwatch.com/story/as-mass-layoffs-threaten-jobs-here-are-4-smart-moves-to-protect-yourself-2b7544a2?mod=mw_rss_topstories",
+            "summary": "Do this now, even if you have a job. Do this now. Even if you don't. Do it now. Do not wait until you have to go to work.",
+            "date": "Sat, 25 Apr 2026 13:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘We are not close’: My brother says our mother left no estate when she died. How on earth can I trust him?",
+            "link": "https://www.marketwatch.com/story/we-are-not-close-my-brother-says-our-mother-left-no-estate-when-she-died-how-on-earth-can-i-trust-him-0e4b46d9?mod=mw_rss_topstories",
+            "summary": "“He had a medical power of attorney since my mom was in a nursing home,” her daughter said. “He was a very, very good man.”",
+            "date": "Sat, 25 Apr 2026 13:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WDC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Looking to get an EV for the first time? How to avoid making a huge financial mistake.",
+            "link": "https://www.marketwatch.com/story/looking-to-get-an-ev-for-the-first-time-how-to-avoid-making-a-huge-financial-mistake-13f1a554?mod=mw_rss_topstories",
+            "summary": "$4 gas got you looking at EVs? You’re not alone. Here’s what to think about first. $4 gas made you look atEVs? You're not Alone. Here's what to Think about First.",
+            "date": "Sat, 25 Apr 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "JOYT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Apple, Best Buy and Lululemon’s new CEOs signal a generational shift, as companies navigate a more chaotic world",
+            "link": "https://www.marketwatch.com/story/apple-best-buy-and-lululemons-new-ceos-signal-a-generational-shift-as-companies-navigate-a-more-chaotic-world-b18c4bc3?mod=mw_rss_topstories",
+            "summary": "The companies have tapped executives with backgrounds that focus on digital transformation. In naming new CEOs, the companies are tapping executives who have backgrounds in digital transformation, too.",
+            "date": "Sat, 25 Apr 2026 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAPL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How Intel’s CEO brought the storied company back from the brink",
+            "link": "https://www.marketwatch.com/story/how-intels-ceo-brought-the-storied-company-back-from-the-brink-d2dff038?mod=mw_rss_topstories",
+            "summary": "Two years ago, Intel’s survival was an “existential question.” Now, the company is seeing new life.",
+            "date": "Sat, 25 Apr 2026 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         }
     ]
