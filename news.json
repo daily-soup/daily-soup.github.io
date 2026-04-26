@@ -1,6 +1,54 @@
 {
-    "date": "2026-04-25",
+    "date": "2026-04-26",
     "news": [
+        {
+            "title": "Trump: Shooter at White House press dinner had multiple weapons, one officer shot",
+            "link": "https://www.cnbc.com/2026/04/25/trump-gunshots-white-house-correspondents-dinner.html",
+            "summary": "The president was seated next to first lady Melania Trump. He was quickly surrounded by Secret Service agents, while many attendees ducked under their tables.",
+            "date": "Sun, 26 Apr 2026 06:35:25 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Sen. Tillis prepared to end blockade of Fed chair nominee Kevin Warsh",
+            "link": "https://www.cnbc.com/2026/04/26/thom-tillis-kevin-warsh-federal-reserve.html",
+            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
+            "date": "Sun, 26 Apr 2026 13:49:38 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SENS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: 'If they want to talk, all they have to do is call'",
+            "link": "https://www.cnbc.com/2026/04/25/iran-says-no-meeting-with-us-negotiators-planned-in-pakistan.html",
+            "summary": "U.S. special envoy Steve Witkoff and Jared Kushner had been expected to arrive in Islamabad on Saturday. They were expected to meet with Pakistani Prime Minister Nawaz Sharif.",
+            "date": "Sun, 26 Apr 2026 10:02:18 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+            "link": "https://www.cnbc.com/2026/04/24/will-he-stay-or-will-he-go-with-criminal-probe-over-fed-chair-powell-faces-big-decision.html",
+            "summary": "The decision could have important ramifications for policymaking. It comes at an especially delicate time for the U.S. government. The decision will be announced at a later date.",
+            "date": "Fri, 24 Apr 2026 19:19:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SHW",
+            "impact": "Neutral"
+        },
         {
             "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
             "link": "https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html",
@@ -14,111 +62,63 @@
             "impact": "Bullish"
         },
         {
-            "title": "Iran says no meeting with U.S. negotiators planned in Pakistan, with Trump envoys due to head to Islamabad",
-            "link": "https://www.cnbc.com/2026/04/25/iran-says-no-meeting-with-us-negotiators-planned-in-pakistan.html",
-            "summary": "U.S. special envoy Steve Witkoff and Jared Kushner are expected to arrive in Islamabad on Saturday. They are due to meet with Pakistani Prime Minister Nawaz Sharif.",
-            "date": "Sat, 25 Apr 2026 08:44:32 GMT",
+            "title": "Big Tech is the bull market’s win-win trade right now — making this week crucial",
+            "link": "https://www.marketwatch.com/story/big-tech-is-the-bull-markets-win-win-trade-right-now-making-this-week-crucial-45665c97?mod=mw_rss_topstories",
+            "summary": "The U.S. and Iran are at odds over Iran's nuclear program. The two countries are also at odds on how to deal with the issue.",
+            "date": "Sun, 26 Apr 2026 12:01:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3F.SA",
+            "stock_ticker": "BBAI",
             "impact": "Neutral"
         },
         {
-            "title": "Berkshire attracts interest as it slips further behind the S&P 500",
-            "link": "https://www.cnbc.com/2026/04/25/berkshire-attracts-interest-as-it-slips-further-behind-the-sp-500.html",
-            "summary": "As Berkshire Hathaway shares fall, the stock is drawing attention from some investors. The company's stock is down about 2% this year. The stock is also down about 1% in 2014.",
-            "date": "Sat, 25 Apr 2026 12:35:30 GMT",
+            "title": "White House Correspondents’ dinner has morphed into a ‘Hollywoodified’ weekend of nonstop parties. Even Grindr is hosting.",
+            "link": "https://www.marketwatch.com/story/white-house-correspondents-dinner-weekend-gets-hollywoodified-as-companies-from-cnn-to-grindr-host-events-78a4fa10?mod=mw_rss_topstories",
+            "summary": "President Donald Trump will be on hand for this weekend's festivities. So will dozens of media and companies throwing events that can cost $300,000.",
+            "date": "Sat, 25 Apr 2026 19:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BRK-B",
+            "stock_ticker": "WHF",
             "impact": "Neutral"
         },
         {
-            "title": "For car, phone, even tractor owners, a populist wave is rising to end the 'captive' repair economy",
-            "link": "https://www.cnbc.com/2026/04/25/right-to-repair-consumer-prices-affordability-economy-elections.html",
-            "summary": "\"Right to repair\" legislation is an issue that political candidates across the U.S. have made part of their affordability messaging. \"Right to Repair\" legislation has become an issue for political candidates.",
-            "date": "Sat, 25 Apr 2026 13:31:28 GMT",
+            "title": "These investments promise high yield with bond-like safety. But what looks too good to be true often is.",
+            "link": "https://www.marketwatch.com/story/when-dentists-start-getting-cold-calls-about-private-credit-you-know-the-fad-has-peaked-67f1ef78?mod=mw_rss_topstories",
+            "summary": "When dentists start getting cold calls about private credit, you know the fad has peaked. When dentists get cold calls, it's a sign that private credit is on its way out.",
+            "date": "Sat, 25 Apr 2026 18:44:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FOR",
+            "stock_ticker": "0P0001YPM3.L",
             "impact": "Neutral"
         },
         {
-            "title": "Pirro could reopen Fed probe at any time, Democratic senators warn",
-            "link": "https://www.cnbc.com/2026/04/24/fed-powell-pirro-elizabeth-warren-durbin.html",
-            "summary": "Sens. Elizabeth Warren and Dick Durbin question Jeanine Pirro's mention of reopening a probe of Fed Chair Jerome Powell.",
-            "date": "Fri, 24 Apr 2026 22:02:04 GMT",
+            "title": "Bonds could lag stocks for the rest of 2026, according to this contrarian signal",
+            "link": "https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories",
+            "summary": "Record bond-fund inflows are a warning sign that lower returns are ahead. Record bond- fund inflows could be a sign of lower returns to come.",
+            "date": "Sat, 25 Apr 2026 18:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZQ=F",
+            "stock_ticker": "0P0000IUXY.F",
             "impact": "Neutral"
         },
         {
-            "title": "As mass layoffs threaten jobs, here are 4 smart moves to protect yourself",
-            "link": "https://www.marketwatch.com/story/as-mass-layoffs-threaten-jobs-here-are-4-smart-moves-to-protect-yourself-2b7544a2?mod=mw_rss_topstories",
-            "summary": "Do this now, even if you have a job. Do this now. Even if you don't. Do it now. Do not wait until you have to go to work.",
-            "date": "Sat, 25 Apr 2026 13:30:00 GMT",
+            "title": "What Apple investors need to know about the next steps for the company and its new CEO",
+            "link": "https://www.marketwatch.com/story/this-is-what-apple-investors-need-to-know-about-whats-next-for-the-company-and-its-new-ceo-9997df15?mod=mw_rss_topstories",
+            "summary": "Tim Cook built a $4 trillion powerhouse. Now John Ternus must fix Apple’s glaring AI gap. Apple is now worth $3 trillion.",
+            "date": "Sat, 25 Apr 2026 18:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘We are not close’: My brother says our mother left no estate when she died. How on earth can I trust him?",
-            "link": "https://www.marketwatch.com/story/we-are-not-close-my-brother-says-our-mother-left-no-estate-when-she-died-how-on-earth-can-i-trust-him-0e4b46d9?mod=mw_rss_topstories",
-            "summary": "“He had a medical power of attorney since my mom was in a nursing home,” her daughter said. “He was a very, very good man.”",
-            "date": "Sat, 25 Apr 2026 13:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WDC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Looking to get an EV for the first time? How to avoid making a huge financial mistake.",
-            "link": "https://www.marketwatch.com/story/looking-to-get-an-ev-for-the-first-time-how-to-avoid-making-a-huge-financial-mistake-13f1a554?mod=mw_rss_topstories",
-            "summary": "$4 gas got you looking at EVs? You’re not alone. Here’s what to think about first. $4 gas made you look atEVs? You're not Alone. Here's what to Think about First.",
-            "date": "Sat, 25 Apr 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JOYT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Apple, Best Buy and Lululemon’s new CEOs signal a generational shift, as companies navigate a more chaotic world",
-            "link": "https://www.marketwatch.com/story/apple-best-buy-and-lululemons-new-ceos-signal-a-generational-shift-as-companies-navigate-a-more-chaotic-world-b18c4bc3?mod=mw_rss_topstories",
-            "summary": "The companies have tapped executives with backgrounds that focus on digital transformation. In naming new CEOs, the companies are tapping executives who have backgrounds in digital transformation, too.",
-            "date": "Sat, 25 Apr 2026 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAPL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How Intel’s CEO brought the storied company back from the brink",
-            "link": "https://www.marketwatch.com/story/how-intels-ceo-brought-the-storied-company-back-from-the-brink-d2dff038?mod=mw_rss_topstories",
-            "summary": "Two years ago, Intel’s survival was an “existential question.” Now, the company is seeing new life.",
-            "date": "Sat, 25 Apr 2026 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "BD0.F",
             "impact": "Neutral"
         }
     ]
