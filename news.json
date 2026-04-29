@@ -1,23 +1,71 @@
 {
-    "date": "2026-04-27",
+    "date": "2026-04-29",
     "news": [
         {
-            "title": "OpenAI shakes up partnership with Microsoft, capping revenue share payments",
-            "link": "https://www.cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html",
-            "summary": "Microsoft and OpenAI announced a broad agreement following OpenAI's restructuring in October. Things have changed since the two companies announced the broad agreement.",
-            "date": "Mon, 27 Apr 2026 14:12:15 GMT",
+            "title": "Trump Fed pick Kevin Warsh clears key Senate hurdle, teeing up final vote",
+            "link": "https://www.cnbc.com/2026/04/29/trump-fed-nominee-kevin-warsh-senate-approval.html",
+            "summary": "Current Fed Chair Jerome Powell has faced a barrage of criticism from Trump over his refusal to slash interest rates as much as the president wants.",
+            "date": "Wed, 29 Apr 2026 14:50:48 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OPEAZZX",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Iran reportedly proposes Hormuz Strait deal to U.S. Here’s where things stand — and what’s next for markets",
-            "link": "https://www.cnbc.com/2026/04/27/us-iran-peace-talks-stall-global-markets-stocks-oil-treasurys.html",
-            "summary": "U.S.-Iran peace talks stall. Here's where things stand — and what's next for markets. U.S. and Iran have been at odds for years over the Middle East.",
-            "date": "Mon, 27 Apr 2026 13:02:32 GMT",
+            "title": "Bill Ackman's $5 billion Pershing Square IPO to start trading, testing Berkshire-style vision",
+            "link": "https://www.cnbc.com/2026/04/29/bill-ackmans-5-billion-pershing-square-ipo-to-start-trading-testing-berkshire-style-vision.html",
+            "summary": "The listing gives public investors their first direct stake in Ackman's investment platform. The firm runs a concentrated portfolio of 10 large-cap names.",
+            "date": "Wed, 29 Apr 2026 14:20:53 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BILL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "OpenAI’s subtle drift from Microsoft has become an aggressive move toward Amazon",
+            "link": "https://www.cnbc.com/2026/04/29/openai-drift-from-microsoft-to-amazon-turns-aggressive-after-subtlety.html",
+            "summary": "OpenAI and Microsoft remain partners, but the AI company has been rapidly pushing into Amazon's world. OpenAI is a subsidiary of Amazon's cloud computing division.",
+            "date": "Wed, 29 Apr 2026 14:37:48 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DRIFT31278-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Uber makes big bets on travel, hotels and AI voice bookings at annual product showcase",
+            "link": "https://www.cnbc.com/2026/04/29/uber-ai-travel-hotels-go-get.html",
+            "summary": "Uber is launching new segments as it attempts to position itself as an all-in-one consumer platform. Uber is launching a new set of segments to compete with Google, Facebook and others.",
+            "date": "Wed, 29 Apr 2026 14:47:51 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "UBER",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Oil prices extend multi-day rally as Trump issues new threat to Iran; Brent tops $114 per barrel",
+            "link": "https://www.cnbc.com/2026/04/29/oil-prices-brent-wti-trump-iran.html",
+            "summary": "The latest move higher comes amid reports that the U.S. will look to extend its blockade of Iranian ports. The latest move comes as Iran's stock market continues to rise.",
+            "date": "Wed, 29 Apr 2026 13:23:59 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CL=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Iran war is fueling a bond selloff ahead of Fed Chair Jerome Powell’s final press conference",
+            "link": "https://www.marketwatch.com/story/iran-war-is-fueling-a-bond-selloff-ahead-of-fed-chair-jerome-powells-final-press-conference-cc2dba04?mod=mw_rss_topstories",
+            "summary": "The oil shock and elevated inflation are top worries for investors in the bond market. Federal Reserve Chair Jerome Powell prepares to deliver the final press conference of his career at the central bank's helm.",
+            "date": "Wed, 29 Apr 2026 14:35:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,100 +74,52 @@
             "impact": "Neutral"
         },
         {
-            "title": "Qualcomm up 7% on report it’s partnering with OpenAI on smartphone AI chip",
-            "link": "https://www.cnbc.com/2026/04/27/qualcomm-qcom-openai-smartphone-chip-partnership-stock.html",
-            "summary": " Qualcomm will be working alongside MediaTek to develop a smartphone chip for OpenAI. Luxshare co-designing the device, an analyst said.",
-            "date": "Mon, 27 Apr 2026 13:33:44 GMT",
+            "title": "‘I am her scapegoat’: My mother-in-law squandered all her money. Do we buy her a house so she’s not homeless?",
+            "link": "https://www.marketwatch.com/story/i-am-her-scapegoat-my-mother-in-law-squandered-all-her-money-do-we-buy-her-a-house-so-shes-not-homeless-a8cbfa1c?mod=mw_rss_topstories",
+            "summary": "“She blames me for her poor relationship with her son and grandchildren,” he says. “She’s very angry with me.”",
+            "date": "Wed, 29 Apr 2026 14:25:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "QCOM",
+            "stock_ticker": "WRTH",
             "impact": "Neutral"
         },
         {
-            "title": "This bank CEO let his AI clone handle an earnings call — now he's signing an OpenAI deal",
-            "link": "https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html",
-            "summary": "Customers Bank CEO Sam Sidhu's effort to get ahead in the industry's race to transform itself using AI agents as a new digital workforce.",
-            "date": "Mon, 27 Apr 2026 13:30:24 GMT",
+            "title": "Construction on new homes jumps to a 15-month high, but the real-estate slump isn’t over",
+            "link": "https://www.marketwatch.com/story/construction-on-new-homes-jumps-to-a-15-month-high-but-the-real-estate-slump-isnt-over-32c3e336?mod=mw_rss_topstories",
+            "summary": "Home builders ramped up construction in March as the weather warmed. Housing starts hit a 15-month high, but an industry slump appears no closer to ending.",
+            "date": "Wed, 29 Apr 2026 14:13:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "THISX",
+            "stock_ticker": "ITB",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Government waste, fraud and abuse rose 13% last year — despite Musk and DOGE saying they’d cut $1 trillion from the budget",
+            "link": "https://www.marketwatch.com/story/government-waste-fraud-and-abuse-rose-13-last-year-despite-musk-and-doge-saying-theyd-cut-1-trillion-from-the-budget-346c4d18?mod=mw_rss_topstories",
+            "summary": "Cutting it all still won’t save the budget, says the president of the U.S. Chamber of Commerce. “It’s just not worth it,” he says, “to cut it all.”",
+            "date": "Wed, 29 Apr 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DEA",
             "impact": "Neutral"
         },
         {
-            "title": "China blocks Meta's $2 billion takeover of AI startup Manus",
-            "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-            "summary": "China blocks Meta's $2 billion acquisition of Manus, a Singaporean AI startup with Chinese roots. China said Monday it has decided to block Meta's acquisition.",
-            "date": "Mon, 27 Apr 2026 13:38:38 GMT",
+            "title": "Why this Soros alum is betting on copper and cables over AI chips",
+            "link": "https://www.marketwatch.com/story/why-this-soros-alum-is-betting-on-copper-and-cables-over-ai-chips-283e22ca?mod=mw_rss_topstories",
+            "summary": "Renaud Saleur is looking past politics to bank on megatrends like electrification, natural resources and AI bricks and mortars.",
+            "date": "Wed, 29 Apr 2026 13:34:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^SPNCSCHN",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Microsoft and OpenAI aren’t breaking up. But they’re not exclusive anymore.",
-            "link": "https://www.marketwatch.com/story/microsoft-and-openai-arent-breaking-up-but-theyre-not-exclusive-anymore-47d17848?mod=mw_rss_topstories",
-            "summary": "The companies agreed to a deal that they said gives them more flexibility. As part of it, Microsoft will stop sharing its revenue with Facebook.",
-            "date": "Mon, 27 Apr 2026 14:49:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MSFT",
+            "stock_ticker": "WHY-USD",
             "impact": "Neutral"
-        },
-        {
-            "title": "A record 20 million single women own homes — even though it’s more expensive for a woman to buy a house than a man",
-            "link": "https://www.marketwatch.com/story/a-record-20-million-single-women-own-homes-even-though-its-more-expensive-for-a-woman-to-buy-a-house-than-a-man-2cb8e3cf?mod=mw_rss_topstories",
-            "summary": "The majority of home buyers are married couples. 21% today are single women, compared to just 9% of single men. The majority of single women are buying their first home.",
-            "date": "Mon, 27 Apr 2026 14:42:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Apple is defying a global smartphone slump, as shown through this first-time feat",
-            "link": "https://www.marketwatch.com/story/apple-is-defying-a-global-smartphone-slump-as-shown-through-this-first-time-feat-1506a37c?mod=mw_rss_topstories",
-            "summary": "Apple claimed the top global smartphone spot for the first time in a March quarter thanks to the success of the iPhone 17e and nifty supply-chain moves.",
-            "date": "Mon, 27 Apr 2026 14:11:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAPL",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Want the lowest mortgage rate you can get? Credit-scoring changes mean home buyers need a new strategy.",
-            "link": "https://www.marketwatch.com/story/want-the-lowest-mortgage-rate-you-can-get-credit-scoring-changes-mean-home-buyers-need-a-new-strategy-24ab66cf?mod=mw_rss_topstories",
-            "summary": "How to make the most of the new math coming for your credit score. How to get the most out of your credit card. What to do if you get a bad credit report. What do you do? Share your story.",
-            "date": "Mon, 27 Apr 2026 13:59:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WANT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Zuckerberg is following Musk’s lead with this ‘transformative step’ in outer space",
-            "link": "https://www.marketwatch.com/story/zuckerberg-is-following-musks-lead-with-this-transformative-step-in-outer-space-1b78cff5?mod=mw_rss_topstories",
-            "summary": " Meta said it plans to source space-based solar energy from a newly launched startup with unproven technology. Meta plans to build a solar farm in the middle of space.",
-            "date": "Mon, 27 Apr 2026 13:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ISRG",
-            "impact": "Bullish"
         }
     ]
 }
