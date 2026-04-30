@@ -1,11 +1,11 @@
 {
-    "date": "2026-04-29",
+    "date": "2026-04-30",
     "news": [
         {
-            "title": "Trump Fed pick Kevin Warsh clears key Senate hurdle, teeing up final vote",
-            "link": "https://www.cnbc.com/2026/04/29/trump-fed-nominee-kevin-warsh-senate-approval.html",
-            "summary": "Current Fed Chair Jerome Powell has faced a barrage of criticism from Trump over his refusal to slash interest rates as much as the president wants.",
-            "date": "Wed, 29 Apr 2026 14:50:48 GMT",
+            "title": "Trump said his blockade would cause Iran's oil industry to 'explode' this week. Why that won't happen",
+            "link": "https://www.cnbc.com/2026/04/30/trump-blockade-iran-oil-strait-hormuz.html",
+            "summary": "The U.S. and Iran are locked in a standoff that will only break when one side decides it can no longer tolerate the pain. Who will move is unclear.",
+            "date": "Thu, 30 Apr 2026 14:07:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,46 +14,82 @@
             "impact": "Neutral"
         },
         {
-            "title": "Bill Ackman's $5 billion Pershing Square IPO to start trading, testing Berkshire-style vision",
-            "link": "https://www.cnbc.com/2026/04/29/bill-ackmans-5-billion-pershing-square-ipo-to-start-trading-testing-berkshire-style-vision.html",
-            "summary": "The listing gives public investors their first direct stake in Ackman's investment platform. The firm runs a concentrated portfolio of 10 large-cap names.",
-            "date": "Wed, 29 Apr 2026 14:20:53 GMT",
+            "title": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%",
+            "link": "https://www.cnbc.com/2026/04/30/pce-inflation-rate-march-2026.html",
+            "summary": "The Iran war has created a new level of challenges for the Fed. Consumers faced escalating prices in March as the Iran war sent oil soaring.",
+            "date": "Thu, 30 Apr 2026 13:37:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BILL",
+            "stock_ticker": "CRWV",
             "impact": "Neutral"
         },
         {
-            "title": "OpenAI’s subtle drift from Microsoft has become an aggressive move toward Amazon",
-            "link": "https://www.cnbc.com/2026/04/29/openai-drift-from-microsoft-to-amazon-turns-aggressive-after-subtlety.html",
-            "summary": "OpenAI and Microsoft remain partners, but the AI company has been rapidly pushing into Amazon's world. OpenAI is a subsidiary of Amazon's cloud computing division.",
-            "date": "Wed, 29 Apr 2026 14:37:48 GMT",
+            "title": "Meta tanks 10%, Alphabet climbs 5% as each company raises capex spend",
+            "link": "https://www.cnbc.com/2026/04/30/alphabet-meta-stock-ai-capex-spend.html",
+            "summary": "Both Alphabet and Meta said they expect their capex to continue growing this year. Investors sent Alphabet's shares up, while Meta's stock slid.",
+            "date": "Thu, 30 Apr 2026 14:38:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DRIFT31278-USD",
-            "impact": "Neutral"
+            "stock_ticker": "META",
+            "impact": "Bullish"
         },
         {
-            "title": "Uber makes big bets on travel, hotels and AI voice bookings at annual product showcase",
-            "link": "https://www.cnbc.com/2026/04/29/uber-ai-travel-hotels-go-get.html",
-            "summary": "Uber is launching new segments as it attempts to position itself as an all-in-one consumer platform. Uber is launching a new set of segments to compete with Google, Facebook and others.",
-            "date": "Wed, 29 Apr 2026 14:47:51 GMT",
+            "title": "Treasury Department announces new Series I bond rate of 4.26% for the next six months",
+            "link": "https://www.cnbc.com/2026/04/30/treasury-i-bond-rate-through-october-2026.html",
+            "summary": "The U.S. Department of the Treasury has announced new Series I bond rates through October 2026. The new rates are based on a 10-year LIBOR rate.",
+            "date": "Thu, 30 Apr 2026 14:07:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UBER",
+            "stock_ticker": "ZB=F",
             "impact": "Neutral"
         },
         {
-            "title": "Oil prices extend multi-day rally as Trump issues new threat to Iran; Brent tops $114 per barrel",
-            "link": "https://www.cnbc.com/2026/04/29/oil-prices-brent-wti-trump-iran.html",
-            "summary": "The latest move higher comes amid reports that the U.S. will look to extend its blockade of Iranian ports. The latest move comes as Iran's stock market continues to rise.",
-            "date": "Wed, 29 Apr 2026 13:23:59 GMT",
+            "title": "Eli Lilly blows past quarterly estimates, hikes outlook as Zepbound and Mounjaro sales skyrocket",
+            "link": "https://www.cnbc.com/2026/04/30/eli-lilly-lly-earnings-q1-2026.html",
+            "summary": "Lilly raises its full-year sales outlook by $2 billion, and also raises its adjusted profit guidance. The drug company also raised its sales and profit guidance for the year.",
+            "date": "Thu, 30 Apr 2026 13:33:41 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LLY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Caterpillar handily beat Wall Street estimates — not for the first time",
+            "link": "https://www.marketwatch.com/story/caterpillar-handily-beat-wall-street-estimates-not-for-the-first-time-2d144758?mod=mw_rss_topstories",
+            "summary": "The construction manufacturer reported a 38% rise in sales in its construction industries arm. The company also reported a rise in profits in the first quarter of 2014.",
+            "date": "Thu, 30 Apr 2026 14:44:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CAT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "These stocks have been the biggest winners during the S&P 500’s best month since 2020",
+            "link": "https://www.marketwatch.com/story/these-stocks-have-been-the-biggest-winners-during-the-s-p-500s-best-month-since-2020-36ae706d?mod=mw_rss_topstories",
+            "summary": "The S&amp;P 500 was up 9.6% for April, led by a gain of nearly 18% for the information technology sector.",
+            "date": "Thu, 30 Apr 2026 14:26:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001YPM3.L",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Oil prices retreat after touching four-year high as traders focus on Iran developments",
+            "link": "https://www.marketwatch.com/story/oil-prices-climb-to-four-year-high-above-120-after-report-that-trump-is-considering-further-military-action-in-iran-9785eb43?mod=mw_rss_topstories",
+            "summary": "Oil futures fall Thursday, reversing direction after reaching a four-year high. Oil futures fall on a report that President Donald Trump is considering escalating the war in Iran.",
+            "date": "Thu, 30 Apr 2026 14:14:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,63 +98,27 @@
             "impact": "Neutral"
         },
         {
-            "title": "Iran war is fueling a bond selloff ahead of Fed Chair Jerome Powell’s final press conference",
-            "link": "https://www.marketwatch.com/story/iran-war-is-fueling-a-bond-selloff-ahead-of-fed-chair-jerome-powells-final-press-conference-cc2dba04?mod=mw_rss_topstories",
-            "summary": "The oil shock and elevated inflation are top worries for investors in the bond market. Federal Reserve Chair Jerome Powell prepares to deliver the final press conference of his career at the central bank's helm.",
-            "date": "Wed, 29 Apr 2026 14:35:00 GMT",
+            "title": "U.S. jobless claims sink to a 57-year low. Jobs aren’t easy to find — or lose.",
+            "link": "https://www.marketwatch.com/story/u-s-jobless-claims-sink-to-a-57-year-low-jobs-arent-easy-to-find-or-lose-a9088ff9?mod=mw_rss_topstories",
+            "summary": "The U.S. jobs market is showing surprising staying power, a new report shows. The jobs report was released by the Bureau of Labor Statistics on Friday.",
+            "date": "Thu, 30 Apr 2026 14:14:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3.SA",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "‘I am her scapegoat’: My mother-in-law squandered all her money. Do we buy her a house so she’s not homeless?",
-            "link": "https://www.marketwatch.com/story/i-am-her-scapegoat-my-mother-in-law-squandered-all-her-money-do-we-buy-her-a-house-so-shes-not-homeless-a8cbfa1c?mod=mw_rss_topstories",
-            "summary": "“She blames me for her poor relationship with her son and grandchildren,” he says. “She’s very angry with me.”",
-            "date": "Wed, 29 Apr 2026 14:25:00 GMT",
+            "title": "Royal Caribbean says people booking cruises aren’t so worried about Iran anymore",
+            "link": "https://www.marketwatch.com/story/royal-caribbean-says-people-booking-cruises-arent-so-worried-about-iran-anymore-b7fdae49?mod=mw_rss_topstories",
+            "summary": "Cruise bookings slowed in March and into April, but are now back above year-ago levels, Royal Caribbean says. Royal Caribbean: Cruise bookings slow in March, into April.",
+            "date": "Thu, 30 Apr 2026 14:11:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WRTH",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Construction on new homes jumps to a 15-month high, but the real-estate slump isn’t over",
-            "link": "https://www.marketwatch.com/story/construction-on-new-homes-jumps-to-a-15-month-high-but-the-real-estate-slump-isnt-over-32c3e336?mod=mw_rss_topstories",
-            "summary": "Home builders ramped up construction in March as the weather warmed. Housing starts hit a 15-month high, but an industry slump appears no closer to ending.",
-            "date": "Wed, 29 Apr 2026 14:13:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ITB",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Government waste, fraud and abuse rose 13% last year — despite Musk and DOGE saying they’d cut $1 trillion from the budget",
-            "link": "https://www.marketwatch.com/story/government-waste-fraud-and-abuse-rose-13-last-year-despite-musk-and-doge-saying-theyd-cut-1-trillion-from-the-budget-346c4d18?mod=mw_rss_topstories",
-            "summary": "Cutting it all still won’t save the budget, says the president of the U.S. Chamber of Commerce. “It’s just not worth it,” he says, “to cut it all.”",
-            "date": "Wed, 29 Apr 2026 14:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DEA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why this Soros alum is betting on copper and cables over AI chips",
-            "link": "https://www.marketwatch.com/story/why-this-soros-alum-is-betting-on-copper-and-cables-over-ai-chips-283e22ca?mod=mw_rss_topstories",
-            "summary": "Renaud Saleur is looking past politics to bank on megatrends like electrification, natural resources and AI bricks and mortars.",
-            "date": "Wed, 29 Apr 2026 13:34:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHY-USD",
+            "stock_ticker": "RCL",
             "impact": "Neutral"
         }
     ]
