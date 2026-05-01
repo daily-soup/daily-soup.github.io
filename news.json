@@ -1,95 +1,11 @@
 {
-    "date": "2026-04-30",
+    "date": "2026-05-01",
     "news": [
         {
-            "title": "Trump said his blockade would cause Iran's oil industry to 'explode' this week. Why that won't happen",
-            "link": "https://www.cnbc.com/2026/04/30/trump-blockade-iran-oil-strait-hormuz.html",
-            "summary": "The U.S. and Iran are locked in a standoff that will only break when one side decides it can no longer tolerate the pain. Who will move is unclear.",
-            "date": "Thu, 30 Apr 2026 14:07:46 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%",
-            "link": "https://www.cnbc.com/2026/04/30/pce-inflation-rate-march-2026.html",
-            "summary": "The Iran war has created a new level of challenges for the Fed. Consumers faced escalating prices in March as the Iran war sent oil soaring.",
-            "date": "Thu, 30 Apr 2026 13:37:31 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CRWV",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Meta tanks 10%, Alphabet climbs 5% as each company raises capex spend",
-            "link": "https://www.cnbc.com/2026/04/30/alphabet-meta-stock-ai-capex-spend.html",
-            "summary": "Both Alphabet and Meta said they expect their capex to continue growing this year. Investors sent Alphabet's shares up, while Meta's stock slid.",
-            "date": "Thu, 30 Apr 2026 14:38:16 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "META",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Treasury Department announces new Series I bond rate of 4.26% for the next six months",
-            "link": "https://www.cnbc.com/2026/04/30/treasury-i-bond-rate-through-october-2026.html",
-            "summary": "The U.S. Department of the Treasury has announced new Series I bond rates through October 2026. The new rates are based on a 10-year LIBOR rate.",
-            "date": "Thu, 30 Apr 2026 14:07:07 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZB=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Eli Lilly blows past quarterly estimates, hikes outlook as Zepbound and Mounjaro sales skyrocket",
-            "link": "https://www.cnbc.com/2026/04/30/eli-lilly-lly-earnings-q1-2026.html",
-            "summary": "Lilly raises its full-year sales outlook by $2 billion, and also raises its adjusted profit guidance. The drug company also raised its sales and profit guidance for the year.",
-            "date": "Thu, 30 Apr 2026 13:33:41 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LLY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Caterpillar handily beat Wall Street estimates — not for the first time",
-            "link": "https://www.marketwatch.com/story/caterpillar-handily-beat-wall-street-estimates-not-for-the-first-time-2d144758?mod=mw_rss_topstories",
-            "summary": "The construction manufacturer reported a 38% rise in sales in its construction industries arm. The company also reported a rise in profits in the first quarter of 2014.",
-            "date": "Thu, 30 Apr 2026 14:44:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CAT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "These stocks have been the biggest winners during the S&P 500’s best month since 2020",
-            "link": "https://www.marketwatch.com/story/these-stocks-have-been-the-biggest-winners-during-the-s-p-500s-best-month-since-2020-36ae706d?mod=mw_rss_topstories",
-            "summary": "The S&amp;P 500 was up 9.6% for April, led by a gain of nearly 18% for the information technology sector.",
-            "date": "Thu, 30 Apr 2026 14:26:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001YPM3.L",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Oil prices retreat after touching four-year high as traders focus on Iran developments",
-            "link": "https://www.marketwatch.com/story/oil-prices-climb-to-four-year-high-above-120-after-report-that-trump-is-considering-further-military-action-in-iran-9785eb43?mod=mw_rss_topstories",
-            "summary": "Oil futures fall Thursday, reversing direction after reaching a four-year high. Oil futures fall on a report that President Donald Trump is considering escalating the war in Iran.",
-            "date": "Thu, 30 Apr 2026 14:14:00 GMT",
+            "title": "Oil prices fall on report Iran sent response to draft peace agreement",
+            "link": "https://www.cnbc.com/2026/05/01/oil-prices-today-brent-wti-us-iran-war-trump-war-powers-deadline.html",
+            "summary": "Under the 1973 War Powers Resolution, a U.S. president needs to withdraw troops 60 days after reporting their deployment to Congress. Under the 1973 war powers resolution, the president must withdraw troops within 60 days of reporting deployment.",
+            "date": "Fri, 01 May 2026 12:31:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,10 +14,58 @@
             "impact": "Neutral"
         },
         {
-            "title": "U.S. jobless claims sink to a 57-year low. Jobs aren’t easy to find — or lose.",
-            "link": "https://www.marketwatch.com/story/u-s-jobless-claims-sink-to-a-57-year-low-jobs-arent-easy-to-find-or-lose-a9088ff9?mod=mw_rss_topstories",
-            "summary": "The U.S. jobs market is showing surprising staying power, a new report shows. The jobs report was released by the Bureau of Labor Statistics on Friday.",
-            "date": "Thu, 30 Apr 2026 14:14:00 GMT",
+            "title": "A major shift could soon happen in the Mag 7",
+            "link": "https://www.cnbc.com/2026/05/01/a-major-mag-7-shift-with-alphabets-market-cap-set-to-pass-nvidias.html",
+            "summary": "Shares of Google-parent Alphabet are on the verge of topping $5 trillion. They could overtake AI-leader Nvidia as the world's most valuable company.",
+            "date": "Fri, 01 May 2026 13:25:33 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "A",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Atlassian stock soars 28% after earnings show strong cloud, data center growth",
+            "link": "https://www.cnbc.com/2026/05/01/atlassian-team-q3-stock-2026-earnings.html",
+            "summary": "Atlassian's stock has been hit hard in the \"SaaS-pocalypse\" sweeping software names as AI threatens to disrupt their business models.",
+            "date": "Fri, 01 May 2026 13:57:59 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TEAM",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Pentagon tech chief says Anthropic is still blacklisted, but Mythos is a separate issue",
+            "link": "https://www.cnbc.com/2026/05/01/pentagon-anthropic-blacklist-mythos-michael.html",
+            "summary": "The DOD announced it has entered into agreements with seven other AI companies. The companies include Google, Facebook, Apple, Microsoft, and others. The DOD says it will use the technology to improve the military.",
+            "date": "Fri, 01 May 2026 12:51:08 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PENTAGON-SM.NS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
+            "link": "https://www.cnbc.com/2026/05/01/fed-dissenters-explain-no-votes-saying-they-disagreed-with-hinting-next-move-would-be-a-cut.html",
+            "summary": "Federal Reserve officials voted against the post-meeting statement. They said they didn't think it was appropriate to signal that the next interest rate move would be lower.",
+            "date": "Fri, 01 May 2026 14:07:37 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ZQ=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Embattled U.S. manufacturers show their metal, grow fourth month in a row despite Iran war",
+            "link": "https://www.marketwatch.com/story/embattled-u-s-manufacturers-show-their-metal-grow-fourth-month-in-a-row-despite-iran-war-8c79a878?mod=mw_rss_topstories",
+            "summary": "ISM shows strongest expansion since 2022 — but inflation is a big problem. ISM: \"Stronger than expected\" growth in U.S. economy in July.",
+            "date": "Fri, 01 May 2026 14:11:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "Royal Caribbean says people booking cruises aren’t so worried about Iran anymore",
-            "link": "https://www.marketwatch.com/story/royal-caribbean-says-people-booking-cruises-arent-so-worried-about-iran-anymore-b7fdae49?mod=mw_rss_topstories",
-            "summary": "Cruise bookings slowed in March and into April, but are now back above year-ago levels, Royal Caribbean says. Royal Caribbean: Cruise bookings slow in March, into April.",
-            "date": "Thu, 30 Apr 2026 14:11:00 GMT",
+            "title": "‘I hope to retire early’: I’m 56 and have 80% in a traditional IRA and 20% in a Roth. Am I in trouble?",
+            "link": "https://www.marketwatch.com/story/i-hope-to-retire-early-im-56-and-have-80-in-a-traditional-ira-and-20-in-a-roth-am-i-in-trouble-8ec58195?mod=mw_rss_topstories",
+            "summary": "“We have $3.5 million in savings — $2. 5 million of which are in retirement accounts,” he says. “We’re in a good place.”",
+            "date": "Fri, 01 May 2026 14:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RCL",
+            "stock_ticker": "AVLN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How a screw-up by Social Security cost widows and widowers over $50 million",
+            "link": "https://www.marketwatch.com/story/how-a-screw-up-by-social-security-cost-widows-and-widowers-over-50-million-77651ba7?mod=mw_rss_topstories",
+            "summary": "Thousands have been short-changed of their Social Security payments as a result of blunders. Social Security Administration blunders have affected thousands of people.",
+            "date": "Fri, 01 May 2026 13:59:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why it’s time for ‘sell in May and go away’ to die",
+            "link": "https://www.marketwatch.com/story/why-its-time-for-sell-in-may-and-go-away-to-die-30a9f311?mod=mw_rss_topstories",
+            "summary": "Bloomberg Intelligence says conventional investing wisdom is misguided. One of the most popular pieces of conventional wisdom couldn’t be more misguided, according to a recent analysis.",
+            "date": "Fri, 01 May 2026 13:57:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHY-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Can GLP-1s curb alcohol use? A new study says the drugs can reduce heavy drinking.",
+            "link": "https://www.marketwatch.com/story/can-glp-1s-curb-alcohol-use-a-new-study-says-the-drugs-can-reduce-heavy-drinking-39de87c1?mod=mw_rss_topstories",
+            "summary": "A “gold standard’ trial found that semaglutide helped reduce drinking in people with obesity who sought out treatment for alcohol-use disorder.",
+            "date": "Fri, 01 May 2026 13:57:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CAN",
             "impact": "Neutral"
         }
     ]
