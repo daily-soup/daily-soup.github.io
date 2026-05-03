@@ -1,59 +1,83 @@
 {
-    "date": "2026-05-02",
+    "date": "2026-05-03",
     "news": [
         {
-            "title": "Spirit Airlines shuts down after failing to reach a bailout deal, ending discount travel era",
-            "link": "https://www.cnbc.com/2026/05/01/spirit-airlines-trump-bailout.html",
-            "summary": "Talks with bondholders for a government bailout this week failed to yield a deal. Talks are expected to resume next week. The Greek government is seeking a bailout of up to $100 billion.",
-            "date": "Sat, 02 May 2026 11:10:51 GMT",
+            "title": "'Godspeed my friend': Inside the final hours of Spirit Airlines",
+            "link": "https://www.cnbc.com/2026/05/02/spirit-airlines-shutdown-inside-the-final-hours.html",
+            "summary": "Spirit Airlines ceased operations overnight after a failed government bailout. Spirit Airlines was one of the largest U.S. airlines. The airline was bailed out by the federal government in 2008.",
+            "date": "Sun, 03 May 2026 00:26:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FLYYQ",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "Musk testimony dominated first week Musk v. Altman. 'You can't just steal a charity'",
-            "link": "https://www.cnbc.com/2026/05/02/musk-testimony-dominated-first-week-musk-v-altman-trial-in-oakland.html",
-            "summary": "Elon Musk took the stand and testified over the course of three days in his trial against OpenAI CEO Sam Altman. Musk is the world's richest person.",
-            "date": "Sat, 02 May 2026 12:00:01 GMT",
+            "title": "U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war",
+            "link": "https://www.cnbc.com/2026/05/03/us-crude-oil-exports-surge-to-record-as-tankers-flock-to-gulf-coast.html",
+            "summary": "Oil exports are booming from the U.S. Gulf Coast thanks to the Middle East supply disruption caused by the Iran war. Oil exports from the Gulf Coast are booming thanks to a Middle Eastern supply disruption.",
+            "date": "Sun, 03 May 2026 11:08:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CRAZYMUSK-USD",
-            "impact": "Neutral"
+            "stock_ticker": "HRC=F",
+            "impact": "Bullish"
         },
         {
-            "title": "Weight loss and hair loss: The growing hair treatment market from GLP-1s",
-            "link": "https://www.cnbc.com/2026/05/02/hair-loss-glp-1s.html",
-            "summary": "A common side effect of many GLP-1 drugs is hair loss. It's creating a formerly untapped but growing market for hair treatment products.",
-            "date": "Sat, 02 May 2026 12:00:01 GMT",
+            "title": "OPEC+ announces 188,000 barrels-per-day output increase in first meeting without UAE",
+            "link": "https://www.cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-.html",
+            "summary": "Concerns around production were amplified further last week with news of the UAE's shock departure. The UAE is one of the biggest oil producers in the world. The country is also the biggest producer of crude oil.",
+            "date": "Sun, 03 May 2026 11:28:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^TWII",
+            "stock_ticker": "KS5.F",
             "impact": "Neutral"
         },
         {
-            "title": "Spirit Airlines shut down. Here's what travelers need to know if they have tickets",
-            "link": "https://www.cnbc.com/2026/05/01/spirit-airlines-flights-shut-down.html",
-            "summary": ". What travelers who are ticketed on Spirit Airlines need to know. What you need to do if you want to fly on Spirit.",
-            "date": "Sat, 02 May 2026 11:57:32 GMT",
+            "title": "Greg Abel rules out Berkshire break-up, stresses continuity with Buffett's legacy at annual meeting",
+            "link": "https://www.cnbc.com/2026/05/03/berkshire-annual-meeting-greg-abel-rules-out-break-up-stressing-continuity-with-buffett.html",
+            "summary": "New CEO Greg Abel did most of the talking at his first Berkshire Hathaway shareholders meeting. Warren Buffett was still a major presence at the meeting.",
+            "date": "Sun, 03 May 2026 11:04:43 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FLYYQ",
+            "stock_ticker": "GRG.L",
             "impact": "Neutral"
         },
         {
-            "title": "The U.S.-Iran war is coming for your credit score and mortgage application",
-            "link": "https://www.cnbc.com/2026/05/02/us-iran-war-credit-score-loans-mortgage-rates.html",
-            "summary": "The U.S.-Iran war and Strait of Hormuz closure have caused a global economic ripple effect. Your credit score included as banks and lenders get tighter.",
-            "date": "Sat, 02 May 2026 13:17:18 GMT",
+            "title": "Healthcare cost surge makes generous parental paid leave benefits a target of workplace cuts",
+            "link": "https://www.cnbc.com/2026/05/03/healthcare-costs-parental-paid-leave-employee-benefits-cuts.html",
+            "summary": "As healthcare costs soar and companies search for savings, generous paid parental leave is a benefit being cut. Recent examples from Zoom and Deloitte.",
+            "date": "Sun, 03 May 2026 13:23:44 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GEHC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "S&P 500 profits haven’t been this rich in at least 15 years — but there’s more to the story",
+            "link": "https://www.marketwatch.com/story/s-p-500-profits-havent-been-this-rich-in-at-least-15-years-but-theres-more-to-the-story-c3ccaf3b?mod=mw_rss_topstories",
+            "summary": "Three Big Tech companies have had an outsize impact on first-quarter profit performance. The companies are Apple, Google and Facebook. The tech companies are expected to report quarterly results on Thursday.",
+            "date": "Sun, 03 May 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ES=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘The numbers don’t lie’: If I had invested my Social Security in the S&P 500 I’d have $4 million. Is the system broken?",
+            "link": "https://www.marketwatch.com/story/the-numbers-dont-lie-if-i-had-invested-my-social-security-in-the-s-p-500-id-have-4-million-is-the-system-broken-d41b1779?mod=mw_rss_topstories",
+            "summary": "“I do better than many citizens because I’ve contributed at the highest level,” he says. “I’m not just a politician. I am a citizen.”",
+            "date": "Sun, 03 May 2026 13:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,64 +86,40 @@
             "impact": "Neutral"
         },
         {
-            "title": "Become a ‘lazy’ millionaire: This one habit can add a 20% bonus to your retirement",
-            "link": "https://www.marketwatch.com/story/become-a-lazy-millionaire-this-one-habit-can-add-a-20-bonus-to-your-retirement-cf7d715a?mod=mw_rss_topstories",
-            "summary": "The S&amp;P 500 just banked its best month since 2020. But to keep those gains, stop celebrating and focus long-term.",
-            "date": "Sat, 02 May 2026 13:54:00 GMT",
+            "title": "‘I am her scapegoat’: My mother-in-law squandered all her money. Do we buy her a house so she’s not homeless?",
+            "link": "https://www.marketwatch.com/story/i-am-her-scapegoat-my-mother-in-law-squandered-all-her-money-do-we-buy-her-a-house-so-shes-not-homeless-a8cbfa1c?mod=mw_rss_topstories",
+            "summary": "“She blames me for her poor relationship with her son and grandchildren,” he says. “She’s very angry with me.”",
+            "date": "Sun, 03 May 2026 13:19:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001NG1V.F",
+            "stock_ticker": "COAG",
             "impact": "Neutral"
         },
         {
-            "title": "Google is now a glorified venture-capital fund thanks to its SpaceX and Anthropic stakes",
-            "link": "https://www.marketwatch.com/story/google-is-now-a-glorified-venture-capital-fund-thanks-to-its-spacex-and-anthropic-stakes-b13f3d56?mod=mw_rss_topstories",
-            "summary": "Google’s early investments in SpaceX and Anthropic look like some of the “most successful venture bets any public company has ever made,” one expert says.",
-            "date": "Sat, 02 May 2026 13:31:00 GMT",
+            "title": "‘We’re all worried the honey pot will run dry’: Does the U.S. government borrow from my Social Security to fund federal programs?",
+            "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
+            "summary": "There are many suggestions floating around Washington D.C. on how to fix the program’s imminent funding issues. There are also many suggestions on what to do to keep the program going.",
+            "date": "Sun, 03 May 2026 13:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOOG",
+            "stock_ticker": "HOWL",
             "impact": "Neutral"
         },
         {
-            "title": "How this Japanese toilet maker became an unlikely AI winner",
-            "link": "https://www.marketwatch.com/story/this-japanese-toilet-maker-seeking-the-perfect-flush-is-moonlighting-as-a-hot-ai-play-30d11f1a?mod=mw_rss_topstories",
-            "summary": "Toto is “aiming to achieve a toilet that never needs cleaning” It’s also supplying electrostatic chucks — a semiconductor-manufacturing component critical to the memory-chip boom.",
-            "date": "Sat, 02 May 2026 13:17:00 GMT",
+            "title": "‘I hope to retire early’: I’m 56 and have 80% in a traditional IRA and 20% in a Roth. Am I in trouble?",
+            "link": "https://www.marketwatch.com/story/i-hope-to-retire-early-im-56-and-have-80-in-a-traditional-ira-and-20-in-a-roth-am-i-in-trouble-8ec58195?mod=mw_rss_topstories",
+            "summary": "“We have $3.5 million in savings — $2. 5 million of which are in retirement accounts,” he says. “We’re in a good place.”",
+            "date": "Sun, 03 May 2026 12:19:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Meet the unsinkable U.S. economy — oil prices are surging, Iran tensions are rising, but it won’t crack",
-            "link": "https://www.marketwatch.com/story/meet-the-unsinkable-u-s-economy-oil-prices-are-surging-iran-tensions-are-rising-but-it-wont-crack-ee27477f?mod=mw_rss_topstories",
-            "summary": "Nothing in the turbulent past year has poked a hole in the seemingly unsinkable U.S. economy. High tariffs, stubborn inflation, government shutdowns, war with Iran, rising oil prices have all contributed.",
-            "date": "Sat, 02 May 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IDOL36775-USD",
-            "impact": "Bearish"
-        },
-        {
-            "title": "EV drivers are taking a victory lap — right past the gas stations selling $4-a-gallon fuel",
-            "link": "https://www.marketwatch.com/story/ev-drivers-are-taking-a-victory-lap-right-past-the-gas-stations-selling-4-a-gallon-fuel-6931f634?mod=mw_rss_topstories",
-            "summary": "Electric-vehicle drivers are taking a victory lap as the war in Iran has slowed global oil supplies and pushed up the cost of gasoline.",
-            "date": "Sat, 02 May 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EVLV",
-            "impact": "Bullish"
+            "stock_ticker": "COAG",
+            "impact": "Neutral"
         }
     ]
 }
