@@ -1,124 +1,124 @@
 {
-    "date": "2026-05-03",
+    "date": "2026-05-04",
     "news": [
         {
-            "title": "'Godspeed my friend': Inside the final hours of Spirit Airlines",
-            "link": "https://www.cnbc.com/2026/05/02/spirit-airlines-shutdown-inside-the-final-hours.html",
-            "summary": "Spirit Airlines ceased operations overnight after a failed government bailout. Spirit Airlines was one of the largest U.S. airlines. The airline was bailed out by the federal government in 2008.",
-            "date": "Sun, 03 May 2026 00:26:04 GMT",
+            "title": "Musk texted OpenAI's Brockman about settlement two days before trial began",
+            "link": "https://www.cnbc.com/2026/05/04/musk-altman-open-ai-settlement-trial-brockman.html",
+            "summary": "Elon Musk co-founded OpenAI in 2015 and sued the company, President Greg Brockman and CEO Sam Altman in 2024.",
+            "date": "Mon, 04 May 2026 14:46:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "CRAZYMUSK-USD",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war",
-            "link": "https://www.cnbc.com/2026/05/03/us-crude-oil-exports-surge-to-record-as-tankers-flock-to-gulf-coast.html",
-            "summary": "Oil exports are booming from the U.S. Gulf Coast thanks to the Middle East supply disruption caused by the Iran war. Oil exports from the Gulf Coast are booming thanks to a Middle Eastern supply disruption.",
-            "date": "Sun, 03 May 2026 11:08:46 GMT",
+            "title": "EBay pops as Ryan Cohen says GameStop could issue stock to pay for takeover of much bigger retailer",
+            "link": "https://www.cnbc.com/2026/05/04/gamestop-ebay-takeover-bid-ryan-cohen-gaming-retail-ecommerce.html",
+            "summary": "GameStop made a takeover bid for eBay, offering $125 per share in a cash-and-stock deal. The offer values the e-commerce platform at roughly $55.5 billion.",
+            "date": "Mon, 04 May 2026 14:13:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "EBAY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "U.S. military denies Iran's claim it struck American warship in Strait of Hormuz",
+            "link": "https://www.cnbc.com/2026/05/04/iran-war-trump-strait-of-hormuz.html",
+            "summary": "Iran has blocked tanker traffic through the Strait of Hormuz since the U.S. and Israel started the war in late February. The move has resulted in supply and price shocks.",
+            "date": "Mon, 04 May 2026 14:01:27 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AUP=F",
             "impact": "Bullish"
         },
         {
-            "title": "OPEC+ announces 188,000 barrels-per-day output increase in first meeting without UAE",
-            "link": "https://www.cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-.html",
-            "summary": "Concerns around production were amplified further last week with news of the UAE's shock departure. The UAE is one of the biggest oil producers in the world. The country is also the biggest producer of crude oil.",
-            "date": "Sun, 03 May 2026 11:28:54 GMT",
+            "title": "Bret Taylor's Sierra raises nearly $1 billion months after last capital push",
+            "link": "https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html",
+            "summary": "Sierra's $950 million Series E funding round was led by Tiger and Google's GV, with participation from Benchmark, Sequoia, Greenoaks and others.",
+            "date": "Mon, 04 May 2026 14:50:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KS5.F",
+            "stock_ticker": "BRETF",
             "impact": "Neutral"
         },
         {
-            "title": "Greg Abel rules out Berkshire break-up, stresses continuity with Buffett's legacy at annual meeting",
-            "link": "https://www.cnbc.com/2026/05/03/berkshire-annual-meeting-greg-abel-rules-out-break-up-stressing-continuity-with-buffett.html",
-            "summary": "New CEO Greg Abel did most of the talking at his first Berkshire Hathaway shareholders meeting. Warren Buffett was still a major presence at the meeting.",
-            "date": "Sun, 03 May 2026 11:04:43 GMT",
+            "title": "‘Misplaced euphoria’: Markets are sleepwalking into a recession amid Iran war oil price shock",
+            "link": "https://www.cnbc.com/2026/05/04/strait-hormuz-gas-price-oil-shock-recession-risk-economy-iran-us-war.html",
+            "summary": " strategists warn that investors are downplaying the impact of soaring oil prices. US equities hit fresh highs, with the S&P 500 and the Nasdaq both up more than 1%.",
+            "date": "Mon, 04 May 2026 12:50:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GRG.L",
+            "stock_ticker": "EUPHORIAIT.BO",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Tesla just hit a ‘symbolic’ self-driving milestone. Real-world success will be tougher.",
+            "link": "https://www.marketwatch.com/story/tesla-just-hit-a-symbolic-self-driving-milestone-real-world-success-will-be-tougher-5fb93525?mod=mw_rss_topstories",
+            "summary": "Tesla has reached the threshold Musk once said would be required to achieve “safe unsupervised self-driving,” but the company still faces various hurdles.",
+            "date": "Mon, 04 May 2026 14:43:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSLA",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Global oil prices climb back above $110 a barrel after disputed report of Iran strike on U.S. warship",
+            "link": "https://www.marketwatch.com/story/oil-prices-climb-after-disputed-report-of-iran-strike-on-u-s-warship-in-the-strait-of-hormuz-e09f44c9?mod=mw_rss_topstories",
+            "summary": "Oil is off to a volatile start to the week on a disputed report of a strike on a U.S. Navy ship in the Strait of Hormuz.",
+            "date": "Mon, 04 May 2026 14:28:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "COIN",
             "impact": "Neutral"
         },
         {
-            "title": "Healthcare cost surge makes generous parental paid leave benefits a target of workplace cuts",
-            "link": "https://www.cnbc.com/2026/05/03/healthcare-costs-parental-paid-leave-employee-benefits-cuts.html",
-            "summary": "As healthcare costs soar and companies search for savings, generous paid parental leave is a benefit being cut. Recent examples from Zoom and Deloitte.",
-            "date": "Sun, 03 May 2026 13:23:44 GMT",
+            "title": "Become a ‘lazy’ millionaire: This one habit can add a 20% bonus to your retirement",
+            "link": "https://www.marketwatch.com/story/become-a-lazy-millionaire-this-one-habit-can-add-a-20-bonus-to-your-retirement-cf7d715a?mod=mw_rss_topstories",
+            "summary": "The S&amp;P 500 just banked its best month since 2020. But to keep those gains, stop celebrating and focus long-term.",
+            "date": "Mon, 04 May 2026 14:23:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GEHC",
+            "stock_ticker": "0P0001NG1U.F",
             "impact": "Neutral"
         },
         {
-            "title": "S&P 500 profits haven’t been this rich in at least 15 years — but there’s more to the story",
-            "link": "https://www.marketwatch.com/story/s-p-500-profits-havent-been-this-rich-in-at-least-15-years-but-theres-more-to-the-story-c3ccaf3b?mod=mw_rss_topstories",
-            "summary": "Three Big Tech companies have had an outsize impact on first-quarter profit performance. The companies are Apple, Google and Facebook. The tech companies are expected to report quarterly results on Thursday.",
-            "date": "Sun, 03 May 2026 14:00:00 GMT",
+            "title": "Meet the unsinkable U.S. economy — oil prices are surging, Iran tensions are rising, but it won’t crack",
+            "link": "https://www.marketwatch.com/story/meet-the-unsinkable-u-s-economy-oil-prices-are-surging-iran-tensions-are-rising-but-it-wont-crack-ee27477f?mod=mw_rss_topstories",
+            "summary": "Nothing in the turbulent past year has poked a hole in the seemingly unsinkable U.S. economy. High tariffs, stubborn inflation, government shutdowns, war with Iran, rising oil prices have all contributed.",
+            "date": "Mon, 04 May 2026 14:21:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ES=F",
-            "impact": "Neutral"
+            "stock_ticker": "IDOL36775-USD",
+            "impact": "Bearish"
         },
         {
-            "title": "‘The numbers don’t lie’: If I had invested my Social Security in the S&P 500 I’d have $4 million. Is the system broken?",
-            "link": "https://www.marketwatch.com/story/the-numbers-dont-lie-if-i-had-invested-my-social-security-in-the-s-p-500-id-have-4-million-is-the-system-broken-d41b1779?mod=mw_rss_topstories",
-            "summary": "“I do better than many citizens because I’ve contributed at the highest level,” he says. “I’m not just a politician. I am a citizen.”",
-            "date": "Sun, 03 May 2026 13:45:00 GMT",
+            "title": "Apple just gave a clue that a big AI acquisition may be in the cards",
+            "link": "https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=mw_rss_topstories",
+            "summary": "Apple is retiring its net-cash-neutral target. Some suspect the company will look to conduct more transformative M&amp;A, beyond the smaller deals it made in the past.",
+            "date": "Mon, 04 May 2026 14:18:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COAG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I am her scapegoat’: My mother-in-law squandered all her money. Do we buy her a house so she’s not homeless?",
-            "link": "https://www.marketwatch.com/story/i-am-her-scapegoat-my-mother-in-law-squandered-all-her-money-do-we-buy-her-a-house-so-shes-not-homeless-a8cbfa1c?mod=mw_rss_topstories",
-            "summary": "“She blames me for her poor relationship with her son and grandchildren,” he says. “She’s very angry with me.”",
-            "date": "Sun, 03 May 2026 13:19:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "COAG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘We’re all worried the honey pot will run dry’: Does the U.S. government borrow from my Social Security to fund federal programs?",
-            "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
-            "summary": "There are many suggestions floating around Washington D.C. on how to fix the program’s imminent funding issues. There are also many suggestions on what to do to keep the program going.",
-            "date": "Sun, 03 May 2026 13:06:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HOWL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I hope to retire early’: I’m 56 and have 80% in a traditional IRA and 20% in a Roth. Am I in trouble?",
-            "link": "https://www.marketwatch.com/story/i-hope-to-retire-early-im-56-and-have-80-in-a-traditional-ira-and-20-in-a-roth-am-i-in-trouble-8ec58195?mod=mw_rss_topstories",
-            "summary": "“We have $3.5 million in savings — $2. 5 million of which are in retirement accounts,” he says. “We’re in a good place.”",
-            "date": "Sun, 03 May 2026 12:19:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "COAG",
+            "stock_ticker": "AAPL",
             "impact": "Neutral"
         }
     ]
