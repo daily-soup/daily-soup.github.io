@@ -1,125 +1,125 @@
 {
-    "date": "2026-05-04",
+    "date": "2026-05-06",
     "news": [
         {
-            "title": "Musk texted OpenAI's Brockman about settlement two days before trial began",
-            "link": "https://www.cnbc.com/2026/05/04/musk-altman-open-ai-settlement-trial-brockman.html",
-            "summary": "Elon Musk co-founded OpenAI in 2015 and sued the company, President Greg Brockman and CEO Sam Altman in 2024.",
-            "date": "Mon, 04 May 2026 14:46:55 GMT",
+            "title": "Trump says Iran will be bombed at a 'much higher level' if it doesn't agree to peace deal",
+            "link": "https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html",
+            "summary": "Washington reportedly expects responses from Tehran on several key points within the next 48 hours. Washington reportedly expect responses from Iran on key points in next 48 days.",
+            "date": "Wed, 06 May 2026 14:32:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CRAZYMUSK-USD",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "EBay pops as Ryan Cohen says GameStop could issue stock to pay for takeover of much bigger retailer",
-            "link": "https://www.cnbc.com/2026/05/04/gamestop-ebay-takeover-bid-ryan-cohen-gaming-retail-ecommerce.html",
-            "summary": "GameStop made a takeover bid for eBay, offering $125 per share in a cash-and-stock deal. The offer values the e-commerce platform at roughly $55.5 billion.",
-            "date": "Mon, 04 May 2026 14:13:38 GMT",
+            "title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
+            "link": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
+            "summary": "Uber and Disney pointed to a resilient spending backdrop. Consumers continue to shell out for rides, food delivery, vacations and theme park trips.",
+            "date": "Wed, 06 May 2026 14:56:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EBAY",
+            "stock_ticker": "UBER",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. military denies Iran's claim it struck American warship in Strait of Hormuz",
-            "link": "https://www.cnbc.com/2026/05/04/iran-war-trump-strait-of-hormuz.html",
-            "summary": "Iran has blocked tanker traffic through the Strait of Hormuz since the U.S. and Israel started the war in late February. The move has resulted in supply and price shocks.",
-            "date": "Mon, 04 May 2026 14:01:27 GMT",
+            "title": "AMD's Su explains what's behind massive forecast change as stock roars 15% on earnings",
+            "link": "https://www.cnbc.com/2026/05/06/amd-lisa-su-stock-forecast-earnings.html",
+            "summary": "CEO Lisa Su highlighted the growing demand for central processing units. Su doubled her long term forecast after strong first-quarter earnings. Su: \"We have a long way to go, but we are on the right track\"",
+            "date": "Wed, 06 May 2026 14:39:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUP=F",
+            "stock_ticker": "SU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Commerce Sec. Howard Lutnick to answer Epstein questions from House panel Wednesday",
+            "link": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
+            "summary": "Howard Lutnick admitted to a Senate committee in February that he and his family visited Epstein's private island in the U.S. Virgin Islands in 2012.",
+            "date": "Wed, 06 May 2026 14:53:43 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CM.TO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia, Corning partner on massive optical fiber deal that may be a game changer for AI",
+            "link": "https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html",
+            "summary": "Corning is opening three new advanced manufacturing plants in the U.S. dedicated entirely to optical technologies for Nvidia. Corning will also be opening new optical manufacturing facilities in Europe and Asia.",
+            "date": "Wed, 06 May 2026 14:53:49 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVDA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Oil prices bounce off lows as an Iran-war peace deal may be just a ‘structured pause’",
+            "link": "https://www.marketwatch.com/story/oil-futures-fall-after-trump-pauses-u-s-effort-to-partially-reopen-strait-of-hormuz-936c77f9?mod=mw_rss_topstories",
+            "summary": "President Donald Trump said his latest effort to partially reopen the Strait of Hormuz would be paused. The move is to buy more time to reach an agreement to end hostilities with Iran.",
+            "date": "Wed, 06 May 2026 15:19:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CL=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "If stocks are to continue rising, energy prices need to start falling, Barclays says",
+            "link": "https://www.marketwatch.com/story/if-stocks-are-to-continue-rising-energy-prices-need-to-start-falling-barclays-says-99ee6ab8?mod=mw_rss_topstories",
+            "summary": "Barclays: Markets displaying a dangerous degree of complacency. Risk appetite needs a resolution in the Middle East, the bank says.",
+            "date": "Wed, 06 May 2026 14:57:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IFX.DE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s the real reason South Korea has the hottest stock market in the world",
+            "link": "https://www.marketwatch.com/story/this-chart-tells-the-story-of-the-hottest-stock-market-in-the-world-as-samsung-electronics-reaches-1-trillion-in-market-cap-1bd7892b?mod=mw_rss_topstories",
+            "summary": "South Korean stocks shot up another 6% on Wednesday and Samsung Electronics reached $1 trillion in market cap. Kospi index surge 75% this year and nearly triple over the last 52 weeks.",
+            "date": "Wed, 06 May 2026 14:51:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ERNAW",
             "impact": "Bullish"
         },
         {
-            "title": "Bret Taylor's Sierra raises nearly $1 billion months after last capital push",
-            "link": "https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html",
-            "summary": "Sierra's $950 million Series E funding round was led by Tiger and Google's GV, with participation from Benchmark, Sequoia, Greenoaks and others.",
-            "date": "Mon, 04 May 2026 14:50:01 GMT",
+            "title": "Stocks are losing their edge over bonds, in an ominous sign for the market",
+            "link": "https://www.marketwatch.com/story/stocks-are-losing-their-edge-over-bonds-in-an-ominous-sign-for-the-market-481f801d?mod=mw_rss_topstories",
+            "summary": "The extra return that investors receive for the additional risk of owning stocks over bonds has been fading. That is making some on Wall Street nervous that investors might be too complacent.",
+            "date": "Wed, 06 May 2026 14:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BRETF",
+            "stock_ticker": "QTOP",
             "impact": "Neutral"
         },
         {
-            "title": "‘Misplaced euphoria’: Markets are sleepwalking into a recession amid Iran war oil price shock",
-            "link": "https://www.cnbc.com/2026/05/04/strait-hormuz-gas-price-oil-shock-recession-risk-economy-iran-us-war.html",
-            "summary": " strategists warn that investors are downplaying the impact of soaring oil prices. US equities hit fresh highs, with the S&P 500 and the Nasdaq both up more than 1%.",
-            "date": "Mon, 04 May 2026 12:50:34 GMT",
+            "title": "Nvidia’s new deal with Corning validates one of the hottest AI trends out there",
+            "link": "https://www.marketwatch.com/story/nvidias-new-deal-with-corning-validates-one-of-the-hottest-ai-trends-out-there-caddebe8?mod=mw_rss_topstories",
+            "summary": " Optical components are increasingly in short supply, and Nvidia is partnering with key players to gain an edge. Nvidia is working with a number of companies to develop new optical components.",
+            "date": "Wed, 06 May 2026 14:26:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EUPHORIAIT.BO",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Tesla just hit a ‘symbolic’ self-driving milestone. Real-world success will be tougher.",
-            "link": "https://www.marketwatch.com/story/tesla-just-hit-a-symbolic-self-driving-milestone-real-world-success-will-be-tougher-5fb93525?mod=mw_rss_topstories",
-            "summary": "Tesla has reached the threshold Musk once said would be required to achieve “safe unsupervised self-driving,” but the company still faces various hurdles.",
-            "date": "Mon, 04 May 2026 14:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TSLA",
+            "stock_ticker": "6N=F",
             "impact": "Bullish"
-        },
-        {
-            "title": "Global oil prices climb back above $110 a barrel after disputed report of Iran strike on U.S. warship",
-            "link": "https://www.marketwatch.com/story/oil-prices-climb-after-disputed-report-of-iran-strike-on-u-s-warship-in-the-strait-of-hormuz-e09f44c9?mod=mw_rss_topstories",
-            "summary": "Oil is off to a volatile start to the week on a disputed report of a strike on a U.S. Navy ship in the Strait of Hormuz.",
-            "date": "Mon, 04 May 2026 14:28:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "COIN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Become a ‘lazy’ millionaire: This one habit can add a 20% bonus to your retirement",
-            "link": "https://www.marketwatch.com/story/become-a-lazy-millionaire-this-one-habit-can-add-a-20-bonus-to-your-retirement-cf7d715a?mod=mw_rss_topstories",
-            "summary": "The S&amp;P 500 just banked its best month since 2020. But to keep those gains, stop celebrating and focus long-term.",
-            "date": "Mon, 04 May 2026 14:23:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001NG1U.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Meet the unsinkable U.S. economy — oil prices are surging, Iran tensions are rising, but it won’t crack",
-            "link": "https://www.marketwatch.com/story/meet-the-unsinkable-u-s-economy-oil-prices-are-surging-iran-tensions-are-rising-but-it-wont-crack-ee27477f?mod=mw_rss_topstories",
-            "summary": "Nothing in the turbulent past year has poked a hole in the seemingly unsinkable U.S. economy. High tariffs, stubborn inflation, government shutdowns, war with Iran, rising oil prices have all contributed.",
-            "date": "Mon, 04 May 2026 14:21:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IDOL36775-USD",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Apple just gave a clue that a big AI acquisition may be in the cards",
-            "link": "https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=mw_rss_topstories",
-            "summary": "Apple is retiring its net-cash-neutral target. Some suspect the company will look to conduct more transformative M&amp;A, beyond the smaller deals it made in the past.",
-            "date": "Mon, 04 May 2026 14:18:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAPL",
-            "impact": "Neutral"
         }
     ]
 }
