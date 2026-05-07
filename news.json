@@ -1,95 +1,107 @@
 {
-    "date": "2026-05-06",
+    "date": "2026-05-07",
     "news": [
         {
-            "title": "Trump says Iran will be bombed at a 'much higher level' if it doesn't agree to peace deal",
-            "link": "https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html",
-            "summary": "Washington reportedly expects responses from Tehran on several key points within the next 48 hours. Washington reportedly expect responses from Iran on key points in next 48 days.",
-            "date": "Wed, 06 May 2026 14:32:39 GMT",
+            "title": "McDonald's CEO says consumer spending could be 'getting a little bit worse'",
+            "link": "https://www.cnbc.com/2026/05/07/mcdonalds-mcd-q1-2026-earnings.html",
+            "summary": "Shares of McDonald's have fallen 10% over the last year. Concerns about the broader economy have hurt the company's share price.",
+            "date": "Thu, 07 May 2026 14:26:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "MCD",
             "impact": "Neutral"
         },
         {
-            "title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging",
-            "link": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
-            "summary": "Uber and Disney pointed to a resilient spending backdrop. Consumers continue to shell out for rides, food delivery, vacations and theme park trips.",
-            "date": "Wed, 06 May 2026 14:56:57 GMT",
+            "title": "Boeing CEO Kelly Ortberg set to join Trump on China visit next week",
+            "link": "https://www.cnbc.com/2026/05/07/trump-china-boeing-kelly-ortberg.html",
+            "summary": "Boeing CEO Kelly Ortberg is expected to join President Donald Trump on his visit to China next week, a source familiar with the planemaker's plans said.",
+            "date": "Thu, 07 May 2026 15:24:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UBER",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "AMD's Su explains what's behind massive forecast change as stock roars 15% on earnings",
-            "link": "https://www.cnbc.com/2026/05/06/amd-lisa-su-stock-forecast-earnings.html",
-            "summary": "CEO Lisa Su highlighted the growing demand for central processing units. Su doubled her long term forecast after strong first-quarter earnings. Su: \"We have a long way to go, but we are on the right track\"",
-            "date": "Wed, 06 May 2026 14:39:39 GMT",
+            "title": "OpenAI trial: Mother of Musk's children says he offered Altman a Tesla board seat",
+            "link": "https://www.cnbc.com/2026/05/07/open-ai-trial-shivon-zilis-musk-altman-tesla-board.html",
+            "summary": "Former OpenAI board member testified that Musk wanted the AI startup to join his EV company. Shivon Zilis, a former Open AI board member who has four children with Musk, testified.",
+            "date": "Thu, 07 May 2026 15:20:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SU",
-            "impact": "Neutral"
+            "stock_ticker": "OPENAI-USD",
+            "impact": "Bullish"
         },
         {
-            "title": "Commerce Sec. Howard Lutnick to answer Epstein questions from House panel Wednesday",
-            "link": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
-            "summary": "Howard Lutnick admitted to a Senate committee in February that he and his family visited Epstein's private island in the U.S. Virgin Islands in 2012.",
-            "date": "Wed, 06 May 2026 14:53:43 GMT",
+            "title": "Paul Tudor Jones says AI bull market has 'another year or two to run'",
+            "link": "https://www.cnbc.com/2026/05/07/paul-tudor-jones-says-ai-bull-market-has-another-year-or-two-to-run.html",
+            "summary": "The market may still be in the middle innings of an AI-driven rally. The billionaire hedge fund manager said the market was in the midst of an 'AI rally'",
+            "date": "Thu, 07 May 2026 15:14:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CM.TO",
+            "stock_ticker": "SBS",
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia, Corning partner on massive optical fiber deal that may be a game changer for AI",
-            "link": "https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html",
-            "summary": "Corning is opening three new advanced manufacturing plants in the U.S. dedicated entirely to optical technologies for Nvidia. Corning will also be opening new optical manufacturing facilities in Europe and Asia.",
-            "date": "Wed, 06 May 2026 14:53:49 GMT",
+            "title": "Used car prices fall for first time this year as gas prices spike, EV interest rises",
+            "link": "https://www.cnbc.com/2026/05/07/used-car-prices-gas.html",
+            "summary": "Cox Automotive reports affordability remains a key concern for buyers. This is driving increased demand for older vehicles as well as all-electric vehicles.",
+            "date": "Thu, 07 May 2026 14:18:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "USEDCAR-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Oil prices bounce off lows as an Iran-war peace deal may be just a ‘structured pause’",
-            "link": "https://www.marketwatch.com/story/oil-futures-fall-after-trump-pauses-u-s-effort-to-partially-reopen-strait-of-hormuz-936c77f9?mod=mw_rss_topstories",
-            "summary": "President Donald Trump said his latest effort to partially reopen the Strait of Hormuz would be paused. The move is to buy more time to reach an agreement to end hostilities with Iran.",
-            "date": "Wed, 06 May 2026 15:19:00 GMT",
+            "title": "Kevin Warsh will be the richest Fed chair ever. Just how rich, he isn’t saying.",
+            "link": "https://www.marketwatch.com/story/kevin-warshs-undisclosed-wealth-leaves-a-100-million-mystery-atop-the-federal-reserve-19f0dc78?mod=mw_rss_topstories",
+            "summary": "The Fed chair nominee has filed 69 pages about his finances that mostly tell you what he won't tell you. The Senate is ready to confirm him anyway.",
+            "date": "Thu, 07 May 2026 15:23:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "SHW",
             "impact": "Neutral"
         },
         {
-            "title": "If stocks are to continue rising, energy prices need to start falling, Barclays says",
-            "link": "https://www.marketwatch.com/story/if-stocks-are-to-continue-rising-energy-prices-need-to-start-falling-barclays-says-99ee6ab8?mod=mw_rss_topstories",
-            "summary": "Barclays: Markets displaying a dangerous degree of complacency. Risk appetite needs a resolution in the Middle East, the bank says.",
-            "date": "Wed, 06 May 2026 14:57:00 GMT",
+            "title": "‘The S&P 500 seems to be doing particularly well’: I’m 66. Is this a good time to invest $100,000 in the stock market?",
+            "link": "https://www.marketwatch.com/story/the-s-p-500-seems-to-be-doing-particularly-well-im-66-is-this-a-good-time-to-invest-100-000-in-the-stock-market-46fb8ff8?mod=mw_rss_topstories",
+            "summary": "“I own my home and I have no debt,” she says. “I’ve never been in debt in my life.”",
+            "date": "Thu, 07 May 2026 15:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IFX.DE",
+            "stock_ticker": "ERNAW",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s the real reason South Korea has the hottest stock market in the world",
-            "link": "https://www.marketwatch.com/story/this-chart-tells-the-story-of-the-hottest-stock-market-in-the-world-as-samsung-electronics-reaches-1-trillion-in-market-cap-1bd7892b?mod=mw_rss_topstories",
-            "summary": "South Korean stocks shot up another 6% on Wednesday and Samsung Electronics reached $1 trillion in market cap. Kospi index surge 75% this year and nearly triple over the last 52 weeks.",
-            "date": "Wed, 06 May 2026 14:51:00 GMT",
+            "title": "Fortinet’s stock rockets higher as earnings help dispel fears of AI disruption",
+            "link": "https://www.marketwatch.com/story/fortinets-stock-rockets-as-earnings-help-dispel-fears-of-ai-disruption-8a8f0107?mod=mw_rss_topstories",
+            "summary": "An “increasingly complex threat environment” is boosting demand for Fortinet’s cybersecurity offerings, the company says. Fortinet is a leading provider of security software and services.",
+            "date": "Thu, 07 May 2026 15:14:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VTI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The ‘SpaceX Mafia’ is here. Elon Musk’s big IPO could launch a constellation of new companies.",
+            "link": "https://www.marketwatch.com/story/the-spacex-mafia-is-here-elon-musks-big-ipo-could-launch-a-constellation-of-new-companies-83def501?mod=mw_rss_topstories",
+            "summary": "SpaceX employees and alumni have an ‘insane network’ and will soon be able to tap a lot of cash, expanding the mini-SpaceXs orbiting the upcoming IPO.",
+            "date": "Thu, 07 May 2026 14:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,28 +110,16 @@
             "impact": "Bullish"
         },
         {
-            "title": "Stocks are losing their edge over bonds, in an ominous sign for the market",
-            "link": "https://www.marketwatch.com/story/stocks-are-losing-their-edge-over-bonds-in-an-ominous-sign-for-the-market-481f801d?mod=mw_rss_topstories",
-            "summary": "The extra return that investors receive for the additional risk of owning stocks over bonds has been fading. That is making some on Wall Street nervous that investors might be too complacent.",
-            "date": "Wed, 06 May 2026 14:38:00 GMT",
+            "title": "The number of people getting unemployment checks just fell to a 2½-year low. Here’s why.",
+            "link": "https://www.marketwatch.com/story/the-number-of-people-getting-unemployment-checks-just-fell-to-a-2-year-low-heres-why-0c4f7578?mod=mw_rss_topstories",
+            "summary": "A sluggish U.S. labor market appears to be coming out of its torpor. Is it getting easier to find a job?  Maybe.",
+            "date": "Thu, 07 May 2026 14:54:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "QTOP",
+            "stock_ticker": "ERNAW",
             "impact": "Neutral"
-        },
-        {
-            "title": "Nvidia’s new deal with Corning validates one of the hottest AI trends out there",
-            "link": "https://www.marketwatch.com/story/nvidias-new-deal-with-corning-validates-one-of-the-hottest-ai-trends-out-there-caddebe8?mod=mw_rss_topstories",
-            "summary": " Optical components are increasingly in short supply, and Nvidia is partnering with key players to gain an edge. Nvidia is working with a number of companies to develop new optical components.",
-            "date": "Wed, 06 May 2026 14:26:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "6N=F",
-            "impact": "Bullish"
         }
     ]
 }
