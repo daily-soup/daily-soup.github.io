@@ -1,71 +1,83 @@
 {
-    "date": "2026-05-07",
+    "date": "2026-05-08",
     "news": [
         {
-            "title": "McDonald's CEO says consumer spending could be 'getting a little bit worse'",
-            "link": "https://www.cnbc.com/2026/05/07/mcdonalds-mcd-q1-2026-earnings.html",
-            "summary": "Shares of McDonald's have fallen 10% over the last year. Concerns about the broader economy have hurt the company's share price.",
-            "date": "Thu, 07 May 2026 14:26:07 GMT",
+            "title": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
+            "link": "https://www.cnbc.com/2026/05/08/jobs-report-april-2026.html",
+            "summary": "Nonfarm payrolls were expected to increase by 55,000 in April, according to the Dow Jones consensus. The U.S. economy is expected to grow by 0.3 percent in the first quarter.",
+            "date": "Fri, 08 May 2026 14:17:13 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MCD",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Boeing CEO Kelly Ortberg set to join Trump on China visit next week",
-            "link": "https://www.cnbc.com/2026/05/07/trump-china-boeing-kelly-ortberg.html",
-            "summary": "Boeing CEO Kelly Ortberg is expected to join President Donald Trump on his visit to China next week, a source familiar with the planemaker's plans said.",
-            "date": "Thu, 07 May 2026 15:24:36 GMT",
+            "title": "Consumer sentiment falls to fresh record low in May as surging gas prices hit outlook",
+            "link": "https://www.cnbc.com/2026/05/08/consumer-sentiment-falls-to-fresh-record-low-in-may-as-surging-gas-prices-hit-outlook.html",
+            "summary": "Consumer sentiment hit a new low in the early part of May. Gas prices due to the Iran war sent consumer sentiment to a new high.",
+            "date": "Fri, 08 May 2026 14:30:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "XAY=F",
             "impact": "Neutral"
         },
         {
-            "title": "OpenAI trial: Mother of Musk's children says he offered Altman a Tesla board seat",
-            "link": "https://www.cnbc.com/2026/05/07/open-ai-trial-shivon-zilis-musk-altman-tesla-board.html",
-            "summary": "Former OpenAI board member testified that Musk wanted the AI startup to join his EV company. Shivon Zilis, a former Open AI board member who has four children with Musk, testified.",
-            "date": "Thu, 07 May 2026 15:20:59 GMT",
+            "title": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here",
+            "link": "https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html",
+            "summary": "The arrival of Anthropic's Mythos jolted banks, software giants and governments into reckoning with a new era of cyber attacks. But the threat is already here.",
+            "date": "Fri, 08 May 2026 14:04:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OPENAI-USD",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Paul Tudor Jones says AI bull market has 'another year or two to run'",
-            "link": "https://www.cnbc.com/2026/05/07/paul-tudor-jones-says-ai-bull-market-has-another-year-or-two-to-run.html",
-            "summary": "The market may still be in the middle innings of an AI-driven rally. The billionaire hedge fund manager said the market was in the midst of an 'AI rally'",
-            "date": "Thu, 07 May 2026 15:14:05 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SBS",
+            "stock_ticker": "MYTH-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Used car prices fall for first time this year as gas prices spike, EV interest rises",
-            "link": "https://www.cnbc.com/2026/05/07/used-car-prices-gas.html",
-            "summary": "Cox Automotive reports affordability remains a key concern for buyers. This is driving increased demand for older vehicles as well as all-electric vehicles.",
-            "date": "Thu, 07 May 2026 14:18:17 GMT",
+            "title": "Marco Rubio says U.S. expects Iran response on peace deal 'today'",
+            "link": "https://www.cnbc.com/2026/05/08/marco-rubio-says-us-expects-iran-response-on-peace-deal-today.html",
+            "summary": "U.S. Secretary of State Marco Rubio said Friday that the U.S., is expecting a response from Iran on Washington's proposal to end the war.",
+            "date": "Fri, 08 May 2026 12:55:25 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "USEDCAR-USD",
+            "stock_ticker": "UF11.MU",
             "impact": "Neutral"
         },
         {
-            "title": "Kevin Warsh will be the richest Fed chair ever. Just how rich, he isn’t saying.",
+            "title": "Trump threatens EU with ‘much higher’ tariffs if no trade deal signed by new deadline",
+            "link": "https://www.cnbc.com/2026/05/08/trump-tariffs-trade-eu-europe-deal.html",
+            "summary": "U.S. President Donald Trump said he will give the European Union until July 4 to ratify its trade agreement with the U.S., according to reports.",
+            "date": "Fri, 08 May 2026 07:32:28 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "BuzzFeed blows past a key debt deadline, raising the specter of bankruptcy",
+            "link": "https://www.marketwatch.com/story/buzzfeed-blows-past-a-key-debt-deadline-raising-the-specter-of-bankruptcy-6d238303?mod=mw_rss_topstories",
+            "summary": "The company was granted an extension until May 18 on a $5 million debt payment. The company issued a going-concern warning earlier this year.",
+            "date": "Fri, 08 May 2026 14:26:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BZFD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Kevin Warsh will be the richest Fed chair ever. Just how rich — he isn’t saying.",
             "link": "https://www.marketwatch.com/story/kevin-warshs-undisclosed-wealth-leaves-a-100-million-mystery-atop-the-federal-reserve-19f0dc78?mod=mw_rss_topstories",
             "summary": "The Fed chair nominee has filed 69 pages about his finances that mostly tell you what he won't tell you. The Senate is ready to confirm him anyway.",
-            "date": "Thu, 07 May 2026 15:23:00 GMT",
+            "date": "Fri, 08 May 2026 14:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,52 +86,40 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘The S&P 500 seems to be doing particularly well’: I’m 66. Is this a good time to invest $100,000 in the stock market?",
-            "link": "https://www.marketwatch.com/story/the-s-p-500-seems-to-be-doing-particularly-well-im-66-is-this-a-good-time-to-invest-100-000-in-the-stock-market-46fb8ff8?mod=mw_rss_topstories",
-            "summary": "“I own my home and I have no debt,” she says. “I’ve never been in debt in my life.”",
-            "date": "Thu, 07 May 2026 15:15:00 GMT",
+            "title": "These popular retirement communities have years-long waiting lists — but here’s what they’re not telling you",
+            "link": "https://www.marketwatch.com/story/these-popular-retirement-communities-have-years-long-waiting-lists-but-heres-what-theyre-not-telling-you-76c5b865?mod=mw_rss_topstories",
+            "summary": "What to keep in mind before paying $400,000 to $1 million in entry fees to move into a continuing-care retirement community.",
+            "date": "Fri, 08 May 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ERNAW",
+            "stock_ticker": "0P0001YPM3.L",
             "impact": "Neutral"
         },
         {
-            "title": "Fortinet’s stock rockets higher as earnings help dispel fears of AI disruption",
-            "link": "https://www.marketwatch.com/story/fortinets-stock-rockets-as-earnings-help-dispel-fears-of-ai-disruption-8a8f0107?mod=mw_rss_topstories",
-            "summary": "An “increasingly complex threat environment” is boosting demand for Fortinet’s cybersecurity offerings, the company says. Fortinet is a leading provider of security software and services.",
-            "date": "Thu, 07 May 2026 15:14:00 GMT",
+            "title": "I’m giving $10,000 to my stepchildren. My wife warned me against gifts of equal value for my nephews. Is that fair?",
+            "link": "https://www.marketwatch.com/story/im-giving-10-000-to-my-stepchildren-my-wife-warned-me-against-gifts-of-equal-value-for-my-nephews-is-that-fair-9d7d2724?mod=mw_rss_topstories",
+            "summary": "“Our net worth is about $4 million, and we are both 60,” he says. “We’re both 60. That’s a big difference.”",
+            "date": "Fri, 08 May 2026 13:32:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VTI",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "The ‘SpaceX Mafia’ is here. Elon Musk’s big IPO could launch a constellation of new companies.",
-            "link": "https://www.marketwatch.com/story/the-spacex-mafia-is-here-elon-musks-big-ipo-could-launch-a-constellation-of-new-companies-83def501?mod=mw_rss_topstories",
-            "summary": "SpaceX employees and alumni have an ‘insane network’ and will soon be able to tap a lot of cash, expanding the mini-SpaceXs orbiting the upcoming IPO.",
-            "date": "Thu, 07 May 2026 14:58:00 GMT",
+            "title": "This new target for the S&P 500 is very nearly Wall Street’s highest. Here are the trades to make.",
+            "link": "https://www.marketwatch.com/story/a-new-wall-street-target-for-the-s-p-500-is-very-nearly-the-top-here-are-the-trades-to-make-388b4773?mod=mw_rss_topstories",
+            "summary": "RBC: Earnings and a supportive economic backdrop should help stocks. RBC: Stocks will benefit from a supportive earnings and economic backdrop. The Canadian dollar is up 0.3% to C$1.30.",
+            "date": "Fri, 08 May 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ERNAW",
+            "stock_ticker": "S2819.MC",
             "impact": "Bullish"
-        },
-        {
-            "title": "The number of people getting unemployment checks just fell to a 2½-year low. Here’s why.",
-            "link": "https://www.marketwatch.com/story/the-number-of-people-getting-unemployment-checks-just-fell-to-a-2-year-low-heres-why-0c4f7578?mod=mw_rss_topstories",
-            "summary": "A sluggish U.S. labor market appears to be coming out of its torpor. Is it getting easier to find a job?  Maybe.",
-            "date": "Thu, 07 May 2026 14:54:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ERNAW",
-            "impact": "Neutral"
         }
     ]
 }
