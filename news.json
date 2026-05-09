@@ -1,125 +1,125 @@
 {
-    "date": "2026-05-08",
+    "date": "2026-05-09",
     "news": [
         {
-            "title": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
-            "link": "https://www.cnbc.com/2026/05/08/jobs-report-april-2026.html",
-            "summary": "Nonfarm payrolls were expected to increase by 55,000 in April, according to the Dow Jones consensus. The U.S. economy is expected to grow by 0.3 percent in the first quarter.",
-            "date": "Fri, 08 May 2026 14:17:13 GMT",
+            "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
+            "link": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
+            "summary": "N Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack. The company is also signing commercial deals with them.",
+            "date": "Sat, 09 May 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "Consumer sentiment falls to fresh record low in May as surging gas prices hit outlook",
-            "link": "https://www.cnbc.com/2026/05/08/consumer-sentiment-falls-to-fresh-record-low-in-may-as-surging-gas-prices-hit-outlook.html",
-            "summary": "Consumer sentiment hit a new low in the early part of May. Gas prices due to the Iran war sent consumer sentiment to a new high.",
-            "date": "Fri, 08 May 2026 14:30:27 GMT",
+            "title": "Why one of the nation's largest auto lenders isn't worried about high vehicle prices or 'forever loans'",
+            "link": "https://www.cnbc.com/2026/05/09/capital-one-auto-forever-loans-used-cars.html",
+            "summary": " median car payments have jumped from $390 to $525 since 2019. Data provided by Capital One suggests stability in vehicle cost compared to income.",
+            "date": "Sat, 09 May 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XAY=F",
+            "stock_ticker": "WHY-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here",
-            "link": "https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html",
-            "summary": "The arrival of Anthropic's Mythos jolted banks, software giants and governments into reckoning with a new era of cyber attacks. But the threat is already here.",
-            "date": "Fri, 08 May 2026 14:04:22 GMT",
+            "title": "Major crypto bill slated for May 14 Senate Banking Committee vote",
+            "link": "https://www.cnbc.com/2026/05/08/congress-crypto-bill-vote-senate-banking-committee.html",
+            "summary": "Crypto industry's top legislative priority, a bill determining oversight of digital assets, is set to advance in the Senate Banking Committee. The bill is expected to be voted on in the next few days.",
+            "date": "Fri, 08 May 2026 23:35:48 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYTH-USD",
+            "stock_ticker": "MAJOR-R.BK",
             "impact": "Neutral"
         },
         {
-            "title": "Marco Rubio says U.S. expects Iran response on peace deal 'today'",
-            "link": "https://www.cnbc.com/2026/05/08/marco-rubio-says-us-expects-iran-response-on-peace-deal-today.html",
-            "summary": "U.S. Secretary of State Marco Rubio said Friday that the U.S., is expecting a response from Iran on Washington's proposal to end the war.",
-            "date": "Fri, 08 May 2026 12:55:25 GMT",
+            "title": "The Iran war will change global energy markets in these important ways, oil executives say",
+            "link": "https://www.cnbc.com/2026/05/09/iran-war-oil-gas-energy-security.html",
+            "summary": "Iran's blockade of the Strait of Hormuz has resulted in the loss of nearly a billion barrels of oil. The shortage is growing worse every day.",
+            "date": "Sat, 09 May 2026 12:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UF11.MU",
+            "stock_ticker": "ODTX",
             "impact": "Neutral"
         },
         {
-            "title": "Trump threatens EU with ‘much higher’ tariffs if no trade deal signed by new deadline",
-            "link": "https://www.cnbc.com/2026/05/08/trump-tariffs-trade-eu-europe-deal.html",
-            "summary": "U.S. President Donald Trump said he will give the European Union until July 4 to ratify its trade agreement with the U.S., according to reports.",
-            "date": "Fri, 08 May 2026 07:32:28 GMT",
+            "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
+            "link": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
+            "summary": "U.S. businesses like rare earths and supply chains may take a back seat on the agenda for the Trump-Xi summit. Thanks to the Iran war, big issues for U.S.-China relations may be on the back burner.",
+            "date": "Fri, 08 May 2026 18:44:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "BuzzFeed blows past a key debt deadline, raising the specter of bankruptcy",
-            "link": "https://www.marketwatch.com/story/buzzfeed-blows-past-a-key-debt-deadline-raising-the-specter-of-bankruptcy-6d238303?mod=mw_rss_topstories",
-            "summary": "The company was granted an extension until May 18 on a $5 million debt payment. The company issued a going-concern warning earlier this year.",
-            "date": "Fri, 08 May 2026 14:26:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BZFD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Kevin Warsh will be the richest Fed chair ever. Just how rich — he isn’t saying.",
-            "link": "https://www.marketwatch.com/story/kevin-warshs-undisclosed-wealth-leaves-a-100-million-mystery-atop-the-federal-reserve-19f0dc78?mod=mw_rss_topstories",
-            "summary": "The Fed chair nominee has filed 69 pages about his finances that mostly tell you what he won't tell you. The Senate is ready to confirm him anyway.",
-            "date": "Fri, 08 May 2026 14:04:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SHW",
-            "impact": "Neutral"
-        },
-        {
-            "title": "These popular retirement communities have years-long waiting lists — but here’s what they’re not telling you",
-            "link": "https://www.marketwatch.com/story/these-popular-retirement-communities-have-years-long-waiting-lists-but-heres-what-theyre-not-telling-you-76c5b865?mod=mw_rss_topstories",
-            "summary": "What to keep in mind before paying $400,000 to $1 million in entry fees to move into a continuing-care retirement community.",
-            "date": "Fri, 08 May 2026 14:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001YPM3.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m giving $10,000 to my stepchildren. My wife warned me against gifts of equal value for my nephews. Is that fair?",
-            "link": "https://www.marketwatch.com/story/im-giving-10-000-to-my-stepchildren-my-wife-warned-me-against-gifts-of-equal-value-for-my-nephews-is-that-fair-9d7d2724?mod=mw_rss_topstories",
-            "summary": "“Our net worth is about $4 million, and we are both 60,” he says. “We’re both 60. That’s a big difference.”",
-            "date": "Fri, 08 May 2026 13:32:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This new target for the S&P 500 is very nearly Wall Street’s highest. Here are the trades to make.",
-            "link": "https://www.marketwatch.com/story/a-new-wall-street-target-for-the-s-p-500-is-very-nearly-the-top-here-are-the-trades-to-make-388b4773?mod=mw_rss_topstories",
-            "summary": "RBC: Earnings and a supportive economic backdrop should help stocks. RBC: Stocks will benefit from a supportive earnings and economic backdrop. The Canadian dollar is up 0.3% to C$1.30.",
-            "date": "Fri, 08 May 2026 13:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "S2819.MC",
+            "stock_ticker": "RANI3F.SA",
             "impact": "Bullish"
+        },
+        {
+            "title": "My niece is on Social Security Disability Insurance. Will she lose her health insurance if I buy her a house?",
+            "link": "https://www.marketwatch.com/story/my-niece-is-on-social-security-disability-insurance-will-she-lose-her-health-insurance-if-i-buy-her-a-house-5214d100?mod=mw_rss_topstories",
+            "summary": "“She has not been able to get approved for a mortgage, so I want to help her,” he says. “She’s not been allowed to get a mortgage for years.”",
+            "date": "Sat, 09 May 2026 13:21:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Introducing the ‘NACHO’ trade: How Wall Street is betting on higher oil prices and persistent inflation",
+            "link": "https://www.marketwatch.com/story/introducing-the-nacho-trade-how-wall-street-is-betting-on-higher-oil-prices-and-persistent-inflation-eb915434?mod=mw_rss_topstories",
+            "summary": "Wall Street is glomming on to yet another acronym inspired in part by Mexican cuisine. The acronym is called Wall Street Financial Services, or WSFS. WSFS is an acronym for Wall Street Finance Services.",
+            "date": "Sat, 09 May 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ODTX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The unsinkable U.S. economy cruises on, despite headwinds from the Iran war",
+            "link": "https://www.marketwatch.com/story/the-unsinkable-u-s-economy-cruises-on-despite-headwinds-from-the-iran-war-dac45af5?mod=mw_rss_topstories",
+            "summary": "The economy keeps expanding in the face of macro obstacles. The U.S. economy is growing at a faster rate than the rest of the world's.",
+            "date": "Sat, 09 May 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ODTX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The most prestigious job in AI has no description",
+            "link": "https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories",
+            "summary": "Everyone from Anthropic to tiny startups is hiring for the “member of technical staff” — but does anyone know what it means?",
+            "date": "Sat, 09 May 2026 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ODTX",
+            "impact": "Bullish"
+        },
+        {
+            "title": "More Americans are buying homes to fit multiple generations: ‘It answered a lot of prayers’",
+            "link": "https://www.marketwatch.com/story/more-americans-are-buying-homes-to-fit-multiple-generations-it-answered-a-lot-of-prayers-00d0239d?mod=mw_rss_topstories",
+            "summary": "Multigenerational living is expected to get even more popular as baby boomers age. The average age of a family of four in the U.S. is now 54.",
+            "date": "Sat, 09 May 2026 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001JSE7.SI",
+            "impact": "Neutral"
         }
     ]
 }
