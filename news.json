@@ -1,71 +1,83 @@
 {
-    "date": "2026-05-09",
+    "date": "2026-05-10",
     "news": [
         {
-            "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
-            "link": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
-            "summary": "N Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack. The company is also signing commercial deals with them.",
-            "date": "Sat, 09 May 2026 12:00:01 GMT",
+            "title": "Target is trying to win back busy families from Walmart, starting with the baby aisle",
+            "link": "https://www.cnbc.com/2026/05/10/target.html",
+            "summary": "Target is refreshing its baby category as part of a broader effort to offer better products and more convenience. Target is trying to compete with Walmart and Amazon.",
+            "date": "Sun, 10 May 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "AMA",
             "impact": "Neutral"
         },
         {
-            "title": "Why one of the nation's largest auto lenders isn't worried about high vehicle prices or 'forever loans'",
-            "link": "https://www.cnbc.com/2026/05/09/capital-one-auto-forever-loans-used-cars.html",
-            "summary": " median car payments have jumped from $390 to $525 since 2019. Data provided by Capital One suggests stability in vehicle cost compared to income.",
-            "date": "Sat, 09 May 2026 12:00:01 GMT",
+            "title": "Alphabet's 160% rally in a year reflects value of owning 'most of the stack' in AI",
+            "link": "https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html",
+            "summary": "Google was seen as an AI laggard in the early days of the AI boom. Investors are now betting that the search giant will be a clear winner.",
+            "date": "Sun, 10 May 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHY-USD",
+            "stock_ticker": "0P00011IHZ.F",
             "impact": "Neutral"
         },
         {
-            "title": "Major crypto bill slated for May 14 Senate Banking Committee vote",
-            "link": "https://www.cnbc.com/2026/05/08/congress-crypto-bill-vote-senate-banking-committee.html",
-            "summary": "Crypto industry's top legislative priority, a bill determining oversight of digital assets, is set to advance in the Senate Banking Committee. The bill is expected to be voted on in the next few days.",
-            "date": "Fri, 08 May 2026 23:35:48 GMT",
+            "title": "Meet the YouTube whisperers, a booming class of advisors behind MrBeast and other million-dollar channels",
+            "link": "https://www.cnbc.com/2026/05/10/youtube-advisors-mrbeast-top-creators-platform-viewership.html",
+            "summary": "YouTube strategists are charging big money to YouTubers who want to expand their popularity. A burgeoning group of YouTube strategists is charging you money to expand your popularity.",
+            "date": "Sun, 10 May 2026 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MAJOR-R.BK",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The Iran war will change global energy markets in these important ways, oil executives say",
-            "link": "https://www.cnbc.com/2026/05/09/iran-war-oil-gas-energy-security.html",
-            "summary": "Iran's blockade of the Strait of Hormuz has resulted in the loss of nearly a billion barrels of oil. The shortage is growing worse every day.",
-            "date": "Sat, 09 May 2026 12:43:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ODTX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
-            "link": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
-            "summary": "U.S. businesses like rare earths and supply chains may take a back seat on the agenda for the Trump-Xi summit. Thanks to the Iran war, big issues for U.S.-China relations may be on the back burner.",
-            "date": "Fri, 08 May 2026 18:44:26 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RANI3F.SA",
+            "stock_ticker": "IDOL36775-USD",
             "impact": "Bullish"
         },
         {
-            "title": "My niece is on Social Security Disability Insurance. Will she lose her health insurance if I buy her a house?",
-            "link": "https://www.marketwatch.com/story/my-niece-is-on-social-security-disability-insurance-will-she-lose-her-health-insurance-if-i-buy-her-a-house-5214d100?mod=mw_rss_topstories",
-            "summary": "“She has not been able to get approved for a mortgage, so I want to help her,” he says. “She’s not been allowed to get a mortgage for years.”",
-            "date": "Sat, 09 May 2026 13:21:00 GMT",
+            "title": "With Netflix new ad-free standard plan at $20, streaming's tipping point into old TV is getting closer",
+            "link": "https://www.cnbc.com/2026/05/10/netflix-20-dollar-streaming-plan-price.html",
+            "summary": "The economics of streaming are nearing the point where cheaper plans with ads make as much if not more money for services like Netflix. The company says it has no plans to change its ad-supported streaming service.",
+            "date": "Sun, 10 May 2026 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0000KATM.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SEC delay on prediction markets ETFs echoes a long-fought bitcoin fund battle",
+            "link": "https://www.cnbc.com/2026/05/10/sec-prediction-markets-etfs-trading-launch-delay.html",
+            "summary": "The Securities and Exchange Commission has delayed approval for prediction markets ETFs. The delay brings up memories of the long battle over bitcoin funds.",
+            "date": "Sun, 10 May 2026 12:22:02 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "XAI=F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Big Tech’s AI spending is depriving investors of juicy payouts",
+            "link": "https://www.marketwatch.com/story/big-techs-ai-spending-is-depriving-investors-of-juicy-payouts-39d17305?mod=mw_rss_topstories",
+            "summary": "Goldman Sachs expects S&amp;P 500 share buybacks to grow only 3% this year. A shaky economic backdrop and AI cost pressures force spending reconsiderations.",
+            "date": "Sun, 10 May 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BBAI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who’s right?",
+            "link": "https://www.marketwatch.com/story/americans-are-not-great-at-managing-money-social-security-and-medicare-saved-my-father-from-financial-ruin-am-i-wrong-878bd7a2?mod=mw_rss_topstories",
+            "summary": "“There’s no way my dad and my mom paid enough into Medicare to cover his six months in long-term critical care,” his daughter says.",
+            "date": "Sun, 10 May 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,10 +86,10 @@
             "impact": "Neutral"
         },
         {
-            "title": "Introducing the ‘NACHO’ trade: How Wall Street is betting on higher oil prices and persistent inflation",
-            "link": "https://www.marketwatch.com/story/introducing-the-nacho-trade-how-wall-street-is-betting-on-higher-oil-prices-and-persistent-inflation-eb915434?mod=mw_rss_topstories",
-            "summary": "Wall Street is glomming on to yet another acronym inspired in part by Mexican cuisine. The acronym is called Wall Street Financial Services, or WSFS. WSFS is an acronym for Wall Street Finance Services.",
-            "date": "Sat, 09 May 2026 13:00:00 GMT",
+            "title": "‘The S&P 500 seems to be doing particularly well’: I’m 66. Is this a good time to invest $100,000 in the stock market?",
+            "link": "https://www.marketwatch.com/story/the-s-p-500-seems-to-be-doing-particularly-well-im-66-is-this-a-good-time-to-invest-100-000-in-the-stock-market-46fb8ff8?mod=mw_rss_topstories",
+            "summary": "“I own my home and I have no debt,” she says. “I’ve never been in debt in my life.”",
+            "date": "Sun, 10 May 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +98,27 @@
             "impact": "Neutral"
         },
         {
-            "title": "The unsinkable U.S. economy cruises on, despite headwinds from the Iran war",
-            "link": "https://www.marketwatch.com/story/the-unsinkable-u-s-economy-cruises-on-despite-headwinds-from-the-iran-war-dac45af5?mod=mw_rss_topstories",
-            "summary": "The economy keeps expanding in the face of macro obstacles. The U.S. economy is growing at a faster rate than the rest of the world's.",
-            "date": "Sat, 09 May 2026 13:00:00 GMT",
+            "title": "Stocks are walking a tightrope to fresh record highs — as a handful of names do most of the heavy lifting",
+            "link": "https://www.marketwatch.com/story/stocks-are-walking-a-tightrope-to-fresh-record-highs-as-a-handful-of-names-do-most-of-the-heavy-lifting-fe5a166a?mod=mw_rss_topstories",
+            "summary": "Investors are caught on a tightrope. They are watching a very narrow band of tech stocks lift the stock market to fresh record highs. But they are looking down below for signs of trouble.",
+            "date": "Sun, 10 May 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ODTX",
-            "impact": "Neutral"
+            "stock_ticker": "PISIX",
+            "impact": "Bearish"
         },
         {
-            "title": "The most prestigious job in AI has no description",
-            "link": "https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories",
-            "summary": "Everyone from Anthropic to tiny startups is hiring for the “member of technical staff” — but does anyone know what it means?",
-            "date": "Sat, 09 May 2026 12:30:00 GMT",
+            "title": "This Philly man has spent over $18,000 buying almost 100 Sixers-Knicks tickets for out-of-town basketball fans",
+            "link": "https://www.marketwatch.com/story/this-philly-man-has-spent-over-18-000-buying-almost-100-sixers-knicks-tickets-for-out-of-town-basketball-fans-a052a7a3?mod=mw_rss_topstories",
+            "summary": "Fans need a Philadelphia ZIP Code to buy tickets to the Sixers-Knicks playoff series in Philly this weekend. One man told MarketWatch he’s helping out-of-towners because “it's part of being a fan.”",
+            "date": "Sun, 10 May 2026 12:35:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ODTX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "More Americans are buying homes to fit multiple generations: ‘It answered a lot of prayers’",
-            "link": "https://www.marketwatch.com/story/more-americans-are-buying-homes-to-fit-multiple-generations-it-answered-a-lot-of-prayers-00d0239d?mod=mw_rss_topstories",
-            "summary": "Multigenerational living is expected to get even more popular as baby boomers age. The average age of a family of four in the U.S. is now 54.",
-            "date": "Sat, 09 May 2026 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001JSE7.SI",
+            "stock_ticker": "S2819.MC",
             "impact": "Neutral"
         }
     ]
