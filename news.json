@@ -1,107 +1,71 @@
 {
-    "date": "2026-05-12",
+    "date": "2026-05-13",
     "news": [
         {
-            "title": "Here's the inflation breakdown for April 2026 — in one chart",
-            "link": "https://www.cnbc.com/2026/05/12/inflation-breakdown-for-april-2026-cpi-chart.html",
-            "summary": "The Iran war has pushed up gasoline, groceries and other prices for consumers. The war has also pushed up the cost of living for many in the United States.",
-            "date": "Tue, 12 May 2026 15:11:49 GMT",
+            "title": "Wholesale inflation jumps 6% in April on annual basis, biggest increase since 2022",
+            "link": "https://www.cnbc.com/2026/05/13/ppi-inflation-report-april-2026-.html",
+            "summary": "The producer price index was expected to increase 0.5% in April, according to the Dow Jones consensus. The consumer price index is expected to rise 0.4%.",
+            "date": "Wed, 13 May 2026 13:21:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ODTX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "It's not just Iran and oil raising inflation. Prices also are reaccelerating in these other areas",
-            "link": "https://www.cnbc.com/2026/05/12/iran-oil-energy-inflation-shelter-food-trump.html",
-            "summary": "Prices are rising fast for consumers. Here's some of the places where prices are rising quickly for consumers in the U.S. and around the world.",
-            "date": "Tue, 12 May 2026 14:34:25 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CYBR.JK",
+            "stock_ticker": "COST",
             "impact": "Neutral"
         },
         {
-            "title": "EBay rejects GameStop's $56 billion takeover bid, calling it 'neither credible nor attractive'",
-            "link": "https://www.cnbc.com/2026/05/12/ebay-rejects-gamestops-takeover-ryan-cohen.html",
-            "summary": "Many analysts questioned the deal, citing concerns about how GameStop would finance the transaction and the strategic rationale. The deal is expected to close by the end of the year.",
-            "date": "Tue, 12 May 2026 14:30:21 GMT",
+            "title": "Trump arrives in Beijing with CEOs ahead of Xi meetings",
+            "link": "https://www.cnbc.com/2026/05/13/trump-china-xi-beijing-meeting-ceos.html",
+            "summary": "The president landed in the Chinese capital for a highly anticipated summit with Xi Jinping. The meeting will take place at the Great Hall of the People in Beijing.",
+            "date": "Wed, 13 May 2026 14:06:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EBAY",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Novo Nordisk says high-dose Wegovy helped some patients lose nearly 28% of their weight",
-            "link": "https://www.cnbc.com/2026/05/12/healthy-returns-novo-nordisk-releases-new-high-dose-wegovy-data.html",
-            "summary": "Novo Nordisk releases new data that could help boost the case for the higher dose version of its blockbuster obesity injection Wegovy. Novo Nordisk released new data.",
-            "date": "Tue, 12 May 2026 15:33:44 GMT",
+            "title": "Altman details Musk's OpenAI fallout, says nonprofit was 'left for dead'",
+            "link": "https://www.cnbc.com/2026/05/13/altman-musk-trial-testimony-takeaways.html",
+            "summary": ". Musk has accused Altman and another OpenAI co-founder of trying to \"steal a charity\" Musk: Altman, co-founders of OpenAI, are trying to steal a charity.",
+            "date": "Wed, 13 May 2026 14:35:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVO",
+            "stock_ticker": "GATSBY33970-USD",
             "impact": "Neutral"
         },
         {
-            "title": "AI super rally has retail investors acting the most aggressive since trading frenzy during Covid",
-            "link": "https://www.cnbc.com/2026/05/12/ai-super-rally-has-retail-investors-acting-the-most-aggressive-since-trading-frenzy-during-covid.html",
-            "summary": "Retail traders are buying calls in Cboe's \"Mag 10\" stocks at the heaviest 10-day clip since 2021. The big seven plus AMD, Palantir and Broadcom are included in the list.",
-            "date": "Tue, 12 May 2026 15:33:57 GMT",
+            "title": "Jamie Dimon warns JPMorgan may rethink new London office if 'very smart' Starmer is ousted as UK PM",
+            "link": "https://www.cnbc.com/2026/05/13/jamie-dimon-says-jp-morgan-may-rethink-london-office-if-starmer-ousted.html",
+            "summary": "Starmer's leadership is under pressure, sparking concern in the bond market. Starmer: 'I will not resign. I will continue to lead the government'",
+            "date": "Wed, 13 May 2026 11:40:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "JWEL.TO",
             "impact": "Neutral"
         },
         {
-            "title": "Social Security’s COLA could rise in 2027, boosted by Iran war impact and inflation",
-            "link": "https://www.marketwatch.com/story/social-securitys-cola-could-rise-in-2027-boosted-by-war-impact-and-inflation-b5db35a6?mod=mw_rss_topstories",
-            "summary": "The cost-of-living adjustment is expected to be higher this year. Gas and energy prices have pushed up the cost of living adjustment.",
-            "date": "Tue, 12 May 2026 15:18:00 GMT",
+            "title": "Anduril doubles valuation to over $60 billion as defense tech funding boom continues",
+            "link": "https://www.cnbc.com/2026/05/13/anduril-valuation-defense-tech-funding-boom.html",
+            "summary": "The company is working on space-based interceptors for Trump's $185 billion Golden Dome defense system. The company is also working on a $200 billion system for the U.S. Air Force.",
+            "date": "Wed, 13 May 2026 15:25:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPT",
+            "stock_ticker": "ADUIZZX",
             "impact": "Neutral"
         },
         {
-            "title": "My retirement fund is like an AI version of me. It keeps working when I’m not able to.",
-            "link": "https://www.marketwatch.com/story/my-retirement-fund-is-like-an-ai-version-of-me-it-keeps-working-when-im-not-able-to-6d053f9d?mod=mw_rss_topstories",
-            "summary": "“Not taking care of your money becomes, in a visceral sense, not taking Care of yourself,” he says. “NotTaking care of Your Money’s” is available on CNN.com.",
-            "date": "Tue, 12 May 2026 15:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "What to know about investing in SpaceX — or any company — before it goes public",
-            "link": "https://www.marketwatch.com/story/what-to-know-about-investing-in-spacex-or-any-company-before-it-goes-public-da90a805?mod=mw_rss_topstories",
-            "summary": "IPOs generate a lot of excitement. Make sure your expectations are informed — and realistic. IPOs are a great way to make money, but be realistic about your expectations.",
-            "date": "Tue, 12 May 2026 15:08:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BD0.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "BuzzFeed’s stock more than doubles as beleaguered media company gets a lifeline",
-            "link": "https://www.marketwatch.com/story/buzzfeeds-stock-more-than-doubles-as-beleaguered-media-company-gets-a-lifeline-7dea1e61?mod=mw_rss_topstories",
-            "summary": "The company says film and television producer Byron Allen’s family office has agreed to take a majority stake. The company says the deal is expected to close in the next few months.",
-            "date": "Tue, 12 May 2026 14:37:00 GMT",
+            "title": "‘I have zero envy’: I’m 75, enjoy working and live below my means. Why are more people not like me?",
+            "link": "https://www.marketwatch.com/story/i-have-zero-envy-im-75-enjoy-working-and-live-below-my-means-why-are-more-people-not-like-me-1b68f8eb?mod=mw_rss_topstories",
+            "summary": "“I did two basic things right: I married the right person and chose a trade I can practice until I die,” he says.",
+            "date": "Wed, 13 May 2026 15:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘She is very angry with me’: My daughter, 30, has issues with drugs. Should I take half the profit from the sale of her house?",
-            "link": "https://www.marketwatch.com/story/she-is-very-angry-with-me-my-daughter-has-drug-issues-should-i-take-half-the-profit-from-the-sale-of-her-house-e99a23d4?mod=mw_rss_topstories",
-            "summary": "“My thought is to invest it on her behalf for someday, when she gets her life together,” he says. “My idea is to investment it on my behalf for some time to come.”",
-            "date": "Tue, 12 May 2026 14:15:00 GMT",
+            "title": "Why 3.8% inflation actually feels like an 8% hit to your retirement savings",
+            "link": "https://www.marketwatch.com/story/why-3-8-inflation-actually-feels-like-an-8-hit-to-your-retirement-savings-9e0ba615?mod=mw_rss_topstories",
+            "summary": "Official CPI masks double-digit spikes in healthcare, insurance and energy. Meanwhile, your outdated strategy quietly drains your portfolio. Official CPI masksdouble-digit spike in healthcare,. insurance andEnergy. Meanwhile,. your out-of-date strategy quietly draining your portfolio, experts say.",
+            "date": "Wed, 13 May 2026 15:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHE",
+            "stock_ticker": "WHY-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Is AI power really the new oil? Soon it will trade just like a commodity.",
+            "link": "https://www.marketwatch.com/story/is-ai-power-really-the-new-oil-soon-it-will-trade-like-just-like-a-commodity-42ce65cb?mod=mw_rss_topstories",
+            "summary": "CME Group plans to launch futures that would let investors bet on the price of computing power. CME Group: Futures would allow investors to bet on computing power prices.",
+            "date": "Wed, 13 May 2026 15:08:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CHFISK=X",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Your parents’ rules for getting rich don’t work anymore, Mrs. Dow Jones says — but this does",
+            "link": "https://www.marketwatch.com/story/3-new-rules-for-building-wealth-9df8bbda?mod=mw_rss_topstories",
+            "summary": "Finance educator Mrs. Dow Jones shares her top tips for building wealth. Here are 3 new rules to building wealth from finance educator Mrs., Dow Jones.",
+            "date": "Wed, 13 May 2026 15:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "6482.TWO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Inflation is now rising faster than your salary. Here’s how long that could last.",
+            "link": "https://www.marketwatch.com/story/inflation-is-now-rising-faster-than-your-salary-heres-how-long-that-could-last-5842a94d?mod=mw_rss_topstories",
+            "summary": "The price squeeze that Americans are feeling has reached a level last seen three years ago, experts say. The price squeeze has been felt at a level not seen since 2008, they say.",
+            "date": "Wed, 13 May 2026 15:02:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBCI.DE",
             "impact": "Neutral"
         }
     ]
