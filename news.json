@@ -1,71 +1,107 @@
 {
-    "date": "2026-05-14",
+    "date": "2026-05-15",
     "news": [
         {
-            "title": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in 'great jeopardy'",
-            "link": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
-            "summary": "President Donald Trump met Chinese President Xi Jinping in Beijing on Thursday morning. The high-stakes summit is scheduled to run through Friday. The White House says the meeting will focus on economic and security issues.",
-            "date": "Thu, 14 May 2026 15:09:47 GMT",
+            "title": "How China and U.S. eased the Middle East oil shock and kept prices from spiking even higher",
+            "link": "https://www.cnbc.com/2026/05/15/china-us-oil-iran-war-strait-hormuz-trump-xi.html",
+            "summary": "China and the U.S. wield great influence over the world's oil market. They are using it to help plug the supply gap.",
+            "date": "Fri, 15 May 2026 14:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XIT=F",
-            "impact": "Neutral"
+            "stock_ticker": "HWM",
+            "impact": "Bullish"
         },
         {
-            "title": "Cisco CEO says tech is entering a 'networking supercycle' as stock pops 14% on strong AI demand",
-            "link": "https://www.cnbc.com/2026/05/14/cisco-csco-pops-on-ai-demand.html",
-            "summary": "Cisco blew past its AI infrastructure and hyperscaler orders guidance for the fiscal year. Shares headed for their best day in more than two decades.",
-            "date": "Thu, 14 May 2026 14:48:25 GMT",
+            "title": "Trump told Xi ‘I don't talk about’ whether U.S. would defend Taiwan from China",
+            "link": "https://www.cnbc.com/2026/05/15/trump-china-xi-taiwan.html",
+            "summary": "President Donald Trump spoke about Taiwan after a two-day visit to China. He said he discussed Iran, and trade deals with Chinese President Xi Jingping.",
+            "date": "Fri, 15 May 2026 12:47:52 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CSCO",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Bessent sees 'substantial disinflation' ahead as Warsh takes over the Fed",
-            "link": "https://www.cnbc.com/2026/05/14/bessent-sees-substantial-disinflation-ahead-as-warsh-takes-over-the-fed.html",
-            "summary": "The energy-fed inflation surge recently is likely to reverse as the U.S. is \"going to keep pumping,\" Bessent says.",
-            "date": "Thu, 14 May 2026 14:20:36 GMT",
+            "title": "30-year Treasury yield tops 5.1%, highest in nearly a year",
+            "link": "https://www.cnbc.com/2026/05/15/treasury-yields-surge-as-inflation-data-points-to-tricky-rates-path.html",
+            "summary": "Treasurys spiked on Friday as inflation signals continue to muddy interest rate expectations. New Federal Reserve chair Kevin Warsh continues to muddy expectations.",
+            "date": "Fri, 15 May 2026 14:55:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AT0000A2QMR1.VI",
+            "stock_ticker": "40U=F",
             "impact": "Neutral"
         },
         {
-            "title": "Xi tells Musk, Tim Cook and other CEOs on Trump's trip: China will 'open wider'",
-            "link": "https://www.cnbc.com/2026/05/14/xi-china-open-us-business-ai-chips.html",
-            "summary": "Tesla and Space X boss Elon Musk, Nvidia's CEO Jensen Huang and Apple CEO Tim Cook were part of Trump's delegation. Tesla, Space X, Nvidia, Apple and SpaceX are among the companies represented at the White House.",
-            "date": "Thu, 14 May 2026 15:12:46 GMT",
+            "title": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say",
+            "link": "https://www.cnbc.com/2026/05/15/inflation-rate-projected-to-hit-6percent-in-the-second-quarter-top-economic-forecasters-say.html",
+            "summary": "The recent surge in inflation is likely to get worse over the next several months, according to a survey. The survey was conducted by the National Bureau of Economic Research.",
+            "date": "Fri, 15 May 2026 14:20:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XIT=F",
+            "stock_ticker": "IGIL.SW",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. can hold AI talks with China because ‘we are in the lead,’ Bessent tells CNBC as nations plan safety protocol",
-            "link": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
-            "summary": "The U.S. Treasury secretary also said President Donald Trump would likely comment on the Taiwan issue in coming days. The president is expected to make a statement on the issue soon.",
-            "date": "Thu, 14 May 2026 14:37:08 GMT",
+            "title": "China will buy more U.S. oil because it is a natural trade partner, says Energy Secretary Wright",
+            "link": "https://www.cnbc.com/2026/05/15/china-us-oil-import-xi-trump-chris-wright.html",
+            "summary": "China relies heavily on crude oil imports from the Middle East. Those supplies are mostly cut off due to Iran's blockade of the Strait of Hormuz.",
+            "date": "Fri, 15 May 2026 14:06:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "1398.HK",
+            "impact": "Bullish"
+        },
+        {
+            "title": "5 tests Kevin Warsh will face as Fed chair",
+            "link": "https://www.marketwatch.com/story/5-tests-kevin-warsh-will-face-on-the-first-day-as-fed-chair-f5bc4a7e?mod=mw_rss_topstories",
+            "summary": "Wall Street and Washington will be watching to see how he reacts to political pressure and whether he can get the central bank on board with the major changes he favors.",
+            "date": "Fri, 15 May 2026 14:40:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "YM=F",
             "impact": "Neutral"
         },
         {
-            "title": "Stocks in this sector of the S&P 500 are getting more attractive — here’s why",
-            "link": "https://www.marketwatch.com/story/stocks-in-this-sector-of-the-s-p-500-are-getting-more-attractive-heres-why-db53e1a8?mod=mw_rss_topstories",
-            "summary": "We appear to be looking at an excellent entry point for long-term investors. We are looking at a great opportunity to take advantage of the current market conditions.",
-            "date": "Thu, 14 May 2026 15:05:00 GMT",
+            "title": "You may be making a big mistake with your Roth conversion, this expert says",
+            "link": "https://www.marketwatch.com/story/you-may-be-making-a-big-mistake-with-your-roth-conversion-this-expert-says-27fe810c?mod=mw_rss_topstories",
+            "summary": "If you have a high IRA or 401(k) balance, you should consider doing this instead. If you are a high-earning person, you may not be able to afford to do this.",
+            "date": "Fri, 15 May 2026 14:36:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "YOU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I experienced many years of poverty’: I worked until 70. Why do wealthy retirees look down on those with less savings?",
+            "link": "https://www.marketwatch.com/story/i-experienced-many-years-of-poverty-i-dont-judge-other-people-why-do-wealthy-retirees-look-down-on-others-5e3069e6?mod=mw_rss_topstories",
+            "summary": "“The majority of people are struggling to make ends meet,” he says. “The most of us are just trying to survive.”",
+            "date": "Fri, 15 May 2026 14:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CBRS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Stocks tumble, bond rout deepens as Trump’s China visit fails to pry open Strait of Hormuz",
+            "link": "https://www.marketwatch.com/story/stocks-tumble-bond-rout-deepens-as-trumps-china-visit-fails-to-reopen-strait-of-hormuz-8501c294?mod=mw_rss_topstories",
+            "summary": "Hopes for an end to the Iran conflict faded after President Trump failed to secure a commitment from China to help pressure Iran to reopen the Strait of Hormuz.",
+            "date": "Fri, 15 May 2026 14:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "U.S. retail sales rise again, but higher gas prices and inflation play a big role",
-            "link": "https://www.marketwatch.com/story/u-s-retail-sales-increase-again-but-higher-gas-prices-and-inflation-played-a-big-role-167ae1c3?mod=mw_rss_topstories",
-            "summary": "Sales at retailers rose in April for the third month in a row. But the increase was inflated by drivers spending more on gas due to higher prices.",
-            "date": "Thu, 14 May 2026 15:02:00 GMT",
+            "title": "Powell’s legacy as Fed chair is fighting inflation and Trump. He may lose the battle against both.",
+            "link": "https://www.marketwatch.com/story/powells-legacy-as-fed-chair-is-fighting-inflation-and-trump-he-may-lose-the-battle-against-both-aeb32f89?mod=mw_rss_topstories",
+            "summary": "Jerome Powell will be remembered for how the struggles against inflation and to preserve Federal Reserve independence ultimately end. He will be known as the man who tried to keep the Fed from becoming too big and too powerful.",
+            "date": "Fri, 15 May 2026 13:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Cerebras’s stock set to rocket, as early indications point to a near doubling",
-            "link": "https://www.marketwatch.com/story/cerebrass-stock-set-for-blast-off-as-early-indications-point-to-a-near-doubling-bf3f24ac?mod=mw_rss_topstories",
-            "summary": "Cerebras’s stock indicated to more than double when it starts trading. Cerebras will be listed on the New York Stock Exchange under the ticker symbol CERB.",
-            "date": "Thu, 14 May 2026 14:54:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FRVO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "We’re in our 40s. Our mortgage is nearly paid off — how should we invest our extra $1,500 a month?",
-            "link": "https://www.marketwatch.com/story/were-in-our-40s-our-mortgage-is-nearly-paid-off-how-should-we-invest-our-extra-1-500-a-month-af3eec89?mod=mw_rss_topstories",
-            "summary": "“We already deposit $1,000 each month into the American Funds Growth and Income Portfolio Class A fund,” he says.",
-            "date": "Thu, 14 May 2026 14:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HOWL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "3 financial rules that have stood the test of time — from the person who wrote the book on them",
-            "link": "https://www.marketwatch.com/story/3-financial-rules-that-have-stood-the-test-of-time-from-the-person-who-wrote-the-book-on-them-c28f1081?mod=mw_rss_topstories",
-            "summary": "Beth Kobliner’s classic tome of financial literacy for Gen X still works today for Gen Z. Beth Kobliner: Financial Literacy For Gen X is still a must-read.",
-            "date": "Thu, 14 May 2026 14:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "Z3N=F",
+            "stock_ticker": "LEGH",
             "impact": "Neutral"
         }
     ]
