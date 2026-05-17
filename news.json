@@ -1,6 +1,30 @@
 {
-    "date": "2026-05-16",
+    "date": "2026-05-17",
     "news": [
+        {
+            "title": "AI-related layoffs a boost for stocks? Not necessarily",
+            "link": "https://www.cnbc.com/2026/05/17/ai-related-layoffs-a-boost-for-stocks-not-necessarily.html",
+            "summary": "The data underscores an uncomfortable reality. The U.S. has one of the highest suicide rates in the world, according to the Pew Research Center.",
+            "date": "Sun, 17 May 2026 13:36:59 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^SPTRDPUP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "G7 finance ministers to meet amid warning of economic consequences of prolonged Strait of Hormuz closure",
+            "link": "https://www.cnbc.com/2026/05/17/opening-strait-of-hormuz-is-of-utmost-importance-eurogroup-head.html",
+            "summary": "G7 finance ministers are due to meet in Paris on Monday and Tuesday. Long-term borrowing costs are rising as the global economy grows.",
+            "date": "Sun, 17 May 2026 12:14:30 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "G73.F",
+            "impact": "Neutral"
+        },
         {
             "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
             "link": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
@@ -14,70 +38,70 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump went big on tech stocks in first quarter of 2026, new filings show",
-            "link": "https://www.cnbc.com/2026/05/15/trump-stock-trade-tech-oge.html",
-            "summary": "Trump bought shares of Amazon, Meta, Oracle, Broadcom, Motorola and Dell worth millions, new ethics disclosure filings show. Trump also owns shares of Google, Apple, Facebook, Twitter, Microsoft and others.",
-            "date": "Fri, 15 May 2026 19:34:05 GMT",
+            "title": "Berkshire's new CEO overhauls portfolio, dumping a slate of stocks",
+            "link": "https://www.cnbc.com/2026/05/16/berkshires-new-ceo-overhauls-portfolio-dumping-a-slate-of-stocks.html",
+            "summary": "Berkshire Hathaway's equity portfolio got one of its biggest renovations ever during Greg Abel's first three months as the company's CEO.",
+            "date": "Sat, 16 May 2026 13:18:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "6N=F",
             "impact": "Neutral"
         },
         {
-            "title": "For better or worse, investors are living through Trump’s stock market. Here's why",
-            "link": "https://www.cnbc.com/2026/05/16/for-better-or-worse-investors-are-living-through-trumps-stock-market-heres-why.html",
-            "summary": "President Donald Trump has been considered the ultimate stock market president. He has overseen an expansion to record highs as well as major declines. The stock market is now at its highest level in more than a decade.",
-            "date": "Sat, 16 May 2026 13:46:45 GMT",
+            "title": "Top Wall Street analysts suggest these 3 stocks for their long-term prospects",
+            "link": "https://www.cnbc.com/2026/05/17/top-analysts-suggest-these-3-stocks-for-their-long-term-prospects.html",
+            "summary": "Robust spending and strong demand for AI infrastructure have reinforced analysts' confidence in several stocks after earnings season. Robust Spending and strong Demand for AI Infrastructure have reinforced analyst's confidence in some stocks.",
+            "date": "Sun, 17 May 2026 11:43:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FOR",
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
-            "title": "The bond market is flashing a warning over Iran. A veteran of energy geopolitics explains the risk",
-            "link": "https://www.cnbc.com/2026/05/16/the-bond-market-is-flashing-a-warning-energy-geopolitics-expert-warns.html",
-            "summary": "Daleep Singh knows how energy and markets intersect. He sees trouble ahead for the energy sector. Singh: \"I don't think it's going to be a good year for energy.\"",
-            "date": "Sat, 16 May 2026 14:01:14 GMT",
+            "title": "Nvidia is getting some help as it props up S&P 500 earnings growth",
+            "link": "https://www.marketwatch.com/story/nvidia-is-getting-some-help-as-it-props-up-s-p-500-earnings-growth-1f3a8a52?mod=mw_rss_topstories",
+            "summary": "Micron is expected to be the second-largest contributor to the index’s overall earnings growth — behind Nvidia, whose impact will likely diminish.",
+            "date": "Sun, 17 May 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "Creator content made the main stage at TV's 'upfront' pitches — and not just for YouTube",
-            "link": "https://www.cnbc.com/2026/05/16/tv-upfronts-creator-content-youtube-fox-wbd.html",
-            "summary": " creator content is a new category for reaching younger audiences. In media companies' annual pitch to advertisers this week, creator content played a bigger role.",
-            "date": "Sat, 16 May 2026 12:00:01 GMT",
+            "title": "‘Several days have passed’: The restaurant failed to process my 20% tip. Is it cheating the staff?",
+            "link": "https://www.marketwatch.com/story/several-days-have-passed-the-restaurant-failed-to-process-my-20-tip-is-it-cheating-the-staff-e4338e82?mod=mw_rss_topstories",
+            "summary": "“When I use a credit card, tips are usually added immediately,” she says. “When she uses a debit card, she adds tips immediately.”",
+            "date": "Sun, 17 May 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "300730.SZ",
+            "stock_ticker": "0P0001N33H.BO",
             "impact": "Neutral"
         },
         {
-            "title": "Most people make this retirement mistake. You might still have time to fix it.",
-            "link": "https://www.marketwatch.com/story/most-people-make-this-retirement-mistake-you-might-still-have-time-to-fix-it-17aba25d?mod=mw_rss_topstories",
-            "summary": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Visit CNN.com/Travel each week for a new gallery of snapshots.",
-            "date": "Sat, 16 May 2026 14:09:00 GMT",
+            "title": "These hidden forces are driving the runaway stock-market rally",
+            "link": "https://www.marketwatch.com/story/these-hidden-forces-are-driving-the-runaway-stock-market-rally-95000ab1?mod=mw_rss_topstories",
+            "summary": "Bullish options traders and heavy buying of leveraged ETFs are playing a role in the historic swing higher for stocks. They’re also being tested.",
+            "date": "Sun, 17 May 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "7F7.F",
+            "stock_ticker": "0P0001YPM3.L",
             "impact": "Neutral"
         },
         {
             "title": "My wife and I retired with 22 times our income. Why don’t more people do what we did?",
             "link": "https://www.marketwatch.com/story/my-retirement-fund-is-like-an-ai-version-of-me-it-keeps-working-when-im-not-able-to-6d053f9d?mod=mw_rss_topstories",
             "summary": "“The vast majority of people I’ve known are intimidated by money’s power, imbue it with almost magical qualities,” he says.",
-            "date": "Sat, 16 May 2026 14:00:00 GMT",
+            "date": "Sun, 17 May 2026 12:01:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
-            "link": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
-            "summary": "“He has not paid the last two months, and it is not court-ordered,” she said. “He’s not paid for two months.” “I’m not going to let him get away with it,’’ she added. ‘He has to pay.’",
-            "date": "Sat, 16 May 2026 13:53:00 GMT",
+            "title": "My husband took out a $100,000 Parent PLUS loan for his daughter. She dropped out, citing mental-health issues. Should we refinance?",
+            "link": "https://www.marketwatch.com/story/my-husband-took-out-a-100-000-parent-plus-loan-for-his-daughter-she-dropped-out-should-we-refinance-bea7dc6e?mod=mw_rss_topstories",
+            "summary": "“There is little to no chance that she will ever be able to repay these loans,” says the lawyer. “There are no guarantees that she’s going to get out of these loans.”",
+            "date": "Sun, 17 May 2026 11:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "$668,603,360,342 — that’s how much people have legally bet on sports since the Supreme Court’s 2018 ruling",
-            "link": "https://www.marketwatch.com/story/668-603-360-342-thats-how-much-people-have-legally-bet-on-sports-since-the-supreme-courts-2018-ruling-550e0a08?mod=mw_rss_topstories",
-            "summary": "States have collected over $12 billion in tax revenue from sports betting since it was legalized in some states. Some states have collected more than $1 billion in the past year.",
-            "date": "Sat, 16 May 2026 13:44:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JDXKX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Are you ‘doomjobbing’ while looking for work? Know the signs — and do this instead.",
-            "link": "https://www.marketwatch.com/story/are-you-doomjobbing-while-looking-for-work-know-the-signs-and-do-this-instead-5f44cec3?mod=mw_rss_topstories",
-            "summary": "One job hunter only found work once she stopped making this popular application mistake. “It was soul-crushing,” says one job hunter.",
-            "date": "Sat, 16 May 2026 13:17:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ARE",
+            "stock_ticker": "MYXXR",
             "impact": "Neutral"
         }
     ]
