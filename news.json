@@ -1,59 +1,23 @@
 {
-    "date": "2026-05-18",
+    "date": "2026-05-19",
     "news": [
         {
-            "title": "Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company",
-            "link": "https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html",
-            "summary": " Meta is starting layoffs this week, with 8,000 jobs expected to be cut. Employees brace for a new era of AI at the company.",
-            "date": "Mon, 18 May 2026 15:30:53 GMT",
+            "title": "30-year Treasury yield tops 5.19%, highest since before the financial crisis",
+            "link": "https://www.cnbc.com/2026/05/19/treasurys-yields-inflation-traders-fed-interest-rates.html",
+            "summary": "Bond markets on edge as traders monitor central bank responses to renewed inflation fears. Global bond markets remain on edge with traders monitoring central bank response to renewedflation fears.",
+            "date": "Tue, 19 May 2026 16:13:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "META",
+            "stock_ticker": "40U=F",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. creates $1.7B 'lawfare' fund in exchange for Trump dropping $10B IRS suit",
-            "link": "https://www.cnbc.com/2026/05/18/trump-dismiss-irs-lawsuit.html",
-            "summary": "Trump sued the IRS in late January over the leak of his tax information by an IRS employee Charles \"Chaz\" Littlejohn in 2019 and 2020.",
-            "date": "Mon, 18 May 2026 15:56:27 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AUP=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The Fed will have to raise interest rates in July to appease 'bond vigilantes,' Yardeni says",
-            "link": "https://www.cnbc.com/2026/05/18/the-fed-will-have-to-raise-interest-rates-in-july-to-appease-bond-vigilantes-yardeni-says.html",
-            "summary": "Kevin Warsh was sent to the Federal Reserve to lower interest rates. He may have to push for higher levels instead. Warsh is expected to be the next chair of the Fed.",
-            "date": "Mon, 18 May 2026 16:08:35 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "10-year Treasury yield touches highest in a year, Japan's 30-year yield rises to a record",
-            "link": "https://www.cnbc.com/2026/05/18/treasury-yields-inflation-bond-rout-oil.html",
-            "summary": "Global bond yields rise on Monday as fears of resurgent inflation grip financial markets. Global bond yields rose on Monday amid fears of resurgence in inflation.",
-            "date": "Mon, 18 May 2026 13:40:47 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "10Y=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump ballroom money in question after Senate parliamentarian rules. Thune says GOP will persist",
-            "link": "https://www.cnbc.com/2026/05/18/trump-ballroom-provision-blocked-senate-parliamentarian.html",
-            "summary": "Senate Majority Leader John Thune, R-S.D., said the GOP will refine its approach to seeking money for President Donald Trump's White House ballroom.",
-            "date": "Mon, 18 May 2026 15:09:46 GMT",
+            "title": "Trump says it's not a 'war.' Insurers with money on the line say it is",
+            "link": "https://www.cnbc.com/2026/05/19/trump-says-its-not-a-war-insurers-with-money-on-the-line-say-it-is.html",
+            "summary": "Businesses in the Middle East bought insurance that protects against terrorism or sabotage. But far fewer purchased coverage explicitly designed to cover \"war\"",
+            "date": "Tue, 19 May 2026 15:51:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,58 +26,94 @@
             "impact": "Neutral"
         },
         {
-            "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
-            "link": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories",
-            "summary": "Blake Edwards and his wife became millionaires by their early 30s. A low starting salary, global pandemic, unaffordable housing market, graduate school and two kids didn't stop them.",
-            "date": "Mon, 18 May 2026 16:13:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ES=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Ford takes its first big step toward being an energy business",
-            "link": "https://www.marketwatch.com/story/ford-takes-its-first-big-step-toward-being-an-energy-business-b1d72bc2?mod=mw_rss_topstories",
-            "summary": "Ford just inked a deal with a French electric-utility company. Ford has been working with the French company for more than a year. The two companies will work together to develop electric vehicles.",
-            "date": "Mon, 18 May 2026 16:13:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The oil market is reaching a ‘tipping point’ that could create problems for stocks, according to this Wall Street legend",
-            "link": "https://www.marketwatch.com/story/the-oil-market-is-reaching-a-tipping-point-that-could-create-problems-for-stocks-according-to-this-wall-street-legend-8e7f9d62?mod=mw_rss_topstories",
-            "summary": "Evercore’s Roger Altman said a sharp rise in crude could destabilize markets before it may trigger “the second big inflation shock of this decade after COVID,” especially if oil prices climb toward $150 a barrel or higher.",
-            "date": "Mon, 18 May 2026 16:10:00 GMT",
+            "title": "The AI economy is rewriting the American Dream — and blue-collar workers are poised to win",
+            "link": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html",
+            "summary": " AI-driven hiring slowdowns are hitting some entry-level jobs for college graduates. Companies like Ford and AT&amp;T ramp up recruiting for skilled trade workers.",
+            "date": "Tue, 19 May 2026 13:29:40 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BA",
-            "impact": "Neutral"
+            "impact": "Bullish"
         },
         {
-            "title": "Arm’s stock could rise another 45% as the ‘renaissance of CPUs’ takes hold, analyst says",
-            "link": "https://www.marketwatch.com/story/arms-stock-could-rise-another-45-as-the-renaissance-of-cpus-takes-hold-analyst-says-58f6d261?mod=mw_rss_topstories",
-            "summary": "The market for server CPUs could quadruple to $137 billion by the end of the decade, according to Bernstein. Arm is destined to play a starring role in the market.",
-            "date": "Mon, 18 May 2026 15:33:00 GMT",
+            "title": "Trump says he was 'an hour away' from Iran strike decision before he postponed it",
+            "link": "https://www.cnbc.com/2026/05/19/trump-iran-war-strike-postponed.html",
+            "summary": "Trump says Iran has to come to the table. He says it could be two or three days, or perhaps until Sunday or early next week.",
+            "date": "Tue, 19 May 2026 15:55:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AWII34.SA",
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bessent urges G7 to help U.S. attack Iran's finances",
+            "link": "https://www.cnbc.com/2026/05/19/bessent-g7-iran-finance-terrorism.html",
+            "summary": "The Iran war continues to wreak havoc on global oil supply and the broader economy. The conflict appears to be locked in an uneasy stalemate.",
+            "date": "Tue, 19 May 2026 15:43:05 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "G73.F",
             "impact": "Bullish"
         },
         {
-            "title": "Are you ‘doomjobbing’ while looking for work? Know the signs — and do this instead.",
-            "link": "https://www.marketwatch.com/story/are-you-doomjobbing-while-looking-for-work-know-the-signs-and-do-this-instead-5f44cec3?mod=mw_rss_topstories",
-            "summary": "One job hunter only found work once she stopped making this popular application mistake. “It was soul-crushing,” says one job hunter.",
-            "date": "Mon, 18 May 2026 15:24:00 GMT",
+            "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
+            "link": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories",
+            "summary": "Blake Edwards and his wife became millionaires by their early 30s. A low starting salary, global pandemic, unaffordable housing market, graduate school and two kids didn't stop them.",
+            "date": "Tue, 19 May 2026 16:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "YM=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘How much money do you make?’ Since you can’t ask your date that, ask this instead.",
+            "link": "https://www.marketwatch.com/story/how-much-money-do-you-make-since-you-cant-ask-your-date-that-ask-this-instead-e28997a3?mod=mw_rss_topstories",
+            "summary": "Intentionally discussing aspirations and values can help daters determine if they’re financially compatible. Intentionally talking about your aspirations can help you determine if you're financially compatible with someone.",
+            "date": "Tue, 19 May 2026 15:14:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Buy now, pay maybe? This new crypto card brings ‘the casino to the checkout line’",
+            "link": "https://www.marketwatch.com/story/buy-now-pay-maybe-this-new-crypto-card-brings-the-casino-to-the-checkout-line-093fbe57?mod=mw_rss_topstories",
+            "summary": ". Financial products have been increasingly adding gamelike features that create competition or instant gratification to keep users hooked. It's not the first time this has happened, but it's a new trend.",
+            "date": "Tue, 19 May 2026 15:09:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BBY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Oil shocks have historically triggered major market selloffs. Deutsche Bank says the Iran war is missing 3 key ingredients.",
+            "link": "https://www.marketwatch.com/story/dont-worry-about-risk-assets-coming-under-pressure-just-yet-deutsche-bank-says-82bcc7d4?mod=mw_rss_topstories",
+            "summary": "The red flags warning of a bigger pullback for stocks and other assets that are perceived to be riskier have not yet appeared, Deutsche Bank analysts said.",
+            "date": "Tue, 19 May 2026 15:06:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CL=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Retirees are worried about the cost of healthcare — and who can blame them?",
+            "link": "https://www.marketwatch.com/story/retirees-are-worried-about-the-cost-of-healthcare-and-who-can-blame-them-ff3bb11b?mod=mw_rss_topstories",
+            "summary": "The increase in Medicare Part B premiums has sparked concerns about out-of-pocket healthcare costs. The increase has been driven by a rise in the cost of the Part B prescription drug plan.",
+            "date": "Tue, 19 May 2026 15:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
