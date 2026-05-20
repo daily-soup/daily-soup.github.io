@@ -1,125 +1,125 @@
 {
-    "date": "2026-05-19",
+    "date": "2026-05-20",
     "news": [
         {
-            "title": "30-year Treasury yield tops 5.19%, highest since before the financial crisis",
-            "link": "https://www.cnbc.com/2026/05/19/treasurys-yields-inflation-traders-fed-interest-rates.html",
-            "summary": "Bond markets on edge as traders monitor central bank responses to renewed inflation fears. Global bond markets remain on edge with traders monitoring central bank response to renewedflation fears.",
-            "date": "Tue, 19 May 2026 16:13:28 GMT",
+            "title": "Jeff Bezos says bottom half of earners should pay zero in income taxes",
+            "link": "https://www.cnbc.com/2026/05/20/jeff-bezos-income-taxes.html",
+            "summary": "Jeff Bezos calls for zero federal income taxes on the bottom half of earners. Amazon Executive Chairman Jeff Bezos is chairman of Amazon's parent company, Amazon.",
+            "date": "Wed, 20 May 2026 15:59:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "40U=F",
+            "stock_ticker": "JEF",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says it's not a 'war.' Insurers with money on the line say it is",
-            "link": "https://www.cnbc.com/2026/05/19/trump-says-its-not-a-war-insurers-with-money-on-the-line-say-it-is.html",
-            "summary": "Businesses in the Middle East bought insurance that protects against terrorism or sabotage. But far fewer purchased coverage explicitly designed to cover \"war\"",
-            "date": "Tue, 19 May 2026 15:51:26 GMT",
+            "title": "U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages",
+            "link": "https://www.cnbc.com/2026/05/20/oil-price-today-iran-war-strait-hormuz-trump.html",
+            "summary": "The administration is in the \"final stages\" of negotiations with Iran, President Trump says. The White House says the talks are in their final stages.",
+            "date": "Wed, 20 May 2026 16:12:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "The AI economy is rewriting the American Dream — and blue-collar workers are poised to win",
-            "link": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html",
-            "summary": " AI-driven hiring slowdowns are hitting some entry-level jobs for college graduates. Companies like Ford and AT&amp;T ramp up recruiting for skilled trade workers.",
-            "date": "Tue, 19 May 2026 13:29:40 GMT",
+            "title": "Wendy's taps former Potbelly CEO to lead struggling burger chain",
+            "link": "https://www.cnbc.com/2026/05/20/wendys-taps-former-potbelly-ceo-bob-wright-to-lead-burger-chain.html",
+            "summary": "Nelson Peltz's Trian Fund Management is seeking funding to take Wendy's private, according to a Financial Times report. The company is owned by Wendy's parent company, Wendy's Co.",
+            "date": "Wed, 20 May 2026 15:39:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "WEN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Jan. 6 police officers sue Trump to block $1.8B 'lawfare' fund",
+            "link": "https://www.cnbc.com/2026/05/20/trump-fund-lawsuit-capitol-riot-irs.html",
+            "summary": "The Department of Justice agreed to create the fund to settle a $10 billion lawsuit by President Trump over the leak of his tax records by an IRS employee.",
+            "date": "Wed, 20 May 2026 16:12:34 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RDA=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump's face doesn't belong on U.S. passport, senators tell Rubio",
+            "link": "https://www.cnbc.com/2026/05/20/trump-passports-congress-rubio.html",
+            "summary": "The State Department announced a special edition U.S. passport that will feature President Donald Trump's likeness. The passport will be released in time for the holiday season.",
+            "date": "Wed, 20 May 2026 16:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FACE.MC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s why Target’s turnaround may not be as smooth as the latest results imply",
+            "link": "https://www.marketwatch.com/story/targets-turnaround-involves-upscale-baby-gear-and-revamped-shopping-carts-and-its-starting-to-pay-off-eda9ba67?mod=mw_rss_topstories",
+            "summary": "Target's turnaround efforts include everything from redesigned shopping carts to a “concierge’ service for baby products. But the retailer’s optimism about those plans has run up against skepticism from investors.",
+            "date": "Wed, 20 May 2026 16:18:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "301218.SZ",
             "impact": "Bullish"
         },
         {
-            "title": "Trump says he was 'an hour away' from Iran strike decision before he postponed it",
-            "link": "https://www.cnbc.com/2026/05/19/trump-iran-war-strike-postponed.html",
-            "summary": "Trump says Iran has to come to the table. He says it could be two or three days, or perhaps until Sunday or early next week.",
-            "date": "Tue, 19 May 2026 15:55:59 GMT",
+            "title": "Want to live a more meaningful life? Write your own obituary.",
+            "link": "https://www.marketwatch.com/story/writing-your-own-obituary-can-help-you-live-a-better-life-heres-how-to-get-started-d3076941?mod=mw_rss_topstories",
+            "summary": "You add meaning and intentionality to your days. By summarizing the life you’ve lived so far and theLife you want to have from now on.",
+            "date": "Wed, 20 May 2026 16:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "WANT",
             "impact": "Neutral"
         },
         {
-            "title": "Bessent urges G7 to help U.S. attack Iran's finances",
-            "link": "https://www.cnbc.com/2026/05/19/bessent-g7-iran-finance-terrorism.html",
-            "summary": "The Iran war continues to wreak havoc on global oil supply and the broader economy. The conflict appears to be locked in an uneasy stalemate.",
-            "date": "Tue, 19 May 2026 15:43:05 GMT",
+            "title": "Global oil prices drop below $106 a barrel on hopes that U.S.-Iran war will soon end",
+            "link": "https://www.marketwatch.com/story/oil-prices-decline-after-trump-reaffirmed-he-would-end-the-war-in-iran-very-quickly-f5148dd4?mod=mw_rss_topstories",
+            "summary": "Oil futures extend declines on reports that U.S. and Iran will hold talks in Pakistan. News raises hopes for a resolution to the months-long stalemate in the Middle East.",
+            "date": "Wed, 20 May 2026 16:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "G73.F",
+            "stock_ticker": "AIIR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘He didn’t really pay attention’: I told my friend he left millions on the table in retirement. Did I do the right thing?",
+            "link": "https://www.marketwatch.com/story/he-didnt-really-pay-attention-i-told-my-friend-he-left-millions-of-dollars-on-the-table-in-retirement-was-i-right-099bf5bb?mod=mw_rss_topstories",
+            "summary": "“He lived very frugally and maxed out his 401(k)s,” his daughter says. “He’s a great guy. He was a great dad.”",
+            "date": "Wed, 20 May 2026 15:49:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Micron’s stock gets a boost. Are Samsung’s problems helping?",
+            "link": "https://www.marketwatch.com/story/microns-stock-gets-a-boost-are-samsungs-problems-helping-e4de7e32?mod=mw_rss_topstories",
+            "summary": "A looming strike by Samsung workers could further tighten memory supply and boost prices, analysts said. Samsung workers are scheduled to go on strike on Thursday.",
+            "date": "Wed, 20 May 2026 15:48:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "20MICRONS.BO",
             "impact": "Bullish"
-        },
-        {
-            "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
-            "link": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories",
-            "summary": "Blake Edwards and his wife became millionaires by their early 30s. A low starting salary, global pandemic, unaffordable housing market, graduate school and two kids didn't stop them.",
-            "date": "Tue, 19 May 2026 16:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "YM=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘How much money do you make?’ Since you can’t ask your date that, ask this instead.",
-            "link": "https://www.marketwatch.com/story/how-much-money-do-you-make-since-you-cant-ask-your-date-that-ask-this-instead-e28997a3?mod=mw_rss_topstories",
-            "summary": "Intentionally discussing aspirations and values can help daters determine if they’re financially compatible. Intentionally talking about your aspirations can help you determine if you're financially compatible with someone.",
-            "date": "Tue, 19 May 2026 15:14:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Buy now, pay maybe? This new crypto card brings ‘the casino to the checkout line’",
-            "link": "https://www.marketwatch.com/story/buy-now-pay-maybe-this-new-crypto-card-brings-the-casino-to-the-checkout-line-093fbe57?mod=mw_rss_topstories",
-            "summary": ". Financial products have been increasingly adding gamelike features that create competition or instant gratification to keep users hooked. It's not the first time this has happened, but it's a new trend.",
-            "date": "Tue, 19 May 2026 15:09:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BBY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Oil shocks have historically triggered major market selloffs. Deutsche Bank says the Iran war is missing 3 key ingredients.",
-            "link": "https://www.marketwatch.com/story/dont-worry-about-risk-assets-coming-under-pressure-just-yet-deutsche-bank-says-82bcc7d4?mod=mw_rss_topstories",
-            "summary": "The red flags warning of a bigger pullback for stocks and other assets that are perceived to be riskier have not yet appeared, Deutsche Bank analysts said.",
-            "date": "Tue, 19 May 2026 15:06:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CL=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Retirees are worried about the cost of healthcare — and who can blame them?",
-            "link": "https://www.marketwatch.com/story/retirees-are-worried-about-the-cost-of-healthcare-and-who-can-blame-them-ff3bb11b?mod=mw_rss_topstories",
-            "summary": "The increase in Medicare Part B premiums has sparked concerns about out-of-pocket healthcare costs. The increase has been driven by a rise in the cost of the Part B prescription drug plan.",
-            "date": "Tue, 19 May 2026 15:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ARE",
-            "impact": "Neutral"
         }
     ]
 }
