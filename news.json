@@ -1,125 +1,125 @@
 {
-    "date": "2026-05-20",
+    "date": "2026-05-21",
     "news": [
         {
-            "title": "Jeff Bezos says bottom half of earners should pay zero in income taxes",
-            "link": "https://www.cnbc.com/2026/05/20/jeff-bezos-income-taxes.html",
-            "summary": "Jeff Bezos calls for zero federal income taxes on the bottom half of earners. Amazon Executive Chairman Jeff Bezos is chairman of Amazon's parent company, Amazon.",
-            "date": "Wed, 20 May 2026 15:59:05 GMT",
+            "title": "SpaceX is heavily reliant on Starlink for growth and profit as it marches toward Nasdaq listing",
+            "link": "https://www.cnbc.com/2026/05/21/spacex-starlink-growth-profit-nasdaq-ipo.html",
+            "summary": "SpaceX's IPO prospectus underscores the importance of Starlink to the company's operations. SpaceX is planning to go public with a $1 billion IPO.",
+            "date": "Thu, 21 May 2026 14:12:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JEF",
+            "stock_ticker": "SPACEX39501-USD",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages",
-            "link": "https://www.cnbc.com/2026/05/20/oil-price-today-iran-war-strait-hormuz-trump.html",
-            "summary": "The administration is in the \"final stages\" of negotiations with Iran, President Trump says. The White House says the talks are in their final stages.",
-            "date": "Wed, 20 May 2026 16:12:56 GMT",
+            "title": "Oil prices jump more than 3% after Iran supreme leader says uranium must remain in country",
+            "link": "https://www.cnbc.com/2026/05/21/oil-price-today-iran-war-strait-hormuz-trump.html",
+            "summary": "Iran's position on its enriched uranium will likely complicate peace talks with the U.S. Iran has been accused of enriching uranium to create weapons of mass destruction.",
+            "date": "Thu, 21 May 2026 15:14:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "CL=F",
             "impact": "Neutral"
         },
         {
-            "title": "Wendy's taps former Potbelly CEO to lead struggling burger chain",
-            "link": "https://www.cnbc.com/2026/05/20/wendys-taps-former-potbelly-ceo-bob-wright-to-lead-burger-chain.html",
-            "summary": "Nelson Peltz's Trian Fund Management is seeking funding to take Wendy's private, according to a Financial Times report. The company is owned by Wendy's parent company, Wendy's Co.",
-            "date": "Wed, 20 May 2026 15:39:21 GMT",
+            "title": "Quantum stocks soar as U.S. reportedly plans $2 billion ‘award’ and taking equity stakes",
+            "link": "https://www.cnbc.com/2026/05/21/quantum-stocks--us-taking-equity-stakes.html",
+            "summary": "Quantum computing shares popped following reports that the U.S. government will award grants to nine firms operating in the space. The grants are expected to be announced in the coming weeks.",
+            "date": "Thu, 21 May 2026 14:59:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WEN",
+            "stock_ticker": "QS",
             "impact": "Neutral"
         },
         {
-            "title": "Jan. 6 police officers sue Trump to block $1.8B 'lawfare' fund",
-            "link": "https://www.cnbc.com/2026/05/20/trump-fund-lawsuit-capitol-riot-irs.html",
-            "summary": "The Department of Justice agreed to create the fund to settle a $10 billion lawsuit by President Trump over the leak of his tax records by an IRS employee.",
-            "date": "Wed, 20 May 2026 16:12:34 GMT",
+            "title": "AG Blanche meets with GOP senators on Trump's DOJ  fund; Tillis calls it 'stupid'",
+            "link": "https://www.cnbc.com/2026/05/21/trump-doj-lawfare-fund-congress-blanche.html",
+            "summary": "Critics of the \"Anti-Weaponization Fund\" fear it will give money to Trump supporters who attacked police defending the U.S. Capitol on Jan. 6, 2021.",
+            "date": "Thu, 21 May 2026 16:04:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RDA=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump's face doesn't belong on U.S. passport, senators tell Rubio",
-            "link": "https://www.cnbc.com/2026/05/20/trump-passports-congress-rubio.html",
-            "summary": "The State Department announced a special edition U.S. passport that will feature President Donald Trump's likeness. The passport will be released in time for the holiday season.",
-            "date": "Wed, 20 May 2026 16:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FACE.MC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here’s why Target’s turnaround may not be as smooth as the latest results imply",
-            "link": "https://www.marketwatch.com/story/targets-turnaround-involves-upscale-baby-gear-and-revamped-shopping-carts-and-its-starting-to-pay-off-eda9ba67?mod=mw_rss_topstories",
-            "summary": "Target's turnaround efforts include everything from redesigned shopping carts to a “concierge’ service for baby products. But the retailer’s optimism about those plans has run up against skepticism from investors.",
-            "date": "Wed, 20 May 2026 16:18:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "301218.SZ",
+            "stock_ticker": "AG",
             "impact": "Bullish"
         },
         {
-            "title": "Want to live a more meaningful life? Write your own obituary.",
-            "link": "https://www.marketwatch.com/story/writing-your-own-obituary-can-help-you-live-a-better-life-heres-how-to-get-started-d3076941?mod=mw_rss_topstories",
-            "summary": "You add meaning and intentionality to your days. By summarizing the life you’ve lived so far and theLife you want to have from now on.",
-            "date": "Wed, 20 May 2026 16:06:00 GMT",
+            "title": "Spotify stock pops on guidance at first investor day since 2022",
+            "link": "https://www.cnbc.com/2026/05/21/spotify-spot-stock-guidance-investor-day-ai.html",
+            "summary": "Spotify is holding its first investor day in four years. The company is now under the direction of co-CEOs Gustav Söderström and Alex Norstr Öm.",
+            "date": "Thu, 21 May 2026 15:16:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WANT",
+            "stock_ticker": "SPOT",
             "impact": "Neutral"
         },
         {
-            "title": "Global oil prices drop below $106 a barrel on hopes that U.S.-Iran war will soon end",
-            "link": "https://www.marketwatch.com/story/oil-prices-decline-after-trump-reaffirmed-he-would-end-the-war-in-iran-very-quickly-f5148dd4?mod=mw_rss_topstories",
-            "summary": "Oil futures extend declines on reports that U.S. and Iran will hold talks in Pakistan. News raises hopes for a resolution to the months-long stalemate in the Middle East.",
-            "date": "Wed, 20 May 2026 16:00:00 GMT",
+            "title": "Mortgage rates jump to more than 6.5% — the highest level since the Iran war started",
+            "link": "https://www.marketwatch.com/story/mortgage-rates-jump-to-more-than-6-5-the-highest-level-since-the-iran-war-started-41728b4e?mod=mw_rss_topstories",
+            "summary": "Rates hit an eight-month high but are still lower than they were a year ago. Rates hit anEight-month High but are Still lower than They were a Year ago.",
+            "date": "Thu, 21 May 2026 16:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AIIR",
+            "stock_ticker": "MGE=F",
             "impact": "Neutral"
         },
         {
-            "title": "‘He didn’t really pay attention’: I told my friend he left millions on the table in retirement. Did I do the right thing?",
-            "link": "https://www.marketwatch.com/story/he-didnt-really-pay-attention-i-told-my-friend-he-left-millions-of-dollars-on-the-table-in-retirement-was-i-right-099bf5bb?mod=mw_rss_topstories",
-            "summary": "“He lived very frugally and maxed out his 401(k)s,” his daughter says. “He’s a great guy. He was a great dad.”",
-            "date": "Wed, 20 May 2026 15:49:00 GMT",
+            "title": "The surprising cost of caring for aging parents: divorce",
+            "link": "https://www.marketwatch.com/story/the-surprising-cost-of-caring-for-aging-parents-divorce-2ff83fce?mod=mw_rss_topstories",
+            "summary": "Mental-health and financial pressures can strain even strong marriages. Mental- health and financial pressure can strainEven strong marriages can strain, experts say.",
+            "date": "Thu, 21 May 2026 15:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HE",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "Micron’s stock gets a boost. Are Samsung’s problems helping?",
-            "link": "https://www.marketwatch.com/story/microns-stock-gets-a-boost-are-samsungs-problems-helping-e4de7e32?mod=mw_rss_topstories",
-            "summary": "A looming strike by Samsung workers could further tighten memory supply and boost prices, analysts said. Samsung workers are scheduled to go on strike on Thursday.",
-            "date": "Wed, 20 May 2026 15:48:00 GMT",
+            "title": "This hack can save you hundreds on airfare this summer",
+            "link": "https://www.marketwatch.com/story/this-hack-can-save-you-hundreds-on-airfare-this-summer-d083bd2f?mod=mw_rss_topstories",
+            "summary": "A new app lets you plan your next vacation by sending text messages to your phone. The app is called Tripit and it was created by the travel company Tripit. The company also created the app to help people plan their trips.",
+            "date": "Thu, 21 May 2026 15:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "20MICRONS.BO",
-            "impact": "Bullish"
+            "stock_ticker": "S2819.MC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I accidentally saw my co-worker’s W-2 and she makes $15K more than me for the same job. What should I do?",
+            "link": "https://www.marketwatch.com/story/i-found-my-coworkers-w-2-in-a-book-she-makes-15-000-more-than-me-for-the-same-job-what-should-i-do-2ada147a?mod=mw_rss_topstories",
+            "summary": "“How do you advocate for yourself without coming off whiny?” she asks. “HowDo you advocate and not come off wh whining?’",
+            "date": "Thu, 21 May 2026 15:29:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AMSS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis",
+            "link": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories",
+            "summary": "Corporate profits can’t fix a chaotic trade war with China, climbing credit premiums and AI infrastructure limits, says the IMF.",
+            "date": "Thu, 21 May 2026 15:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVDA",
+            "impact": "Neutral"
         }
     ]
 }
