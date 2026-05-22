@@ -1,107 +1,71 @@
 {
-    "date": "2026-05-21",
+    "date": "2026-05-22",
     "news": [
         {
-            "title": "SpaceX is heavily reliant on Starlink for growth and profit as it marches toward Nasdaq listing",
-            "link": "https://www.cnbc.com/2026/05/21/spacex-starlink-growth-profit-nasdaq-ipo.html",
-            "summary": "SpaceX's IPO prospectus underscores the importance of Starlink to the company's operations. SpaceX is planning to go public with a $1 billion IPO.",
-            "date": "Thu, 21 May 2026 14:12:49 GMT",
+            "title": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
+            "link": "https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html",
+            "summary": "Consumer sentiment has tumbled to a fresh record low in May. Fears of higher prices grow due to the U.S.-Iran war and elevated oil prices.",
+            "date": "Fri, 22 May 2026 14:55:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPACEX39501-USD",
+            "stock_ticker": "XAY=F",
             "impact": "Neutral"
         },
         {
-            "title": "Oil prices jump more than 3% after Iran supreme leader says uranium must remain in country",
-            "link": "https://www.cnbc.com/2026/05/21/oil-price-today-iran-war-strait-hormuz-trump.html",
-            "summary": "Iran's position on its enriched uranium will likely complicate peace talks with the U.S. Iran has been accused of enriching uranium to create weapons of mass destruction.",
-            "date": "Thu, 21 May 2026 15:14:02 GMT",
+            "title": "Trump defends DOJ fund after Senate Republicans push back",
+            "link": "https://www.cnbc.com/2026/05/22/trump-doj-fund-republicans.html",
+            "summary": "President Trump dropped his $10 billion lawsuit against the IRS in exchange for the DOJ creating a $1.8 billion fund to compensate alleged \"lawfare\" victims.",
+            "date": "Fri, 22 May 2026 15:12:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Quantum stocks soar as U.S. reportedly plans $2 billion ‘award’ and taking equity stakes",
-            "link": "https://www.cnbc.com/2026/05/21/quantum-stocks--us-taking-equity-stakes.html",
-            "summary": "Quantum computing shares popped following reports that the U.S. government will award grants to nine firms operating in the space. The grants are expected to be announced in the coming weeks.",
-            "date": "Thu, 21 May 2026 14:59:39 GMT",
+            "title": "Watch: Trump will swear in Kevin Warsh as Fed chair as he seeks interest rate cuts",
+            "link": "https://www.cnbc.com/2026/05/22/trump-kevin-warsh-fed-chair-interest-rates.html",
+            "summary": "Despite President Trump's demands for lower interest rates, markets are betting the Fed will stay on hold through most, if not all, of 2026.",
+            "date": "Fri, 22 May 2026 15:43:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "QS",
+            "stock_ticker": "WOSGL.XC",
             "impact": "Neutral"
         },
         {
-            "title": "AG Blanche meets with GOP senators on Trump's DOJ  fund; Tillis calls it 'stupid'",
-            "link": "https://www.cnbc.com/2026/05/21/trump-doj-lawfare-fund-congress-blanche.html",
-            "summary": "Critics of the \"Anti-Weaponization Fund\" fear it will give money to Trump supporters who attacked police defending the U.S. Capitol on Jan. 6, 2021.",
-            "date": "Thu, 21 May 2026 16:04:26 GMT",
+            "title": "Despite murky legal landscape, companies are undeterred in their prediction market investments",
+            "link": "https://www.cnbc.com/2026/05/22/companies-keep-investing-in-prediction-markets-despite-legal-battle.html",
+            "summary": "Companies reiterated plans to growing their prediction markets businesses in recent earnings calls even as a regulatory debate continues. Companies reiterated plans for growth in prediction markets in recent Earnings calls.",
+            "date": "Fri, 22 May 2026 15:14:52 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AG",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Spotify stock pops on guidance at first investor day since 2022",
-            "link": "https://www.cnbc.com/2026/05/21/spotify-spot-stock-guidance-investor-day-ai.html",
-            "summary": "Spotify is holding its first investor day in four years. The company is now under the direction of co-CEOs Gustav Söderström and Alex Norstr Öm.",
-            "date": "Thu, 21 May 2026 15:16:31 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPOT",
+            "stock_ticker": "LGEN.L",
             "impact": "Neutral"
         },
         {
-            "title": "Mortgage rates jump to more than 6.5% — the highest level since the Iran war started",
-            "link": "https://www.marketwatch.com/story/mortgage-rates-jump-to-more-than-6-5-the-highest-level-since-the-iran-war-started-41728b4e?mod=mw_rss_topstories",
-            "summary": "Rates hit an eight-month high but are still lower than they were a year ago. Rates hit anEight-month High but are Still lower than They were a Year ago.",
-            "date": "Thu, 21 May 2026 16:04:00 GMT",
+            "title": "Trump said he'd 'remember' companies that didn't apply for tariff refunds. Many of them are anyway",
+            "link": "https://www.cnbc.com/2026/05/22/trump-tariff-refunds-walmart-home-depot-target-apply.html",
+            "summary": "Walmart confirmed to CNBC it has sought a tariff refund. It plans to use any money it receives back to invest in lower prices for shoppers.",
+            "date": "Fri, 22 May 2026 11:23:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MGE=F",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "The surprising cost of caring for aging parents: divorce",
-            "link": "https://www.marketwatch.com/story/the-surprising-cost-of-caring-for-aging-parents-divorce-2ff83fce?mod=mw_rss_topstories",
-            "summary": "Mental-health and financial pressures can strain even strong marriages. Mental- health and financial pressure can strainEven strong marriages can strain, experts say.",
-            "date": "Thu, 21 May 2026 15:45:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This hack can save you hundreds on airfare this summer",
-            "link": "https://www.marketwatch.com/story/this-hack-can-save-you-hundreds-on-airfare-this-summer-d083bd2f?mod=mw_rss_topstories",
-            "summary": "A new app lets you plan your next vacation by sending text messages to your phone. The app is called Tripit and it was created by the travel company Tripit. The company also created the app to help people plan their trips.",
-            "date": "Thu, 21 May 2026 15:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "S2819.MC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I accidentally saw my co-worker’s W-2 and she makes $15K more than me for the same job. What should I do?",
-            "link": "https://www.marketwatch.com/story/i-found-my-coworkers-w-2-in-a-book-she-makes-15-000-more-than-me-for-the-same-job-what-should-i-do-2ada147a?mod=mw_rss_topstories",
-            "summary": "“How do you advocate for yourself without coming off whiny?” she asks. “HowDo you advocate and not come off wh whining?’",
-            "date": "Thu, 21 May 2026 15:29:00 GMT",
+            "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
+            "link": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
+            "summary": "“We plan to sell it to another family member for the appraised value,” the family says. “We’re not selling it to anyone else. We just want to keep it.”",
+            "date": "Fri, 22 May 2026 15:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +74,51 @@
             "impact": "Neutral"
         },
         {
+            "title": "Annuity payouts are the highest they’ve been in years. Thanks, inflation.",
+            "link": "https://www.marketwatch.com/story/annuity-payouts-are-the-highest-theyve-been-in-years-thanks-inflation-d4d3f565?mod=mw_rss_topstories",
+            "summary": "A silver lining to the cloud of high interest rates. The U.S. Federal Reserve is raising interest rates for the first time in more than a decade.",
+            "date": "Fri, 22 May 2026 15:28:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001IHUJ.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m in my 30s and half my money is in Vanguard’s Information Technology ETF. Is that risky?",
+            "link": "https://www.marketwatch.com/story/im-in-my-30s-and-half-my-money-is-in-vanguards-information-technology-etf-is-that-risky-1bab4a66?mod=mw_rss_topstories",
+            "summary": "“I was told as a kid to just put money into index funds or individual stocks, leave them alone and never sell,” he says.",
+            "date": "Fri, 22 May 2026 15:20:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
+            "impact": "Neutral"
+        },
+        {
             "title": "Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis",
             "link": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories",
             "summary": "Corporate profits can’t fix a chaotic trade war with China, climbing credit premiums and AI infrastructure limits, says the IMF.",
-            "date": "Thu, 21 May 2026 15:05:00 GMT",
+            "date": "Fri, 22 May 2026 14:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "NVDA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "An adviser told me I can save 35% of the taxes on a Roth conversion. Is that true?",
+            "link": "https://www.marketwatch.com/story/an-adviser-told-me-i-can-save-35-of-the-taxes-on-a-roth-conversion-is-that-true-7f4b4268?mod=mw_rss_topstories",
+            "summary": "If it sounds too good to be true, it probably is. The age-old rule applies: If it looks too good, it most likely is.",
+            "date": "Fri, 22 May 2026 14:39:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AN",
             "impact": "Neutral"
         }
     ]
