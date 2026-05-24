@@ -1,18 +1,6 @@
 {
-    "date": "2026-05-23",
+    "date": "2026-05-24",
     "news": [
-        {
-            "title": "Spirit's collapse, high fuel prices test limits of summer vacation spending",
-            "link": "https://www.cnbc.com/2026/05/23/summer-travel-gas-airfare.html",
-            "summary": "Memorial Day weekend is the unofficial start of the summer travel season. The holiday weekend will show just how much travelers want to fly and how much they're willing to pay.",
-            "date": "Sat, 23 May 2026 14:01:03 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "045.F",
-            "impact": "Neutral"
-        },
         {
             "title": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most",
             "link": "https://www.cnbc.com/2026/05/23/memorial-day-weekend-prices-inflation-war.html",
@@ -26,46 +14,22 @@
             "impact": "Neutral"
         },
         {
-            "title": "SpaceX launches Starship test flight on second try",
-            "link": "https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html",
-            "summary": "SpaceX launched its massive Starship rocket on Friday. The launch comes a day after the company scrubbed plans before takeoff. The rocket is expected to take off on a mission to build a space station.",
-            "date": "Sat, 23 May 2026 01:28:52 GMT",
+            "title": "Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon",
+            "link": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
+            "summary": "A fragile ceasefire has been in place since April 8. It has been punctuated by skirmishes as the U.S. and Iran jockey over the Strait of Hormuz.",
+            "date": "Sun, 24 May 2026 08:27:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPACEX39501-USD",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Lingering mysteries from Berkshire's portfolio update",
-            "link": "https://www.cnbc.com/2026/05/23/lingering-mysteries-from-berkshires-portfolio-update.html",
-            "summary": "The addition of two new names, Delta Air Lines and Macy's, to the portfolio are hard to explain. The addition of the new names is hard to understand, but it's a good start.",
-            "date": "Sat, 23 May 2026 12:59:47 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JARED-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
-            "link": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
-            "summary": "U.S. and Chinese officials have met and spoken publicly about differing priorities since the Trump-Xi summit concluded in Beijing last week.",
-            "date": "Sat, 23 May 2026 11:19:52 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SR3=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The bond market just flipped the script on investors — Wall Street is acting like nothing’s wrong",
-            "link": "https://www.marketwatch.com/story/the-bond-market-just-flipped-the-script-on-investors-wall-street-is-acting-like-nothings-wrong-f321cc5b?mod=mw_rss_topstories",
-            "summary": "When credit and stocks disagree, credit is the one telling the truth, says CNN's John Sutter. Sutter: When credit and stock prices disagree, it's the credit that's telling the true story.",
-            "date": "Sat, 23 May 2026 14:01:00 GMT",
+            "title": "The Middle East war is testing the Gulf's ambitions to become an AI hub",
+            "link": "https://www.cnbc.com/2026/05/24/middle-east-war-testing-gulfs-ambitions-to-become-ai-hub.html",
+            "summary": "High energy prices have altered the calculus for operators of the facilities, analysts say. Attacks on data centers in the Middle East and persistently high energy prices are changing the calculus.",
+            "date": "Sun, 24 May 2026 13:21:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +38,87 @@
             "impact": "Neutral"
         },
         {
-            "title": "Annuity payouts are the highest they’ve been in years. Thanks, inflation.",
-            "link": "https://www.marketwatch.com/story/annuity-payouts-are-the-highest-theyve-been-in-years-thanks-inflation-d4d3f565?mod=mw_rss_topstories",
-            "summary": "A silver lining to the cloud of high interest rates. The U.S. Federal Reserve is raising interest rates for the first time in more than a decade.",
-            "date": "Sat, 23 May 2026 13:49:00 GMT",
+            "title": "Top Wall Street analysts like these dividend stocks for steady income",
+            "link": "https://www.cnbc.com/2026/05/24/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
+            "summary": "Investors seeking consistent income can consider adding dividend stocks to their portfolios. Amid ongoing uncertainty, investors seeking consistent Income can consider investing in dividend stocks.",
+            "date": "Sun, 24 May 2026 12:52:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001IHUJ.L",
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
-            "title": "These cybersecurity stocks are poised for rapid growth through 2028, and some of them are cheap right now",
-            "link": "https://www.marketwatch.com/story/these-cybersecurity-stocks-are-poised-for-rapid-growth-through-2028-and-some-of-them-are-cheap-right-now-cf924a36?mod=mw_rss_topstories",
-            "summary": "Cybersecurity hardware, software and services are expected to put up tremendous sales numbers as the AI build-out continues. Many providers of cybersecurity hardware,Software and services will see a spike in sales.",
-            "date": "Sat, 23 May 2026 13:00:00 GMT",
+            "title": "Spirit's collapse, high fuel prices test limits of summer vacation spending",
+            "link": "https://www.cnbc.com/2026/05/23/summer-travel-gas-airfare.html",
+            "summary": "Memorial Day weekend is the unofficial start of the summer travel season. The holiday weekend will show just how much travelers want to fly and how much they're willing to pay.",
+            "date": "Sat, 23 May 2026 14:01:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001YPM3.L",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Kevin Warsh’s Fed isn’t cutting interest rates any time soon. But a hike isn’t yet on the table, either.",
-            "link": "https://www.marketwatch.com/story/kevin-warshs-fed-isnt-cutting-interest-rates-any-time-soon-but-a-hike-isnt-yet-on-the-table-either-aee28c06?mod=mw_rss_topstories",
-            "summary": "The Federal Reserve isn't going to reduce borrowing costs anytime soon because of resurgent inflation. A rate hike is also off the table for now as the regime of new Chair Kevin Warsh gets underway.",
-            "date": "Sat, 23 May 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZQ=F",
+            "stock_ticker": "045.F",
             "impact": "Neutral"
         },
         {
-            "title": "Stocks tend to sink during the summer before midterm elections. Will history repeat itself?",
-            "link": "https://www.marketwatch.com/story/stocks-tend-to-sink-during-the-summer-before-midterm-elections-will-history-repeat-itself-74e5dcc7?mod=mw_rss_topstories",
-            "summary": "Summer tends to coincide with a weak stock market. During midterm years, summer tends to be a weak time for the stock market in the United States.",
-            "date": "Sat, 23 May 2026 13:00:00 GMT",
+            "title": "Stocks are riding an earnings hot streak — but investors are facing a summer that’s rife with risks",
+            "link": "https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories",
+            "summary": "The U.S. stock market has arrived at the unofficial start of summer with major benchmarks sitting at record highs. But a few factors could make for a bumpy ride in the months ahead.",
+            "date": "Sun, 24 May 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PGP",
+            "stock_ticker": "^FIDUSSIP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
+            "link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
+            "summary": "Some say she should start at full retirement age. “Others say she Should Start at Full retirement age’, she says. ‘I’m a woman. I should be able to retire,’ she adds.",
+            "date": "Sun, 24 May 2026 12:16:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WFC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won’t get killed on taxes?",
+            "link": "https://www.marketwatch.com/story/im-67-our-family-trust-earns-300-000-annually-for-my-kids-how-do-i-ensure-they-wont-get-killed-on-taxes-ee0c35d6?mod=mw_rss_topstories",
+            "summary": "“My thought is to distribute all of the income to my children each year so that the trust itself pays little to no tax,” he says.",
+            "date": "Sun, 24 May 2026 11:16:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘My husband is leery of my plan’: We are both 60 and have $5 million. Is now a good time to dip into our savings?",
+            "link": "https://www.marketwatch.com/story/my-husband-is-leery-of-my-plan-we-are-both-60-and-have-5-million-is-now-a-good-time-to-dip-into-our-savings-4c609266?mod=mw_rss_topstories",
+            "summary": "“We have been scrimping for a long time. We have been working hard,” he said. “We’re looking forward to the next few weeks.”",
+            "date": "Sun, 24 May 2026 10:16:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This bond strategy can protect your portfolio even if interest rates go up",
+            "link": "https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories",
+            "summary": "A little-known investing formula shows exactly how long to hold bonds to neutralize interest-rate hikes. The formula is based on the U.S. Federal Reserve's benchmark interest rate.",
+            "date": "Sat, 23 May 2026 18:31:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "S2819.MC",
             "impact": "Neutral"
         }
     ]
