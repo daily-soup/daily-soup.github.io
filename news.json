@@ -1,59 +1,11 @@
 {
-    "date": "2026-05-26",
+    "date": "2026-05-27",
     "news": [
         {
-            "title": "Micron hits $1 trillion market cap for the first time as stock surges 18%",
-            "link": "https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html",
-            "summary": "A global memory shortage driven by AI is spiking demand for chipmakers like Micron. Micron is the world's largest memory chip maker.",
-            "date": "Tue, 26 May 2026 15:24:18 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MU",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump to host Cabinet meeting at Camp David on Wednesday as Iran talks continue",
-            "link": "https://www.cnbc.com/2026/05/26/trump-camp-david-iran-cabinet.html",
-            "summary": "Trump and his top officials will make the rare trip to the woodsy Maryland retreat to discuss issues both foreign and domestic, a White House official says.",
-            "date": "Tue, 26 May 2026 15:57:44 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "American Airlines picks SpaceX's Starlink for in-flight Wi-Fi on more than 500 planes",
-            "link": "https://www.cnbc.com/2026/05/26/american-airlines-spacex-starlink.html",
-            "summary": "American Airlines says it will install SpaceX's Starlink for inflight Wi-Fi on more than 500 of its airplanes. American Airlines: Starlink will be installed on morethan 500 of our airplanes.",
-            "date": "Tue, 26 May 2026 15:03:46 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Judges block Alabama redistricting maps that would dilute Black vote in midterms",
-            "link": "https://www.cnbc.com/2026/05/26/alabama-redistricting-congress-black-votes-midterm-elections.html",
-            "summary": "A three-judge panel found that the 2023 congressional district maps adopted by Alabama intentionally discriminated against Black voters. The maps were drawn by the state's Republican Party.",
-            "date": "Tue, 26 May 2026 16:00:55 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JDG.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. conducts 'self-defense strikes' in Iran as Trump pushes for peace deal",
-            "link": "https://www.cnbc.com/2026/05/26/us-conducts-self-defense-strikes-in-iran-as-trump-seeks-peace-deal.html",
-            "summary": "Targets included missile launch sites and Iranian boats attempting to emplace mines. Targets included missiles launch sites, Iranian boats trying to emplaces mines.",
-            "date": "Tue, 26 May 2026 13:07:52 GMT",
+            "title": "U.S. crude trims losses after White House denies Iran state media report about Hormuz opening",
+            "link": "https://www.cnbc.com/2026/05/27/oil-price-today-iran-war-strait-hormuz.html",
+            "summary": "Traders assess whether U.S. is nearing a deal with Iran that would restore traffic in the Strait of Hormuz. Oil prices trim losses as traders assess whether deal is near.",
+            "date": "Wed, 27 May 2026 16:20:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,63 +14,111 @@
             "impact": "Neutral"
         },
         {
+            "title": "Republicans stare down inflation abyss with midterms fast approaching",
+            "link": "https://www.cnbc.com/2026/05/27/election-economy-congress-inflation-republicans.html",
+            "summary": "Republicans are struggling to find a clear message to battle high prices. President Trump is pushing for funding for a White House ballroom. The White House is seeking $200 million for the project.",
+            "date": "Wed, 27 May 2026 16:19:06 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001OJL4.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Jamie Dimon says JPMorgan Chase could spend $20 billion on acquisition: 'We are on the lookout'",
+            "link": "https://www.cnbc.com/2026/05/27/jamie-dimon-jpmorgan-chase-acquisition-target-size.html",
+            "summary": "JPMorgan is the largest U.S. bank by assets. A $20 billion deal would be among the largest in JPMorgan's history.",
+            "date": "Wed, 27 May 2026 15:51:16 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "JWEL.TO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Alabama asks Supreme Court to allow congressional map that dilutes Black vote",
+            "link": "https://www.cnbc.com/2026/05/27/alabama-supreme-court-redistricting-black-vote-midterms.html",
+            "summary": "A three-judge panel in Birmingham, Alabama, found that the state's proposed map of House districts was 'intentionally discriminatory\" The panel found the map was ' intentionally discriminatory' and 'discriminatory'",
+            "date": "Wed, 27 May 2026 16:28:59 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MFALX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Boeing CEO says company met requirements to increase 737 Max production to 47 jets per month",
+            "link": "https://www.cnbc.com/2026/05/27/boeing-ortberg-737-max-production.html",
+            "summary": "Boeing CEO Kelly Ortberg said the company has met FAA requirements to ramp up its production of 737 Max aircraft to 47 per month.",
+            "date": "Wed, 27 May 2026 14:41:51 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Momentus’s stock nearly triples in 2 days as the space company raises more cash from investors",
+            "link": "https://www.marketwatch.com/story/momentuss-stock-nearly-triples-in-2-days-as-the-space-company-raises-more-cash-from-investors-b2c9a088?mod=mw_rss_topstories",
+            "summary": " Momentus investors continue to cheer as the space firm secures more cash through a private placement of stock. Momentus is currently valued at around £1.5bn.",
+            "date": "Wed, 27 May 2026 16:23:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PWRL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Cancer treatment already costs hundreds of thousands of dollars — and it’s about to get even worse",
+            "link": "https://www.marketwatch.com/story/cancer-treatment-already-costs-hundreds-of-thousands-of-dollars-and-its-about-to-get-even-worse-5f0ac8a3?mod=mw_rss_topstories",
+            "summary": "Someone who survived brain cancer in the 1990s explains how the Affordable Care Act could have helped. \"I think it would have helped a lot of people,\" he says.",
+            "date": "Wed, 27 May 2026 15:54:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MDIT",
+            "impact": "Neutral"
+        },
+        {
             "title": "This bear market signal Wall Street ignores is putting your money at risk right now",
             "link": "https://www.marketwatch.com/story/this-bear-market-signal-wall-street-ignores-is-putting-your-money-at-risk-right-now-46f1fcf3?mod=mw_rss_topstories",
             "summary": "Veteran trader Steve Burns prepares for a 50% decline. Burns exposes the 3 “deadly stock-market sins’ destroying portfolios.",
-            "date": "Tue, 26 May 2026 16:22:00 GMT",
+            "date": "Wed, 27 May 2026 15:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "S2819.MC",
+            "stock_ticker": "0P000021TT.F",
             "impact": "Neutral"
         },
         {
-            "title": "More than 9 million people are missing out on $58 billion in food and medical benefits. Are you one of them?",
-            "link": "https://www.marketwatch.com/story/more-than-9-million-people-are-missing-out-on-58-billion-in-food-and-medical-benefits-are-you-one-of-them-d2e79770?mod=mw_rss_topstories",
-            "summary": "Social stigma, application struggles and eligibility concerns prevent people from getting benefits. Lack of awareness, social stigma and application struggles are some of the reasons people don't get benefits.",
-            "date": "Tue, 26 May 2026 16:15:00 GMT",
+            "title": "Micron investors are partying like it’s 1987. Analysts say the stock still looks pretty cheap.",
+            "link": "https://www.marketwatch.com/story/micron-investors-are-partying-like-its-1987-and-the-stock-still-looks-pretty-cheap-7060ee53?mod=mw_rss_topstories",
+            "summary": "Shares of Micron were headed for their best monthly performance since 1987. Analysts still see them as a value play. Micron shares were down 0.7% to $16.50 on Monday.",
+            "date": "Wed, 27 May 2026 15:34:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001JSE5.BE",
+            "stock_ticker": "MU",
             "impact": "Neutral"
         },
         {
-            "title": "Micron’s stock soars as UBS slaps on an out-of-sight price target",
-            "link": "https://www.marketwatch.com/story/microns-stock-soars-as-ubs-slaps-on-an-out-of-sight-price-target-77e75b8e?mod=mw_rss_topstories",
-            "summary": "Strong memory chip demand is leading to “enhanced’ long term agreements. Micron’s stock and earnings power should benefit, UBS says.",
-            "date": "Tue, 26 May 2026 16:15:00 GMT",
+            "title": "Why America is losing the AI productivity war to 3.5 million Chinese STEM graduates",
+            "link": "https://www.marketwatch.com/story/why-america-is-losing-the-ai-productivity-war-to-3-5-million-chinese-stem-graduates-4ffeb298?mod=mw_rss_topstories",
+            "summary": "Big Tech’s structural mistakes are costing stock investors and fueling a massive talent crisis. The tech industry is facing a talent crisis and needs to fix it, experts say.",
+            "date": "Wed, 27 May 2026 15:32:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "20MICRONS.BO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won’t get killed on taxes?",
-            "link": "https://www.marketwatch.com/story/im-67-our-family-trust-earns-300-000-annually-for-my-kids-how-do-i-ensure-they-wont-get-killed-on-taxes-ee0c35d6?mod=mw_rss_topstories",
-            "summary": "“My thought is to distribute all of the income to my children each year so that the trust itself pays little to no tax,” he says.",
-            "date": "Tue, 26 May 2026 16:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CM.TO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Space stocks are rocketing as SpaceX keeps making pre-IPO headlines with first Starship launch",
-            "link": "https://www.marketwatch.com/story/space-stocks-are-rocketing-as-spacex-keeps-making-pre-ipo-headlines-with-first-starship-launch-17c76a46?mod=mw_rss_topstories",
-            "summary": "SpaceX recently tested the latest version of its massive 407-foot rocket for the first time. The company is planning to go public soon.",
-            "date": "Tue, 26 May 2026 15:47:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ASTS",
+            "stock_ticker": "301218.SZ",
             "impact": "Neutral"
         }
     ]
