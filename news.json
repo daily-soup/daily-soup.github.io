@@ -1,11 +1,83 @@
 {
-    "date": "2026-05-28",
+    "date": "2026-05-29",
     "news": [
         {
-            "title": "Oil prices pull back on report U.S.-Iran agreement to extend ceasefire awaits Trump approval",
-            "link": "https://www.cnbc.com/2026/05/28/oil-prices-us-strikes-in-iran-revive-strait-of-hormuz-turmoil-fears.html",
-            "summary": "Oil prices pulled back Thursday, erasing earlier gains on a report that U.S. and Iranian negotiators reached an agreement to extend ceasefire.",
-            "date": "Thu, 28 May 2026 16:25:31 GMT",
+            "title": "Trump lays out Iran deal demands, says he's about to make 'final determination'",
+            "link": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
+            "summary": "Trump's statement left unclear which of his conditions are already part of a deal that negotiators are working on to pause the U.S.-Iran war.",
+            "date": "Fri, 29 May 2026 16:31:17 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Dell stock skyrockets 32%, heads for best day ever as AI server revenue soars",
+            "link": "https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html",
+            "summary": "Dell reported its fastest pace of revenue growth since returning to the public market in 2018. AI server revenue soared 757% over last year.",
+            "date": "Fri, 29 May 2026 15:50:06 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DELL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SpaceX skeptics have added reason for concern after Musk comments diverge from IPO filing",
+            "link": "https://www.cnbc.com/2026/05/29/spacex-skeptics-concerned-as-musk-comments-diverge-from-ipo-filing.html",
+            "summary": "Elon Musk posts details about SpaceX's deal with Anthropic that weren't included in the company's IPO prospectus. In a post on X, Elon Musk offers details about the deal.",
+            "date": "Fri, 29 May 2026 15:49:09 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPACEX-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump DOJ 'lawfare' fund temporarily blocked by judge as suit proceeds",
+            "link": "https://www.cnbc.com/2026/05/29/trump-doj-fund-lawfare-blocked-judge.html",
+            "summary": "The DOJ has face strong criticism for the creation of a $1.8 Anti-Weaponization Fund. The fund could compensate allies of President Donald Trump.",
+            "date": "Fri, 29 May 2026 16:00:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Disney's ABC files early broadcast licenses renewal. FCC Chair vows to 'follow the facts'",
+            "link": "https://www.cnbc.com/2026/05/28/disney-fcc-broadcast-licenses-renewal.html",
+            "summary": "Disney said it filed renewals for eight broadcast station licenses \"under protest\" The FCC launched an early review years ahead of schedule, Disney said.",
+            "date": "Fri, 29 May 2026 15:46:28 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ABCL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Even the Ronald Reagan Institute doesn’t believe the ‘waste, fraud and abuse’ baloney",
+            "link": "https://www.marketwatch.com/story/even-the-ronald-reagan-institute-doesnt-believe-the-waste-fraud-and-abuse-baloney-629a6447?mod=mw_rss_topstories",
+            "summary": "This may be the single most important issue facing U.S. democracy today, says CNN's John Sutter. Sutter: \"This is the most important thing we can do for democracy in the United States\"",
+            "date": "Fri, 29 May 2026 15:54:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001AGDG",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Oil prices slide as Trump says the U.S. is close to an Iran deal",
+            "link": "https://www.marketwatch.com/story/oil-prices-slide-as-trump-says-the-u-s-is-close-to-an-iran-deal-8af9ece2?mod=mw_rss_topstories",
+            "summary": "President Donald Trump said a “final determination’ is coming on Iran. He said the U.S. will make a decision on Iran in the coming days.",
+            "date": "Fri, 29 May 2026 15:48:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows",
-            "link": "https://www.cnbc.com/2026/05/28/core-inflation-hit-an-annual-rate-of-3point3percent-in-april-as-expected-feds-preferred-gauge-shows-.html",
-            "summary": "The PCE price index for April was expected to show an annual inflation rate of 3.8% for all items and 3.3% for core.",
-            "date": "Thu, 28 May 2026 15:15:19 GMT",
+            "title": "Elon Musk’s SpaceX IPO could quickly launch into your retirement plan",
+            "link": "https://www.marketwatch.com/story/elon-musks-spacex-ipo-could-quickly-launch-into-your-retirement-plan-30c17279?mod=mw_rss_topstories",
+            "summary": "Index funds popular with retirement plans are poised to buy SpaceX’s stock rocket-fast. SpaceX is a rocket company that has raised more than $20 billion in venture capital.",
+            "date": "Fri, 29 May 2026 15:43:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CRWV",
+            "stock_ticker": "ELPW",
             "impact": "Neutral"
         },
         {
-            "title": "New York passes Mamdani's pied-a-terre tax. Here's who pays and how much",
-            "link": "https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html",
-            "summary": "Citadel CEO Ken Griffin became the face of the tax after New York City Mayor Zohran Mamdani posted a video in front of Griffin's penthouse apartment.",
-            "date": "Thu, 28 May 2026 15:16:39 GMT",
+            "title": "‘He threatened to cut the roots’: A tree fell onto my neighbor’s property during a storm. Then all hell broke loose.",
+            "link": "https://www.marketwatch.com/story/he-threatened-to-cut-the-roots-a-tree-fell-onto-my-neighbors-property-during-a-storm-then-all-hell-broke-loose-90da5af2?mod=mw_rss_topstories",
+            "summary": "A neighbor estimates damage from the tree at approximately $6,000 or more. “The neighbor estimatesDamage from the Tree at approximately £5,000 to £7,000.",
+            "date": "Fri, 29 May 2026 15:41:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "6N=F",
+            "stock_ticker": "HE",
             "impact": "Neutral"
         },
         {
-            "title": "Airlines, hotels warn against Trump admin threat to international flights to 'sanctuary cities'",
-            "link": "https://www.cnbc.com/2026/05/28/sanctuary-cities-immigration-fight-dhs-international-flights.html",
-            "summary": "Homeland Security Secretary Markwayne Mullin said the Trump administration is considering pulling international flight processing in \"sanctuary cities\" Mullin: \"We are looking at a number of different options\"",
-            "date": "Thu, 28 May 2026 15:39:12 GMT",
+            "title": "Gen Alpha is learning vastly different lessons about money, depending on whether their parents are millennials or Gen X",
+            "link": "https://www.marketwatch.com/story/gen-x-vs-millennial-parents-whose-kids-are-better-with-money-1874c59f?mod=mw_rss_topstories",
+            "summary": "Gen Alpha kids raised by Gen X parents carry average savings balances that are 30% higher than their peers raised by millennials. Gen Alpha kids raise by Generation X parents have an average savings balance of $26,000. Gen X kids raise an average of $28,000, compared to $21,000 for millennials.",
+            "date": "Fri, 29 May 2026 14:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "CFTC bid to vacate order against Winklevoss' crypto exchange 'very unusual,' ex-agency chief says",
-            "link": "https://www.cnbc.com/2026/05/28/gemini-cftc-winklevoss-crypto.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Thu, 28 May 2026 16:46:37 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BIDU",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Google engineer charged after making $1.2 million on Polymarket bets — showing insider trading is becoming everyone’s problem",
-            "link": "https://www.marketwatch.com/story/google-engineer-charged-after-making-1-2-million-on-polymarket-bets-showing-insider-trading-is-becoming-everyones-problem-5f2a0063?mod=mw_rss_topstories",
-            "summary": " Prediction markets have an insider-trading problem. One-off cases might not solve it, as one-off case might not be enough.",
-            "date": "Thu, 28 May 2026 16:44:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GOOG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here’s the real story behind the record drop in America’s oil reserves",
-            "link": "https://www.marketwatch.com/story/we-have-plenty-heres-the-real-story-behind-the-record-drop-in-americas-oil-reserves-9c8de9d5?mod=mw_rss_topstories",
-            "summary": "Stocks in the nation’s Strategic Petroleum Reserve are near their lowest in more than 40 years. The U.S. has the world's largest reserves of oil and natural gas.",
-            "date": "Thu, 28 May 2026 16:28:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Mortgage rates inch up to 6.53% — the latest blow for sidelined spring buyers",
-            "link": "https://www.marketwatch.com/story/mortgage-rates-inch-up-to-6-53-the-latest-blow-for-sidelined-spring-buyers-cccc71a9?mod=mw_rss_topstories",
-            "summary": "U.S. home-loan rates increased on Thursday but are still lower than a year ago. U.S.-based mortgage rates rose on Thursday, but remain lower than they were last year.",
-            "date": "Thu, 28 May 2026 16:17:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MGE=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m setting up brokerage accounts for my grandkids in my daughter’s name. Is that wise — or am I asking for trouble?",
-            "link": "https://www.marketwatch.com/story/im-setting-up-brokerage-accounts-for-my-grandkids-in-my-daughters-name-is-that-wise-or-am-i-asking-for-trouble-6728b2b2?mod=mw_rss_topstories",
-            "summary": "The contributions are invested in mutual funds tracking the S&amp;P 500, small-cap stocks and international equities. “The contributions were made to a fund that invests in the U.S. stock market,” the company said.",
-            "date": "Thu, 28 May 2026 16:11:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "SpaceX’s major AI compute deal with Anthropic could end a lot sooner than expected",
-            "link": "https://www.marketwatch.com/story/spacexs-major-ai-compute-deal-with-anthropic-could-end-a-lot-sooner-than-expected-30f46b83?mod=mw_rss_topstories",
-            "summary": "SpaceX CEO Elon Musk said his firm requested a “short term’ deal with Anthropic, despite touting plans that it could last for years.",
-            "date": "Thu, 28 May 2026 15:57:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "XMIG.JK",
+            "stock_ticker": "GEN",
             "impact": "Neutral"
         }
     ]
