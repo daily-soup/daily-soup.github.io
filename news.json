@@ -1,11 +1,35 @@
 {
-    "date": "2026-05-29",
+    "date": "2026-05-30",
     "news": [
         {
-            "title": "Trump lays out Iran deal demands, says he's about to make 'final determination'",
+            "title": "Meta has struggled at selling anything other than ads. Will AI be different?",
+            "link": "https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html",
+            "summary": " Meta is making a major push to expand its business beyond online advertising. But past efforts show that success is far from guaranteed. Click through the gallery to see how Meta has fared in the past.",
+            "date": "Sat, 30 May 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "META",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality",
+            "link": "https://www.cnbc.com/2026/05/30/iran-war-inequality-affordability-ceasefire-analysis.html",
+            "summary": "Stocks have boomed while consumers have paid the costs of high energy prices. Consumers have been hit with higher gas and electricity prices in recent months. Stocks have also boomed as a result.",
+            "date": "Sat, 30 May 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "3587.TWO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump ends Iran meeting without announcing ‘final determination’ on deal",
             "link": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
             "summary": "Trump's statement left unclear which of his conditions are already part of a deal that negotiators are working on to pause the U.S.-Iran war.",
-            "date": "Fri, 29 May 2026 16:31:17 GMT",
+            "date": "Sat, 30 May 2026 09:40:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,70 +38,10 @@
             "impact": "Neutral"
         },
         {
-            "title": "Dell stock skyrockets 32%, heads for best day ever as AI server revenue soars",
-            "link": "https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html",
-            "summary": "Dell reported its fastest pace of revenue growth since returning to the public market in 2018. AI server revenue soared 757% over last year.",
-            "date": "Fri, 29 May 2026 15:50:06 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DELL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "SpaceX skeptics have added reason for concern after Musk comments diverge from IPO filing",
-            "link": "https://www.cnbc.com/2026/05/29/spacex-skeptics-concerned-as-musk-comments-diverge-from-ipo-filing.html",
-            "summary": "Elon Musk posts details about SpaceX's deal with Anthropic that weren't included in the company's IPO prospectus. In a post on X, Elon Musk offers details about the deal.",
-            "date": "Fri, 29 May 2026 15:49:09 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPACEX-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump DOJ 'lawfare' fund temporarily blocked by judge as suit proceeds",
-            "link": "https://www.cnbc.com/2026/05/29/trump-doj-fund-lawfare-blocked-judge.html",
-            "summary": "The DOJ has face strong criticism for the creation of a $1.8 Anti-Weaponization Fund. The fund could compensate allies of President Donald Trump.",
-            "date": "Fri, 29 May 2026 16:00:07 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Disney's ABC files early broadcast licenses renewal. FCC Chair vows to 'follow the facts'",
-            "link": "https://www.cnbc.com/2026/05/28/disney-fcc-broadcast-licenses-renewal.html",
-            "summary": "Disney said it filed renewals for eight broadcast station licenses \"under protest\" The FCC launched an early review years ahead of schedule, Disney said.",
-            "date": "Fri, 29 May 2026 15:46:28 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ABCL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Even the Ronald Reagan Institute doesn’t believe the ‘waste, fraud and abuse’ baloney",
-            "link": "https://www.marketwatch.com/story/even-the-ronald-reagan-institute-doesnt-believe-the-waste-fraud-and-abuse-baloney-629a6447?mod=mw_rss_topstories",
-            "summary": "This may be the single most important issue facing U.S. democracy today, says CNN's John Sutter. Sutter: \"This is the most important thing we can do for democracy in the United States\"",
-            "date": "Fri, 29 May 2026 15:54:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001AGDG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Oil prices slide as Trump says the U.S. is close to an Iran deal",
-            "link": "https://www.marketwatch.com/story/oil-prices-slide-as-trump-says-the-u-s-is-close-to-an-iran-deal-8af9ece2?mod=mw_rss_topstories",
-            "summary": "President Donald Trump said a “final determination’ is coming on Iran. He said the U.S. will make a decision on Iran in the coming days.",
-            "date": "Fri, 29 May 2026 15:48:00 GMT",
+            "title": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
+            "link": "https://www.cnbc.com/2026/05/30/oil-exports-through-hormuz-might-not-return-to-levels-before-iran-war.html",
+            "summary": "Iran's blockade of the Strait of Hormuz has seriously challenged freedom of navigation in the sea lane. The blockade has raised questions about the future of the strait.",
+            "date": "Sat, 30 May 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "Elon Musk’s SpaceX IPO could quickly launch into your retirement plan",
-            "link": "https://www.marketwatch.com/story/elon-musks-spacex-ipo-could-quickly-launch-into-your-retirement-plan-30c17279?mod=mw_rss_topstories",
-            "summary": "Index funds popular with retirement plans are poised to buy SpaceX’s stock rocket-fast. SpaceX is a rocket company that has raised more than $20 billion in venture capital.",
-            "date": "Fri, 29 May 2026 15:43:00 GMT",
+            "title": "Will Gen Z be the generation to revive moviegoing?",
+            "link": "https://www.cnbc.com/2026/05/30/gen-z-movie-theaters.html",
+            "summary": "Gen Zers are driving demand for anime and video game titles at the theaters. Gen Zers like affordable, social experiences and are drivingdemand for anime, video games.",
+            "date": "Sat, 30 May 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELPW",
+            "stock_ticker": "SHW",
             "impact": "Neutral"
         },
         {
-            "title": "‘He threatened to cut the roots’: A tree fell onto my neighbor’s property during a storm. Then all hell broke loose.",
-            "link": "https://www.marketwatch.com/story/he-threatened-to-cut-the-roots-a-tree-fell-onto-my-neighbors-property-during-a-storm-then-all-hell-broke-loose-90da5af2?mod=mw_rss_topstories",
-            "summary": "A neighbor estimates damage from the tree at approximately $6,000 or more. “The neighbor estimatesDamage from the Tree at approximately £5,000 to £7,000.",
-            "date": "Fri, 29 May 2026 15:41:00 GMT",
+            "title": "‘I feel like I’m living a lie’: My husband and I pretend we’re strapped for cash in front of friends. Is that bad?",
+            "link": "https://www.marketwatch.com/story/i-feel-like-im-living-a-lie-my-husband-and-i-pretend-were-strapped-for-cash-in-front-of-friends-is-that-bad-1cf6104a?mod=mw_rss_topstories",
+            "summary": "“I’ve found that acting ‘normal’ means others treat me like one of the group,” she says.",
+            "date": "Sat, 30 May 2026 14:22:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HE",
+            "stock_ticker": "PTN",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Investing in the Dow or S&P 500 doesn’t matter — here’s what actually does",
+            "link": "https://www.marketwatch.com/story/investing-in-the-dow-or-s-p-500-doesnt-matter-heres-what-actually-does-757aa571?mod=mw_rss_topstories",
+            "summary": "Time in the stock market is more important than index selection. The Dow’s 130-year history proves it. Time in the Stock Market is More important than Index Selection.",
+            "date": "Sat, 30 May 2026 14:13:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DE000SL0C4A3.SG",
             "impact": "Neutral"
         },
         {
-            "title": "Gen Alpha is learning vastly different lessons about money, depending on whether their parents are millennials or Gen X",
-            "link": "https://www.marketwatch.com/story/gen-x-vs-millennial-parents-whose-kids-are-better-with-money-1874c59f?mod=mw_rss_topstories",
-            "summary": "Gen Alpha kids raised by Gen X parents carry average savings balances that are 30% higher than their peers raised by millennials. Gen Alpha kids raise by Generation X parents have an average savings balance of $26,000. Gen X kids raise an average of $28,000, compared to $21,000 for millennials.",
-            "date": "Fri, 29 May 2026 14:50:00 GMT",
+            "title": "The ‘Three A’s’ are keeping the economy afloat during Iran war. Is it enough to avoid recession?",
+            "link": "https://www.marketwatch.com/story/the-three-as-are-keeping-the-economy-afloat-during-iran-war-is-it-enough-to-avoid-recession-9769e907?mod=mw_rss_topstories",
+            "summary": "The U.S. economy may be more fragile than a raging bull market suggests, a new report says. The report says the economy is still in the early stages of a recovery.",
+            "date": "Sat, 30 May 2026 13:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GEN",
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The U.S.-China rivalry is killing global supply chains. Your portfolio needs a ‘home court advantage.’",
+            "link": "https://www.marketwatch.com/story/the-u-s-china-rivalry-is-killing-global-supply-chains-your-portfolio-needs-a-home-court-advantage-02870253?mod=mw_rss_topstories",
+            "summary": "Globalization is giving way to geopolitical power cartels and a structural shift toward domestic, state-subsidized industries, writes CNN's John Sutter. Sutter: The world is seeing a shift toward state-backed industries.",
+            "date": "Sat, 30 May 2026 13:35:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My golf buddy dropped me when I didn’t ask him to be my financial adviser. Was I naive?",
+            "link": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories",
+            "summary": "“Friendliness alone is not a sufficient reason to trust someone with your finances,” she says. “Friendly’s not the same as ‘trust me,’’ she adds.",
+            "date": "Sat, 30 May 2026 13:21:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         }
     ]
