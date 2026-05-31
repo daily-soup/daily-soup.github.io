@@ -1,40 +1,28 @@
 {
-    "date": "2026-05-30",
+    "date": "2026-05-31",
     "news": [
         {
-            "title": "Meta has struggled at selling anything other than ads. Will AI be different?",
-            "link": "https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html",
-            "summary": " Meta is making a major push to expand its business beyond online advertising. But past efforts show that success is far from guaranteed. Click through the gallery to see how Meta has fared in the past.",
-            "date": "Sat, 30 May 2026 12:00:01 GMT",
+            "title": "Why Trump reversed course to fast-track psychedelic drugs for mental healthcare",
+            "link": "https://www.cnbc.com/2026/05/31/why-trump-is-encouraging-psychedelics-for-mental-health.html",
+            "summary": "President Donald Trump is trying to fast-track research into psychedelics as treatments. The move could create new opportunities and risks, experts say.",
+            "date": "Sun, 31 May 2026 12:00:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "META",
+            "stock_ticker": "3823.T",
             "impact": "Neutral"
         },
         {
-            "title": "Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality",
-            "link": "https://www.cnbc.com/2026/05/30/iran-war-inequality-affordability-ceasefire-analysis.html",
-            "summary": "Stocks have boomed while consumers have paid the costs of high energy prices. Consumers have been hit with higher gas and electricity prices in recent months. Stocks have also boomed as a result.",
-            "date": "Sat, 30 May 2026 12:00:01 GMT",
+            "title": "Defense spending, China in Asia and lessons from Ukraine: Takeways from the 2026 IISS Shangri-La Dialogue",
+            "link": "https://www.cnbc.com/2026/05/31/takeways-from-the-2026-shangri-la-dialogue-.html",
+            "summary": "Top world leaders, defence officials and key executives will gather in Singapore from May 29 to 31. The summit sees top world leaders and defence officials gathering in Singapore.",
+            "date": "Sun, 31 May 2026 09:35:52 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "3587.TWO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump ends Iran meeting without announcing ‘final determination’ on deal",
-            "link": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
-            "summary": "Trump's statement left unclear which of his conditions are already part of a deal that negotiators are working on to pause the U.S.-Iran war.",
-            "date": "Sat, 30 May 2026 09:40:22 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "KTOS",
             "impact": "Neutral"
         },
         {
@@ -50,75 +38,87 @@
             "impact": "Neutral"
         },
         {
-            "title": "Will Gen Z be the generation to revive moviegoing?",
-            "link": "https://www.cnbc.com/2026/05/30/gen-z-movie-theaters.html",
-            "summary": "Gen Zers are driving demand for anime and video game titles at the theaters. Gen Zers like affordable, social experiences and are drivingdemand for anime, video games.",
+            "title": "Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality",
+            "link": "https://www.cnbc.com/2026/05/30/iran-war-inequality-affordability-ceasefire-analysis.html",
+            "summary": "Stocks have boomed while consumers have paid the costs of high energy prices. Consumers have been hit with higher gas and electricity prices in recent months. Stocks have also boomed as a result.",
             "date": "Sat, 30 May 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHW",
+            "stock_ticker": "3587.TWO",
             "impact": "Neutral"
         },
         {
-            "title": "‘I feel like I’m living a lie’: My husband and I pretend we’re strapped for cash in front of friends. Is that bad?",
-            "link": "https://www.marketwatch.com/story/i-feel-like-im-living-a-lie-my-husband-and-i-pretend-were-strapped-for-cash-in-front-of-friends-is-that-bad-1cf6104a?mod=mw_rss_topstories",
-            "summary": "“I’ve found that acting ‘normal’ means others treat me like one of the group,” she says.",
-            "date": "Sat, 30 May 2026 14:22:00 GMT",
+            "title": "In deeply red Oklahoma, minimum wage’s biggest 2026 election cycle fight is about to be decided",
+            "link": "https://www.cnbc.com/2026/05/31/oklahoma-minimum-wage-2026-election-vote-economy-inflation.html",
+            "summary": "Oklahomans will soon vote on a measure to double the minimum wage. The issue may reflect the economic mood and inflation outlook across parties.",
+            "date": "Sun, 31 May 2026 14:00:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "PTN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s how Gap’s yoga-wear maker Athleta went from must-have to ‘generic’",
+            "link": "https://www.marketwatch.com/story/heres-how-gaps-yoga-wear-maker-athleta-went-from-must-have-to-generic-3d94b008?mod=mw_rss_topstories",
+            "summary": "Athleta’s expected recovery has been pushed out for three straight years, as an attempt to widen its appeal ended up “appealing to no one in particular”",
+            "date": "Sun, 31 May 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
             "impact": "Bullish"
         },
         {
-            "title": "Investing in the Dow or S&P 500 doesn’t matter — here’s what actually does",
-            "link": "https://www.marketwatch.com/story/investing-in-the-dow-or-s-p-500-doesnt-matter-heres-what-actually-does-757aa571?mod=mw_rss_topstories",
-            "summary": "Time in the stock market is more important than index selection. The Dow’s 130-year history proves it. Time in the Stock Market is More important than Index Selection.",
-            "date": "Sat, 30 May 2026 14:13:00 GMT",
+            "title": "‘I have no preexisting conditions’: I’m 56, earn $198,000 and want to retire early. Can I afford private healthcare?",
+            "link": "https://www.marketwatch.com/story/i-have-no-preexisting-conditions-im-56-earn-198-000-and-want-to-retire-early-can-i-afford-private-healthcare-e80cdd26?mod=mw_rss_topstories",
+            "summary": "“I’m trying to figure out whether it’s worth my while achieving FIRE,” he says. “I am trying to find a way to make a difference in the world.”",
+            "date": "Sun, 31 May 2026 13:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DE000SL0C4A3.SG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The ‘Three A’s’ are keeping the economy afloat during Iran war. Is it enough to avoid recession?",
-            "link": "https://www.marketwatch.com/story/the-three-as-are-keeping-the-economy-afloat-during-iran-war-is-it-enough-to-avoid-recession-9769e907?mod=mw_rss_topstories",
-            "summary": "The U.S. economy may be more fragile than a raging bull market suggests, a new report says. The report says the economy is still in the early stages of a recovery.",
-            "date": "Sat, 30 May 2026 13:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The U.S.-China rivalry is killing global supply chains. Your portfolio needs a ‘home court advantage.’",
-            "link": "https://www.marketwatch.com/story/the-u-s-china-rivalry-is-killing-global-supply-chains-your-portfolio-needs-a-home-court-advantage-02870253?mod=mw_rss_topstories",
-            "summary": "Globalization is giving way to geopolitical power cartels and a structural shift toward domestic, state-subsidized industries, writes CNN's John Sutter. Sutter: The world is seeing a shift toward state-backed industries.",
-            "date": "Sat, 30 May 2026 13:35:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
+            "stock_ticker": "PTN",
             "impact": "Neutral"
         },
         {
             "title": "My golf buddy dropped me when I didn’t ask him to be my financial adviser. Was I naive?",
             "link": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories",
             "summary": "“Friendliness alone is not a sufficient reason to trust someone with your finances,” she says. “Friendly’s not the same as ‘trust me,’’ she adds.",
-            "date": "Sat, 30 May 2026 13:21:00 GMT",
+            "date": "Sun, 31 May 2026 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "MYX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now — and claim survivor’s benefit at 67?",
+            "link": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories",
+            "summary": "“I calculated her break-even point to be around age 78,” he said. “I’m not sure she’s going to be able to do it.”",
+            "date": "Sun, 31 May 2026 11:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘He threatened to cut the roots’: A tree fell onto my neighbor’s property during a storm. Then all hell broke loose.",
+            "link": "https://www.marketwatch.com/story/he-threatened-to-cut-the-roots-a-tree-fell-onto-my-neighbors-property-during-a-storm-then-all-hell-broke-loose-90da5af2?mod=mw_rss_topstories",
+            "summary": "A neighbor estimates damage from the tree at approximately $6,000 or more. “The neighbor estimatesDamage from the Tree at approximately £5,000 to £7,000.",
+            "date": "Sun, 31 May 2026 11:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HE",
             "impact": "Neutral"
         }
     ]
