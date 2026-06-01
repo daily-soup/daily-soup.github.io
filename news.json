@@ -1,95 +1,83 @@
 {
-    "date": "2026-05-31",
+    "date": "2026-06-01",
     "news": [
         {
-            "title": "Why Trump reversed course to fast-track psychedelic drugs for mental healthcare",
-            "link": "https://www.cnbc.com/2026/05/31/why-trump-is-encouraging-psychedelics-for-mental-health.html",
-            "summary": "President Donald Trump is trying to fast-track research into psychedelics as treatments. The move could create new opportunities and risks, experts say.",
-            "date": "Sun, 31 May 2026 12:00:02 GMT",
+            "title": "Trump tells CNBC: 'I don't care' if Iran negotiations are over",
+            "link": "https://www.cnbc.com/2026/06/01/trump-iran-war-negotiations-oil-israel-interview.html",
+            "summary": "President Trump spoke with CNBC's Eamon Javers about the latest with the Iran war in an interview Monday. President Trump spoke about the U.S. response to Iran's nuclear program in the interview.",
+            "date": "Mon, 01 Jun 2026 18:30:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "3823.T",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Defense spending, China in Asia and lessons from Ukraine: Takeways from the 2026 IISS Shangri-La Dialogue",
-            "link": "https://www.cnbc.com/2026/05/31/takeways-from-the-2026-shangri-la-dialogue-.html",
-            "summary": "Top world leaders, defence officials and key executives will gather in Singapore from May 29 to 31. The summit sees top world leaders and defence officials gathering in Singapore.",
-            "date": "Sun, 31 May 2026 09:35:52 GMT",
+            "title": "Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal",
+            "link": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html",
+            "summary": "Anthropic said it confidentially filed its IPO prospectus with the SEC. The move sets up a potentially historic share sale for investors ready to jump into AI.",
+            "date": "Mon, 01 Jun 2026 18:31:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KTOS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
-            "link": "https://www.cnbc.com/2026/05/30/oil-exports-through-hormuz-might-not-return-to-levels-before-iran-war.html",
-            "summary": "Iran's blockade of the Strait of Hormuz has seriously challenged freedom of navigation in the sea lane. The blockade has raised questions about the future of the strait.",
-            "date": "Sat, 30 May 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CL=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality",
-            "link": "https://www.cnbc.com/2026/05/30/iran-war-inequality-affordability-ceasefire-analysis.html",
-            "summary": "Stocks have boomed while consumers have paid the costs of high energy prices. Consumers have been hit with higher gas and electricity prices in recent months. Stocks have also boomed as a result.",
-            "date": "Sat, 30 May 2026 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "3587.TWO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "In deeply red Oklahoma, minimum wage’s biggest 2026 election cycle fight is about to be decided",
-            "link": "https://www.cnbc.com/2026/05/31/oklahoma-minimum-wage-2026-election-vote-economy-inflation.html",
-            "summary": "Oklahomans will soon vote on a measure to double the minimum wage. The issue may reflect the economic mood and inflation outlook across parties.",
-            "date": "Sun, 31 May 2026 14:00:42 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PTN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here’s how Gap’s yoga-wear maker Athleta went from must-have to ‘generic’",
-            "link": "https://www.marketwatch.com/story/heres-how-gaps-yoga-wear-maker-athleta-went-from-must-have-to-generic-3d94b008?mod=mw_rss_topstories",
-            "summary": "Athleta’s expected recovery has been pushed out for three straight years, as an attempt to widen its appeal ended up “appealing to no one in particular”",
-            "date": "Sun, 31 May 2026 14:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "ANTHROPIC-USD",
             "impact": "Bullish"
         },
         {
-            "title": "‘I have no preexisting conditions’: I’m 56, earn $198,000 and want to retire early. Can I afford private healthcare?",
-            "link": "https://www.marketwatch.com/story/i-have-no-preexisting-conditions-im-56-earn-198-000-and-want-to-retire-early-can-i-afford-private-healthcare-e80cdd26?mod=mw_rss_topstories",
-            "summary": "“I’m trying to figure out whether it’s worth my while achieving FIRE,” he says. “I am trying to find a way to make a difference in the world.”",
-            "date": "Sun, 31 May 2026 13:50:00 GMT",
+            "title": "McDonald's unveils new global growth strategy to win over diners as competition rises",
+            "link": "https://www.cnbc.com/2026/06/01/mcdonalds-mcd-unveils-growth-strategy.html",
+            "summary": "High gas prices mean restaurants are competing for a smaller pool of customers. McDonald's new growth plan comes as inflation and high gas prices hit the U.S.",
+            "date": "Mon, 01 Jun 2026 18:15:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PTN",
+            "stock_ticker": "MCD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SpaceX sets aside up to 5% of shares in IPO for certain employees and friends",
+            "link": "https://www.cnbc.com/2026/06/01/spacex-sets-aside-up-to-5percent-of-shares-in-ipo-for-employees-and-friends.html",
+            "summary": "Up to 5% of stock being offered by the company in the offering will be available in a direct share program. In an updated IPO prospectus, SpaceX said that up to 5 per cent of stock would be available.",
+            "date": "Mon, 01 Jun 2026 18:00:49 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPACEX-USD",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Florida AG sues OpenAI, seeks to hold CEO Altman personally liable for alleged harms",
+            "link": "https://www.cnbc.com/2026/06/01/florida-ag-open-ai-altman-lawsuit.html",
+            "summary": "The complaint says the harms are the result of OpenAI's \"insatiable quest to win the AI arms race and amass large fortunes\"",
+            "date": "Mon, 01 Jun 2026 17:32:50 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SBCF",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Global oil prices trim early gains but still top $95 a barrel after Trump says peace talks with Iran are back on following a pause",
+            "link": "https://www.marketwatch.com/story/oil-prices-rise-after-fresh-wave-of-attacks-between-u-s-and-iran-fbcdd5ed?mod=mw_rss_topstories",
+            "summary": "Talks with Iran are “continuing, at a rapid pace,” President Trump says. Israel and Hezbollah have agreed to stop attacking each other in Lebanon, he says.",
+            "date": "Mon, 01 Jun 2026 18:31:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "COIN",
             "impact": "Neutral"
         },
         {
             "title": "My golf buddy dropped me when I didn’t ask him to be my financial adviser. Was I naive?",
             "link": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories",
             "summary": "“Friendliness alone is not a sufficient reason to trust someone with your finances,” she says. “Friendly’s not the same as ‘trust me,’’ she adds.",
-            "date": "Sun, 31 May 2026 12:00:00 GMT",
+            "date": "Mon, 01 Jun 2026 18:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,28 +86,40 @@
             "impact": "Neutral"
         },
         {
-            "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now — and claim survivor’s benefit at 67?",
-            "link": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories",
-            "summary": "“I calculated her break-even point to be around age 78,” he said. “I’m not sure she’s going to be able to do it.”",
-            "date": "Sun, 31 May 2026 11:50:00 GMT",
+            "title": "‘I have no preexisting conditions’: I’m 56, earn $198,000 and want to retire early. Can I afford private healthcare?",
+            "link": "https://www.marketwatch.com/story/i-have-no-preexisting-conditions-im-56-earn-198-000-and-want-to-retire-early-can-i-afford-private-healthcare-e80cdd26?mod=mw_rss_topstories",
+            "summary": "“I’m trying to figure out whether it’s worth my while achieving FIRE,” he says. “I am trying to find a way to make a difference in the world.”",
+            "date": "Mon, 01 Jun 2026 18:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYX",
+            "stock_ticker": "MU",
             "impact": "Neutral"
         },
         {
-            "title": "‘He threatened to cut the roots’: A tree fell onto my neighbor’s property during a storm. Then all hell broke loose.",
-            "link": "https://www.marketwatch.com/story/he-threatened-to-cut-the-roots-a-tree-fell-onto-my-neighbors-property-during-a-storm-then-all-hell-broke-loose-90da5af2?mod=mw_rss_topstories",
-            "summary": "A neighbor estimates damage from the tree at approximately $6,000 or more. “The neighbor estimatesDamage from the Tree at approximately £5,000 to £7,000.",
-            "date": "Sun, 31 May 2026 11:00:00 GMT",
+            "title": "Did Trump spark an IBM stock rally? It’s complicated.",
+            "link": "https://www.marketwatch.com/story/did-trump-spark-an-ibm-stock-rally-its-complicated-5421f6ba?mod=mw_rss_topstories",
+            "summary": "IBM’s strong stock momentum Monday comes as the software sector continues its comeback. IBM is the world's largest software company. The company has a market value of more than $80 billion.",
+            "date": "Mon, 01 Jun 2026 18:08:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HE",
+            "stock_ticker": "DIDIY",
             "impact": "Neutral"
+        },
+        {
+            "title": "Anthropic just set the stage for a blockbuster IPO — beating OpenAI to the punch",
+            "link": "https://www.marketwatch.com/story/anthropic-just-set-the-stage-for-a-blockbuster-ipo-beating-openai-to-the-punch-4cde9d9f?mod=mw_rss_topstories",
+            "summary": "OpenAI is expected to soon file confidentially for its own IPO. SpaceX is gearing up for its listing, and OpenAI is set to go public.",
+            "date": "Mon, 01 Jun 2026 17:44:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ANTHROPIC-USD",
+            "impact": "Bullish"
         }
     ]
 }
