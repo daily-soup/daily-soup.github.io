@@ -1,11 +1,35 @@
 {
-    "date": "2026-06-01",
+    "date": "2026-06-02",
     "news": [
         {
-            "title": "Trump tells CNBC: 'I don't care' if Iran negotiations are over",
-            "link": "https://www.cnbc.com/2026/06/01/trump-iran-war-negotiations-oil-israel-interview.html",
-            "summary": "President Trump spoke with CNBC's Eamon Javers about the latest with the Iran war in an interview Monday. President Trump spoke about the U.S. response to Iran's nuclear program in the interview.",
-            "date": "Mon, 01 Jun 2026 18:30:30 GMT",
+            "title": "The CFTC has sparked a potential revolution on Wall Street. Exchange stocks are dropping",
+            "link": "https://www.cnbc.com/2026/06/02/the-cftc-has-sparked-a-potential-revolution-on-wall-street-exchange-stocks-are-dropping.html",
+            "summary": "Investors are worried about increased competition for the traditional exchanges that have long dominated on Wall Street. Investors are worried that increased competition will lead to a decline in the number of traditional exchanges.",
+            "date": "Tue, 02 Jun 2026 17:09:24 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Rubio says U.S. is in talks with Iran over nuclear program as senators press for war endgame",
+            "link": "https://www.cnbc.com/2026/06/02/rubio-iran-nuclear-talks-trump-war-strategy-hormuz.html",
+            "summary": "Rubio says Iran nuclear talks may advance soon as senators press Trump on war strategy, Strait of Hormuz, Cuba and Venezuela policy.",
+            "date": "Tue, 02 Jun 2026 17:12:56 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HRC=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump signs AI executive order asking companies to give government early access to models",
+            "link": "https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html",
+            "summary": " AI developers, on a voluntary basis, are asked to collaborate with the government and provide early access to frontier models. The government is looking for ways to make AI more accessible to the public.",
+            "date": "Tue, 02 Jun 2026 16:44:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,112 +38,88 @@
             "impact": "Neutral"
         },
         {
-            "title": "Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal",
-            "link": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html",
-            "summary": "Anthropic said it confidentially filed its IPO prospectus with the SEC. The move sets up a potentially historic share sale for investors ready to jump into AI.",
-            "date": "Mon, 01 Jun 2026 18:31:16 GMT",
+            "title": "Trump names housing chief Bill Pulte acting intelligence director, replacing Tulsi Gabbard",
+            "link": "https://www.cnbc.com/2026/06/02/intelligence-trump-bill-pulte-tulsi-gabbard.html",
+            "summary": "Pulte has alleged wrongdoing related to mortgages against Trump's foes, Federal Reserve Governor Lisa Cook and New York Attorney General Letitia James.",
+            "date": "Tue, 02 Jun 2026 16:42:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ANTHROPIC-USD",
-            "impact": "Bullish"
-        },
-        {
-            "title": "McDonald's unveils new global growth strategy to win over diners as competition rises",
-            "link": "https://www.cnbc.com/2026/06/01/mcdonalds-mcd-unveils-growth-strategy.html",
-            "summary": "High gas prices mean restaurants are competing for a smaller pool of customers. McDonald's new growth plan comes as inflation and high gas prices hit the U.S.",
-            "date": "Mon, 01 Jun 2026 18:15:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MCD",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "SpaceX sets aside up to 5% of shares in IPO for certain employees and friends",
-            "link": "https://www.cnbc.com/2026/06/01/spacex-sets-aside-up-to-5percent-of-shares-in-ipo-for-employees-and-friends.html",
-            "summary": "Up to 5% of stock being offered by the company in the offering will be available in a direct share program. In an updated IPO prospectus, SpaceX said that up to 5 per cent of stock would be available.",
-            "date": "Mon, 01 Jun 2026 18:00:49 GMT",
+            "title": "Job openings in April surged to 7.6 million, the highest in nearly two years",
+            "link": "https://www.cnbc.com/2026/06/02/job-openings-april-2026.html",
+            "summary": "The Bureau of Labor Statistics reported that available employment hit 7.6 million for the month. That's a surge of 731,000 from the prior month.",
+            "date": "Tue, 02 Jun 2026 15:38:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPACEX-USD",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Florida AG sues OpenAI, seeks to hold CEO Altman personally liable for alleged harms",
-            "link": "https://www.cnbc.com/2026/06/01/florida-ag-open-ai-altman-lawsuit.html",
-            "summary": "The complaint says the harms are the result of OpenAI's \"insatiable quest to win the AI arms race and amass large fortunes\"",
-            "date": "Mon, 01 Jun 2026 17:32:50 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SBCF",
+            "stock_ticker": "JOB",
             "impact": "Neutral"
         },
         {
-            "title": "Global oil prices trim early gains but still top $95 a barrel after Trump says peace talks with Iran are back on following a pause",
-            "link": "https://www.marketwatch.com/story/oil-prices-rise-after-fresh-wave-of-attacks-between-u-s-and-iran-fbcdd5ed?mod=mw_rss_topstories",
-            "summary": "Talks with Iran are “continuing, at a rapid pace,” President Trump says. Israel and Hezbollah have agreed to stop attacking each other in Lebanon, he says.",
-            "date": "Mon, 01 Jun 2026 18:31:00 GMT",
+            "title": "The S&P 500 has only risen this quickly 4 times since WWII. Once, a historic stock-market crash followed.",
+            "link": "https://www.marketwatch.com/story/the-s-p-500-has-only-risen-this-quickly-4-times-since-wwii-once-a-historic-stock-market-crash-followed-ed41ab2d?mod=mw_rss_topstories",
+            "summary": "The S&amp;P 500 has overcome worries about artificial intelligence and the fallout from the war in Iran to stage one of its strongest two-month showings on record.",
+            "date": "Tue, 02 Jun 2026 17:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COIN",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "My golf buddy dropped me when I didn’t ask him to be my financial adviser. Was I naive?",
-            "link": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories",
-            "summary": "“Friendliness alone is not a sufficient reason to trust someone with your finances,” she says. “Friendly’s not the same as ‘trust me,’’ she adds.",
-            "date": "Mon, 01 Jun 2026 18:27:00 GMT",
+            "title": "The Iran war is jacking up fertilizer prices and forcing farmers to make tough calls. ‘If I guess wrong, I lose the farm.’",
+            "link": "https://www.marketwatch.com/story/the-iran-war-is-jacking-up-fertilizer-prices-and-forcing-farmers-to-make-tough-calls-if-i-guess-wrong-i-lose-the-farm-dc30c979?mod=mw_rss_topstories",
+            "summary": "Preston Arrington's 2,100-acre corn and soybean farm is one of the biggest challenges on his farm. The surge in the price of fertilizer is also one of his biggest challenges.",
+            "date": "Tue, 02 Jun 2026 16:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYX",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "‘I have no preexisting conditions’: I’m 56, earn $198,000 and want to retire early. Can I afford private healthcare?",
-            "link": "https://www.marketwatch.com/story/i-have-no-preexisting-conditions-im-56-earn-198-000-and-want-to-retire-early-can-i-afford-private-healthcare-e80cdd26?mod=mw_rss_topstories",
-            "summary": "“I’m trying to figure out whether it’s worth my while achieving FIRE,” he says. “I am trying to find a way to make a difference in the world.”",
-            "date": "Mon, 01 Jun 2026 18:20:00 GMT",
+            "title": "Buying into SpaceX, Anthropic and other mega-IPOs could be a problem for your index fund",
+            "link": "https://www.marketwatch.com/story/buying-into-spacex-anthropic-and-other-mega-ipos-could-be-a-problem-for-your-index-fund-3e7e968e?mod=mw_rss_topstories",
+            "summary": "Index rules and timelines will divide winners and losers. Index rules and timeline will divide Winners and Losers in the index industry. The index industry is in a state of flux as it tries to figure out how to make a profit.",
+            "date": "Tue, 02 Jun 2026 16:40:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "INSAX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This winning high-yield bond strategy limits risk while seeking under-the-radar opportunities",
+            "link": "https://www.marketwatch.com/story/this-winning-high-yield-bond-strategy-limits-risk-while-seeking-under-the-radar-opportunities-c9bb8b77?mod=mw_rss_topstories",
+            "summary": "Hunter Hayes of Intrepid Capital described an “incredibly healthy’ market for high-yield bonds. Hayes said he takes a conservative approach to investing in the space.",
+            "date": "Tue, 02 Jun 2026 16:17:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "S2819.MC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here’s how I did it.",
+            "link": "https://www.marketwatch.com/story/americans-love-their-rose-colored-glasses-i-was-a-slave-to-credit-card-debt-then-i-got-laid-off-and-turned-my-life-around-32ba4d4c?mod=mw_rss_topstories",
+            "summary": "“I have steadily increased my assets by more than 10% since being laid off,” he says. “I’ve been able to get my life back on track.”",
+            "date": "Tue, 02 Jun 2026 16:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "MU",
             "impact": "Neutral"
-        },
-        {
-            "title": "Did Trump spark an IBM stock rally? It’s complicated.",
-            "link": "https://www.marketwatch.com/story/did-trump-spark-an-ibm-stock-rally-its-complicated-5421f6ba?mod=mw_rss_topstories",
-            "summary": "IBM’s strong stock momentum Monday comes as the software sector continues its comeback. IBM is the world's largest software company. The company has a market value of more than $80 billion.",
-            "date": "Mon, 01 Jun 2026 18:08:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DIDIY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Anthropic just set the stage for a blockbuster IPO — beating OpenAI to the punch",
-            "link": "https://www.marketwatch.com/story/anthropic-just-set-the-stage-for-a-blockbuster-ipo-beating-openai-to-the-punch-4cde9d9f?mod=mw_rss_topstories",
-            "summary": "OpenAI is expected to soon file confidentially for its own IPO. SpaceX is gearing up for its listing, and OpenAI is set to go public.",
-            "date": "Mon, 01 Jun 2026 17:44:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ANTHROPIC-USD",
-            "impact": "Bullish"
         }
     ]
 }
