@@ -1,124 +1,124 @@
 {
-    "date": "2026-06-04",
+    "date": "2026-06-05",
     "news": [
         {
-            "title": "Broadcom, Micron and ARM sink, leading chip stocks lower",
-            "link": "https://www.cnbc.com/2026/06/04/chipmaker-equities-micron-marvell-broadcom-intel.html",
-            "summary": "U.S. chipmakers plunged after Broadcom earnings disappointed investors. Broadcom is a major supplier of chips to Apple, Samsung and other companies.",
-            "date": "Thu, 04 Jun 2026 15:43:51 GMT",
+            "title": "U.S. payrolls rose by 172,000 in May, much more than expected; unemployment at 4.3%",
+            "link": "https://www.cnbc.com/2026/06/05/jobs-report-may-2026.html",
+            "summary": "Nonfarm payrolls were expected to increase by 80,000 in May. The unemployment rate held at 4.3%. The economy is expected to grow by 0.3% in the second quarter.",
+            "date": "Fri, 05 Jun 2026 13:55:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AVGO",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Blackstone restricts flagship fund withdrawals as private asset fears reemerge",
-            "link": "https://www.cnbc.com/2026/06/04/blackstone-caps-withdrawals-private-credit.html",
-            "summary": "Blackstone capped withdrawals from its $79 billion BCRED fund after redemption requests rose from 7.9% to 10%. The move adds to private market liquidity concerns.",
-            "date": "Thu, 04 Jun 2026 15:07:22 GMT",
+            "title": "Alphabet is seeking fresh capital as stock's 4-week losing streak tests investor appetite",
+            "link": "https://www.cnbc.com/2026/06/05/alphabet-ai-data-center-financing.html",
+            "summary": "Alphabet expects capex to reach up to $190 billion this year, double last year's spending. The company is turning to investors to help fund its expansion.",
+            "date": "Fri, 05 Jun 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BX",
-            "impact": "Neutral"
+            "stock_ticker": "GOOG",
+            "impact": "Bullish"
         },
         {
-            "title": "As the largest World Cup ever kicks off, health officials are focused on more than Ebola",
-            "link": "https://www.cnbc.com/2026/06/04/world-cup-2026-health-officials-focused-on-ebola-measles.html",
-            "summary": "Officials are more concerned about highly contagious diseases like measles and respiratory viruses. Those diseases can spread quickly through large, fast-moving crowds, officials say.",
-            "date": "Thu, 04 Jun 2026 15:41:50 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Investors can 'buy' SpaceX early with Coinbase perpetual futures on pre-IPOs",
-            "link": "https://www.cnbc.com/2026/06/04/investors-can-buy-spacex-early-with-coinbase-perpetual-futures-on-pre-ipos.html",
-            "summary": "Traders can speculate on the value of a private company without owning shares. Pre-IPO perps give traders the ability to speculate on a company's value.",
-            "date": "Thu, 04 Jun 2026 13:30:14 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OHI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Ex-Trump advisor John Bolton agrees to plead guilty to retaining classified information: MS NOW",
-            "link": "https://www.cnbc.com/2026/06/04/bolton-guilty-plea-trump-national-security-advisor.html",
-            "summary": "Bolton said he was innocent and that he was being targeted because of his public opposition to President Trump. When he was indicted, John Bolton said he wasn't guilty of any crime.",
-            "date": "Thu, 04 Jun 2026 16:14:08 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MSOS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Quantinuum’s stock set to pop after IPO as Wall Street buys into the quantum boom",
-            "link": "https://www.marketwatch.com/story/quantinuums-stock-set-to-pop-after-ipo-as-wall-street-buys-into-the-quantum-boom-8f2e83b9?mod=mw_rss_topstories",
-            "summary": "Quantinuum could be valued north of $18 billion given indications for an opening price of about $71. Quantinuum was founded in 2007 by a group of scientists from the University of Washington.",
-            "date": "Thu, 04 Jun 2026 16:11:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "QNT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The Fed can’t protect consumers from supply shocks and price gouging — but Congress can",
-            "link": "https://www.marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories",
-            "summary": "Lawmakers need to take a stand on rising gas and grocery prices, says CNN's John Sutter. Sutter: Congress needs to pass a bill to raise the minimum wage to $15.",
-            "date": "Thu, 04 Jun 2026 15:42:00 GMT",
+            "title": "Boeing to start 737 Max production on new assembly line July 6, CEO says",
+            "link": "https://www.cnbc.com/2026/06/05/boeing-ceo-737-max-production-assembly-line.html",
+            "summary": "The new 737 Max final assembly line in Everett, Washington, will serve as a catalyst for increasing Max production to 52 jets per month.",
+            "date": "Fri, 05 Jun 2026 15:38:32 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Gas prices could go even higher this summer due to this quiet shift at U.S. refineries",
-            "link": "https://www.marketwatch.com/story/think-gas-prices-are-high-now-this-quiet-shift-at-u-s-refineries-could-trigger-an-even-more-painful-summer-9f788044?mod=mw_rss_topstories",
-            "summary": "$5-a-gallon gas could be here by July or August because of what is going on at refineries, one expert said.",
-            "date": "Thu, 04 Jun 2026 15:37:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NG=F",
             "impact": "Neutral"
         },
         {
-            "title": "You’re going to pay tax on RMDs — there’s no way around it. Or is there?",
-            "link": "https://www.marketwatch.com/story/youre-going-to-pay-tax-on-rmds-theres-no-way-around-it-or-is-there-26e864cf?mod=mw_rss_topstories",
-            "summary": "A new playbook is needed to protect your retirement cash. Here’s your new playbook to protect you retirement cash, according to a new book.",
-            "date": "Thu, 04 Jun 2026 15:18:00 GMT",
+            "title": "Lululemon cuts annual outlook, citing 'negative' media commentary and disappointing product launches",
+            "link": "https://www.cnbc.com/2026/06/04/lululemon-lulu-earnings-q1-2026.html",
+            "summary": "Lululemon is expecting its situation to get a lot worse before it gets better. The company issued weak guidance for the full year.",
+            "date": "Thu, 04 Jun 2026 23:09:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "G6P0.DE",
+            "stock_ticker": "LULU",
             "impact": "Neutral"
         },
         {
-            "title": "Coal stocks climb as Trump shovels $700 million to the sector",
-            "link": "https://www.marketwatch.com/story/coal-stocks-climb-as-trump-shovels-700-million-to-the-sector-8a61953c?mod=mw_rss_topstories",
-            "summary": "President Donald Trump is expected to talk about his new effort to boost coal power plants and coal exports at around 3 p.m. Eastern time.",
-            "date": "Thu, 04 Jun 2026 15:09:00 GMT",
+            "title": "No tech, no problem. Dow makes record and traders think these stocks can lead now",
+            "link": "https://www.cnbc.com/2026/06/05/no-tech-no-problem-dow-makes-record-and-traders-think-these-stocks-can-lead-now.html",
+            "summary": "Traders bought about 5,300 calls in the State Street Health Care Select Sector SPDR ETF (XLV) on Thursday, compared to just over 1,000 puts, according to ThinkOrSwim.",
+            "date": "Fri, 05 Jun 2026 11:45:23 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COAL",
+            "stock_ticker": "NOK=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘DOGE’ wanted to declare 2.7 million people ‘dead’ at Social Security: whistleblower",
+            "link": "https://www.marketwatch.com/story/doge-wanted-to-declare-2-7-million-people-dead-at-social-security-whistleblower-e195065b?mod=mw_rss_topstories",
+            "summary": "This is the third whistleblower to come forward about alleged illegal activity by Trump’s Department of Government Efficiency. This is also the third time a whistleblower has come forward with allegations of illegal activity.",
+            "date": "Fri, 05 Jun 2026 14:42:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DOGE-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "California’s proposed ‘billionaire tax’ is a terrible idea. We should do this instead.",
+            "link": "https://www.marketwatch.com/story/californias-proposed-billionaire-tax-is-moronic-we-should-do-this-instead-de61bca8?mod=mw_rss_topstories",
+            "summary": "Almost everything about this tax is bad, and it obscures something much better that we do need. Almost everything about it is bad. It obscures what we need. It's time to get rid of it.",
+            "date": "Fri, 05 Jun 2026 14:12:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CLUB",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Social Security is looking at a $500-a-month cut. Could a new bipartisan commission make a difference?",
+            "link": "https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a?mod=mw_rss_topstories",
+            "summary": "A new legislative proposal would create a bipartisan commission to strengthen the finances of Social Security and Medicare. The proposal comes at a time when the programs are under pressure.",
+            "date": "Fri, 05 Jun 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "We thought we found the perfect luxury retirement community, but it’s millions of dollars in debt. Are we trapped?",
+            "link": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
+            "summary": "“If we were to leave, we would lose a portion of our buy-in — about $80,000,” he says.",
+            "date": "Fri, 05 Jun 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WDC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "J.P. Morgan ends bearish Tesla call that was predicting a 65% stock drop",
+            "link": "https://www.marketwatch.com/story/j-p-morgan-ends-bearish-tesla-call-that-was-predicting-a-65-stock-drop-95728e66?mod=mw_rss_topstories",
+            "summary": "A new analyst has taken over the bank’s Tesla coverage, and he has a less gloomy view of the EV company. The new analyst is based in New York and has been with the bank for about a year.",
+            "date": "Fri, 05 Jun 2026 13:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001ROTU.F",
             "impact": "Neutral"
         }
     ]
