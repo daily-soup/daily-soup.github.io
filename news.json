@@ -1,35 +1,71 @@
 {
-    "date": "2026-06-05",
+    "date": "2026-06-06",
     "news": [
         {
-            "title": "U.S. payrolls rose by 172,000 in May, much more than expected; unemployment at 4.3%",
-            "link": "https://www.cnbc.com/2026/06/05/jobs-report-may-2026.html",
-            "summary": "Nonfarm payrolls were expected to increase by 80,000 in May. The unemployment rate held at 4.3%. The economy is expected to grow by 0.3% in the second quarter.",
-            "date": "Fri, 05 Jun 2026 13:55:07 GMT",
+            "title": "Bitcoin is cratering, but a new Wall Street crypto hype is on the rise",
+            "link": "https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html",
+            "summary": "As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.",
+            "date": "Sat, 06 Jun 2026 13:28:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "BTC-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Alphabet is seeking fresh capital as stock's 4-week losing streak tests investor appetite",
-            "link": "https://www.cnbc.com/2026/06/05/alphabet-ai-data-center-financing.html",
-            "summary": "Alphabet expects capex to reach up to $190 billion this year, double last year's spending. The company is turning to investors to help fund its expansion.",
-            "date": "Fri, 05 Jun 2026 12:00:01 GMT",
+            "title": "Inside the Obama-era Iran nuclear deal that Trump withdrew from",
+            "link": "https://www.cnbc.com/2026/06/06/trump-iran-jcpoa-nuclear-deal-obama.html",
+            "summary": "The U.S. and Iran have yet to reach a peace deal or address Iran's nuclear ambitions. Despite signals from Trump that talks are progressing, there are no signs of progress.",
+            "date": "Sat, 06 Jun 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOOG",
+            "stock_ticker": "PIS.BK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Chinese EVs may hit U.S. within a few years, one way or another",
+            "link": "https://www.cnbc.com/2026/06/06/chinese-evs-auto-sales-manufacturing-us.html",
+            "summary": "Chinese electric vehicles are likely to be sold in the U.S. within years, despite tariffs, strict laws and opposition from the auto industry and politicians.",
+            "date": "Sat, 06 Jun 2026 13:35:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "O39.SI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Wall Street's 'fear gauge' punches back as the 'crash up' in chip stocks finally reverses",
+            "link": "https://www.cnbc.com/2026/06/06/wall-streets-fear-gauge-punches-back-as-the-crash-up-in-chip-stocks-finally-reverses.html",
+            "summary": "The VIX at last caught up with other volatility metrics. The monster rally in semiconductor stocks hit a wall on Friday, and the VIX hit a record high.",
+            "date": "Sat, 06 Jun 2026 12:58:29 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WBX",
             "impact": "Bullish"
         },
         {
-            "title": "Boeing to start 737 Max production on new assembly line July 6, CEO says",
-            "link": "https://www.cnbc.com/2026/06/05/boeing-ceo-737-max-production-assembly-line.html",
-            "summary": "The new 737 Max final assembly line in Everett, Washington, will serve as a catalyst for increasing Max production to 52 jets per month.",
-            "date": "Fri, 05 Jun 2026 15:38:32 GMT",
+            "title": "Abel goes his own way with new Berkshire investments, including billions for AI",
+            "link": "https://www.cnbc.com/2026/06/06/abel-goes-his-own-way-with-new-berkshire-investments-including-billions-for-ai.html",
+            "summary": "Berkshire Hathaway CEO Greg Abel has \"launched\" with his first major deal. Warren Buffett tells CNBC's Becky Quick that Abel has made a big deal.",
+            "date": "Sat, 06 Jun 2026 12:31:02 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "036010.KQ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The U.S. stock market is facing historic downside risk — these 10 low-volatility stocks can protect your portfolio",
+            "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-facing-historic-downside-risk-these-10-low-volatility-stocks-can-protect-your-portfolio-088a2189?mod=mw_rss_topstories",
+            "summary": "Low-volatility stocks give investors a smoother ride. They are beating the market on a risk-adjusted basis. Low-volatile stocks are better than risk-averse stocks on a long-term basis.",
+            "date": "Sat, 06 Jun 2026 14:01:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,88 +74,52 @@
             "impact": "Neutral"
         },
         {
-            "title": "Lululemon cuts annual outlook, citing 'negative' media commentary and disappointing product launches",
-            "link": "https://www.cnbc.com/2026/06/04/lululemon-lulu-earnings-q1-2026.html",
-            "summary": "Lululemon is expecting its situation to get a lot worse before it gets better. The company issued weak guidance for the full year.",
-            "date": "Thu, 04 Jun 2026 23:09:14 GMT",
+            "title": "The blowout jobs report is bad news for stocks — but it shouldn’t force the Fed’s hand on interest rates",
+            "link": "https://www.marketwatch.com/story/the-blowout-jobs-report-is-bad-news-for-stocks-but-it-shouldnt-force-the-feds-hand-on-interest-rates-66eaa2b9?mod=mw_rss_topstories",
+            "summary": "\"Rate hikes now will choke off the critical investments needed to lower prices,\" he says. \"It's time for the Fed to take a more aggressive stance\"",
+            "date": "Sat, 06 Jun 2026 13:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LULU",
-            "impact": "Neutral"
-        },
-        {
-            "title": "No tech, no problem. Dow makes record and traders think these stocks can lead now",
-            "link": "https://www.cnbc.com/2026/06/05/no-tech-no-problem-dow-makes-record-and-traders-think-these-stocks-can-lead-now.html",
-            "summary": "Traders bought about 5,300 calls in the State Street Health Care Select Sector SPDR ETF (XLV) on Thursday, compared to just over 1,000 puts, according to ThinkOrSwim.",
-            "date": "Fri, 05 Jun 2026 11:45:23 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NOK=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘DOGE’ wanted to declare 2.7 million people ‘dead’ at Social Security: whistleblower",
-            "link": "https://www.marketwatch.com/story/doge-wanted-to-declare-2-7-million-people-dead-at-social-security-whistleblower-e195065b?mod=mw_rss_topstories",
-            "summary": "This is the third whistleblower to come forward about alleged illegal activity by Trump’s Department of Government Efficiency. This is also the third time a whistleblower has come forward with allegations of illegal activity.",
-            "date": "Fri, 05 Jun 2026 14:42:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DOGE-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "California’s proposed ‘billionaire tax’ is a terrible idea. We should do this instead.",
-            "link": "https://www.marketwatch.com/story/californias-proposed-billionaire-tax-is-moronic-we-should-do-this-instead-de61bca8?mod=mw_rss_topstories",
-            "summary": "Almost everything about this tax is bad, and it obscures something much better that we do need. Almost everything about it is bad. It obscures what we need. It's time to get rid of it.",
-            "date": "Fri, 05 Jun 2026 14:12:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CLUB",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Social Security is looking at a $500-a-month cut. Could a new bipartisan commission make a difference?",
-            "link": "https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a?mod=mw_rss_topstories",
-            "summary": "A new legislative proposal would create a bipartisan commission to strengthen the finances of Social Security and Medicare. The proposal comes at a time when the programs are under pressure.",
-            "date": "Fri, 05 Jun 2026 14:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPT",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
             "title": "We thought we found the perfect luxury retirement community, but it’s millions of dollars in debt. Are we trapped?",
             "link": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
             "summary": "“If we were to leave, we would lose a portion of our buy-in — about $80,000,” he says.",
-            "date": "Fri, 05 Jun 2026 14:00:00 GMT",
+            "date": "Sat, 06 Jun 2026 13:14:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WDC",
+            "stock_ticker": "WFC",
             "impact": "Neutral"
         },
         {
-            "title": "J.P. Morgan ends bearish Tesla call that was predicting a 65% stock drop",
-            "link": "https://www.marketwatch.com/story/j-p-morgan-ends-bearish-tesla-call-that-was-predicting-a-65-stock-drop-95728e66?mod=mw_rss_topstories",
-            "summary": "A new analyst has taken over the bank’s Tesla coverage, and he has a less gloomy view of the EV company. The new analyst is based in New York and has been with the bank for about a year.",
-            "date": "Fri, 05 Jun 2026 13:50:00 GMT",
+            "title": "Can SpaceX live up to Wall Street’s multitrillion-dollar hype?",
+            "link": "https://www.marketwatch.com/story/can-spacex-live-up-to-wall-streets-multitrillion-dollar-hype-3610b2f3?mod=mw_rss_topstories",
+            "summary": "Some analysts warn that the company’s ‘moonshot’ projections could fall short. SpaceX is preparing for the biggest public debut in history.",
+            "date": "Sat, 06 Jun 2026 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001ROTU.F",
+            "stock_ticker": "CAN",
             "impact": "Neutral"
+        },
+        {
+            "title": "‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?",
+            "link": "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
+            "summary": "“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills,” she says.",
+            "date": "Sat, 06 Jun 2026 12:14:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "S2819.MC",
+            "impact": "Bullish"
         }
     ]
 }
