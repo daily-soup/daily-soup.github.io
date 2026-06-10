@@ -1,124 +1,124 @@
 {
-    "date": "2026-06-09",
+    "date": "2026-06-10",
     "news": [
         {
-            "title": "Oil prices fall nearly 4% after U.S. Energy Secretary says Hormuz ship traffic is increasing",
-            "link": "https://www.cnbc.com/2026/06/09/oil-prices-iran-war-strait-hormuz-trump-israel-lebanon.html",
-            "summary": "President Donald Trump has repeatedly said a deal with Tehran to reopen Hormuz is close. But such an agreement still has not materialized.",
-            "date": "Tue, 09 Jun 2026 15:45:59 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CL=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Social Security retirement trust fund may be depleted in 2032, new trustees report finds",
-            "link": "https://www.cnbc.com/2026/06/09/social-security-trustees-report-depletion-dates.html",
-            "summary": "The Social Security Administration has released a report with new projections as to when the trust funds that help pay benefits may be depleted. The report was released on Wednesday.",
-            "date": "Tue, 09 Jun 2026 15:51:03 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump family got about $500M from crypto venture — but investors saw steep losses",
-            "link": "https://www.cnbc.com/2026/06/09/trump-world-liberty-financial-crypto-alt5-sigma.html",
-            "summary": "Eric Trump and Donald Trump Jr. celebrated a deal with Alt5 Sigma that generated roughly $500 million for the Trump family. The company's shares are down 93%.",
-            "date": "Tue, 09 Jun 2026 14:51:59 GMT",
+            "title": "Trump pledges more Iran attacks, saying U.S. will be 'attacking them very hard'",
+            "link": "https://www.cnbc.com/2026/06/10/trump-iran-war-attacks-deal.html",
+            "summary": "President Donald Trump promised more attacks on Iran after strikes resumed this week. Earlier this week, he said a deal to end the war was near.",
+            "date": "Wed, 10 Jun 2026 16:19:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here's the inflation breakdown for May 2026 — in one chart",
+            "link": "https://www.cnbc.com/2026/06/10/heres-the-inflation-breakdown-for-may-2026-in-one-chart.html",
+            "summary": "Inflation jumped to a three-year high in May as the Iran war continued to fuel higher energy prices. In May, inflation jumped to an all-time high of 2.7 percent.",
+            "date": "Wed, 10 Jun 2026 15:29:35 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Amazon trucking expansion sparks freight stock sell-off",
+            "link": "https://www.cnbc.com/2026/06/10/amazon-trucking-expansion-freight-stock-selloff.html",
+            "summary": "Amazon has been spinning out more of its in-house logistics offerings for others to access. The move poses a growing threat to industry incumbents.",
+            "date": "Wed, 10 Jun 2026 14:11:05 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AMZN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump signs $70 billion immigration funding bill after months of delay",
+            "link": "https://www.cnbc.com/2026/06/10/trump-ice-70-billion-immigration-funding.html",
+            "summary": "The $70 billion package will fund Immigration and Customs Enforcement and Customs and Border Protection through the end of President Donald Trump's term. The package will also fund the U.S. Marshals Service.",
+            "date": "Wed, 10 Jun 2026 16:24:49 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bill Gates tells House panel 'I should have never met' with Jeffrey Epstein",
+            "link": "https://www.cnbc.com/2026/06/10/bill-gates-jeffrey-epstein-house-oversight-interview.html",
+            "summary": "Gates reportedly prepared for his testimony with the help of Jake Greenberg, who previously was the Oversight committee's chief investigations counsel. Gates is expected to testify before the House Oversight Committee on Thursday.",
+            "date": "Wed, 10 Jun 2026 15:57:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BILL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?",
+            "link": "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
+            "summary": "“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills,” she says.",
+            "date": "Wed, 10 Jun 2026 16:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "S2819.MC",
+            "impact": "Bullish"
+        },
+        {
+            "title": "My 20-year-old son wanted his first credit card. I told him to skip the most obvious advice and do these 4 things instead.",
+            "link": "https://www.marketwatch.com/story/my-20-year-old-son-wanted-his-first-credit-card-i-told-him-to-skip-most-of-the-advice-online-and-do-this-instead-16331ceb?mod=mw_rss_topstories",
+            "summary": "A credit-building shortcut that many parents overlook. Plus, a way to get a mortgage without breaking the bank's rules. And a way for you to get your first job without breaking any rules.",
+            "date": "Wed, 10 Jun 2026 15:34:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SpaceX is launching a historic IPO — but its biggest risk has nothing to do with rockets",
+            "link": "https://www.marketwatch.com/story/spacex-is-launching-a-historic-ipo-but-its-biggest-risk-has-nothing-to-do-with-rockets-0c030f9f?mod=mw_rss_topstories",
+            "summary": "Elon Musk admits he “cannot predict’ when his massive venture will make money. Starlink revenue tops $11 billion.",
+            "date": "Wed, 10 Jun 2026 15:09:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPCX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Social Security could face an automatic 22% cut in 2032. These 4 moves will protect your retirement.",
+            "link": "https://www.marketwatch.com/story/social-security-could-face-an-automatic-22-cut-in-2032-these-4-moves-will-protect-your-retirement-a00f9463?mod=mw_rss_topstories",
+            "summary": "The countdown to insolvency is accelerating — and the rules of retirement planning just broke. The rules of planning for the future have never been more complex.",
+            "date": "Wed, 10 Jun 2026 15:07:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPT",
             "impact": "Bearish"
         },
         {
-            "title": "JPMorgan Chase plans to deploy more powerful AI agents this year",
-            "link": "https://www.cnbc.com/2026/06/09/jpmorgan-chase-ai-agents.html",
-            "summary": "JPMorgan Chase's move suggests long-running AI agents are close to clearing the security and governance hurdles that have slowed adoption inside big companies.",
-            "date": "Tue, 09 Jun 2026 14:00:01 GMT",
+            "title": "Social Security’s COLA could be 4.7% in 2027 as inflation hits the highest level in 3 years",
+            "link": "https://www.marketwatch.com/story/social-securitys-cola-could-be-4-7-in-2027-as-inflation-hits-the-highest-level-in-3-years-e5a87320?mod=mw_rss_topstories",
+            "summary": "A total of 44% of older Americans depend on Social Security for all of their income, according to the Senior Citizens League. A total of 34% depend on Medicare for all their income.",
+            "date": "Wed, 10 Jun 2026 15:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JPFP",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Home sales surged in May to the highest level since December",
-            "link": "https://www.cnbc.com/2026/06/09/home-sales-surged-in-may-to-the-highest-level-since-december.html",
-            "summary": "Home sales rebounded in May as mortgage rates dropped back a bit in April. But prices are still rising, and sales are expected to continue to rise.",
-            "date": "Tue, 09 Jun 2026 15:46:21 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This proposed federal budget cut could eliminate job training for 42,000 vulnerable seniors",
-            "link": "https://www.marketwatch.com/story/this-proposed-federal-budget-cut-could-eliminate-job-training-for-42-000-vulnerable-seniors-2520ac73?mod=mw_rss_topstories",
-            "summary": "A job-training program for low-income older adults is set to lose funding under President Donald Trump’s proposed budget for 2027. More stringent work requirements for food aid and healthcare coverage go into effect.",
-            "date": "Tue, 09 Jun 2026 15:22:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P000021TT.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "These ETFs surged thanks to early SpaceX stakes. What happens to them after the IPO?",
-            "link": "https://www.marketwatch.com/story/these-etfs-surged-thanks-to-early-spacex-stakes-what-happens-to-them-after-the-ipo-96a2a8f8?mod=mw_rss_topstories",
-            "summary": "Investors have recently flocked to ETFs that already have SpaceX exposure. But those funds are about to lose “whatever scarcity value’ they once had, one expert warns.",
-            "date": "Tue, 09 Jun 2026 15:04:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001YPM3.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This stock-market strategy has cheap exposure to AI and points to an advantage for closed-end funds",
-            "link": "https://www.marketwatch.com/story/this-investing-strategy-has-beaten-the-market-with-exposure-to-cheap-ai-stocks-5e743b12?mod=mw_rss_topstories",
-            "summary": "The fund is diversified and has been an excellent performer. It highlights the advantages of a closed-end structure. The fund is currently valued at around £1.5bn.",
-            "date": "Tue, 09 Jun 2026 14:54:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P000021TT.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Millions of grandparents are spending their retirements raising their grandkids — and it’s taking a financial toll",
-            "link": "https://www.marketwatch.com/story/millions-of-grandparents-are-spending-their-retirements-raising-their-grandkids-and-its-taking-a-financial-toll-5ddc4102?mod=mw_rss_topstories",
-            "summary": "Grandparent-headed households are more likely to live in poverty. Grandparents head more than half of all households in the U.S., according to a new study.",
-            "date": "Tue, 09 Jun 2026 14:27:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MACRO37622-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How teens can turn a summer job into an extra $500,000 in savings when they’re older",
-            "link": "https://www.marketwatch.com/story/how-an-average-paying-summer-job-can-add-up-to-570-000-for-your-teen-9b1fcb46?mod=mw_rss_topstories",
-            "summary": "Teens who don’t have summer jobs miss out on valuable work experience, experts say. They also miss prime years to invest their income.",
-            "date": "Tue, 09 Jun 2026 14:12:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "SPT",
             "impact": "Neutral"
         }
     ]
