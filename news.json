@@ -1,11 +1,35 @@
 {
-    "date": "2026-06-11",
+    "date": "2026-06-12",
     "news": [
         {
-            "title": "Trump threatens to seize Kharg Island and other Iran oil infrastructure",
-            "link": "https://www.cnbc.com/2026/06/11/trump-says-us-will-seize-kharg-island-and-other-oil-infrastructure-points.html",
-            "summary": "Trump said the U.S. would take over Iran's oil infrastructure, and its oil and gas markets. He said the operations would be similar to those in Venezuela, where the United States is trying to take over the oil industry.",
-            "date": "Thu, 11 Jun 2026 16:06:32 GMT",
+            "title": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq",
+            "link": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html",
+            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
+            "date": "Fri, 12 Jun 2026 16:11:20 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ELPW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SpaceX shares gain 17% as trading begins, valuing Elon Musk's rocket company at more than $2 trillion",
+            "link": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
+            "summary": "SpaceX shares soared on Friday as trading commenced on the Nasdaq. SpaceX shares soared as trading began on Friday. SpaceX will be the first private company to send a rocket into space.",
+            "date": "Fri, 12 Jun 2026 16:09:09 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPCX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump denies Iran's account of deal terms, decries new drone attack: 'Dishonorable people'",
+            "link": "https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html",
+            "summary": "\"They better get their act together, and FAST!\" President Donald Trump says of Iran. He announced that a deal would be finalized within days.",
+            "date": "Fri, 12 Jun 2026 15:46:06 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +38,87 @@
             "impact": "Neutral"
         },
         {
-            "title": "Iran threatens Elon Musk's companies in Middle East: Iranian state media",
-            "link": "https://www.cnbc.com/2026/06/11/iran-threatens-elon-musks-companies-in-middle-east-iranian-state-media.html",
-            "summary": "Iran will consider all of Elon Musk's companies in the Middle East as military targets as it retaliates against the U.S., Iranian state media reported.",
-            "date": "Thu, 11 Jun 2026 15:18:33 GMT",
+            "title": "SpaceX’s Gwynne Shotwell had IPO doubts for years, now she has a message for investors",
+            "link": "https://www.cnbc.com/2026/06/12/spacex-coo-gwynne-shotwell-spcx-ipo.html",
+            "summary": "Gwynne Shotwell is long Elon Musk's second-in-command at SpaceX. Shotwell spoke exclusively with CNBC ahead of her company's highly anticipated IPO.",
+            "date": "Fri, 12 Jun 2026 14:19:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3F.SA",
+            "stock_ticker": "9601.SR",
             "impact": "Neutral"
         },
         {
-            "title": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
-            "link": "https://www.cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html",
-            "summary": "The yellow metal is at lowest level of the year as potential interest rate increases and faltering technical signals weigh on prices. The price of the yellow metal has fallen more than 1.5 per cent since the beginning of the month.",
-            "date": "Thu, 11 Jun 2026 15:51:17 GMT",
+            "title": "Judge blocks DOJ 'anti-weaponization' fund for longer, wants guarantee it’s dead",
+            "link": "https://www.cnbc.com/2026/06/12/trump-doj-fund-preliminary-injunction-blanche-bessent.html",
+            "summary": "A judge gave Acting Attorney General Todd Blanche and Treasury Secretary Scott Bessent a week to submit a sworn declaration the DOJ fund was not going forward.",
+            "date": "Fri, 12 Jun 2026 16:08:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOLD",
+            "stock_ticker": "IUF.F",
             "impact": "Neutral"
         },
         {
-            "title": "OpenAI to acquire Ona to support its AI coding assistant, Codex",
-            "link": "https://www.cnbc.com/2026/06/11/open-ai-ona-acquisition-codex.html",
-            "summary": "Ona's technology will allow OpenAI's coding assistant, Codex, to take on longer-running tasks, OpenAI said. Ona will allow Codex to do more than one task at a time.",
-            "date": "Thu, 11 Jun 2026 16:26:10 GMT",
+            "title": "AMD is seen as a CPU stock — but it’s gaining ground here, too",
+            "link": "https://www.marketwatch.com/story/amd-is-seen-as-a-cpu-stock-but-its-gaining-ground-here-too-69a55e0f?mod=mw_rss_topstories",
+            "summary": "Wall Street is underestimating how much Meta will spend on AMD’s AI chips, a Citi analyst said. Citi: “We believe that Meta will be a major player in the AI chip market in the future.”",
+            "date": "Fri, 12 Jun 2026 16:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OPENAI-USD",
+            "stock_ticker": "AMD",
             "impact": "Neutral"
         },
         {
-            "title": "Oracle shares tumble 11% on increased capital raise, cash concerns",
-            "link": "https://www.cnbc.com/2026/06/11/oracle-shares-tumble-11percent-on-increased-capital-raise-cash-concerns.html",
-            "summary": "Oracle beat on earnings and revenue, but negative free cash flow and the company's plan to raise more capital is weighing on the stock.",
-            "date": "Thu, 11 Jun 2026 15:32:25 GMT",
+            "title": "My company fired one manager and is doing an ‘organizational reshuffling.’ Am I in trouble?",
+            "link": "https://www.marketwatch.com/story/my-company-fired-one-manager-and-is-doing-an-organizational-reshuffling-am-i-in-trouble-6909eb40?mod=mw_rss_topstories",
+            "summary": "“They let go of a pretty high-up manager who they only hired a month ago,” says a former player. “They’re trying to get back on track.”",
+            "date": "Fri, 12 Jun 2026 15:18:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ORCL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "A will isn’t enough: 3 ways to help your loved ones before you die",
-            "link": "https://www.marketwatch.com/story/a-will-isnt-enough-3-ways-to-help-your-loved-ones-before-you-die-be522804?mod=mw_rss_topstories",
-            "summary": "There are countless ways to mess up estate planning — even if you’re organized. Here are a few tips to help you get the most out of your estate planning.",
-            "date": "Thu, 11 Jun 2026 16:38:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
+            "stock_ticker": "MYR=X",
             "impact": "Bullish"
         },
         {
-            "title": "Brace for SpaceX’s stock to show ‘extreme’ volatility, a bullish analyst warns",
-            "link": "https://www.marketwatch.com/story/brace-for-spacexs-stock-to-show-extreme-volatility-a-bullish-analyst-warns-589ea226?mod=mw_rss_topstories",
-            "summary": "Early analyst coverage of SpaceX’s stock is starting to roll in now that the IPO is imminent. The IPO is expected to take place in the next few weeks.",
-            "date": "Thu, 11 Jun 2026 16:31:00 GMT",
+            "title": "‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?",
+            "link": "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
+            "summary": "“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills,” she says.",
+            "date": "Fri, 12 Jun 2026 14:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BRACEPORT-SM.NS",
-            "impact": "Neutral"
+            "stock_ticker": "0P000021TT.F",
+            "impact": "Bullish"
         },
         {
-            "title": "Americans are trading Tuscany for Tacoma, thanks to soaring airfares",
-            "link": "https://www.marketwatch.com/story/rip-euro-summer-americans-are-trading-tuscany-for-tacoma-thanks-to-soaring-airfares-44751904?mod=mw_rss_topstories",
-            "summary": "Airfares have made it harder for price-conscious travelers to justify summer vacations in Europe. Many are opting to travel within the U.S. instead.",
-            "date": "Thu, 11 Jun 2026 16:14:00 GMT",
+            "title": "‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
+            "link": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
+            "summary": "“He claimed that fixed-rate annuities are the sparkly, rainbow-fairyland of investments,” the author says.",
+            "date": "Fri, 12 Jun 2026 14:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ARE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Oracle’s stock is seeing its worst run in a quarter-century as this key AI debate rages on",
-            "link": "https://www.marketwatch.com/story/oracles-stock-is-seeing-its-worst-run-in-a-quarter-century-as-this-key-ai-debate-rages-on-49b3e9ed?mod=mw_rss_topstories",
-            "summary": "Oracle's cloud-infrastructure business is growing rapidly. But a massive $95 billion spending plan and a physical bottleneck in data-center deliveries are giving investors pause.",
-            "date": "Thu, 11 Jun 2026 16:08:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CAST39136-USD",
+            "stock_ticker": "IT",
             "impact": "Neutral"
         },
         {
             "title": "‘I feel like he may be taking advantage of us’: Our adviser pushes annuities after we already said no. Do we fire him?",
             "link": "https://www.marketwatch.com/story/our-financial-adviser-keeps-pushing-annuities-even-after-we-said-no-should-we-fire-him-19188c98?mod=mw_rss_topstories",
             "summary": "“I feel like he may be taking advantage of us,” she says. “I’m not sure what to do.”",
-            "date": "Thu, 11 Jun 2026 16:04:00 GMT",
+            "date": "Fri, 12 Jun 2026 13:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AIBZ",
+            "stock_ticker": "EROC",
             "impact": "Neutral"
         }
     ]
