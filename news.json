@@ -1,23 +1,47 @@
 {
-    "date": "2026-06-12",
+    "date": "2026-06-13",
     "news": [
         {
-            "title": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq",
-            "link": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Fri, 12 Jun 2026 16:11:20 GMT",
+            "title": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO",
+            "link": "https://www.cnbc.com/2026/06/13/from-10percent-chance-of-success-to-2-trillion-spacexs-historic-ipo.html",
+            "summary": "After its Nasdaq debut on Friday, SpaceX was the sixth most-valuable U.S. company. SpaceX is a fraction the size by revenue of tech's megacaps.",
+            "date": "Sat, 13 Jun 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELPW",
+            "stock_ticker": "JARED-USD",
             "impact": "Neutral"
         },
         {
-            "title": "SpaceX shares gain 17% as trading begins, valuing Elon Musk's rocket company at more than $2 trillion",
-            "link": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
-            "summary": "SpaceX shares soared on Friday as trading commenced on the Nasdaq. SpaceX shares soared as trading began on Friday. SpaceX will be the first private company to send a rocket into space.",
-            "date": "Fri, 12 Jun 2026 16:09:09 GMT",
+            "title": "U.S.-Iran peace deal could be finalized 'in the next 24 hours,' Pakistan's PM says",
+            "link": "https://www.cnbc.com/2026/06/12/iran-deal-trump-pakistan-sharif.html",
+            "summary": "A senior Trump administration official had said earlier that deal to end the Iran war could be signed soon. A senior Obama administration official said earlier this week that a deal could be reached soon.",
+            "date": "Sat, 13 Jun 2026 14:13:52 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "603877.SS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "UAE denies 'false' reports of fund transfer to Iran",
+            "link": "https://www.cnbc.com/2026/06/13/uae-denies-false-reports-of-fund-transfer-to-iran.html",
+            "summary": "The statement follows a Reuters report that the UAE has agreed to unlock billions of dollars of frozen funds for Iran. The report said the UAE would unlock the funds.",
+            "date": "Sat, 13 Jun 2026 09:30:18 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "UAE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SpaceX IPO sticks the landing. Here's what investors are saying about its epic first trading day",
+            "link": "https://www.cnbc.com/2026/06/13/spacex-ipo-sticks-the-landing-heres-what-investors-are-saying-about-its-epic-first-trading-day.html",
+            "summary": "Despite a large retail allocation and huge volume, volatility was moderate. Despite a large Retail allocation and Huge Volume, Volatile Volatility was Moderate.",
+            "date": "Sat, 13 Jun 2026 13:37:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,99 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump denies Iran's account of deal terms, decries new drone attack: 'Dishonorable people'",
-            "link": "https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html",
-            "summary": "\"They better get their act together, and FAST!\" President Donald Trump says of Iran. He announced that a deal would be finalized within days.",
-            "date": "Fri, 12 Jun 2026 15:46:06 GMT",
+            "title": "Moats vs. moonshots: The Warren Buffett-Elon Musk style debate",
+            "link": "https://www.cnbc.com/2026/06/13/moats-vs-moonshots-the-warren-buffett-elon-musk-style-debate.html",
+            "summary": "Warren Buffett and Elon Musk indirectly debated a key question that persists for modern investors. In 2018, Warren Buffett and Elon Musk indirectly Debate a Key Question That persists for Modern Investors.",
+            "date": "Sat, 13 Jun 2026 12:57:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "VSME",
             "impact": "Neutral"
         },
         {
-            "title": "SpaceX’s Gwynne Shotwell had IPO doubts for years, now she has a message for investors",
-            "link": "https://www.cnbc.com/2026/06/12/spacex-coo-gwynne-shotwell-spcx-ipo.html",
-            "summary": "Gwynne Shotwell is long Elon Musk's second-in-command at SpaceX. Shotwell spoke exclusively with CNBC ahead of her company's highly anticipated IPO.",
-            "date": "Fri, 12 Jun 2026 14:19:24 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "9601.SR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Judge blocks DOJ 'anti-weaponization' fund for longer, wants guarantee it’s dead",
-            "link": "https://www.cnbc.com/2026/06/12/trump-doj-fund-preliminary-injunction-blanche-bessent.html",
-            "summary": "A judge gave Acting Attorney General Todd Blanche and Treasury Secretary Scott Bessent a week to submit a sworn declaration the DOJ fund was not going forward.",
-            "date": "Fri, 12 Jun 2026 16:08:50 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IUF.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "AMD is seen as a CPU stock — but it’s gaining ground here, too",
-            "link": "https://www.marketwatch.com/story/amd-is-seen-as-a-cpu-stock-but-its-gaining-ground-here-too-69a55e0f?mod=mw_rss_topstories",
-            "summary": "Wall Street is underestimating how much Meta will spend on AMD’s AI chips, a Citi analyst said. Citi: “We believe that Meta will be a major player in the AI chip market in the future.”",
-            "date": "Fri, 12 Jun 2026 16:04:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AMD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My company fired one manager and is doing an ‘organizational reshuffling.’ Am I in trouble?",
-            "link": "https://www.marketwatch.com/story/my-company-fired-one-manager-and-is-doing-an-organizational-reshuffling-am-i-in-trouble-6909eb40?mod=mw_rss_topstories",
-            "summary": "“They let go of a pretty high-up manager who they only hired a month ago,” says a former player. “They’re trying to get back on track.”",
-            "date": "Fri, 12 Jun 2026 15:18:00 GMT",
+            "title": "My elderly mother and I own a home together. Will Medicaid force its sale?",
+            "link": "https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories",
+            "summary": "“My sister thinks Medicaid will take the house my mom and I own together,” she says. “I’m not worried about that. I just want my mom to be able to keep her house.”",
+            "date": "Sat, 13 Jun 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "MYR=X",
-            "impact": "Bullish"
-        },
-        {
-            "title": "‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?",
-            "link": "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
-            "summary": "“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills,” she says.",
-            "date": "Fri, 12 Jun 2026 14:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P000021TT.F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
-            "link": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
-            "summary": "“He claimed that fixed-rate annuities are the sparkly, rainbow-fairyland of investments,” the author says.",
-            "date": "Fri, 12 Jun 2026 14:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IT",
             "impact": "Neutral"
         },
         {
-            "title": "‘I feel like he may be taking advantage of us’: Our adviser pushes annuities after we already said no. Do we fire him?",
-            "link": "https://www.marketwatch.com/story/our-financial-adviser-keeps-pushing-annuities-even-after-we-said-no-should-we-fire-him-19188c98?mod=mw_rss_topstories",
-            "summary": "“I feel like he may be taking advantage of us,” she says. “I’m not sure what to do.”",
-            "date": "Fri, 12 Jun 2026 13:59:00 GMT",
+            "title": "SpaceX employees now have enough wealth on paper to buy every home in this Texas city",
+            "link": "https://www.marketwatch.com/story/spacex-employees-now-have-enough-wealth-on-paper-to-buy-every-home-in-this-texas-city-ce0842be?mod=mw_rss_topstories",
+            "summary": " 2025 set an all-time high for first-time buyers who used financial assets to buy a home or fund a down payment, according to the National Association of Realtors.",
+            "date": "Sat, 13 Jun 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EROC",
+            "stock_ticker": "SPCX",
+            "impact": "Bearish"
+        },
+        {
+            "title": "I’m 55 and earn $100,000. Should I take a $2,900 monthly pension — or $2,200 with 3% annual hikes?",
+            "link": "https://www.marketwatch.com/story/im-55-and-earn-100-000-should-i-take-a-2-900-monthly-pension-or-2-200-with-3-annual-hikes-c02dc525?mod=mw_rss_topstories",
+            "summary": "“I plan to continue working until age 60,” he says. “I’m not going to stop when I’ve reached 60.”",
+            "date": "Sat, 13 Jun 2026 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The rich keep spending money on ‘unapologetic luxury’ — and it’s raising prices on everyday goods for everyone",
+            "link": "https://www.marketwatch.com/story/the-rich-keep-spending-money-on-unapologetic-luxury-and-its-raising-prices-on-everyday-goods-for-everyone-cdc4546b?mod=mw_rss_topstories",
+            "summary": "The wealthy are unfazed by inflation, and that could complicate the Fed’s ability to fight it. The wealthy are unafraid of inflation. The Fed is trying to keep inflation under control.",
+            "date": "Sat, 13 Jun 2026 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.",
+            "link": "https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories",
+            "summary": "Pimco: Investors should increasingly seek out fixed income to anchor portfolios. Equity valuations look stretched, says Pimco. Investors should look to fixed income as an anchor for their portfolios.",
+            "date": "Sat, 13 Jun 2026 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FRBT",
             "impact": "Neutral"
         }
     ]
