@@ -1,107 +1,11 @@
 {
-    "date": "2026-06-14",
+    "date": "2026-06-15",
     "news": [
         {
-            "title": "Elon Musk drifted from Larry Page over a decade ago, but their companies are closer than ever",
-            "link": "https://www.cnbc.com/2026/06/14/elon-musk-drifted-from-larry-page-but-spacex-google-closer-than-ever.html",
-            "summary": "Elon Musk's SpaceX went public this week. The company has a long and complicated relationship with Google. The two companies were both celebrating this week's IPO.",
-            "date": "Sun, 14 Jun 2026 11:30:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ETF500-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. peace deal with Iran in question as Israel strikes Lebanon",
-            "link": "https://www.cnbc.com/2026/06/14/iran-deal-teeters-israel-strikes-lebanon.html",
-            "summary": "An initial deal to end the war and open the Strait of Hormuz was expected to be signed this week. The deal is expected to include an end to the Iran-Iraq war and the opening of the Strait.",
-            "date": "Sun, 14 Jun 2026 14:53:53 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
-            "link": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html",
-            "summary": "Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.",
-            "date": "Sun, 14 Jun 2026 15:02:35 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump heads to G7 summit in France as world awaits Iran deal",
-            "link": "https://www.cnbc.com/2026/06/14/trump-g7-iran-deal-france-ukraine.html",
-            "summary": "The G7 is also likely to address Russia's war against Ukraine, which continues to rage in eastern Europe. The Iran war has drawn the world's focus, but the G7 will also address the Ukraine war.",
-            "date": "Sun, 14 Jun 2026 12:00:02 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "JetBlue bets big on Fort Lauderdale, from a new airport lounge to an international gateway",
-            "link": "https://www.cnbc.com/2026/06/14/jetblue-fort-lauderdale-airport.html",
-            "summary": "JetBlue faces heavy competition from Miami International Airport, an American Airlines stronghold. JetBlue: \"We're going to continue to do what's best for our customers and our company\"",
-            "date": "Sun, 14 Jun 2026 12:00:02 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JBLU",
-            "impact": "Neutral"
-        },
-        {
-            "title": "We thought we found the perfect luxury retirement community, but it’s millions of dollars in debt. Are we trapped?",
-            "link": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
-            "summary": "“If we were to leave, we would lose a portion of our buy-in — about $80,000,” he says.",
-            "date": "Sun, 14 Jun 2026 14:26:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WDC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?",
-            "link": "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
-            "summary": "“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills,” she says.",
-            "date": "Sun, 14 Jun 2026 13:26:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P000021TT.F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.",
-            "link": "https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories",
-            "summary": "Pimco: Investors should increasingly seek out fixed income to anchor portfolios. Equity valuations look stretched, says Pimco. Investors should look to fixed income as an anchor for their portfolios.",
-            "date": "Sun, 14 Jun 2026 13:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BSGT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "SpaceX shows investors still want moonshots. The Fed may test that theory this week.",
-            "link": "https://www.marketwatch.com/story/spacex-shows-investors-still-want-moonshots-the-fed-may-test-that-theory-this-week-d7771f3a?mod=mw_rss_topstories",
-            "summary": "The AI growth story that’s been powering the bull market harder to justify. Higher interest rates could make the AI story that's been powering it harder to justifying.",
-            "date": "Sun, 14 Jun 2026 13:00:00 GMT",
+            "title": "SpaceX IPO raises total of $85.7 billion as underwriters exercise 'greenshoe' overallotment option",
+            "link": "https://www.cnbc.com/2026/06/15/spacex-ipo-spcx-greenshoe-overallotment.html",
+            "summary": "Elon Musk's space and artificial intelligence company raised an initial $75 billion on Thursday. Musk's company is expected to raise an additional $50 billion in follow-up funding.",
+            "date": "Mon, 15 Jun 2026 16:41:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +14,111 @@
             "impact": "Neutral"
         },
         {
-            "title": "My husband won’t sell his home so we can live together full time. Is this a red flag after a decade of marriage?",
-            "link": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
-            "summary": "“Our homes are 20 miles apart, and he still drives back and forth almost daily,” she says of her husband. “Our home is 20 miles from each other, but we live in the same town.”",
-            "date": "Sun, 14 Jun 2026 12:25:00 GMT",
+            "title": "Trump is giving Warsh room to reshape the Fed",
+            "link": "https://www.cnbc.com/2026/06/15/trump-warsh-fed-reshape.html",
+            "summary": "The new Fed chair is on a political honeymoon with a U.S. president who has been the Fed's biggest opponent. The new chairman is expected to be in place by the end of the year.",
+            "date": "Mon, 15 Jun 2026 16:09:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUDMYR=X",
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Vance says 'a lot' of Iran deal details to figure out, but U.S. has 'all the cards'",
+            "link": "https://www.cnbc.com/2026/06/15/vance-iran-deal-negotiations-nuclear.html",
+            "summary": "Vance: America has \"all the cards\" in subsequent talks with Iran. Vance on CNBC's \"Squawk Box\" expressed confidence that America has all the cards.",
+            "date": "Mon, 15 Jun 2026 17:09:11 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EIRRX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Fox to buy streaming device maker Roku for $22 billion",
+            "link": "https://www.cnbc.com/2026/06/15/fox-to-buy-roku.html",
+            "summary": "Fox, the owner of the news and sports networks, said it has reached a deal to acquire Roku for about $22 billion in enterprise value.",
+            "date": "Mon, 15 Jun 2026 13:58:38 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FOX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Anthropic to meet with Trump administration over Mythos dispute",
+            "link": "https://www.cnbc.com/2026/06/15/anthropic-mythos-trump-ai.html",
+            "summary": "Anthropic received an export control directive that ordered the company to suspend access to its latest AI models by any foreign national. Anthropic received a directive from the U.S. State Department.",
+            "date": "Mon, 15 Jun 2026 17:47:44 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ANTHROPIC39496-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Social Security gave me conflicting answers about my cheating ex-husband’s record. What should I do?",
+            "link": "https://www.marketwatch.com/story/social-security-gave-me-conflicting-answers-about-my-cheating-former-husbands-record-what-should-i-do-ee7f1e56?mod=mw_rss_topstories",
+            "summary": "\"I was married to my former husband for 23 years. After repeated instances of infidelity, we divorced,\" she said. \"I am now single and I am very happy,\" she added.",
+            "date": "Mon, 15 Jun 2026 17:38:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "3929.T",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My elderly mother and I own a home together. Will Medicaid force its sale?",
+            "link": "https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories",
+            "summary": "“My sister thinks Medicaid will take the house my mom and I own together,” she says. “I’m not worried about that. I just want my mom to be able to keep her house.”",
+            "date": "Mon, 15 Jun 2026 17:37:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Social Security’s woes are well known, but Medicare is also facing a fiscal crisis — in just 7 years",
+            "link": "https://www.marketwatch.com/story/social-securitys-woes-are-well-known-but-medicare-is-also-facing-a-fiscal-crisis-in-just-7-years-a5915c6d?mod=mw_rss_topstories",
+            "summary": "Medicare Part A, which pays for inpatient hospital stays, would see an 11% payment cut. Part A pays for hospital stays in patients' homes.",
+            "date": "Mon, 15 Jun 2026 17:22:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "3929.T",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The chip-stock rally is back in full force — thanks to two big geopolitical developments",
+            "link": "https://www.marketwatch.com/story/the-chip-stock-rally-is-back-in-full-force-thanks-to-two-big-geopolitical-developments-4e3ec21d?mod=mw_rss_topstories",
+            "summary": "Anthropic's battle with the U.S. government could prompt a broadening of the AI buildout. Iran peace prospects are spurring gains for riskier stocks.",
+            "date": "Mon, 15 Jun 2026 16:33:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Fiserv CEO flees after presiding over 71% stock drop in his short tenure",
+            "link": "https://www.marketwatch.com/story/fiserv-ceo-flees-after-presiding-over-71-stock-drop-in-his-short-tenure-b92b9270?mod=mw_rss_topstories",
+            "summary": "The financial-services company “continues to look strategically adrift,” an analyst says, as the stock falls further. The stock is down more than 10% this year, making it one of the worst performing S&P 500 stocks.",
+            "date": "Mon, 15 Jun 2026 16:25:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FIV.DE",
             "impact": "Neutral"
         }
     ]
