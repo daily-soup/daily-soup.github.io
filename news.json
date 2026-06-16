@@ -1,11 +1,11 @@
 {
-    "date": "2026-06-15",
+    "date": "2026-06-16",
     "news": [
         {
-            "title": "SpaceX IPO raises total of $85.7 billion as underwriters exercise 'greenshoe' overallotment option",
-            "link": "https://www.cnbc.com/2026/06/15/spacex-ipo-spcx-greenshoe-overallotment.html",
-            "summary": "Elon Musk's space and artificial intelligence company raised an initial $75 billion on Thursday. Musk's company is expected to raise an additional $50 billion in follow-up funding.",
-            "date": "Mon, 15 Jun 2026 16:41:57 GMT",
+            "title": "SpaceX rises 12% to leapfrog Amazon, briefly top Microsoft in market cap",
+            "link": "https://www.cnbc.com/2026/06/16/spacex-stock-rally-market-cap.html",
+            "summary": "Elon Musk says Tesla \"might be able to reach approximately\" $1 trillion revenue in 2030. CEO Elon Musk said Sunday that the company \"might\" reach approximately$1 trillion in revenue by 2030. Musk said the company could be worth as much as $2 trillion.",
+            "date": "Tue, 16 Jun 2026 17:22:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,10 +14,46 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump is giving Warsh room to reshape the Fed",
-            "link": "https://www.cnbc.com/2026/06/15/trump-warsh-fed-reshape.html",
-            "summary": "The new Fed chair is on a political honeymoon with a U.S. president who has been the Fed's biggest opponent. The new chairman is expected to be in place by the end of the year.",
-            "date": "Mon, 15 Jun 2026 16:09:02 GMT",
+            "title": "Rivian laying off hundreds of workers amid R2 launch",
+            "link": "https://www.cnbc.com/2026/06/16/rivian-layoffs.html",
+            "summary": "Rivian said Tuesday it was laying off hundreds of workers, or less than 2% of its workforce. Rivian: The cuts will affect less than 1% of our workforce.",
+            "date": "Tue, 16 Jun 2026 17:52:39 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RIVN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
+            "link": "https://www.cnbc.com/2026/06/16/snap-unveils-2195-specs-ar-glasses-spiegel-bets-on-post-smartphone.html",
+            "summary": "Snap is launching its first AR glasses geared toward the broader public instead of developers. Snap is launching the glasses with a price tag of $99.",
+            "date": "Tue, 16 Jun 2026 17:52:13 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SNAP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "General Motors announces new defense partnership with Lockheed Martin",
+            "link": "https://www.cnbc.com/2026/06/16/general-motors-lockheed-martin.html",
+            "summary": "General Motors announced a new defense partnership with Lockheed Martin. The move comes as the U.S. ramps up its production of weapons. General Motors is a major supplier of parts to Lockheed Martin and other defense contractors.",
+            "date": "Tue, 16 Jun 2026 17:20:18 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GM",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Trump signals he could send details of Iran deal to Congress",
+            "link": "https://www.cnbc.com/2026/06/16/trump-iran-deal-congress.html",
+            "summary": "The peace deal announced Sunday is meeting lukewarm reactions from Congress, including some allies of President Donald Trump. The peace deal was announced Sunday by President Barack Obama and French President Francois Hollande.",
+            "date": "Tue, 16 Jun 2026 17:31:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,99 +62,63 @@
             "impact": "Neutral"
         },
         {
-            "title": "Vance says 'a lot' of Iran deal details to figure out, but U.S. has 'all the cards'",
-            "link": "https://www.cnbc.com/2026/06/15/vance-iran-deal-negotiations-nuclear.html",
-            "summary": "Vance: America has \"all the cards\" in subsequent talks with Iran. Vance on CNBC's \"Squawk Box\" expressed confidence that America has all the cards.",
-            "date": "Mon, 15 Jun 2026 17:09:11 GMT",
+            "title": "Chicken tenders are taking over the world, and KFC is rushing to keep up",
+            "link": "https://www.marketwatch.com/story/chicken-tenders-are-taking-over-the-world-and-kfc-is-rushing-to-keep-up-3b637c99?mod=mw_rss_topstories",
+            "summary": "Chicken sandwiches can be easily eaten in the car. They can be made with chicken tenders, not bone-in wings. The sandwiches can also be made to order, not to be served.",
+            "date": "Tue, 16 Jun 2026 17:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EIRRX",
+            "stock_ticker": "CCC29059-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Fox to buy streaming device maker Roku for $22 billion",
-            "link": "https://www.cnbc.com/2026/06/15/fox-to-buy-roku.html",
-            "summary": "Fox, the owner of the news and sports networks, said it has reached a deal to acquire Roku for about $22 billion in enterprise value.",
-            "date": "Mon, 15 Jun 2026 13:58:38 GMT",
+            "title": "Global oil prices break below $80 for the first time since the Iran war began. Ships still aren’t passing through Hormuz.",
+            "link": "https://www.marketwatch.com/story/global-oil-prices-break-below-80-for-the-first-time-since-the-iran-war-began-ships-still-arent-passing-through-hormuz-83aa3e1e?mod=mw_rss_topstories",
+            "summary": "Only a fraction of normal tanker volumes are moving through the Strait of Hormuz, shipping data show. The Strait is a key shipping route between the Persian Gulf and the Red Sea.",
+            "date": "Tue, 16 Jun 2026 16:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FOX",
+            "stock_ticker": "COIN",
             "impact": "Neutral"
         },
         {
-            "title": "Anthropic to meet with Trump administration over Mythos dispute",
-            "link": "https://www.cnbc.com/2026/06/15/anthropic-mythos-trump-ai.html",
-            "summary": "Anthropic received an export control directive that ordered the company to suspend access to its latest AI models by any foreign national. Anthropic received a directive from the U.S. State Department.",
-            "date": "Mon, 15 Jun 2026 17:47:44 GMT",
+            "title": "America’s fertility rate has never been lower. Blame smartphones — and these 4 financial realities.",
+            "link": "https://www.marketwatch.com/story/americas-fertility-rate-has-never-been-lower-blame-smartphones-and-these-4-financial-realities-d58aa598?mod=mw_rss_topstories",
+            "summary": "Having as many children as families want requires “gender equality, economic stability, decent health and confidence in the future,” the report says.",
+            "date": "Tue, 16 Jun 2026 16:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ANTHROPIC39496-USD",
+            "stock_ticker": "LAC",
             "impact": "Neutral"
         },
         {
-            "title": "Social Security gave me conflicting answers about my cheating ex-husband’s record. What should I do?",
-            "link": "https://www.marketwatch.com/story/social-security-gave-me-conflicting-answers-about-my-cheating-former-husbands-record-what-should-i-do-ee7f1e56?mod=mw_rss_topstories",
-            "summary": "\"I was married to my former husband for 23 years. After repeated instances of infidelity, we divorced,\" she said. \"I am now single and I am very happy,\" she added.",
-            "date": "Mon, 15 Jun 2026 17:38:00 GMT",
+            "title": "I’m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?",
+            "link": "https://www.marketwatch.com/story/im-spending-170-000-to-upgrade-my-home-for-my-aging-parents-can-i-get-tax-breaks-3adf0236?mod=mw_rss_topstories",
+            "summary": "“Given that at least half of the remodeling cost is to accommodate my disabled mother, I’m wondering if some of this may be tax deductible,” she said.",
+            "date": "Tue, 16 Jun 2026 16:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "3929.T",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "My elderly mother and I own a home together. Will Medicaid force its sale?",
-            "link": "https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories",
-            "summary": "“My sister thinks Medicaid will take the house my mom and I own together,” she says. “I’m not worried about that. I just want my mom to be able to keep her house.”",
-            "date": "Mon, 15 Jun 2026 17:37:00 GMT",
+            "title": "These life-insurance policies are booming. Here’s who should — and shouldn’t — buy one.",
+            "link": "https://www.marketwatch.com/story/these-life-insurance-policies-are-booming-heres-who-should-and-shouldnt-buy-one-a1065882?mod=mw_rss_topstories",
+            "summary": "Indexed universal life insurance policies have a very specific purpose that can help families. If used correctly, they can be used to help families, if used correctly.",
+            "date": "Tue, 16 Jun 2026 16:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Social Security’s woes are well known, but Medicare is also facing a fiscal crisis — in just 7 years",
-            "link": "https://www.marketwatch.com/story/social-securitys-woes-are-well-known-but-medicare-is-also-facing-a-fiscal-crisis-in-just-7-years-a5915c6d?mod=mw_rss_topstories",
-            "summary": "Medicare Part A, which pays for inpatient hospital stays, would see an 11% payment cut. Part A pays for hospital stays in patients' homes.",
-            "date": "Mon, 15 Jun 2026 17:22:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "3929.T",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The chip-stock rally is back in full force — thanks to two big geopolitical developments",
-            "link": "https://www.marketwatch.com/story/the-chip-stock-rally-is-back-in-full-force-thanks-to-two-big-geopolitical-developments-4e3ec21d?mod=mw_rss_topstories",
-            "summary": "Anthropic's battle with the U.S. government could prompt a broadening of the AI buildout. Iran peace prospects are spurring gains for riskier stocks.",
-            "date": "Mon, 15 Jun 2026 16:33:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fiserv CEO flees after presiding over 71% stock drop in his short tenure",
-            "link": "https://www.marketwatch.com/story/fiserv-ceo-flees-after-presiding-over-71-stock-drop-in-his-short-tenure-b92b9270?mod=mw_rss_topstories",
-            "summary": "The financial-services company “continues to look strategically adrift,” an analyst says, as the stock falls further. The stock is down more than 10% this year, making it one of the worst performing S&P 500 stocks.",
-            "date": "Mon, 15 Jun 2026 16:25:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FIV.DE",
+            "stock_ticker": "0P0001YPM3.L",
             "impact": "Neutral"
         }
     ]
