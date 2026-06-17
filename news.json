@@ -1,59 +1,47 @@
 {
-    "date": "2026-06-16",
+    "date": "2026-06-17",
     "news": [
         {
-            "title": "SpaceX rises 12% to leapfrog Amazon, briefly top Microsoft in market cap",
-            "link": "https://www.cnbc.com/2026/06/16/spacex-stock-rally-market-cap.html",
-            "summary": "Elon Musk says Tesla \"might be able to reach approximately\" $1 trillion revenue in 2030. CEO Elon Musk said Sunday that the company \"might\" reach approximately$1 trillion in revenue by 2030. Musk said the company could be worth as much as $2 trillion.",
-            "date": "Tue, 16 Jun 2026 17:22:14 GMT",
+            "title": "Watch: Trump speaks at G7 summit after threatening Iran",
+            "link": "https://www.cnbc.com/2026/06/17/trump-us-iran-deal-g7.html",
+            "summary": "U.S. President Donald Trump says he will \"go right back to dropping bombs\" if he doesn't like the Iran deal. Trump made the comments at the G7 conference.",
+            "date": "Wed, 17 Jun 2026 16:17:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPCX",
+            "stock_ticker": "WOSGL.XC",
             "impact": "Neutral"
         },
         {
-            "title": "Rivian laying off hundreds of workers amid R2 launch",
-            "link": "https://www.cnbc.com/2026/06/16/rivian-layoffs.html",
-            "summary": "Rivian said Tuesday it was laying off hundreds of workers, or less than 2% of its workforce. Rivian: The cuts will affect less than 1% of our workforce.",
-            "date": "Tue, 16 Jun 2026 17:52:39 GMT",
+            "title": "JetBlue to reduce Newark, LaGuardia footprint as it forges ahead in Fort Lauderdale",
+            "link": "https://www.cnbc.com/2026/06/17/jetblue-to-reduce-newark-laguardia-footprint-as-it-expands-in-florida.html",
+            "summary": "JetBlue is planning to cut crew bases at Newark Liberty International Airport in New Jersey and New York's LaGuardia Airport. JetBlue plans to cut staff bases at New Jersey, New York airports.",
+            "date": "Wed, 17 Jun 2026 16:18:13 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RIVN",
+            "stock_ticker": "JBLU",
             "impact": "Neutral"
         },
         {
-            "title": "Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future",
-            "link": "https://www.cnbc.com/2026/06/16/snap-unveils-2195-specs-ar-glasses-spiegel-bets-on-post-smartphone.html",
-            "summary": "Snap is launching its first AR glasses geared toward the broader public instead of developers. Snap is launching the glasses with a price tag of $99.",
-            "date": "Tue, 16 Jun 2026 17:52:13 GMT",
+            "title": "SpaceX stock sinks 5%, losing momentum after a multiday rally",
+            "link": "https://www.cnbc.com/2026/06/17/spacex-stock-elon-musk-market-cap.html",
+            "summary": "Elon Musk's space and AI company has seen its stock surge since its blockbuster IPO on Friday. The company has raised more than $1 billion in its first two days of trading.",
+            "date": "Wed, 17 Jun 2026 14:55:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SNAP",
+            "stock_ticker": "XSPC",
             "impact": "Neutral"
         },
         {
-            "title": "General Motors announces new defense partnership with Lockheed Martin",
-            "link": "https://www.cnbc.com/2026/06/16/general-motors-lockheed-martin.html",
-            "summary": "General Motors announced a new defense partnership with Lockheed Martin. The move comes as the U.S. ramps up its production of weapons. General Motors is a major supplier of parts to Lockheed Martin and other defense contractors.",
-            "date": "Tue, 16 Jun 2026 17:20:18 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GM",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Trump signals he could send details of Iran deal to Congress",
-            "link": "https://www.cnbc.com/2026/06/16/trump-iran-deal-congress.html",
-            "summary": "The peace deal announced Sunday is meeting lukewarm reactions from Congress, including some allies of President Donald Trump. The peace deal was announced Sunday by President Barack Obama and French President Francois Hollande.",
-            "date": "Tue, 16 Jun 2026 17:31:18 GMT",
+            "title": "Trump sabotages Senate bid to fast-track Clayton as DNI",
+            "link": "https://www.cnbc.com/2026/06/17/jay-clayton-dni-hearing-congress-trump-cancel.html",
+            "summary": "Any delay, and continuation of acting DNI Bill Pulte in the role, is likely to endanger the reauthorization of a key U.S. intelligence authority.",
+            "date": "Wed, 17 Jun 2026 15:50:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,63 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "Chicken tenders are taking over the world, and KFC is rushing to keep up",
-            "link": "https://www.marketwatch.com/story/chicken-tenders-are-taking-over-the-world-and-kfc-is-rushing-to-keep-up-3b637c99?mod=mw_rss_topstories",
-            "summary": "Chicken sandwiches can be easily eaten in the car. They can be made with chicken tenders, not bone-in wings. The sandwiches can also be made to order, not to be served.",
-            "date": "Tue, 16 Jun 2026 17:30:00 GMT",
+            "title": "Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",
+            "link": "https://www.cnbc.com/2026/06/17/allbirds-bird-ai-smartbird-ceo.html",
+            "summary": "Allbirds became NewBird AI in April and said it would trade shoes for AI compute infrastructure. Allbirds is a maker of shoes with an artificial intelligence program called Allbirds AI.",
+            "date": "Wed, 17 Jun 2026 15:44:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CCC29059-USD",
+            "stock_ticker": "BIRD",
             "impact": "Neutral"
         },
         {
-            "title": "Global oil prices break below $80 for the first time since the Iran war began. Ships still aren’t passing through Hormuz.",
-            "link": "https://www.marketwatch.com/story/global-oil-prices-break-below-80-for-the-first-time-since-the-iran-war-began-ships-still-arent-passing-through-hormuz-83aa3e1e?mod=mw_rss_topstories",
-            "summary": "Only a fraction of normal tanker volumes are moving through the Strait of Hormuz, shipping data show. The Strait is a key shipping route between the Persian Gulf and the Red Sea.",
-            "date": "Tue, 16 Jun 2026 16:50:00 GMT",
+            "title": "Retail investors have been buying more SpaceX shares than all of the ‘Magnificent Seven’ combined",
+            "link": "https://www.marketwatch.com/story/retail-investors-have-been-buying-more-spacex-shares-than-all-of-the-magnificent-seven-combined-877f6667?mod=mw_rss_topstories",
+            "summary": "Retail investors net bought $369.8 million worth of SpaceX stock in the first three days of trading. The company is expected to go public later this year.",
+            "date": "Wed, 17 Jun 2026 16:29:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COIN",
+            "stock_ticker": "BPTRX",
             "impact": "Neutral"
         },
         {
-            "title": "America’s fertility rate has never been lower. Blame smartphones — and these 4 financial realities.",
-            "link": "https://www.marketwatch.com/story/americas-fertility-rate-has-never-been-lower-blame-smartphones-and-these-4-financial-realities-d58aa598?mod=mw_rss_topstories",
-            "summary": "Having as many children as families want requires “gender equality, economic stability, decent health and confidence in the future,” the report says.",
-            "date": "Tue, 16 Jun 2026 16:40:00 GMT",
+            "title": "The $124 trillion Great Wealth Transfer is real — but the IRS or a nursing home might get your family’s money first",
+            "link": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
+            "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
+            "date": "Wed, 17 Jun 2026 15:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LAC",
+            "stock_ticker": "BITA",
             "impact": "Neutral"
         },
         {
-            "title": "I’m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?",
-            "link": "https://www.marketwatch.com/story/im-spending-170-000-to-upgrade-my-home-for-my-aging-parents-can-i-get-tax-breaks-3adf0236?mod=mw_rss_topstories",
-            "summary": "“Given that at least half of the remodeling cost is to accommodate my disabled mother, I’m wondering if some of this may be tax deductible,” she said.",
-            "date": "Tue, 16 Jun 2026 16:28:00 GMT",
+            "title": "We read the Social Security and Medicare trustees reports. If you’re not worried, you should be.",
+            "link": "https://www.marketwatch.com/story/we-read-the-social-security-and-medicare-trustees-reports-if-youre-not-worried-you-should-be-ee1293e2?mod=mw_rss_topstories",
+            "summary": "The GOP is trying to pass a bill that would cut Social Security and other benefits. The bill would also cut the number of people who are eligible for benefits.",
+            "date": "Wed, 17 Jun 2026 15:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "WDC",
             "impact": "Neutral"
         },
         {
-            "title": "These life-insurance policies are booming. Here’s who should — and shouldn’t — buy one.",
-            "link": "https://www.marketwatch.com/story/these-life-insurance-policies-are-booming-heres-who-should-and-shouldnt-buy-one-a1065882?mod=mw_rss_topstories",
-            "summary": "Indexed universal life insurance policies have a very specific purpose that can help families. If used correctly, they can be used to help families, if used correctly.",
-            "date": "Tue, 16 Jun 2026 16:10:00 GMT",
+            "title": "Americans’ 401(k) balances hit record levels last year. See how you compare.",
+            "link": "https://www.marketwatch.com/story/americans-401-k-balances-hit-record-levels-last-year-see-how-you-compare-facd32c4?mod=mw_rss_topstories",
+            "summary": "Vanguard’s latest “How America Saves” report says 2013 was a very good year for most workplace retirement savers.",
+            "date": "Wed, 17 Jun 2026 15:08:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001YPM3.L",
+            "stock_ticker": "HCKTX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s how stocks performed under different Fed chairs — and how much influence Warsh really has",
+            "link": "https://www.marketwatch.com/story/heres-how-stocks-performed-under-different-fed-chairs-and-how-much-influence-warsh-really-has-e8a10d87?mod=mw_rss_topstories",
+            "summary": "A look at stock-market performance under Fed chairs going back to the 1930s. The U.S. stock market is up more than 7% this year. The S&P 500 is up about 2%.",
+            "date": "Wed, 17 Jun 2026 15:08:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         }
     ]
