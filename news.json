@@ -1,47 +1,35 @@
 {
-    "date": "2026-06-17",
+    "date": "2026-06-18",
     "news": [
         {
-            "title": "Watch: Trump speaks at G7 summit after threatening Iran",
-            "link": "https://www.cnbc.com/2026/06/17/trump-us-iran-deal-g7.html",
-            "summary": "U.S. President Donald Trump says he will \"go right back to dropping bombs\" if he doesn't like the Iran deal. Trump made the comments at the G7 conference.",
-            "date": "Wed, 17 Jun 2026 16:17:46 GMT",
+            "title": "Oil prices fall after Vance says more than 12 million barrels exit Strait of Hormuz",
+            "link": "https://www.cnbc.com/2026/06/18/oil-prices-today-wti-brent.html",
+            "summary": "Oil declines as Mideast peace prospects rise following U.S.-Iran deal. Oil declines asMideastpeace prospects rise. U.N. secretary-general: \"The world is not at war with Iran\"",
+            "date": "Thu, 18 Jun 2026 15:59:43 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WOSGL.XC",
+            "stock_ticker": "CL=F",
             "impact": "Neutral"
         },
         {
-            "title": "JetBlue to reduce Newark, LaGuardia footprint as it forges ahead in Fort Lauderdale",
-            "link": "https://www.cnbc.com/2026/06/17/jetblue-to-reduce-newark-laguardia-footprint-as-it-expands-in-florida.html",
-            "summary": "JetBlue is planning to cut crew bases at Newark Liberty International Airport in New Jersey and New York's LaGuardia Airport. JetBlue plans to cut staff bases at New Jersey, New York airports.",
-            "date": "Wed, 17 Jun 2026 16:18:13 GMT",
+            "title": "Vance says U.S. isn’t giving Iran ‘a cent’ as he defends Trump peace deal",
+            "link": "https://www.cnbc.com/2026/06/18/vance-iran-war-memo-oil-gas.html",
+            "summary": "\"The only way the Iranians get any of these resources ... is if they comply fully\" with the terms of the deal, Vice President JD Vance says.",
+            "date": "Thu, 18 Jun 2026 16:10:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JBLU",
+            "stock_ticker": "XAGG",
             "impact": "Neutral"
         },
         {
-            "title": "SpaceX stock sinks 5%, losing momentum after a multiday rally",
-            "link": "https://www.cnbc.com/2026/06/17/spacex-stock-elon-musk-market-cap.html",
-            "summary": "Elon Musk's space and AI company has seen its stock surge since its blockbuster IPO on Friday. The company has raised more than $1 billion in its first two days of trading.",
-            "date": "Wed, 17 Jun 2026 14:55:46 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "XSPC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump sabotages Senate bid to fast-track Clayton as DNI",
-            "link": "https://www.cnbc.com/2026/06/17/jay-clayton-dni-hearing-congress-trump-cancel.html",
-            "summary": "Any delay, and continuation of acting DNI Bill Pulte in the role, is likely to endanger the reauthorization of a key U.S. intelligence authority.",
-            "date": "Wed, 17 Jun 2026 15:50:38 GMT",
+            "title": "Trump bid to fire Fed's Lisa Cook cost her more than $1M in legal, security costs: Filing",
+            "link": "https://www.cnbc.com/2026/06/18/trump-federal-reserve-lisa-cook-security-filing.html",
+            "summary": "A financial disclosure from Federal Reserve Governor Lisa Cook details large legal and security expenses. Cook's financial disclosure details largeLegal and Security expenses. Lisa Cook's Financial Disclosure: A Financial Disclosure from Lisa Cook: A financial disclosure.",
+            "date": "Thu, 18 Jun 2026 15:37:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,75 +38,87 @@
             "impact": "Neutral"
         },
         {
-            "title": "Allbirds continues AI pivot with name change and CEO hire, sending stock soaring",
-            "link": "https://www.cnbc.com/2026/06/17/allbirds-bird-ai-smartbird-ceo.html",
-            "summary": "Allbirds became NewBird AI in April and said it would trade shoes for AI compute infrastructure. Allbirds is a maker of shoes with an artificial intelligence program called Allbirds AI.",
-            "date": "Wed, 17 Jun 2026 15:44:24 GMT",
+            "title": "OPEC chief dismisses IEA supply glut forecast as 'critical' Strait of Hormuz reopens",
+            "link": "https://www.cnbc.com/2026/06/18/opec-iea-supply-glut-forecast-critical-strait-hormuz-reopens-oil.html",
+            "summary": "The IEA said on Wednesday that a lasting resolution to the conflict could drive a surge in supply volumes. It could trigger a major oil overhang next year.",
+            "date": "Thu, 18 Jun 2026 15:19:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BIRD",
+            "stock_ticker": "1597.TW",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Bonkers SpaceX stats that show how staggering the money movement has been",
+            "link": "https://www.cnbc.com/2026/06/18/5-wild-spacex-stats-from-the-companys-first-week-on-the-nasdaq.html",
+            "summary": "SpaceX's first few days of trading have been filled with superlatives, from trading volume to the size of the company's first acquisition.",
+            "date": "Thu, 18 Jun 2026 15:03:14 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BNKRS-USD",
+            "impact": "Bullish"
+        },
+        {
+            "title": "These stocks are in trouble now that Kevin Warsh removed the market’s guardrails",
+            "link": "https://www.marketwatch.com/story/these-stocks-are-in-trouble-now-that-kevin-warsh-removed-the-markets-guardrails-f7f1e51c?mod=mw_rss_topstories",
+            "summary": "The new Fed chief is ditching the central bank’s playbook. He is leaving your portfolio flying blind. The new chief is leaving the Fed’S playbook — leaving you flying blind as a portfolio manager.",
+            "date": "Thu, 18 Jun 2026 16:19:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001YPM3.L",
             "impact": "Neutral"
         },
         {
-            "title": "Retail investors have been buying more SpaceX shares than all of the ‘Magnificent Seven’ combined",
-            "link": "https://www.marketwatch.com/story/retail-investors-have-been-buying-more-spacex-shares-than-all-of-the-magnificent-seven-combined-877f6667?mod=mw_rss_topstories",
-            "summary": "Retail investors net bought $369.8 million worth of SpaceX stock in the first three days of trading. The company is expected to go public later this year.",
-            "date": "Wed, 17 Jun 2026 16:29:00 GMT",
+            "title": "Fed Chair Kevin Warsh wants to get inflation under control. That could be bad news for home buyers seeking lower mortgage rates.",
+            "link": "https://www.marketwatch.com/story/fed-chair-kevin-warsh-wants-to-get-inflation-under-control-that-could-be-bad-news-for-home-buyers-seeking-lower-mortgage-rates-99fb4aad?mod=mw_rss_topstories",
+            "summary": "The Federal Reserve is in a “new era,’ but home buyers are facing the same old affordability challenges. The Federal Reserve says it's in a new era, but homebuyers are facing same old challenges.",
+            "date": "Thu, 18 Jun 2026 16:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BPTRX",
+            "stock_ticker": "ZQ=F",
             "impact": "Neutral"
         },
         {
-            "title": "The $124 trillion Great Wealth Transfer is real — but the IRS or a nursing home might get your family’s money first",
-            "link": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
-            "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
-            "date": "Wed, 17 Jun 2026 15:45:00 GMT",
+            "title": "Gen Z’s ‘chicken before the egg’ credit problem: How to build your score when lenders keep saying no",
+            "link": "https://www.marketwatch.com/story/gen-z-needs-to-build-credit-to-start-adulting-but-half-say-they-cant-get-it-heres-how-to-start-ef3e100c?mod=mw_rss_topstories",
+            "summary": "Half of Gen Z-ers say they don’t have enough access to the credit they need to reach their financial goals. Half of GenZ-ers also say they have too much debt.",
+            "date": "Thu, 18 Jun 2026 15:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BITA",
+            "stock_ticker": "GEN",
             "impact": "Neutral"
         },
         {
-            "title": "We read the Social Security and Medicare trustees reports. If you’re not worried, you should be.",
-            "link": "https://www.marketwatch.com/story/we-read-the-social-security-and-medicare-trustees-reports-if-youre-not-worried-you-should-be-ee1293e2?mod=mw_rss_topstories",
-            "summary": "The GOP is trying to pass a bill that would cut Social Security and other benefits. The bill would also cut the number of people who are eligible for benefits.",
-            "date": "Wed, 17 Jun 2026 15:37:00 GMT",
+            "title": "My child was given a summer cabin. Should I pay for the $10,000-a-year maintenance and taxes?",
+            "link": "https://www.marketwatch.com/story/my-child-was-given-a-summer-cabin-should-i-pay-for-the-10-000-a-year-maintenance-and-taxes-5dc5cace?mod=mw_rss_topstories",
+            "summary": "“When the time comes, there will be a substantial inheritance to be split 50/50 between our two children,” he said.",
+            "date": "Thu, 18 Jun 2026 15:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WDC",
+            "stock_ticker": "SGDMYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "Americans’ 401(k) balances hit record levels last year. See how you compare.",
-            "link": "https://www.marketwatch.com/story/americans-401-k-balances-hit-record-levels-last-year-see-how-you-compare-facd32c4?mod=mw_rss_topstories",
-            "summary": "Vanguard’s latest “How America Saves” report says 2013 was a very good year for most workplace retirement savers.",
-            "date": "Wed, 17 Jun 2026 15:08:00 GMT",
+            "title": "Trump’s Iran agreement is a massive buy signal for stocks",
+            "link": "https://www.marketwatch.com/story/trumps-iran-agreement-changes-the-game-for-investors-these-are-the-two-sectors-to-buy-right-now-0705bc62?mod=mw_rss_topstories",
+            "summary": "The end of the conflict is a massive buy signal for stocks. Hyperventilating experts were wrong about the Iran war. It's time to buy the dip.",
+            "date": "Thu, 18 Jun 2026 15:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HCKTX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here’s how stocks performed under different Fed chairs — and how much influence Warsh really has",
-            "link": "https://www.marketwatch.com/story/heres-how-stocks-performed-under-different-fed-chairs-and-how-much-influence-warsh-really-has-e8a10d87?mod=mw_rss_topstories",
-            "summary": "A look at stock-market performance under Fed chairs going back to the 1930s. The U.S. stock market is up more than 7% this year. The S&P 500 is up about 2%.",
-            "date": "Wed, 17 Jun 2026 15:08:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "RANI3F.SA",
             "impact": "Neutral"
         }
     ]
