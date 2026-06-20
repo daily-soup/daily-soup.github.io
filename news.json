@@ -1,16 +1,40 @@
 {
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "news": [
         {
-            "title": "Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane",
-            "link": "https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html",
-            "summary": "The U.S.-Iran deal has raised questions about how the Strait of Hormuz will be governed after the toll-free period ends.",
-            "date": "Fri, 19 Jun 2026 15:48:04 GMT",
+            "title": "AI buildout gives tech investors new reasons to watch bond market",
+            "link": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
+            "summary": "Tech giants are depleting cash reserves and raising debt in their ambitious data center buildouts. The dynamic is forcing investors to watch interest rates.",
+            "date": "Sat, 20 Jun 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "AI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The budget airline model in the U.S. is running out of runway",
+            "link": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
+            "summary": "Spirit's bankruptcy as United and Delta fly high suggests there's more to success in airline industry than low fares, and failure isn't about jet fuel spikes.",
+            "date": "Sat, 20 Jun 2026 14:58:19 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Bullish"
+        },
+        {
+            "title": "SNAP restrictions could change what shoppers buy — and food giants are watching",
+            "link": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html",
+            "summary": " SNAP food restrictions are spreading to more states, pressuring major food and beverage companies. Consumers shift spending away from soda, candy and processed foods.",
+            "date": "Sat, 20 Jun 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SNAP",
             "impact": "Neutral"
         },
         {
@@ -38,34 +62,22 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios",
-            "link": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html",
-            "summary": "Trump said he negotiated the deal to prevent the conflict from triggering a global depression. Trump said in an interview with Axios on Thursday evening stateside that he negotiated it to prevent a global Depression.",
-            "date": "Fri, 19 Jun 2026 02:00:46 GMT",
+            "title": "Americans’ 401(k) balances hit record levels last year. See how you compare.",
+            "link": "https://www.marketwatch.com/story/americans-401-k-balances-hit-record-levels-last-year-see-how-you-compare-facd32c4?mod=mw_rss_topstories",
+            "summary": "Vanguard’s latest “How America Saves” report says 2013 was a very good year for most workplace retirement savers.",
+            "date": "Sat, 20 Jun 2026 14:47:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump DNI pick Pulte poised to get access to U.S. intelligence despite congressional bid to thwart",
-            "link": "https://www.cnbc.com/2026/06/18/pulte-trump-dni-us-intelligence-congress.html",
-            "summary": "Bill Pulte is set to take on the role. President Donald Trump halted his nomination of U.S. Attorney Jay Clayton as director of national intelligence.",
-            "date": "Thu, 18 Jun 2026 18:49:36 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "HCKAX",
             "impact": "Neutral"
         },
         {
             "title": "‘We are habitually frugal’: My wife and I have money. How do we help our children without ruining their independence?",
             "link": "https://www.marketwatch.com/story/we-are-habitually-frugal-my-wife-and-i-have-money-how-do-we-help-our-children-without-ruining-their-independence-a1e30cec?mod=mw_rss_topstories",
             "summary": "“Partly due to some mental-health issues, they may continue to go through life living paycheck to paycheck, or worse,” she says.",
-            "date": "Fri, 19 Jun 2026 15:49:00 GMT",
+            "date": "Sat, 20 Jun 2026 14:42:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
-            "link": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-            "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries,” she says.",
-            "date": "Fri, 19 Jun 2026 14:10:00 GMT",
+            "title": "Tesla booted from the ‘Magnificent Seven’ by a top fund manager. Here is the tech giant he’s crowned.",
+            "link": "https://www.marketwatch.com/story/a-veteran-investor-is-kicking-tesla-out-of-the-magnificent-seven-replacing-it-with-this-tech-giant-a2828cec?mod=mw_rss_topstories",
+            "summary": "T. Rowe Price fund manager David Giroux says Big Tech isn’t in a bubble, but there’s value in healthcare and utilities.",
+            "date": "Sat, 20 Jun 2026 14:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WDC",
+            "stock_ticker": "TSLA",
             "impact": "Neutral"
         },
         {
-            "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it",
-            "link": "https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories",
-            "summary": "The health damage of loneliness is similar to heavy smoking and obesity, experts say. Loneliness is linked to increased risk of depression, anxiety and cardiovascular disease, they say.",
-            "date": "Fri, 19 Jun 2026 14:00:00 GMT",
+            "title": "Employers to college students: Never mind that 4.0 GPA. Go out and get a summer job.",
+            "link": "https://www.marketwatch.com/story/employers-to-college-students-skip-the-perfect-gpa-and-go-get-a-summer-job-e9ca5530?mod=mw_rss_topstories",
+            "summary": "College students with any sort of work experience on their résumés are twice as likely to be employed shortly after graduating, according to a new study. The study found that college students with work experience are more likely to get a job.",
+            "date": "Sat, 20 Jun 2026 14:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "EIG",
             "impact": "Neutral"
         },
         {
-            "title": "Chip stocks are setting records, but this hidden chart pattern says momentum favors the bears",
-            "link": "https://www.marketwatch.com/story/chip-stocks-are-setting-records-but-this-hidden-chart-pattern-says-momentum-favors-the-bears-5ba98c10?mod=mw_rss_topstories",
-            "summary": "The SOXX’s RSI indicator has fallen further below the overbought threshold despite prices making record highs. History suggests that's a bad sign.",
-            "date": "Fri, 19 Jun 2026 13:56:00 GMT",
+            "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
+            "link": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
+            "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
+            "date": "Sat, 20 Jun 2026 14:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CMG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
-            "link": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-            "summary": "\"I'm afraid I’m in a bad place,\" he says. \"I’ve been through a lot. I've had a lot of ups and downs\"",
-            "date": "Fri, 19 Jun 2026 13:11:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ILMN",
+            "stock_ticker": "SR3=F",
             "impact": "Neutral"
         }
     ]
