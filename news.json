@@ -1,6 +1,54 @@
 {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "news": [
+        {
+            "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
+            "link": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
+            "summary": "The first big announced changes point toward a quiet revolution. Task forces set up to rethink virtually everything done at the Fed. The first big changes are expected to be announced in the coming months.",
+            "date": "Sun, 21 Jun 2026 11:14:02 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "3962.T",
+            "impact": "Bullish"
+        },
+        {
+            "title": "No one wants AI data centers on Earth. Do they make sense in space?",
+            "link": "https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html",
+            "summary": "Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.",
+            "date": "Sun, 21 Jun 2026 13:33:34 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NOK=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Raising the minimum wage has been a big political winner. Now it's running into resistance",
+            "link": "https://www.cnbc.com/2026/06/21/raise-minimum-wage-inflation-politics.html",
+            "summary": "Raising the minimum wage has been a progressive policy winner at the ballot box. But recent losses suggest an economic mood slowing its political momentum.",
+            "date": "Sun, 21 Jun 2026 14:07:29 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Top Wall Street analysts like these 3 dividend stocks for solid returns",
+            "link": "https://www.cnbc.com/2026/06/21/top-wall-street-analysts-like-these-3-dividend-stocks-for-solid-returns.html",
+            "summary": "TipRanks discusses three dividend-paying stocks. TipRanks: Three dividend- paying stocks to buy now. Click through the gallery to see which stocks are on the list.",
+            "date": "Sun, 21 Jun 2026 11:19:06 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOP",
+            "impact": "Neutral"
+        },
         {
             "title": "AI buildout gives tech investors new reasons to watch bond market",
             "link": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
@@ -14,70 +62,10 @@
             "impact": "Neutral"
         },
         {
-            "title": "The budget airline model in the U.S. is running out of runway",
-            "link": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
-            "summary": "Spirit's bankruptcy as United and Delta fly high suggests there's more to success in airline industry than low fares, and failure isn't about jet fuel spikes.",
-            "date": "Sat, 20 Jun 2026 14:58:19 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "SNAP restrictions could change what shoppers buy — and food giants are watching",
-            "link": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html",
-            "summary": " SNAP food restrictions are spreading to more states, pressuring major food and beverage companies. Consumers shift spending away from soda, candy and processed foods.",
-            "date": "Sat, 20 Jun 2026 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SNAP",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders",
-            "link": "https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html",
-            "summary": "SpaceX shares were up 37% after its historic debut last week. The company offered shares at a set price of $135. SpaceX shares are now valued at more than $1 billion.",
-            "date": "Fri, 19 Jun 2026 10:47:57 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GATSBY33970-USD",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Memory crisis hits such extremes that 'even Apple can't be safe'",
-            "link": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html",
-            "summary": "Apple CEO Tim Cook called an \"unsustainable\" memory shortage. Apple appears poised to take the rare step of increasing prices to deal with the shortage.",
-            "date": "Fri, 19 Jun 2026 12:00:02 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DRAM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Americans’ 401(k) balances hit record levels last year. See how you compare.",
-            "link": "https://www.marketwatch.com/story/americans-401-k-balances-hit-record-levels-last-year-see-how-you-compare-facd32c4?mod=mw_rss_topstories",
-            "summary": "Vanguard’s latest “How America Saves” report says 2013 was a very good year for most workplace retirement savers.",
-            "date": "Sat, 20 Jun 2026 14:47:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HCKAX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘We are habitually frugal’: My wife and I have money. How do we help our children without ruining their independence?",
-            "link": "https://www.marketwatch.com/story/we-are-habitually-frugal-my-wife-and-i-have-money-how-do-we-help-our-children-without-ruining-their-independence-a1e30cec?mod=mw_rss_topstories",
-            "summary": "“Partly due to some mental-health issues, they may continue to go through life living paycheck to paycheck, or worse,” she says.",
-            "date": "Sat, 20 Jun 2026 14:42:00 GMT",
+            "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
+            "link": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
+            "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries,” she says.",
+            "date": "Sun, 21 Jun 2026 15:01:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "Tesla booted from the ‘Magnificent Seven’ by a top fund manager. Here is the tech giant he’s crowned.",
-            "link": "https://www.marketwatch.com/story/a-veteran-investor-is-kicking-tesla-out-of-the-magnificent-seven-replacing-it-with-this-tech-giant-a2828cec?mod=mw_rss_topstories",
-            "summary": "T. Rowe Price fund manager David Giroux says Big Tech isn’t in a bubble, but there’s value in healthcare and utilities.",
-            "date": "Sat, 20 Jun 2026 14:38:00 GMT",
+            "title": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?",
+            "link": "https://www.marketwatch.com/story/my-two-sons-will-inherit-a-30-000-annuity-from-their-grandmother-what-should-i-do-with-the-money-8882f396?mod=mw_rss_topstories",
+            "summary": "“My understanding is that they have five years to withdraw the money,” he said. “I don’t know if they’re going to be able to do that.”",
+            "date": "Sun, 21 Jun 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSLA",
+            "stock_ticker": "SGDMYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "Employers to college students: Never mind that 4.0 GPA. Go out and get a summer job.",
-            "link": "https://www.marketwatch.com/story/employers-to-college-students-skip-the-perfect-gpa-and-go-get-a-summer-job-e9ca5530?mod=mw_rss_topstories",
-            "summary": "College students with any sort of work experience on their résumés are twice as likely to be employed shortly after graduating, according to a new study. The study found that college students with work experience are more likely to get a job.",
-            "date": "Sat, 20 Jun 2026 14:20:00 GMT",
+            "title": "Micron’s earnings are a must-watch market event — with profit growth approaching 1,000%",
+            "link": "https://www.marketwatch.com/story/microns-earnings-are-a-must-watch-market-event-with-profit-growth-approaching-1-000-78ec4549?mod=mw_rss_topstories",
+            "summary": "Micron’s massive growth is “coming at nearly pure profit,’’ says analyst. Micron is starting to have real implications for the S&amp;P 500.",
+            "date": "Sun, 21 Jun 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EIG",
+            "stock_ticker": "20MICRONS.NS",
             "impact": "Neutral"
         },
         {
-            "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
-            "link": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
-            "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
-            "date": "Sat, 20 Jun 2026 14:17:00 GMT",
+            "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
+            "link": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
+            "summary": "Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does, and past rate-hike cycles can be a guide.",
+            "date": "Sun, 21 Jun 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SR3=F",
+            "stock_ticker": "S2819.MC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘We are habitually frugal’: My wife and I have money. How do we help our children without ruining their independence?",
+            "link": "https://www.marketwatch.com/story/we-are-habitually-frugal-my-wife-and-i-have-money-how-do-we-help-our-children-without-ruining-their-independence-a1e30cec?mod=mw_rss_topstories",
+            "summary": "“Partly due to some mental-health issues, they may continue to go through life living paycheck to paycheck, or worse,” she says.",
+            "date": "Sun, 21 Jun 2026 12:45:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WDC",
             "impact": "Neutral"
         }
     ]
