@@ -1,35 +1,71 @@
 {
-    "date": "2026-06-21",
+    "date": "2026-06-22",
     "news": [
         {
-            "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
-            "link": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
-            "summary": "The first big announced changes point toward a quiet revolution. Task forces set up to rethink virtually everything done at the Fed. The first big changes are expected to be announced in the coming months.",
-            "date": "Sun, 21 Jun 2026 11:14:02 GMT",
+            "title": "Alphabet paces for worst day in a year on AI concerns after high-profile exits",
+            "link": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
+            "summary": "Google parent Alphabet has seen consecutive high-profile artificial intelligence researchers leave the company. Google has also seen a number of its top engineers leave in recent months.",
+            "date": "Mon, 22 Jun 2026 17:17:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "3962.T",
-            "impact": "Bullish"
-        },
-        {
-            "title": "No one wants AI data centers on Earth. Do they make sense in space?",
-            "link": "https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html",
-            "summary": "Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.",
-            "date": "Sun, 21 Jun 2026 13:33:34 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NOK=X",
+            "stock_ticker": "GOOG",
             "impact": "Neutral"
         },
         {
-            "title": "Raising the minimum wage has been a big political winner. Now it's running into resistance",
-            "link": "https://www.cnbc.com/2026/06/21/raise-minimum-wage-inflation-politics.html",
-            "summary": "Raising the minimum wage has been a progressive policy winner at the ballot box. But recent losses suggest an economic mood slowing its political momentum.",
-            "date": "Sun, 21 Jun 2026 14:07:29 GMT",
+            "title": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion",
+            "link": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
+            "summary": "SpaceX has turned its Colossus data center into a commercial computing power platform. The company has landed recent deals with Anthropic, Google and Cursor.",
+            "date": "Mon, 22 Jun 2026 15:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPCX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Alan Greenspan, former chairman of the Fed, dies at age 100",
+            "link": "https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html",
+            "summary": "Alan Greenspan presided over the Federal Reserve for 19 years under four presidents. Greenspan mastered the art of obfuscation known as Fedspeak.",
+            "date": "Mon, 22 Jun 2026 14:39:38 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DNY.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SpaceX stock falls 9%, pacing for third-straight day of losses after red-hot IPO start",
+            "link": "https://www.cnbc.com/2026/06/22/spacex-stock-ipo-rally-selloff.html",
+            "summary": "A rally following the company's record breaking IPO on June 12 has cooled, with stock dropping the past two full days of trading. The company's stock has dropped more than 20% since the IPO.",
+            "date": "Mon, 22 Jun 2026 15:57:18 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPCX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Treasury Department authorizes Iranian oil sales through August",
+            "link": "https://www.cnbc.com/2026/06/22/treasury-iran-oil-sales.html",
+            "summary": "Iranian supertankers have switched on their transponders, after going dark during the war. Supertankers depart the Persian Gulf loaded with oil.",
+            "date": "Mon, 22 Jun 2026 16:07:14 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TLT",
+            "impact": "Bullish"
+        },
+        {
+            "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it",
+            "link": "https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories",
+            "summary": "The health damage of loneliness is similar to heavy smoking and obesity, experts say. Loneliness is linked to increased risk of depression, anxiety and cardiovascular disease, they say.",
+            "date": "Mon, 22 Jun 2026 17:24:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,88 +74,52 @@
             "impact": "Neutral"
         },
         {
-            "title": "Top Wall Street analysts like these 3 dividend stocks for solid returns",
-            "link": "https://www.cnbc.com/2026/06/21/top-wall-street-analysts-like-these-3-dividend-stocks-for-solid-returns.html",
-            "summary": "TipRanks discusses three dividend-paying stocks. TipRanks: Three dividend- paying stocks to buy now. Click through the gallery to see which stocks are on the list.",
-            "date": "Sun, 21 Jun 2026 11:19:06 GMT",
+            "title": "China’s weird new economic spark: toy elves and robocops",
+            "link": "https://www.marketwatch.com/story/chinas-new-economic-drivers-a-sad-toy-elf-and-a-robot-police-force-8759daf9?mod=mw_rss_topstories",
+            "summary": "Young Chinese aren’t buying status symbols. They’re spending money on things that make them feel something — anything. It’s not about status symbols, but about making people feel something.",
+            "date": "Mon, 22 Jun 2026 17:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "002453.SZ",
             "impact": "Neutral"
         },
         {
-            "title": "AI buildout gives tech investors new reasons to watch bond market",
-            "link": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
-            "summary": "Tech giants are depleting cash reserves and raising debt in their ambitious data center buildouts. The dynamic is forcing investors to watch interest rates.",
-            "date": "Sat, 20 Jun 2026 12:00:01 GMT",
+            "title": "Alphabet sees $269 billion market-cap wipeout as investors fear it’s losing the war for AI talent",
+            "link": "https://www.marketwatch.com/story/alphabet-sees-269-billion-market-cap-wipeout-as-investors-fear-its-losing-the-war-for-ai-talent-497aa378?mod=mw_rss_topstories",
+            "summary": "Two AI leaders, including a Nobel laureate, recently said they would leave Google for rival labs. Two AI leaders have said they will leave Google to join rival labs for AI.",
+            "date": "Mon, 22 Jun 2026 17:12:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "GOOG",
             "impact": "Neutral"
         },
         {
-            "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
-            "link": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-            "summary": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries,” she says.",
-            "date": "Sun, 21 Jun 2026 15:01:00 GMT",
+            "title": "Caterpillar’s stock hits a milestone as roaring industrials rally sweeps up Wall Street",
+            "link": "https://www.marketwatch.com/story/caterpillars-stock-hits-a-milestone-as-roaring-industrials-rally-sweeps-up-wall-street-391057f7?mod=mw_rss_topstories",
+            "summary": "Caterpillar is the hottest stock in the Dow this year. It is one of just two in the index with a price above $1,000.",
+            "date": "Mon, 22 Jun 2026 16:47:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WDC",
+            "stock_ticker": "HAPN",
             "impact": "Neutral"
         },
         {
-            "title": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?",
-            "link": "https://www.marketwatch.com/story/my-two-sons-will-inherit-a-30-000-annuity-from-their-grandmother-what-should-i-do-with-the-money-8882f396?mod=mw_rss_topstories",
-            "summary": "“My understanding is that they have five years to withdraw the money,” he said. “I don’t know if they’re going to be able to do that.”",
-            "date": "Sun, 21 Jun 2026 14:00:00 GMT",
+            "title": "Super Micro’s stock is seeing its best run in a year thanks to Nvidia partnership",
+            "link": "https://www.marketwatch.com/story/super-micros-stock-is-seeing-its-best-run-in-a-year-thanks-to-nvidia-partnership-f619e58e?mod=mw_rss_topstories",
+            "summary": "Super Micro shares were leading the S&amp;P 500’s gainers on Monday. Super Micro shares are up more than 10% this year.",
+            "date": "Mon, 22 Jun 2026 16:24:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SGDMYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Micron’s earnings are a must-watch market event — with profit growth approaching 1,000%",
-            "link": "https://www.marketwatch.com/story/microns-earnings-are-a-must-watch-market-event-with-profit-growth-approaching-1-000-78ec4549?mod=mw_rss_topstories",
-            "summary": "Micron’s massive growth is “coming at nearly pure profit,’’ says analyst. Micron is starting to have real implications for the S&amp;P 500.",
-            "date": "Sun, 21 Jun 2026 14:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "20MICRONS.NS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
-            "link": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
-            "summary": "Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does, and past rate-hike cycles can be a guide.",
-            "date": "Sun, 21 Jun 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "S2819.MC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘We are habitually frugal’: My wife and I have money. How do we help our children without ruining their independence?",
-            "link": "https://www.marketwatch.com/story/we-are-habitually-frugal-my-wife-and-i-have-money-how-do-we-help-our-children-without-ruining-their-independence-a1e30cec?mod=mw_rss_topstories",
-            "summary": "“Partly due to some mental-health issues, they may continue to go through life living paycheck to paycheck, or worse,” she says.",
-            "date": "Sun, 21 Jun 2026 12:45:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WDC",
-            "impact": "Neutral"
+            "stock_ticker": "SMCI",
+            "impact": "Bullish"
         }
     ]
 }
