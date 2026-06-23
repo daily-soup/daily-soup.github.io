@@ -1,23 +1,35 @@
 {
-    "date": "2026-06-22",
+    "date": "2026-06-23",
     "news": [
         {
-            "title": "Alphabet paces for worst day in a year on AI concerns after high-profile exits",
-            "link": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
-            "summary": "Google parent Alphabet has seen consecutive high-profile artificial intelligence researchers leave the company. Google has also seen a number of its top engineers leave in recent months.",
-            "date": "Mon, 22 Jun 2026 17:17:04 GMT",
+            "title": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
+            "link": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html",
+            "summary": "The firm's manufacturing index ran better than expected for June. It came largely from an inventory rebuild and despite sharp job cuts. The firm's June manufacturing index came better thanexpected for June, it came mostly from a inventory rebuild.",
+            "date": "Tue, 23 Jun 2026 14:49:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOOG",
+            "stock_ticker": "3474.T",
             "impact": "Neutral"
         },
         {
-            "title": "SpaceX signs computing power deal with open-source AI startup Reflection worth up to $6.3 billion",
-            "link": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
-            "summary": "SpaceX has turned its Colossus data center into a commercial computing power platform. The company has landed recent deals with Anthropic, Google and Cursor.",
-            "date": "Mon, 22 Jun 2026 15:00:01 GMT",
+            "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables",
+            "link": "https://www.cnbc.com/2026/06/23/meta-glasses-are-new-smart-glasses-starting-at-299.html",
+            "summary": " Meta executives have said they see the lightweight smart glasses as a step towards a more advanced device that includes screens in the lenses. The glasses are expected to go on sale later this year.",
+            "date": "Tue, 23 Jun 2026 13:23:27 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "META",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SpaceX stock climbs 2% after falling below $150 debut price",
+            "link": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
+            "summary": "Gains have been pared back at the space and AI company following an initial surge after its record-breaking IPO. Gains have also been reduced at the company following a record-setting IPO.",
+            "date": "Tue, 23 Jun 2026 14:36:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,100 +38,88 @@
             "impact": "Neutral"
         },
         {
-            "title": "Alan Greenspan, former chairman of the Fed, dies at age 100",
-            "link": "https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html",
-            "summary": "Alan Greenspan presided over the Federal Reserve for 19 years under four presidents. Greenspan mastered the art of obfuscation known as Fedspeak.",
-            "date": "Mon, 22 Jun 2026 14:39:38 GMT",
+            "title": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
+            "link": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html",
+            "summary": "The U.S. issued a sweeping rollback of sanctions on Iranian oil. The move offers Tehran an economic lifeline as negotiations toward a peace deal proceed.",
+            "date": "Tue, 23 Jun 2026 14:56:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DNY.F",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "SpaceX stock falls 9%, pacing for third-straight day of losses after red-hot IPO start",
-            "link": "https://www.cnbc.com/2026/06/22/spacex-stock-ipo-rally-selloff.html",
-            "summary": "A rally following the company's record breaking IPO on June 12 has cooled, with stock dropping the past two full days of trading. The company's stock has dropped more than 20% since the IPO.",
-            "date": "Mon, 22 Jun 2026 15:57:18 GMT",
+            "title": "Sen. Cassidy plans to push 'big idea' for Social Security reform in last days in office",
+            "link": "https://www.cnbc.com/2026/06/23/social-security-reform-cassidy.html",
+            "summary": "Sen. Bill Cassidy says he has come up with a plan to invest in the stock market on the program's behalf. Social Security faces an imminent funding shortfall.",
+            "date": "Tue, 23 Jun 2026 14:47:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPCX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Treasury Department authorizes Iranian oil sales through August",
-            "link": "https://www.cnbc.com/2026/06/22/treasury-iran-oil-sales.html",
-            "summary": "Iranian supertankers have switched on their transponders, after going dark during the war. Supertankers depart the Persian Gulf loaded with oil.",
-            "date": "Mon, 22 Jun 2026 16:07:14 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TLT",
+            "stock_ticker": "^HSI",
             "impact": "Bullish"
         },
         {
-            "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it",
-            "link": "https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories",
-            "summary": "The health damage of loneliness is similar to heavy smoking and obesity, experts say. Loneliness is linked to increased risk of depression, anxiety and cardiovascular disease, they say.",
-            "date": "Mon, 22 Jun 2026 17:24:00 GMT",
+            "title": "These stocks are falling the most on Tuesday as the tech sector comes under pressure",
+            "link": "https://www.marketwatch.com/story/these-stocks-are-falling-the-most-on-tuesday-as-the-tech-sector-comes-under-pressure-33558ade?mod=mw_rss_topstories",
+            "summary": "Most of the day’s biggest losers are still up tremendously for 2026. Most of the biggest losers from the day are up tremendously in 2026, however.",
+            "date": "Tue, 23 Jun 2026 15:21:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "China’s weird new economic spark: toy elves and robocops",
-            "link": "https://www.marketwatch.com/story/chinas-new-economic-drivers-a-sad-toy-elf-and-a-robot-police-force-8759daf9?mod=mw_rss_topstories",
-            "summary": "Young Chinese aren’t buying status symbols. They’re spending money on things that make them feel something — anything. It’s not about status symbols, but about making people feel something.",
-            "date": "Mon, 22 Jun 2026 17:16:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "002453.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Alphabet sees $269 billion market-cap wipeout as investors fear it’s losing the war for AI talent",
-            "link": "https://www.marketwatch.com/story/alphabet-sees-269-billion-market-cap-wipeout-as-investors-fear-its-losing-the-war-for-ai-talent-497aa378?mod=mw_rss_topstories",
-            "summary": "Two AI leaders, including a Nobel laureate, recently said they would leave Google for rival labs. Two AI leaders have said they will leave Google to join rival labs for AI.",
-            "date": "Mon, 22 Jun 2026 17:12:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GOOG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Caterpillar’s stock hits a milestone as roaring industrials rally sweeps up Wall Street",
-            "link": "https://www.marketwatch.com/story/caterpillars-stock-hits-a-milestone-as-roaring-industrials-rally-sweeps-up-wall-street-391057f7?mod=mw_rss_topstories",
-            "summary": "Caterpillar is the hottest stock in the Dow this year. It is one of just two in the index with a price above $1,000.",
-            "date": "Mon, 22 Jun 2026 16:47:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HAPN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Super Micro’s stock is seeing its best run in a year thanks to Nvidia partnership",
-            "link": "https://www.marketwatch.com/story/super-micros-stock-is-seeing-its-best-run-in-a-year-thanks-to-nvidia-partnership-f619e58e?mod=mw_rss_topstories",
-            "summary": "Super Micro shares were leading the S&amp;P 500’s gainers on Monday. Super Micro shares are up more than 10% this year.",
-            "date": "Mon, 22 Jun 2026 16:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SMCI",
+            "stock_ticker": "0P0001YPM3.L",
             "impact": "Bullish"
+        },
+        {
+            "title": "At school, it’s cheating. At work, it’s essential. New grads are caught in a double standard around AI.",
+            "link": "https://www.marketwatch.com/story/teachers-ban-it-employers-demand-it-new-grads-face-a-frustrating-ai-double-standard-09c70f19?mod=mw_rss_topstories",
+            "summary": "Mixed messages on AI are another challenge for Gen Z. Gen Z already faces a tough job market. It's unclear whether Gen Z will be able to take advantage of the new technology.",
+            "date": "Tue, 23 Jun 2026 15:03:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ATOM-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why a 30-year mortgage loan could be your biggest money mistake",
+            "link": "https://www.marketwatch.com/story/why-a-30-year-mortgage-loan-could-be-your-biggest-money-mistake-46323442?mod=mw_rss_topstories",
+            "summary": "You might be able to save hundreds of thousands of dollars with a 15-year mortgage loan. You might be can save Hundreds of Thousands of dollars by taking out a 15 year mortgage.",
+            "date": "Tue, 23 Jun 2026 14:59:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "3823.T",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Micron and Sandisk lead a sharp tech selloff in a ‘gut-check’ moment for AI stocks",
+            "link": "https://www.marketwatch.com/story/micron-and-sandisk-lead-a-sharp-tech-selloff-in-a-gut-check-moment-for-ai-stocks-cd92fa5d?mod=mw_rss_topstories",
+            "summary": "Investors are taking a ‘breather’ from AI-driven momentum, an analyst says. ‘It’s a good time to take a breather,’ he says.",
+            "date": "Tue, 23 Jun 2026 14:40:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Big Tech has split into two artificial-intelligence camps — but the smart money isn’t chasing the next OpenAI",
+            "link": "https://www.marketwatch.com/story/big-tech-is-splitting-into-two-artificial-intelligence-camps-here-is-the-better-bet-e75c9876?mod=mw_rss_topstories",
+            "summary": "Alphabet and Microsoft are the safer choice in the AI race, analysts say. The tech giants are more likely to be able to compete on a global scale, they say.",
+            "date": "Tue, 23 Jun 2026 14:28:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BBAI",
+            "impact": "Neutral"
         }
     ]
 }
