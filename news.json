@@ -1,47 +1,23 @@
 {
-    "date": "2026-06-23",
+    "date": "2026-06-24",
     "news": [
         {
-            "title": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
-            "link": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html",
-            "summary": "The firm's manufacturing index ran better than expected for June. It came largely from an inventory rebuild and despite sharp job cuts. The firm's June manufacturing index came better thanexpected for June, it came mostly from a inventory rebuild.",
-            "date": "Tue, 23 Jun 2026 14:49:04 GMT",
+            "title": "Trump cancels signing of bipartisan housing bill, demanding voter-ID provision",
+            "link": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
+            "summary": "President Donald Trump cancels signing of a bill aimed at increasing housing affordability. He was due to sign the bill at the Capitol an hour before the ceremony.",
+            "date": "Wed, 24 Jun 2026 14:54:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "3474.T",
-            "impact": "Neutral"
+            "stock_ticker": "DJT",
+            "impact": "Bullish"
         },
         {
-            "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables",
-            "link": "https://www.cnbc.com/2026/06/23/meta-glasses-are-new-smart-glasses-starting-at-299.html",
-            "summary": " Meta executives have said they see the lightweight smart glasses as a step towards a more advanced device that includes screens in the lenses. The glasses are expected to go on sale later this year.",
-            "date": "Tue, 23 Jun 2026 13:23:27 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "META",
-            "impact": "Neutral"
-        },
-        {
-            "title": "SpaceX stock climbs 2% after falling below $150 debut price",
-            "link": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
-            "summary": "Gains have been pared back at the space and AI company following an initial surge after its record-breaking IPO. Gains have also been reduced at the company following a record-setting IPO.",
-            "date": "Tue, 23 Jun 2026 14:36:31 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPCX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
-            "link": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html",
-            "summary": "The U.S. issued a sweeping rollback of sanctions on Iranian oil. The move offers Tehran an economic lifeline as negotiations toward a peace deal proceed.",
-            "date": "Tue, 23 Jun 2026 14:56:38 GMT",
+            "title": "U.S. crude oil dips below $70 as tankers transit Strait of Hormuz",
+            "link": "https://www.cnbc.com/2026/06/24/oil-prices-wti-brent-crude-trump-doj-gasoline-prices-strait-of-hormuz.html",
+            "summary": "U.S. President Donald Trump intensified pressure on oil companies to lower gasoline prices following the recent decline in crude. U.S.-based oil companies are under pressure to lower gas prices.",
+            "date": "Wed, 24 Jun 2026 14:36:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,75 +26,99 @@
             "impact": "Neutral"
         },
         {
-            "title": "Sen. Cassidy plans to push 'big idea' for Social Security reform in last days in office",
-            "link": "https://www.cnbc.com/2026/06/23/social-security-reform-cassidy.html",
-            "summary": "Sen. Bill Cassidy says he has come up with a plan to invest in the stock market on the program's behalf. Social Security faces an imminent funding shortfall.",
-            "date": "Tue, 23 Jun 2026 14:47:27 GMT",
+            "title": "Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion",
+            "link": "https://www.cnbc.com/2026/06/24/amazons-zoox-unveils-redesigned-robotaxi-ahead-of-upcoming-expansion.html",
+            "summary": "Zoox is updating its robotaxis as the Amazon division plots expansion in additional markets. The company is also preparing to charge for rides.",
+            "date": "Wed, 24 Jun 2026 15:22:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^HSI",
+            "stock_ticker": "CABZ",
             "impact": "Bullish"
         },
         {
-            "title": "These stocks are falling the most on Tuesday as the tech sector comes under pressure",
-            "link": "https://www.marketwatch.com/story/these-stocks-are-falling-the-most-on-tuesday-as-the-tech-sector-comes-under-pressure-33558ade?mod=mw_rss_topstories",
-            "summary": "Most of the day’s biggest losers are still up tremendously for 2026. Most of the biggest losers from the day are up tremendously in 2026, however.",
-            "date": "Tue, 23 Jun 2026 15:21:00 GMT",
+            "title": "Slate Auto says each $24,950 electric pickup truck will be profitable as it aims to be cash-flow positive next year",
+            "link": "https://www.cnbc.com/2026/06/24/slate-ev-pickup-truck-ceo-business-goals.html",
+            "summary": "Slate Auto CEO Peter Faricy says every vehicle the company produces will be gross margin positive. Faricy: \"Every vehicle we produce will be Gross Margin positive\"",
+            "date": "Wed, 24 Jun 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001YPM3.L",
+            "stock_ticker": "0P00017AOG.TO",
             "impact": "Bullish"
         },
         {
-            "title": "At school, it’s cheating. At work, it’s essential. New grads are caught in a double standard around AI.",
-            "link": "https://www.marketwatch.com/story/teachers-ban-it-employers-demand-it-new-grads-face-a-frustrating-ai-double-standard-09c70f19?mod=mw_rss_topstories",
-            "summary": "Mixed messages on AI are another challenge for Gen Z. Gen Z already faces a tough job market. It's unclear whether Gen Z will be able to take advantage of the new technology.",
-            "date": "Tue, 23 Jun 2026 15:03:00 GMT",
+            "title": "New meme stock Wendy's soars 30% with trading halted at one point",
+            "link": "https://www.cnbc.com/2026/06/24/wendys-stock-soars-as-meme-traders-target-another-turnaround-play.html",
+            "summary": "The magnitude of the move suggests other forces may be at play. While management changes can influence investor sentiment, the magnitude of this one suggests other factors may be in play.",
+            "date": "Wed, 24 Jun 2026 15:22:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ATOM-USD",
+            "stock_ticker": "6N=F",
             "impact": "Neutral"
         },
         {
-            "title": "Why a 30-year mortgage loan could be your biggest money mistake",
-            "link": "https://www.marketwatch.com/story/why-a-30-year-mortgage-loan-could-be-your-biggest-money-mistake-46323442?mod=mw_rss_topstories",
-            "summary": "You might be able to save hundreds of thousands of dollars with a 15-year mortgage loan. You might be can save Hundreds of Thousands of dollars by taking out a 15 year mortgage.",
-            "date": "Tue, 23 Jun 2026 14:59:00 GMT",
+            "title": "Broadcom unveils a custom chip for OpenAI as it challenges Nvidia’s dominance",
+            "link": "https://www.marketwatch.com/story/broadcom-unveils-a-custom-chip-for-openai-as-it-challenges-nvidias-dominance-b9b17dd1?mod=mw_rss_topstories",
+            "summary": "The custom chip is designed to support the ChatGPT maker’s future AI models and products. The chip is expected to be available by the end of the year.",
+            "date": "Wed, 24 Jun 2026 15:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "3823.T",
+            "stock_ticker": "AVGO",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Tesla and Waymo duel in the robotaxi race — but the company spending the most builds no cars at all",
+            "link": "https://www.marketwatch.com/story/tesla-and-waymo-are-chasing-the-robotaxi-dream-but-the-company-spending-the-most-to-win-builds-no-cars-at-all-0d8682b9?mod=mw_rss_topstories",
+            "summary": "Uber is quietly writing $500 million checks to lock in robotaxis. Waymo threatens to leave it behind. Uber says it's working with Waymo to develop a self-driving car.",
+            "date": "Wed, 24 Jun 2026 15:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSLA",
             "impact": "Neutral"
         },
         {
-            "title": "Micron and Sandisk lead a sharp tech selloff in a ‘gut-check’ moment for AI stocks",
-            "link": "https://www.marketwatch.com/story/micron-and-sandisk-lead-a-sharp-tech-selloff-in-a-gut-check-moment-for-ai-stocks-cd92fa5d?mod=mw_rss_topstories",
-            "summary": "Investors are taking a ‘breather’ from AI-driven momentum, an analyst says. ‘It’s a good time to take a breather,’ he says.",
-            "date": "Tue, 23 Jun 2026 14:40:00 GMT",
+            "title": "My houseguest left heat marks all over my table. I didn’t notice them until she was gone. Do I ask her to pay to remove them?",
+            "link": "https://www.marketwatch.com/story/i-gave-my-homeexchange-guest-a-5-star-review-then-i-found-heat-marks-all-over-my-dining-table-do-i-call-her-out-855d3836?mod=mw_rss_topstories",
+            "summary": "“What drives me crazy is that she didn’t mention it,” he says of his wife. “What drove me crazy was she didn't mention it.”",
+            "date": "Wed, 24 Jun 2026 15:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MU",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "Big Tech has split into two artificial-intelligence camps — but the smart money isn’t chasing the next OpenAI",
-            "link": "https://www.marketwatch.com/story/big-tech-is-splitting-into-two-artificial-intelligence-camps-here-is-the-better-bet-e75c9876?mod=mw_rss_topstories",
-            "summary": "Alphabet and Microsoft are the safer choice in the AI race, analysts say. The tech giants are more likely to be able to compete on a global scale, they say.",
-            "date": "Tue, 23 Jun 2026 14:28:00 GMT",
+            "title": "‘I’m scared of making a huge financial mistake’: I gave my brother half of my $1.5 million home. Can he force me to sell?",
+            "link": "https://www.marketwatch.com/story/im-scared-of-making-a-huge-financial-mistake-i-gave-my-brother-half-of-my-1-5-million-home-can-he-force-me-to-sell-1b112b73?mod=mw_rss_topstories",
+            "summary": "“One lawyer estimated that my brother and I would each walk away with a couple hundred thousand dollars,” he said. “One lawyer estimated that we would each walked away from the case with a few hundred thousands dollars.”",
+            "date": "Wed, 24 Jun 2026 15:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBAI",
+            "stock_ticker": "IBRX",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Is Wendy’s the next meme stock? Everyday traders are trying to ‘save’ the fast-food chain.",
+            "link": "https://www.marketwatch.com/story/is-wendys-the-next-meme-stock-everyday-traders-are-trying-to-save-the-fast-food-chain-15e38af0?mod=mw_rss_topstories",
+            "summary": "Shares of fast-food chain Wendy's rallied 25% at Wednesday’s open. Wendy's shares were up 25% to $16.50 at the open.",
+            "date": "Wed, 24 Jun 2026 14:47:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CADISK=X",
             "impact": "Neutral"
         }
     ]
