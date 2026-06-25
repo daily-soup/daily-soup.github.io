@@ -1,95 +1,107 @@
 {
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "news": [
         {
-            "title": "Trump cancels signing of bipartisan housing bill, demanding voter-ID provision",
-            "link": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
-            "summary": "President Donald Trump cancels signing of a bill aimed at increasing housing affordability. He was due to sign the bill at the Capitol an hour before the ceremony.",
-            "date": "Wed, 24 Jun 2026 14:54:36 GMT",
+            "title": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows",
+            "link": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html",
+            "summary": "The personal consumption expenditures price index was expected to show a 4.1% annual increase. The index is based on the consumer's spending on goods and services.",
+            "date": "Thu, 25 Jun 2026 13:30:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Bullish"
-        },
-        {
-            "title": "U.S. crude oil dips below $70 as tankers transit Strait of Hormuz",
-            "link": "https://www.cnbc.com/2026/06/24/oil-prices-wti-brent-crude-trump-doj-gasoline-prices-strait-of-hormuz.html",
-            "summary": "U.S. President Donald Trump intensified pressure on oil companies to lower gasoline prices following the recent decline in crude. U.S.-based oil companies are under pressure to lower gas prices.",
-            "date": "Wed, 24 Jun 2026 14:36:03 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "IVV",
             "impact": "Neutral"
         },
         {
-            "title": "Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion",
-            "link": "https://www.cnbc.com/2026/06/24/amazons-zoox-unveils-redesigned-robotaxi-ahead-of-upcoming-expansion.html",
-            "summary": "Zoox is updating its robotaxis as the Amazon division plots expansion in additional markets. The company is also preparing to charge for rides.",
-            "date": "Wed, 24 Jun 2026 15:22:12 GMT",
+            "title": "Bayer wins Supreme Court case making it harder to sue over glyphosate in Monsanto's Roundup",
+            "link": "https://www.cnbc.com/2026/06/25/glyphosate-roundup-bayer-supreme-court-case-monsanto.html",
+            "summary": "Glyphosate, used in Roundup weedkiller, is the most commonly used weedkiller in agriculture. It has long been linked to cancer claims.",
+            "date": "Thu, 25 Jun 2026 15:13:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CABZ",
+            "stock_ticker": "BAYN.DE",
             "impact": "Bullish"
         },
         {
-            "title": "Slate Auto says each $24,950 electric pickup truck will be profitable as it aims to be cash-flow positive next year",
-            "link": "https://www.cnbc.com/2026/06/24/slate-ev-pickup-truck-ceo-business-goals.html",
-            "summary": "Slate Auto CEO Peter Faricy says every vehicle the company produces will be gross margin positive. Faricy: \"Every vehicle we produce will be Gross Margin positive\"",
-            "date": "Wed, 24 Jun 2026 12:00:01 GMT",
+            "title": "Apple stock drops 5% on MacBook and iPad price hikes due to memory crunch",
+            "link": "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
+            "summary": "Tim Cook said last week that Apple would hike prices due to surging memory and storage costs. Tim Cook: Apple will hike prices because of surging memory, storage cost.",
+            "date": "Thu, 25 Jun 2026 14:46:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P00017AOG.TO",
-            "impact": "Bullish"
-        },
-        {
-            "title": "New meme stock Wendy's soars 30% with trading halted at one point",
-            "link": "https://www.cnbc.com/2026/06/24/wendys-stock-soars-as-meme-traders-target-another-turnaround-play.html",
-            "summary": "The magnitude of the move suggests other forces may be at play. While management changes can influence investor sentiment, the magnitude of this one suggests other factors may be in play.",
-            "date": "Wed, 24 Jun 2026 15:22:19 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "6N=F",
+            "stock_ticker": "AAPL",
             "impact": "Neutral"
         },
         {
-            "title": "Broadcom unveils a custom chip for OpenAI as it challenges Nvidia’s dominance",
-            "link": "https://www.marketwatch.com/story/broadcom-unveils-a-custom-chip-for-openai-as-it-challenges-nvidias-dominance-b9b17dd1?mod=mw_rss_topstories",
-            "summary": "The custom chip is designed to support the ChatGPT maker’s future AI models and products. The chip is expected to be available by the end of the year.",
-            "date": "Wed, 24 Jun 2026 15:20:00 GMT",
+            "title": "GM reveals 2027 GMC Sierra pickup with new V-8 engines, redesigned styling",
+            "link": "https://www.cnbc.com/2026/06/25/gm-gmc-sierra-pickup.html",
+            "summary": "The new GMC Sierra trucks are crucial to GM's sales and earnings, especially highly profitable luxury Denali and off-road AT4 models.",
+            "date": "Thu, 25 Jun 2026 15:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AVGO",
+            "stock_ticker": "GM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Micron is up 10% after blockbuster earnings, but has pulled back from highs",
+            "link": "https://www.cnbc.com/2026/06/25/micron-stock-3q-earnings-memory.html",
+            "summary": "The company's revenue more than quadrupled from $9.3 billion a year earlier to $41.46 billion, it reported on Wednesday.",
+            "date": "Thu, 25 Jun 2026 14:17:59 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MU",
             "impact": "Bullish"
         },
         {
-            "title": "Tesla and Waymo duel in the robotaxi race — but the company spending the most builds no cars at all",
-            "link": "https://www.marketwatch.com/story/tesla-and-waymo-are-chasing-the-robotaxi-dream-but-the-company-spending-the-most-to-win-builds-no-cars-at-all-0d8682b9?mod=mw_rss_topstories",
-            "summary": "Uber is quietly writing $500 million checks to lock in robotaxis. Waymo threatens to leave it behind. Uber says it's working with Waymo to develop a self-driving car.",
-            "date": "Wed, 24 Jun 2026 15:15:00 GMT",
+            "title": "Bayer’s stock jumps after Supreme Court sides with Roundup weedkiller manufacturer",
+            "link": "https://www.marketwatch.com/story/bayers-stock-jumps-after-supreme-court-sides-with-roundup-weedkiller-manufacturer-a747f253?mod=mw_rss_topstories",
+            "summary": "The court ruled that states cannot have differing labeling warning rules than federal law requires. The ruling was handed down in a ruling on the issue of genetically modified organisms.",
+            "date": "Thu, 25 Jun 2026 15:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSLA",
+            "stock_ticker": "VTI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
+            "link": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
+            "summary": "“He also wants me to downsize and move,” she says of her father. “He’s not a big fan of moving,’ she adds.",
+            "date": "Thu, 25 Jun 2026 15:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "A",
+            "impact": "Bearish"
+        },
+        {
+            "title": "‘Take the money while you can’: I’m a CPA and tell my clients to take their Social Security early. Am I wrong?",
+            "link": "https://www.marketwatch.com/story/take-the-money-while-you-can-im-a-cpa-and-tell-my-clients-to-take-their-social-security-early-am-i-wrong-a50e55e8?mod=mw_rss_topstories",
+            "summary": "Only 8% to 10% of people wait until age 70 to claim. “Only 8-10% of the people I know wait to claim until they are 70,” he says.",
+            "date": "Thu, 25 Jun 2026 15:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TTWO",
             "impact": "Neutral"
         },
         {
             "title": "My houseguest left heat marks all over my table. I didn’t notice them until she was gone. Do I ask her to pay to remove them?",
             "link": "https://www.marketwatch.com/story/i-gave-my-homeexchange-guest-a-5-star-review-then-i-found-heat-marks-all-over-my-dining-table-do-i-call-her-out-855d3836?mod=mw_rss_topstories",
             "summary": "“What drives me crazy is that she didn’t mention it,” he says of his wife. “What drove me crazy was she didn't mention it.”",
-            "date": "Wed, 24 Jun 2026 15:00:00 GMT",
+            "date": "Thu, 25 Jun 2026 15:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,28 +110,16 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m scared of making a huge financial mistake’: I gave my brother half of my $1.5 million home. Can he force me to sell?",
-            "link": "https://www.marketwatch.com/story/im-scared-of-making-a-huge-financial-mistake-i-gave-my-brother-half-of-my-1-5-million-home-can-he-force-me-to-sell-1b112b73?mod=mw_rss_topstories",
-            "summary": "“One lawyer estimated that my brother and I would each walk away with a couple hundred thousand dollars,” he said. “One lawyer estimated that we would each walked away from the case with a few hundred thousands dollars.”",
-            "date": "Wed, 24 Jun 2026 15:00:00 GMT",
+            "title": "First-quarter GDP gets big boost, but it’s not really great news",
+            "link": "https://www.marketwatch.com/story/first-quarter-gdp-gets-big-boost-but-its-not-really-great-news-488bf948?mod=mw_rss_topstories",
+            "summary": "The U.S. economy grew at a 2.1% annual pace in the first three months of the year. That's faster than the previously reported 1.6%.",
+            "date": "Thu, 25 Jun 2026 15:07:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "0P0001346N.F",
             "impact": "Bullish"
-        },
-        {
-            "title": "Is Wendy’s the next meme stock? Everyday traders are trying to ‘save’ the fast-food chain.",
-            "link": "https://www.marketwatch.com/story/is-wendys-the-next-meme-stock-everyday-traders-are-trying-to-save-the-fast-food-chain-15e38af0?mod=mw_rss_topstories",
-            "summary": "Shares of fast-food chain Wendy's rallied 25% at Wednesday’s open. Wendy's shares were up 25% to $16.50 at the open.",
-            "date": "Wed, 24 Jun 2026 14:47:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CADISK=X",
-            "impact": "Neutral"
         }
     ]
 }
