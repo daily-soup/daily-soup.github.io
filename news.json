@@ -1,124 +1,124 @@
 {
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "news": [
         {
-            "title": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows",
-            "link": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html",
-            "summary": "The personal consumption expenditures price index was expected to show a 4.1% annual increase. The index is based on the consumer's spending on goods and services.",
-            "date": "Thu, 25 Jun 2026 13:30:56 GMT",
+            "title": "Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%",
+            "link": "https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html",
+            "summary": "President Trump's economic advisors are giving Warsh space, as the new Fed chairman, on interest rates. Warsh's comments come as the president repeats calls to cut.",
+            "date": "Fri, 26 Jun 2026 14:54:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IVV",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Bayer wins Supreme Court case making it harder to sue over glyphosate in Monsanto's Roundup",
-            "link": "https://www.cnbc.com/2026/06/25/glyphosate-roundup-bayer-supreme-court-case-monsanto.html",
-            "summary": "Glyphosate, used in Roundup weedkiller, is the most commonly used weedkiller in agriculture. It has long been linked to cancer claims.",
-            "date": "Thu, 25 Jun 2026 15:13:02 GMT",
+            "title": "Ex-Apollo CEO Leon Black says Jeffrey Epstein duped him out of more than $60 million",
+            "link": "https://www.cnbc.com/2026/06/26/leon-black-jeffrey-epstein-house-oversight-committee.html",
+            "summary": "\"I knew Jekyll. I didn't know Hyde,\" Leon Black says about Jeffrey Epstein. \"I knew him as a person, not as a pedophile,\" he says.",
+            "date": "Fri, 26 Jun 2026 14:01:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BAYN.DE",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Apple stock drops 5% on MacBook and iPad price hikes due to memory crunch",
-            "link": "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
-            "summary": "Tim Cook said last week that Apple would hike prices due to surging memory and storage costs. Tim Cook: Apple will hike prices because of surging memory, storage cost.",
-            "date": "Thu, 25 Jun 2026 14:46:15 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAPL",
+            "stock_ticker": "CEK.F",
             "impact": "Neutral"
         },
         {
-            "title": "GM reveals 2027 GMC Sierra pickup with new V-8 engines, redesigned styling",
-            "link": "https://www.cnbc.com/2026/06/25/gm-gmc-sierra-pickup.html",
-            "summary": "The new GMC Sierra trucks are crucial to GM's sales and earnings, especially highly profitable luxury Denali and off-road AT4 models.",
-            "date": "Thu, 25 Jun 2026 15:00:01 GMT",
+            "title": "Ex-Trump advisor John Bolton pleads guilty to retaining national defense information",
+            "link": "https://www.cnbc.com/2026/06/26/john-bolton-guilty-defense-trump.html",
+            "summary": "John Bolton is one of several foes of President Donald Trump who has been indicted since Trump regained the White House. Bolton is a former U.S. ambassador to the United Nations.",
+            "date": "Fri, 26 Jun 2026 15:14:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GM",
+            "stock_ticker": "MSOS",
             "impact": "Neutral"
         },
         {
-            "title": "Micron is up 10% after blockbuster earnings, but has pulled back from highs",
-            "link": "https://www.cnbc.com/2026/06/25/micron-stock-3q-earnings-memory.html",
-            "summary": "The company's revenue more than quadrupled from $9.3 billion a year earlier to $41.46 billion, it reported on Wednesday.",
-            "date": "Thu, 25 Jun 2026 14:17:59 GMT",
+            "title": "Jeremy Grantham says this is 'the most expensive market in 'American history'",
+            "link": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
+            "summary": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive. He says it's the first time the market has been in such a state since the 1930s.",
+            "date": "Fri, 26 Jun 2026 14:36:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MU",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Bayer’s stock jumps after Supreme Court sides with Roundup weedkiller manufacturer",
-            "link": "https://www.marketwatch.com/story/bayers-stock-jumps-after-supreme-court-sides-with-roundup-weedkiller-manufacturer-a747f253?mod=mw_rss_topstories",
-            "summary": "The court ruled that states cannot have differing labeling warning rules than federal law requires. The ruling was handed down in a ruling on the issue of genetically modified organisms.",
-            "date": "Thu, 25 Jun 2026 15:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
+            "stock_ticker": "0P000021TT.F",
             "impact": "Neutral"
         },
         {
-            "title": "A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
-            "link": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
-            "summary": "“He also wants me to downsize and move,” she says of her father. “He’s not a big fan of moving,’ she adds.",
-            "date": "Thu, 25 Jun 2026 15:30:00 GMT",
+            "title": "OpenAI and Anthropic face new AI reality as companies shift from tokenmaxxing to efficiency",
+            "link": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+            "summary": "Companies are tightening their AI budgets to focus on getting a return on their investment. That could dampen growth rates at OpenAI and Anthropic.",
+            "date": "Fri, 26 Jun 2026 12:10:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
-            "impact": "Bearish"
-        },
-        {
-            "title": "‘Take the money while you can’: I’m a CPA and tell my clients to take their Social Security early. Am I wrong?",
-            "link": "https://www.marketwatch.com/story/take-the-money-while-you-can-im-a-cpa-and-tell-my-clients-to-take-their-social-security-early-am-i-wrong-a50e55e8?mod=mw_rss_topstories",
-            "summary": "Only 8% to 10% of people wait until age 70 to claim. “Only 8-10% of the people I know wait to claim until they are 70,” he says.",
-            "date": "Thu, 25 Jun 2026 15:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TTWO",
+            "stock_ticker": "OPENAI-USD",
             "impact": "Neutral"
         },
         {
-            "title": "My houseguest left heat marks all over my table. I didn’t notice them until she was gone. Do I ask her to pay to remove them?",
-            "link": "https://www.marketwatch.com/story/i-gave-my-homeexchange-guest-a-5-star-review-then-i-found-heat-marks-all-over-my-dining-table-do-i-call-her-out-855d3836?mod=mw_rss_topstories",
-            "summary": "“What drives me crazy is that she didn’t mention it,” he says of his wife. “What drove me crazy was she didn't mention it.”",
-            "date": "Thu, 25 Jun 2026 15:10:00 GMT",
+            "title": "This imminent SpaceX development could make the stock even more volatile",
+            "link": "https://www.marketwatch.com/story/spacexs-stock-could-get-another-dose-of-volatility-8763bb0a?mod=mw_rss_topstories",
+            "summary": "SpaceX is set to be added to the Russell 1000 after Friday’s close. It could join other major indexes in the days ahead.",
+            "date": "Fri, 26 Jun 2026 14:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "0P000021TT.F",
             "impact": "Neutral"
         },
         {
-            "title": "First-quarter GDP gets big boost, but it’s not really great news",
-            "link": "https://www.marketwatch.com/story/first-quarter-gdp-gets-big-boost-but-its-not-really-great-news-488bf948?mod=mw_rss_topstories",
-            "summary": "The U.S. economy grew at a 2.1% annual pace in the first three months of the year. That's faster than the previously reported 1.6%.",
-            "date": "Thu, 25 Jun 2026 15:07:00 GMT",
+            "title": "I want to leave everything to my sons, but I’m terrified they’ll give it to my ex-husband. How do I prevent this?",
+            "link": "https://www.marketwatch.com/story/i-want-to-leave-everything-to-my-sons-but-im-terrified-theyll-give-it-to-my-ex-husband-how-do-i-prevent-this-8cfc752c?mod=mw_rss_topstories",
+            "summary": "“I would not like my money to fall into the hands of my former spouse,” he says. “I’m not a cheater. I’ve never been a cheaser.”",
+            "date": "Fri, 26 Jun 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001346N.F",
+            "stock_ticker": "CGCFU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Exuberance over earnings is becoming a problem for the stock market, according to this Wall Street veteran",
+            "link": "https://www.marketwatch.com/story/why-this-earnings-exuberance-may-be-a-problem-for-the-stock-market-according-to-this-wall-street-veteran-20431488?mod=mw_rss_topstories",
+            "summary": "Jim Paulsen: Optimism about corporate profits often comes before a fall, says Jim Paulsen. Paulsen on CNN's \"Larry King Live\" Sunday at 9 p.m. ET.",
+            "date": "Fri, 26 Jun 2026 13:31:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "O39.SI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I had gallbladder surgery. After I got home, the hospital asked me for a financial donation. Is this ethical?",
+            "link": "https://www.marketwatch.com/story/i-had-my-gallbladder-removed-after-i-got-home-the-hospital-asked-me-for-a-donation-is-this-ethical-ad12a8e1?mod=mw_rss_topstories",
+            "summary": "“The letter asked whether I had a favorite caregiver and if I would like to make a contribution in their honor,” he says. “The letters asked whether he had afavorite caregiver.”",
+            "date": "Fri, 26 Jun 2026 13:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CGCFU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "El Niño’s coming back — and it could cost the global economy trillions",
+            "link": "https://www.marketwatch.com/story/oil-may-no-longer-pose-the-same-threat-to-the-global-economy-but-another-risk-may-be-around-the-corner-says-citigroup-629d2854?mod=mw_rss_topstories",
+            "summary": "An El Niño could disrupt agriculture, infrastructure and economywide productivity. Economists at the investment bank wrote that an El Niño can disrupt agriculture and infrastructure.",
+            "date": "Fri, 26 Jun 2026 13:29:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EL",
             "impact": "Bullish"
         }
     ]
