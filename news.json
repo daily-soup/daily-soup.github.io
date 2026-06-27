@@ -1,125 +1,125 @@
 {
-    "date": "2026-06-26",
+    "date": "2026-06-27",
     "news": [
         {
-            "title": "Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%",
-            "link": "https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html",
-            "summary": "President Trump's economic advisors are giving Warsh space, as the new Fed chairman, on interest rates. Warsh's comments come as the president repeats calls to cut.",
-            "date": "Fri, 26 Jun 2026 14:54:15 GMT",
+            "title": "The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players",
+            "link": "https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html",
+            "summary": "Smaller consumer electronics companies are in dire straits. Apple and Microsoft raise prices on key devices to help cover the soaring costs of memory.",
+            "date": "Sat, 27 Jun 2026 13:21:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "Ex-Apollo CEO Leon Black says Jeffrey Epstein duped him out of more than $60 million",
-            "link": "https://www.cnbc.com/2026/06/26/leon-black-jeffrey-epstein-house-oversight-committee.html",
-            "summary": "\"I knew Jekyll. I didn't know Hyde,\" Leon Black says about Jeffrey Epstein. \"I knew him as a person, not as a pedophile,\" he says.",
-            "date": "Fri, 26 Jun 2026 14:01:51 GMT",
+            "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
+            "link": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
+            "summary": "The attack comes as the United States and Iran are supposed to be engaging in a 60-period of no hostilities as they hold talks to end their war.",
+            "date": "Sat, 27 Jun 2026 12:43:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CEK.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Ex-Trump advisor John Bolton pleads guilty to retaining national defense information",
-            "link": "https://www.cnbc.com/2026/06/26/john-bolton-guilty-defense-trump.html",
-            "summary": "John Bolton is one of several foes of President Donald Trump who has been indicted since Trump regained the White House. Bolton is a former U.S. ambassador to the United Nations.",
-            "date": "Fri, 26 Jun 2026 15:14:50 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MSOS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Jeremy Grantham says this is 'the most expensive market in 'American history'",
-            "link": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
-            "summary": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive. He says it's the first time the market has been in such a state since the 1930s.",
-            "date": "Fri, 26 Jun 2026 14:36:05 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P000021TT.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "OpenAI and Anthropic face new AI reality as companies shift from tokenmaxxing to efficiency",
-            "link": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-            "summary": "Companies are tightening their AI budgets to focus on getting a return on their investment. That could dampen growth rates at OpenAI and Anthropic.",
-            "date": "Fri, 26 Jun 2026 12:10:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OPENAI-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This imminent SpaceX development could make the stock even more volatile",
-            "link": "https://www.marketwatch.com/story/spacexs-stock-could-get-another-dose-of-volatility-8763bb0a?mod=mw_rss_topstories",
-            "summary": "SpaceX is set to be added to the Russell 1000 after Friday’s close. It could join other major indexes in the days ahead.",
-            "date": "Fri, 26 Jun 2026 14:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P000021TT.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I want to leave everything to my sons, but I’m terrified they’ll give it to my ex-husband. How do I prevent this?",
-            "link": "https://www.marketwatch.com/story/i-want-to-leave-everything-to-my-sons-but-im-terrified-theyll-give-it-to-my-ex-husband-how-do-i-prevent-this-8cfc752c?mod=mw_rss_topstories",
-            "summary": "“I would not like my money to fall into the hands of my former spouse,” he says. “I’m not a cheater. I’ve never been a cheaser.”",
-            "date": "Fri, 26 Jun 2026 14:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CGCFU",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Exuberance over earnings is becoming a problem for the stock market, according to this Wall Street veteran",
-            "link": "https://www.marketwatch.com/story/why-this-earnings-exuberance-may-be-a-problem-for-the-stock-market-according-to-this-wall-street-veteran-20431488?mod=mw_rss_topstories",
-            "summary": "Jim Paulsen: Optimism about corporate profits often comes before a fall, says Jim Paulsen. Paulsen on CNN's \"Larry King Live\" Sunday at 9 p.m. ET.",
-            "date": "Fri, 26 Jun 2026 13:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "O39.SI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I had gallbladder surgery. After I got home, the hospital asked me for a financial donation. Is this ethical?",
-            "link": "https://www.marketwatch.com/story/i-had-my-gallbladder-removed-after-i-got-home-the-hospital-asked-me-for-a-donation-is-this-ethical-ad12a8e1?mod=mw_rss_topstories",
-            "summary": "“The letter asked whether I had a favorite caregiver and if I would like to make a contribution in their honor,” he says. “The letters asked whether he had afavorite caregiver.”",
-            "date": "Fri, 26 Jun 2026 13:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CGCFU",
-            "impact": "Neutral"
-        },
-        {
-            "title": "El Niño’s coming back — and it could cost the global economy trillions",
-            "link": "https://www.marketwatch.com/story/oil-may-no-longer-pose-the-same-threat-to-the-global-economy-but-another-risk-may-be-around-the-corner-says-citigroup-629d2854?mod=mw_rss_topstories",
-            "summary": "An El Niño could disrupt agriculture, infrastructure and economywide productivity. Economists at the investment bank wrote that an El Niño can disrupt agriculture and infrastructure.",
-            "date": "Fri, 26 Jun 2026 13:29:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EL",
+            "stock_ticker": "HRC=F",
             "impact": "Bullish"
+        },
+        {
+            "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
+            "link": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html",
+            "summary": "SpaceX is one of the first companies to be added to Nasdaq's fast-track inclusion framework. Nasdaq recently adopted a fast track inclusion framework for its stock market.",
+            "date": "Sat, 27 Jun 2026 12:32:54 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPCX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Berkshire CEO Greg Abel sworn in as U.S. citizen at baseball game",
+            "link": "https://www.cnbc.com/2026/06/27/berkshire-ceo-greg-abel-sworn-in-as-us-citizen-at-baseball-game.html",
+            "summary": "The Iowa Cubs hosted an annual naturalization ceremony Thursday night in Des Moines. Abel was born in the Canadian city of Edmonton in 1962. About two dozen people from 16 countries participated in the ceremony.",
+            "date": "Sat, 27 Jun 2026 12:11:16 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BRK-B",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SpaceX stock has cooled. Hiring for jobs in the space economy hasn't",
+            "link": "https://www.cnbc.com/2026/06/27/spacex-jobs-stem-careers-labor-economy.html",
+            "summary": "The SpaceX IPO euphoria is over, but the bullish trend in space economy jobs remains in place within a labor market where many other sectors have slowed hiring.",
+            "date": "Sat, 27 Jun 2026 13:17:30 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPCX",
+            "impact": "Bullish"
+        },
+        {
+            "title": "‘She is retired’: Do I dip into my 401(k) to pay my mother’s $30,000 credit-card debt?",
+            "link": "https://www.marketwatch.com/story/she-is-retired-do-i-dip-into-my-401-k-to-pay-my-mothers-30-000-credit-card-debt-dc97569b?mod=mw_rss_topstories",
+            "summary": "“I want her to live on her Social Security instead of using it to pay off her credit-card debt,” she says.",
+            "date": "Sat, 27 Jun 2026 13:19:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SHE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m a CPA and tell my clients to claim Social Security early. Am I giving them bad advice?",
+            "link": "https://www.marketwatch.com/story/take-the-money-while-you-can-im-a-cpa-and-tell-my-clients-to-take-their-social-security-early-am-i-wrong-a50e55e8?mod=mw_rss_topstories",
+            "summary": "Only 8% to 10% of people wait until age 70 to claim. “Only 8-10% of the people I know wait to claim until they are 70,” he says.",
+            "date": "Sat, 27 Jun 2026 13:01:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "AI turbocharged the stock market. Now it’s firing up the economy.",
+            "link": "https://www.marketwatch.com/story/ai-turbocharged-the-stock-market-now-its-firing-up-the-economy-193d2eb1?mod=mw_rss_topstories",
+            "summary": "A modern-day gold rush is giving a big boost to U.S. GDP. A gold rush in the United States is causing a boost to GDP.",
+            "date": "Sat, 27 Jun 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Going back to the office may actually be better for you than working from home",
+            "link": "https://www.marketwatch.com/story/going-back-to-the-office-may-actually-be-better-for-you-than-working-from-home-18126286?mod=mw_rss_topstories",
+            "summary": "Returning to the office might be what fully remote workers actually need. Back to work may be what some remote workers need to get back on their feet.",
+            "date": "Sat, 27 Jun 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "G6P0.DE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Big Tech is obsessed with smart glasses. Now it has to convince people to wear them.",
+            "link": "https://www.marketwatch.com/story/big-tech-is-obsessed-with-smart-glasses-now-it-has-to-convince-people-to-wear-them-0d5ebd43?mod=mw_rss_topstories",
+            "summary": "Smart glasses could become the definitive hardware design of the AI era. If consumers buy in to the idea, smart glasses could be the future.",
+            "date": "Sat, 27 Jun 2026 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BBAI",
+            "impact": "Neutral"
         }
     ]
 }
