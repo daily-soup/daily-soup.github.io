@@ -1,6 +1,42 @@
 {
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "news": [
+        {
+            "title": "A 'perfect storm' points to a much smaller U.S. auto market by 2040",
+            "link": "https://www.cnbc.com/2026/06/28/us-auto-market.html",
+            "summary": "One forecaster says this is a fundamental change, and it is going to get worse. The auto industry is selling fewer cars, a new report says.",
+            "date": "Sun, 28 Jun 2026 11:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "A",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks",
+            "link": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
+            "summary": "Iran says it targeted U.S. military facilities in Kuwait and Bahrain following U.s. strikes on targets in and around the Strait of Hormuz.",
+            "date": "Sun, 28 Jun 2026 13:08:38 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Seniors in Medicare are about to get landmark obesity drug coverage — but many may not know it yet",
+            "link": "https://www.cnbc.com/2026/06/28/medicare-will-soon-cover-obesity-drugs-but-many-seniors-may-not-know.html",
+            "summary": "Many seniors may be unaware of the landmark coverage shift starting on July 1, with limited advertising seen from the government or Eli Lilly and Novo.",
+            "date": "Sun, 28 Jun 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BSGT",
+            "impact": "Neutral"
+        },
         {
             "title": "The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players",
             "link": "https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html",
@@ -14,111 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
-            "link": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
-            "summary": "The attack comes as the United States and Iran are supposed to be engaging in a 60-period of no hostilities as they hold talks to end their war.",
-            "date": "Sat, 27 Jun 2026 12:43:35 GMT",
+            "title": "From protein coffee to CBD soda: How brands are cashing in on the functional beverage boom",
+            "link": "https://www.cnbc.com/2026/06/28/protein-coffee-cbd-soda-starbucks-functional-beverage-boom.html",
+            "summary": "\"We're selling [almost] as much protein cold foam as we do flat whites,\" Starbuck's EMEA Manager of Beverage Development Sam Henderson said.",
+            "date": "Sun, 28 Jun 2026 05:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
-            "link": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html",
-            "summary": "SpaceX is one of the first companies to be added to Nasdaq's fast-track inclusion framework. Nasdaq recently adopted a fast track inclusion framework for its stock market.",
-            "date": "Sat, 27 Jun 2026 12:32:54 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPCX",
+            "stock_ticker": "JARED-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Berkshire CEO Greg Abel sworn in as U.S. citizen at baseball game",
-            "link": "https://www.cnbc.com/2026/06/27/berkshire-ceo-greg-abel-sworn-in-as-us-citizen-at-baseball-game.html",
-            "summary": "The Iowa Cubs hosted an annual naturalization ceremony Thursday night in Des Moines. Abel was born in the Canadian city of Edmonton in 1962. About two dozen people from 16 countries participated in the ceremony.",
-            "date": "Sat, 27 Jun 2026 12:11:16 GMT",
+            "title": "Your health insurer shouldn’t decide your treatment plan. That’s what your doctor — and AI — should be doing.",
+            "link": "https://www.marketwatch.com/story/your-health-insurer-shouldnt-decide-your-treatment-plan-thats-what-your-doctor-and-possibly-ai-should-be-doing-45152d6a?mod=mw_rss_topstories",
+            "summary": "With a digital health record, clinicians and AI-driven diagnostic tools would be able to see your full health history, and then make better decisions.",
+            "date": "Sun, 28 Jun 2026 14:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BRK-B",
+            "stock_ticker": "RTV.DE",
             "impact": "Neutral"
         },
         {
-            "title": "SpaceX stock has cooled. Hiring for jobs in the space economy hasn't",
-            "link": "https://www.cnbc.com/2026/06/27/spacex-jobs-stem-careers-labor-economy.html",
-            "summary": "The SpaceX IPO euphoria is over, but the bullish trend in space economy jobs remains in place within a labor market where many other sectors have slowed hiring.",
-            "date": "Sat, 27 Jun 2026 13:17:30 GMT",
+            "title": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
+            "link": "https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories",
+            "summary": "“This medication was generic,” she says. “It was a generic pill.” “I’m glad I took it,’ she says, “because it was generic.’",
+            "date": "Sun, 28 Jun 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPCX",
-            "impact": "Bullish"
+            "stock_ticker": "IT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Micron is about to be more profitable than any U.S. company except Nvidia and Google",
+            "link": "https://www.marketwatch.com/story/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google-3a83e343?mod=mw_rss_topstories",
+            "summary": "Big Tech companies are willing to pay astronomical prices for AI memory components, helping spark a dramatic turnaround in Micron’s finances. Micron is a memory supplier to Apple, Google, Facebook and other tech giants.",
+            "date": "Sun, 28 Jun 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Forget the ‘Sell America’ trade: Why U.S. markets keep proving the naysayers wrong",
+            "link": "https://www.marketwatch.com/story/forget-the-sell-america-trade-why-u-s-markets-keep-proving-the-naysayers-wrong-03a0ab10?mod=mw_rss_topstories",
+            "summary": "The dollar remains the undisputed global reserve currency. Foreign investors are still pouring money into U.S. assets, and the dollar is still the most popular currency.",
+            "date": "Sun, 28 Jun 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
+            "impact": "Neutral"
         },
         {
             "title": "‘She is retired’: Do I dip into my 401(k) to pay my mother’s $30,000 credit-card debt?",
             "link": "https://www.marketwatch.com/story/she-is-retired-do-i-dip-into-my-401-k-to-pay-my-mothers-30-000-credit-card-debt-dc97569b?mod=mw_rss_topstories",
             "summary": "“I want her to live on her Social Security instead of using it to pay off her credit-card debt,” she says.",
-            "date": "Sat, 27 Jun 2026 13:19:00 GMT",
+            "date": "Sun, 28 Jun 2026 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "SHE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m a CPA and tell my clients to claim Social Security early. Am I giving them bad advice?",
-            "link": "https://www.marketwatch.com/story/take-the-money-while-you-can-im-a-cpa-and-tell-my-clients-to-take-their-social-security-early-am-i-wrong-a50e55e8?mod=mw_rss_topstories",
-            "summary": "Only 8% to 10% of people wait until age 70 to claim. “Only 8-10% of the people I know wait to claim until they are 70,” he says.",
-            "date": "Sat, 27 Jun 2026 13:01:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "AI turbocharged the stock market. Now it’s firing up the economy.",
-            "link": "https://www.marketwatch.com/story/ai-turbocharged-the-stock-market-now-its-firing-up-the-economy-193d2eb1?mod=mw_rss_topstories",
-            "summary": "A modern-day gold rush is giving a big boost to U.S. GDP. A gold rush in the United States is causing a boost to GDP.",
-            "date": "Sat, 27 Jun 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Going back to the office may actually be better for you than working from home",
-            "link": "https://www.marketwatch.com/story/going-back-to-the-office-may-actually-be-better-for-you-than-working-from-home-18126286?mod=mw_rss_topstories",
-            "summary": "Returning to the office might be what fully remote workers actually need. Back to work may be what some remote workers need to get back on their feet.",
-            "date": "Sat, 27 Jun 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "G6P0.DE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Big Tech is obsessed with smart glasses. Now it has to convince people to wear them.",
-            "link": "https://www.marketwatch.com/story/big-tech-is-obsessed-with-smart-glasses-now-it-has-to-convince-people-to-wear-them-0d5ebd43?mod=mw_rss_topstories",
-            "summary": "Smart glasses could become the definitive hardware design of the AI era. If consumers buy in to the idea, smart glasses could be the future.",
-            "date": "Sat, 27 Jun 2026 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BBAI",
             "impact": "Neutral"
         }
     ]
