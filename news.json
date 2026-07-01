@@ -1,124 +1,124 @@
 {
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "news": [
         {
-            "title": "Small-cap stocks enjoy their best first half in 35 years. Here's what's driving it",
-            "link": "https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html",
-            "summary": "The advance marks a sharp turnaround after years of underperformance versus large-cap peers. The advance follows a strong start to the year for U.S. small-caps.",
-            "date": "Tue, 30 Jun 2026 13:04:02 GMT",
+            "title": "Trump Accounts for kids launch July 4: What parents need to know",
+            "link": "https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html",
+            "summary": "Trump accounts are free, but there are restrictions on how and when they can be withdrawn. Here's a breakdown of how Trump Accounts work, who qualifies and when.",
+            "date": "Wed, 01 Jul 2026 12:15:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TNA",
+            "stock_ticker": "DJT",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'",
+            "link": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html",
+            "summary": "Karp says token costs are forcing companies to choose open weight models. He says companies are choosing to prioritize efficiency over so-called tokenmaxxing.",
+            "date": "Wed, 01 Jul 2026 15:30:23 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KANCHI.BO",
             "impact": "Neutral"
         },
         {
-            "title": "Supreme Court upholds birthright citizenship, blocks Trump order",
-            "link": "https://www.cnbc.com/2026/06/30/supreme-court-birthright-citizenship-ruling.html",
-            "summary": "President Donald Trump attended oral arguments in the case, underscoring his staunch opposition to granting automatic citizenship to many immigrants' babies. Trump: \"I don't think it's fair\" to give citizenship to babies of illegal immigrants.",
-            "date": "Tue, 30 Jun 2026 15:17:03 GMT",
+            "title": "Meta pops 10% as company makes cloud push to sell excess AI compute power capacity",
+            "link": "https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html",
+            "summary": "Some investors have been uneasy about the company's infrastructure spending plans. The new business is a welcome signal for some investors who have been wary of the company.",
+            "date": "Wed, 01 Jul 2026 15:29:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "4770.TW",
+            "stock_ticker": "META",
             "impact": "Neutral"
         },
         {
-            "title": "AWS puts $1 billion into new AI unit to embed engineers with customers, joining growing wave",
-            "link": "https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html",
-            "summary": "AWS FDEs will look to leave behind self-sufficient teams with new AI solutions and capabilities in a matter of weeks, the company said.",
-            "date": "Tue, 30 Jun 2026 15:00:01 GMT",
+            "title": "Trump says outside funds 'run my money' after disclosure shows billions in 2025 revenue",
+            "link": "https://www.cnbc.com/2026/07/01/trump-money-financial-disclosure-crypto-billions.html",
+            "summary": "The 927-page annual financial disclosure form shows Trump's purchases and sales of hundreds of companies' stocks. The list includes Nvidia, Amazon and Microsoft.",
+            "date": "Wed, 01 Jul 2026 15:27:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AWSHX",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar",
-            "link": "https://www.cnbc.com/2026/06/30/oil-prices-brent-wti-crude-trump-iran.html",
-            "summary": "The moves come as oil traders monitor the prospect of U.S.-Iran talks in Doha on Tuesday. The talks are expected to focus on Iran's nuclear program.",
-            "date": "Tue, 30 Jun 2026 14:23:45 GMT",
+            "title": "GM reports 4.2% decline in Q2 U.S. sales as EV demand falls",
+            "link": "https://www.cnbc.com/2026/07/01/q2-auto-sales-gm-stellantis-toyota-hyundai.html",
+            "summary": "General Motors' second-quarter U.S. sales fell 4.2% as year-over-year demand for its all-electric vehicles and Chevrolet Silverado pickup trucks declined.",
+            "date": "Wed, 01 Jul 2026 15:34:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Supreme Court strikes down limits on political parties' campaign spending, in win for GOP",
-            "link": "https://www.cnbc.com/2026/06/30/supreme-court-campaign-finance-republican.html",
-            "summary": "President Donald Trump took a victory lap after the ruling. He wrote on Truth Social that it was \"A BIG WIN FOR REPUBLICANS\"",
-            "date": "Tue, 30 Jun 2026 15:15:55 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "4770.TW",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule — just in time for hail and hurricane season",
-            "link": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
-            "summary": "Those who find extensive damage to their roofs might be stuck between two options. File an insurance claim, which could trigger a premium increase, or cough up the cash for the necessary repairs or replacement.",
-            "date": "Tue, 30 Jun 2026 15:11:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DE000SL0CY36.SG",
+            "stock_ticker": "GM",
             "impact": "Bullish"
         },
         {
-            "title": "What’s a ‘soft’ off day? How to take one without getting in trouble at work.",
-            "link": "https://www.marketwatch.com/story/whats-a-soft-off-day-how-to-take-one-without-getting-in-trouble-at-work-10706631?mod=mw_rss_topstories",
-            "summary": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Visit CNN.com/Travel each week for a new gallery of snapshots from around the world.",
-            "date": "Tue, 30 Jun 2026 15:09:00 GMT",
+            "title": "‘I don’t think I’ll make it to 80’: I’m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
+            "link": "https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories",
+            "summary": "“I’m torn between these two options,” he says. “I'm torn between this and that.”",
+            "date": "Wed, 01 Jul 2026 15:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "OSPRU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Opening a ‘Trump account’ for your children? Here is the risk you need to recognize first.",
+            "link": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories",
+            "summary": "The new accounts ban bonds and international stocks, forcing parents to bet their children’s financial future entirely on U.S. equities.",
+            "date": "Wed, 01 Jul 2026 15:29:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^FANGST",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This is the best time ‘in a generation’ to buy space and defense stocks, analysts say",
+            "link": "https://www.marketwatch.com/story/this-is-the-best-time-in-a-generation-to-buy-space-and-defense-stocks-analysts-say-df4a85a4?mod=mw_rss_topstories",
+            "summary": " Wedbush analysts are taking a bullish view of the  space sector. They are initiating coverage of SpaceX and other stocks. Wedbush: We have a 'buy' rating on SpaceX.",
+            "date": "Wed, 01 Jul 2026 15:21:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P000021TT.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Warsh tells Wall Street to stop looking to the Fed for clues on interest rates — and start watching the economic data",
+            "link": "https://www.marketwatch.com/story/warsh-warns-investors-not-to-expect-hints-at-future-fed-rate-moves-bc945c02?mod=mw_rss_topstories",
+            "summary": "New Federal Reserve chief Kevin Warsh gave no hint as to whether the central bank would raise interest rates in July. Warsh repeated his dislike of so-called forward guidance to alert investors to future Fed actions.",
+            "date": "Wed, 01 Jul 2026 15:09:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "C4Y4.MU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s what’s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
+            "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
+            "summary": "This month is a good month to save on streaming, despite the return of ‘Enola Holmes’ to Netflix and ‘Silo” to Apple.",
+            "date": "Wed, 01 Jul 2026 15:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "0G8L.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Your Fourth of July hamburger meat was likely imported — and you’re right to have a beef with that",
-            "link": "https://www.marketwatch.com/story/your-fourth-of-july-hamburger-meat-was-likely-imported-and-youre-right-to-have-a-beef-with-that-c25d7c31?mod=mw_rss_topstories",
-            "summary": "The real reason your backyard BBQ is expensive has nothing to do with the supermarket. The real reason is that it's a lot more expensive than you think.",
-            "date": "Tue, 30 Jun 2026 15:07:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RTV.DE",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Retiring abroad sounds amazing. What could possibly go wrong?",
-            "link": "https://www.marketwatch.com/story/retiring-abroad-sounds-amazing-what-could-possibly-go-wrong-2e3c8af5?mod=mw_rss_topstories",
-            "summary": "We hear about the older Americans who bask in apparent paradise far from home. But that’s not the whole story. The older Americans we hear about are often in their 60s, 70s and 80s.",
-            "date": "Tue, 30 Jun 2026 14:47:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WOSAL.BO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Warsh says he’s determined to slay inflation. Investors want to know if he really means it.",
-            "link": "https://www.marketwatch.com/story/warsh-says-hes-determined-to-slay-inflation-investors-want-to-know-if-he-really-means-it-2ada8360?mod=mw_rss_topstories",
-            "summary": "New Federal Reserve Chairman Kevin Warsh isn’t a stranger on Wall Street. The mystery to investors is whether he’s committed as he sounds to stamp out U.S. inflation.",
-            "date": "Tue, 30 Jun 2026 14:25:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "002290.SZ",
             "impact": "Neutral"
         }
     ]
