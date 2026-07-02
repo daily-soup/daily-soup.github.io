@@ -1,124 +1,124 @@
 {
-    "date": "2026-07-01",
+    "date": "2026-07-02",
     "news": [
         {
-            "title": "Trump Accounts for kids launch July 4: What parents need to know",
-            "link": "https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html",
-            "summary": "Trump accounts are free, but there are restrictions on how and when they can be withdrawn. Here's a breakdown of how Trump Accounts work, who qualifies and when.",
-            "date": "Wed, 01 Jul 2026 12:15:01 GMT",
+            "title": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
+            "link": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html",
+            "summary": "Nonfarm payrolls are expected to rise by 115,000 in June. The unemployment rate is expected to hold steady at 4.3%.",
+            "date": "Thu, 02 Jul 2026 13:26:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'",
-            "link": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html",
-            "summary": "Karp says token costs are forcing companies to choose open weight models. He says companies are choosing to prioritize efficiency over so-called tokenmaxxing.",
-            "date": "Wed, 01 Jul 2026 15:30:23 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KANCHI.BO",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Meta pops 10% as company makes cloud push to sell excess AI compute power capacity",
-            "link": "https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html",
-            "summary": "Some investors have been uneasy about the company's infrastructure spending plans. The new business is a welcome signal for some investors who have been wary of the company.",
-            "date": "Wed, 01 Jul 2026 15:29:01 GMT",
+            "title": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit",
+            "link": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
+            "summary": "Microsoft is the latest tech company to form a business focused on helping customers understand and implement artificial intelligence. Microsoft's new business is called Microsoft Artificial Intelligence Services.",
+            "date": "Thu, 02 Jul 2026 13:00:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "META",
+            "stock_ticker": "MSFT",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says outside funds 'run my money' after disclosure shows billions in 2025 revenue",
-            "link": "https://www.cnbc.com/2026/07/01/trump-money-financial-disclosure-crypto-billions.html",
-            "summary": "The 927-page annual financial disclosure form shows Trump's purchases and sales of hundreds of companies' stocks. The list includes Nvidia, Amazon and Microsoft.",
-            "date": "Wed, 01 Jul 2026 15:27:05 GMT",
+            "title": "Tesla stock sinks 6% despite strong deliveries report",
+            "link": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html",
+            "summary": "Tesla is trying to recover from consecutive annual declines in vehicle sales. The declines were partly caused by a consumer backlash against CEO Elon Musk.",
+            "date": "Thu, 02 Jul 2026 14:41:13 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "TSLA",
             "impact": "Neutral"
         },
         {
-            "title": "GM reports 4.2% decline in Q2 U.S. sales as EV demand falls",
-            "link": "https://www.cnbc.com/2026/07/01/q2-auto-sales-gm-stellantis-toyota-hyundai.html",
-            "summary": "General Motors' second-quarter U.S. sales fell 4.2% as year-over-year demand for its all-electric vehicles and Chevrolet Silverado pickup trucks declined.",
-            "date": "Wed, 01 Jul 2026 15:34:45 GMT",
+            "title": "Autonomous drone startup Quantum Systems raises $1.2 billion as investors pile into defense",
+            "link": "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
+            "summary": "Defense tech startups are raising record amounts on both sides of the Atlantic. There has been a flurry of investment in the sector. There have been a number of high-profile cases of defense tech startups failing.",
+            "date": "Thu, 02 Jul 2026 14:27:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GM",
+            "stock_ticker": "ARKQ",
             "impact": "Bullish"
         },
         {
-            "title": "‘I don’t think I’ll make it to 80’: I’m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
-            "link": "https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories",
-            "summary": "“I’m torn between these two options,” he says. “I'm torn between this and that.”",
-            "date": "Wed, 01 Jul 2026 15:30:00 GMT",
+            "title": "Led by Buc-ee’s and new rival Dolly Parton, America’s gas station chains are in a mega-sizing era",
+            "link": "https://www.cnbc.com/2026/07/02/led-by-buc-ees-dolly-parton-americas-gas-stations-go-mega-size-.html",
+            "summary": "Dolly Parton is getting in on the retail trend. Gas station chains led by Buc-ee's are coming closer to rivaling America's big box stores.",
+            "date": "Thu, 02 Jul 2026 14:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OSPRU",
+            "stock_ticker": "LEDS",
             "impact": "Neutral"
         },
         {
-            "title": "Opening a ‘Trump account’ for your children? Here is the risk you need to recognize first.",
-            "link": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories",
-            "summary": "The new accounts ban bonds and international stocks, forcing parents to bet their children’s financial future entirely on U.S. equities.",
-            "date": "Wed, 01 Jul 2026 15:29:00 GMT",
+            "title": "My doctor friend objected to his hospital’s fundraising tactics. Did management go too far?",
+            "link": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
+            "summary": "“This shocking program was exploiting doctors and the trust inherent in their relationships with patients,” he said. “This was exploiting the trust that doctors have with their patients.”",
+            "date": "Thu, 02 Jul 2026 15:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^FANGST",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "This is the best time ‘in a generation’ to buy space and defense stocks, analysts say",
-            "link": "https://www.marketwatch.com/story/this-is-the-best-time-in-a-generation-to-buy-space-and-defense-stocks-analysts-say-df4a85a4?mod=mw_rss_topstories",
-            "summary": " Wedbush analysts are taking a bullish view of the  space sector. They are initiating coverage of SpaceX and other stocks. Wedbush: We have a 'buy' rating on SpaceX.",
-            "date": "Wed, 01 Jul 2026 15:21:00 GMT",
+            "title": "How you as an investor can get ahead of the next AI investment wave",
+            "link": "https://www.marketwatch.com/story/how-you-as-an-investor-can-get-ahead-of-the-next-ai-investment-wave-ffc6512a?mod=mw_rss_topstories",
+            "summary": "Also in Weekend Reads: Eldercare and family relationships, stock-market prospects for the second half of 2026, and how to set your summer streaming budget.",
+            "date": "Thu, 02 Jul 2026 14:53:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P000021TT.F",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Warsh tells Wall Street to stop looking to the Fed for clues on interest rates — and start watching the economic data",
-            "link": "https://www.marketwatch.com/story/warsh-warns-investors-not-to-expect-hints-at-future-fed-rate-moves-bc945c02?mod=mw_rss_topstories",
-            "summary": "New Federal Reserve chief Kevin Warsh gave no hint as to whether the central bank would raise interest rates in July. Warsh repeated his dislike of so-called forward guidance to alert investors to future Fed actions.",
-            "date": "Wed, 01 Jul 2026 15:09:00 GMT",
+            "title": "Where can I invest my kid’s ‘Trump account’ money? The Treasury Department just answered that question.",
+            "link": "https://www.marketwatch.com/story/where-can-i-invest-my-kids-trump-account-money-the-treasury-department-just-answered-that-question-4f656574?mod=mw_rss_topstories",
+            "summary": "Parents and investors are learning which funds they can actually use. The money in ‘Trump accounts’ has to be invested in low-cost index funds.",
+            "date": "Thu, 02 Jul 2026 14:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "C4Y4.MU",
+            "stock_ticker": "WFCF",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s what’s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
-            "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
-            "summary": "This month is a good month to save on streaming, despite the return of ‘Enola Holmes’ to Netflix and ‘Silo” to Apple.",
-            "date": "Wed, 01 Jul 2026 15:00:00 GMT",
+            "title": "Why a founder at age 50 is twice as likely to find success as one at age 30",
+            "link": "https://www.marketwatch.com/story/older-workers-are-fighting-ageism-by-starting-their-own-businesses-and-theyre-outperforming-younger-entrepreneurs-5fc701fc?mod=mw_rss_topstories",
+            "summary": "Older workers are fighting ageism by starting their own businesses. They’re outperforming younger entrepreneurs, according to a new study.",
+            "date": "Thu, 02 Jul 2026 14:47:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0G8L.L",
+            "stock_ticker": "3823.T",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
+            "link": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
+            "summary": "“Part of me would prefer to leave more to those for whom the money could make a meaningful difference,” he says.",
+            "date": "Thu, 02 Jul 2026 14:34:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LIME",
             "impact": "Neutral"
         }
     ]
