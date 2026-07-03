@@ -1,11 +1,95 @@
 {
-    "date": "2026-07-02",
+    "date": "2026-07-03",
     "news": [
         {
-            "title": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
-            "link": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html",
-            "summary": "Nonfarm payrolls are expected to rise by 115,000 in June. The unemployment rate is expected to hold steady at 4.3%.",
-            "date": "Thu, 02 Jul 2026 13:26:28 GMT",
+            "title": "5 takeaways from President Donald Trump's interview with CNBC",
+            "link": "https://www.cnbc.com/2026/07/02/5-takeaways-from-president-donald-trumps-interview-with-cnbc.html",
+            "summary": "The president defended his family's business and said he feels bad that the presidency creates a conflict of interest in any of his children's investments.",
+            "date": "Thu, 02 Jul 2026 23:20:58 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ES=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches",
+            "link": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html",
+            "summary": "Ford CEO Jim Farley says the automaker has learned from its past quality and recall issues. Farley said the issues have hurt its earnings and stained its reputation.",
+            "date": "Fri, 03 Jul 2026 12:08:21 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Extreme heat wave threatens U.S. power grids and July 4 travel",
+            "link": "https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html",
+            "summary": "The heat wave threatens to overwhelm U.S. grids and may force some to change their plans. It comes on one of the busiest travel weeks of the year.",
+            "date": "Fri, 03 Jul 2026 08:06:40 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EXTR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump’s Freedom 250 draws corporate sponsors with business before his administration",
+            "link": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html",
+            "summary": "Boeing, Lockheed Martin and Oracle are sponsoring a Trump-aligned effort celebrating America’s 250th birthday. Companies with federal interests — including Boeing, LockheedMartin and Oracle — are sponsoring the effort.",
+            "date": "Fri, 03 Jul 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FRHC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "As ACA enrollment falls by millions, Trump administration and policy gurus disagree on why",
+            "link": "https://www.cnbc.com/2026/07/03/aca-enrollment-enhanced-subsidies-lapse-fraud.html",
+            "summary": "The Affordable Care Act marketplace enrollment has declined by 3 million people. The Trump administration points to fraud controls. Policy experts point to cost. The Obama administration pointed to cost controls.",
+            "date": "Fri, 03 Jul 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "A looming AI disappointment and rising yields. Why one research firm is hitting the brakes on U.S. stocks.",
+            "link": "https://www.marketwatch.com/story/a-looming-ai-disappointment-and-rising-yields-why-one-research-firm-is-hitting-the-brakes-on-u-s-stocks-4bfaa67b?mod=mw_rss_topstories",
+            "summary": " MacroResearchBoard warns of big test for investors in the next 12 months. In a market dominated by tech stocks, a big test is facing investors.",
+            "date": "Fri, 03 Jul 2026 14:17:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "A",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
+            "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+            "summary": "She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400. “She said, ‘I’m so glad you sent me that,’” she said.",
+            "date": "Fri, 03 Jul 2026 14:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WFC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "U.S. stocks have delivered 8.7% a year since independence was declared in 1776",
+            "link": "https://www.marketwatch.com/story/u-s-stocks-have-delivered-8-7-a-year-since-independence-was-declared-in-1776-7513ae04?mod=mw_rss_topstories",
+            "summary": ". What 250 years of independence have meant for America’s investors. What has the U.S. economy done in the last 250 years?",
+            "date": "Fri, 03 Jul 2026 13:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,106 +98,22 @@
             "impact": "Neutral"
         },
         {
-            "title": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit",
-            "link": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
-            "summary": "Microsoft is the latest tech company to form a business focused on helping customers understand and implement artificial intelligence. Microsoft's new business is called Microsoft Artificial Intelligence Services.",
-            "date": "Thu, 02 Jul 2026 13:00:02 GMT",
+            "title": "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
+            "link": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
+            "summary": "“He lived rent-free, helping her with health-related issues and other tasks,” her daughter says. “He’s been a great help to us.”",
+            "date": "Fri, 03 Jul 2026 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MSFT",
+            "stock_ticker": "SHE",
             "impact": "Neutral"
         },
         {
-            "title": "Tesla stock sinks 6% despite strong deliveries report",
-            "link": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html",
-            "summary": "Tesla is trying to recover from consecutive annual declines in vehicle sales. The declines were partly caused by a consumer backlash against CEO Elon Musk.",
-            "date": "Thu, 02 Jul 2026 14:41:13 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TSLA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Autonomous drone startup Quantum Systems raises $1.2 billion as investors pile into defense",
-            "link": "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
-            "summary": "Defense tech startups are raising record amounts on both sides of the Atlantic. There has been a flurry of investment in the sector. There have been a number of high-profile cases of defense tech startups failing.",
-            "date": "Thu, 02 Jul 2026 14:27:31 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ARKQ",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Led by Buc-ee’s and new rival Dolly Parton, America’s gas station chains are in a mega-sizing era",
-            "link": "https://www.cnbc.com/2026/07/02/led-by-buc-ees-dolly-parton-americas-gas-stations-go-mega-size-.html",
-            "summary": "Dolly Parton is getting in on the retail trend. Gas station chains led by Buc-ee's are coming closer to rivaling America's big box stores.",
-            "date": "Thu, 02 Jul 2026 14:30:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LEDS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My doctor friend objected to his hospital’s fundraising tactics. Did management go too far?",
-            "link": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
-            "summary": "“This shocking program was exploiting doctors and the trust inherent in their relationships with patients,” he said. “This was exploiting the trust that doctors have with their patients.”",
-            "date": "Thu, 02 Jul 2026 15:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How you as an investor can get ahead of the next AI investment wave",
-            "link": "https://www.marketwatch.com/story/how-you-as-an-investor-can-get-ahead-of-the-next-ai-investment-wave-ffc6512a?mod=mw_rss_topstories",
-            "summary": "Also in Weekend Reads: Eldercare and family relationships, stock-market prospects for the second half of 2026, and how to set your summer streaming budget.",
-            "date": "Thu, 02 Jul 2026 14:53:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Where can I invest my kid’s ‘Trump account’ money? The Treasury Department just answered that question.",
-            "link": "https://www.marketwatch.com/story/where-can-i-invest-my-kids-trump-account-money-the-treasury-department-just-answered-that-question-4f656574?mod=mw_rss_topstories",
-            "summary": "Parents and investors are learning which funds they can actually use. The money in ‘Trump accounts’ has to be invested in low-cost index funds.",
-            "date": "Thu, 02 Jul 2026 14:50:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WFCF",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why a founder at age 50 is twice as likely to find success as one at age 30",
-            "link": "https://www.marketwatch.com/story/older-workers-are-fighting-ageism-by-starting-their-own-businesses-and-theyre-outperforming-younger-entrepreneurs-5fc701fc?mod=mw_rss_topstories",
-            "summary": "Older workers are fighting ageism by starting their own businesses. They’re outperforming younger entrepreneurs, according to a new study.",
-            "date": "Thu, 02 Jul 2026 14:47:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "3823.T",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
-            "link": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
-            "summary": "“Part of me would prefer to leave more to those for whom the money could make a meaningful difference,” he says.",
-            "date": "Thu, 02 Jul 2026 14:34:00 GMT",
+            "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
+            "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
+            "summary": "“It seems like half of the workforce at our local Walmart is over 65,” she says. “It’s a little bit of a shock.” “I’m like, ‘Oh my God,’ she adds.",
+            "date": "Fri, 03 Jul 2026 12:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
