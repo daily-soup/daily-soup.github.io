@@ -1,17 +1,41 @@
 {
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "news": [
         {
-            "title": "First known congressional SpaceX stock buys surface after record IPO",
-            "link": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
-            "summary": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump.",
-            "date": "Fri, 03 Jul 2026 18:16:43 GMT",
+            "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
+            "link": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
+            "summary": "France and India seek AI data center investment and cloud infrastructure. Macron and Modi are courting tech CEOs as France and India want to invest in AI.",
+            "date": "Sat, 04 Jul 2026 09:33:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FSLR",
+            "stock_ticker": "JARED-USD",
             "impact": "Neutral"
+        },
+        {
+            "title": "Cargo vessel in Red Sea reports coming under attack, UK maritime body says",
+            "link": "https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html",
+            "summary": "The incident was reported in one of the world's most crucial trade transit routes. It comes amid a fragile ceasefire between Iran and the U.S.",
+            "date": "Sun, 05 Jul 2026 12:57:45 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "001213.SZ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump Accounts for kids launched July 4: What parents need to know",
+            "link": "https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html",
+            "summary": "Trump accounts are free, but there are restrictions on how and when they can be withdrawn. Here's a breakdown of how Trump Accounts work, who qualifies and when.",
+            "date": "Sun, 05 Jul 2026 13:14:22 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Bearish"
         },
         {
             "title": "The World Cup sends prediction market volumes soaring to record highs",
@@ -26,99 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death",
-            "link": "https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html",
-            "summary": "Iran plans a six-day funeral for Ayatollah Ali Khamenei. Ceremonies will be held across Iran and Iraq before burial in Mashhad.",
-            "date": "Sat, 04 Jul 2026 05:20:52 GMT",
+            "title": "Top Wall Street analysts prefer these dividend stocks for boosting portfolio returns",
+            "link": "https://www.cnbc.com/2026/07/05/analysts-prefer-these-dividend-stocks-for-boosting-portfolio-returns.html",
+            "summary": "Identifying the right stocks can be challenging. With thousands of dividend-paying companies to choose from, it can be hard to find the right one.",
+            "date": "Sun, 05 Jul 2026 12:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3.SA",
+            "stock_ticker": "TOP",
             "impact": "Neutral"
         },
         {
-            "title": "UK and France agree with Oman to ensure safety of its territorial waters",
-            "link": "https://www.cnbc.com/2026/07/04/uk-france-agree-with-oman-to-ensure-safety-of-its-territorial-waters.html",
-            "summary": "France says it has deployed mine countermeasures to the Middle East, including two mine-hunting ships. France said it has deployed mine counter Measures to the Mideast.",
-            "date": "Sat, 04 Jul 2026 09:58:07 GMT",
+            "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
+            "link": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
+            "summary": "“Part of me would prefer to leave more to those for whom the money could make a meaningful difference,” he says.",
+            "date": "Sun, 05 Jul 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UK",
+            "stock_ticker": "BSGT",
             "impact": "Neutral"
         },
         {
-            "title": "Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden",
-            "link": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
-            "summary": "James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International. The company owned just one deli.",
-            "date": "Sat, 04 Jul 2026 01:04:34 GMT",
+            "title": "Hybrids are the breakout star of the U.S. car market as EV demand fades",
+            "link": "https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories",
+            "summary": "Hybrid cars are winning on function and price. Hybrids aren’t a bridge to EVs anymore — instead, they’re winning on Function and Price.",
+            "date": "Sun, 05 Jul 2026 13:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SEEK",
+            "stock_ticker": "BT22.MU",
             "impact": "Neutral"
         },
         {
-            "title": "When it comes to beating the stock market, no news really is good news",
-            "link": "https://www.marketwatch.com/story/when-it-comes-to-beating-the-stock-market-no-news-really-is-good-news-43328bf0?mod=mw_rss_topstories",
-            "summary": "A new study has found a flaw in how people interpret the very headlines they are seeing. The study was published in the Journal of Social Psychology.",
-            "date": "Sat, 04 Jul 2026 13:10:00 GMT",
+            "title": "Why the stock market’s red-hot momentum trade might be headed for a violent unwind this month",
+            "link": "https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397?mod=mw_rss_topstories",
+            "summary": "The rumblings have already started. Momentum trades tend to struggle in July. This year may be particularly volatile, says one strategist.",
+            "date": "Sun, 05 Jul 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHEN",
+            "stock_ticker": "3823.T",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s what’s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
-            "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
-            "summary": "This month is a good month to save on streaming, despite the return of ‘Enola Holmes’ to Netflix and ‘Silo” to Apple.",
-            "date": "Fri, 03 Jul 2026 20:00:00 GMT",
+            "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Should I confront her?",
+            "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+            "summary": "She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400. “She said, ‘I’m so glad you sent me that,’” she said.",
+            "date": "Sun, 05 Jul 2026 12:48:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0G8L.L",
+            "stock_ticker": "WFC",
             "impact": "Neutral"
         },
         {
-            "title": "Record beef imports are flooding the U.S. — so why is your Fourth of July BBQ so expensive?",
-            "link": "https://www.marketwatch.com/story/your-fourth-of-july-hamburger-meat-was-likely-imported-and-youre-right-to-have-a-beef-with-that-c25d7c31?mod=mw_rss_topstories",
-            "summary": "Washington’s recipe for high costs — import more meat — only grills your wallet. Beef prices are sizzling and Washington’S recipe to high costs is importing more meat.",
-            "date": "Fri, 03 Jul 2026 19:34:00 GMT",
+            "title": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
+            "link": "https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories",
+            "summary": "A Columbus gamer decided to liquidate his collection of video games. He decided to sell off his entire collection of gaming media. The collection was worth more than $100,000.",
+            "date": "Sat, 04 Jul 2026 21:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "REC.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Your aging parent has a new romance. Here’s how to protect your inheritance — without looking greedy.",
-            "link": "https://www.marketwatch.com/story/your-aging-parent-has-a-new-romance-heres-how-to-protect-your-inheritance-without-looking-greedy-cbc219ab?mod=mw_rss_topstories",
-            "summary": "Talk with your single mom or dad about estate-planning issues before they remarries. Talk with them about estate planning before they get married or divorced.",
-            "date": "Fri, 03 Jul 2026 19:32:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RTV.DE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Opening a ‘Trump account’ for your children? Here is the risk you need to reckon with first.",
-            "link": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories",
-            "summary": "The new accounts ban bonds and international stocks, forcing parents to bet their children’s financial future entirely on U.S. equities.",
-            "date": "Fri, 03 Jul 2026 19:10:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "^FANGST",
+            "stock_ticker": "3083.TWO",
             "impact": "Neutral"
         }
     ]
