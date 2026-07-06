@@ -1,124 +1,124 @@
 {
-    "date": "2026-07-05",
+    "date": "2026-07-06",
     "news": [
         {
-            "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
-            "link": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
-            "summary": "France and India seek AI data center investment and cloud infrastructure. Macron and Modi are courting tech CEOs as France and India want to invest in AI.",
-            "date": "Sat, 04 Jul 2026 09:33:19 GMT",
+            "title": "Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios",
+            "link": "https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html",
+            "summary": "Microsoft is cutting jobs in its commercial business and its Xbox gaming group. Revenue has been shrinking in the gaming group, where revenue has also been shrinking.",
+            "date": "Mon, 06 Jul 2026 14:56:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JARED-USD",
-            "impact": "Neutral"
+            "stock_ticker": "MSFT",
+            "impact": "Bullish"
         },
         {
-            "title": "Cargo vessel in Red Sea reports coming under attack, UK maritime body says",
-            "link": "https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html",
-            "summary": "The incident was reported in one of the world's most crucial trade transit routes. It comes amid a fragile ceasefire between Iran and the U.S.",
-            "date": "Sun, 05 Jul 2026 12:57:45 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "001213.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump Accounts for kids launched July 4: What parents need to know",
-            "link": "https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html",
-            "summary": "Trump accounts are free, but there are restrictions on how and when they can be withdrawn. Here's a breakdown of how Trump Accounts work, who qualifies and when.",
-            "date": "Sun, 05 Jul 2026 13:14:22 GMT",
+            "title": "Trump plugs Dell at first-ever White House opening bell, sending shares soaring",
+            "link": "https://www.cnbc.com/2026/07/06/trump-opening-bell-ceo-nyse-nasdaq-stocks-accounts.html",
+            "summary": "Trump rang the bell in the Oval Office to open Monday's trading. He launched investment accounts for babies born from 2025 through 2028.",
+            "date": "Mon, 06 Jul 2026 14:53:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Bearish"
+            "impact": "Neutral"
         },
         {
-            "title": "The World Cup sends prediction market volumes soaring to record highs",
-            "link": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
-            "summary": "Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.",
-            "date": "Sat, 04 Jul 2026 12:54:04 GMT",
+            "title": "Trump defends call urging Balogun red card review: 'It wasn't a foul'",
+            "link": "https://www.cnbc.com/2026/07/06/trump-balogun-fifa-world-cup-us-belgium.html",
+            "summary": "Trump called FIFA President Gianni Infantino about the suspension of Folarin Balogun. \"I didn't know what the hell a red card was,\" said Trump.",
+            "date": "Mon, 06 Jul 2026 16:12:09 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Klarna seeks U.S. bank charter in latest push beyond buy now, pay later",
+            "link": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html",
+            "summary": "Klarna joins a wave of fintech and crypto firms seeking entry to the traditional banking system. Klarna will be available in the U.S. and Europe, with plans to roll out to other countries.",
+            "date": "Mon, 06 Jul 2026 15:36:23 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "KLAR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SpaceX President Gwynne Shotwell to donate stock to Trump Accounts",
+            "link": "https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html",
+            "summary": "President Donald Trump told CNBC's Joe Kernen last week that he thought SpaceX CEO Elon Musk would donate company stock to the program. Trump said he thought Musk would give stock.",
+            "date": "Mon, 06 Jul 2026 15:40:20 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPCX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Silver has plunged 50% from its January peak to $60. Why it could hit $130 next year.",
+            "link": "https://www.marketwatch.com/story/silver-has-plunged-50-from-its-january-peak-to-60-why-it-could-hit-130-next-year-4fe57e45?mod=mw_rss_topstories",
+            "summary": "Silver may be experiencing a huge disconnect between its traded value and its importance as a critical material. After its dramatic plunge, silver may be experiences a huge disparity between its value and the importance of silver.",
+            "date": "Mon, 06 Jul 2026 16:08:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SI=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Micron’s stock gains, signaling a ‘return to optimism’ about the chip sector",
+            "link": "https://www.marketwatch.com/story/microns-stock-gains-signaling-a-return-to-optimism-about-the-chip-sector-0b7f6a8c?mod=mw_rss_topstories",
+            "summary": "Investors are looking forward to Samsung’s earnings and SK Hynix”s ADR listing, experts say. Samsung is expected to report its quarterly results on Tuesday.",
+            "date": "Mon, 06 Jul 2026 15:11:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "20MICRONS.NS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump rings Wall Street opening bells and says the stock market ‘is going to go through the roof’",
+            "link": "https://www.marketwatch.com/story/trump-rings-wall-street-opening-bells-and-says-the-stock-market-is-going-to-go-through-the-roof-e949d970?mod=mw_rss_topstories",
+            "summary": "Trump used the occasion to promote the launch of ‘Trump accounts,’ which are special investment accounts for children under age 18. Trump: “I’m a big fan of the Trump brand.”",
+            "date": "Mon, 06 Jul 2026 14:42:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "TeraWulf’s stock surges after a $19 billion deal with Anthropic",
+            "link": "https://www.marketwatch.com/story/terawulfs-stock-surges-after-a-19-billion-deal-with-anthropic-6899d3bc?mod=mw_rss_topstories",
+            "summary": "The deal “validates” the crypto-mining company’s pivot to supporting the AI buildout, its CEO said.",
+            "date": "Mon, 06 Jul 2026 14:28:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VTI",
+            "impact": "Bullish"
+        },
+        {
+            "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
+            "link": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
+            "summary": "“I could have bought a home for what I hope will be a growing family,” he says. “I can’t believe I’m in a position to do this.”",
+            "date": "Mon, 06 Jul 2026 14:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Top Wall Street analysts prefer these dividend stocks for boosting portfolio returns",
-            "link": "https://www.cnbc.com/2026/07/05/analysts-prefer-these-dividend-stocks-for-boosting-portfolio-returns.html",
-            "summary": "Identifying the right stocks can be challenging. With thousands of dividend-paying companies to choose from, it can be hard to find the right one.",
-            "date": "Sun, 05 Jul 2026 12:30:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TOP",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
-            "link": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
-            "summary": "“Part of me would prefer to leave more to those for whom the money could make a meaningful difference,” he says.",
-            "date": "Sun, 05 Jul 2026 14:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BSGT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Hybrids are the breakout star of the U.S. car market as EV demand fades",
-            "link": "https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories",
-            "summary": "Hybrid cars are winning on function and price. Hybrids aren’t a bridge to EVs anymore — instead, they’re winning on Function and Price.",
-            "date": "Sun, 05 Jul 2026 13:03:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BT22.MU",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why the stock market’s red-hot momentum trade might be headed for a violent unwind this month",
-            "link": "https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397?mod=mw_rss_topstories",
-            "summary": "The rumblings have already started. Momentum trades tend to struggle in July. This year may be particularly volatile, says one strategist.",
-            "date": "Sun, 05 Jul 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "3823.T",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Should I confront her?",
-            "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
-            "summary": "She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400. “She said, ‘I’m so glad you sent me that,’” she said.",
-            "date": "Sun, 05 Jul 2026 12:48:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WFC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
-            "link": "https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories",
-            "summary": "A Columbus gamer decided to liquidate his collection of video games. He decided to sell off his entire collection of gaming media. The collection was worth more than $100,000.",
-            "date": "Sat, 04 Jul 2026 21:40:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "3083.TWO",
             "impact": "Neutral"
         }
     ]
