@@ -1,23 +1,11 @@
 {
-    "date": "2026-07-06",
+    "date": "2026-07-07",
     "news": [
         {
-            "title": "Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios",
-            "link": "https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html",
-            "summary": "Microsoft is cutting jobs in its commercial business and its Xbox gaming group. Revenue has been shrinking in the gaming group, where revenue has also been shrinking.",
-            "date": "Mon, 06 Jul 2026 14:56:55 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MSFT",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Trump plugs Dell at first-ever White House opening bell, sending shares soaring",
-            "link": "https://www.cnbc.com/2026/07/06/trump-opening-bell-ceo-nyse-nasdaq-stocks-accounts.html",
-            "summary": "Trump rang the bell in the Oval Office to open Monday's trading. He launched investment accounts for babies born from 2025 through 2028.",
-            "date": "Mon, 06 Jul 2026 14:53:12 GMT",
+            "title": "Trump renews Greenland threats at NATO summit, says U.S. could remove troops from Europe",
+            "link": "https://www.cnbc.com/2026/07/07/trump-nato-summit-greenland-us-troops-europe.html",
+            "summary": "NATO fell into a crisis earlier this year as Trump demanded that the U.S. must take control of Greenland on national security grounds.",
+            "date": "Tue, 07 Jul 2026 14:56:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,10 +14,46 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump defends call urging Balogun red card review: 'It wasn't a foul'",
-            "link": "https://www.cnbc.com/2026/07/06/trump-balogun-fifa-world-cup-us-belgium.html",
-            "summary": "Trump called FIFA President Gianni Infantino about the suspension of Folarin Balogun. \"I didn't know what the hell a red card was,\" said Trump.",
-            "date": "Mon, 06 Jul 2026 16:12:09 GMT",
+            "title": "Chinese lidar maker with Nvidia ties accused of being cyber risk for U.S.",
+            "link": "https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html",
+            "summary": "Hesai Technology was blacklisted as a national security threat in 2024. The U.S. Department of Defense designated Hesai as a Chinese military entity.",
+            "date": "Tue, 07 Jul 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "O39.SI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Stellantis to sell small Fiat Topolino EV for $13,995 in U.S.",
+            "link": "https://www.cnbc.com/2026/07/07/stellantis-fiat-topolino-ev.html",
+            "summary": "The Topolino is a quadricycle that functions more like a golf cart. The EV is actually a small car such as the Fiat 500.",
+            "date": "Tue, 07 Jul 2026 15:37:26 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "STLA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Rivian stock falls more than 10% as company sells 75 million shares to raise capital",
+            "link": "https://www.cnbc.com/2026/07/07/rivian-stock-rivn-capital-raise.html",
+            "summary": "The capital raise occurred during extended hours trading following Rivian shares increasing 8.1% on Monday after increasing 19.2% last week.",
+            "date": "Tue, 07 Jul 2026 13:54:34 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RIVN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump ally Nigel Farage quits UK parliament amid finance scandal to fight special election",
+            "link": "https://www.cnbc.com/2026/07/07/nigel-farage-parliament-election.html",
+            "summary": "Reform U.K. leader Nigel Farage has quit as MP for Clacton. He has said he will fight the by-election.",
+            "date": "Tue, 07 Jul 2026 14:00:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,46 +62,46 @@
             "impact": "Neutral"
         },
         {
-            "title": "Klarna seeks U.S. bank charter in latest push beyond buy now, pay later",
-            "link": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html",
-            "summary": "Klarna joins a wave of fintech and crypto firms seeking entry to the traditional banking system. Klarna will be available in the U.S. and Europe, with plans to roll out to other countries.",
-            "date": "Mon, 06 Jul 2026 15:36:23 GMT",
+            "title": "NATO announces billions in defense deals. What investors should watch for now.",
+            "link": "https://www.marketwatch.com/story/nato-announces-billions-in-defense-deals-what-investors-should-watch-for-now-d7f3c4be?mod=mw_rss_topstories",
+            "summary": "A number of major defense companies, including Rheinmetall and Lockheed Martin have announced billions of dollars worth of backlogs. The backlogs are expected to last for years.",
+            "date": "Tue, 07 Jul 2026 15:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KLAR",
+            "stock_ticker": "NATO",
             "impact": "Neutral"
         },
         {
-            "title": "SpaceX President Gwynne Shotwell to donate stock to Trump Accounts",
-            "link": "https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html",
-            "summary": "President Donald Trump told CNBC's Joe Kernen last week that he thought SpaceX CEO Elon Musk would donate company stock to the program. Trump said he thought Musk would give stock.",
-            "date": "Mon, 06 Jul 2026 15:40:20 GMT",
+            "title": "‘Our family is broken beyond repair’: My brother took over my parents’ finances. What can I do?",
+            "link": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
+            "summary": "“Without telling me, my brother petitioned for sole guardianship of our mother’s,” she said. “Without knowing what was going on, he petitioned to be sole guardian.”",
+            "date": "Tue, 07 Jul 2026 15:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPCX",
+            "stock_ticker": "^LOPP-IV",
             "impact": "Neutral"
         },
         {
-            "title": "Silver has plunged 50% from its January peak to $60. Why it could hit $130 next year.",
-            "link": "https://www.marketwatch.com/story/silver-has-plunged-50-from-its-january-peak-to-60-why-it-could-hit-130-next-year-4fe57e45?mod=mw_rss_topstories",
-            "summary": "Silver may be experiencing a huge disconnect between its traded value and its importance as a critical material. After its dramatic plunge, silver may be experiences a huge disparity between its value and the importance of silver.",
-            "date": "Mon, 06 Jul 2026 16:08:00 GMT",
+            "title": "I found a simple way to save money on frozen pizza. What’s your best money-saving trick?",
+            "link": "https://www.marketwatch.com/story/i-make-my-own-pizza-whats-the-best-way-youve-found-to-save-money-25412399?mod=mw_rss_topstories",
+            "summary": "“I changed my approach to cooking,” she says. “I’m not a chef. I’ve never been a chef’s chef.”",
+            "date": "Tue, 07 Jul 2026 14:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SI=F",
+            "stock_ticker": "EOSER",
             "impact": "Neutral"
         },
         {
-            "title": "Micron’s stock gains, signaling a ‘return to optimism’ about the chip sector",
-            "link": "https://www.marketwatch.com/story/microns-stock-gains-signaling-a-return-to-optimism-about-the-chip-sector-0b7f6a8c?mod=mw_rss_topstories",
-            "summary": "Investors are looking forward to Samsung’s earnings and SK Hynix”s ADR listing, experts say. Samsung is expected to report its quarterly results on Tuesday.",
-            "date": "Mon, 06 Jul 2026 15:11:00 GMT",
+            "title": "Micron’s stock falls as investors wonder if the memory market is near the top",
+            "link": "https://www.marketwatch.com/story/microns-stock-falls-as-investors-wonder-if-the-memory-market-is-near-the-top-ab2d2feb?mod=mw_rss_topstories",
+            "summary": "“Most investor feedback continues to point to a skittish AI tape,” one analyst said. “Most of the time, it’s not very good,’ he said.",
+            "date": "Tue, 07 Jul 2026 14:29:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump rings Wall Street opening bells and says the stock market ‘is going to go through the roof’",
-            "link": "https://www.marketwatch.com/story/trump-rings-wall-street-opening-bells-and-says-the-stock-market-is-going-to-go-through-the-roof-e949d970?mod=mw_rss_topstories",
-            "summary": "Trump used the occasion to promote the launch of ‘Trump accounts,’ which are special investment accounts for children under age 18. Trump: “I’m a big fan of the Trump brand.”",
-            "date": "Mon, 06 Jul 2026 14:42:00 GMT",
+            "title": "How parents can take advantage of the ‘best summer-camp tax break in years’",
+            "link": "https://www.marketwatch.com/story/how-parents-can-take-advantage-of-the-best-summer-camp-tax-break-in-years-cb7c2a1a?mod=mw_rss_topstories",
+            "summary": "For many kids, summer means camp. For many parents, that means financial juggling to pay for those camp experiences. For some parents, it means paying more than $1,000 a year.",
+            "date": "Tue, 07 Jul 2026 14:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "TeraWulf’s stock surges after a $19 billion deal with Anthropic",
-            "link": "https://www.marketwatch.com/story/terawulfs-stock-surges-after-a-19-billion-deal-with-anthropic-6899d3bc?mod=mw_rss_topstories",
-            "summary": "The deal “validates” the crypto-mining company’s pivot to supporting the AI buildout, its CEO said.",
-            "date": "Mon, 06 Jul 2026 14:28:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
-            "impact": "Bullish"
-        },
-        {
-            "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
-            "link": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
-            "summary": "“I could have bought a home for what I hope will be a growing family,” he says. “I can’t believe I’m in a position to do this.”",
-            "date": "Mon, 06 Jul 2026 14:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         }
     ]
