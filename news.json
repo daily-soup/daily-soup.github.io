@@ -1,124 +1,124 @@
 {
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "news": [
         {
-            "title": "Trump says Iran ceasefire is 'over,' U.S. will 'hit them hard tonight'",
-            "link": "https://www.cnbc.com/2026/07/08/trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes.html",
-            "summary": "The president was asked about the ceasefire after an escalation of fighting in the Middle East. The president said the ceasefire was a good step in the right direction. He added that it was not a solution to the problems in the region.",
-            "date": "Wed, 08 Jul 2026 13:59:28 GMT",
+            "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI",
+            "link": "https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html",
+            "summary": " Meta is upgrading its Muse Spark artificial intelligence model under the leadership of AI chief Alexandr Wang. The new model will be called Muse Spark and will be available to all Meta users by the end of 2014.",
+            "date": "Thu, 09 Jul 2026 14:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "META",
+            "impact": "Bullish"
+        },
+        {
+            "title": "June home sales disappoint as prices reach an all-time high",
+            "link": "https://www.cnbc.com/2026/07/09/june-home-sales-prices.html",
+            "summary": "Home sales dropped in June month over month as mortgage rates remain stubbornly high. Prices hit an all-time high. Home sales were down in June, but up in May and April.",
+            "date": "Thu, 09 Jul 2026 14:44:29 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "301458.SZ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Micron shares rise 7% after announcing billions more in U.S. chipmaking investments",
+            "link": "https://www.cnbc.com/2026/07/09/micron-stock-us-chipmaking.html",
+            "summary": "Micron announced a new round of investments aimed at boosting the U.S. semiconductor supply chain. Micron: The investments will be made in memory, storage, logic and other areas.",
+            "date": "Thu, 09 Jul 2026 15:21:56 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MU",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Oil prices fall as market bets U.S.-Iran fighting won't escalate into wider war",
+            "link": "https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html",
+            "summary": "Oil prices turned lower on Thursday after the U.S. carried out fresh strikes on Iran. Renewed concerns about supply disruptions in the Middle East.",
+            "date": "Thu, 09 Jul 2026 15:16:56 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CL=F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Trump can halt trade with Spain using law behind scrapped tariffs: Greer",
+            "link": "https://www.cnbc.com/2026/07/09/trump-spain-trade-greer-ieepa-tariffs-nato.html",
+            "summary": "Trump asserted that IEEPA authorized him to slap tariffs on nearly every country on earth. Supreme Court struck down those import duties. Trump also claimed that he could impose tariffs on virtually every country in the world.",
+            "date": "Thu, 09 Jul 2026 15:33:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
-            "link": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
-            "summary": "There have been few instances over the past 35 years or so when the Fed has only made one rate move, be it up or down.",
-            "date": "Wed, 08 Jul 2026 14:28:30 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZQ=F",
             "impact": "Bullish"
         },
         {
-            "title": "Delta launches 'basic business' fares without lounge access, seat selection",
-            "link": "https://www.cnbc.com/2026/07/08/delta-basic-business-fares.html",
-            "summary": "Delta is launching basic business and other stripped-down premium classes. The new classes will come with fewer perks, such as a lower price for business class.",
-            "date": "Wed, 08 Jul 2026 15:03:58 GMT",
+            "title": "Only 5% of U.S. adults can ace this 8-question financial-literacy test. Can you?",
+            "link": "https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories",
+            "summary": "Financial literacy is at a 10-year low, according to a new report. The report says the drop in financial literacy is devastating bank accounts.",
+            "date": "Thu, 09 Jul 2026 15:46:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DAL",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Kentucky Gov. Beshear presses McConnell to provide health update as speculation grows",
-            "link": "https://www.cnbc.com/2026/07/08/mcconnell-health-update-beshear-hospitalization-kentucky.html",
-            "summary": "McConnell was admitted to a hospital on June 14. He declined to seek an eighth term following a series of health scares. The former longtime Senate leader was diagnosed with cancer in 2010.",
-            "date": "Wed, 08 Jul 2026 14:52:14 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FKYRX",
+            "stock_ticker": "5260.KL",
             "impact": "Neutral"
         },
         {
-            "title": "Waymo starts driverless rides in four more U.S. markets as expansion accelerates",
-            "link": "https://www.cnbc.com/2026/07/08/waymo-starts-driverless-rides-in-san-diego-las-vegas-tampa-denver.html",
-            "summary": "Waymo has a big lead in the nascent U.S. robotaxi market, and is opening up in more cities. Waymo has been working with Google to develop a self-driving car.",
-            "date": "Wed, 08 Jul 2026 14:00:01 GMT",
+            "title": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
+            "link": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories",
+            "summary": "The next global financial crisis is already under way. Here is how it will unfold. The next financial crisis will be triggered by the next global recession.",
+            "date": "Thu, 09 Jul 2026 15:44:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "7849.T",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Why the stock market’s biggest laggards might be your best defense against a summer selloff",
-            "link": "https://www.marketwatch.com/story/why-the-stock-markets-biggest-laggards-might-be-your-best-defense-against-a-summer-selloff-be079d8e?mod=mw_rss_topstories",
-            "summary": "Low-volatility stocks are having a moment after a long stretch of underperformance. Low-vol volatility stocks have had a moment in recent months.",
-            "date": "Wed, 08 Jul 2026 15:02:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "002107.SZ",
+            "stock_ticker": "TSCM",
             "impact": "Neutral"
         },
         {
-            "title": "Insurance giant says it’s turning to AI to replace as many as 1,800 jobs",
-            "link": "https://www.marketwatch.com/story/insurance-giant-says-its-turning-to-ai-to-replace-as-many-as-1-800-jobs-13e60de2?mod=mw_rss_topstories",
-            "summary": "Allianz Partners will axe between 1,500 and 1,800 roles from its workforce of close to 23,000. Allianz will axe up to 1,600 roles, or 1,400 of its 23,500-strong workforce.",
-            "date": "Wed, 08 Jul 2026 14:54:00 GMT",
+            "title": "‘I’ve plenty of time on my hands’: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?",
+            "link": "https://www.marketwatch.com/story/ive-plenty-of-time-on-my-hands-advisers-bombard-me-with-offers-for-free-steak-is-it-wrong-to-go-for-the-food-1b139f98?mod=mw_rss_topstories",
+            "summary": "“I get hungry for a meal at a good restaurant,” he says. “I’m a big fan of good food.”",
+            "date": "Thu, 09 Jul 2026 15:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SXI=F",
+            "stock_ticker": "IVE",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’ll happily wait’: Does delaying Social Security make sense for high earners like me?",
-            "link": "https://www.marketwatch.com/story/ill-happily-wait-does-delaying-social-security-make-sense-for-high-earners-like-me-17dca69b?mod=mw_rss_topstories",
-            "summary": "In many states, Social Security benefits are exempt from state income tax. ‘Social Security is the most secure retirement system in the history of the U.S.,’ says the Social Security Administration.",
-            "date": "Wed, 08 Jul 2026 14:00:00 GMT",
+            "title": "PepsiCo cut snack prices again, but not enough to get American consumers to buy more",
+            "link": "https://www.marketwatch.com/story/pepsico-cuts-prices-on-snacks-its-not-enough-to-drive-growth-in-north-america-5bc0c111?mod=mw_rss_topstories",
+            "summary": "PepsiCo’s North America business lagged in the latest quarter, and the stock was having its worst day in 15 months. Strength in international business led to an earnings beat.",
+            "date": "Thu, 09 Jul 2026 14:58:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ILMN",
+            "stock_ticker": "PEP",
             "impact": "Neutral"
         },
         {
-            "title": "‘Our family is broken beyond repair’: My brother took over my parents’ finances. What can I do?",
-            "link": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
-            "summary": "“Without telling me, my brother petitioned for sole guardianship of our mother’s,” she said. “Without knowing what was going on, he petitioned to be sole guardian.”",
-            "date": "Wed, 08 Jul 2026 14:00:00 GMT",
+            "title": "Did you mess up on your taxes? The IRS just made it easier to avoid paying a penalty.",
+            "link": "https://www.marketwatch.com/story/did-you-mess-up-on-your-taxes-the-irs-just-made-it-easier-to-avoid-paying-a-penalty-20d60ae6?mod=mw_rss_topstories",
+            "summary": ". It’s a ‘major taxpayer win,’ according to one advocate for taxpayers. ‘Major taxpayer win’ says another.",
+            "date": "Thu, 09 Jul 2026 14:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^LOPP-IV",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I started retirement with $3 million. Now I’m 89 and down to $2 million. What if I get sick?",
-            "link": "https://www.marketwatch.com/story/i-started-retirement-with-3-million-now-im-89-and-down-to-2-million-what-if-i-get-sick-7401056a?mod=mw_rss_topstories",
-            "summary": "Even if you’re not worried about your normal spending anymore, a long-term-care need is still a problem for any budget.",
-            "date": "Wed, 08 Jul 2026 14:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EOSER",
+            "stock_ticker": "DIDIY",
             "impact": "Neutral"
         }
     ]
