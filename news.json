@@ -1,59 +1,11 @@
 {
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "news": [
         {
-            "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI",
-            "link": "https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html",
-            "summary": " Meta is upgrading its Muse Spark artificial intelligence model under the leadership of AI chief Alexandr Wang. The new model will be called Muse Spark and will be available to all Meta users by the end of 2014.",
-            "date": "Thu, 09 Jul 2026 14:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "META",
-            "impact": "Bullish"
-        },
-        {
-            "title": "June home sales disappoint as prices reach an all-time high",
-            "link": "https://www.cnbc.com/2026/07/09/june-home-sales-prices.html",
-            "summary": "Home sales dropped in June month over month as mortgage rates remain stubbornly high. Prices hit an all-time high. Home sales were down in June, but up in May and April.",
-            "date": "Thu, 09 Jul 2026 14:44:29 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "301458.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Micron shares rise 7% after announcing billions more in U.S. chipmaking investments",
-            "link": "https://www.cnbc.com/2026/07/09/micron-stock-us-chipmaking.html",
-            "summary": "Micron announced a new round of investments aimed at boosting the U.S. semiconductor supply chain. Micron: The investments will be made in memory, storage, logic and other areas.",
-            "date": "Thu, 09 Jul 2026 15:21:56 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MU",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Oil prices fall as market bets U.S.-Iran fighting won't escalate into wider war",
-            "link": "https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html",
-            "summary": "Oil prices turned lower on Thursday after the U.S. carried out fresh strikes on Iran. Renewed concerns about supply disruptions in the Middle East.",
-            "date": "Thu, 09 Jul 2026 15:16:56 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CL=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Trump can halt trade with Spain using law behind scrapped tariffs: Greer",
-            "link": "https://www.cnbc.com/2026/07/09/trump-spain-trade-greer-ieepa-tariffs-nato.html",
-            "summary": "Trump asserted that IEEPA authorized him to slap tariffs on nearly every country on earth. Supreme Court struck down those import duties. Trump also claimed that he could impose tariffs on virtually every country in the world.",
-            "date": "Thu, 09 Jul 2026 15:33:34 GMT",
+            "title": "Trump says he won't sign housing bill, which would become law automatically",
+            "link": "https://www.cnbc.com/2026/07/10/trump-housing-bill-save-act-law.html",
+            "summary": "Congress passed the bill that aims to address the costs of homes and rein in institutional investors with strong bipartisan support in June. The bill is expected to be signed into law by the end of the year.",
+            "date": "Fri, 10 Jul 2026 14:17:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,10 +14,82 @@
             "impact": "Bullish"
         },
         {
+            "title": "SK Hynix stock set for Nasdaq debut, opening the trillion-dollar chip giant to U.S. investors",
+            "link": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
+            "summary": "SK Hynix has soared to a trillion-dollar market cap by serving some of the biggest names in technology, including Nvidia and Apple.",
+            "date": "Fri, 10 Jul 2026 14:47:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SKHYV",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 7%",
+            "link": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
+            "summary": "Stablecoin issuer Circle surged in premarket trading after the U.S. Office of the Comptroller of the Currency granted it approval to operate as a trust bank.",
+            "date": "Fri, 10 Jul 2026 14:55:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "USDE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump says U.S. to continue talks with Iran despite scrapped ceasefire",
+            "link": "https://www.cnbc.com/2026/07/10/us-iran-war-strikes-strait-of-hormuz-technical-talks-progress-.html",
+            "summary": "The ceasefire signed last month came under serious strain in recent days. The U.S. and Iranian forces exchanged attacks for consecutive days this week.",
+            "date": "Fri, 10 Jul 2026 15:23:05 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Kraken to launch agentic trading as crypto exchanges evolve beyond crypto",
+            "link": "https://www.cnbc.com/2026/07/10/kraken-to-launch-agentic-trading-as-crypto-exchanges-evolve-beyond-crypto.html",
+            "summary": "Kraken is preparing to relaunch its app with agentic trading at its core. The company told CNBC exclusively that it will launch the app in the coming weeks.",
+            "date": "Fri, 10 Jul 2026 15:18:14 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PNG.V",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The space race is on as China takes a big step toward rivaling SpaceX",
+            "link": "https://www.marketwatch.com/story/the-space-race-is-on-as-china-takes-a-big-step-toward-rivaling-spacex-851e935f?mod=mw_rss_topstories",
+            "summary": "A Chinese company demonstrated controlled recovery of a rocket’s bottom portion, which is critical in helping to drive down launch costs. The company is part of China's state-run space program.",
+            "date": "Fri, 10 Jul 2026 15:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSCM",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Half of small-business owners hope to sell their companies and retire in the next decade. What happens to their workers?",
+            "link": "https://www.marketwatch.com/story/half-of-small-business-owners-hope-to-sell-their-companies-and-retire-in-the-next-decade-what-happens-to-their-workers-a03ae979?mod=mw_rss_topstories",
+            "summary": "“It’s an American tragedy” when small businesses close up shop, he says. “I’m very proud of what I’ve done,” he adds.",
+            "date": "Fri, 10 Jul 2026 15:08:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RHI",
+            "impact": "Bullish"
+        },
+        {
             "title": "Only 5% of U.S. adults can ace this 8-question financial-literacy test. Can you?",
             "link": "https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories",
             "summary": "Financial literacy is at a 10-year low, according to a new report. The report says the drop in financial literacy is devastating bank accounts.",
-            "date": "Thu, 09 Jul 2026 15:46:00 GMT",
+            "date": "Fri, 10 Jul 2026 14:59:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,52 +98,28 @@
             "impact": "Neutral"
         },
         {
-            "title": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
-            "link": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories",
-            "summary": "The next global financial crisis is already under way. Here is how it will unfold. The next financial crisis will be triggered by the next global recession.",
-            "date": "Thu, 09 Jul 2026 15:44:00 GMT",
+            "title": "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
+            "link": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
+            "summary": "“He lived rent-free, helping her with health-related issues and other tasks,” her daughter says. “He’s been a great help to us.”",
+            "date": "Fri, 10 Jul 2026 14:35:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSCM",
+            "stock_ticker": "SHE",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’ve plenty of time on my hands’: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?",
-            "link": "https://www.marketwatch.com/story/ive-plenty-of-time-on-my-hands-advisers-bombard-me-with-offers-for-free-steak-is-it-wrong-to-go-for-the-food-1b139f98?mod=mw_rss_topstories",
-            "summary": "“I get hungry for a meal at a good restaurant,” he says. “I’m a big fan of good food.”",
-            "date": "Thu, 09 Jul 2026 15:00:00 GMT",
+            "title": "Can you pass this money quiz?",
+            "link": "https://www.marketwatch.com/story/can-you-pass-this-money-quiz-e1163a9e?mod=mw_rss_topstories",
+            "summary": "The Trump-account lowdown and three stock screens. Also: How young people buy homes, the Trump- account lowdown, and threeStockScreen.com.",
+            "date": "Fri, 10 Jul 2026 14:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IVE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "PepsiCo cut snack prices again, but not enough to get American consumers to buy more",
-            "link": "https://www.marketwatch.com/story/pepsico-cuts-prices-on-snacks-its-not-enough-to-drive-growth-in-north-america-5bc0c111?mod=mw_rss_topstories",
-            "summary": "PepsiCo’s North America business lagged in the latest quarter, and the stock was having its worst day in 15 months. Strength in international business led to an earnings beat.",
-            "date": "Thu, 09 Jul 2026 14:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PEP",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Did you mess up on your taxes? The IRS just made it easier to avoid paying a penalty.",
-            "link": "https://www.marketwatch.com/story/did-you-mess-up-on-your-taxes-the-irs-just-made-it-easier-to-avoid-paying-a-penalty-20d60ae6?mod=mw_rss_topstories",
-            "summary": ". It’s a ‘major taxpayer win,’ according to one advocate for taxpayers. ‘Major taxpayer win’ says another.",
-            "date": "Thu, 09 Jul 2026 14:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DIDIY",
-            "impact": "Neutral"
+            "stock_ticker": "CAN",
+            "impact": "Bearish"
         }
     ]
 }
