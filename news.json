@@ -1,23 +1,83 @@
 {
-    "date": "2026-07-10",
+    "date": "2026-07-11",
     "news": [
         {
-            "title": "Trump says he won't sign housing bill, which would become law automatically",
-            "link": "https://www.cnbc.com/2026/07/10/trump-housing-bill-save-act-law.html",
-            "summary": "Congress passed the bill that aims to address the costs of homes and rein in institutional investors with strong bipartisan support in June. The bill is expected to be signed into law by the end of the year.",
-            "date": "Fri, 10 Jul 2026 14:17:24 GMT",
+            "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+            "link": "https://www.cnbc.com/2026/07/11/trump-threat.html",
+            "summary": "Trump says 1,000 missiles are \"locked and loaded\" and will hit Iran if it carries out its threats to assassinate the U.S. president.",
+            "date": "Sat, 11 Jul 2026 12:51:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
+            "link": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
+            "summary": "In the eight-plus months since Amazon announced its most expansive job cuts ever, laid off workers have been thrust into an increasingly saturated labor market.",
+            "date": "Sat, 11 Jul 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LLY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
+            "link": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+            "summary": "The two companies entered into a high-profile partnership in 2024. ChatGPT will be integrated into the iPhone's operating system. The two companies will work together on a number of projects.",
+            "date": "Sat, 11 Jul 2026 04:09:20 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAPL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
+            "link": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html",
+            "summary": "At-home pastimes like streaming movies or playing video games are pinching pocketbooks. Following a wave of price hikes, at- home pastimes such as streaming movies and video games have become more expensive.",
+            "date": "Sat, 11 Jul 2026 12:47:23 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "New housing law targets affordability — what it means for homebuyers and sellers",
+            "link": "https://www.cnbc.com/2026/07/11/21st-century-road-to-housing-act-homebuyers-sellers.html",
+            "summary": "Experts say the benefits of the measure will take time to show up in the market. The legislation is aimed at at least partly at addressing affordability.",
+            "date": "Sat, 11 Jul 2026 13:41:13 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "6N=F",
             "impact": "Bullish"
         },
         {
-            "title": "SK Hynix stock set for Nasdaq debut, opening the trillion-dollar chip giant to U.S. investors",
-            "link": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
-            "summary": "SK Hynix has soared to a trillion-dollar market cap by serving some of the biggest names in technology, including Nvidia and Apple.",
-            "date": "Fri, 10 Jul 2026 14:47:07 GMT",
+            "title": "‘I’ve no idea how they got her number’: My student-loan servicer called a friend after I missed a payment. Is that legal?",
+            "link": "https://www.marketwatch.com/story/ive-no-idea-how-they-got-her-number-my-student-loan-servicer-called-a-friend-after-i-missed-a-payment-is-that-legal-28ef698e?mod=mw_rss_topstories",
+            "summary": "“She said it’s the second message they have left.” “I’m so sorry,” she says. “It’ll never happen again.’",
+            "date": "Sat, 11 Jul 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IVE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
+            "link": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
+            "summary": "“I have very little money, while my ex’s financial statements show assets in the millions,” she says. “I’m not rich. I’ve never been rich.”",
+            "date": "Sat, 11 Jul 2026 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,100 +86,40 @@
             "impact": "Neutral"
         },
         {
-            "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 7%",
-            "link": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
-            "summary": "Stablecoin issuer Circle surged in premarket trading after the U.S. Office of the Comptroller of the Currency granted it approval to operate as a trust bank.",
-            "date": "Fri, 10 Jul 2026 14:55:07 GMT",
+            "title": "‘Day-to-day dread’ haunts frustrated job seekers in era of low hiring. When will it end?",
+            "link": "https://www.marketwatch.com/story/day-to-day-dread-haunts-frustrated-job-seekers-in-era-of-low-hiring-when-will-it-end-76640caf?mod=mw_rss_topstories",
+            "summary": "Americans are worried about their job prospects, even though the unemployment rate is historically low. Finding a job was easy a few years ago. Now, Americans are worried.",
+            "date": "Sat, 11 Jul 2026 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "USDE",
+            "stock_ticker": "DE000SL0BFX3.SG",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says U.S. to continue talks with Iran despite scrapped ceasefire",
-            "link": "https://www.cnbc.com/2026/07/10/us-iran-war-strikes-strait-of-hormuz-technical-talks-progress-.html",
-            "summary": "The ceasefire signed last month came under serious strain in recent days. The U.S. and Iranian forces exchanged attacks for consecutive days this week.",
-            "date": "Fri, 10 Jul 2026 15:23:05 GMT",
+            "title": "Regular water is no longer enough. Welcome to the corporate gold rush around ‘functional hydration.’",
+            "link": "https://www.marketwatch.com/story/regular-water-is-no-longer-enough-welcome-to-the-corporate-gold-rush-around-functional-hydration-6c768bdd?mod=mw_rss_topstories",
+            "summary": "Social media and GLP-1s are spurring increased interest in hydration products. Companies are responding with things like electrolyte mixes and “hydrating hot chocolate.”",
+            "date": "Sat, 11 Jul 2026 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "0P0001BBIQ.BO",
             "impact": "Neutral"
         },
         {
-            "title": "Kraken to launch agentic trading as crypto exchanges evolve beyond crypto",
-            "link": "https://www.cnbc.com/2026/07/10/kraken-to-launch-agentic-trading-as-crypto-exchanges-evolve-beyond-crypto.html",
-            "summary": "Kraken is preparing to relaunch its app with agentic trading at its core. The company told CNBC exclusively that it will launch the app in the coming weeks.",
-            "date": "Fri, 10 Jul 2026 15:18:14 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PNG.V",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The space race is on as China takes a big step toward rivaling SpaceX",
-            "link": "https://www.marketwatch.com/story/the-space-race-is-on-as-china-takes-a-big-step-toward-rivaling-spacex-851e935f?mod=mw_rss_topstories",
-            "summary": "A Chinese company demonstrated controlled recovery of a rocket’s bottom portion, which is critical in helping to drive down launch costs. The company is part of China's state-run space program.",
-            "date": "Fri, 10 Jul 2026 15:15:00 GMT",
+            "title": "The U.S. stock market is becoming ‘too big to fail’",
+            "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-becoming-too-big-to-fail-b3473e40?mod=mw_rss_topstories",
+            "summary": ". Why protracted bear markets may be a thing of the past. What's next for the U.S. stock market? We'll find out.",
+            "date": "Sat, 11 Jul 2026 11:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "TSCM",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Half of small-business owners hope to sell their companies and retire in the next decade. What happens to their workers?",
-            "link": "https://www.marketwatch.com/story/half-of-small-business-owners-hope-to-sell-their-companies-and-retire-in-the-next-decade-what-happens-to-their-workers-a03ae979?mod=mw_rss_topstories",
-            "summary": "“It’s an American tragedy” when small businesses close up shop, he says. “I’m very proud of what I’ve done,” he adds.",
-            "date": "Fri, 10 Jul 2026 15:08:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RHI",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Only 5% of U.S. adults can ace this 8-question financial-literacy test. Can you?",
-            "link": "https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories",
-            "summary": "Financial literacy is at a 10-year low, according to a new report. The report says the drop in financial literacy is devastating bank accounts.",
-            "date": "Fri, 10 Jul 2026 14:59:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "5260.KL",
             "impact": "Neutral"
-        },
-        {
-            "title": "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
-            "link": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
-            "summary": "“He lived rent-free, helping her with health-related issues and other tasks,” her daughter says. “He’s been a great help to us.”",
-            "date": "Fri, 10 Jul 2026 14:35:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SHE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Can you pass this money quiz?",
-            "link": "https://www.marketwatch.com/story/can-you-pass-this-money-quiz-e1163a9e?mod=mw_rss_topstories",
-            "summary": "The Trump-account lowdown and three stock screens. Also: How young people buy homes, the Trump- account lowdown, and threeStockScreen.com.",
-            "date": "Fri, 10 Jul 2026 14:33:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CAN",
-            "impact": "Bearish"
         }
     ]
 }
