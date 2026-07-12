@@ -1,40 +1,52 @@
 {
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "news": [
         {
-            "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-            "link": "https://www.cnbc.com/2026/07/11/trump-threat.html",
-            "summary": "Trump says 1,000 missiles are \"locked and loaded\" and will hit Iran if it carries out its threats to assassinate the U.S. president.",
-            "date": "Sat, 11 Jul 2026 12:51:50 GMT",
+            "title": "Sen. Lindsey Graham, influential lawmaker and Trump ally,  dies at 71 after a brief illness",
+            "link": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
+            "summary": "Sen. Graham, a prominent Republican senator from South Carolina, had just returned from a trip to Ukraine. Graham is a frequent critic of President Barack Obama.",
+            "date": "Sun, 12 Jul 2026 14:09:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "^HSI",
             "impact": "Neutral"
         },
         {
-            "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
-            "link": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
-            "summary": "In the eight-plus months since Amazon announced its most expansive job cuts ever, laid off workers have been thrust into an increasingly saturated labor market.",
-            "date": "Sat, 11 Jul 2026 12:00:01 GMT",
+            "title": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says",
+            "link": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
+            "summary": "Iran has attacked ships using a route along Oman's coast protected by the U.S. military. Tehran demands vessels use a northern route through its waters.",
+            "date": "Sun, 12 Jul 2026 13:11:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LLY",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
-            "link": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
-            "summary": "The two companies entered into a high-profile partnership in 2024. ChatGPT will be integrated into the iPhone's operating system. The two companies will work together on a number of projects.",
-            "date": "Sat, 11 Jul 2026 04:09:20 GMT",
+            "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
+            "link": "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html",
+            "summary": "A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey.",
+            "date": "Sun, 12 Jul 2026 12:27:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAPL",
+            "stock_ticker": "TDOG",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘Almost unlimited’: Execs says AI demand remains strong even as enterprises move to ‘valuemaxxing’",
+            "link": "https://www.cnbc.com/2026/07/12/ai-demand-chips-data-centers-stock-volatility.html",
+            "summary": "AI-related chip stocks have been volatile amid a debate over AI demand and spending. AI-related chips have been a key part of the tech sector for decades.",
+            "date": "Sun, 12 Jul 2026 05:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AIUG",
             "impact": "Neutral"
         },
         {
@@ -50,75 +62,63 @@
             "impact": "Neutral"
         },
         {
-            "title": "New housing law targets affordability — what it means for homebuyers and sellers",
-            "link": "https://www.cnbc.com/2026/07/11/21st-century-road-to-housing-act-homebuyers-sellers.html",
-            "summary": "Experts say the benefits of the measure will take time to show up in the market. The legislation is aimed at at least partly at addressing affordability.",
-            "date": "Sat, 11 Jul 2026 13:41:13 GMT",
+            "title": "Earnings estimates have been following an unusual pattern this time around",
+            "link": "https://www.marketwatch.com/story/earnings-estimates-have-been-following-an-unusual-pattern-this-time-around-fbebfb62?mod=mw_rss_topstories",
+            "summary": "Thanks to the energy and tech sectors, expectations have actually climbed heading into second-quarter results. Analysts generally lower their estimates in the months before earnings.",
+            "date": "Sun, 12 Jul 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "6N=F",
-            "impact": "Bullish"
+            "stock_ticker": "EPI",
+            "impact": "Neutral"
         },
         {
-            "title": "‘I’ve no idea how they got her number’: My student-loan servicer called a friend after I missed a payment. Is that legal?",
-            "link": "https://www.marketwatch.com/story/ive-no-idea-how-they-got-her-number-my-student-loan-servicer-called-a-friend-after-i-missed-a-payment-is-that-legal-28ef698e?mod=mw_rss_topstories",
-            "summary": "“She said it’s the second message they have left.” “I’m so sorry,” she says. “It’ll never happen again.’",
-            "date": "Sat, 11 Jul 2026 14:00:00 GMT",
+            "title": "The No. 1 decision for aging retirees: Stay at home or move into a senior community?",
+            "link": "https://www.marketwatch.com/story/the-no-1-decision-for-aging-retirees-stay-at-home-or-move-into-a-senior-community-4ea23d02?mod=mw_rss_topstories",
+            "summary": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Visit CNN.com/Travel each week for a new gallery of snapshots from around the world.",
+            "date": "Sun, 12 Jul 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IVE",
+            "stock_ticker": "TSCM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The stock-market rally now hinges more on AI than oil",
+            "link": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories",
+            "summary": " AI investment remains front and center. As earnings season kicks off, AI investment is back in the spotlight. It's a hot topic in the tech industry, especially in Silicon Valley.",
+            "date": "Sun, 12 Jul 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSCM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
+            "link": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
+            "summary": "“My house shook violently from the wind,” she said. “I’ve never seen anything like it’s been.”",
+            "date": "Sat, 11 Jul 2026 21:45:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AUDMYR=X",
             "impact": "Neutral"
         },
         {
             "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
             "link": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
             "summary": "“I have very little money, while my ex’s financial statements show assets in the millions,” she says. “I’m not rich. I’ve never been rich.”",
-            "date": "Sat, 11 Jul 2026 13:15:00 GMT",
+            "date": "Sat, 11 Jul 2026 19:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "SKHYV",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘Day-to-day dread’ haunts frustrated job seekers in era of low hiring. When will it end?",
-            "link": "https://www.marketwatch.com/story/day-to-day-dread-haunts-frustrated-job-seekers-in-era-of-low-hiring-when-will-it-end-76640caf?mod=mw_rss_topstories",
-            "summary": "Americans are worried about their job prospects, even though the unemployment rate is historically low. Finding a job was easy a few years ago. Now, Americans are worried.",
-            "date": "Sat, 11 Jul 2026 12:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DE000SL0BFX3.SG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Regular water is no longer enough. Welcome to the corporate gold rush around ‘functional hydration.’",
-            "link": "https://www.marketwatch.com/story/regular-water-is-no-longer-enough-welcome-to-the-corporate-gold-rush-around-functional-hydration-6c768bdd?mod=mw_rss_topstories",
-            "summary": "Social media and GLP-1s are spurring increased interest in hydration products. Companies are responding with things like electrolyte mixes and “hydrating hot chocolate.”",
-            "date": "Sat, 11 Jul 2026 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001BBIQ.BO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The U.S. stock market is becoming ‘too big to fail’",
-            "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-becoming-too-big-to-fail-b3473e40?mod=mw_rss_topstories",
-            "summary": ". Why protracted bear markets may be a thing of the past. What's next for the U.S. stock market? We'll find out.",
-            "date": "Sat, 11 Jul 2026 11:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TSCM",
             "impact": "Neutral"
         }
     ]
