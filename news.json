@@ -1,124 +1,124 @@
 {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "news": [
         {
-            "title": "U.S. grocery slowdown deepens as shoppers buy fewer items, raising pressure on food companies",
-            "link": "https://www.cnbc.com/2026/07/16/us-grocery-spending-slows-in-hit-to-food-companies.html",
-            "summary": "The U.S. grocery slowdown is deepening as shoppers buy fewer items. Grocers and brands are having to compete harder on price and value.",
-            "date": "Thu, 16 Jul 2026 11:00:01 GMT",
+            "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
+            "link": "https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html",
+            "summary": "The public is as depressed about the economy as it has been since the years just after the pandemic, according to the All-America Economic Survey.",
+            "date": "Fri, 17 Jul 2026 12:50:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SEUS",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Short sellers load up against SpaceX as stock retreats back to IPO price",
-            "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
-            "summary": "About 185 million SpaceX shares are now sold short, representing roughly 29% of the company's publicly tradable float, according to S3.",
-            "date": "Thu, 16 Jul 2026 14:41:30 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SKDD",
+            "stock_ticker": "000029.SZ",
             "impact": "Neutral"
         },
         {
-            "title": "Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion",
-            "link": "https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html",
-            "summary": "Sen. Elizabeth Warren says the Trump administration's rollback of CFPB rules and enforcement has cost Americans up to $26.5 billion so far.",
-            "date": "Thu, 16 Jul 2026 14:14:20 GMT",
+            "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
+            "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
+            "summary": "Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes. The schemes target retailers and banks.",
+            "date": "Fri, 17 Jul 2026 13:12:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^HSI",
+            "stock_ticker": "^COPY-IV",
             "impact": "Bullish"
         },
         {
-            "title": "Truth Social launches service to give Wall Street traders an edge with real-time service",
-            "link": "https://www.cnbc.com/2026/07/16/trump-truth-social-wall-street-traders-api.html",
-            "summary": "Trump Media launched an API to give paying customers real-time access to market-moving Truth Social posts. The API will be available to all of Trump Media's customers.",
-            "date": "Thu, 16 Jul 2026 14:43:40 GMT",
+            "title": "Apple dethrones Nvidia as world's most valuable company, ending the chipmaker's long run at the top",
+            "link": "https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html",
+            "summary": "Nvidia shares have underperformed in 2026 as Wall Street shifts to companies powering the infrastructure AI buildout. Nvidia is one of the biggest players in the cloud computing industry. The company is also a leading supplier of chips for the cloud.",
+            "date": "Fri, 17 Jul 2026 14:16:32 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TSSD",
+            "stock_ticker": "AAPL",
             "impact": "Neutral"
         },
         {
-            "title": "Iran warns U.S. of Hormuz ‘red line,’ says it will retaliate if Trump carries out threats",
-            "link": "https://www.cnbc.com/2026/07/16/iran-warns-of-hormuz-red-line-retaliation-to-trumps-strike-threats.html",
-            "summary": "The U.S. will target Iranian infrastructure next week if negotiations do not resume. Trump warned that the U.N. Security Council will vote on a resolution on Iran next week.",
-            "date": "Thu, 16 Jul 2026 14:20:19 GMT",
+            "title": "Chinese automakers are taking on the UK — and many Brits are embracing it",
+            "link": "https://www.cnbc.com/2026/07/17/chinese-automakers-uk.html",
+            "summary": "The surge comes as China's auto exports have boomed in recent years. China's appetite for new models has cooled as the country's economy has cooled.",
+            "date": "Fri, 17 Jul 2026 14:04:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3.SA",
+            "stock_ticker": "O39.SI",
             "impact": "Neutral"
         },
         {
-            "title": "Oil is facing a supply crunch — and the war in Iran isn’t the only problem",
-            "link": "https://www.marketwatch.com/story/oil-is-facing-a-supply-crunch-and-the-war-in-iran-isnt-the-only-problem-60ce7e74?mod=mw_rss_topstories",
-            "summary": "Constraints on Russia’s refining system have added to the existing crisis, strategists at J.P. Morgan said. “It is a very, very difficult time for Russia,” they said.",
-            "date": "Thu, 16 Jul 2026 14:16:00 GMT",
+            "title": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
+            "link": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html",
+            "summary": " import prices were up 0.3% for the month, as a drop in energy was more than offset by increases elsewhere. The U.S. economy is expected to grow by 0.4% in the second quarter.",
+            "date": "Fri, 17 Jul 2026 14:13:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "000151.SZ",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Netflix is getting stingier with its viewing data, and Wall Street isn’t happy",
+            "link": "https://www.marketwatch.com/story/netflix-is-getting-stingier-about-its-viewing-data-and-wall-street-isnt-happy-15033db1?mod=mw_rss_topstories",
+            "summary": "Netflix's stock is falling in the wake of mixed earnings and a new plan to cut back on the publication of “What We Watched” reports.",
+            "date": "Fri, 17 Jul 2026 14:17:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NFLX",
             "impact": "Neutral"
         },
         {
-            "title": "Retail sales get a boost from car buyers and Amazon Prime Day. The economy hasn’t lost its mojo.",
-            "link": "https://www.marketwatch.com/story/retail-sales-get-boost-from-car-buyers-and-amazon-prime-day-economy-hasnt-lost-its-mojo-70fe8733?mod=mw_rss_topstories",
-            "summary": "Sales at retailers rose in June as Americans bought more new cars and spent more online. Amazon’s annual summer sales event signaled steady growth in the U.S. economy.",
-            "date": "Thu, 16 Jul 2026 14:06:00 GMT",
+            "title": "What it’s like to get end-of-life financial advice from a CFP who’s also a death doula",
+            "link": "https://www.marketwatch.com/story/what-its-like-to-get-end-of-life-financial-advice-from-a-cfp-whos-also-a-death-doula-903a270a?mod=mw_rss_topstories",
+            "summary": "A dire diagnosis can upend your financial plan, but you can set it right again. A dire diagnosis will upendYour financial plan. But you canset it right once again.",
+            "date": "Fri, 17 Jul 2026 14:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RETL",
+            "stock_ticker": "WIT30946-USD",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Netflix is spending big money on sports. Is the company making the right bets?",
+            "link": "https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories",
+            "summary": "Netflix says live programming helps draw in new subscribers. But investors have become disillusioned with Netflix’s broader engagement trends. The streaming service says live programs help draw new subscribers, but investors have been disillusioned.",
+            "date": "Fri, 17 Jul 2026 14:03:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NFLX",
             "impact": "Neutral"
         },
         {
-            "title": "AI is killing the cover letter — but here’s when it still pays to send one",
-            "link": "https://www.marketwatch.com/story/ai-is-killing-the-cover-letter-heres-when-it-pays-off-to-send-one-and-when-to-skip-it-e8800ef0?mod=mw_rss_topstories",
-            "summary": "“For really everyone other than AI providers, the process is broken,” he says. “For ... everyone else, the system is broken.”",
-            "date": "Thu, 16 Jul 2026 14:01:00 GMT",
+            "title": "‘I don’t want to sound callous’: Why base your Social Security claim on life expectancy? We could die at any time.",
+            "link": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
+            "summary": "“The actual date of death ultimately affects only the surviving beneficiaries,” the company says. “The death of a person is not determined by the date of his or her death.”",
+            "date": "Fri, 17 Jul 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "QMLS",
             "impact": "Neutral"
         },
         {
-            "title": "GE boosts profit outlook, but stock falls as booming order growth cools",
-            "link": "https://www.marketwatch.com/story/ge-boosts-profit-outlook-but-stock-falls-as-booming-order-growth-cools-f5184533?mod=mw_rss_topstories",
-            "summary": "GE Aerospace’s stock falls after earnings, again, with recently rapid order-book growth slowing. GE Aerospace's order book growth slowing, again.",
-            "date": "Thu, 16 Jul 2026 13:54:00 GMT",
+            "title": "Can former employers withhold money from your 401(k) when you’re laid off?",
+            "link": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
+            "summary": "There are two main ways to move money from your workplace retirement plan when you leave your job. One can cost you; the other can save you money.",
+            "date": "Fri, 17 Jul 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Who qualifies for the bigger IRS tax break on gas — and how to get the most of it",
-            "link": "https://www.marketwatch.com/story/who-qualifies-for-the-bigger-irs-tax-break-on-gas-and-how-to-get-the-most-of-it-e9740261?mod=mw_rss_topstories",
-            "summary": "The IRS is going to let some drivers write off more of their fuel expenses. Gas prices could return to $4 soon, and the IRS is letting them write off some of the cost.",
-            "date": "Thu, 16 Jul 2026 13:49:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "COST",
+            "stock_ticker": "CAN",
             "impact": "Neutral"
         }
     ]
