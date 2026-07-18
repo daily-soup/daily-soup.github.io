@@ -1,107 +1,107 @@
 {
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "news": [
         {
-            "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
-            "link": "https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html",
-            "summary": "The public is as depressed about the economy as it has been since the years just after the pandemic, according to the All-America Economic Survey.",
-            "date": "Fri, 17 Jul 2026 12:50:35 GMT",
+            "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+            "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+            "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
+            "date": "Sat, 18 Jul 2026 11:31:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "000029.SZ",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
-            "link": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
-            "summary": "Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes. The schemes target retailers and banks.",
-            "date": "Fri, 17 Jul 2026 13:12:11 GMT",
+            "title": "World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds",
+            "link": "https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html",
+            "summary": "Nearly half of registered voters watched the 2026 World Cup. Income and education shaping viewership more than party affiliation, the survey found. The World Cup will be held in Brazil in 2026.",
+            "date": "Sat, 18 Jul 2026 12:00:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^COPY-IV",
+            "stock_ticker": "VWCE.DE",
             "impact": "Bullish"
         },
         {
-            "title": "Apple dethrones Nvidia as world's most valuable company, ending the chipmaker's long run at the top",
-            "link": "https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html",
-            "summary": "Nvidia shares have underperformed in 2026 as Wall Street shifts to companies powering the infrastructure AI buildout. Nvidia is one of the biggest players in the cloud computing industry. The company is also a leading supplier of chips for the cloud.",
-            "date": "Fri, 17 Jul 2026 14:16:32 GMT",
+            "title": "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping",
+            "link": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
+            "summary": "U.S. Central Command says it continues to enforce a naval blockade against Iran. Kuwait and Bahrain say they have intercepted more Iranian projectiles.",
+            "date": "Sat, 18 Jul 2026 14:01:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAPL",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Chinese automakers are taking on the UK — and many Brits are embracing it",
-            "link": "https://www.cnbc.com/2026/07/17/chinese-automakers-uk.html",
-            "summary": "The surge comes as China's auto exports have boomed in recent years. China's appetite for new models has cooled as the country's economy has cooled.",
-            "date": "Fri, 17 Jul 2026 14:04:19 GMT",
+            "title": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
+            "link": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
+            "summary": "Morgan Stanley forecasts that K-beauty sales in the U.S. can reach approximately $4 billion in 2026. Morgan Stanley: K-Beauty sales can reach about $3 billion by the end of the decade.",
+            "date": "Sat, 18 Jul 2026 11:45:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "O39.SI",
+            "stock_ticker": "KRW=F",
             "impact": "Neutral"
         },
         {
-            "title": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
-            "link": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html",
-            "summary": " import prices were up 0.3% for the month, as a drop in energy was more than offset by increases elsewhere. The U.S. economy is expected to grow by 0.4% in the second quarter.",
-            "date": "Fri, 17 Jul 2026 14:13:49 GMT",
+            "title": "How are prediction markets taxed? The IRS hasn’t provided guidance yet",
+            "link": "https://www.cnbc.com/2026/07/18/how-are-prediction-markets-taxed-the-irs-hasnt-provided-guidance-yet.html",
+            "summary": "Lack of federal guidance makes it unclear on how prediction markets winnings should be reported and levied. Experts say it's unclear how to report and levy winnings in prediction markets.",
+            "date": "Sat, 18 Jul 2026 11:24:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "000151.SZ",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Netflix is getting stingier with its viewing data, and Wall Street isn’t happy",
-            "link": "https://www.marketwatch.com/story/netflix-is-getting-stingier-about-its-viewing-data-and-wall-street-isnt-happy-15033db1?mod=mw_rss_topstories",
-            "summary": "Netflix's stock is falling in the wake of mixed earnings and a new plan to cut back on the publication of “What We Watched” reports.",
-            "date": "Fri, 17 Jul 2026 14:17:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NFLX",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "What it’s like to get end-of-life financial advice from a CFP who’s also a death doula",
-            "link": "https://www.marketwatch.com/story/what-its-like-to-get-end-of-life-financial-advice-from-a-cfp-whos-also-a-death-doula-903a270a?mod=mw_rss_topstories",
-            "summary": "A dire diagnosis can upend your financial plan, but you can set it right again. A dire diagnosis will upendYour financial plan. But you canset it right once again.",
-            "date": "Fri, 17 Jul 2026 14:15:00 GMT",
+            "title": "Look on the bright side: Energy companies are booming",
+            "link": "https://www.marketwatch.com/story/look-on-the-bright-side-energy-companies-are-booming-546164fb?mod=mw_rss_topstories",
+            "summary": "You can't beat them. Maybe you should join them. You can’t beat them, maybe you should joined them. It’s a great idea.",
+            "date": "Sat, 18 Jul 2026 14:06:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WIT30946-USD",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Netflix is spending big money on sports. Is the company making the right bets?",
-            "link": "https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories",
-            "summary": "Netflix says live programming helps draw in new subscribers. But investors have become disillusioned with Netflix’s broader engagement trends. The streaming service says live programs help draw new subscribers, but investors have been disillusioned.",
-            "date": "Fri, 17 Jul 2026 14:03:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NFLX",
+            "stock_ticker": "HH=F",
             "impact": "Neutral"
         },
         {
-            "title": "‘I don’t want to sound callous’: Why base your Social Security claim on life expectancy? We could die at any time.",
-            "link": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
-            "summary": "“The actual date of death ultimately affects only the surviving beneficiaries,” the company says. “The death of a person is not determined by the date of his or her death.”",
-            "date": "Fri, 17 Jul 2026 14:00:00 GMT",
+            "title": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
+            "link": "https://www.marketwatch.com/story/billionaires-are-loading-up-on-these-superior-stocks-why-it-pays-to-follow-their-money-9120c242?mod=mw_rss_topstories",
+            "summary": "The second quarter was a six-year best for U.S. stocks. Here are the three sectors poised to lead the next leg higher.",
+            "date": "Sat, 18 Jul 2026 13:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CLUB",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This overlooked index is a better investment than the S&P 500",
+            "link": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
+            "summary": "\"It's not even close. We did the math over a 30-year period, and it’s not evenclose,\" he said.",
+            "date": "Sat, 18 Jul 2026 13:41:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "S2819.MC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
+            "link": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
+            "summary": "“He is now no longer able to think clearly or communicate his wishes,” his family says. “He has been left with no choice but to die,’ the family says in a statement.",
+            "date": "Sat, 18 Jul 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "Can former employers withhold money from your 401(k) when you’re laid off?",
-            "link": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
-            "summary": "There are two main ways to move money from your workplace retirement plan when you leave your job. One can cost you; the other can save you money.",
-            "date": "Fri, 17 Jul 2026 14:00:00 GMT",
+            "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
+            "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
+            "summary": "“I’m also considering working with a credit-counseling agency or enrolling in a hardship program,” she said.",
+            "date": "Sat, 18 Jul 2026 13:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CAN",
+            "stock_ticker": "QMLS",
             "impact": "Neutral"
         }
     ]
