@@ -1,124 +1,124 @@
 {
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "news": [
         {
-            "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-            "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-            "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
-            "date": "Sat, 18 Jul 2026 11:31:03 GMT",
+            "title": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
+            "link": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
+            "summary": "Centcom says it hit Iran's coastal surveillance and air defense facilities a day after two U.S. troops were killed in an Iranian strike on Jordan.",
+            "date": "Sun, 19 Jul 2026 11:36:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "SEUS",
             "impact": "Neutral"
         },
         {
-            "title": "World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds",
-            "link": "https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html",
-            "summary": "Nearly half of registered voters watched the 2026 World Cup. Income and education shaping viewership more than party affiliation, the survey found. The World Cup will be held in Brazil in 2026.",
-            "date": "Sat, 18 Jul 2026 12:00:02 GMT",
+            "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
+            "link": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
+            "summary": "The carrier is working on improving reliability, investing in more premium seats and lounges. The carrier is considering Boeing and Airbus for a new wide-body plane order.",
+            "date": "Sun, 19 Jul 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VWCE.DE",
-            "impact": "Bullish"
-        },
-        {
-            "title": "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping",
-            "link": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
-            "summary": "U.S. Central Command says it continues to enforce a naval blockade against Iran. Kuwait and Bahrain say they have intercepted more Iranian projectiles.",
-            "date": "Sat, 18 Jul 2026 14:01:46 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "AAL",
             "impact": "Neutral"
         },
         {
-            "title": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
-            "link": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
-            "summary": "Morgan Stanley forecasts that K-beauty sales in the U.S. can reach approximately $4 billion in 2026. Morgan Stanley: K-Beauty sales can reach about $3 billion by the end of the decade.",
-            "date": "Sat, 18 Jul 2026 11:45:35 GMT",
+            "title": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned",
+            "link": "https://www.cnbc.com/2026/07/18/over-the-air-tech-in-vehicles-poses-cybersecurity-risks.html",
+            "summary": "The automotive industry's increasing use of over-the-air technology makes it more susceptible to cyberattacks, analysts say. Analysts say it makes the industry more vulnerable to attacks.",
+            "date": "Sat, 18 Jul 2026 23:01:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KRW=F",
+            "stock_ticker": "DE000SL0FFX4.SG",
             "impact": "Neutral"
         },
         {
-            "title": "How are prediction markets taxed? The IRS hasn’t provided guidance yet",
-            "link": "https://www.cnbc.com/2026/07/18/how-are-prediction-markets-taxed-the-irs-hasnt-provided-guidance-yet.html",
-            "summary": "Lack of federal guidance makes it unclear on how prediction markets winnings should be reported and levied. Experts say it's unclear how to report and levy winnings in prediction markets.",
-            "date": "Sat, 18 Jul 2026 11:24:54 GMT",
+            "title": "Housing costs is the top political issue for young voters, CNBC survey finds",
+            "link": "https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html",
+            "summary": "The cost of housing is the top priority for voters ages 18 to 34, besting food and healthcare cost concerns, the CNBC All-America Economic Survey found.",
+            "date": "Sun, 19 Jul 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "CUS=F",
             "impact": "Neutral"
         },
         {
-            "title": "Look on the bright side: Energy companies are booming",
-            "link": "https://www.marketwatch.com/story/look-on-the-bright-side-energy-companies-are-booming-546164fb?mod=mw_rss_topstories",
-            "summary": "You can't beat them. Maybe you should join them. You can’t beat them, maybe you should joined them. It’s a great idea.",
-            "date": "Sat, 18 Jul 2026 14:06:00 GMT",
+            "title": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
+            "link": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html",
+            "summary": "The prediction market has launched some ads featuring soccer players. It has also formed a partnership to display its brand in more places during the tournament.",
+            "date": "Sun, 19 Jul 2026 12:42:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HH=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
-            "link": "https://www.marketwatch.com/story/billionaires-are-loading-up-on-these-superior-stocks-why-it-pays-to-follow-their-money-9120c242?mod=mw_rss_topstories",
-            "summary": "The second quarter was a six-year best for U.S. stocks. Here are the three sectors poised to lead the next leg higher.",
-            "date": "Sat, 18 Jul 2026 13:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CLUB",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This overlooked index is a better investment than the S&P 500",
-            "link": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
-            "summary": "\"It's not even close. We did the math over a 30-year period, and it’s not evenclose,\" he said.",
-            "date": "Sat, 18 Jul 2026 13:41:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "S2819.MC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
-            "link": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
-            "summary": "“He is now no longer able to think clearly or communicate his wishes,” his family says. “He has been left with no choice but to die,’ the family says in a statement.",
-            "date": "Sat, 18 Jul 2026 13:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "QMLS",
+            "stock_ticker": "KALSZZX",
             "impact": "Neutral"
         },
         {
             "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
             "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
             "summary": "“I’m also considering working with a credit-counseling agency or enrolling in a hardship program,” she said.",
-            "date": "Sat, 18 Jul 2026 13:15:00 GMT",
+            "date": "Sun, 19 Jul 2026 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "QMLS",
+            "stock_ticker": "SHOT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?",
+            "link": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
+            "summary": "Apple, Amazon, Nvidia and peers are quietly coming back to life, and that could easily jolt this sleepy stock market back into gear.",
+            "date": "Sun, 19 Jul 2026 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CAN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
+            "link": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
+            "summary": "“He is now no longer able to think clearly or communicate his wishes,” his family says. “He has been left with no choice but to die,’ the family says in a statement.",
+            "date": "Sun, 19 Jul 2026 11:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SHOT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
+            "link": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
+            "summary": "“I’m wondering whether I should ask to work with someone closer to our generation,” he says. “I'm wondering whether we should ask for someone from our generation.”",
+            "date": "Sun, 19 Jul 2026 09:20:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AUDMYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
+            "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
+            "summary": "“I met with a financial representative who was not aware that AT&amp;T was the shortened form of American Telephone and Telegraph,” she said.",
+            "date": "Sat, 18 Jul 2026 19:16:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CHFISK=X",
             "impact": "Neutral"
         }
     ]
