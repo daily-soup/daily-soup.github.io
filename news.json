@@ -1,83 +1,107 @@
 {
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "news": [
         {
-            "title": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
-            "link": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
-            "summary": "Centcom says it hit Iran's coastal surveillance and air defense facilities a day after two U.S. troops were killed in an Iranian strike on Jordan.",
-            "date": "Sun, 19 Jul 2026 11:36:45 GMT",
+            "title": "Oil prices erase gains after Iran says U.S. talks could be pursued based on national interests",
+            "link": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
+            "summary": "U.S. forces have started the ninth consecutive night of strikes against Iranian targets. American forces have been striking Iranian targets for the past nine days.",
+            "date": "Mon, 20 Jul 2026 14:41:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SEUS",
+            "stock_ticker": "CL=F",
             "impact": "Neutral"
         },
         {
-            "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
-            "link": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
-            "summary": "The carrier is working on improving reliability, investing in more premium seats and lounges. The carrier is considering Boeing and Airbus for a new wide-body plane order.",
-            "date": "Sun, 19 Jul 2026 12:00:01 GMT",
+            "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer",
+            "link": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
+            "summary": " AMD is taking aim at Nvidia with Helios, its first AI rack system. It has landed Microsoft as a new customer, joining Meta, OpenAI and Oracle.",
+            "date": "Mon, 20 Jul 2026 14:07:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAL",
+            "stock_ticker": "AMD",
             "impact": "Neutral"
         },
         {
-            "title": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned",
-            "link": "https://www.cnbc.com/2026/07/18/over-the-air-tech-in-vehicles-poses-cybersecurity-risks.html",
-            "summary": "The automotive industry's increasing use of over-the-air technology makes it more susceptible to cyberattacks, analysts say. Analysts say it makes the industry more vulnerable to attacks.",
-            "date": "Sat, 18 Jul 2026 23:01:01 GMT",
+            "title": "JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space",
+            "link": "https://www.cnbc.com/2026/07/20/jetblue-spirit-airlines-laguardia-airport-new-york.html",
+            "summary": "JetBlue Airways won takeoff and landing slots for up to 12 roundtrip flights at LaGuardia Airport. JetBlue will fly from New York to New Jersey on a daily basis.",
+            "date": "Mon, 20 Jul 2026 14:23:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DE000SL0FFX4.SG",
+            "stock_ticker": "JBLU",
+            "impact": "Bullish"
+        },
+        {
+            "title": "FIFA emerges as the $9 billion winner as the biggest, brashest World Cup ever draws to a close",
+            "link": "https://www.cnbc.com/2026/07/20/world-cup-fifa-football-winner-tournament-spain.html",
+            "summary": "The World Cup is poised to net over $9 billion in revenue for 2026. The tournament is the most lucrative sporting event in history.",
+            "date": "Mon, 20 Jul 2026 05:45:04 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FIFAX",
             "impact": "Neutral"
         },
         {
-            "title": "Housing costs is the top political issue for young voters, CNBC survey finds",
-            "link": "https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html",
-            "summary": "The cost of housing is the top priority for voters ages 18 to 34, besting food and healthcare cost concerns, the CNBC All-America Economic Survey found.",
-            "date": "Sun, 19 Jul 2026 12:00:01 GMT",
+            "title": "Two injured after man with airsoft rifles lit fireworks outside NYC immigration court: MS NOW",
+            "link": "https://www.cnbc.com/2026/07/20/new-york-nyc-fbi-incendiary-device.html",
+            "summary": "The FBI says an individual set off \"an incendiary device\" outside 26 Federal Plaza. The FBI says the area contains a U.S. Immigration and Customs Enforcement office.",
+            "date": "Mon, 20 Jul 2026 14:37:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CUS=F",
+            "stock_ticker": "TWO",
             "impact": "Neutral"
         },
         {
-            "title": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
-            "link": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html",
-            "summary": "The prediction market has launched some ads featuring soccer players. It has also formed a partnership to display its brand in more places during the tournament.",
-            "date": "Sun, 19 Jul 2026 12:42:30 GMT",
+            "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+            "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+            "summary": "“We would rather pay taxes upfront than pay mortgage interest,” he says. “We’d rather pay tax upfront than paying mortgage interest.”",
+            "date": "Mon, 20 Jul 2026 14:46:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KALSZZX",
+            "stock_ticker": "WDC",
+            "impact": "Bullish"
+        },
+        {
+            "title": "South Korean stocks weren’t a big deal in your emerging-markets fund. Artificial intelligence changed that.",
+            "link": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
+            "summary": "Is your emerging-markets fund an accidental bet on AI? Returns for these two ETFs show why it might be. The two funds are the iShares MSCI Emerging Markets Index and the iSci Investments Emerging Markets Fund.",
+            "date": "Mon, 20 Jul 2026 14:37:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "6Z=F",
             "impact": "Neutral"
         },
         {
-            "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
-            "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
-            "summary": "“I’m also considering working with a credit-counseling agency or enrolling in a hardship program,” she said.",
-            "date": "Sun, 19 Jul 2026 12:30:00 GMT",
+            "title": "SpaceX gave investors intense FOMO. Now the decade’s hottest IPO represents a brutal reality check.",
+            "link": "https://www.marketwatch.com/story/spacex-gave-investors-intense-fomo-now-the-decades-hottest-ipo-represents-a-brutal-reality-check-54f878cb?mod=mw_rss_topstories",
+            "summary": "The hidden danger of chasing hyped initial public offerings? Skipping the fine print. The SEC is cracking down on companies that don't read their IPO prospectus.",
+            "date": "Mon, 20 Jul 2026 14:21:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHOT",
+            "stock_ticker": "SPCX",
             "impact": "Neutral"
         },
         {
             "title": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?",
             "link": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
             "summary": "Apple, Amazon, Nvidia and peers are quietly coming back to life, and that could easily jolt this sleepy stock market back into gear.",
-            "date": "Sun, 19 Jul 2026 12:00:00 GMT",
+            "date": "Mon, 20 Jul 2026 14:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,39 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
-            "link": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
-            "summary": "“He is now no longer able to think clearly or communicate his wishes,” his family says. “He has been left with no choice but to die,’ the family says in a statement.",
-            "date": "Sun, 19 Jul 2026 11:30:00 GMT",
+            "title": "Global oil prices reverse to below $87 a barrel after report of new Iran cease-fire proposal",
+            "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
+            "summary": "Report of 10-day cease-fire between the U.S. and Iran sparked a sharp decline in energy prices. Oil prices took a dive into the red on Monday morning, reversing an earlier sharp rally.",
+            "date": "Mon, 20 Jul 2026 14:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHOT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
-            "link": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
-            "summary": "“I’m wondering whether I should ask to work with someone closer to our generation,” he says. “I'm wondering whether we should ask for someone from our generation.”",
-            "date": "Sun, 19 Jul 2026 09:20:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AUDMYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
-            "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
-            "summary": "“I met with a financial representative who was not aware that AT&amp;T was the shortened form of American Telephone and Telegraph,” she said.",
-            "date": "Sat, 18 Jul 2026 19:16:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CHFISK=X",
+            "stock_ticker": "COIN",
             "impact": "Neutral"
         }
     ]
