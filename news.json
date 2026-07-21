@@ -1,95 +1,11 @@
 {
-    "date": "2026-07-20",
+    "date": "2026-07-21",
     "news": [
         {
-            "title": "Oil prices erase gains after Iran says U.S. talks could be pursued based on national interests",
-            "link": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
-            "summary": "U.S. forces have started the ninth consecutive night of strikes against Iranian targets. American forces have been striking Iranian targets for the past nine days.",
-            "date": "Mon, 20 Jul 2026 14:41:55 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CL=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer",
-            "link": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
-            "summary": " AMD is taking aim at Nvidia with Helios, its first AI rack system. It has landed Microsoft as a new customer, joining Meta, OpenAI and Oracle.",
-            "date": "Mon, 20 Jul 2026 14:07:29 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AMD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space",
-            "link": "https://www.cnbc.com/2026/07/20/jetblue-spirit-airlines-laguardia-airport-new-york.html",
-            "summary": "JetBlue Airways won takeoff and landing slots for up to 12 roundtrip flights at LaGuardia Airport. JetBlue will fly from New York to New Jersey on a daily basis.",
-            "date": "Mon, 20 Jul 2026 14:23:37 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JBLU",
-            "impact": "Bullish"
-        },
-        {
-            "title": "FIFA emerges as the $9 billion winner as the biggest, brashest World Cup ever draws to a close",
-            "link": "https://www.cnbc.com/2026/07/20/world-cup-fifa-football-winner-tournament-spain.html",
-            "summary": "The World Cup is poised to net over $9 billion in revenue for 2026. The tournament is the most lucrative sporting event in history.",
-            "date": "Mon, 20 Jul 2026 05:45:04 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FIFAX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Two injured after man with airsoft rifles lit fireworks outside NYC immigration court: MS NOW",
-            "link": "https://www.cnbc.com/2026/07/20/new-york-nyc-fbi-incendiary-device.html",
-            "summary": "The FBI says an individual set off \"an incendiary device\" outside 26 Federal Plaza. The FBI says the area contains a U.S. Immigration and Customs Enforcement office.",
-            "date": "Mon, 20 Jul 2026 14:37:58 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TWO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
-            "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
-            "summary": "“We would rather pay taxes upfront than pay mortgage interest,” he says. “We’d rather pay tax upfront than paying mortgage interest.”",
-            "date": "Mon, 20 Jul 2026 14:46:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WDC",
-            "impact": "Bullish"
-        },
-        {
-            "title": "South Korean stocks weren’t a big deal in your emerging-markets fund. Artificial intelligence changed that.",
-            "link": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
-            "summary": "Is your emerging-markets fund an accidental bet on AI? Returns for these two ETFs show why it might be. The two funds are the iShares MSCI Emerging Markets Index and the iSci Investments Emerging Markets Fund.",
-            "date": "Mon, 20 Jul 2026 14:37:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "6Z=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "SpaceX gave investors intense FOMO. Now the decade’s hottest IPO represents a brutal reality check.",
-            "link": "https://www.marketwatch.com/story/spacex-gave-investors-intense-fomo-now-the-decades-hottest-ipo-represents-a-brutal-reality-check-54f878cb?mod=mw_rss_topstories",
-            "summary": "The hidden danger of chasing hyped initial public offerings? Skipping the fine print. The SEC is cracking down on companies that don't read their IPO prospectus.",
-            "date": "Mon, 20 Jul 2026 14:21:00 GMT",
+            "title": "SpaceX sets earnings date, triggering first lock-up expiration for millions of shares",
+            "link": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
+            "summary": "SpaceX's stock gained on Tuesday and looked to snap a seven-day losing streak. The company announced Aug. 4 as its maiden earnings report.",
+            "date": "Tue, 21 Jul 2026 14:15:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +14,111 @@
             "impact": "Neutral"
         },
         {
-            "title": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?",
-            "link": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
-            "summary": "Apple, Amazon, Nvidia and peers are quietly coming back to life, and that could easily jolt this sleepy stock market back into gear.",
-            "date": "Mon, 20 Jul 2026 14:15:00 GMT",
+            "title": "Greer hints new Trump tariffs coming on dozens of countries: 'Expect action soon'",
+            "link": "https://www.cnbc.com/2026/07/21/trump-trade-tariffs-greer-section-301.html",
+            "summary": "The Trump administration could impose new tariffs just as other duties are set to expire. U.S. Trade Representative Jamieson Greer's comments were made in an interview with CNN.",
+            "date": "Tue, 21 Jul 2026 13:38:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CAN",
+            "stock_ticker": "6N=F",
             "impact": "Neutral"
         },
         {
-            "title": "Global oil prices reverse to below $87 a barrel after report of new Iran cease-fire proposal",
-            "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
-            "summary": "Report of 10-day cease-fire between the U.S. and Iran sparked a sharp decline in energy prices. Oil prices took a dive into the red on Monday morning, reversing an earlier sharp rally.",
-            "date": "Mon, 20 Jul 2026 14:04:00 GMT",
+            "title": "U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire",
+            "link": "https://www.cnbc.com/2026/07/21/us-iran-war-trump-hormuz-houthis.html",
+            "summary": "The latest cycle of strikes comes amid reports that regional mediators have presented Washington and Tehran with a proposal for a 10-day ceasefire.",
+            "date": "Tue, 21 Jul 2026 13:00:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COIN",
+            "stock_ticker": "SEUS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising",
+            "link": "https://www.cnbc.com/2026/07/21/novo-nordisk-sues-eli-lilly-glp-1-ads.html",
+            "summary": "Novo asked the court to permanently stop Lilly from running the \"deceptive\" ads. Novo also asked the drugmaker to issue corrective advertising.",
+            "date": "Tue, 21 Jul 2026 14:54:22 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bessent says U.S. could sanction China over AI model 'theft'",
+            "link": "https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html",
+            "summary": "Chinese open-weight models are gaining steam against leading offerings from U.S. companies. OpenAI and Anthropic are among the companies offering open-weights in China.",
+            "date": "Tue, 21 Jul 2026 14:14:52 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SEUS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why Paramount could win if it loses the Warner Bros. Discovery deal",
+            "link": "https://www.marketwatch.com/story/why-paramount-could-win-if-it-loses-the-warner-bros-discovery-deal-5f174963?mod=mw_rss_topstories",
+            "summary": "States are trying to block Paramount’s mega-merger. Shareholders should root for them, writes CNN.com's John Sutter.",
+            "date": "Tue, 21 Jul 2026 14:53:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "301218.SZ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Tesla earnings are on deck, and investors will be looking to settle this major debate",
+            "link": "https://www.marketwatch.com/story/tesla-earnings-are-on-deck-and-investors-will-be-looking-to-settle-this-major-debate-f5a11d0e?mod=mw_rss_topstories",
+            "summary": "Wall Street wants to see whether Tesla can deliver on its robotaxi and Optimus plans. Tesla's robotaxis and Optimus cars are expected to go on sale in 2015.",
+            "date": "Tue, 21 Jul 2026 14:32:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSLA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I have a $2,000 deductible’: I reported a cracked windshield on my Hertz rental car. Can they charge me?",
+            "link": "https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories",
+            "summary": "“I never heard a rock hit the windshield,” he says. “I’m just glad I didn’t get hit.”",
+            "date": "Tue, 21 Jul 2026 14:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TVIVW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?",
+            "link": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
+            "summary": "\"Our daughter is a highly ranked competitive softball pitcher with a 3.94 GPA,\" the family said in a statement. \"We are proud to have her as our daughter,\" they said.",
+            "date": "Tue, 21 Jul 2026 14:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TDOG",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The co-founder of Stocktwits dumped chip stocks before their 20% slide. Where he’s putting his money now.",
+            "link": "https://www.marketwatch.com/story/the-co-founder-of-stocktwits-dumped-chip-stocks-before-a-20-slide-where-hes-putting-his-money-now-07e8724f?mod=mw_rss_topstories",
+            "summary": "Stocktwits’ Howard Lindzon talks to MarketWatch about sidestepping a chip selloff. Lindzon sees opportunity and the “degenerate economy.”",
+            "date": "Tue, 21 Jul 2026 13:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSCM",
             "impact": "Neutral"
         }
     ]
