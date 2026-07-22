@@ -1,124 +1,124 @@
 {
-    "date": "2026-07-21",
+    "date": "2026-07-22",
     "news": [
         {
-            "title": "SpaceX sets earnings date, triggering first lock-up expiration for millions of shares",
-            "link": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
-            "summary": "SpaceX's stock gained on Tuesday and looked to snap a seven-day losing streak. The company announced Aug. 4 as its maiden earnings report.",
-            "date": "Tue, 21 Jul 2026 14:15:54 GMT",
+            "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says",
+            "link": "https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html",
+            "summary": "Attack on ships transiting the Bab el-Mandeb threaten to cut off millions of barrels per day of Saudi crude oil exports. Saudi Arabia is the world's largest exporter of crude oil.",
+            "date": "Wed, 22 Jul 2026 14:05:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPCX",
+            "stock_ticker": "MEMES28990-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Greer hints new Trump tariffs coming on dozens of countries: 'Expect action soon'",
-            "link": "https://www.cnbc.com/2026/07/21/trump-trade-tariffs-greer-section-301.html",
-            "summary": "The Trump administration could impose new tariffs just as other duties are set to expire. U.S. Trade Representative Jamieson Greer's comments were made in an interview with CNN.",
-            "date": "Tue, 21 Jul 2026 13:38:59 GMT",
+            "title": "Mortgage rates are rising again, but homebuyers are seeing some advantages",
+            "link": "https://www.cnbc.com/2026/07/22/mortgage-rates-are-rising-again.html",
+            "summary": "Mortgage rates last week rose to the highest level since last August. But homebuyer demand climbed as well, as buyers see more supply.",
+            "date": "Wed, 22 Jul 2026 11:31:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "6N=F",
+            "stock_ticker": "MGE=F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Sen. Wyden introduces bill to curb Trump's tariff powers",
+            "link": "https://www.cnbc.com/2026/07/22/trump-tariffs-wyden-bill-congress.html",
+            "summary": "Sen. Ron Wyden said Trump has \"abused every trade authority at his disposal\" Wyden called his new tariffs on Canadian goods a \"shakedown\"",
+            "date": "Wed, 22 Jul 2026 13:00:15 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^HSI",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Samsung ups prices as it launches new foldable smartphones ahead of expected Apple debut",
+            "link": "https://www.cnbc.com/2026/07/22/samsung-galaxy-z-fold8-ultra-z-fold8-z-flip8-launch.html",
+            "summary": "Samsung launched the Galaxy Z Fold8 Ultra, Galaxy Z fold8 and Galaxy Z Flip8. Samsung also unveiled a new version of its foldable phone, the Galaxy S9. The Galaxy S8 is expected to be launched later this year.",
+            "date": "Wed, 22 Jul 2026 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "005930.KS",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire",
-            "link": "https://www.cnbc.com/2026/07/21/us-iran-war-trump-hormuz-houthis.html",
-            "summary": "The latest cycle of strikes comes amid reports that regional mediators have presented Washington and Tehran with a proposal for a 10-day ceasefire.",
-            "date": "Tue, 21 Jul 2026 13:00:19 GMT",
+            "title": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
+            "link": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html",
+            "summary": "Anthropic's agreement with AMD is the latest in a string of infrastructure deals the company has announced this year to increase its computing capacity.",
+            "date": "Wed, 22 Jul 2026 13:58:10 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SEUS",
+            "stock_ticker": "AMD",
             "impact": "Neutral"
         },
         {
-            "title": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising",
-            "link": "https://www.cnbc.com/2026/07/21/novo-nordisk-sues-eli-lilly-glp-1-ads.html",
-            "summary": "Novo asked the court to permanently stop Lilly from running the \"deceptive\" ads. Novo also asked the drugmaker to issue corrective advertising.",
-            "date": "Tue, 21 Jul 2026 14:54:22 GMT",
+            "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+            "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+            "summary": "“We would rather pay taxes upfront than pay mortgage interest,” he says. “We’d rather pay tax upfront than paying mortgage interest.”",
+            "date": "Wed, 22 Jul 2026 14:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVO",
+            "stock_ticker": "WDC",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Global oil prices rise above $95 a barrel for the first time in 6 weeks as hopes dim for de-escalation of Iran war",
+            "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
+            "summary": "Oil prices climbed on Wednesday morning to a six-week high after the U.S. struck Iran for the 11th night in a row. President Trump warned that the United States will bomb Iran’s bridges and power plants if Tehran shoots at ships in the Strait of Hormuz.",
+            "date": "Wed, 22 Jul 2026 14:07:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "COIN",
             "impact": "Neutral"
         },
         {
-            "title": "Bessent says U.S. could sanction China over AI model 'theft'",
-            "link": "https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html",
-            "summary": "Chinese open-weight models are gaining steam against leading offerings from U.S. companies. OpenAI and Anthropic are among the companies offering open-weights in China.",
-            "date": "Tue, 21 Jul 2026 14:14:52 GMT",
+            "title": "This ‘incredibly disrespectful’ interview habit could be costing Gen Z jobs",
+            "link": "https://www.marketwatch.com/story/its-incredibly-disrespectful-to-do-a-virtual-job-interview-by-phone-but-gen-z-is-doing-it-anyway-0d8486d7?mod=mw_rss_topstories",
+            "summary": "“This has more to do with the technology they grew up with rather than a sign of respect,” he says. “It’s more of a show of respect.”",
+            "date": "Wed, 22 Jul 2026 14:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SEUS",
+            "stock_ticker": "0P000021TT.F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Is Microsoft’s stock set for a breakout? This analyst says a major inflection is in the cards.",
+            "link": "https://www.marketwatch.com/story/is-microsofts-stock-set-for-a-breakout-this-analyst-says-a-major-inflection-is-in-the-cards-53c312e4?mod=mw_rss_topstories",
+            "summary": "Microsoft shares have slumped this year but a Bernstein analyst thinks the stock is due for a meaningful turnaround in the coming quarters. A Bernstein analyst says Microsoft shares are likely to turn around in the next few quarters.",
+            "date": "Wed, 22 Jul 2026 14:03:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CHFISK=X",
             "impact": "Neutral"
         },
         {
-            "title": "Why Paramount could win if it loses the Warner Bros. Discovery deal",
-            "link": "https://www.marketwatch.com/story/why-paramount-could-win-if-it-loses-the-warner-bros-discovery-deal-5f174963?mod=mw_rss_topstories",
-            "summary": "States are trying to block Paramount’s mega-merger. Shareholders should root for them, writes CNN.com's John Sutter.",
-            "date": "Tue, 21 Jul 2026 14:53:00 GMT",
+            "title": "How to ask strangers on the internet for financial advice",
+            "link": "https://www.marketwatch.com/story/how-to-ask-strangers-on-the-internet-for-financial-advice-ba5b3fb7?mod=mw_rss_topstories",
+            "summary": "You need some ground rules when posting on a public forum. Whether you’re emailing an expert or posting online, you need to follow these rules.",
+            "date": "Wed, 22 Jul 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "301218.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Tesla earnings are on deck, and investors will be looking to settle this major debate",
-            "link": "https://www.marketwatch.com/story/tesla-earnings-are-on-deck-and-investors-will-be-looking-to-settle-this-major-debate-f5a11d0e?mod=mw_rss_topstories",
-            "summary": "Wall Street wants to see whether Tesla can deliver on its robotaxi and Optimus plans. Tesla's robotaxis and Optimus cars are expected to go on sale in 2015.",
-            "date": "Tue, 21 Jul 2026 14:32:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TSLA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I have a $2,000 deductible’: I reported a cracked windshield on my Hertz rental car. Can they charge me?",
-            "link": "https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories",
-            "summary": "“I never heard a rock hit the windshield,” he says. “I’m just glad I didn’t get hit.”",
-            "date": "Tue, 21 Jul 2026 14:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TVIVW",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?",
-            "link": "https://www.marketwatch.com/story/do-i-use-300-000-of-my-1-2-million-retirement-savings-so-my-daughter-can-attend-her-dream-college-50842e7a?mod=mw_rss_topstories",
-            "summary": "\"Our daughter is a highly ranked competitive softball pitcher with a 3.94 GPA,\" the family said in a statement. \"We are proud to have her as our daughter,\" they said.",
-            "date": "Tue, 21 Jul 2026 14:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TDOG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The co-founder of Stocktwits dumped chip stocks before their 20% slide. Where he’s putting his money now.",
-            "link": "https://www.marketwatch.com/story/the-co-founder-of-stocktwits-dumped-chip-stocks-before-a-20-slide-where-hes-putting-his-money-now-07e8724f?mod=mw_rss_topstories",
-            "summary": "Stocktwits’ Howard Lindzon talks to MarketWatch about sidestepping a chip selloff. Lindzon sees opportunity and the “degenerate economy.”",
-            "date": "Tue, 21 Jul 2026 13:50:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TSCM",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         }
     ]
