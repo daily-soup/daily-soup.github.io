@@ -1,83 +1,107 @@
 {
-    "date": "2026-07-22",
+    "date": "2026-07-23",
     "news": [
         {
-            "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says",
-            "link": "https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html",
-            "summary": "Attack on ships transiting the Bab el-Mandeb threaten to cut off millions of barrels per day of Saudi crude oil exports. Saudi Arabia is the world's largest exporter of crude oil.",
-            "date": "Wed, 22 Jul 2026 14:05:45 GMT",
+            "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
+            "link": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+            "summary": "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports. Shares of Google, Facebook and Microsoft also dipped after their quarterly reports.",
+            "date": "Thu, 23 Jul 2026 01:48:22 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MEMES28990-USD",
+            "stock_ticker": "GOOG",
             "impact": "Neutral"
         },
         {
-            "title": "Mortgage rates are rising again, but homebuyers are seeing some advantages",
-            "link": "https://www.cnbc.com/2026/07/22/mortgage-rates-are-rising-again.html",
-            "summary": "Mortgage rates last week rose to the highest level since last August. But homebuyer demand climbed as well, as buyers see more supply.",
-            "date": "Wed, 22 Jul 2026 11:31:31 GMT",
+            "title": "Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment",
+            "link": "https://www.cnbc.com/2026/07/23/trump-saudi-arabia-nuclear-power.html",
+            "summary": "The civilian nuclear cooperation agreement, signed Wednesday, will be sent to Congress for review, the Department of Energy says. The agreement was signed by the U.S., Israel and South Korea.",
+            "date": "Thu, 23 Jul 2026 14:50:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MGE=F",
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
+            "link": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html",
+            "summary": "Shares of Albertsons sank Thursday after the grocer reported softness in its core business. The company lowered its full-year outlook as a result.",
+            "date": "Thu, 23 Jul 2026 13:41:16 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ACI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "American Airlines stock tumbles 8% as fuel spike further postpones turnaround",
+            "link": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
+            "summary": "American Airlines further cuts its 2026 earnings outlook, citing higher fuel costs. American Airlines further cut its 20 26 earnings outlook,. citing higherfuel costs.",
+            "date": "Thu, 23 Jul 2026 13:45:27 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Brent crude tops $100 a barrel. How the next stop could be $120",
+            "link": "https://www.cnbc.com/2026/07/23/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+            "summary": "Goldman Sachs warns on oil prices and so called tank bottoms. Goldman Sachs loves a new natural gas-related name. The bank also loves the idea of a \"golden nugget\"",
+            "date": "Thu, 23 Jul 2026 13:36:29 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BZ=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Alphabet’s massive profit growth is just an illusion, as SpaceX and Anthropic help mask a historic cash drain",
+            "link": "https://www.marketwatch.com/story/alphabets-massive-profit-growth-is-just-an-illusion-as-spacex-and-anthropic-help-mask-a-historic-cash-drain-ffff172d?mod=mw_rss_topstories",
+            "summary": "An analyst calls that an “illusory’ performance propped up by unrealized gains from equity investments. Earnings quadrupled on paper, but an analyst calls it an ‘illusory' performance.",
+            "date": "Thu, 23 Jul 2026 14:28:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MAV19642-USD",
             "impact": "Bullish"
         },
         {
-            "title": "Sen. Wyden introduces bill to curb Trump's tariff powers",
-            "link": "https://www.cnbc.com/2026/07/22/trump-tariffs-wyden-bill-congress.html",
-            "summary": "Sen. Ron Wyden said Trump has \"abused every trade authority at his disposal\" Wyden called his new tariffs on Canadian goods a \"shakedown\"",
-            "date": "Wed, 22 Jul 2026 13:00:15 GMT",
+            "title": "I am a 63-year-old semiretired physician. If you have saved $2 million for retirement, should Social Security be optional?",
+            "link": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+            "summary": "“At that point, they arguably no longer need the government’s retirement safety net,” he says. “At the end of the day, they’re already retired.”",
+            "date": "Thu, 23 Jul 2026 14:21:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^HSI",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Samsung ups prices as it launches new foldable smartphones ahead of expected Apple debut",
-            "link": "https://www.cnbc.com/2026/07/22/samsung-galaxy-z-fold8-ultra-z-fold8-z-flip8-launch.html",
-            "summary": "Samsung launched the Galaxy Z Fold8 Ultra, Galaxy Z fold8 and Galaxy Z Flip8. Samsung also unveiled a new version of its foldable phone, the Galaxy S9. The Galaxy S8 is expected to be launched later this year.",
-            "date": "Wed, 22 Jul 2026 13:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "005930.KS",
+            "stock_ticker": "FRNM",
             "impact": "Neutral"
         },
         {
-            "title": "AMD to invest up to $5 billion in Anthropic as part of computing power deal",
-            "link": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html",
-            "summary": "Anthropic's agreement with AMD is the latest in a string of infrastructure deals the company has announced this year to increase its computing capacity.",
-            "date": "Wed, 22 Jul 2026 13:58:10 GMT",
+            "title": "For young investors, $100,000 was once the gateway to wealth. Today, it’s double that.",
+            "link": "https://www.marketwatch.com/story/having-100-000-invested-was-once-the-gateway-to-building-real-wealth-for-young-people-today-its-double-that-dc96fcc7?mod=mw_rss_topstories",
+            "summary": "Young people who want to feel rich in today’s economy need to have a lot more. While this investing benchmark is still worth celebrating, young people need more.",
+            "date": "Thu, 23 Jul 2026 14:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMD",
+            "stock_ticker": "FOR",
             "impact": "Neutral"
         },
         {
-            "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
-            "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
-            "summary": "“We would rather pay taxes upfront than pay mortgage interest,” he says. “We’d rather pay tax upfront than paying mortgage interest.”",
-            "date": "Wed, 22 Jul 2026 14:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WDC",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Global oil prices rise above $95 a barrel for the first time in 6 weeks as hopes dim for de-escalation of Iran war",
-            "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
-            "summary": "Oil prices climbed on Wednesday morning to a six-week high after the U.S. struck Iran for the 11th night in a row. President Trump warned that the United States will bomb Iran’s bridges and power plants if Tehran shoots at ships in the Strait of Hormuz.",
-            "date": "Wed, 22 Jul 2026 14:07:00 GMT",
+            "title": "Global oil prices top $100 after Houthis claim strikes on Saudi Arabian tankers",
+            "link": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
+            "summary": "Brent crude tops $100 a barrel for the first time since May. Yemen’s Houthi militants claimed attacks on two Saudi Arabian tankers.",
+            "date": "Thu, 23 Jul 2026 14:09:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,40 +110,16 @@
             "impact": "Neutral"
         },
         {
-            "title": "This ‘incredibly disrespectful’ interview habit could be costing Gen Z jobs",
-            "link": "https://www.marketwatch.com/story/its-incredibly-disrespectful-to-do-a-virtual-job-interview-by-phone-but-gen-z-is-doing-it-anyway-0d8486d7?mod=mw_rss_topstories",
-            "summary": "“This has more to do with the technology they grew up with rather than a sign of respect,” he says. “It’s more of a show of respect.”",
-            "date": "Wed, 22 Jul 2026 14:05:00 GMT",
+            "title": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical.",
+            "link": "https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725?mod=mw_rss_topstories",
+            "summary": "The different price action between artificial-intelligence hyperscalers and chip and infrastructure stocks is a throwback to a setup in the late 1990s, argues JPMorgan.",
+            "date": "Thu, 23 Jul 2026 13:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P000021TT.F",
+            "stock_ticker": "AI",
             "impact": "Bullish"
-        },
-        {
-            "title": "Is Microsoft’s stock set for a breakout? This analyst says a major inflection is in the cards.",
-            "link": "https://www.marketwatch.com/story/is-microsofts-stock-set-for-a-breakout-this-analyst-says-a-major-inflection-is-in-the-cards-53c312e4?mod=mw_rss_topstories",
-            "summary": "Microsoft shares have slumped this year but a Bernstein analyst thinks the stock is due for a meaningful turnaround in the coming quarters. A Bernstein analyst says Microsoft shares are likely to turn around in the next few quarters.",
-            "date": "Wed, 22 Jul 2026 14:03:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CHFISK=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How to ask strangers on the internet for financial advice",
-            "link": "https://www.marketwatch.com/story/how-to-ask-strangers-on-the-internet-for-financial-advice-ba5b3fb7?mod=mw_rss_topstories",
-            "summary": "You need some ground rules when posting on a public forum. Whether you’re emailing an expert or posting online, you need to follow these rules.",
-            "date": "Wed, 22 Jul 2026 14:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
         }
     ]
 }
