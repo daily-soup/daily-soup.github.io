@@ -1,23 +1,11 @@
 {
-    "date": "2026-07-23",
+    "date": "2026-07-24",
     "news": [
         {
-            "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
-            "link": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-            "summary": "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports. Shares of Google, Facebook and Microsoft also dipped after their quarterly reports.",
-            "date": "Thu, 23 Jul 2026 01:48:22 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GOOG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment",
-            "link": "https://www.cnbc.com/2026/07/23/trump-saudi-arabia-nuclear-power.html",
-            "summary": "The civilian nuclear cooperation agreement, signed Wednesday, will be sent to Congress for review, the Department of Energy says. The agreement was signed by the U.S., Israel and South Korea.",
-            "date": "Thu, 23 Jul 2026 14:50:50 GMT",
+            "title": "Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America",
+            "link": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
+            "summary": "The president told Axios he was considering an operation \"bigger than ever before\" The operation would take place in a secret location, the president said.",
+            "date": "Fri, 24 Jul 2026 11:57:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,99 +14,111 @@
             "impact": "Neutral"
         },
         {
-            "title": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
-            "link": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html",
-            "summary": "Shares of Albertsons sank Thursday after the grocer reported softness in its core business. The company lowered its full-year outlook as a result.",
-            "date": "Thu, 23 Jul 2026 13:41:16 GMT",
+            "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
+            "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+            "summary": "OpenAI and Anthropic did not sign the letter. Chinese open-weight models are gaining steam against leading offerings from American companies.",
+            "date": "Fri, 24 Jul 2026 14:15:47 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ACI",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "American Airlines stock tumbles 8% as fuel spike further postpones turnaround",
-            "link": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
-            "summary": "American Airlines further cuts its 2026 earnings outlook, citing higher fuel costs. American Airlines further cut its 20 26 earnings outlook,. citing higherfuel costs.",
-            "date": "Thu, 23 Jul 2026 13:45:27 GMT",
+            "title": "Intel rides AI boom to fastest revenue growth in almost 15 years, but shares sink",
+            "link": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+            "summary": "Intel's revenue jumped 25%, the most robust growth for any period since the third quarter of 2011. Intel's revenue grew 25% in the quarter, according to a report.",
+            "date": "Fri, 24 Jul 2026 14:05:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAL",
+            "stock_ticker": "INTC",
             "impact": "Neutral"
         },
         {
-            "title": "Brent crude tops $100 a barrel. How the next stop could be $120",
-            "link": "https://www.cnbc.com/2026/07/23/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
-            "summary": "Goldman Sachs warns on oil prices and so called tank bottoms. Goldman Sachs loves a new natural gas-related name. The bank also loves the idea of a \"golden nugget\"",
-            "date": "Thu, 23 Jul 2026 13:36:29 GMT",
+            "title": "Pentagon lowers official Iran war death toll, omitting four killed this month",
+            "link": "https://www.cnbc.com/2026/07/24/pentagon-removed-four-official-iran-war-death-toll.html",
+            "summary": "The Pentagon lowered its official Iran war death toll to 14 from 18, removing four service members killed this month. The U.S. military says 14 service members were killed during the Iran war.",
+            "date": "Fri, 24 Jul 2026 12:26:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BZ=F",
+            "stock_ticker": "0P00014MCL.F",
             "impact": "Neutral"
         },
         {
-            "title": "Alphabet’s massive profit growth is just an illusion, as SpaceX and Anthropic help mask a historic cash drain",
-            "link": "https://www.marketwatch.com/story/alphabets-massive-profit-growth-is-just-an-illusion-as-spacex-and-anthropic-help-mask-a-historic-cash-drain-ffff172d?mod=mw_rss_topstories",
-            "summary": "An analyst calls that an “illusory’ performance propped up by unrealized gains from equity investments. Earnings quadrupled on paper, but an analyst calls it an ‘illusory' performance.",
-            "date": "Thu, 23 Jul 2026 14:28:00 GMT",
+            "title": "Treasury yields retreat, 10-year hovers around January 2025 highs",
+            "link": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
+            "summary": "U.S. Treasury yields retreated on Friday after briefly hitting the highest level since January 2025. The day before, yields had hit the highest levels since January 2015.",
+            "date": "Fri, 24 Jul 2026 14:23:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MAV19642-USD",
-            "impact": "Bullish"
+            "stock_ticker": "ZB=F",
+            "impact": "Neutral"
         },
         {
-            "title": "I am a 63-year-old semiretired physician. If you have saved $2 million for retirement, should Social Security be optional?",
+            "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
             "link": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
             "summary": "“At that point, they arguably no longer need the government’s retirement safety net,” he says. “At the end of the day, they’re already retired.”",
-            "date": "Thu, 23 Jul 2026 14:21:00 GMT",
+            "date": "Fri, 24 Jul 2026 14:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FRNM",
+            "stock_ticker": "TRIN",
             "impact": "Neutral"
         },
         {
-            "title": "For young investors, $100,000 was once the gateway to wealth. Today, it’s double that.",
-            "link": "https://www.marketwatch.com/story/having-100-000-invested-was-once-the-gateway-to-building-real-wealth-for-young-people-today-its-double-that-dc96fcc7?mod=mw_rss_topstories",
-            "summary": "Young people who want to feel rich in today’s economy need to have a lot more. While this investing benchmark is still worth celebrating, young people need more.",
-            "date": "Thu, 23 Jul 2026 14:15:00 GMT",
+            "title": "I lost my job, my emergency fund is running out and now I have to move back in with my parents. What did I do wrong?",
+            "link": "https://www.marketwatch.com/story/i-lost-my-job-my-emergency-fund-is-running-out-and-now-i-have-to-move-back-in-with-my-parents-what-did-i-do-wrong-cf1c0f9f?mod=mw_rss_topstories",
+            "summary": "\"I'm 38 and thought I did everything right. What should I do now?\" asks former NFL player. \"I'm not sure what to do,\" he says.",
+            "date": "Fri, 24 Jul 2026 14:25:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FOR",
+            "stock_ticker": "TRIN",
             "impact": "Neutral"
         },
         {
-            "title": "Global oil prices top $100 after Houthis claim strikes on Saudi Arabian tankers",
-            "link": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
-            "summary": "Brent crude tops $100 a barrel for the first time since May. Yemen’s Houthi militants claimed attacks on two Saudi Arabian tankers.",
-            "date": "Thu, 23 Jul 2026 14:09:00 GMT",
+            "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
+            "link": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
+            "summary": "“To my surprise, the proceeds from the sale were credited to my money-market settlement fund,” he said. “To his surprise,’ he said, “the proceeds from my money market settlement fund were credited.”",
+            "date": "Fri, 24 Jul 2026 14:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COIN",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical.",
-            "link": "https://www.marketwatch.com/story/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns-the-next-few-weeks-are-critical-408ed725?mod=mw_rss_topstories",
-            "summary": "The different price action between artificial-intelligence hyperscalers and chip and infrastructure stocks is a throwback to a setup in the late 1990s, argues JPMorgan.",
-            "date": "Thu, 23 Jul 2026 13:52:00 GMT",
+            "title": "Intel earnings show just how dramatically the company has come back from being ‘near-dead’",
+            "link": "https://www.marketwatch.com/story/intel-earnings-show-just-how-dramatically-the-company-has-come-back-from-being-near-dead-37f81c38?mod=mw_rss_topstories",
+            "summary": "The company is impressing analysts with its profit performance. The company is expected to make a profit for the first time in three years in the second quarter.",
+            "date": "Fri, 24 Jul 2026 14:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "INTC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "U.S. economy began to speed up — until Iran peace talks failed and oil prices surged again",
+            "link": "https://www.marketwatch.com/story/u-s-economy-began-to-speed-up-until-iran-peace-talks-failed-and-oil-prices-surged-again-3fce66b2?mod=mw_rss_topstories",
+            "summary": "S&amp;P surveys find rising inflation and supply woes. S&amp:P survey finds rising inflation, supply woes in the U.S.",
+            "date": "Fri, 24 Jul 2026 14:03:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SEUS",
             "impact": "Bullish"
         }
     ]
