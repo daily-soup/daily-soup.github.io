@@ -1,11 +1,23 @@
 {
-    "date": "2026-07-24",
+    "date": "2026-07-25",
     "news": [
         {
-            "title": "Trump considering a ‘massive attack’ on Iran as Tehran labels UK ‘accomplice’ to America",
-            "link": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
-            "summary": "The president told Axios he was considering an operation \"bigger than ever before\" The operation would take place in a secret location, the president said.",
-            "date": "Fri, 24 Jul 2026 11:57:15 GMT",
+            "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
+            "link": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
+            "summary": "Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late. Techies and lawmakers debate how it should be regulated.",
+            "date": "Sat, 25 Jul 2026 14:03:03 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "JARED-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
+            "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
+            "summary": "President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.",
+            "date": "Sat, 25 Jul 2026 14:23:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,112 +26,100 @@
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
-            "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-            "summary": "OpenAI and Anthropic did not sign the letter. Chinese open-weight models are gaining steam against leading offerings from American companies.",
-            "date": "Fri, 24 Jul 2026 14:15:47 GMT",
+            "title": "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot",
+            "link": "https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html",
+            "summary": "Evangelicals, labor unions and anti-AI-data-center activists are part of a groundswell worrying about how fast technology is changing.",
+            "date": "Sat, 25 Jul 2026 12:00:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "3587.TWO",
             "impact": "Neutral"
         },
         {
-            "title": "Intel rides AI boom to fastest revenue growth in almost 15 years, but shares sink",
-            "link": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
-            "summary": "Intel's revenue jumped 25%, the most robust growth for any period since the third quarter of 2011. Intel's revenue grew 25% in the quarter, according to a report.",
-            "date": "Fri, 24 Jul 2026 14:05:35 GMT",
+            "title": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
+            "link": "https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html",
+            "summary": "Moviegoers are traveling, paying premiums to see Christopher Nolan’s ‘The Odyssey’ in scarce Imax 70 mm screenings.",
+            "date": "Sat, 25 Jul 2026 12:46:34 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "INTC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Pentagon lowers official Iran war death toll, omitting four killed this month",
-            "link": "https://www.cnbc.com/2026/07/24/pentagon-removed-four-official-iran-war-death-toll.html",
-            "summary": "The Pentagon lowered its official Iran war death toll to 14 from 18, removing four service members killed this month. The U.S. military says 14 service members were killed during the Iran war.",
-            "date": "Fri, 24 Jul 2026 12:26:37 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P00014MCL.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Treasury yields retreat, 10-year hovers around January 2025 highs",
-            "link": "https://www.cnbc.com/2026/07/24/treasury-yields-bonds-us-debt.html",
-            "summary": "U.S. Treasury yields retreated on Friday after briefly hitting the highest level since January 2025. The day before, yields had hit the highest levels since January 2015.",
-            "date": "Fri, 24 Jul 2026 14:23:14 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZB=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
-            "link": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
-            "summary": "“At that point, they arguably no longer need the government’s retirement safety net,” he says. “At the end of the day, they’re already retired.”",
-            "date": "Fri, 24 Jul 2026 14:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TRIN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I lost my job, my emergency fund is running out and now I have to move back in with my parents. What did I do wrong?",
-            "link": "https://www.marketwatch.com/story/i-lost-my-job-my-emergency-fund-is-running-out-and-now-i-have-to-move-back-in-with-my-parents-what-did-i-do-wrong-cf1c0f9f?mod=mw_rss_topstories",
-            "summary": "\"I'm 38 and thought I did everything right. What should I do now?\" asks former NFL player. \"I'm not sure what to do,\" he says.",
-            "date": "Fri, 24 Jul 2026 14:25:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TRIN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
-            "link": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
-            "summary": "“To my surprise, the proceeds from the sale were credited to my money-market settlement fund,” he said. “To his surprise,’ he said, “the proceeds from my money market settlement fund were credited.”",
-            "date": "Fri, 24 Jul 2026 14:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Intel earnings show just how dramatically the company has come back from being ‘near-dead’",
-            "link": "https://www.marketwatch.com/story/intel-earnings-show-just-how-dramatically-the-company-has-come-back-from-being-near-dead-37f81c38?mod=mw_rss_topstories",
-            "summary": "The company is impressing analysts with its profit performance. The company is expected to make a profit for the first time in three years in the second quarter.",
-            "date": "Fri, 24 Jul 2026 14:10:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "INTC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. economy began to speed up — until Iran peace talks failed and oil prices surged again",
-            "link": "https://www.marketwatch.com/story/u-s-economy-began-to-speed-up-until-iran-peace-talks-failed-and-oil-prices-surged-again-3fce66b2?mod=mw_rss_topstories",
-            "summary": "S&amp;P surveys find rising inflation and supply woes. S&amp:P survey finds rising inflation, supply woes in the U.S.",
-            "date": "Fri, 24 Jul 2026 14:03:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SEUS",
+            "stock_ticker": "IMAX",
             "impact": "Bullish"
+        },
+        {
+            "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
+            "link": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
+            "summary": " shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial. Shipping and logistics firms are tapping in to the growing healthcare market.",
+            "date": "Sat, 25 Jul 2026 12:00:02 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DKL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
+            "link": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
+            "summary": "Nervous investors set the stage for massive post-earnings moves in Wall Street’s biggest stocks. Wall Street's biggest stocks are expected to make big moves in the coming days.",
+            "date": "Sat, 25 Jul 2026 14:21:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ES=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Are 7% mortgage rates next? The Treasury market is flashing a warning sign for home buyers.",
+            "link": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
+            "summary": "The 30-year fixed-rate mortgage edged up to its highest level of 2026. The mortgage rate is expected to remain at the same level for the next five years.",
+            "date": "Sat, 25 Jul 2026 14:08:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ARE",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Your retirement math may have a surprising flaw",
+            "link": "https://www.marketwatch.com/story/your-retirement-math-may-have-a-surprising-flaw-2d8f58d8?mod=mw_rss_topstories",
+            "summary": "Stress-test your retirement plan against late-life healthcare and housing shocks. Stress-test Your Retirement Plan against Late-life Healthcare and Housing shocks.",
+            "date": "Sat, 25 Jul 2026 13:53:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RTV.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Pro stock pickers cannot beat simple math — war in the Middle East is proving it",
+            "link": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
+            "summary": "Active stock pickers almost always lose against the broad market. They can’t beat simple math, says Tom Zoellner, CEO of iReport.com.",
+            "date": "Sat, 25 Jul 2026 13:36:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "B0=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SpaceX isn’t the wireless threat that investors fear — unless someone breaks this unspoken agreement",
+            "link": "https://www.marketwatch.com/story/spacex-isnt-the-wireless-threat-that-investors-fear-unless-someone-breaks-this-unspoken-agreement-864dab90?mod=mw_rss_topstories",
+            "summary": "It would likely be too expensive and time-consuming for SpaceX to build a mobile network on its own. But the major wireless carriers have to hope one of their rivals doesn't sell out.",
+            "date": "Sat, 25 Jul 2026 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPCX",
+            "impact": "Neutral"
         }
     ]
 }
