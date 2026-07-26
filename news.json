@@ -1,125 +1,125 @@
 {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "news": [
         {
-            "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
-            "link": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
-            "summary": "Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late. Techies and lawmakers debate how it should be regulated.",
-            "date": "Sat, 25 Jul 2026 14:03:03 GMT",
+            "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
+            "link": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
+            "summary": "The latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen, represent a widening of the Middle East conflict.",
+            "date": "Sun, 26 Jul 2026 14:12:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JARED-USD",
+            "stock_ticker": "UKRN.DE",
             "impact": "Neutral"
         },
         {
-            "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
-            "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
-            "summary": "President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.",
-            "date": "Sat, 25 Jul 2026 14:23:53 GMT",
+            "title": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks",
+            "link": "https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html",
+            "summary": "The industrials sector of the stock market is benefitting from the AI infrastructure boom. The P/E ratio is up close to tech levels and investor flows strong.",
+            "date": "Sun, 26 Jul 2026 14:12:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot",
-            "link": "https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html",
-            "summary": "Evangelicals, labor unions and anti-AI-data-center activists are part of a groundswell worrying about how fast technology is changing.",
-            "date": "Sat, 25 Jul 2026 12:00:02 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "3587.TWO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
-            "link": "https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html",
-            "summary": "Moviegoers are traveling, paying premiums to see Christopher Nolan’s ‘The Odyssey’ in scarce Imax 70 mm screenings.",
-            "date": "Sat, 25 Jul 2026 12:46:34 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IMAX",
+            "stock_ticker": "^COPY-IV",
             "impact": "Bullish"
         },
         {
-            "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
-            "link": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
-            "summary": " shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial. Shipping and logistics firms are tapping in to the growing healthcare market.",
-            "date": "Sat, 25 Jul 2026 12:00:02 GMT",
+            "title": "How AI wealth could be distributed to all Americans",
+            "link": "https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html",
+            "summary": " AI riches are already concentrated among a handful of powerful companies. There are plenty of new, some radical, ideas about how to spread the wealth.",
+            "date": "Sun, 26 Jul 2026 14:06:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DKL",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
-            "link": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
-            "summary": "Nervous investors set the stage for massive post-earnings moves in Wall Street’s biggest stocks. Wall Street's biggest stocks are expected to make big moves in the coming days.",
-            "date": "Sat, 25 Jul 2026 14:21:00 GMT",
+            "title": "100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum",
+            "link": "https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html",
+            "summary": "Democrats see a path back to the U.S. House majority this November as President Donald Trump's approval dips. Democrats are expected to make gains in the midterm elections.",
+            "date": "Sun, 26 Jul 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ES=F",
+            "stock_ticker": "NQ=F",
             "impact": "Neutral"
         },
         {
-            "title": "Are 7% mortgage rates next? The Treasury market is flashing a warning sign for home buyers.",
-            "link": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
-            "summary": "The 30-year fixed-rate mortgage edged up to its highest level of 2026. The mortgage rate is expected to remain at the same level for the next five years.",
-            "date": "Sat, 25 Jul 2026 14:08:00 GMT",
+            "title": "Top Wall Street analysts back these 3 stocks for their long-term growth potential",
+            "link": "https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html",
+            "summary": "Investors with a long-term horizon should look beyond the ongoing noise and focus on stocks that are well-positioned to generate strong returns.",
+            "date": "Sun, 26 Jul 2026 11:33:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ARE",
+            "stock_ticker": "TOP",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The S&P 500’s earnings growth has gone bonkers thanks to one company",
+            "link": "https://www.marketwatch.com/story/the-s-p-500s-earnings-growth-has-gone-bonkers-thanks-to-one-company-1c45b2ba?mod=mw_rss_topstories",
+            "summary": " Markets gearing up for busiest week of second-quarter earnings season. Markets are gearing up to take on big banks and Wall Street banks this week.",
+            "date": "Sun, 26 Jul 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SCTX",
             "impact": "Bullish"
         },
         {
-            "title": "Your retirement math may have a surprising flaw",
-            "link": "https://www.marketwatch.com/story/your-retirement-math-may-have-a-surprising-flaw-2d8f58d8?mod=mw_rss_topstories",
-            "summary": "Stress-test your retirement plan against late-life healthcare and housing shocks. Stress-test Your Retirement Plan against Late-life Healthcare and Housing shocks.",
-            "date": "Sat, 25 Jul 2026 13:53:00 GMT",
+            "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
+            "link": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
+            "summary": "“I own my home outright, have no children or other dependents,” she says. “I have no plans to leave my home to anyone else.”",
+            "date": "Sun, 26 Jul 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RTV.F",
+            "stock_ticker": "WFC",
             "impact": "Neutral"
         },
         {
-            "title": "Pro stock pickers cannot beat simple math — war in the Middle East is proving it",
-            "link": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
-            "summary": "Active stock pickers almost always lose against the broad market. They can’t beat simple math, says Tom Zoellner, CEO of iReport.com.",
-            "date": "Sat, 25 Jul 2026 13:36:00 GMT",
+            "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
+            "link": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
+            "summary": "Treasury yields and oil prices surged, pushing the S&amp;P 500 below key chart support. The dollar confirmed the breakout toward a longer-term uptrend.",
+            "date": "Sun, 26 Jul 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "B0=F",
+            "stock_ticker": "MAY-USD",
+            "impact": "Bullish"
+        },
+        {
+            "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
+            "link": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+            "summary": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses,” the study says. “It’s not just a question of whether or not you’re entitled to benefits,’ the study adds. ‘It is a matter of when, not if.’",
+            "date": "Sun, 26 Jul 2026 12:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "QBTS",
             "impact": "Neutral"
         },
         {
-            "title": "SpaceX isn’t the wireless threat that investors fear — unless someone breaks this unspoken agreement",
-            "link": "https://www.marketwatch.com/story/spacex-isnt-the-wireless-threat-that-investors-fear-unless-someone-breaks-this-unspoken-agreement-864dab90?mod=mw_rss_topstories",
-            "summary": "It would likely be too expensive and time-consuming for SpaceX to build a mobile network on its own. But the major wireless carriers have to hope one of their rivals doesn't sell out.",
-            "date": "Sat, 25 Jul 2026 12:00:00 GMT",
+            "title": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates",
+            "link": "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories",
+            "summary": "Rising Treasury yields show how “enormously worried’ the market is about inflation. Will the Fed back up its tough talk with action?",
+            "date": "Sun, 26 Jul 2026 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPCX",
-            "impact": "Neutral"
+            "stock_ticker": "SCTX",
+            "impact": "Bullish"
         }
     ]
 }
