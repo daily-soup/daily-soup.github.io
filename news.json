@@ -1,125 +1,125 @@
 {
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "news": [
         {
-            "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
-            "link": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
-            "summary": " Altman will preview the capabilities of the company's upcoming family of AI models. He will also answer questions about cybersecurity and open-weight models.",
-            "date": "Mon, 27 Jul 2026 15:24:16 GMT",
+            "title": "AMD, Micron and Nvidia extend losses as chip stocks get clobbered",
+            "link": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
+            "summary": "Semiconductor stocks fell on Tuesday, extending a rout in chipmakers after another weak session on Wall Street. Semiconductor companies have been hit hard in recent months.",
+            "date": "Tue, 28 Jul 2026 14:23:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SAM",
+            "stock_ticker": "AMD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
+            "link": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html",
+            "summary": "Brokerages, startups and even retail investors are building AI agents. They can help oversee portfolios and automate investing tasks once handled by humans.",
+            "date": "Tue, 28 Jul 2026 15:00:21 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSCM",
             "impact": "Bullish"
         },
         {
-            "title": "NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers",
-            "link": "https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html",
-            "summary": "YouTube Premium subscribers will receive the entirety of Peacock content, including sports and movies. Beginning in early 2027, YouTube subscribers will have access to all Peacocks content.",
-            "date": "Mon, 27 Jul 2026 15:02:01 GMT",
+            "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
+            "link": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
+            "summary": "Visa plans to cut about 7% of its workforce, or roughly 2,600 employees. CEO Ryan McInerney seeks to streamline the payments giant.",
+            "date": "Tue, 28 Jul 2026 14:42:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LLY",
+            "stock_ticker": "V",
             "impact": "Neutral"
         },
         {
-            "title": "Comey asks judge to dismiss Trump 'seashells' case citing lack of 'true threat'",
-            "link": "https://www.cnbc.com/2026/07/27/james-comey-trump-seashells-threat.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Mon, 27 Jul 2026 15:35:48 GMT",
+            "title": "Trump: New tariffs 'doing the same thing' as the ones struck down by Supreme Court",
+            "link": "https://www.cnbc.com/2026/07/28/trump-usmca-canada-mexico-trade-deal.html",
+            "summary": "Trump dismissed fears that his tariffs could hurt the economy. affordability concerns have become a key issue of the upcoming midterm elections. Trump: \"I don't think it's going to hurt us. I think it will help us\"",
+            "date": "Tue, 28 Jul 2026 14:38:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ASKSB28-PRO.OL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues",
-            "link": "https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html",
-            "summary": "Microsoft, SpaceX, Palantir, alongside dozens of other tech companies from the U.S. and Europe, have joined the Open Secure AI Alliance.",
-            "date": "Mon, 27 Jul 2026 11:32:45 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NVDA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why Trump's new tariff blitz is very different this time around",
-            "link": "https://www.cnbc.com/2026/07/27/donald-trump-tariffs-trade-war-iran.html",
-            "summary": "President Trump on Friday launched a fresh round of tariffs targeting 60 trading partners. The targets include the European Union, China and the U.K.",
-            "date": "Mon, 27 Jul 2026 12:53:33 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "301218.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Should you get paid to care for a family member?",
-            "link": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
-            "summary": "Serving as a family caregiver can be exhausting. It can be financially devastating, as well. The cost of caring for a family member can run into the thousands of dollars.",
-            "date": "Mon, 27 Jul 2026 15:28:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VB3.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The AI boom shows no sign of slowing — and the U.S. economy is reaping the benefits",
-            "link": "https://www.marketwatch.com/story/the-ai-boom-shows-no-sign-of-slowing-and-the-u-s-economy-is-reaping-the-benefits-1728c4e5?mod=mw_rss_topstories",
-            "summary": "Demand for computer memory and other technologies needed to build artificial intelligence boomed again in the second quarter. Could spur another above-average increase in economic growth.",
-            "date": "Mon, 27 Jul 2026 15:22:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
-            "link": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
-            "summary": "Students are forging intergenerational bonds while planning game nights and teaching gym classes. “By 7:30 or 8, things get pretty quiet here.”",
-            "date": "Mon, 27 Jul 2026 15:09:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FAJLX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This small-cap stock strategy shines by riding the beat-and-raise trend",
-            "link": "https://www.marketwatch.com/story/this-small-cap-stock-strategy-shines-by-riding-the-beat-and-raise-trend-24bee883?mod=mw_rss_topstories",
-            "summary": "Calamos Investments identifies companies primed for sustainable growth and improving profit margins. Brandon Nelson of Calamos investments identifies companies that are primed for growth.",
-            "date": "Mon, 27 Jul 2026 15:08:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P000021TT.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Do I need to hire a broker to find an apartment in New York City?",
-            "link": "https://www.marketwatch.com/story/do-i-need-to-hire-a-broker-to-find-an-apartment-in-new-york-city-f5f9cf34?mod=mw_rss_topstories",
-            "summary": "“Maybe some apartments are not being listed for rent or are being snapped up by people who are using brokers,” he says.",
-            "date": "Mon, 27 Jul 2026 14:51:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DOGE-USD",
+            "stock_ticker": "DJT",
             "impact": "Bullish"
+        },
+        {
+            "title": "Apple plans to lease iPhones for $17.99 a month through partnership with Klarna",
+            "link": "https://www.cnbc.com/2026/07/28/apple-plans-to-lease-iphones-for-17point99-a-month-through-klarna-deal.html",
+            "summary": "Apple is announcing an iPhone lease option weeks after raising iPad and Mac prices due to the global memory shortage. Apple is announcing a lease option for the iPhone 5, 5S and 5C.",
+            "date": "Tue, 28 Jul 2026 12:38:50 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAPL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Tech fund manager says the market is misreading Alphabet’s second-quarter earnings",
+            "link": "https://www.marketwatch.com/story/tech-fund-manager-says-the-market-is-misreading-second-quarter-earnings-9823461b?mod=mw_rss_topstories",
+            "summary": "Catalyst Funds’ chief investment officer says investors should focus more on earnings growth. Investors should focus less on capital expenditures, he says.",
+            "date": "Tue, 28 Jul 2026 14:59:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TECH",
+            "impact": "Neutral"
+        },
+        {
+            "title": "PayPal delivers an earnings beat — and suggests it’s not against a merger deal",
+            "link": "https://www.marketwatch.com/story/paypal-delivers-an-earnings-beat-as-investors-await-updates-on-possible-merger-105930b7?mod=mw_rss_topstories",
+            "summary": "CEO: \"If we see levers or a path that we believe would create superior value for our shareholders than executing our current strategy, we would, of course, carefully consider\"",
+            "date": "Tue, 28 Jul 2026 14:47:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PYPL",
+            "impact": "Bullish"
+        },
+        {
+            "title": "The Fed isn’t your biggest worry. The central-bank decision that actually impacts your 401(k) lands in Tokyo.",
+            "link": "https://www.marketwatch.com/story/the-fed-isnt-your-biggest-worry-the-central-bank-decision-that-actually-impacts-your-401-k-lands-in-tokyo-fc9d22c8?mod=mw_rss_topstories",
+            "summary": "Japan is edging toward the exit on buying America’s debt. Here is why this matters to your retirement plans. The U.S. has the largest debt load in the world, followed by Japan.",
+            "date": "Tue, 28 Jul 2026 14:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TSCM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Micron’s stock sinks toward worst monthly drop in 11 years as China fears escalate",
+            "link": "https://www.marketwatch.com/story/microns-stock-sinks-toward-worst-monthly-drop-in-11-years-as-china-fears-escalate-3c956a67?mod=mw_rss_topstories",
+            "summary": "Investors are worried about China’s domestic supply of chips and manufacturing tools, analysts noted. China is the world's largest producer of semiconductors.",
+            "date": "Tue, 28 Jul 2026 14:25:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "20MICRONS.NS",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Roth conversions as early as your 20s and 30s? It’s not a crazy idea.",
+            "link": "https://www.marketwatch.com/story/roth-conversions-as-early-as-your-20s-and-30s-its-not-a-crazy-idea-1f028e24?mod=mw_rss_topstories",
+            "summary": "Most people don't get a break in their tax rate until they retire, but there could be earlier opportunities. Most people don’t get a tax break until they retirement, but could be early opportunities.",
+            "date": "Tue, 28 Jul 2026 14:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ROTH",
+            "impact": "Neutral"
         }
     ]
 }
