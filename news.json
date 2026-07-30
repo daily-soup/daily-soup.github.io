@@ -1,125 +1,125 @@
 {
-    "date": "2026-07-29",
+    "date": "2026-07-30",
     "news": [
         {
-            "title": "Oil prices jump more than 7% after Trump says U.S. will hit Iran hard",
-            "link": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
-            "summary": "Oil rose sharply amid renewed tensions in the Middle East. Iran launched an attack on U.S. forces using ballistic missiles. Oil rose sharply as tensions in Middle East increased.",
-            "date": "Wed, 29 Jul 2026 14:44:00 GMT",
+            "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+            "link": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+            "summary": "The GDP number was below expectations, the miss appeared to come from a decline in federal government spending and inventories. The economy grew at a rate of 0.4% in the third quarter, the government said.",
+            "date": "Thu, 30 Jul 2026 14:03:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "BGUS",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says U.S. will give Iran a 'beating' after surprise attack",
-            "link": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
-            "summary": "Centcom in a post on X said that the attack originated from Iran, but all missiles were intercepted. Centcom said the attack was launched from Iran.",
-            "date": "Wed, 29 Jul 2026 14:18:42 GMT",
+            "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
+            "link": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+            "summary": "Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.",
+            "date": "Thu, 30 Jul 2026 14:55:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "AI",
             "impact": "Neutral"
         },
         {
-            "title": "Nike was once China's sneaker king. Here's why its sales have fallen 30%",
-            "link": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html",
-            "summary": "China was once Nike's fastest-growing region but the company has lost relevance among young consumers. The company has ceded market share to smaller, domestic brands.",
-            "date": "Wed, 29 Jul 2026 14:49:45 GMT",
+            "title": "New details in the OpenAI Hugging Face hack show how far agents will go: 'It's now remarkably easy'",
+            "link": "https://www.cnbc.com/2026/07/30/open-ai-hugging-face-hack-latest.html",
+            "summary": "OpenAI's rogue models used publicly exposed credentials across \"four accounts on four services\" to help facilitate the Hugging Face breach. OpenAI says the breach is the result of a breach of the company's software.",
+            "date": "Thu, 30 Jul 2026 14:09:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NKE",
+            "stock_ticker": "6N=F",
             "impact": "Neutral"
         },
         {
-            "title": "JPMorgan, Schwab and UBS manage millions in Trump's $858 million investment portfolio",
-            "link": "https://www.cnbc.com/2026/07/29/trump-banking-investments-jpmorgan-schwab-ubs-financial-disclosure.html",
-            "summary": "JPMorgan, Schwab, UBS and Stephens Inc. are among the firms that have managed Trump's fortune in accounts worth at least $858 million.",
-            "date": "Wed, 29 Jul 2026 14:03:23 GMT",
+            "title": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
+            "link": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+            "summary": "Microsoft posted strong Azure and Copilot growth. Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves. Microsoft posted strongAzure andCopilot growth, while Meta missed sales forecasts.",
+            "date": "Thu, 30 Jul 2026 14:45:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JPFP",
+            "stock_ticker": "META",
             "impact": "Neutral"
         },
         {
-            "title": "Secret Service 'illegally' surveilled Comey in Trump '8647' threat case: court filing",
-            "link": "https://www.cnbc.com/2026/07/29/james-comey-trump-8647-seashells-threat-secret-service.html",
-            "summary": "Ex-FBI Director James Comey says he's the subject of vindictive prosecution. He posted on Instagram of a photo of seashells forming the numbers \"8647\"",
-            "date": "Wed, 29 Jul 2026 14:38:03 GMT",
+            "title": "Apple and Amazon report after the bell. Here's what the options market is saying",
+            "link": "https://www.cnbc.com/2026/07/30/apple-and-amazon-report-after-the-bell-heres-what-the-options-market-is-saying.html",
+            "summary": "Apple and Amazon both report this afternoon. Earnings will likely decide if the stock market can end what's so far been a rough week on solid footing.",
+            "date": "Thu, 30 Jul 2026 14:40:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VSXY",
+            "stock_ticker": "AAPL",
             "impact": "Neutral"
         },
         {
-            "title": "‘We already have wills’: We’re in our 60s with $1.5 million. Should we set up a trust to prevent conflict among our heirs?",
-            "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
-            "summary": "“I realize that probate can be lengthy, public and expensive,” she says. “I’m sorry.” “It’s a long process,’ she adds.",
-            "date": "Wed, 29 Jul 2026 15:00:00 GMT",
+            "title": "Americans are spending plenty — but they’re saving much less",
+            "link": "https://www.marketwatch.com/story/americans-are-spending-plenty-but-theyre-saving-much-less-ffb995d2?mod=mw_rss_topstories",
+            "summary": "Consumer spending rose again in June to cap off a strong second quarter. But households had to dig deep into their savings to pay for their purchases.",
+            "date": "Thu, 30 Jul 2026 14:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WDC",
+            "stock_ticker": "ARE",
             "impact": "Neutral"
         },
         {
-            "title": "Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.",
-            "link": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
-            "summary": "Experts say this could mean that more seniors will switch to Medicare Advantage plans. Experts say more seniors could switch from traditional Medicare plans to the Medicare Advantage plan.",
-            "date": "Wed, 29 Jul 2026 14:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SMI.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-            "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-            "summary": "Her husband passed away 10 years ago. They had been married for more than 20 years. “Her husband died 10 years after she was diagnosed with cancer,” said her daughter-in-law.",
-            "date": "Wed, 29 Jul 2026 14:27:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AUDMYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This country is buying up the most homes in America right now, even as international sales dry up",
+            "title": "People from this country are buying up the most homes in America right now, even as international sales dry up",
             "link": "https://www.marketwatch.com/story/this-country-is-buying-up-the-most-homes-in-america-right-now-even-as-international-sales-dry-up-c8b2afbb?mod=mw_rss_topstories",
             "summary": "International buyers only bought about 67,000 homes in the U.S. over the last 12 months. That's a near-record low, the National Association of Realtors says.",
-            "date": "Wed, 29 Jul 2026 14:20:00 GMT",
+            "date": "Thu, 30 Jul 2026 14:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P000021TT.F",
+            "stock_ticker": "PFIS",
             "impact": "Neutral"
         },
         {
-            "title": "My stepdad is in the military and dying of cancer. Will my mom automatically get his money?",
-            "link": "https://www.marketwatch.com/story/my-stepdad-is-dying-from-cancer-how-can-i-help-my-mom-find-out-if-shell-get-his-assets-8a10bad2?mod=mw_rss_topstories",
-            "summary": "“My worry is that one of his kids from his other marriage or one of their siblings will pop up and say they deserve his assets,” she says.",
-            "date": "Wed, 29 Jul 2026 14:12:00 GMT",
+            "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
+            "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+            "summary": "“I will file a complaint with the Better Business Bureau,” she says. “I’m not going to put up with it.”",
+            "date": "Thu, 30 Jul 2026 14:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUDMYR=X",
-            "impact": "Bullish"
+            "stock_ticker": "RFV.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Looking for a second home? Sellers in these vacation areas could be ready to make a deal.",
+            "link": "https://www.marketwatch.com/story/looking-for-a-second-home-sellers-in-these-markets-could-be-ready-to-make-a-deal-b8d85b34?mod=mw_rss_topstories",
+            "summary": "House hunters can find good prices in second-home markets across the South and Midwest. House hunters could find good price in second home markets across South, Midwest.",
+            "date": "Thu, 30 Jul 2026 14:10:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FOR",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Meta’s stock is falling hard. Here’s why the company is in Wall Street’s doghouse.",
+            "link": "https://www.marketwatch.com/story/metas-stock-is-falling-hard-heres-why-the-company-is-in-wall-streets-doghouse-afae2f55?mod=mw_rss_topstories",
+            "summary": " Meta’s spending on AI is ramping, and investors want proof that the company can make serious money in areas other than advertising.",
+            "date": "Thu, 30 Jul 2026 14:09:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LABZ.CN",
+            "impact": "Neutral"
         }
     ]
 }
