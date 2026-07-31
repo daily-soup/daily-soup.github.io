@@ -1,124 +1,124 @@
 {
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "news": [
         {
-            "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-            "link": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
-            "summary": "The GDP number was below expectations, the miss appeared to come from a decline in federal government spending and inventories. The economy grew at a rate of 0.4% in the third quarter, the government said.",
-            "date": "Thu, 30 Jul 2026 14:03:08 GMT",
+            "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
+            "link": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
+            "summary": "Amazon, Alphabet and Tesla all reported negative cash flow in the latest quarter. Meta's cash generation plummeted by 91% in the same period.",
+            "date": "Fri, 31 Jul 2026 13:26:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BGUS",
+            "stock_ticker": "CASH",
             "impact": "Neutral"
         },
         {
-            "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
-            "link": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
-            "summary": "Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.",
-            "date": "Thu, 30 Jul 2026 14:55:31 GMT",
+            "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+            "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+            "summary": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund.",
+            "date": "Fri, 31 Jul 2026 14:44:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "New details in the OpenAI Hugging Face hack show how far agents will go: 'It's now remarkably easy'",
-            "link": "https://www.cnbc.com/2026/07/30/open-ai-hugging-face-hack-latest.html",
-            "summary": "OpenAI's rogue models used publicly exposed credentials across \"four accounts on four services\" to help facilitate the Hugging Face breach. OpenAI says the breach is the result of a breach of the company's software.",
-            "date": "Thu, 30 Jul 2026 14:09:36 GMT",
+            "title": "Fed officials who voted to hike rates say action is needed now against inflation",
+            "link": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
+            "summary": "Kashkari and Hammack joined Dallas Fed President Lorie Logan in dissenting against holding the Fed's key overnight borrowing rate steady.",
+            "date": "Fri, 31 Jul 2026 14:35:52 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "6N=F",
+            "stock_ticker": "ZQ=F",
             "impact": "Neutral"
         },
         {
-            "title": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
-            "link": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
-            "summary": "Microsoft posted strong Azure and Copilot growth. Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves. Microsoft posted strongAzure andCopilot growth, while Meta missed sales forecasts.",
-            "date": "Thu, 30 Jul 2026 14:45:24 GMT",
+            "title": "Democrats demand information on Trump and Lutnick families' ties to critical mineral deals",
+            "link": "https://www.cnbc.com/2026/07/31/senate-democrats-trump-lutnick-critical-mineral-deals.html",
+            "summary": "Senators ask departments to preserve all records related to those deals. They include the Departments of Commerce, Defense, Energy, Interior and the Export-Import Bank.",
+            "date": "Fri, 31 Jul 2026 14:21:23 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "META",
+            "stock_ticker": "0P0001LUVL.HK",
             "impact": "Neutral"
         },
         {
-            "title": "Apple and Amazon report after the bell. Here's what the options market is saying",
-            "link": "https://www.cnbc.com/2026/07/30/apple-and-amazon-report-after-the-bell-heres-what-the-options-market-is-saying.html",
-            "summary": "Apple and Amazon both report this afternoon. Earnings will likely decide if the stock market can end what's so far been a rough week on solid footing.",
-            "date": "Thu, 30 Jul 2026 14:40:03 GMT",
+            "title": "Exxon and Chevron profits surge on rising oil prices due to Iran war",
+            "link": "https://www.cnbc.com/2026/07/31/exxon-xom-chevron-cvx-q2-earnings.html",
+            "summary": "Exxon and Chevron reported second-quarter profits that surged on rising oil prices due to the Iran war. ExxonMobil and Chevron on Friday report second- quarter profits.",
+            "date": "Fri, 31 Jul 2026 12:49:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAPL",
+            "stock_ticker": "XOM",
             "impact": "Neutral"
         },
         {
-            "title": "Americans are spending plenty — but they’re saving much less",
-            "link": "https://www.marketwatch.com/story/americans-are-spending-plenty-but-theyre-saving-much-less-ffb995d2?mod=mw_rss_topstories",
-            "summary": "Consumer spending rose again in June to cap off a strong second quarter. But households had to dig deep into their savings to pay for their purchases.",
-            "date": "Thu, 30 Jul 2026 14:40:00 GMT",
+            "title": "I’m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?",
+            "link": "https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories",
+            "summary": "Spending down assets can be unsettling after a lifetime of saving. Spending down assets is an unsettling process for many people who have saved for decades.",
+            "date": "Fri, 31 Jul 2026 14:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ARE",
+            "stock_ticker": "IBRX",
+            "impact": "Bearish"
+        },
+        {
+            "title": "6 crucial money lessons Gen Z isn’t getting from their parents",
+            "link": "https://www.marketwatch.com/story/congrats-gen-z-youre-turning-30-here-are-the-most-important-money-moves-to-make-next-9e30bb0a?mod=mw_rss_topstories",
+            "summary": "Your parents may have shared advice that was fine when they were 30, but “the world has changed significantly” since then. “The world has change significantly’ since then, your parents may say.",
+            "date": "Fri, 31 Jul 2026 14:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "6L=F",
             "impact": "Neutral"
         },
         {
-            "title": "People from this country are buying up the most homes in America right now, even as international sales dry up",
-            "link": "https://www.marketwatch.com/story/this-country-is-buying-up-the-most-homes-in-america-right-now-even-as-international-sales-dry-up-c8b2afbb?mod=mw_rss_topstories",
-            "summary": "International buyers only bought about 67,000 homes in the U.S. over the last 12 months. That's a near-record low, the National Association of Realtors says.",
-            "date": "Thu, 30 Jul 2026 14:16:00 GMT",
+            "title": "A spot is opening up in the S&P 500, and these stocks are top candidates to fill the void",
+            "link": "https://www.marketwatch.com/story/a-spot-is-opening-up-in-the-s-p-500-and-these-stocks-are-top-candidates-to-fill-the-void-5e72dd5d?mod=mw_rss_topstories",
+            "summary": "Videogame publisher EA is set to be taken private, opening the door for a new company to join the benchmark index. EA is one of the world's biggest videogame publishers.",
+            "date": "Fri, 31 Jul 2026 14:51:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PFIS",
+            "stock_ticker": "A",
             "impact": "Neutral"
         },
         {
-            "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
-            "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
-            "summary": "“I will file a complaint with the Better Business Bureau,” she says. “I’m not going to put up with it.”",
-            "date": "Thu, 30 Jul 2026 14:15:00 GMT",
+            "title": "Amazon’s stock rides booming cloud growth toward best day in 11 years",
+            "link": "https://www.marketwatch.com/story/amazons-stock-rides-booming-cloud-growth-toward-best-day-in-11-years-cc8b7e95?mod=mw_rss_topstories",
+            "summary": "AWS “finally saw the long-awaited growth inflection,” an analyst noted. AWS ‘f finally saw theLong-awaited Growth inflection’",
+            "date": "Fri, 31 Jul 2026 14:26:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RFV.F",
+            "stock_ticker": "GYGY",
             "impact": "Neutral"
         },
         {
-            "title": "Looking for a second home? Sellers in these vacation areas could be ready to make a deal.",
-            "link": "https://www.marketwatch.com/story/looking-for-a-second-home-sellers-in-these-markets-could-be-ready-to-make-a-deal-b8d85b34?mod=mw_rss_topstories",
-            "summary": "House hunters can find good prices in second-home markets across the South and Midwest. House hunters could find good price in second home markets across South, Midwest.",
-            "date": "Thu, 30 Jul 2026 14:10:00 GMT",
+            "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
+            "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+            "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket,” he says. “I’m not sure I’d be able to afford it.”",
+            "date": "Fri, 31 Jul 2026 14:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FOR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Meta’s stock is falling hard. Here’s why the company is in Wall Street’s doghouse.",
-            "link": "https://www.marketwatch.com/story/metas-stock-is-falling-hard-heres-why-the-company-is-in-wall-streets-doghouse-afae2f55?mod=mw_rss_topstories",
-            "summary": " Meta’s spending on AI is ramping, and investors want proof that the company can make serious money in areas other than advertising.",
-            "date": "Thu, 30 Jul 2026 14:09:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LABZ.CN",
+            "stock_ticker": "AUDMYR=X",
             "impact": "Neutral"
         }
     ]
