@@ -1,124 +1,124 @@
 {
-    "date": "2026-07-31",
+    "date": "2026-08-01",
     "news": [
         {
-            "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
-            "link": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
-            "summary": "Amazon, Alphabet and Tesla all reported negative cash flow in the latest quarter. Meta's cash generation plummeted by 91% in the same period.",
-            "date": "Fri, 31 Jul 2026 13:26:59 GMT",
+            "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
+            "link": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
+            "summary": "The wake-up call to the cyber industry comes as industry experts descend on Black Hat. Black Hat is a major cybersecurity conference in Las Vegas.",
+            "date": "Sat, 01 Aug 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CASH",
+            "stock_ticker": "HUGGZZX",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
+            "link": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
+            "summary": "The latest attacks come amid reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran. The latest attacks came amid U.N. Security Council resolution condemning Iran's nuclear program.",
+            "date": "Sat, 01 Aug 2026 10:56:11 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NAT",
             "impact": "Neutral"
         },
         {
-            "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
-            "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-            "summary": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund.",
-            "date": "Fri, 31 Jul 2026 14:44:44 GMT",
+            "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
+            "link": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
+            "summary": "Incoming CEO Jason Bonfig says he's focused on expanding the company's reach and enhancing the customer experience. Bonfig is expected to take the reins in the coming weeks.",
+            "date": "Sat, 01 Aug 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TOPBRX=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners",
+            "link": "https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html",
+            "summary": "As Americans are encouraged to go direct with weight-loss drug prescriptions, retail pharmacy chains are poised to win big. Retail pharmacies are expected to benefit from the trend.",
+            "date": "Sat, 01 Aug 2026 12:30:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
+            "link": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
+            "summary": "Gaining an edge on prediction markets requires speed and skills beyond just reading the odds. Kalshi and Polymarket are among the platforms that offer prediction markets.",
+            "date": "Sat, 01 Aug 2026 13:44:04 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ATOM-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
+            "link": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
+            "summary": "Students are forging intergenerational bonds while planning game nights and teaching gym classes. “By 7:30 or 8, things get pretty quiet here.”",
+            "date": "Sat, 01 Aug 2026 14:04:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FAJLX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "They spent tens of thousands of dollars on home remodels — only to regret it",
+            "link": "https://www.marketwatch.com/story/they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8cfa23e6?mod=mw_rss_topstories",
+            "summary": "Some homeowners spend big bucks to upgrade their house, only to end up having second thoughts. Some homeowners spendbig bucks to upgrades their house. Some end up with second thoughts about the upgrade.",
+            "date": "Sat, 01 Aug 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPENTA.BO",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
+            "link": "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
+            "summary": "It’s been two decades since companies’ health-benefit costs have climbed this fast. Health care costs have been on the rise for more than a decade, a new study shows.",
+            "date": "Sat, 01 Aug 2026 13:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
+            "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
+            "summary": "New seasons of ‘Ted Lasso,’ Amazon’s ‘Reacher’ and ‘Outer Banks’ Available on Apple, Amazon, Netflix and more.",
+            "date": "Sat, 01 Aug 2026 13:01:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BD0.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How to plan for the high cost of having your first kid in your 40s",
+            "link": "https://www.marketwatch.com/story/how-to-plan-for-the-high-cost-of-having-your-first-kid-in-your-40s-bfe0c28a?mod=mw_rss_topstories",
+            "summary": "Older parenthood is on the rise, but it comes with a tough new set of financial rules. Older parenthood comes with tough new financial rules for parents and their children.",
+            "date": "Sat, 01 Aug 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fed officials who voted to hike rates say action is needed now against inflation",
-            "link": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
-            "summary": "Kashkari and Hammack joined Dallas Fed President Lorie Logan in dissenting against holding the Fed's key overnight borrowing rate steady.",
-            "date": "Fri, 31 Jul 2026 14:35:52 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZQ=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Democrats demand information on Trump and Lutnick families' ties to critical mineral deals",
-            "link": "https://www.cnbc.com/2026/07/31/senate-democrats-trump-lutnick-critical-mineral-deals.html",
-            "summary": "Senators ask departments to preserve all records related to those deals. They include the Departments of Commerce, Defense, Energy, Interior and the Export-Import Bank.",
-            "date": "Fri, 31 Jul 2026 14:21:23 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001LUVL.HK",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Exxon and Chevron profits surge on rising oil prices due to Iran war",
-            "link": "https://www.cnbc.com/2026/07/31/exxon-xom-chevron-cvx-q2-earnings.html",
-            "summary": "Exxon and Chevron reported second-quarter profits that surged on rising oil prices due to the Iran war. ExxonMobil and Chevron on Friday report second- quarter profits.",
-            "date": "Fri, 31 Jul 2026 12:49:14 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "XOM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?",
-            "link": "https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories",
-            "summary": "Spending down assets can be unsettling after a lifetime of saving. Spending down assets is an unsettling process for many people who have saved for decades.",
-            "date": "Fri, 31 Jul 2026 14:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
-            "impact": "Bearish"
-        },
-        {
-            "title": "6 crucial money lessons Gen Z isn’t getting from their parents",
-            "link": "https://www.marketwatch.com/story/congrats-gen-z-youre-turning-30-here-are-the-most-important-money-moves-to-make-next-9e30bb0a?mod=mw_rss_topstories",
-            "summary": "Your parents may have shared advice that was fine when they were 30, but “the world has changed significantly” since then. “The world has change significantly’ since then, your parents may say.",
-            "date": "Fri, 31 Jul 2026 14:52:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "6L=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "A spot is opening up in the S&P 500, and these stocks are top candidates to fill the void",
-            "link": "https://www.marketwatch.com/story/a-spot-is-opening-up-in-the-s-p-500-and-these-stocks-are-top-candidates-to-fill-the-void-5e72dd5d?mod=mw_rss_topstories",
-            "summary": "Videogame publisher EA is set to be taken private, opening the door for a new company to join the benchmark index. EA is one of the world's biggest videogame publishers.",
-            "date": "Fri, 31 Jul 2026 14:51:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Amazon’s stock rides booming cloud growth toward best day in 11 years",
-            "link": "https://www.marketwatch.com/story/amazons-stock-rides-booming-cloud-growth-toward-best-day-in-11-years-cc8b7e95?mod=mw_rss_topstories",
-            "summary": "AWS “finally saw the long-awaited growth inflection,” an analyst noted. AWS ‘f finally saw theLong-awaited Growth inflection’",
-            "date": "Fri, 31 Jul 2026 14:26:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GYGY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
-            "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
-            "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket,” he says. “I’m not sure I’d be able to afford it.”",
-            "date": "Fri, 31 Jul 2026 14:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AUDMYR=X",
             "impact": "Neutral"
         }
     ]
