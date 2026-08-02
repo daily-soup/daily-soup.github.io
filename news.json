@@ -1,40 +1,40 @@
 {
-    "date": "2026-08-01",
+    "date": "2026-08-02",
     "news": [
         {
-            "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
-            "link": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
-            "summary": "The wake-up call to the cyber industry comes as industry experts descend on Black Hat. Black Hat is a major cybersecurity conference in Las Vegas.",
-            "date": "Sat, 01 Aug 2026 12:00:01 GMT",
+            "title": "Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'",
+            "link": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
+            "summary": "The U.S. president said Iran and its regional neighbors asked the U.N. to hold off on attacks after 'the perimeters of a deal has been agreed to'",
+            "date": "Sun, 02 Aug 2026 10:18:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HUGGZZX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
-            "link": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
-            "summary": "The latest attacks come amid reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran. The latest attacks came amid U.N. Security Council resolution condemning Iran's nuclear program.",
-            "date": "Sat, 01 Aug 2026 10:56:11 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NAT",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
-            "link": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
-            "summary": "Incoming CEO Jason Bonfig says he's focused on expanding the company's reach and enhancing the customer experience. Bonfig is expected to take the reins in the coming weeks.",
-            "date": "Sat, 01 Aug 2026 12:00:01 GMT",
+            "title": "Why flights are so expensive and will likely stay that way",
+            "link": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
+            "summary": "Airlines are paying billions of dollars more in fuel costs this year. The cost of fuel is expected to rise by as much as $1.5 trillion over the next 15 years.",
+            "date": "Sun, 02 Aug 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOPBRX=X",
+            "stock_ticker": "301218.SZ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
+            "link": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
+            "summary": "Oil price volatility caused by U.S.-Iran war created big market winners. For buy-and-hold investors, there are better long-term energy themes to monitor.",
+            "date": "Sun, 02 Aug 2026 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "OHI",
             "impact": "Neutral"
         },
         {
@@ -50,70 +50,70 @@
             "impact": "Neutral"
         },
         {
-            "title": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
-            "link": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
-            "summary": "Gaining an edge on prediction markets requires speed and skills beyond just reading the odds. Kalshi and Polymarket are among the platforms that offer prediction markets.",
-            "date": "Sat, 01 Aug 2026 13:44:04 GMT",
+            "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
+            "link": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
+            "summary": "The leak of key exam papers was the trigger for the recent student protest in India. Rising unemployment is the real fuel angering Gen Z in the country.",
+            "date": "Sun, 02 Aug 2026 05:18:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ATOM-USD",
+            "stock_ticker": "AN",
             "impact": "Neutral"
         },
         {
-            "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
-            "link": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
-            "summary": "Students are forging intergenerational bonds while planning game nights and teaching gym classes. “By 7:30 or 8, things get pretty quiet here.”",
-            "date": "Sat, 01 Aug 2026 14:04:00 GMT",
+            "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
+            "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+            "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket,” he says. “I’m not sure I’d be able to afford it.”",
+            "date": "Sun, 02 Aug 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FAJLX",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "They spent tens of thousands of dollars on home remodels — only to regret it",
-            "link": "https://www.marketwatch.com/story/they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8cfa23e6?mod=mw_rss_topstories",
-            "summary": "Some homeowners spend big bucks to upgrade their house, only to end up having second thoughts. Some homeowners spendbig bucks to upgrades their house. Some end up with second thoughts about the upgrade.",
-            "date": "Sat, 01 Aug 2026 14:00:00 GMT",
+            "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
+            "link": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
+            "summary": "Amazon is the latest Big Tech company to report abnormally large earnings growth. The growth is due to paper gains on Anthropic investments. Amazon is also the latest big tech company to post abnormally big profits.",
+            "date": "Sun, 02 Aug 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPENTA.BO",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
-            "link": "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
-            "summary": "It’s been two decades since companies’ health-benefit costs have climbed this fast. Health care costs have been on the rise for more than a decade, a new study shows.",
-            "date": "Sat, 01 Aug 2026 13:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BY",
+            "stock_ticker": "ES=F",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
-            "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
-            "summary": "New seasons of ‘Ted Lasso,’ Amazon’s ‘Reacher’ and ‘Outer Banks’ Available on Apple, Amazon, Netflix and more.",
-            "date": "Sat, 01 Aug 2026 13:01:00 GMT",
+            "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+            "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+            "summary": "Delaying Social Security until 70 results in an increased monthly payment. “That comes with proportionally higher cost-of-living adjustments,” he says.",
+            "date": "Sun, 02 Aug 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BD0.F",
+            "stock_ticker": "IFF",
             "impact": "Neutral"
         },
         {
-            "title": "How to plan for the high cost of having your first kid in your 40s",
-            "link": "https://www.marketwatch.com/story/how-to-plan-for-the-high-cost-of-having-your-first-kid-in-your-40s-bfe0c28a?mod=mw_rss_topstories",
-            "summary": "Older parenthood is on the rise, but it comes with a tough new set of financial rules. Older parenthood comes with tough new financial rules for parents and their children.",
-            "date": "Sat, 01 Aug 2026 13:00:00 GMT",
+            "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+            "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+            "summary": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago,” she says.",
+            "date": "Sun, 02 Aug 2026 13:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EWAVU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How Apple’s cheap MacBook Neo sparked a war in budget laptops",
+            "link": "https://www.marketwatch.com/story/how-apples-cheap-macbook-neo-sparked-a-war-in-budget-laptops-8fbaf839?mod=mw_rss_topstories",
+            "summary": "Apple’s gamble on the budget MacBook Neo is paying off and forcing rivals to rethink their offerings. Apple's new MacBook Neo will cost $999.",
+            "date": "Sun, 02 Aug 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
