@@ -1,23 +1,71 @@
 {
-    "date": "2026-08-02",
+    "date": "2026-08-03",
     "news": [
         {
-            "title": "Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'",
-            "link": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
-            "summary": "The U.S. president said Iran and its regional neighbors asked the U.N. to hold off on attacks after 'the perimeters of a deal has been agreed to'",
-            "date": "Sun, 02 Aug 2026 10:18:35 GMT",
+            "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
+            "link": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
+            "summary": "Two weeks after Tesla's earnings report, Elon Musk faces investors again, but this time to discuss SpaceX's results. Musk: SpaceX will be able to compete with Apple, Google and Microsoft.",
+            "date": "Mon, 03 Aug 2026 13:45:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "476000.KS",
             "impact": "Neutral"
         },
         {
-            "title": "Why flights are so expensive and will likely stay that way",
-            "link": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
-            "summary": "Airlines are paying billions of dollars more in fuel costs this year. The cost of fuel is expected to rise by as much as $1.5 trillion over the next 15 years.",
-            "date": "Sun, 02 Aug 2026 12:00:01 GMT",
+            "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
+            "link": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
+            "summary": "California has the highest gas prices in the country as well as the busiest containership port. Consumers across the country could feel the impact of higher diesel.",
+            "date": "Mon, 03 Aug 2026 15:27:52 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "6022.T",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
+            "link": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
+            "summary": "Shares of Amazon hit a new all-time high Monday, putting its market cap over $3 trillion. Amazon is the world's largest online retailer.",
+            "date": "Mon, 03 Aug 2026 15:35:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AMZN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "What the market is saying about the U.S. intervention to prop up the yen",
+            "link": "https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html",
+            "summary": "The yen now sits at 157 to the dollar, down from just above 163, which represented its lowest level in four decades. Following the joint involvement the yen is now at 157 per dollar.",
+            "date": "Mon, 03 Aug 2026 13:43:55 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BD0.F",
+            "impact": "Bearish"
+        },
+        {
+            "title": "'Spider-Man: Brand New Day' beats out 'Avengers: Endgame' for highest domestic opening ever",
+            "link": "https://www.cnbc.com/2026/08/03/spider-man-brand-new-day-debut-360m-highest-domestic-opening-ever.html",
+            "summary": "\"Spider-Man: Brand New Day\" set the record for the highest domestic opening weekend of all time with $360 million in ticket sales.",
+            "date": "Mon, 03 Aug 2026 14:55:29 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "TLRY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why the U.S. decided to help Japan by boosting the flailing yen",
+            "link": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
+            "summary": "The U.S. Treasury Department and Federal Reserve have joined forces with their Japanese counterparts to stage a historic joint intervention. Japan’s Ministry of Finance confirmed the move in a statement.",
+            "date": "Mon, 03 Aug 2026 15:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,100 +74,52 @@
             "impact": "Neutral"
         },
         {
-            "title": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
-            "link": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
-            "summary": "Oil price volatility caused by U.S.-Iran war created big market winners. For buy-and-hold investors, there are better long-term energy themes to monitor.",
-            "date": "Sun, 02 Aug 2026 13:00:01 GMT",
+            "title": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
+            "link": "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
+            "summary": "It’s been two decades since companies’ health-benefit costs have climbed this fast. Health care costs have been on the rise for more than a decade, a new study shows.",
+            "date": "Mon, 03 Aug 2026 15:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OHI",
+            "stock_ticker": "BY",
             "impact": "Neutral"
         },
         {
-            "title": "As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners",
-            "link": "https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html",
-            "summary": "As Americans are encouraged to go direct with weight-loss drug prescriptions, retail pharmacy chains are poised to win big. Retail pharmacies are expected to benefit from the trend.",
-            "date": "Sat, 01 Aug 2026 12:30:01 GMT",
+            "title": "‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?",
+            "link": "https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories",
+            "summary": "“My car was nearly 20 years old, and I only carried liability and uninsured motorist coverage, not collision coverage,” she said.",
+            "date": "Mon, 03 Aug 2026 15:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AS",
+            "stock_ticker": "AUDMYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
-            "link": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
-            "summary": "The leak of key exam papers was the trigger for the recent student protest in India. Rising unemployment is the real fuel angering Gen Z in the country.",
-            "date": "Sun, 02 Aug 2026 05:18:21 GMT",
+            "title": "Why tech stocks are likely to take a back seat for the rest of 2026, according to JPMorgan strategists",
+            "link": "https://www.marketwatch.com/story/why-tech-stocks-are-likely-to-take-a-back-seat-for-the-rest-of-2026-according-to-jpmorgan-strategists-93e1c61f?mod=mw_rss_topstories",
+            "summary": "Bank sees non-U.S. shares performing well in the second half of the year. Strategists at the bank prefer semiconductor stocks to hyperscalers.",
+            "date": "Mon, 03 Aug 2026 15:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AN",
+            "stock_ticker": "301218.SZ",
             "impact": "Neutral"
         },
         {
-            "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
-            "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
-            "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket,” he says. “I’m not sure I’d be able to afford it.”",
-            "date": "Sun, 02 Aug 2026 14:00:00 GMT",
+            "title": "They spent tens of thousands of dollars on home remodels — only to regret it. ‘It’s just been so much.’",
+            "link": "https://www.marketwatch.com/story/they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8cfa23e6?mod=mw_rss_topstories",
+            "summary": "Some homeowners spend big bucks to upgrade their house, only to end up having second thoughts. Some homeowners spendbig bucks to upgrades their house. Some end up with second thoughts about the upgrade.",
+            "date": "Mon, 03 Aug 2026 14:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
-            "link": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
-            "summary": "Amazon is the latest Big Tech company to report abnormally large earnings growth. The growth is due to paper gains on Anthropic investments. Amazon is also the latest big tech company to post abnormally big profits.",
-            "date": "Sun, 02 Aug 2026 14:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ES=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-            "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
-            "summary": "Delaying Social Security until 70 results in an increased monthly payment. “That comes with proportionally higher cost-of-living adjustments,” he says.",
-            "date": "Sun, 02 Aug 2026 13:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IFF",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
-            "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
-            "summary": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago,” she says.",
-            "date": "Sun, 02 Aug 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "EWAVU",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How Apple’s cheap MacBook Neo sparked a war in budget laptops",
-            "link": "https://www.marketwatch.com/story/how-apples-cheap-macbook-neo-sparked-a-war-in-budget-laptops-8fbaf839?mod=mw_rss_topstories",
-            "summary": "Apple’s gamble on the budget MacBook Neo is paying off and forcing rivals to rethink their offerings. Apple's new MacBook Neo will cost $999.",
-            "date": "Sun, 02 Aug 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
+            "stock_ticker": "SPENTA.BO",
+            "impact": "Bullish"
         }
     ]
 }
