@@ -1,71 +1,47 @@
 {
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "news": [
         {
-            "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
-            "link": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
-            "summary": "Two weeks after Tesla's earnings report, Elon Musk faces investors again, but this time to discuss SpaceX's results. Musk: SpaceX will be able to compete with Apple, Google and Microsoft.",
-            "date": "Mon, 03 Aug 2026 13:45:02 GMT",
+            "title": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'",
+            "link": "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html",
+            "summary": "\"We are in talks with the Iranians,\" the Treasury secretary told CNBC's \"Squawk Box\" Treasury Secretary Steven Mnuchin says the U.S. is \"in talks\" with Iran.",
+            "date": "Tue, 04 Aug 2026 14:00:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "476000.KS",
+            "stock_ticker": "MAY-USD",
             "impact": "Neutral"
         },
         {
-            "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
-            "link": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
-            "summary": "California has the highest gas prices in the country as well as the busiest containership port. Consumers across the country could feel the impact of higher diesel.",
-            "date": "Mon, 03 Aug 2026 15:27:52 GMT",
+            "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
+            "link": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
+            "summary": "The filing came after Amazon climbed to an all-time high on Monday, extending gains sparked by last week's quarterly results. The company's stock is up more than 20% this year.",
+            "date": "Tue, 04 Aug 2026 15:09:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "6022.T",
+            "stock_ticker": "JEF",
             "impact": "Neutral"
         },
         {
-            "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
-            "link": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
-            "summary": "Shares of Amazon hit a new all-time high Monday, putting its market cap over $3 trillion. Amazon is the world's largest online retailer.",
-            "date": "Mon, 03 Aug 2026 15:35:00 GMT",
+            "title": "Palantir jumps 27% on 'otherworldly' commercial revenue — here's what's driving the demand",
+            "link": "https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html",
+            "summary": "\"Our customers have declined to become vassal states of the language labs,\" Palantir's co-founder and CEO Alex Karp said.",
+            "date": "Tue, 04 Aug 2026 14:47:13 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AMZN",
+            "stock_ticker": "PLTR",
             "impact": "Neutral"
         },
         {
-            "title": "What the market is saying about the U.S. intervention to prop up the yen",
-            "link": "https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html",
-            "summary": "The yen now sits at 157 to the dollar, down from just above 163, which represented its lowest level in four decades. Following the joint involvement the yen is now at 157 per dollar.",
-            "date": "Mon, 03 Aug 2026 13:43:55 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BD0.F",
-            "impact": "Bearish"
-        },
-        {
-            "title": "'Spider-Man: Brand New Day' beats out 'Avengers: Endgame' for highest domestic opening ever",
-            "link": "https://www.cnbc.com/2026/08/03/spider-man-brand-new-day-debut-360m-highest-domestic-opening-ever.html",
-            "summary": "\"Spider-Man: Brand New Day\" set the record for the highest domestic opening weekend of all time with $360 million in ticket sales.",
-            "date": "Mon, 03 Aug 2026 14:55:29 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TLRY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Why the U.S. decided to help Japan by boosting the flailing yen",
-            "link": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
-            "summary": "The U.S. Treasury Department and Federal Reserve have joined forces with their Japanese counterparts to stage a historic joint intervention. Japan’s Ministry of Finance confirmed the move in a statement.",
-            "date": "Mon, 03 Aug 2026 15:20:00 GMT",
+            "title": "Why Ford believes its 10.2% July U.S. sales decline was still a 'good' month",
+            "link": "https://www.cnbc.com/2026/08/04/ford-july-sales-decline.html",
+            "summary": "The July decline adds to a lackluster sales year for the automaker. The company's results are off 9.7% compared to 2025.",
+            "date": "Tue, 04 Aug 2026 14:45:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,52 +50,76 @@
             "impact": "Neutral"
         },
         {
-            "title": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
-            "link": "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
-            "summary": "It’s been two decades since companies’ health-benefit costs have climbed this fast. Health care costs have been on the rise for more than a decade, a new study shows.",
-            "date": "Mon, 03 Aug 2026 15:17:00 GMT",
+            "title": "Polymarket in talks for fundraising round at more than $20 billion valuation",
+            "link": "https://www.cnbc.com/2026/08/04/polymarket-seeks-fundraising-round-at-more-than-20-billion-valuation.html",
+            "summary": "The company told CNBC in June that its annualized revenue was well above $1 billion. The reports come after the company said in June it had annual revenue of more than $1 million.",
+            "date": "Tue, 04 Aug 2026 13:31:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BY",
+            "stock_ticker": "PLYRZZX",
             "impact": "Neutral"
         },
         {
-            "title": "‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?",
-            "link": "https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories",
-            "summary": "“My car was nearly 20 years old, and I only carried liability and uninsured motorist coverage, not collision coverage,” she said.",
-            "date": "Mon, 03 Aug 2026 15:15:00 GMT",
+            "title": "Job openings fell to a 3-month low. Is the labor market losing momentum?",
+            "link": "https://www.marketwatch.com/story/job-openings-fell-to-a-3-month-low-is-the-labor-market-losing-momentum-05fcbc49?mod=mw_rss_topstories",
+            "summary": "The U.S. labor market appears to have lost some momentum. After a burst of new job openings and hiring in the spring, the labor market is slowing.",
+            "date": "Tue, 04 Aug 2026 15:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUDMYR=X",
+            "stock_ticker": "JOB",
             "impact": "Neutral"
         },
         {
-            "title": "Why tech stocks are likely to take a back seat for the rest of 2026, according to JPMorgan strategists",
-            "link": "https://www.marketwatch.com/story/why-tech-stocks-are-likely-to-take-a-back-seat-for-the-rest-of-2026-according-to-jpmorgan-strategists-93e1c61f?mod=mw_rss_topstories",
-            "summary": "Bank sees non-U.S. shares performing well in the second half of the year. Strategists at the bank prefer semiconductor stocks to hyperscalers.",
-            "date": "Mon, 03 Aug 2026 15:03:00 GMT",
+            "title": "Caterpillar’s stock gives the Dow a 200-point boost as data-center demand drives record revenue",
+            "link": "https://www.marketwatch.com/story/caterpillar-is-killing-it-and-data-center-demand-is-driving-record-revenue-161b84d1?mod=mw_rss_topstories",
+            "summary": "Caterpillar's stock surges after the biggest earnings beat in five years. Demand for data-center construction provided a boost to the company.",
+            "date": "Tue, 04 Aug 2026 14:36:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "301218.SZ",
+            "stock_ticker": "VTI",
             "impact": "Neutral"
         },
         {
-            "title": "They spent tens of thousands of dollars on home remodels — only to regret it. ‘It’s just been so much.’",
-            "link": "https://www.marketwatch.com/story/they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8cfa23e6?mod=mw_rss_topstories",
-            "summary": "Some homeowners spend big bucks to upgrade their house, only to end up having second thoughts. Some homeowners spendbig bucks to upgrades their house. Some end up with second thoughts about the upgrade.",
-            "date": "Mon, 03 Aug 2026 14:52:00 GMT",
+            "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+            "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+            "summary": "Delaying Social Security until 70 results in an increased monthly payment. “That comes with proportionally higher cost-of-living adjustments,” he says.",
+            "date": "Tue, 04 Aug 2026 14:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPENTA.BO",
-            "impact": "Bullish"
+            "stock_ticker": "IFF",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+            "link": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+            "summary": "A reader writes: “I will likely be in a position to decline my benefits.” A reader writes that he is “likely’s” to decline his benefits. A reader says he is likely to “decline my benefits”",
+            "date": "Tue, 04 Aug 2026 14:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VB3.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+            "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
+            "summary": "“She has been living with me for four years,” he says of his wife of four years. “She’s always been there for me.” He adds: “I’ve never seen her like this.’",
+            "date": "Tue, 04 Aug 2026 14:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IFF",
+            "impact": "Neutral"
         }
     ]
 }
