@@ -1,124 +1,124 @@
 {
-    "date": "2026-08-05",
+    "date": "2026-08-06",
     "news": [
         {
-            "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
-            "link": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
-            "summary": "Bank of America was among the prime brokers for the hedge fund. The hedge fund is run by Leopold Aschenbrenner.",
-            "date": "Wed, 05 Aug 2026 15:07:12 GMT",
+            "title": "Ford's new 'Fathom' electric pickup truck will start at $28,000",
+            "link": "https://www.cnbc.com/2026/08/06/ford-fathom-pickup-truck-price.html",
+            "summary": "It's the first vehicle to be built using the \"Universal Electric Vehicle\" platform. Ford has said the platform is key to making money with EVs.",
+            "date": "Thu, 06 Aug 2026 13:29:39 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TAAG",
+            "stock_ticker": "6N=F",
             "impact": "Neutral"
         },
         {
-            "title": "Trump admin refunds $100 billion in 'liberation day' tariffs",
-            "link": "https://www.cnbc.com/2026/08/05/trump-tariffs-refunds-ieepa-lawsuit.html",
-            "summary": "The Trump administration has taken steps to effectively re-create the IEEPA tariff regime using other legal authorities. They already face court challenges.",
-            "date": "Wed, 05 Aug 2026 14:46:54 GMT",
+            "title": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
+            "link": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
+            "summary": "The first tranche of SpaceX shares held by insiders unlocking. The stock could see downward pressure as insiders begin to sell their shares. SpaceX is a private space exploration company based in California.",
+            "date": "Thu, 06 Aug 2026 13:20:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "SPCX",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Fox won't renegotiate NFL media rights before current deal expires, CEO Lachlan Murdoch says",
+            "link": "https://www.cnbc.com/2026/08/06/fox-nfl-media-rights-renegotiations-opt-out.html",
+            "summary": "Fox has decided not to renegotiate its current TV deal with the NFL until the expiration of the league's opt-out clause in 2030, said CEO Lachlan Murdoch.",
+            "date": "Thu, 06 Aug 2026 13:57:20 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FOX",
             "impact": "Neutral"
         },
         {
-            "title": "Abdul El-Sayed wins Michigan Democratic Senate primary as voters pivot to the left",
-            "link": "https://www.cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html",
-            "summary": "Abdul El-Sayed won the Michigan Democratic Senate primary. He will face former Rep. Mike Rogers in the November general election.",
-            "date": "Wed, 05 Aug 2026 15:02:36 GMT",
+            "title": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
+            "link": "https://www.cnbc.com/2026/08/06/ai-kill-switch-bill-openai-anthropic-meta.html",
+            "summary": "Anthropic, Meta and OpenAI have all had incidents of AI models hacking other companies during cybersecurity testing. Anthropic and Meta have had incidents with their AI models. OpenAI has also had incidents.",
+            "date": "Thu, 06 Aug 2026 14:57:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "4191.SR",
+            "stock_ticker": "AAL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Versant shares surge 10% after company raises 2026 outlook on platforms, advertising momentum",
+            "link": "https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html",
+            "summary": " Versant noted revenue growth in its platforms business, which includes Fandango and GolfNow, and now, the recent acquisition of Full Swing.",
+            "date": "Thu, 06 Aug 2026 15:00:22 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "X06.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SpaceX insiders get their first chance to cash out — but the stock’s slide will limit their opportunity",
+            "link": "https://www.marketwatch.com/story/spacex-insiders-get-their-first-chance-to-cash-out-but-the-stocks-slide-will-limit-their-opportunity-5c94b0f5?mod=mw_rss_topstories",
+            "summary": "Up to 911.5 million SpaceX shares will become available for sale Thursday. A separate tranche of up to 455.8 million shares will stay locked up due to the stock's weak performance.",
+            "date": "Thu, 06 Aug 2026 14:55:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPCX",
             "impact": "Bullish"
         },
         {
-            "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
-            "link": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
-            "summary": "GLP-1 drugs such as Ozempic and Wegovy can cost thousands of dollars per patient annually. Employers have grappled with soaring demand for the drugs.",
-            "date": "Wed, 05 Aug 2026 14:59:45 GMT",
+            "title": "As a woman of color who travels alone, is it a waste of money to visit places with zero diversity?",
+            "link": "https://www.marketwatch.com/story/as-a-woman-of-color-who-travels-alone-is-it-a-waste-of-money-to-visit-places-with-zero-diversity-6de89785?mod=mw_rss_topstories",
+            "summary": "“I don’t want to spend a bunch of money and have a bad time,” he says. “I’m not going to go out and spend a lot of money.”",
+            "date": "Thu, 06 Aug 2026 14:54:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SXB=F",
+            "stock_ticker": "AS",
             "impact": "Neutral"
         },
         {
-            "title": "Fed's Kashkari says 'now is the time to start slowly moving' rates up",
-            "link": "https://www.cnbc.com/2026/08/05/feds-kashkari-says-now-is-the-time-to-start-slowly-moving-rates-up.html",
-            "summary": "Kashkari was one of three dissenters at last week's Federal Open Market Committee meeting. Kashkari is a member of the Federal Reserve Bank of San Francisco.",
-            "date": "Wed, 05 Aug 2026 13:06:35 GMT",
+            "title": "Missouri voters just rejected a bid to ditch income tax, while other tax votes loom in Florida and California this fall",
+            "link": "https://www.marketwatch.com/story/taxes-are-on-the-ballot-this-fall-as-republicans-and-democrats-grow-further-apart-on-whether-to-raise-them-c7990380?mod=mw_rss_topstories",
+            "summary": "Missouri voters rejected a bid to ditch the state’s income tax Tuesday. Big votes loom in Florida and California this fall.",
+            "date": "Thu, 06 Aug 2026 14:07:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "5XQ.F",
+            "stock_ticker": "SMBC",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. economy keeps up the momentum, but rising costs put a lid on new hiring",
-            "link": "https://www.marketwatch.com/story/u-s-economy-keeps-up-the-momentum-but-rising-costs-put-a-cap-on-new-hiring-028d481b?mod=mw_rss_topstories",
-            "summary": "The largest part of the economy grew in July at a robust pace. scattered shortages of key supplies and dogged inflation raised the cost of doing business. Companies responded by keeping a lid on hiring.",
-            "date": "Wed, 05 Aug 2026 15:01:00 GMT",
+            "title": "Layoffs fall to the lowest level since the U.S. put men on the moon. Here’s what that says about the economy.",
+            "link": "https://www.marketwatch.com/story/layoffs-fall-to-the-lowest-level-since-the-u-s-put-men-on-the-moon-heres-what-that-says-about-the-economy-71f7bd23?mod=mw_rss_topstories",
+            "summary": "Rising sales and a labor shortage are deterring job cuts. Jobless claims haven’t been this low since 1969. The U.S. unemployment rate is at its lowest level since December 1969.",
+            "date": "Thu, 06 Aug 2026 14:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
-            "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
-            "summary": "“She has been living with me for four years,” he says of his wife of four years. “She’s always been there for me.” He adds: “I’ve never seen her like this.’",
-            "date": "Wed, 05 Aug 2026 15:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IFF",
+            "stock_ticker": "WING.MI",
             "impact": "Neutral"
         },
         {
-            "title": "Shopify’s stock heads for best day in a year after the company ‘left no doubt’ about its growth trajectory",
-            "link": "https://www.marketwatch.com/story/shopifys-stock-heads-for-best-day-in-a-year-after-the-company-left-no-doubt-about-its-growth-trajectory-79551270?mod=mw_rss_topstories",
-            "summary": "The company is keeping costs in check while signaling upbeat growth trends, analysts say. Analysts say the company is showing signs of keeping costs under control and keeping growth in check.",
-            "date": "Wed, 05 Aug 2026 14:59:00 GMT",
+            "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+            "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+            "summary": "“He has never been particularly generous or nurturing,” she says. “He’s never been very nurturing.” “I’m very proud of him,’ she adds, “and I hope he knows it.’",
+            "date": "Thu, 06 Aug 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "OBX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "3 money rules I swear by — and why they work",
-            "link": "https://www.marketwatch.com/story/3-money-rules-i-swear-by-and-why-they-work-f7a1ad65?mod=mw_rss_topstories",
-            "summary": "The new voice of Don’t Short Yourself is here to share real-life tips and tools we can actually use. Managing money is stressful.",
-            "date": "Wed, 05 Aug 2026 14:46:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "Z3N=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "It’s the worst time in years to invest in AI credit markets: ‘Almost no upside and plenty of downside’",
-            "link": "https://www.marketwatch.com/story/its-the-worst-time-in-years-to-invest-in-ai-credit-markets-almost-no-upside-and-plenty-of-downside-a200d5c7?mod=mw_rss_topstories",
-            "summary": "Researchers at Andromeda Capital Management are worried about the uncertain return on investment for investors who are financing the AI capex bonanza. They are concerned about the future of the AI industry.",
-            "date": "Wed, 05 Aug 2026 14:44:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "002355.SZ",
             "impact": "Neutral"
         }
     ]
