@@ -1,125 +1,125 @@
 {
-    "date": "2026-08-06",
+    "date": "2026-08-07",
     "news": [
         {
-            "title": "Ford's new 'Fathom' electric pickup truck will start at $28,000",
-            "link": "https://www.cnbc.com/2026/08/06/ford-fathom-pickup-truck-price.html",
-            "summary": "It's the first vehicle to be built using the \"Universal Electric Vehicle\" platform. Ford has said the platform is key to making money with EVs.",
-            "date": "Thu, 06 Aug 2026 13:29:39 GMT",
+            "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
+            "link": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+            "summary": "Nonfarm payrolls were projected to increase by 83,000 in July. The unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
+            "date": "Fri, 07 Aug 2026 13:40:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "6N=F",
+            "stock_ticker": "DLCU",
             "impact": "Neutral"
         },
         {
-            "title": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
-            "link": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
-            "summary": "The first tranche of SpaceX shares held by insiders unlocking. The stock could see downward pressure as insiders begin to sell their shares. SpaceX is a private space exploration company based in California.",
-            "date": "Thu, 06 Aug 2026 13:20:54 GMT",
+            "title": "Shares of this digital medical platform were up more than 100% at one point. Here's what's driving it",
+            "link": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
+            "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search. The company is also seeing a huge increase in the number of potential customers for its services.",
+            "date": "Fri, 07 Aug 2026 13:49:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPCX",
+            "stock_ticker": "TCGX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
+            "link": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+            "summary": "The conflict is broadening across the region, with Gulf energy infrastructure and key shipping chokepoints under renewed threat. The conflict has been raging for more than a year.",
+            "date": "Fri, 07 Aug 2026 02:08:42 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "1597.TW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
+            "link": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
+            "summary": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives. Some companies also plan to use the most expensive economy fares.",
+            "date": "Fri, 07 Aug 2026 12:15:42 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LOW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
+            "link": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
+            "summary": "The nonpartisan watchdog found Elon Musk's DOGE didn't cut as much federal spending as it claimed and that it fell far short of its promised $2 trillion.",
+            "date": "Thu, 06 Aug 2026 22:19:52 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GOTU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+            "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
+            "summary": "“She has been living with me for four years,” he says of his wife of four years. “She’s always been there for me.” He adds: “I’ve never seen her like this.’",
+            "date": "Fri, 07 Aug 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IFF",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Social Security is celebrating its 91st birthday. Here’s why it’s not  going away anytime soon.",
+            "link": "https://www.marketwatch.com/story/how-to-wish-social-security-a-happy-91st-birthday-865d71a8?mod=mw_rss_topstories",
+            "summary": "Social Security will not “run out of money’ in 2032, the White House says. That’s a lie. The Social Security Trust Fund was set up in the 1930s to fund the program.",
+            "date": "Fri, 07 Aug 2026 13:45:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How S&P 500 options action may help explain the rising volatility in memory stocks",
+            "link": "https://www.marketwatch.com/story/how-s-p-500-options-action-may-help-explain-volatility-in-memory-stocks-58d95beb?mod=mw_rss_topstories",
+            "summary": "Bullish derivative bets mesh with the buy-the-dip mentality, says IBKR’s Sosnick. Bullish derivative bet on the U.S. dollar.",
+            "date": "Fri, 07 Aug 2026 13:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Kevin O’Leary, aka ‘Mr. Wonderful,’ on crypto, winning in AI and 3 things all business owners must know",
+            "link": "https://www.marketwatch.com/story/kevin-oleary-aka-mr-wonderful-on-crypto-winning-in-ai-and-3-things-all-business-owners-must-know-5339ff6c?mod=mw_rss_topstories",
+            "summary": "Kevin O’Leary learned from Steve Jobs: You only need to get three things done every day. Just three. What Kevin O'Leary learned about getting things done in a day.",
+            "date": "Fri, 07 Aug 2026 11:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AKA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Optical stocks have a China problem that most investors are missing",
+            "link": "https://www.marketwatch.com/story/optical-stocks-have-a-china-problem-that-most-investors-are-missing-45523981?mod=mw_rss_topstories",
+            "summary": "Beijing controls a chokepoint that Washington’s own crackdown can’t address. Beijing controls a choking point that Washington can't address.",
+            "date": "Fri, 07 Aug 2026 11:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LAZR",
             "impact": "Bearish"
-        },
-        {
-            "title": "Fox won't renegotiate NFL media rights before current deal expires, CEO Lachlan Murdoch says",
-            "link": "https://www.cnbc.com/2026/08/06/fox-nfl-media-rights-renegotiations-opt-out.html",
-            "summary": "Fox has decided not to renegotiate its current TV deal with the NFL until the expiration of the league's opt-out clause in 2030, said CEO Lachlan Murdoch.",
-            "date": "Thu, 06 Aug 2026 13:57:20 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "FOX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
-            "link": "https://www.cnbc.com/2026/08/06/ai-kill-switch-bill-openai-anthropic-meta.html",
-            "summary": "Anthropic, Meta and OpenAI have all had incidents of AI models hacking other companies during cybersecurity testing. Anthropic and Meta have had incidents with their AI models. OpenAI has also had incidents.",
-            "date": "Thu, 06 Aug 2026 14:57:11 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AAL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Versant shares surge 10% after company raises 2026 outlook on platforms, advertising momentum",
-            "link": "https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html",
-            "summary": " Versant noted revenue growth in its platforms business, which includes Fandango and GolfNow, and now, the recent acquisition of Full Swing.",
-            "date": "Thu, 06 Aug 2026 15:00:22 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "X06.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "SpaceX insiders get their first chance to cash out — but the stock’s slide will limit their opportunity",
-            "link": "https://www.marketwatch.com/story/spacex-insiders-get-their-first-chance-to-cash-out-but-the-stocks-slide-will-limit-their-opportunity-5c94b0f5?mod=mw_rss_topstories",
-            "summary": "Up to 911.5 million SpaceX shares will become available for sale Thursday. A separate tranche of up to 455.8 million shares will stay locked up due to the stock's weak performance.",
-            "date": "Thu, 06 Aug 2026 14:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPCX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "As a woman of color who travels alone, is it a waste of money to visit places with zero diversity?",
-            "link": "https://www.marketwatch.com/story/as-a-woman-of-color-who-travels-alone-is-it-a-waste-of-money-to-visit-places-with-zero-diversity-6de89785?mod=mw_rss_topstories",
-            "summary": "“I don’t want to spend a bunch of money and have a bad time,” he says. “I’m not going to go out and spend a lot of money.”",
-            "date": "Thu, 06 Aug 2026 14:54:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Missouri voters just rejected a bid to ditch income tax, while other tax votes loom in Florida and California this fall",
-            "link": "https://www.marketwatch.com/story/taxes-are-on-the-ballot-this-fall-as-republicans-and-democrats-grow-further-apart-on-whether-to-raise-them-c7990380?mod=mw_rss_topstories",
-            "summary": "Missouri voters rejected a bid to ditch the state’s income tax Tuesday. Big votes loom in Florida and California this fall.",
-            "date": "Thu, 06 Aug 2026 14:07:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SMBC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Layoffs fall to the lowest level since the U.S. put men on the moon. Here’s what that says about the economy.",
-            "link": "https://www.marketwatch.com/story/layoffs-fall-to-the-lowest-level-since-the-u-s-put-men-on-the-moon-heres-what-that-says-about-the-economy-71f7bd23?mod=mw_rss_topstories",
-            "summary": "Rising sales and a labor shortage are deterring job cuts. Jobless claims haven’t been this low since 1969. The U.S. unemployment rate is at its lowest level since December 1969.",
-            "date": "Thu, 06 Aug 2026 14:03:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WING.MI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-            "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
-            "summary": "“He has never been particularly generous or nurturing,” she says. “He’s never been very nurturing.” “I’m very proud of him,’ she adds, “and I hope he knows it.’",
-            "date": "Thu, 06 Aug 2026 14:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OBX",
-            "impact": "Neutral"
         }
     ]
 }
