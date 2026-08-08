@@ -1,95 +1,83 @@
 {
-    "date": "2026-08-07",
+    "date": "2026-08-08",
     "news": [
         {
-            "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
-            "link": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
-            "summary": "Nonfarm payrolls were projected to increase by 83,000 in July. The unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
-            "date": "Fri, 07 Aug 2026 13:40:19 GMT",
+            "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+            "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+            "summary": "The company's energy, railroad and manufacturing businesses more than offset weaker insurance results. Strength across its energy, rail and manufacturing business more than offsets weaker insurance Results.",
+            "date": "Sat, 08 Aug 2026 13:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DLCU",
+            "stock_ticker": "BRK-B",
             "impact": "Neutral"
         },
         {
-            "title": "Shares of this digital medical platform were up more than 100% at one point. Here's what's driving it",
-            "link": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
-            "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search. The company is also seeing a huge increase in the number of potential customers for its services.",
-            "date": "Fri, 07 Aug 2026 13:49:51 GMT",
+            "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+            "link": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+            "summary": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
+            "date": "Sat, 08 Aug 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TCGX",
-            "impact": "Neutral"
+            "stock_ticker": "HUGGZZX",
+            "impact": "Bullish"
         },
         {
-            "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
-            "link": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
-            "summary": "The conflict is broadening across the region, with Gulf energy infrastructure and key shipping chokepoints under renewed threat. The conflict has been raging for more than a year.",
-            "date": "Fri, 07 Aug 2026 02:08:42 GMT",
+            "title": "UAE says one of its ships was targeted by missile as U.S.-Iran tensions over Strait of Hormuz remain high",
+            "link": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+            "summary": "Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions. Iran's military said that the U.,S. would only reopen the waterway if Iran agreed to certain conditions.",
+            "date": "Sat, 08 Aug 2026 13:06:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "1597.TW",
+            "stock_ticker": "UAE",
             "impact": "Neutral"
         },
         {
-            "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
-            "link": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
-            "summary": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives. Some companies also plan to use the most expensive economy fares.",
-            "date": "Fri, 07 Aug 2026 12:15:42 GMT",
+            "title": "Cyclospora fears lead consumers to lose their appetite for salads",
+            "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+            "summary": "Consumers avoid greens due to ongoing cyclospora outbreaks across the U.S. Traffic to salad chains has fallen as consumers avoid greens.",
+            "date": "Sat, 08 Aug 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LOW",
+            "stock_ticker": "LEAD",
             "impact": "Neutral"
         },
         {
-            "title": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
-            "link": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
-            "summary": "The nonpartisan watchdog found Elon Musk's DOGE didn't cut as much federal spending as it claimed and that it fell far short of its promised $2 trillion.",
-            "date": "Thu, 06 Aug 2026 22:19:52 GMT",
+            "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
+            "link": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
+            "summary": "As oil reserves and munitions stockpiles reportedly dwindle, analysts wonder how much longer markets will pounce when the Trump admin. dangles an Iran deal.",
+            "date": "Fri, 07 Aug 2026 17:50:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GOTU",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
-            "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
-            "summary": "“She has been living with me for four years,” he says of his wife of four years. “She’s always been there for me.” He adds: “I’ve never seen her like this.’",
-            "date": "Fri, 07 Aug 2026 14:00:00 GMT",
+            "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+            "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+            "summary": "“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary,” he said. “My brother is the beneficiary.”",
+            "date": "Sat, 08 Aug 2026 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IFF",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         },
         {
-            "title": "Social Security is celebrating its 91st birthday. Here’s why it’s not  going away anytime soon.",
-            "link": "https://www.marketwatch.com/story/how-to-wish-social-security-a-happy-91st-birthday-865d71a8?mod=mw_rss_topstories",
-            "summary": "Social Security will not “run out of money’ in 2032, the White House says. That’s a lie. The Social Security Trust Fund was set up in the 1930s to fund the program.",
-            "date": "Fri, 07 Aug 2026 13:45:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "How S&P 500 options action may help explain the rising volatility in memory stocks",
-            "link": "https://www.marketwatch.com/story/how-s-p-500-options-action-may-help-explain-volatility-in-memory-stocks-58d95beb?mod=mw_rss_topstories",
-            "summary": "Bullish derivative bets mesh with the buy-the-dip mentality, says IBKR’s Sosnick. Bullish derivative bet on the U.S. dollar.",
-            "date": "Fri, 07 Aug 2026 13:30:00 GMT",
+            "title": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
+            "link": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
+            "summary": "Timing is everything when balancing retirement distributions and moving across state lines. Timing isEverything when balancing pensions and retirement distributions. Move across statelines can be difficult, especially if you live in a different state.",
+            "date": "Sat, 08 Aug 2026 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,28 +86,40 @@
             "impact": "Neutral"
         },
         {
-            "title": "Kevin O’Leary, aka ‘Mr. Wonderful,’ on crypto, winning in AI and 3 things all business owners must know",
-            "link": "https://www.marketwatch.com/story/kevin-oleary-aka-mr-wonderful-on-crypto-winning-in-ai-and-3-things-all-business-owners-must-know-5339ff6c?mod=mw_rss_topstories",
-            "summary": "Kevin O’Leary learned from Steve Jobs: You only need to get three things done every day. Just three. What Kevin O'Leary learned about getting things done in a day.",
-            "date": "Fri, 07 Aug 2026 11:00:00 GMT",
+            "title": "Here’s why Wendy’s is losing the burger wars",
+            "link": "https://www.marketwatch.com/story/heres-why-wendys-is-losing-the-burger-wars-bf79deba?mod=mw_rss_topstories",
+            "summary": "Wendy’s new CEO is embarking on a turnaround initiative, while acknowledging that issues around food quality and service have turned customers away.",
+            "date": "Sat, 08 Aug 2026 11:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AKA",
+            "stock_ticker": "301218.SZ",
             "impact": "Neutral"
         },
         {
-            "title": "Optical stocks have a China problem that most investors are missing",
-            "link": "https://www.marketwatch.com/story/optical-stocks-have-a-china-problem-that-most-investors-are-missing-45523981?mod=mw_rss_topstories",
-            "summary": "Beijing controls a chokepoint that Washington’s own crackdown can’t address. Beijing controls a choking point that Washington can't address.",
-            "date": "Fri, 07 Aug 2026 11:00:00 GMT",
+            "title": "My brother asked me to sign as his executor, but wouldn’t let me read the document. Should I have refused?",
+            "link": "https://www.marketwatch.com/story/my-brother-asked-me-to-sign-as-his-executor-but-wouldnt-let-me-read-the-document-should-i-have-refused-1b53d9bc?mod=mw_rss_topstories",
+            "summary": "“I imagine scenarios like this happen more often than people realize,” he says. “I’m not sure what to do next.”",
+            "date": "Sat, 08 Aug 2026 11:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LAZR",
-            "impact": "Bearish"
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SpaceX’s Nvidia deal could be bad news for neoclouds like CoreWeave and Nebius, analysts say",
+            "link": "https://www.marketwatch.com/story/spacexs-nvidia-deal-could-be-bad-news-for-neoclouds-like-coreweave-and-nebius-analysts-say-168c9ed1?mod=mw_rss_topstories",
+            "summary": "Nvidia could bump SpaceX to “the front of the line’ when it comes to its limited supply of chips, according to Bernstein.",
+            "date": "Sat, 08 Aug 2026 11:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVDA",
+            "impact": "Bullish"
         }
     ]
 }
