@@ -1,6 +1,54 @@
 {
-    "date": "2026-08-08",
+    "date": "2026-08-09",
     "news": [
+        {
+            "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+            "link": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+            "summary": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular. The attacks were carried out by a team at Irregular, which is based in Israel.",
+            "date": "Sun, 09 Aug 2026 11:31:42 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Myspace eyes comeback as an 'antidote' to social media fatigue — but it may be a long shot",
+            "link": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
+            "summary": "\"Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives,\" an analyst told CNBC.",
+            "date": "Sun, 09 Aug 2026 12:23:54 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "EYES",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Abel puts a big chunk of Berkshire's cash to work",
+            "link": "https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html",
+            "summary": "Berkshire Hathaway CEO Greg Abel spent $4.5 billion on buybacks in the second quarter. Abel is the new CEO of Berkshire Hathaway, the world's largest Hathaway conglomerate.",
+            "date": "Sun, 09 Aug 2026 12:00:33 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ALK-B.CO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Saudi Aramco extinguishes fire at refinery as Houthis claim responsibility",
+            "link": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
+            "summary": "Iran's foreign minister reportedly said his country is not engaging in talks with the U.S. He added: \"Messages are being exchanged through intermediaries\"",
+            "date": "Sun, 09 Aug 2026 11:23:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "2360.SR",
+            "impact": "Neutral"
+        },
         {
             "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
             "link": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
@@ -14,58 +62,22 @@
             "impact": "Neutral"
         },
         {
-            "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-            "link": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-            "summary": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
-            "date": "Sat, 08 Aug 2026 12:00:01 GMT",
+            "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+            "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+            "summary": "“He has never been particularly generous or nurturing,” she says. “He’s never been very nurturing.” “I’m very proud of him,’ she adds, “and I hope he knows it.’",
+            "date": "Sun, 09 Aug 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HUGGZZX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "UAE says one of its ships was targeted by missile as U.S.-Iran tensions over Strait of Hormuz remain high",
-            "link": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
-            "summary": "Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions. Iran's military said that the U.,S. would only reopen the waterway if Iran agreed to certain conditions.",
-            "date": "Sat, 08 Aug 2026 13:06:30 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "UAE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Cyclospora fears lead consumers to lose their appetite for salads",
-            "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
-            "summary": "Consumers avoid greens due to ongoing cyclospora outbreaks across the U.S. Traffic to salad chains has fallen as consumers avoid greens.",
-            "date": "Sat, 08 Aug 2026 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LEAD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
-            "link": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
-            "summary": "As oil reserves and munitions stockpiles reportedly dwindle, analysts wonder how much longer markets will pounce when the Trump admin. dangles an Iran deal.",
-            "date": "Fri, 07 Aug 2026 17:50:12 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "LTGO",
             "impact": "Neutral"
         },
         {
             "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
             "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
             "summary": "“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary,” he said. “My brother is the beneficiary.”",
-            "date": "Sat, 08 Aug 2026 12:00:00 GMT",
+            "date": "Sun, 09 Aug 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,52 +86,40 @@
             "impact": "Neutral"
         },
         {
-            "title": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
-            "link": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
-            "summary": "Timing is everything when balancing retirement distributions and moving across state lines. Timing isEverything when balancing pensions and retirement distributions. Move across statelines can be difficult, especially if you live in a different state.",
-            "date": "Sat, 08 Aug 2026 12:00:00 GMT",
+            "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
+            "link": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
+            "summary": "For the first time in four years, the average stock is beating the stock market. The Dow Jones Industrial Average is up more than 1% this year.",
+            "date": "Sun, 09 Aug 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "BLSM",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s why Wendy’s is losing the burger wars",
-            "link": "https://www.marketwatch.com/story/heres-why-wendys-is-losing-the-burger-wars-bf79deba?mod=mw_rss_topstories",
-            "summary": "Wendy’s new CEO is embarking on a turnaround initiative, while acknowledging that issues around food quality and service have turned customers away.",
-            "date": "Sat, 08 Aug 2026 11:30:00 GMT",
+            "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+            "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+            "summary": "“I was surprised — and flattered, to find myself on the guest list,” he said. “I’m a little bit of a country girl. I’ve never been to a big party.”",
+            "date": "Sun, 09 Aug 2026 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "301218.SZ",
+            "stock_ticker": "LTGO",
             "impact": "Neutral"
         },
         {
-            "title": "My brother asked me to sign as his executor, but wouldn’t let me read the document. Should I have refused?",
-            "link": "https://www.marketwatch.com/story/my-brother-asked-me-to-sign-as-his-executor-but-wouldnt-let-me-read-the-document-should-i-have-refused-1b53d9bc?mod=mw_rss_topstories",
-            "summary": "“I imagine scenarios like this happen more often than people realize,” he says. “I’m not sure what to do next.”",
-            "date": "Sat, 08 Aug 2026 11:00:00 GMT",
+            "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+            "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+            "summary": "She left behind a 30-year-old son and 32-year -old daughter. “She left Behind a 30 year old son and a 32 year-old daughter’s death,” police say.",
+            "date": "Sun, 09 Aug 2026 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "HIMS",
             "impact": "Neutral"
-        },
-        {
-            "title": "SpaceX’s Nvidia deal could be bad news for neoclouds like CoreWeave and Nebius, analysts say",
-            "link": "https://www.marketwatch.com/story/spacexs-nvidia-deal-could-be-bad-news-for-neoclouds-like-coreweave-and-nebius-analysts-say-168c9ed1?mod=mw_rss_topstories",
-            "summary": "Nvidia could bump SpaceX to “the front of the line’ when it comes to its limited supply of chips, according to Bernstein.",
-            "date": "Sat, 08 Aug 2026 11:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NVDA",
-            "impact": "Bullish"
         }
     ]
 }
