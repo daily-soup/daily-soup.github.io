@@ -1,11 +1,35 @@
 {
-    "date": "2026-08-10",
+    "date": "2026-08-11",
     "news": [
         {
-            "title": "Intel plans $15 billion stock offering as AI demand accelerates",
+            "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+            "link": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+            "summary": "The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies.",
+            "date": "Tue, 11 Aug 2026 14:11:05 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WBX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Pakistan signals progress on U.S.-Iran deal as Washington and Tehran trade reparation demands",
+            "link": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
+            "summary": "The dueling positions Washington and Tehran staked out showed how far apart the two sides remain even as both talked of winding down regional hostilities.",
+            "date": "Tue, 11 Aug 2026 13:48:36 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GPAK",
+            "impact": "Bearish"
+        },
+        {
+            "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates",
             "link": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
             "summary": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout. Technology giants have spent trillions to meet demand for AI.",
-            "date": "Mon, 10 Aug 2026 13:15:44 GMT",
+            "date": "Tue, 11 Aug 2026 07:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +38,87 @@
             "impact": "Bullish"
         },
         {
-            "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
-            "link": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
-            "summary": "The escalating tally underscores how far the two sides remain from resolving the crisis. The crisis has choked the Strait of Hormuz for more than five months.",
-            "date": "Mon, 10 Aug 2026 12:59:28 GMT",
+            "title": "Polymarket makes moves to get house in order before expected boom times for prediction markets this fall",
+            "link": "https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html",
+            "summary": "The marketing changes come amid an investigation by the Commodity Futures Trading Commission. The commission is looking into the company's promotional practices.",
+            "date": "Tue, 11 Aug 2026 13:56:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "PLYRZZX",
             "impact": "Neutral"
         },
         {
-            "title": "Trump’s foreign licensing business booms to $59.5 million as Gulf developers pay",
-            "link": "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
-            "summary": "Nearly two-thirds of Trump’s foreign licensing fees came from two Gulf developers, in the UAE and Qatar, including one pursuing a $20 billion U.S. expansion.",
-            "date": "Mon, 10 Aug 2026 10:30:01 GMT",
+            "title": "Baby products company Frida is expanding into kids’ personal care",
+            "link": "https://www.cnbc.com/2026/08/11/frida-kids-personal-care.html",
+            "summary": "Frida is launching a new category of personal care items for kids. The company is tapping into a growing market and largely untapped space.",
+            "date": "Tue, 11 Aug 2026 12:00:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ODIZX",
+            "stock_ticker": "BB15231-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Archer shares surge after Boeing stake, electric aircraft subsidiary deal",
-            "link": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
-            "summary": "Boeing is selling three of its subsidiaries to Archer Aviation. The sale is in exchange for a stake in the eVTOL startup.",
-            "date": "Mon, 10 Aug 2026 13:13:31 GMT",
+            "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
+            "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
+            "summary": "“I want to make the process as straightforward as possible for my beneficiaries to access the funds,” he says. “I’m trying to make it as simple as possible.”",
+            "date": "Tue, 11 Aug 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ACHR",
-            "impact": "Bullish"
-        },
-        {
-            "title": "SpaceX stock rebounds to near $135 IPO price",
-            "link": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
-            "summary": "SpaceX reported better-than-expected revenue in its second-quarter earnings report last week. SpaceX is a private spaceflight company based in California.",
-            "date": "Mon, 10 Aug 2026 14:11:49 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPCX",
+            "stock_ticker": "SOLC",
             "impact": "Neutral"
         },
         {
-            "title": "This is the ZIP Code with the hottest housing market in the country right now",
-            "link": "https://www.marketwatch.com/story/this-is-the-hottest-zip-code-where-homes-are-selling-fast-2c642716?mod=mw_rss_topstories",
-            "summary": "Realtor.com is calling America’s hottest ZIP Code “The Hot Zone” One buyer in the ZIP Code says the real-estate market is not for the weak.",
-            "date": "Mon, 10 Aug 2026 14:00:00 GMT",
+            "title": "My wife can claim $900 at 62. Should she take it now — or wait for her spousal benefit?",
+            "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
+            "summary": "“She was a teacher at a school district, so didn’t put much into Social Security,” her son says.",
+            "date": "Tue, 11 Aug 2026 14:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Airbnb has added thousands of new hotel listings. Will that damage the brand’s identity?",
+            "link": "https://www.marketwatch.com/story/airbnb-has-added-thousands-of-new-hotel-listings-will-that-ruin-its-charm-0af2d3b0?mod=mw_rss_topstories",
+            "summary": "The home-rental company is leaning into hotels and third-party amenities to transform into a “one-stop shop” for travel.",
+            "date": "Tue, 11 Aug 2026 13:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ABNB",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I just moved. These 7 tips saved me nearly $1,000.",
+            "link": "https://www.marketwatch.com/story/i-just-moved-these-7-tips-saved-me-around-1-000-ea3b0ae5?mod=mw_rss_topstories",
+            "summary": "These proactive money moves can help cut costs significantly. Moving always seems to be more expensive than you expect, but these proactive money Moves can help.",
+            "date": "Tue, 11 Aug 2026 13:52:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SOLC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "This fund manager tunes out AI hype to flag the infrastructure stocks to buy now. Think roads, water and telecom towers.",
+            "link": "https://www.marketwatch.com/story/roads-water-and-telecom-towers-can-beat-the-ai-hype-this-fund-manager-flags-the-infrastructure-stocks-to-buy-now-54c62a77?mod=mw_rss_topstories",
+            "summary": "Lazard portfolio manager Bertrand Cliquet says infrastructure companies are worth more than the AI hype sometimes linked to them. Lazard: Infrastructure companies are more valuable than AI companies.",
+            "date": "Tue, 11 Aug 2026 13:39:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "0P000021TT.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The U.S. economy is shedding jobs. Here’s why that’s good news for stocks.",
-            "link": "https://www.marketwatch.com/story/the-u-s-economy-is-shedding-jobs-why-thats-good-news-for-stocks-a7f4773c?mod=mw_rss_topstories",
-            "summary": "A weaker labor market may mean the Federal Reserve can cut interest rates amid benign wage inflation, says 22V. 22V is a research firm that focuses on the labor market.",
-            "date": "Mon, 10 Aug 2026 13:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "TSCM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Berkshire Hathaway finally started spending its nearly $400 billion in cash — on one stock it knows very well",
-            "link": "https://www.marketwatch.com/story/berkshire-hathaway-finally-started-spending-its-nearly-400-billion-in-cash-on-one-stock-it-knows-very-well-f9d56389?mod=mw_rss_topstories",
-            "summary": "Berkshire Hathaway is buying its own stock after years of building up a cash pile. Not everyone is excited about the move.",
-            "date": "Mon, 10 Aug 2026 12:53:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BRK-B",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Apple’s stock could underperform, especially without an ‘all-glass’ iPhone, this analyst warns",
-            "link": "https://www.marketwatch.com/story/apples-stock-could-underperform-especially-without-an-all-glass-iphone-this-analyst-warns-fc9a750c?mod=mw_rss_topstories",
-            "summary": "Analyst says it may be harder than it looks for Apple to roll out dramatically more expensive devices in a bid to boost profitability. Jefferies analyst says Apple may have to wait until next year to launch new products.",
-            "date": "Mon, 10 Aug 2026 12:48:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Intel plans to sell $15 billion worth of stock after it has risen 400% in a year",
-            "link": "https://www.marketwatch.com/story/intel-plans-to-sell-15-billion-worth-of-stock-after-it-has-risen-400-in-a-year-395effce?mod=mw_rss_topstories",
-            "summary": "The company said it sees growth opportunities in physical AI, custom chips and advanced packaging. It also sees opportunities in custom chips, advanced packaging and AI in the future.",
-            "date": "Mon, 10 Aug 2026 12:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "INTC",
             "impact": "Neutral"
         }
     ]
