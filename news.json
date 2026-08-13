@@ -1,124 +1,124 @@
 {
-    "date": "2026-08-12",
+    "date": "2026-08-13",
     "news": [
         {
-            "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
-            "link": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
-            "summary": "The consumer price index was expected to increase 0.1% in July, with an annual rate of 3.4%. The Consumer Price Index is a measure of inflation in the United States.",
-            "date": "Wed, 12 Aug 2026 13:29:29 GMT",
+            "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
+            "link": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
+            "summary": "The producer price index was expected to increase by 0.2% in July, according to the Dow Jones consensus. The consumer price index is expected to be up 0.3%.",
+            "date": "Thu, 13 Aug 2026 13:18:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XYT=F",
+            "stock_ticker": "COST",
             "impact": "Neutral"
         },
         {
-            "title": "Mortgage rates finally stop rising, causing demand to trickle back",
-            "link": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
-            "summary": "Mortgage rates finally eased a tiny bit, but it was enough to bring some demand back to a very beleaguered mortgage market.",
-            "date": "Wed, 12 Aug 2026 12:13:45 GMT",
+            "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
+            "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
+            "summary": "Iran is set to join the BRICS New Development Bank, Iran’s central bank chief says. Iran is a member of the Shanghai Cooperation Organisation and the Shanghai Development Bank.",
+            "date": "Thu, 13 Aug 2026 13:01:37 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FNMA",
+            "stock_ticker": "RANI3.SA",
             "impact": "Neutral"
         },
         {
-            "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
-            "link": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
-            "summary": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models. Apple is also rolling out a new Siri with a new set of AI features.",
-            "date": "Wed, 12 Aug 2026 14:00:01 GMT",
+            "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
+            "link": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
+            "summary": "Databricks is benefitting off of the agentic AI wave. Databricks will be using AI to help it build its website and app.",
+            "date": "Thu, 13 Aug 2026 14:00:27 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "6N=F",
+            "stock_ticker": "DABRZZX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "'Big Short' investor Steve Eisman sees an Achilles heel in the AI boom",
+            "link": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
+            "summary": "Artificial intelligence boom dependent on just two companies, says Steve Eisman. Eisman: OpenAI and Anthropic are the two biggest players in the field.",
+            "date": "Thu, 13 Aug 2026 13:19:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BBAI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump-linked oil venture delays Greenland drilling plans after government warning",
+            "link": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
+            "summary": "Greenland Energy Company and joint venture partner 80 Mile have delayed planned oil drilling in Greenland until winter 2027. Greenland Energy Company, 80 Mile delay planned drilling until 2027 at the earliest.",
+            "date": "Thu, 13 Aug 2026 13:02:38 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CL=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
+            "link": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
+            "summary": "Shares of Dell have roughly quadrupled in price this year. Lenovo’s earnings report helped to drive the latest bout of momentum for the PC maker.",
+            "date": "Thu, 13 Aug 2026 14:08:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "VOGX",
             "impact": "Bullish"
         },
         {
-            "title": "Trust, but hedge: Quietly violent summer lingers as bulls buy crash protection",
-            "link": "https://www.cnbc.com/2026/08/12/trust-but-hedge-quietly-violent-summer-lingers-as-bulls-buy-crash-protection.html",
-            "summary": "It's been a wild summer for stocks, even if it may not feel like it at surface level. Stocks have been on the up and down this year, with the Dow Jones Industrial Average up more than 10% this year.",
-            "date": "Wed, 12 Aug 2026 13:59:17 GMT",
+            "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
+            "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
+            "summary": "“I want to make the process as straightforward as possible for my beneficiaries to access the funds,” he says. “I’m trying to make it as simple as possible.”",
+            "date": "Thu, 13 Aug 2026 14:01:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPY",
+            "stock_ticker": "VOGX",
             "impact": "Neutral"
         },
         {
-            "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
-            "link": "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
-            "summary": "A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lanes.",
-            "date": "Wed, 12 Aug 2026 12:28:39 GMT",
+            "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+            "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+            "summary": "“I would like to offer a piece of advice for women who are or have been married,” she said. “I’d like to give them some advice on how to deal with it.”",
+            "date": "Thu, 13 Aug 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FUN",
+            "stock_ticker": "CAN",
             "impact": "Neutral"
         },
         {
-            "title": "Citadel Securities called the stock-market reset. Now it sees a leverage buildup on the horizon.",
-            "link": "https://www.marketwatch.com/story/citadel-securities-called-the-stock-market-reset-now-it-says-leverage-may-build-up-again-988eec86?mod=mw_rss_topstories",
-            "summary": " Strategist Scott Rubner says a growing list of stock-market buyers are pushing it in a positive direction. Rubner: Big hedge funds and institutional managers.",
-            "date": "Wed, 12 Aug 2026 13:55:00 GMT",
+            "title": "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown",
+            "link": "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
+            "summary": "An analyst predicts 29% upside for Salesforce shares, citing some promising AI features. Salesforce is a cloud-based sales and marketing company.",
+            "date": "Thu, 13 Aug 2026 13:36:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CCTL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "CoreWeave’s stock is rocketing after earnings lead to praise from bulls and bears alike",
-            "link": "https://www.marketwatch.com/story/coreweaves-stock-is-rocketing-after-earnings-lead-to-praise-from-bulls-and-bears-alike-46c831e7?mod=mw_rss_topstories",
-            "summary": "CoreWeave is broadening its customer base and benefiting from upbeat pricing dynamics, analysts say. CoreWeave: We're broadening our customer base, benefiting from positive pricing dynamics.",
-            "date": "Wed, 12 Aug 2026 13:34:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
+            "stock_ticker": "VOGX",
             "impact": "Bullish"
         },
         {
-            "title": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own",
-            "link": "https://www.marketwatch.com/story/nebius-adds-to-the-excitement-around-neocloud-stocks-with-upbeat-earnings-of-its-own-cd2aa36e?mod=mw_rss_topstories",
-            "summary": "Investors are reacting positively to earnings results and demand signals from neocloud companies CoreWeave and Nebius. The companies are expected to report results in the next few days.",
-            "date": "Wed, 12 Aug 2026 13:33:00 GMT",
+            "title": "Bill Ackman once exited his Netflix stake in a huff. He’s buying the streaming giant again, as well as these five stocks.",
+            "link": "https://www.marketwatch.com/story/bill-ackman-once-exited-netflix-stake-in-a-huff-why-hes-buying-the-streaming-giant-again-as-well-as-these-five-stocks-ae0d9220?mod=mw_rss_topstories",
+            "summary": "Netflix was among six stocks Pershing Square added in the last six months. Netflix is once again an apple in Bill Ackman’s eye.",
+            "date": "Thu, 13 Aug 2026 13:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NBIS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Eli Lilly is suing pharmacies and peptide vendors over sale of its next big weight-loss drug: retatrutide",
-            "link": "https://www.marketwatch.com/story/eli-lilly-is-suing-pharmacies-and-peptide-vendors-over-sales-of-the-next-big-weight-loss-drug-retatrutide-22434cce?mod=mw_rss_topstories",
-            "summary": "Some Americans have turned to medical spas and pharmacies that sell peptides for health and wellness benefits for access to compounded versions of retatrutide.",
-            "date": "Wed, 12 Aug 2026 13:07:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LLY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The $30 trillion Treasury market is facing a painful reckoning. How rising yields could squeeze your portfolio.",
-            "link": "https://www.marketwatch.com/story/the-30-trillion-treasury-market-is-facing-a-painful-reckoning-how-rising-yields-could-squeeze-your-portfolio-8fa9edd8?mod=mw_rss_topstories",
-            "summary": "The roughly $30 trillion Treasury market is widely seen as the bedrock of the global financial system. It is facing a dangerous reckoning driven by a perfect storm of rising risks.",
-            "date": "Wed, 12 Aug 2026 12:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
+            "stock_ticker": "BILL",
             "impact": "Neutral"
         }
     ]
