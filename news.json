@@ -1,124 +1,124 @@
 {
-    "date": "2026-08-13",
+    "date": "2026-08-14",
     "news": [
         {
-            "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
-            "link": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
-            "summary": "The producer price index was expected to increase by 0.2% in July, according to the Dow Jones consensus. The consumer price index is expected to be up 0.3%.",
-            "date": "Thu, 13 Aug 2026 13:18:36 GMT",
+            "title": "‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands",
+            "link": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html",
+            "summary": "Japan protested Vladimir Putin’s first visit to the disputed Kuril Islands. The visit escalated tensions over territory claimed by both Tokyo and Moscow.",
+            "date": "Fri, 14 Aug 2026 12:28:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COST",
+            "stock_ticker": "ABC.V",
             "impact": "Neutral"
         },
         {
-            "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
-            "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
-            "summary": "Iran is set to join the BRICS New Development Bank, Iran’s central bank chief says. Iran is a member of the Shanghai Cooperation Organisation and the Shanghai Development Bank.",
-            "date": "Thu, 13 Aug 2026 13:01:37 GMT",
+            "title": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
+            "link": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
+            "summary": "The widening price of copper between two metals exchanges is offering investors a gauge of U.S. tariff risk. The gap between the copper price on the London Metal Exchange and the New York Mercantile Exchange has widened in recent months.",
+            "date": "Fri, 14 Aug 2026 13:24:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3.SA",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
-            "link": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
-            "summary": "Databricks is benefitting off of the agentic AI wave. Databricks will be using AI to help it build its website and app.",
-            "date": "Thu, 13 Aug 2026 14:00:27 GMT",
+            "title": "Data breach notices have already blown past last year’s total — and AI is playing a growing role",
+            "link": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
+            "summary": "Data breaches are surging in 2026, with artificial intelligence playing a growing role in cyberattacks. 'malicious insider' incidents also on the rise.",
+            "date": "Fri, 14 Aug 2026 12:15:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DABRZZX",
+            "stock_ticker": "DDOG",
             "impact": "Neutral"
         },
         {
-            "title": "'Big Short' investor Steve Eisman sees an Achilles heel in the AI boom",
-            "link": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
-            "summary": "Artificial intelligence boom dependent on just two companies, says Steve Eisman. Eisman: OpenAI and Anthropic are the two biggest players in the field.",
-            "date": "Thu, 13 Aug 2026 13:19:00 GMT",
+            "title": "Anthropic's investor talks, Workday's stock surge, Apple's new facility and more in Morning Squawk",
+            "link": "https://www.cnbc.com/2026/08/14/5-things-to-know-before-the-market-opens.html",
+            "summary": "Here are five key things investors need to know to start the trading day. Here are four key things you should know about the U.S. stock market.",
+            "date": "Fri, 14 Aug 2026 12:17:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBAI",
+            "stock_ticker": "OHI",
             "impact": "Neutral"
         },
         {
-            "title": "Trump-linked oil venture delays Greenland drilling plans after government warning",
-            "link": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
-            "summary": "Greenland Energy Company and joint venture partner 80 Mile have delayed planned oil drilling in Greenland until winter 2027. Greenland Energy Company, 80 Mile delay planned drilling until 2027 at the earliest.",
-            "date": "Thu, 13 Aug 2026 13:02:38 GMT",
+            "title": "Trump sued over Truth Social advance access sale",
+            "link": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
+            "summary": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
+            "date": "Thu, 13 Aug 2026 00:13:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
-            "link": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
-            "summary": "Shares of Dell have roughly quadrupled in price this year. Lenovo’s earnings report helped to drive the latest bout of momentum for the PC maker.",
-            "date": "Thu, 13 Aug 2026 14:08:00 GMT",
+            "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
+            "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+            "summary": "\"She has contacted the mortgage company, but they will not discuss the mortgage’s,” her daughter says. “She has also contacted the bank, but the bank won’t talk to her about the mortgage.”",
+            "date": "Fri, 14 Aug 2026 14:01:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AUDMYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I have a 9-to-5 job and started dating a bartender. Can I have a future with someone who works nights?",
+            "link": "https://www.marketwatch.com/story/i-have-a-9-to-5-job-and-started-dating-a-bartender-can-i-have-a-future-with-someone-who-works-nights-500d4320?mod=mw_rss_topstories",
+            "summary": "“He usually doesn’t get off work until 4 a.m.,” his wife says of her husband. “He’s a hard worker,” she adds.",
+            "date": "Fri, 14 Aug 2026 13:48:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "VOGX",
-            "impact": "Bullish"
-        },
-        {
-            "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
-            "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
-            "summary": "“I want to make the process as straightforward as possible for my beneficiaries to access the funds,” he says. “I’m trying to make it as simple as possible.”",
-            "date": "Thu, 13 Aug 2026 14:01:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VOGX",
             "impact": "Neutral"
         },
         {
-            "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
-            "link": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
-            "summary": "“I would like to offer a piece of advice for women who are or have been married,” she said. “I’d like to give them some advice on how to deal with it.”",
-            "date": "Thu, 13 Aug 2026 14:00:00 GMT",
+            "title": "Bond yields are at multiyear highs, yet stocks have hit fresh records. Here’s how long the defiance can last.",
+            "link": "https://www.marketwatch.com/story/rates-are-at-multiyear-highs-yet-stocks-hit-fresh-records-heres-how-long-the-defiance-may-last-b29a5d14?mod=mw_rss_topstories",
+            "summary": "The relationship between bond yields and equities has turned negative again, says LPL Financial. LPL says bond yields have fallen to levels not seen since the financial crisis in 2008.",
+            "date": "Fri, 14 Aug 2026 13:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CAN",
+            "stock_ticker": "BOND",
             "impact": "Neutral"
         },
         {
-            "title": "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown",
-            "link": "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
-            "summary": "An analyst predicts 29% upside for Salesforce shares, citing some promising AI features. Salesforce is a cloud-based sales and marketing company.",
-            "date": "Thu, 13 Aug 2026 13:36:00 GMT",
+            "title": "Congress changed the rules around charitable giving. Do it earlier in the year to save money.",
+            "link": "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
+            "summary": "Congress changed three charitable-deduction rules this year. The most common way people give money to charities is now also probably the most expensive way.",
+            "date": "Fri, 14 Aug 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VOGX",
-            "impact": "Bullish"
+            "stock_ticker": "NANC",
+            "impact": "Neutral"
         },
         {
-            "title": "Bill Ackman once exited his Netflix stake in a huff. He’s buying the streaming giant again, as well as these five stocks.",
-            "link": "https://www.marketwatch.com/story/bill-ackman-once-exited-netflix-stake-in-a-huff-why-hes-buying-the-streaming-giant-again-as-well-as-these-five-stocks-ae0d9220?mod=mw_rss_topstories",
-            "summary": "Netflix was among six stocks Pershing Square added in the last six months. Netflix is once again an apple in Bill Ackman’s eye.",
-            "date": "Thu, 13 Aug 2026 13:33:00 GMT",
+            "title": "Retail sales slump. Cheaper gas and an Amazon Prime hangover are the chief culprits.",
+            "link": "https://www.marketwatch.com/story/retail-sales-slump-in-july-cheaper-gas-and-amazon-prime-hangover-are-the-chief-culprits-b9db8535?mod=mw_rss_topstories",
+            "summary": "Sales at U.S. retailers in July had the largest decline in 14 months. Americans spent less at gas stations due to cheaper fuel and bought less online after Amazon’s summer sales bonanza.",
+            "date": "Fri, 14 Aug 2026 13:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BILL",
+            "stock_ticker": "RETL",
             "impact": "Neutral"
         }
     ]
