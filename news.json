@@ -1,59 +1,35 @@
 {
-    "date": "2026-08-14",
+    "date": "2026-08-15",
     "news": [
         {
-            "title": "‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands",
-            "link": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html",
-            "summary": "Japan protested Vladimir Putin’s first visit to the disputed Kuril Islands. The visit escalated tensions over territory claimed by both Tokyo and Moscow.",
-            "date": "Fri, 14 Aug 2026 12:28:54 GMT",
+            "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
+            "link": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
+            "summary": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory.",
+            "date": "Sat, 15 Aug 2026 11:00:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ABC.V",
+            "stock_ticker": "RANI3.SA",
             "impact": "Neutral"
         },
         {
-            "title": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
-            "link": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
-            "summary": "The widening price of copper between two metals exchanges is offering investors a gauge of U.S. tariff risk. The gap between the copper price on the London Metal Exchange and the New York Mercantile Exchange has widened in recent months.",
-            "date": "Fri, 14 Aug 2026 13:24:54 GMT",
+            "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+            "link": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+            "summary": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.",
+            "date": "Fri, 14 Aug 2026 21:45:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "Data breach notices have already blown past last year’s total — and AI is playing a growing role",
-            "link": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
-            "summary": "Data breaches are surging in 2026, with artificial intelligence playing a growing role in cyberattacks. 'malicious insider' incidents also on the rise.",
-            "date": "Fri, 14 Aug 2026 12:15:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DDOG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Anthropic's investor talks, Workday's stock surge, Apple's new facility and more in Morning Squawk",
-            "link": "https://www.cnbc.com/2026/08/14/5-things-to-know-before-the-market-opens.html",
-            "summary": "Here are five key things investors need to know to start the trading day. Here are four key things you should know about the U.S. stock market.",
-            "date": "Fri, 14 Aug 2026 12:17:42 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OHI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump sued over Truth Social advance access sale",
-            "link": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
-            "summary": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
-            "date": "Thu, 13 Aug 2026 00:13:21 GMT",
+            "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+            "link": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
+            "summary": "The OCC conditionally approved World Liberty Trust Co.’s national trust bank charter. That would allow the Trump family-backed firm to issue stablecoins.",
+            "date": "Fri, 14 Aug 2026 23:41:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,63 +38,87 @@
             "impact": "Neutral"
         },
         {
-            "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
-            "link": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
-            "summary": "\"She has contacted the mortgage company, but they will not discuss the mortgage’s,” her daughter says. “She has also contacted the bank, but the bank won’t talk to her about the mortgage.”",
-            "date": "Fri, 14 Aug 2026 14:01:00 GMT",
+            "title": "Berkshire adds $17 billion to Alphabet stake",
+            "link": "https://www.cnbc.com/2026/08/15/berkshire-adds-17-billion-to-alphabet-stake.html",
+            "summary": "Google parent Alphabet is now the third largest holding in Berkshire Hathaway's equity portfolio. Google parent Alphabet now third biggest holding in the company's stock portfolio.",
+            "date": "Sat, 15 Aug 2026 12:50:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUDMYR=X",
+            "stock_ticker": "BRK-B",
             "impact": "Neutral"
         },
         {
-            "title": "I have a 9-to-5 job and started dating a bartender. Can I have a future with someone who works nights?",
-            "link": "https://www.marketwatch.com/story/i-have-a-9-to-5-job-and-started-dating-a-bartender-can-i-have-a-future-with-someone-who-works-nights-500d4320?mod=mw_rss_topstories",
-            "summary": "“He usually doesn’t get off work until 4 a.m.,” his wife says of her husband. “He’s a hard worker,” she adds.",
-            "date": "Fri, 14 Aug 2026 13:48:00 GMT",
+            "title": "Between earn-nothing cash, broken long-term bonds, these are the safety trades of 2026 market",
+            "link": "https://www.cnbc.com/2026/08/15/cash-money-market-funds-bonds.html",
+            "summary": "Investors have flocked to short-term investments like ultra-short bond funds in anticipation of a stock market correction and with long-term bonds broken.",
+            "date": "Sat, 15 Aug 2026 12:30:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VOGX",
+            "stock_ticker": "^SPCRR2B5BRWUUSD",
             "impact": "Neutral"
         },
         {
-            "title": "Bond yields are at multiyear highs, yet stocks have hit fresh records. Here’s how long the defiance can last.",
-            "link": "https://www.marketwatch.com/story/rates-are-at-multiyear-highs-yet-stocks-hit-fresh-records-heres-how-long-the-defiance-may-last-b29a5d14?mod=mw_rss_topstories",
-            "summary": "The relationship between bond yields and equities has turned negative again, says LPL Financial. LPL says bond yields have fallen to levels not seen since the financial crisis in 2008.",
-            "date": "Fri, 14 Aug 2026 13:31:00 GMT",
+            "title": "Should I tap my home equity or sell stocks to build a $100,000 emergency fund?",
+            "link": "https://www.marketwatch.com/story/my-husband-and-i-are-at-odds-should-we-tap-our-home-equity-or-sell-stocks-to-build-a-100-000-emergency-fund-097d36a4?mod=mw_rss_topstories",
+            "summary": "“We have about $1.7 million invested but only around $20,000 in cash,” he says. “We’re trying to raise money for the future.”",
+            "date": "Sat, 15 Aug 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BOND",
+            "stock_ticker": "VB3.F",
             "impact": "Neutral"
         },
         {
-            "title": "Congress changed the rules around charitable giving. Do it earlier in the year to save money.",
-            "link": "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
-            "summary": "Congress changed three charitable-deduction rules this year. The most common way people give money to charities is now also probably the most expensive way.",
-            "date": "Fri, 14 Aug 2026 13:30:00 GMT",
+            "title": "AI inflation is putting even more pressure on the Fed. Could higher interest rates be next?",
+            "link": "https://www.marketwatch.com/story/ai-inflation-is-putting-even-more-pressure-on-the-fed-could-higher-interest-rates-be-next-557db399?mod=mw_rss_topstories",
+            "summary": "The Federal Reserve used to be able to count on falling prices for computers, cell phones and other high-tech stuff. That's no longer the case.",
+            "date": "Sat, 15 Aug 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NANC",
+            "stock_ticker": "AI",
             "impact": "Neutral"
         },
         {
-            "title": "Retail sales slump. Cheaper gas and an Amazon Prime hangover are the chief culprits.",
-            "link": "https://www.marketwatch.com/story/retail-sales-slump-in-july-cheaper-gas-and-amazon-prime-hangover-are-the-chief-culprits-b9db8535?mod=mw_rss_topstories",
-            "summary": "Sales at U.S. retailers in July had the largest decline in 14 months. Americans spent less at gas stations due to cheaper fuel and bought less online after Amazon’s summer sales bonanza.",
-            "date": "Fri, 14 Aug 2026 13:27:00 GMT",
+            "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend",
+            "link": "https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories",
+            "summary": "Ballerina shoes are back in style thanks in part to nostalgia. Gen Z shoppers are even pairing them with running shorts. The shoes are priced between $50 and $100.",
+            "date": "Sat, 15 Aug 2026 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RETL",
+            "stock_ticker": "ARE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "A decade of internal AI battles is finally catching up to Google",
+            "link": "https://www.marketwatch.com/story/a-decade-of-internal-ai-battles-is-finally-catching-up-to-google-7b3358a1?mod=mw_rss_topstories",
+            "summary": "DeepMind, acquired by Google in 2014, has been a cornerstone of the company’s AI strategy — and also a chronic source of organizational friction.",
+            "date": "Sat, 15 Aug 2026 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "A",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+            "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
+            "summary": "“We were advised to return the bonus and take out a home-equity loan,” he says. “We’re still in the process of getting our bonus back.”",
+            "date": "Sat, 15 Aug 2026 12:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "002355.SZ",
             "impact": "Neutral"
         }
     ]
