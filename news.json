@@ -1,71 +1,71 @@
 {
-    "date": "2026-08-16",
+    "date": "2026-08-17",
     "news": [
         {
-            "title": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
-            "link": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
-            "summary": "European markets fly under the radar when compared with larger and more liquid U.S. markets. Goldman Sachs offered to dispel some of the myths.",
-            "date": "Sun, 16 Aug 2026 09:45:45 GMT",
+            "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
+            "link": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
+            "summary": "Brockman said he doesn't think the wave of recent departures at OpenAI are 'actually that atypical' Brockman told CNBC that the recent departures are 'not that attypical'",
+            "date": "Mon, 17 Aug 2026 13:22:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VSXY",
+            "stock_ticker": "BCK.XA",
             "impact": "Neutral"
         },
         {
-            "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
-            "link": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
-            "summary": "The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn. The drawdown could also cause damage to the nation's water supplies.",
-            "date": "Sat, 15 Aug 2026 14:19:35 GMT",
+            "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
+            "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+            "summary": " Meta faces a much bigger legal test in a case being co-led by California's attorney general. Less than two weeks after a loss in New Mexico, Meta faces an even bigger legal challenge in California.",
+            "date": "Mon, 17 Aug 2026 13:23:20 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CLM",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
-            "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-            "summary": "The jump in revenue underscores the rapid growth of the Claude chatbot maker. The company is preparing for a potential blockbuster initial public offering (IPO)",
-            "date": "Sat, 15 Aug 2026 14:45:31 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ANTHROPIC39496-USD",
+            "stock_ticker": "META",
             "impact": "Neutral"
         },
         {
-            "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
-            "link": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
-            "summary": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory.",
-            "date": "Sat, 15 Aug 2026 20:38:29 GMT",
+            "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
+            "link": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
+            "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
+            "date": "Mon, 17 Aug 2026 13:17:15 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RANI3.SA",
-            "impact": "Neutral"
+            "stock_ticker": "CL=F",
+            "impact": "Bullish"
         },
         {
-            "title": "Top Wall Street analysts like these 3 dividend stocks for steady income",
-            "link": "https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
-            "summary": "Investors looking for steady income can add dividend-paying energy stocks to their portfolios. Dividends on energy stocks can provide a steady income for investors.",
-            "date": "Sun, 16 Aug 2026 11:58:15 GMT",
+            "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
+            "link": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+            "summary": "Ceasefire between U.S. and Iran is set to expire on Monday with no deal in sight. Shipping traffic in the Strait of Hormuz sank to a new low.",
+            "date": "Mon, 17 Aug 2026 12:34:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOP",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s the real reason oil prices aren’t moving higher",
-            "link": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
-            "summary": "Oil prices are not higher largely because the world does not want as much oil as it used to. That’s arguably the more troubling story.",
-            "date": "Sun, 16 Aug 2026 13:00:00 GMT",
+            "title": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last",
+            "link": "https://www.cnbc.com/2026/08/17/stock-market-volatility-vix-wall-street.html",
+            "summary": "A falling VIX points to growing investor complacency ahead of a traditionally turbulent time for markets, strategists warn. The VIX is a measure of investor confidence in the future of the U.S. stock market.",
+            "date": "Mon, 17 Aug 2026 12:41:58 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RFV.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads.",
+            "link": "https://www.marketwatch.com/story/the-ai-productivity-payoff-is-coming-here-are-20-stocks-primed-to-capture-the-gains-as-adoption-spreads-443842ac?mod=mw_rss_topstories",
+            "summary": "Goldman Sachs: Investors have focused on artificial-intelligence infrastructure plays. So far investors have been focused on infrastructure plays rather than productivity beneficiaries, it says.",
+            "date": "Mon, 17 Aug 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "The Mediterranean diet is the best out there. Here’s why Americans struggle with it.",
+            "title": "Getting diagnosed with dementia isn’t the end. It’s a time to take financial action.",
+            "link": "https://www.marketwatch.com/story/getting-diagnosed-with-dementia-isnt-the-end-its-a-time-to-take-financial-action-f52769b6?mod=mw_rss_topstories",
+            "summary": "Careful planning in the early stages of memory loss can prevent financial and estate-planning headaches later. Careful planning can help save money and time in the future.",
+            "date": "Mon, 17 Aug 2026 13:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "JOBCOIN-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The Mediterranean diet is the best one out there. Here’s why Americans struggle with it.",
             "link": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
             "summary": "It's not just about eating well. It's about cooking at home and sharing those meals with friends and family. It’s about sharing your love of food with others.",
-            "date": "Sun, 16 Aug 2026 12:00:00 GMT",
+            "date": "Mon, 17 Aug 2026 12:54:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BA",
             "impact": "Neutral"
-        },
-        {
-            "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
-            "link": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
-            "summary": ". Earnings reports from the two major retailers will show how shoppers are holding up in an era of persistent inflation. Retailers report results on Tuesday.",
-            "date": "Sun, 16 Aug 2026 11:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WMT",
-            "impact": "Bullish"
         },
         {
             "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
             "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
             "summary": "“We were advised to return the bonus and take out a home-equity loan,” he says. “We’re still in the process of getting our bonus back.”",
-            "date": "Sat, 15 Aug 2026 20:30:00 GMT",
+            "date": "Mon, 17 Aug 2026 12:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "002355.SZ",
+            "stock_ticker": "SITS",
             "impact": "Neutral"
         },
         {
-            "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
-            "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
-            "summary": "“I don’t expect my marginal tax rate to be materially different in the future,” he says. “I’m not going to change my tax rate.”",
-            "date": "Sat, 15 Aug 2026 20:00:00 GMT",
+            "title": "Investor dubbed ‘AI stock god’ had 56% of his funds in these two stocks before the July blow-up",
+            "link": "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
+            "summary": "More than three quarters of the Situational Awareness fund was betting on just five stocks, all of which were, in essence, one big bet on AI.",
+            "date": "Mon, 17 Aug 2026 12:08:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "OHI",
             "impact": "Neutral"
         }
     ]
