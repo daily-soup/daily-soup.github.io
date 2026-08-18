@@ -1,124 +1,124 @@
 {
-    "date": "2026-08-17",
+    "date": "2026-08-18",
     "news": [
         {
-            "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
-            "link": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
-            "summary": "Brockman said he doesn't think the wave of recent departures at OpenAI are 'actually that atypical' Brockman told CNBC that the recent departures are 'not that attypical'",
-            "date": "Mon, 17 Aug 2026 13:22:55 GMT",
+            "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
+            "link": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
+            "summary": "U.S. 30-year Treasury yields add over 1 basis point to trade at around 5.322%, hovering just below its highest level since 2002.",
+            "date": "Tue, 18 Aug 2026 13:13:10 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BCK.XA",
+            "stock_ticker": "45U=F",
             "impact": "Neutral"
         },
         {
-            "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
-            "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-            "summary": " Meta faces a much bigger legal test in a case being co-led by California's attorney general. Less than two weeks after a loss in New Mexico, Meta faces an even bigger legal challenge in California.",
-            "date": "Mon, 17 Aug 2026 13:23:20 GMT",
+            "title": "Disney-owned ABC files First Amendment lawsuit against FCC",
+            "link": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
+            "summary": "Disney's ABC has sued the FCC claiming its investigation and early broadcast licenses renewal are a 'retaliatory campaign' due to its programming.",
+            "date": "Tue, 18 Aug 2026 13:11:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "META",
+            "stock_ticker": "ABCL",
             "impact": "Neutral"
         },
         {
-            "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
-            "link": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
-            "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
-            "date": "Mon, 17 Aug 2026 13:17:15 GMT",
+            "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
+            "link": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
+            "summary": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines. Home Depot: Second fiscal quarter Results beat Wall St. expectations.",
+            "date": "Tue, 18 Aug 2026 11:48:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
+            "stock_ticker": "HD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United",
+            "link": "https://www.cnbc.com/2026/08/18/american-airlines-seatback-screens.html",
+            "summary": "American is trying to add more premium seating and passenger perks. The airline has fallen behind rivals Delta and United in terms of premium seating. American is also trying to attract more women to its flights.",
+            "date": "Tue, 18 Aug 2026 13:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AAL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Contrarian vs. the crowd: One trader made a massive bet against chip stocks",
+            "link": "https://www.cnbc.com/2026/08/18/contrarian-vs-the-crowd-one-trader-made-a-massive-bet-against-chip-stocks.html",
+            "summary": "The biggest single options trade in the entire market Monday was a $129 million bet against the VanEck Semiconductor ETF. The bet was made by a single investor.",
+            "date": "Tue, 18 Aug 2026 13:13:13 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "JACNX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Stocks keep shrugging off rising Treasury yields. Here’s the level that could finally trigger a selloff.",
+            "link": "https://www.marketwatch.com/story/stocks-keep-shrugging-off-rising-treasury-yields-heres-the-level-that-could-finally-trigger-a-selloff-80c1634c?mod=mw_rss_topstories",
+            "summary": "The 10-year Treasury yield continues to climb. Strategas says that ascent will be much higher before stocks start to hurt. The call of the day from Strategas is that stocks will continue to rise.",
+            "date": "Tue, 18 Aug 2026 13:06:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "PISIX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Disney sues FCC over Trump’s broadcast-license threat",
+            "link": "https://www.marketwatch.com/story/disney-sues-fcc-over-broadcast-license-threat-9fb4745d?mod=mw_rss_topstories",
+            "summary": "Disney says the Trump administration “has attacked ABC’s speech.” Disney says the stories its journalists report and the viewpoints its network programs air.",
+            "date": "Tue, 18 Aug 2026 12:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DIS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How do I deal with co-workers who constantly complain about the dumbest problems?",
+            "link": "https://www.marketwatch.com/story/how-do-i-deal-with-co-workers-who-constantly-complain-about-the-dumbest-problems-44060bc7?mod=mw_rss_topstories",
+            "summary": "“They work from home, make six figures, have a good work-life balance and can take breaks pretty much whenever they want.”",
+            "date": "Tue, 18 Aug 2026 12:56:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Home Depot revenue rises even as customers turn away from bigger projects",
+            "link": "https://www.marketwatch.com/story/home-depot-revenue-rises-even-as-customers-turn-away-from-bigger-projects-0798f7fd?mod=mw_rss_topstories",
+            "summary": "The home improvement retailer beat Wall Street estimates in its second quarter as its customers continued to take up smaller projects. The company also reported better-than-expected sales for the quarter.",
+            "date": "Tue, 18 Aug 2026 12:32:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HD",
             "impact": "Bullish"
         },
         {
-            "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
-            "link": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-            "summary": "Ceasefire between U.S. and Iran is set to expire on Monday with no deal in sight. Shipping traffic in the Strait of Hormuz sank to a new low.",
-            "date": "Mon, 17 Aug 2026 12:34:07 GMT",
+            "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+            "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+            "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies,” she says.",
+            "date": "Tue, 18 Aug 2026 12:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last",
-            "link": "https://www.cnbc.com/2026/08/17/stock-market-volatility-vix-wall-street.html",
-            "summary": "A falling VIX points to growing investor complacency ahead of a traditionally turbulent time for markets, strategists warn. The VIX is a measure of investor confidence in the future of the U.S. stock market.",
-            "date": "Mon, 17 Aug 2026 12:41:58 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RFV.F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads.",
-            "link": "https://www.marketwatch.com/story/the-ai-productivity-payoff-is-coming-here-are-20-stocks-primed-to-capture-the-gains-as-adoption-spreads-443842ac?mod=mw_rss_topstories",
-            "summary": "Goldman Sachs: Investors have focused on artificial-intelligence infrastructure plays. So far investors have been focused on infrastructure plays rather than productivity beneficiaries, it says.",
-            "date": "Mon, 17 Aug 2026 13:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Getting diagnosed with dementia isn’t the end. It’s a time to take financial action.",
-            "link": "https://www.marketwatch.com/story/getting-diagnosed-with-dementia-isnt-the-end-its-a-time-to-take-financial-action-f52769b6?mod=mw_rss_topstories",
-            "summary": "Careful planning in the early stages of memory loss can prevent financial and estate-planning headaches later. Careful planning can help save money and time in the future.",
-            "date": "Mon, 17 Aug 2026 13:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JOBCOIN-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The Mediterranean diet is the best one out there. Here’s why Americans struggle with it.",
-            "link": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
-            "summary": "It's not just about eating well. It's about cooking at home and sharing those meals with friends and family. It’s about sharing your love of food with others.",
-            "date": "Mon, 17 Aug 2026 12:54:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-            "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
-            "summary": "“We were advised to return the bonus and take out a home-equity loan,” he says. “We’re still in the process of getting our bonus back.”",
-            "date": "Mon, 17 Aug 2026 12:16:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SITS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Investor dubbed ‘AI stock god’ had 56% of his funds in these two stocks before the July blow-up",
-            "link": "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
-            "summary": "More than three quarters of the Situational Awareness fund was betting on just five stocks, all of which were, in essence, one big bet on AI.",
-            "date": "Mon, 17 Aug 2026 12:08:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OHI",
+            "stock_ticker": "MYR=X",
             "impact": "Neutral"
         }
     ]
