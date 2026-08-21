@@ -1,11 +1,23 @@
 {
-    "date": "2026-08-20",
+    "date": "2026-08-21",
     "news": [
         {
-            "title": "Treasury yields rebound, wiping out the decline following Bessent's intervention",
-            "link": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
-            "summary": "Bond yields edge higher after pulling back sharply during Wednesday's session. Bond yields edged higher after pullback sharply during Tuesday's trading session.",
-            "date": "Thu, 20 Aug 2026 13:04:26 GMT",
+            "title": "U.S., Canada near final trade deal as Trump tariff deadline looms",
+            "link": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+            "summary": "Businesses have warned that Trump's new 50% duties could cripple U.S. their sales if they take effect. Trump has said he will impose the new taxes on imports from outside the United States.",
+            "date": "Fri, 21 Aug 2026 13:32:50 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AUP=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
+            "link": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
+            "summary": "The security situation in Hormuz remains contested but the U.S. is helping oil get through the strait. The U.N. Security Council has passed a resolution calling for an end to Iran's nuclear program.",
+            "date": "Fri, 21 Aug 2026 13:26:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +26,99 @@
             "impact": "Neutral"
         },
         {
-            "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
-            "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-            "summary": "Walmart is expected to report its fiscal second-quarter earnings on Thursday. The results will offer a read on the consumer and the K-shaped economy.",
-            "date": "Thu, 20 Aug 2026 13:32:32 GMT",
+            "title": "Why some of America's biggest brands are losing ground in China",
+            "link": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
+            "summary": "Nike, Starbucks and GM have lost ground in China as domestic rivals, geopolitics and changing consumer preferences reshape the market. Nike, Starbucks, GM and GM lost ground to domestic rivals and geopolitics in China.",
+            "date": "Fri, 21 Aug 2026 11:30:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WMT",
+            "stock_ticker": "WHY.V",
             "impact": "Neutral"
         },
         {
-            "title": "How Micron's $50 billion Boise buildout is reshaping its hometown",
-            "link": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
-            "summary": "Micron's AI-fueled rise and expansion are creating jobs and wealth in Boise, Idaho. It's also adding pressure to housing, traffic and the city's identity.",
-            "date": "Thu, 20 Aug 2026 11:00:01 GMT",
+            "title": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
+            "link": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
+            "summary": "Vance: \"They felt a lot more pressure than we have\" Vance: \"What has been true over the last couple of weeks is they felt more pressure\"",
+            "date": "Fri, 21 Aug 2026 08:10:55 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump threatens 'Economic D-Day' for Iran and ‘tremendous’ consequences for its backers",
-            "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
-            "summary": "The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury. The White House says the move is part of a larger effort to rein in immigration.",
-            "date": "Thu, 20 Aug 2026 12:28:13 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
-            "link": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
-            "summary": "President Donald Trump hinted that regulation may be in the works for Hyperliquid. Interesting trading activity followed. Hyperliquid is a trading company based in the U.S.",
-            "date": "Wed, 19 Aug 2026 23:57:47 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BNZ.V",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Treasury’s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here’s its advice for investors.",
-            "link": "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
-            "summary": " Strategists Jay Barry and Jason Hunter are predicting fallout from the Treasury’s move that they see as not even needed. Barry and Hunter: “We’re going to see a lot of negative fallout.”",
-            "date": "Thu, 20 Aug 2026 13:33:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BUYB.SW",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Walmart’s stock slides as U.S. sales are hit by falling drug prices",
-            "link": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
-            "summary": "The supermarket chain reported comparable U.S. sales growth of 2.6% in its second-quarter earnings, its lowest in over six years.",
-            "date": "Thu, 20 Aug 2026 13:17:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NXH",
+            "stock_ticker": "ALI=F",
             "impact": "Bullish"
         },
         {
-            "title": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
-            "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-            "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established,” he said. “We have tried torespect the boundaries that have been established.”",
-            "date": "Thu, 20 Aug 2026 13:15:00 GMT",
+            "title": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
+            "link": "https://www.cnbc.com/2026/08/21/gold-prices-us-debt-dollar.html",
+            "summary": "Gold is rebounding as investors weigh U.S. debt concerns, a weaker dollar and stubbornly high Treasury yields. Gold rebounded as investors weighed U.N. sanctions, weaker dollar, stubbornlyhigh Treasury yields and other factors.",
+            "date": "Fri, 21 Aug 2026 13:21:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WDC",
+            "stock_ticker": "GOLD",
             "impact": "Neutral"
         },
         {
-            "title": "You’ve all heard AI is remaking the economy. Here’s how it’s changing lives — for better or worse.",
-            "link": "https://www.marketwatch.com/story/youve-all-heard-ai-is-remaking-the-economy-heres-how-its-changing-lives-for-better-or-worse-447bd086?mod=mw_rss_topstories",
-            "summary": " AI, not Trump, is the big mover of the economy, this analyst says. And it's just going to get bigger, he says.",
-            "date": "Thu, 20 Aug 2026 13:00:00 GMT",
+            "title": "Nvidia earnings could rescue a stalled-out stock market — if the AI chip maker breaks this trend",
+            "link": "https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories",
+            "summary": "Shares of Jensen Huang’s company have struggled to make headway since its previous results day. Jensen Huang is the founder and CEO of the company.",
+            "date": "Fri, 21 Aug 2026 13:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ALL",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "Want to bet on the bond rally? Check out these overlooked funds.",
-            "link": "https://www.marketwatch.com/story/want-to-bet-on-the-bond-rally-check-out-these-overlooked-funds-15e957a2?mod=mw_rss_topstories",
-            "summary": "The Treasury just sparked a bond-market rally. Here is why it may not last. The U.S. is the largest economy in the world. It has the highest debt burden.",
-            "date": "Thu, 20 Aug 2026 12:38:00 GMT",
+            "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
+            "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
+            "summary": "“There is a lot of legal and financial power in my hands,” he says. “There are a number of things I can do with my power.”",
+            "date": "Fri, 21 Aug 2026 13:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TPY=F",
+            "stock_ticker": "FBDT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘It’s truly a tragedy’: My daughter hasn’t spoken to me for 4 years, but it has nothing to do with politics",
+            "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+            "summary": "“You’ll have to trust me when I tell you that she had love, support and opportunities,” she says.",
+            "date": "Fri, 21 Aug 2026 13:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ITSA4.SA",
+            "impact": "Bullish"
+        },
+        {
+            "title": "I need to get out of my job. Can I leave for a competitor if I’ve signed a non-compete?",
+            "link": "https://www.marketwatch.com/story/i-need-to-get-out-of-my-job-can-i-leave-for-a-competitor-if-ive-signed-a-non-compete-33d3164b?mod=mw_rss_topstories",
+            "summary": "“I’ve been unhappy for a while. I’m not happy,” he says. “I don’t know what to do.”",
+            "date": "Fri, 21 Aug 2026 13:07:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FBDT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bitcoin on track for best week in more than two years. Can this mean the next crypto bull market has arrived?",
+            "link": "https://www.marketwatch.com/story/bitcoin-on-track-for-best-week-in-more-than-two-years-has-the-next-crypto-bull-market-arrived-0181180c?mod=mw_rss_topstories",
+            "summary": "One analyst says investors should be careful in trying to guess a bottom for the crypto. Is bitcoin ready to move on after a lengthy slump?",
+            "date": "Fri, 21 Aug 2026 13:01:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BTC-USD",
             "impact": "Neutral"
         }
     ]
