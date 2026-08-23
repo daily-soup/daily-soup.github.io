@@ -1,16 +1,40 @@
 {
-    "date": "2026-08-22",
+    "date": "2026-08-23",
     "news": [
         {
-            "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
-            "link": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
-            "summary": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.",
-            "date": "Sat, 22 Aug 2026 12:12:03 GMT",
+            "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
+            "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
+            "summary": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview. Kirby talked about proposed airline megadeals, AI and the future of the carrier.",
+            "date": "Sun, 23 Aug 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "META",
+            "stock_ticker": "AAGFF",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
+            "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+            "summary": "Citigroup and Wells Fargo have room to buy a big regional bank. Regulators have opened the door to megadeals. Five regional banks make sense as targets.",
+            "date": "Sun, 23 Aug 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WFC",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+            "link": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+            "summary": "President Donald Trump disclosed just over 1,000 financial transactions in the month of June in what appears to be broad reshuffling of his portfolio.",
+            "date": "Sat, 22 Aug 2026 18:57:46 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
@@ -26,99 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
-            "link": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
-            "summary": "Treasury Secretary Scott Bessent says proposed economic measures will likely negate the need for major U.S. military operations. He told CNBC on Thursday that the proposed measures are likely to be implemented within weeks.",
-            "date": "Sat, 22 Aug 2026 10:34:23 GMT",
+            "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+            "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+            "summary": "The U.S. and Canada failed to reach a deal on Friday. New 50% Trump administration tariffs on some Canadian exports went into place.",
+            "date": "Sun, 23 Aug 2026 06:39:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DE000SL0CG95.SG",
+            "stock_ticker": "AS",
             "impact": "Neutral"
         },
         {
-            "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-            "link": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-            "summary": "Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.",
-            "date": "Fri, 21 Aug 2026 22:03:39 GMT",
+            "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
+            "link": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
+            "summary": "N Nvidia is due to report earnings on Wednesday. The chip giant represents \"a very broad universe of companies,\" CEO says. Nvidia is one of the most popular chip makers in the world.",
+            "date": "Sun, 23 Aug 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ANTHROPIC39496-USD",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Warren Buffett Watch: It's Buffett, not Abel, who appears to be calling the shots on stocks",
-            "link": "https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html",
-            "summary": "New Berkshire Hathaway CEO Greg Abel appears to be letting Warren Buffett and portfolio manager Ted Weschler make all the decisions on the company's equities.",
-            "date": "Sat, 22 Aug 2026 12:06:37 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PWR.XA",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
-            "link": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
-            "summary": "“I’d love for our son to be able to attend college without needing to take out student loans,” she says.",
-            "date": "Sat, 22 Aug 2026 13:01:00 GMT",
+            "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
+            "link": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
+            "summary": "“The last adviser we worked with lost a significant portion of our portfolio,” he says. “We’re looking for a new adviser. We’ve lost a lot of money.”",
+            "date": "Sun, 23 Aug 2026 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OBAI",
+            "stock_ticker": "HOWL",
             "impact": "Neutral"
         },
         {
-            "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
-            "link": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories",
-            "summary": "Treasury Department said it planned to double its bond buybacks. Cryptocurrencies and precious metals shot higher, while the U.S. dollar weakened.",
-            "date": "Sat, 22 Aug 2026 13:00:00 GMT",
+            "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
+            "link": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
+            "summary": "The bond market appears to be telling Treasury Secretary Scott Bessent. You can't just sweep $40 trillion in U.S. national debt under a rug and forget about it.",
+            "date": "Sun, 23 Aug 2026 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "301218.SZ",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "Move over, credit cards: Social-media stars are tapping magic wands to buy things",
-            "link": "https://www.marketwatch.com/story/move-over-credit-cards-social-media-stars-are-tapping-magic-wands-to-buy-things-62e475d4?mod=mw_rss_topstories",
-            "summary": "Tap-to-pay is getting a TikTok makeover as shoppers turn checking out into a personalized accessory. TikTok is a mobile app that allows users to pay by tapping a button on their phone.",
-            "date": "Sat, 22 Aug 2026 12:30:00 GMT",
+            "title": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
+            "link": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
+            "summary": "A look at how one woman is changing her life as she goes from the “go-go’ years to the ‘slow-go' years.",
+            "date": "Sun, 23 Aug 2026 12:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MOVE",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
-            "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-            "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established,” he said. “We have tried torespect the boundaries that have been established.”",
-            "date": "Sat, 22 Aug 2026 12:00:00 GMT",
+            "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+            "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+            "summary": "“The cost is absolutely ridiculous,” he says. “It’s absolutely ridiculous.” “I don’t know what else to do,’ he adds. � “We’ve got to do something.’",
+            "date": "Sun, 23 Aug 2026 11:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WDC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
-            "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
-            "summary": "“Grandma feels that she was pressured by my mother into taking out a $50,000 HELOC,” she said.",
-            "date": "Sat, 22 Aug 2026 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MAY-USD",
+            "stock_ticker": "SHE",
             "impact": "Neutral"
         }
     ]
