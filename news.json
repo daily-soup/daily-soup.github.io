@@ -1,35 +1,95 @@
 {
-    "date": "2026-08-28",
+    "date": "2026-08-29",
     "news": [
         {
-            "title": "Bessent attacks Warren over yen intervention query, offers ‘Foreign Exchange for Dummies’ lesson",
-            "link": "https://www.cnbc.com/2026/08/28/bessent-warren-yen-intervention-treasury-japan.html",
-            "summary": "The U.S. Treasury has not disclosed how much yen it bought, the execution rate or the current value of the position, despite Warren’s requests for details.",
-            "date": "Fri, 28 Aug 2026 20:31:58 GMT",
+            "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+            "link": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+            "summary": "The tech backlash is gaining steam. With data center concerns becoming a major election issue. Meta reaching a landmark settlement in a social media case.",
+            "date": "Sat, 29 Aug 2026 12:16:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "PWR.AX",
+            "stock_ticker": "TECH",
             "impact": "Neutral"
         },
         {
-            "title": "Corn and wheat prices jump to highest prices in more than three years",
-            "link": "https://www.cnbc.com/2026/08/28/corn-and-wheat-prices-jump-to-highest-prices-in-more-than-three-years.html",
-            "summary": "Corn and wheat futures have surged to their highest levels in more than three years. But the reasons for these recent rallies are notably different.",
-            "date": "Fri, 28 Aug 2026 20:00:56 GMT",
+            "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+            "link": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+            "summary": "The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post.",
+            "date": "Fri, 28 Aug 2026 23:42:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CORN",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Stock traders warm up to Warsh as volatility index touches year-to-date low",
-            "link": "https://www.cnbc.com/2026/08/28/stock-traders-warm-up-to-warsh-as-volatility-index-touches-year-to-date-low.html",
-            "summary": "The Cboe Volatility Index (VIX), which measures the price of 30-day options on the S&amp;P 500 Index, fell to as low as 14.1.",
-            "date": "Fri, 28 Aug 2026 19:35:09 GMT",
+            "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
+            "link": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
+            "summary": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated, experts say.",
+            "date": "Sat, 29 Aug 2026 12:22:50 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "XTER",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar",
+            "link": "https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html",
+            "summary": "Iran's supreme leader urges less reliance on the U.S. dollar. Iran's president says sanctions are hitting imports and exports, as its supreme leader says it's time to diversify.",
+            "date": "Sat, 29 Aug 2026 12:08:08 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RANI3.SA",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Buffett remains active at 96, but Berkshire's shares aren't doing much",
+            "link": "https://www.cnbc.com/2026/08/29/buffett-remains-active-at-96-but-berkshires-shares-arent-doing-much.html",
+            "summary": "Warren Buffett will celebrate his 96th birthday on Sunday. Berkshire Hathaway investors aren't celebrating the stock's anemic performance. The stock is down more than 10% this year.",
+            "date": "Sat, 29 Aug 2026 11:53:36 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BUFD.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+            "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+            "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year,” he says.",
+            "date": "Sat, 29 Aug 2026 16:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
+            "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+            "summary": "\"These shares are the only assets in her estate without designated beneficiaries,\" her estate says. \"They are her only assets,\" the estate adds.",
+            "date": "Sat, 29 Aug 2026 16:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
+            "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+            "summary": "“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it,” she says.",
+            "date": "Sat, 29 Aug 2026 15:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,87 +98,27 @@
             "impact": "Neutral"
         },
         {
-            "title": "Apple hikes subscription prices for Apple TV and Apple One in the U.S.",
-            "link": "https://www.cnbc.com/2026/08/28/apple-tv-one-price-hike-us.html",
-            "summary": "Apple raised prices for Apple Music by $1 per month in July. The company cited licensing costs as the reason for the increase. Apple Music costs $9.99 per month to subscribe to.",
-            "date": "Fri, 28 Aug 2026 19:09:34 GMT",
+            "title": "Why would someone lock up money by rolling it into a 401(k)?",
+            "link": "https://www.marketwatch.com/story/why-would-someone-lock-up-money-by-rolling-it-into-a-401-k-2c742e90?mod=mw_rss_topstories",
+            "summary": "When done right, rollovers can be a great tool. When done right they can also be a very dangerous tool. The right rollover can be the difference between life and death for a player.",
+            "date": "Sat, 29 Aug 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAPL",
+            "stock_ticker": "WHYRF",
             "impact": "Neutral"
         },
         {
-            "title": "Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes",
-            "link": "https://www.cnbc.com/2026/08/28/mark-walter-delaware-life-truist-fifth-third-banks.html",
-            "summary": "Walter's holding company earlier in the week said \"there has been no fraud\" at Delaware Life and its affiliated company, Clear Spring Life and Annuity.",
-            "date": "Fri, 28 Aug 2026 20:42:07 GMT",
+            "title": "5 affordable cities to retire in the U.S. right now",
+            "link": "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
+            "summary": "You don't have to leave the country to find an affordable place that matches your retirement vision. You don’t have to move to find a place to retire.",
+            "date": "Sat, 29 Aug 2026 12:50:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MARK",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
-            "link": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
-            "summary": "“I’m curious what would happen if the account owner were to die suddenly at the same time as the 98% beneficiary,” he says.",
-            "date": "Fri, 28 Aug 2026 22:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "A",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Microsoft’s stock seals its longest winning streak of the year as AI software fears fade",
-            "link": "https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b?mod=mw_rss_topstories",
-            "summary": "Microsoft’s software offers capabilities that will be critical for AI, one analyst notes. Microsoft’S software will be key for AI in the future, analyst says.",
-            "date": "Fri, 28 Aug 2026 21:34:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "XLAB",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
-            "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-            "summary": "“We are hurt and confused, but we have also tried to respect the boundaries they have established,” he said. “We have tried torespect the boundaries that have been established.”",
-            "date": "Fri, 28 Aug 2026 21:31:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WDC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Nvidia’s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
-            "link": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
-            "summary": " SpaceX plans to spend tons of money on chips and recently announced it will only buy Nvidia’s. But other high-profile companies need more processing power as well.",
-            "date": "Fri, 28 Aug 2026 20:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "^714550-USD-STRD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
-            "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
-            "summary": "“I specifically rejected Contractor A because of his reputation,” she said. “I’m not going to let him get away with anything.”",
-            "date": "Fri, 28 Aug 2026 20:45:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AUDMYR=X",
+            "stock_ticker": "YM=F",
             "impact": "Neutral"
         }
     ]
