@@ -1,23 +1,47 @@
 {
-    "date": "2026-08-29",
+    "date": "2026-08-30",
     "news": [
         {
-            "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
-            "link": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
-            "summary": "The tech backlash is gaining steam. With data center concerns becoming a major election issue. Meta reaching a landmark settlement in a social media case.",
-            "date": "Sat, 29 Aug 2026 12:16:03 GMT",
+            "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
+            "link": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
+            "summary": "Retailers have diverged on how they've reported tariff refunds in their earnings this quarter. Some chose to lower prices and others boosted margins.",
+            "date": "Sun, 30 Aug 2026 12:00:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TECH",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
-            "link": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
-            "summary": "The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post.",
-            "date": "Fri, 28 Aug 2026 23:42:26 GMT",
+            "title": "He beat Big Tobacco. Will the same playbook work against Meta and social media?",
+            "link": "https://www.cnbc.com/2026/08/30/mike-moore-ag-social-media-settlement-big-tobacco.html",
+            "summary": "Mike Moore beat Big Tobacco. Will the same playbook work against Meta and social media? Will social media be able to compete with Moore's brand of politics?",
+            "date": "Sun, 30 Aug 2026 15:48:10 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
+            "link": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
+            "summary": "Iceland voted 52.8% to 47.2% against reopening talks to join the European Union. Icelanders voted against opening talks to the EU by a majority of 52 to 47%.",
+            "date": "Sun, 30 Aug 2026 12:32:44 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GBPTOP=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials",
+            "link": "https://www.cnbc.com/2026/08/30/trump-nbc-election-comment-treasury-g20-reporter-access.html",
+            "summary": "Trump's attack on NBC comes after the Treasury barred journalists from The New York Times, The Wall Street Journal and Bloomberg from attending the G20.",
+            "date": "Sun, 30 Aug 2026 16:55:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,70 +50,22 @@
             "impact": "Neutral"
         },
         {
-            "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
-            "link": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
-            "summary": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated, experts say.",
-            "date": "Sat, 29 Aug 2026 12:22:50 GMT",
+            "title": "What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals",
+            "link": "https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html",
+            "summary": "When the U.S.-Canada trade war erupted, the market repriced metals and materials stocks and ETFs. But longer-term investors should be wary.",
+            "date": "Sun, 30 Aug 2026 13:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XTER",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar",
-            "link": "https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html",
-            "summary": "Iran's supreme leader urges less reliance on the U.S. dollar. Iran's president says sanctions are hitting imports and exports, as its supreme leader says it's time to diversify.",
-            "date": "Sat, 29 Aug 2026 12:08:08 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RANI3.SA",
+            "stock_ticker": "WIT30946-USD",
             "impact": "Bullish"
-        },
-        {
-            "title": "Buffett remains active at 96, but Berkshire's shares aren't doing much",
-            "link": "https://www.cnbc.com/2026/08/29/buffett-remains-active-at-96-but-berkshires-shares-arent-doing-much.html",
-            "summary": "Warren Buffett will celebrate his 96th birthday on Sunday. Berkshire Hathaway investors aren't celebrating the stock's anemic performance. The stock is down more than 10% this year.",
-            "date": "Sat, 29 Aug 2026 11:53:36 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BUFD.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
-            "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-            "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year,” he says.",
-            "date": "Sat, 29 Aug 2026 16:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
-            "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
-            "summary": "\"These shares are the only assets in her estate without designated beneficiaries,\" her estate says. \"They are her only assets,\" the estate adds.",
-            "date": "Sat, 29 Aug 2026 16:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
         },
         {
             "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
             "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
             "summary": "“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it,” she says.",
-            "date": "Sat, 29 Aug 2026 15:31:00 GMT",
+            "date": "Sun, 30 Aug 2026 16:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "Why would someone lock up money by rolling it into a 401(k)?",
-            "link": "https://www.marketwatch.com/story/why-would-someone-lock-up-money-by-rolling-it-into-a-401-k-2c742e90?mod=mw_rss_topstories",
-            "summary": "When done right, rollovers can be a great tool. When done right they can also be a very dangerous tool. The right rollover can be the difference between life and death for a player.",
-            "date": "Sat, 29 Aug 2026 13:00:00 GMT",
+            "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
+            "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+            "summary": "\"These shares are the only assets in her estate without designated beneficiaries,\" her estate says. \"They are her only assets,\" the estate adds.",
+            "date": "Sun, 30 Aug 2026 14:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYRF",
+            "stock_ticker": "AUDMYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "5 affordable cities to retire in the U.S. right now",
-            "link": "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
-            "summary": "You don't have to leave the country to find an affordable place that matches your retirement vision. You don’t have to move to find a place to retire.",
-            "date": "Sat, 29 Aug 2026 12:50:00 GMT",
+            "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
+            "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
+            "summary": "“I specifically rejected Contractor A because of his reputation,” she said. “I’m not going to let him get away with anything.”",
+            "date": "Sun, 30 Aug 2026 14:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "YM=F",
+            "stock_ticker": "AUDMYR=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
+            "link": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
+            "summary": "“I’m curious what would happen if the account owner were to die suddenly at the same time as the 98% beneficiary,” he says.",
+            "date": "Sun, 30 Aug 2026 13:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "A",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+            "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+            "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year,” he says.",
+            "date": "Sun, 30 Aug 2026 13:01:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AM",
             "impact": "Neutral"
         }
     ]
