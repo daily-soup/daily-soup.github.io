@@ -1,47 +1,11 @@
 {
-    "date": "2026-08-30",
+    "date": "2026-08-31",
     "news": [
         {
-            "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
-            "link": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
-            "summary": "Retailers have diverged on how they've reported tariff refunds in their earnings this quarter. Some chose to lower prices and others boosted margins.",
-            "date": "Sun, 30 Aug 2026 12:00:02 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "He beat Big Tobacco. Will the same playbook work against Meta and social media?",
-            "link": "https://www.cnbc.com/2026/08/30/mike-moore-ag-social-media-settlement-big-tobacco.html",
-            "summary": "Mike Moore beat Big Tobacco. Will the same playbook work against Meta and social media? Will social media be able to compete with Moore's brand of politics?",
-            "date": "Sun, 30 Aug 2026 15:48:10 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
-            "link": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
-            "summary": "Iceland voted 52.8% to 47.2% against reopening talks to join the European Union. Icelanders voted against opening talks to the EU by a majority of 52 to 47%.",
-            "date": "Sun, 30 Aug 2026 12:32:44 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GBPTOP=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials",
-            "link": "https://www.cnbc.com/2026/08/30/trump-nbc-election-comment-treasury-g20-reporter-access.html",
-            "summary": "Trump's attack on NBC comes after the Treasury barred journalists from The New York Times, The Wall Street Journal and Bloomberg from attending the G20.",
-            "date": "Sun, 30 Aug 2026 16:55:14 GMT",
+            "title": "Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon",
+            "link": "https://www.cnbc.com/2026/08/31/trump-venezuela-oil-gas-price.html",
+            "summary": "The U.S. secured majority control over 65 billion barrels of Venezuela's proven oil reserves. President Donald Trump announced Friday that the U.N. Security Council had approved a deal to sell the country's oil reserves to the United States.",
+            "date": "Mon, 31 Aug 2026 19:05:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,34 +14,70 @@
             "impact": "Neutral"
         },
         {
-            "title": "What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals",
-            "link": "https://www.cnbc.com/2026/08/30/us-canada-trade-war-tariffs-steel-aluminum-metals-economy.html",
-            "summary": "When the U.S.-Canada trade war erupted, the market repriced metals and materials stocks and ETFs. But longer-term investors should be wary.",
-            "date": "Sun, 30 Aug 2026 13:00:01 GMT",
+            "title": "FTC sues Amazon, accusing the e-commerce giant of misleading advertisers",
+            "link": "https://www.cnbc.com/2026/08/31/amazon-ftc-lawsuit-advertisers.html",
+            "summary": "The FTC sued Amazon, alleging the company misled advertisers through a deceptive auctioning system. The FTC is seeking to have the case thrown out of court.",
+            "date": "Mon, 31 Aug 2026 19:11:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WIT30946-USD",
+            "stock_ticker": "FTC",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bessent pushes back on Druckenmiller critique of bond intervention",
+            "link": "https://www.cnbc.com/2026/08/31/bessent-druckenmiller-bond-treasury-g20.html",
+            "summary": "Bessent says he spoke with Druckenmiller after his op-ed was published. He says their conversation went \"fine\"",
+            "date": "Mon, 31 Aug 2026 18:41:12 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BACK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up",
+            "link": "https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html",
+            "summary": "The expectation had been for falling rates this year, but the war with Iran and its resulting rise in oil prices upended that. The expectation was that rates would fall this year.",
+            "date": "Mon, 31 Aug 2026 18:53:36 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FNMA",
             "impact": "Bullish"
         },
         {
-            "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
-            "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
-            "summary": "“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it,” she says.",
-            "date": "Sun, 30 Aug 2026 16:30:00 GMT",
+            "title": "Risk-reward outlook for stocks is getting worse as historically tough month kicks off, says Citadel",
+            "link": "https://www.cnbc.com/2026/08/31/risk-reward-outlook-for-stocks-is-getting-worse-says-citadel.html",
+            "summary": "The risk-reward of buying protection in the equity market looks compelling. The risk is that the market will fall back on its fears. But the risk is lower than the reward.",
+            "date": "Mon, 31 Aug 2026 19:09:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XLAB",
+            "stock_ticker": "OTLK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and more",
+            "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
+            "summary": "A slew of fan-favorite shows are returning for new seasons. Apple's 'Slow Horses' and Netflix's 'The Gentlemen' are among them.",
+            "date": "Mon, 31 Aug 2026 19:11:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "UPDOG-USD",
             "impact": "Neutral"
         },
         {
             "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
             "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
             "summary": "\"These shares are the only assets in her estate without designated beneficiaries,\" her estate says. \"They are her only assets,\" the estate adds.",
-            "date": "Sun, 30 Aug 2026 14:30:00 GMT",
+            "date": "Mon, 31 Aug 2026 19:01:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,10 +86,10 @@
             "impact": "Neutral"
         },
         {
-            "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
-            "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
-            "summary": "“I specifically rejected Contractor A because of his reputation,” she said. “I’m not going to let him get away with anything.”",
-            "date": "Sun, 30 Aug 2026 14:00:00 GMT",
+            "title": "My friend is charging everyone $80 to attend her 30th birthday party. She says it’s to cover the open bar. Is it rude to not go?",
+            "link": "https://www.marketwatch.com/story/my-friend-is-charging-everyone-80-to-attend-her-30th-birthday-party-she-says-its-to-cover-the-open-bar-is-it-rude-to-not-go-d60b3b5b?mod=mw_rss_topstories",
+            "summary": "“I think she would take it personally if I didn’t attend,” he says of his wife. “I’m not going to let her down.”",
+            "date": "Mon, 31 Aug 2026 18:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +98,27 @@
             "impact": "Neutral"
         },
         {
-            "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
-            "link": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
-            "summary": "“I’m curious what would happen if the account owner were to die suddenly at the same time as the 98% beneficiary,” he says.",
-            "date": "Sun, 30 Aug 2026 13:30:00 GMT",
+            "title": "Tesla’s stock is leading S&P 500 gainers as investors prepare for a Cybercab launch",
+            "link": "https://www.marketwatch.com/story/teslas-stock-is-leading-s-p-500-gainers-as-investors-prepare-for-a-cybercab-launch-f23a0d52?mod=mw_rss_topstories",
+            "summary": "The company is seemingly getting closer to rolling out a vehicle that comes without a steering wheel or pedals. The company is reportedly getting close to a release date for the vehicle.",
+            "date": "Mon, 31 Aug 2026 18:41:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
+            "stock_ticker": "SSPCX=F",
             "impact": "Neutral"
         },
         {
-            "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
-            "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-            "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year,” he says.",
-            "date": "Sun, 30 Aug 2026 13:01:00 GMT",
+            "title": "Trump to meet with oil execs about cutting gas prices, as his Venezuelan SPR plan faces skepticism",
+            "link": "https://www.marketwatch.com/story/trump-to-meet-with-oil-execs-about-cutting-gas-prices-as-his-venezuelan-spr-plan-faces-skepticism-d8113b17?mod=mw_rss_topstories",
+            "summary": "The president and his fellow Republicans look set to focus on affordability as the midterms near. The GOP is expected to make a big push on the issue in the coming weeks.",
+            "date": "Mon, 31 Aug 2026 18:34:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AM",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         }
     ]
