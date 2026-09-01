@@ -1,11 +1,35 @@
 {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "news": [
         {
-            "title": "Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon",
-            "link": "https://www.cnbc.com/2026/08/31/trump-venezuela-oil-gas-price.html",
-            "summary": "The U.S. secured majority control over 65 billion barrels of Venezuela's proven oil reserves. President Donald Trump announced Friday that the U.N. Security Council had approved a deal to sell the country's oil reserves to the United States.",
-            "date": "Mon, 31 Aug 2026 19:05:21 GMT",
+            "title": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom",
+            "link": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
+            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
+            "date": "Tue, 01 Sep 2026 16:59:54 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HRC=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
+            "link": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
+            "summary": "Treasury yields increase on Tuesday as investors monitored a reignition of tensions in the Middle East. Treasury yields increase as investors monitor a reignited Middle East tensions.",
+            "date": "Tue, 01 Sep 2026 17:01:45 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ZN=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
+            "link": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
+            "summary": "Canadian Prime Minister Mark Carney said, \"It's beneath their office' when asked about Trump Cabinet secretaries insulting his nation's military. Carney was responding to a question from CNN's John D. Sutter.",
+            "date": "Tue, 01 Sep 2026 16:02:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +38,87 @@
             "impact": "Neutral"
         },
         {
-            "title": "FTC sues Amazon, accusing the e-commerce giant of misleading advertisers",
-            "link": "https://www.cnbc.com/2026/08/31/amazon-ftc-lawsuit-advertisers.html",
-            "summary": "The FTC sued Amazon, alleging the company misled advertisers through a deceptive auctioning system. The FTC is seeking to have the case thrown out of court.",
-            "date": "Mon, 31 Aug 2026 19:11:38 GMT",
+            "title": "AI token prices are hitting new record lows",
+            "link": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
+            "summary": "A closely followed measure of artificial intelligence token prices touched fresh lows. A closely followed measures of artificial AI token prices touch fresh lows in New York.",
+            "date": "Tue, 01 Sep 2026 17:02:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FTC",
+            "stock_ticker": "AI",
             "impact": "Neutral"
         },
         {
-            "title": "Bessent pushes back on Druckenmiller critique of bond intervention",
-            "link": "https://www.cnbc.com/2026/08/31/bessent-druckenmiller-bond-treasury-g20.html",
-            "summary": "Bessent says he spoke with Druckenmiller after his op-ed was published. He says their conversation went \"fine\"",
-            "date": "Mon, 31 Aug 2026 18:41:12 GMT",
+            "title": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
+            "link": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+            "summary": "John Ternus' first day as Apple CEO comes at a critical juncture for the iPhone maker, with memory prices soaring and AI challenges looming.",
+            "date": "Tue, 01 Sep 2026 16:27:54 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BACK",
+            "stock_ticker": "AAPL",
             "impact": "Neutral"
         },
         {
-            "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up",
-            "link": "https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html",
-            "summary": "The expectation had been for falling rates this year, but the war with Iran and its resulting rise in oil prices upended that. The expectation was that rates would fall this year.",
-            "date": "Mon, 31 Aug 2026 18:53:36 GMT",
+            "title": "There’s a disconnect between AI valuations and revenue-growth forecasts, observes this investor",
+            "link": "https://www.marketwatch.com/story/theres-a-disconnect-between-ai-valuations-and-revenue-growth-forecasts-observes-this-investor-1350d9f7?mod=mw_rss_topstories",
+            "summary": "Well-known investor, academic and economist Paul Kedrosky is skeptical that this AI bubble differs markedly from that which met other new and revolutionary technologies.",
+            "date": "Tue, 01 Sep 2026 14:52:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FNMA",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Risk-reward outlook for stocks is getting worse as historically tough month kicks off, says Citadel",
-            "link": "https://www.cnbc.com/2026/08/31/risk-reward-outlook-for-stocks-is-getting-worse-says-citadel.html",
-            "summary": "The risk-reward of buying protection in the equity market looks compelling. The risk is that the market will fall back on its fears. But the risk is lower than the reward.",
-            "date": "Mon, 31 Aug 2026 19:09:07 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OTLK",
+            "stock_ticker": "MAY-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and more",
-            "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
-            "summary": "A slew of fan-favorite shows are returning for new seasons. Apple's 'Slow Horses' and Netflix's 'The Gentlemen' are among them.",
-            "date": "Mon, 31 Aug 2026 19:11:00 GMT",
+            "title": "Are rising bond rates really so bad? Maybe not, say these experts.",
+            "link": "https://www.marketwatch.com/story/are-rising-bond-rates-really-so-bad-maybe-not-say-these-exports-1af9e683?mod=mw_rss_topstories",
+            "summary": "The near-zero interest rates that characterized the decade after the global financil crisis were a sign of economic dysfunction. Higher rates reflect a stronger demand for capital and robust economic growth.",
+            "date": "Tue, 01 Sep 2026 14:42:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "UPDOG-USD",
+            "stock_ticker": "ARE",
             "impact": "Neutral"
         },
         {
-            "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
-            "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
-            "summary": "\"These shares are the only assets in her estate without designated beneficiaries,\" her estate says. \"They are her only assets,\" the estate adds.",
-            "date": "Mon, 31 Aug 2026 19:01:00 GMT",
+            "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+            "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+            "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year,” he says.",
+            "date": "Tue, 01 Sep 2026 14:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUDMYR=X",
+            "stock_ticker": "AM",
             "impact": "Neutral"
         },
         {
-            "title": "My friend is charging everyone $80 to attend her 30th birthday party. She says it’s to cover the open bar. Is it rude to not go?",
-            "link": "https://www.marketwatch.com/story/my-friend-is-charging-everyone-80-to-attend-her-30th-birthday-party-she-says-its-to-cover-the-open-bar-is-it-rude-to-not-go-d60b3b5b?mod=mw_rss_topstories",
-            "summary": "“I think she would take it personally if I didn’t attend,” he says of his wife. “I’m not going to let her down.”",
-            "date": "Mon, 31 Aug 2026 18:55:00 GMT",
+            "title": "Get over your fear of haggling — and start saving real money",
+            "link": "https://www.marketwatch.com/story/get-over-your-fear-of-haggling-and-start-saving-real-money-5c215dc8?mod=mw_rss_topstories",
+            "summary": "If you ask for a lower price on something, the worst they can do is say no. If you want to get something for less, you have to ask for it.",
+            "date": "Tue, 01 Sep 2026 14:10:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AUDMYR=X",
+            "stock_ticker": "GETY",
             "impact": "Neutral"
         },
         {
-            "title": "Tesla’s stock is leading S&P 500 gainers as investors prepare for a Cybercab launch",
-            "link": "https://www.marketwatch.com/story/teslas-stock-is-leading-s-p-500-gainers-as-investors-prepare-for-a-cybercab-launch-f23a0d52?mod=mw_rss_topstories",
-            "summary": "The company is seemingly getting closer to rolling out a vehicle that comes without a steering wheel or pedals. The company is reportedly getting close to a release date for the vehicle.",
-            "date": "Mon, 31 Aug 2026 18:41:00 GMT",
+            "title": "Global oil prices surge above $92  a barrel after report of strikes on two tankers in the Strait of Hormuz",
+            "link": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
+            "summary": "U.S. and international oil benchmarks are at their highest levels in almost two weeks. Both the U.S.- and international-based oil benchmarks were up more than 2%.",
+            "date": "Tue, 01 Sep 2026 13:56:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SSPCX=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump to meet with oil execs about cutting gas prices, as his Venezuelan SPR plan faces skepticism",
-            "link": "https://www.marketwatch.com/story/trump-to-meet-with-oil-execs-about-cutting-gas-prices-as-his-venezuelan-spr-plan-faces-skepticism-d8113b17?mod=mw_rss_topstories",
-            "summary": "The president and his fellow Republicans look set to focus on affordability as the midterms near. The GOP is expected to make a big push on the issue in the coming weeks.",
-            "date": "Mon, 31 Aug 2026 18:34:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "HWGV",
             "impact": "Neutral"
         }
     ]
