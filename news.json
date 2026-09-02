@@ -1,35 +1,35 @@
 {
-    "date": "2026-09-01",
+    "date": "2026-09-02",
     "news": [
         {
-            "title": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom",
-            "link": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
-            "summary": "No description available. No description available for this model. For more information on this model, please visit: www.cruiseworld.com/cruisemodel.",
-            "date": "Tue, 01 Sep 2026 16:59:54 GMT",
+            "title": "New York Fed's Williams says yield surge due to strong economic prospects",
+            "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+            "summary": "The central bank policymaker in a CNBC interview did not commit on whether he thinks an interest rate hike is necessary. He did not say whether he thought a rate hike was necessary.",
+            "date": "Wed, 02 Sep 2026 15:56:13 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "6N=F",
             "impact": "Neutral"
         },
         {
-            "title": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
-            "link": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
-            "summary": "Treasury yields increase on Tuesday as investors monitored a reignition of tensions in the Middle East. Treasury yields increase as investors monitor a reignited Middle East tensions.",
-            "date": "Tue, 01 Sep 2026 17:01:45 GMT",
+            "title": "Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday",
+            "link": "https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html",
+            "summary": "The Energy secretary spoke to CNBC's Brian Sullivan in Venezuela on Wednesday. President Donald Trump announced a massive oil deal with Caracas. The deal is expected to be worth billions of dollars.",
+            "date": "Wed, 02 Sep 2026 15:57:08 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ZN=F",
+            "stock_ticker": "XAE=F",
             "impact": "Neutral"
         },
         {
-            "title": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
-            "link": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
-            "summary": "Canadian Prime Minister Mark Carney said, \"It's beneath their office' when asked about Trump Cabinet secretaries insulting his nation's military. Carney was responding to a question from CNN's John D. Sutter.",
-            "date": "Tue, 01 Sep 2026 16:02:24 GMT",
+            "title": "Trump floats renaming Strait of Hormuz the 'Trump Strait'",
+            "link": "https://www.cnbc.com/2026/09/02/trump-hormuz-strait-ontario-iran.html",
+            "summary": "U.S. Energy Secretary Chris Wright says more than 17 million barrels of oil transited the strait on Monday, a new wartime record.",
+            "date": "Wed, 02 Sep 2026 16:04:10 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -38,87 +38,87 @@
             "impact": "Neutral"
         },
         {
-            "title": "AI token prices are hitting new record lows",
-            "link": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
-            "summary": "A closely followed measure of artificial intelligence token prices touched fresh lows. A closely followed measures of artificial AI token prices touch fresh lows in New York.",
-            "date": "Tue, 01 Sep 2026 17:02:53 GMT",
+            "title": "Southwest to debut airport lounges in four cities, with more to come",
+            "link": "https://www.cnbc.com/2026/09/02/southwest-airport-lounges.html",
+            "summary": "The airline is partnering with Chase on the effort. It wants to build on that company's Sapphire Reserve Lounge Network. The airline is also partnering with American Airlines on the initiative.",
+            "date": "Wed, 02 Sep 2026 15:32:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "LUV",
             "impact": "Neutral"
         },
         {
-            "title": "Apple enters John Ternus era as AI challenges and memory crunch intensify",
-            "link": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
-            "summary": "John Ternus' first day as Apple CEO comes at a critical juncture for the iPhone maker, with memory prices soaring and AI challenges looming.",
-            "date": "Tue, 01 Sep 2026 16:27:54 GMT",
+            "title": "Trump to meet with travel industry CEOs as White House touts World Cup tourism boost",
+            "link": "https://www.cnbc.com/2026/09/02/trump-travel-industry-world-cup-tourism-airlines-hotels.html",
+            "summary": "Trump's meeting with travel executives comes after a World Cup that showcased his unusually close relationship with FIFA President Gianni Infantino. Trump’s meeting withTravel.com comes after the World Cup.",
+            "date": "Wed, 02 Sep 2026 15:16:25 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AAPL",
+            "stock_ticker": "DJT",
+            "impact": "Bullish"
+        },
+        {
+            "title": "‘I feel tricked’: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
+            "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
+            "summary": "“I specifically rejected Contractor A because of his reputation,” she said. “I’m not going to let him get away with anything.”",
+            "date": "Wed, 02 Sep 2026 16:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "OPAD",
             "impact": "Neutral"
         },
         {
-            "title": "There’s a disconnect between AI valuations and revenue-growth forecasts, observes this investor",
-            "link": "https://www.marketwatch.com/story/theres-a-disconnect-between-ai-valuations-and-revenue-growth-forecasts-observes-this-investor-1350d9f7?mod=mw_rss_topstories",
-            "summary": "Well-known investor, academic and economist Paul Kedrosky is skeptical that this AI bubble differs markedly from that which met other new and revolutionary technologies.",
-            "date": "Tue, 01 Sep 2026 14:52:00 GMT",
+            "title": "Here’s how much Americans rely on Social Security — at all income levels",
+            "link": "https://www.marketwatch.com/story/heres-how-much-americans-rely-on-social-security-at-all-income-levels-3a767119?mod=mw_rss_topstories",
+            "summary": "Social Security is really important for older Americans. It needs to be tweaked, not restructured, says former Sen. Bob Dole. Dole: Social Security should be changed, not scrapped.",
+            "date": "Wed, 02 Sep 2026 16:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MAY-USD",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Are rising bond rates really so bad? Maybe not, say these experts.",
-            "link": "https://www.marketwatch.com/story/are-rising-bond-rates-really-so-bad-maybe-not-say-these-exports-1af9e683?mod=mw_rss_topstories",
-            "summary": "The near-zero interest rates that characterized the decade after the global financil crisis were a sign of economic dysfunction. Higher rates reflect a stronger demand for capital and robust economic growth.",
-            "date": "Tue, 01 Sep 2026 14:42:00 GMT",
+            "title": "We’re in our 60s. My wife and I have $345,000 in annual pensions and $1 million in 403(b)s. Is it too late for Roth conversions?",
+            "link": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
+            "summary": "“Roth assets would provide our children with tax-free distributions,” he says. “Roths assets would give our children tax- free distributions.”",
+            "date": "Wed, 02 Sep 2026 16:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ARE",
+            "stock_ticker": "HOWL",
             "impact": "Neutral"
         },
         {
-            "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
-            "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-            "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year,” he says.",
-            "date": "Tue, 01 Sep 2026 14:15:00 GMT",
+            "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
+            "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+            "summary": "“I’m desperately trying to plan ahead while I’s still able,” he says. “I am trying to do everything I can while I can.”",
+            "date": "Wed, 02 Sep 2026 16:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AM",
+            "stock_ticker": "OPAD",
             "impact": "Neutral"
         },
         {
-            "title": "Get over your fear of haggling — and start saving real money",
-            "link": "https://www.marketwatch.com/story/get-over-your-fear-of-haggling-and-start-saving-real-money-5c215dc8?mod=mw_rss_topstories",
-            "summary": "If you ask for a lower price on something, the worst they can do is say no. If you want to get something for less, you have to ask for it.",
-            "date": "Tue, 01 Sep 2026 14:10:00 GMT",
+            "title": "Medicare Advantage patients who get diagnosed with Alzheimer’s or other serious diseases are ditching their plans — and it can cost them",
+            "link": "https://www.marketwatch.com/story/medicare-advantage-patients-who-get-diagnosed-with-alzheimers-or-other-serious-diseases-are-ditching-their-plans-and-it-can-cost-them-b5c42717?mod=mw_rss_topstories",
+            "summary": "The annual Medicare open-enrollment period runs from Oct. 15 to Dec. 7. It is open to anyone who wants to sign up for Medicare.",
+            "date": "Wed, 02 Sep 2026 16:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GETY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Global oil prices surge above $92  a barrel after report of strikes on two tankers in the Strait of Hormuz",
-            "link": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
-            "summary": "U.S. and international oil benchmarks are at their highest levels in almost two weeks. Both the U.S.- and international-based oil benchmarks were up more than 2%.",
-            "date": "Tue, 01 Sep 2026 13:56:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HWGV",
+            "stock_ticker": "SMI.F",
             "impact": "Neutral"
         }
     ]
