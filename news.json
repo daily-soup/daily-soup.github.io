@@ -1,124 +1,124 @@
 {
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "news": [
         {
-            "title": "Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'",
-            "link": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
-            "summary": "Canada has retaliated against President Donald Trump's 50% tariffs with \"dollar for dollar\" duties on U.S. goods. The duties are set to take effect next week.",
-            "date": "Thu, 03 Sep 2026 16:06:13 GMT",
+            "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
+            "link": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
+            "summary": "Nonfarm payrolls were expected to increase by 53,000 in August. The unemployment rate held at 4.1%, according to the Dow Jones consensus.",
+            "date": "Fri, 04 Sep 2026 14:19:02 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BACK",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
-            "link": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-            "summary": "Nvidia CEO Jensen Huang said Hugging Face will \"expand access to AI for developers and institutions worldwide\" Huang said the chipmaker will be available to \"developers and institutions\" worldwide.",
-            "date": "Thu, 03 Sep 2026 16:43:22 GMT",
+            "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses",
+            "link": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
+            "summary": "President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.",
+            "date": "Fri, 04 Sep 2026 16:08:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HUGGZZX",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "The world appears to be entering a higher-rate era. Here’s who will pay the price",
-            "link": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
-            "summary": "The bond sell-off is owed to a mix of high government debt issuance, an oil-price shock that has reignited inflation concerns, and expectations of higher rates.",
-            "date": "Thu, 03 Sep 2026 04:20:20 GMT",
+            "title": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
+            "link": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
+            "summary": "Norway's $2.3 trillion investment fund says it can diversify into new areas with greater risk and returns. The fund has $1.4 trillion in assets and $1 trillion in liabilities.",
+            "date": "Fri, 04 Sep 2026 12:22:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "WDDD",
             "impact": "Neutral"
         },
         {
-            "title": "Elon Musk starts spending his midterm election millions, revealing his key Senate targets",
-            "link": "https://www.cnbc.com/2026/09/03/elon-musk-america-pac-election-senate-races.html",
-            "summary": "Elon Musk’s America PAC is spending in key Senate races including Texas and Maine. It comes after Musk met with House Speaker Mike Johnson.",
-            "date": "Thu, 03 Sep 2026 15:46:23 GMT",
+            "title": "WBNA Commissioner Cathy Engelbert to retire at the end of 2026",
+            "link": "https://www.cnbc.com/2026/09/04/wbna-commissioner-cathy-engelbert-to-retire-at-the-end-of-2026-.html",
+            "summary": " Engelbert oversaw a period of unprecedented growth for the WNBA. She has faced criticism from players over her leadership. Engelbert has been criticized for her leadership of the league in recent years.",
+            "date": "Fri, 04 Sep 2026 15:56:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELPW",
+            "stock_ticker": "TOPUSD=X",
             "impact": "Neutral"
         },
         {
-            "title": "Leon Black sues House Oversight over Epstein probe subpoenas, won't appear Thursday",
-            "link": "https://www.cnbc.com/2026/09/03/leon-black-sues-house-oversight-epstein-probe-subpoenas.html",
-            "summary": "Black's attorneys say the NDAs being sought by the panel have nothing to do with his dealings with notorious sex offender Jeffrey Epstein. Black's attorneys: The NDAs are not related to his work with Epstein.",
-            "date": "Thu, 03 Sep 2026 15:12:24 GMT",
+            "title": "Analysis: Lower Treasury yields could require a weaker economy. Trump won't fix them",
+            "link": "https://www.cnbc.com/2026/09/04/treasury-bonds-yield-trump-ai-mortgage-rates-analysis.html",
+            "summary": "Long-term Treasury yields are being held up by Trump-era policy risk. Heavy government borrowing and AI-driven corporate debt are also holding up yields.",
+            "date": "Fri, 04 Sep 2026 14:07:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "LEON",
+            "stock_ticker": "8V8.F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Think of Nvidia’s $13 billion deal for Hugging Face as a form of ‘health insurance’",
+            "link": "https://www.marketwatch.com/story/think-of-nvidias-13-billion-deal-for-hugging-face-as-a-form-of-health-insurance-04c37535?mod=mw_rss_topstories",
+            "summary": "As long as open-source AI models dominate, Nvidia’s custom chip competitors won’t be able to take over its share of the market.",
+            "date": "Fri, 04 Sep 2026 16:19:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "INNOVANA.BO",
             "impact": "Neutral"
         },
         {
-            "title": "I’m 68. Should I spend half my 401(k) to buy a home with a mortgage?",
-            "link": "https://www.marketwatch.com/story/im-68-should-i-spend-half-my-401-k-to-buy-a-home-with-a-mortgage-285e5ada?mod=mw_rss_topstories",
-            "summary": "There’s a long checklist when deciding where to live, especially in your retirement years. Here are some of the things to consider when looking for a new home.",
-            "date": "Thu, 03 Sep 2026 16:44:00 GMT",
+            "title": "Here’s how people are building their nest eggs using ‘rent and invest’ strategies",
+            "link": "https://www.marketwatch.com/story/heres-how-people-are-building-their-nest-eggs-using-rent-and-invest-strategies-253b069e?mod=mw_rss_topstories",
+            "summary": "Weekend Reads: The disrupted bond market, a warning for traders who borrow money, and advice from the Moneyist. Also in Weekend Reads is a look back at the week's best investment ideas.",
+            "date": "Fri, 04 Sep 2026 15:57:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "HWM",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.",
+            "link": "https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories",
+            "summary": "The president needs lower gasoline prices and mortgage rates — fast. He needs lower mortgage rates and lower gas prices, too. The president needs these things to happen fast.",
+            "date": "Fri, 04 Sep 2026 15:48:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0001MGP6.F",
             "impact": "Neutral"
         },
         {
-            "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
-            "link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
-            "summary": "\"She struggled with the thought of leaving everything to people who, in her eyes, had never made much time for her,\" her daughter says.",
-            "date": "Thu, 03 Sep 2026 16:30:00 GMT",
+            "title": "S&P 500 changes are coming soon. These stocks could be named to the index today.",
+            "link": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
+            "summary": "Twilio, Bloom Energy and Cheniere Energy are among the top contenders to join the S&amp;P 500 in the upcoming quarterly rebalancing.",
+            "date": "Fri, 04 Sep 2026 15:39:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RFV.F",
-            "impact": "Neutral"
+            "stock_ticker": "ES=F",
+            "impact": "Bullish"
         },
         {
-            "title": "Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI",
-            "link": "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1?mod=mw_rss_topstories",
-            "summary": "The acquisition will give Nvidia access to “one of the most important parcels of real estate in the AI market” and promote open-source technology.",
-            "date": "Thu, 03 Sep 2026 16:26:00 GMT",
+            "title": "Rising interest rates pose a major threat to stock prices and other assets",
+            "link": "https://www.marketwatch.com/story/rising-interest-rates-pose-a-major-threat-to-stock-prices-and-other-assets-0f9f3208?mod=mw_rss_topstories",
+            "summary": "How ‘Bondmageddon’ may reset financial markets. How “Bond mageddon” may reset the world’s financial system.",
+            "date": "Fri, 04 Sep 2026 15:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WIT30946-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
-            "link": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
-            "summary": "“My offer was cocktails,” he says. “My offering was cocktails.” “I’m not a drinker. I don’t drink.’’ ““You’ve got to have a drink with me,’ I say.“”“Yes. ”",
-            "date": "Thu, 03 Sep 2026 15:39:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "YRAM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
-            "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
-            "summary": "The company’s AI-powered coding assistant is driving major sales momentum. The company has already sold more than 100,000 of the devices.",
-            "date": "Thu, 03 Sep 2026 15:20:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SNOW",
+            "stock_ticker": "RRPIX",
             "impact": "Neutral"
         }
     ]
