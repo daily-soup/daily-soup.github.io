@@ -1,11 +1,47 @@
 {
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "news": [
         {
-            "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
-            "link": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
-            "summary": "Nonfarm payrolls were expected to increase by 53,000 in August. The unemployment rate held at 4.1%, according to the Dow Jones consensus.",
-            "date": "Fri, 04 Sep 2026 14:19:02 GMT",
+            "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
+            "link": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
+            "summary": "General Motors and Ford are looking for new potential growth areas, including by seeking military contracts and getting into energy storage businesses. General Motors, Ford looking to get into military contracts, energy storage.",
+            "date": "Sat, 05 Sep 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
+            "link": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
+            "summary": "The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight.",
+            "date": "Sat, 05 Sep 2026 12:00:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IDOL36775-USD",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
+            "link": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
+            "summary": "The deal comes eight months after Washington ousted former President Nicolás Maduro in a military raid. The deal comes after the U.S. overthrew Maduro's government in a raid.",
+            "date": "Sat, 05 Sep 2026 15:11:03 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
+            "link": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
+            "summary": "Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf.",
+            "date": "Sat, 05 Sep 2026 15:00:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,111 +50,75 @@
             "impact": "Neutral"
         },
         {
-            "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses",
-            "link": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
-            "summary": "President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.",
-            "date": "Fri, 04 Sep 2026 16:08:11 GMT",
+            "title": "Why Walmart is moving in on DoorDash, Uber Eats delivery action, starting with donuts, coffee and sandwiches",
+            "link": "https://www.cnbc.com/2026/09/05/walmart-dunkin-subway-delivery-uber-eats-doordash.html",
+            "summary": " Walmart's deal to deliver for Dunkin' follows one earlier this year for Subway sandwiches. The nation's largest retailer also targets Uber Eats and DoorDash.",
+            "date": "Sat, 05 Sep 2026 14:46:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "301218.SZ",
             "impact": "Neutral"
         },
         {
-            "title": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
-            "link": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
-            "summary": "Norway's $2.3 trillion investment fund says it can diversify into new areas with greater risk and returns. The fund has $1.4 trillion in assets and $1 trillion in liabilities.",
-            "date": "Fri, 04 Sep 2026 12:22:09 GMT",
+            "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
+            "link": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
+            "summary": "“My offer was cocktails,” he says. “My offering was cocktails.” “I’m not a drinker. I don’t drink.’’ ““You’ve got to have a drink with me,’ I say.“”“Yes. ”",
+            "date": "Sat, 05 Sep 2026 15:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WDDD",
+            "stock_ticker": "NSAIW",
             "impact": "Neutral"
         },
         {
-            "title": "WBNA Commissioner Cathy Engelbert to retire at the end of 2026",
-            "link": "https://www.cnbc.com/2026/09/04/wbna-commissioner-cathy-engelbert-to-retire-at-the-end-of-2026-.html",
-            "summary": " Engelbert oversaw a period of unprecedented growth for the WNBA. She has faced criticism from players over her leadership. Engelbert has been criticized for her leadership of the league in recent years.",
-            "date": "Fri, 04 Sep 2026 15:56:07 GMT",
+            "title": "I’m 68. Should I spend half my 401(k) to buy a home with a mortgage?",
+            "link": "https://www.marketwatch.com/story/im-68-should-i-spend-half-my-401-k-to-buy-a-home-with-a-mortgage-285e5ada?mod=mw_rss_topstories",
+            "summary": "There’s a long checklist when deciding where to live, especially in your retirement years. Here are some of the things to consider when looking for a new home.",
+            "date": "Sat, 05 Sep 2026 15:17:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOPUSD=X",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "Analysis: Lower Treasury yields could require a weaker economy. Trump won't fix them",
-            "link": "https://www.cnbc.com/2026/09/04/treasury-bonds-yield-trump-ai-mortgage-rates-analysis.html",
-            "summary": "Long-term Treasury yields are being held up by Trump-era policy risk. Heavy government borrowing and AI-driven corporate debt are also holding up yields.",
-            "date": "Fri, 04 Sep 2026 14:07:24 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "8V8.F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Think of Nvidia’s $13 billion deal for Hugging Face as a form of ‘health insurance’",
-            "link": "https://www.marketwatch.com/story/think-of-nvidias-13-billion-deal-for-hugging-face-as-a-form-of-health-insurance-04c37535?mod=mw_rss_topstories",
-            "summary": "As long as open-source AI models dominate, Nvidia’s custom chip competitors won’t be able to take over its share of the market.",
-            "date": "Fri, 04 Sep 2026 16:19:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "INNOVANA.BO",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Here’s how people are building their nest eggs using ‘rent and invest’ strategies",
-            "link": "https://www.marketwatch.com/story/heres-how-people-are-building-their-nest-eggs-using-rent-and-invest-strategies-253b069e?mod=mw_rss_topstories",
-            "summary": "Weekend Reads: The disrupted bond market, a warning for traders who borrow money, and advice from the Moneyist. Also in Weekend Reads is a look back at the week's best investment ideas.",
-            "date": "Fri, 04 Sep 2026 15:57:00 GMT",
+            "title": "Here’s how much Americans rely on Social Security — at all income levels",
+            "link": "https://www.marketwatch.com/story/heres-how-much-americans-rely-on-social-security-at-all-income-levels-3a767119?mod=mw_rss_topstories",
+            "summary": "Social Security is really important for older Americans. It needs to be tweaked, not restructured, says former Sen. Bob Dole. Dole: Social Security should be changed, not scrapped.",
+            "date": "Sat, 05 Sep 2026 14:33:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "HWM",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.",
-            "link": "https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories",
-            "summary": "The president needs lower gasoline prices and mortgage rates — fast. He needs lower mortgage rates and lower gas prices, too. The president needs these things to happen fast.",
-            "date": "Fri, 04 Sep 2026 15:48:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "0P0001MGP6.F",
             "impact": "Neutral"
         },
         {
-            "title": "S&P 500 changes are coming soon. These stocks could be named to the index today.",
-            "link": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
-            "summary": "Twilio, Bloom Energy and Cheniere Energy are among the top contenders to join the S&amp;P 500 in the upcoming quarterly rebalancing.",
-            "date": "Fri, 04 Sep 2026 15:39:00 GMT",
+            "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
+            "link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
+            "summary": "\"She struggled with the thought of leaving everything to people who, in her eyes, had never made much time for her,\" her daughter says.",
+            "date": "Sat, 05 Sep 2026 14:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ES=F",
-            "impact": "Bullish"
+            "stock_ticker": "RFV.F",
+            "impact": "Neutral"
         },
         {
-            "title": "Rising interest rates pose a major threat to stock prices and other assets",
-            "link": "https://www.marketwatch.com/story/rising-interest-rates-pose-a-major-threat-to-stock-prices-and-other-assets-0f9f3208?mod=mw_rss_topstories",
-            "summary": "How ‘Bondmageddon’ may reset financial markets. How “Bond mageddon” may reset the world’s financial system.",
-            "date": "Fri, 04 Sep 2026 15:05:00 GMT",
+            "title": "Medicare Advantage patients who get diagnosed with Alzheimer’s or other serious diseases are ditching their plans — and it can cost them",
+            "link": "https://www.marketwatch.com/story/medicare-advantage-patients-who-get-diagnosed-with-alzheimers-or-other-serious-diseases-are-ditching-their-plans-and-it-can-cost-them-b5c42717?mod=mw_rss_topstories",
+            "summary": "The annual Medicare open-enrollment period runs from Oct. 15 to Dec. 7. It is open to anyone who wants to sign up for Medicare.",
+            "date": "Sat, 05 Sep 2026 14:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RRPIX",
+            "stock_ticker": "SMI.F",
             "impact": "Neutral"
         }
     ]
