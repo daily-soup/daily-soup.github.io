@@ -1,47 +1,23 @@
 {
-    "date": "2026-09-05",
+    "date": "2026-09-06",
     "news": [
         {
-            "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
-            "link": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
-            "summary": "General Motors and Ford are looking for new potential growth areas, including by seeking military contracts and getting into energy storage businesses. General Motors, Ford looking to get into military contracts, energy storage.",
-            "date": "Sat, 05 Sep 2026 12:00:01 GMT",
+            "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+            "link": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+            "summary": "Anthropic, OpenAI, Meta and Google all released model updates this week. Nvidia said it's acquiring open-source AI platform Hugging Face.",
+            "date": "Sun, 06 Sep 2026 12:13:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GM",
-            "impact": "Neutral"
+            "stock_ticker": "5TJ.F",
+            "impact": "Bullish"
         },
         {
-            "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
-            "link": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
-            "summary": "The OpenAI-Hugging Face agent hack sent shockwaves through the business world and helped put the chief information security officer into the spotlight.",
-            "date": "Sat, 05 Sep 2026 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IDOL36775-USD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
-            "link": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
-            "summary": "The deal comes eight months after Washington ousted former President Nicolás Maduro in a military raid. The deal comes after the U.S. overthrew Maduro's government in a raid.",
-            "date": "Sat, 05 Sep 2026 15:11:03 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
-            "link": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
-            "summary": "Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf.",
-            "date": "Sat, 05 Sep 2026 15:00:03 GMT",
+            "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
+            "link": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+            "summary": "Iran warns of faster, heavier retaliation against U.S. attacks. Iran acknowledges the war’s mounting toll on its economy. Iran says it will respond to the attacks with ‘faster, heavier’ retaliation.",
+            "date": "Sun, 06 Sep 2026 15:52:07 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,75 +26,99 @@
             "impact": "Neutral"
         },
         {
-            "title": "Why Walmart is moving in on DoorDash, Uber Eats delivery action, starting with donuts, coffee and sandwiches",
-            "link": "https://www.cnbc.com/2026/09/05/walmart-dunkin-subway-delivery-uber-eats-doordash.html",
-            "summary": " Walmart's deal to deliver for Dunkin' follows one earlier this year for Subway sandwiches. The nation's largest retailer also targets Uber Eats and DoorDash.",
-            "date": "Sat, 05 Sep 2026 14:46:14 GMT",
+            "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
+            "link": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
+            "summary": "The SEC sued Institutional Shareholder Services to enforce a subpoena. The move comes as the Trump administration increases scrutiny of influential proxy advisers.",
+            "date": "Sun, 06 Sep 2026 15:35:16 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "301218.SZ",
+            "stock_ticker": "XAK=F",
             "impact": "Neutral"
         },
         {
-            "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
-            "link": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
-            "summary": "“My offer was cocktails,” he says. “My offering was cocktails.” “I’m not a drinker. I don’t drink.’’ ““You’ve got to have a drink with me,’ I say.“”“Yes. ”",
-            "date": "Sat, 05 Sep 2026 15:37:00 GMT",
+            "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
+            "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+            "summary": "Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks.",
+            "date": "Sat, 05 Sep 2026 19:12:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NSAIW",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "I’m 68. Should I spend half my 401(k) to buy a home with a mortgage?",
-            "link": "https://www.marketwatch.com/story/im-68-should-i-spend-half-my-401-k-to-buy-a-home-with-a-mortgage-285e5ada?mod=mw_rss_topstories",
-            "summary": "There’s a long checklist when deciding where to live, especially in your retirement years. Here are some of the things to consider when looking for a new home.",
-            "date": "Sat, 05 Sep 2026 15:17:00 GMT",
+            "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
+            "link": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
+            "summary": "The sweetener's prices surged last week, reflecting a sharp deterioration in the global supply outlook. The price surge was triggered by a sharp drop in global supplies of the sweetener.",
+            "date": "Sun, 06 Sep 2026 13:19:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "SB=F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+            "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+            "summary": "“I paid a significant amount into Social Security,” he said. “I’m a Social Security survivor. I’ve paid a lot into it.”",
+            "date": "Sun, 06 Sep 2026 13:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CM.TO",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s how much Americans rely on Social Security — at all income levels",
-            "link": "https://www.marketwatch.com/story/heres-how-much-americans-rely-on-social-security-at-all-income-levels-3a767119?mod=mw_rss_topstories",
-            "summary": "Social Security is really important for older Americans. It needs to be tweaked, not restructured, says former Sen. Bob Dole. Dole: Social Security should be changed, not scrapped.",
-            "date": "Sat, 05 Sep 2026 14:33:00 GMT",
+            "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
+            "link": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
+            "summary": "The Netherlands’ central bank follows France in pulling gold out of New York. What to know about safe havens and the U.S.",
+            "date": "Sun, 06 Sep 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "CHFISK=X",
             "impact": "Neutral"
         },
         {
-            "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
-            "link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
-            "summary": "\"She struggled with the thought of leaving everything to people who, in her eyes, had never made much time for her,\" her daughter says.",
-            "date": "Sat, 05 Sep 2026 14:31:00 GMT",
+            "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
+            "link": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
+            "summary": "“Roth assets would provide our children with tax-free distributions,” he says. “Roths assets would give our children tax- free distributions.”",
+            "date": "Sun, 06 Sep 2026 12:55:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "RFV.F",
+            "stock_ticker": "HOWL",
             "impact": "Neutral"
         },
         {
-            "title": "Medicare Advantage patients who get diagnosed with Alzheimer’s or other serious diseases are ditching their plans — and it can cost them",
-            "link": "https://www.marketwatch.com/story/medicare-advantage-patients-who-get-diagnosed-with-alzheimers-or-other-serious-diseases-are-ditching-their-plans-and-it-can-cost-them-b5c42717?mod=mw_rss_topstories",
-            "summary": "The annual Medicare open-enrollment period runs from Oct. 15 to Dec. 7. It is open to anyone who wants to sign up for Medicare.",
-            "date": "Sat, 05 Sep 2026 14:15:00 GMT",
+            "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+            "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+            "summary": "“It always baffled me how some people managed to retire with significant wealth,” he said. “I was always baffled by it.”",
+            "date": "Sun, 06 Sep 2026 12:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SMI.F",
+            "stock_ticker": "HVT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why does almost nobody want to befriend older people like me — except scammers?",
+            "link": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
+            "summary": "“I’d rather leave my estate to people who spent time with me because they genuinely valued my company,” he said.",
+            "date": "Sat, 05 Sep 2026 23:07:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHY.V",
             "impact": "Neutral"
         }
     ]
