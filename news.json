@@ -1,47 +1,23 @@
 {
-    "date": "2026-09-06",
+    "date": "2026-09-07",
     "news": [
         {
-            "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
-            "link": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-            "summary": "Anthropic, OpenAI, Meta and Google all released model updates this week. Nvidia said it's acquiring open-source AI platform Hugging Face.",
-            "date": "Sun, 06 Sep 2026 12:13:49 GMT",
+            "title": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit",
+            "link": "https://www.cnbc.com/2026/09/07/oil-prices-rise-to-6-week-high-after-iran-and-us-trade-blows-saudi-aramco-facilities-reportedly-hit.html",
+            "summary": "Renewed attacks between the adversaries in the Iran war pushed oil prices up on Monday. Renewed attacks in Iran war push oil Prices up onMonday.",
+            "date": "Mon, 07 Sep 2026 16:44:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "5TJ.F",
+            "stock_ticker": "CL=F",
             "impact": "Bullish"
         },
         {
-            "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
-            "link": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
-            "summary": "Iran warns of faster, heavier retaliation against U.S. attacks. Iran acknowledges the war’s mounting toll on its economy. Iran says it will respond to the attacks with ‘faster, heavier’ retaliation.",
-            "date": "Sun, 06 Sep 2026 15:52:07 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HRC=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
-            "link": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
-            "summary": "The SEC sued Institutional Shareholder Services to enforce a subpoena. The move comes as the Trump administration increases scrutiny of influential proxy advisers.",
-            "date": "Sun, 06 Sep 2026 15:35:16 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "XAK=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
-            "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
-            "summary": "Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks.",
-            "date": "Sat, 05 Sep 2026 19:12:53 GMT",
+            "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
+            "link": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
+            "summary": "U.S. President Donald Trump posted a stream of AI-generated images and a series of sweeping and unverified claims on Truth Social on Sunday.",
+            "date": "Mon, 07 Sep 2026 12:09:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,75 +26,99 @@
             "impact": "Neutral"
         },
         {
-            "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
-            "link": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
-            "summary": "The sweetener's prices surged last week, reflecting a sharp deterioration in the global supply outlook. The price surge was triggered by a sharp drop in global supplies of the sweetener.",
-            "date": "Sun, 06 Sep 2026 13:19:01 GMT",
+            "title": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more",
+            "link": "https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html",
+            "summary": "Isar Aerospace reached orbit on its second test flight as the German rocket startup looks to scale production amid booming satellite launch demand. Isar Aerospace is a subsidiary of German aerospace giant EADS.",
+            "date": "Mon, 07 Sep 2026 12:26:40 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SB=F",
+            "stock_ticker": "SSPCX=F",
             "impact": "Bullish"
         },
         {
-            "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
-            "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
-            "summary": "“I paid a significant amount into Social Security,” he said. “I’m a Social Security survivor. I’ve paid a lot into it.”",
-            "date": "Sun, 06 Sep 2026 13:15:00 GMT",
+            "title": "Greenland welcomes major funding boost from EU amid Trump’s annexation threats",
+            "link": "https://www.cnbc.com/2026/09/07/greenland-eu-trump-critical-minerals-arctic.html",
+            "summary": "It comes shortly after Icelanders voted to reject restarting EU membership talks. Trump renews his push to acquire Greenland on national security grounds.",
+            "date": "Mon, 07 Sep 2026 13:09:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CM.TO",
+            "stock_ticker": "GRML",
             "impact": "Neutral"
         },
         {
-            "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
-            "link": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
-            "summary": "The Netherlands’ central bank follows France in pulling gold out of New York. What to know about safe havens and the U.S.",
-            "date": "Sun, 06 Sep 2026 13:00:00 GMT",
+            "title": "Far-right AfD landslide in German state piles pressure on federal government",
+            "link": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
+            "summary": "\"Extraordinary\" result may be the \"most consequential German state-election result of the postwar era,\" analysts say. The result is expected to be announced on Sunday.",
+            "date": "Mon, 07 Sep 2026 17:04:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHFISK=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
-            "link": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
-            "summary": "“Roth assets would provide our children with tax-free distributions,” he says. “Roths assets would give our children tax- free distributions.”",
-            "date": "Sun, 06 Sep 2026 12:55:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HOWL",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
-            "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
-            "summary": "“It always baffled me how some people managed to retire with significant wealth,” he said. “I was always baffled by it.”",
-            "date": "Sun, 06 Sep 2026 12:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HVT",
+            "stock_ticker": "AFDVX",
             "impact": "Neutral"
         },
         {
             "title": "Why does almost nobody want to befriend older people like me — except scammers?",
             "link": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
             "summary": "“I’d rather leave my estate to people who spent time with me because they genuinely valued my company,” he said.",
-            "date": "Sat, 05 Sep 2026 23:07:00 GMT",
+            "date": "Mon, 07 Sep 2026 17:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHY.V",
+            "stock_ticker": "301218.SZ",
+            "impact": "Neutral"
+        },
+        {
+            "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
+            "link": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
+            "summary": "“Roth assets would provide our children with tax-free distributions,” he says. “Roths assets would give our children tax- free distributions.”",
+            "date": "Mon, 07 Sep 2026 16:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WPU.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+            "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+            "summary": "“We currently live in a relatively low-cost, lower-tax Northwest state,” he says. “We’re currently living in a low- cost, lower tax Northwest state.”",
+            "date": "Mon, 07 Sep 2026 16:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MYRUSD=X",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Chip stock investors beware — these charts could warn of further weakness ahead",
+            "link": "https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories",
+            "summary": "U.S. stock investors have reason to pay attention to the currency market for signs of how money may be flowing in and out of chip stocks.",
+            "date": "Mon, 07 Sep 2026 16:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CMG",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+            "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+            "summary": "“Am I required to create three new inherited IRAs so that the firm can divide it equally?” he asks. “ am I required. ‘Am I needed to create. three new Inherited IRAs’?’”",
+            "date": "Mon, 07 Sep 2026 15:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BMNR",
             "impact": "Neutral"
         }
     ]
