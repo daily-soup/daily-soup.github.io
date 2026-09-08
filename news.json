@@ -1,125 +1,125 @@
 {
-    "date": "2026-09-07",
+    "date": "2026-09-08",
     "news": [
         {
-            "title": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit",
-            "link": "https://www.cnbc.com/2026/09/07/oil-prices-rise-to-6-week-high-after-iran-and-us-trade-blows-saudi-aramco-facilities-reportedly-hit.html",
-            "summary": "Renewed attacks between the adversaries in the Iran war pushed oil prices up on Monday. Renewed attacks in Iran war push oil Prices up onMonday.",
-            "date": "Mon, 07 Sep 2026 16:44:36 GMT",
+            "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
+            "link": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
+            "summary": "Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods. Trump's announcement comes on the eve of Canadian retaliatoryTariffs.",
+            "date": "Tue, 08 Sep 2026 16:46:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CL=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
-            "link": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
-            "summary": "U.S. President Donald Trump posted a stream of AI-generated images and a series of sweeping and unverified claims on Truth Social on Sunday.",
-            "date": "Mon, 07 Sep 2026 12:09:41 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "BBD-B.TO",
             "impact": "Neutral"
         },
         {
-            "title": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more",
-            "link": "https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html",
-            "summary": "Isar Aerospace reached orbit on its second test flight as the German rocket startup looks to scale production amid booming satellite launch demand. Isar Aerospace is a subsidiary of German aerospace giant EADS.",
-            "date": "Mon, 07 Sep 2026 12:26:40 GMT",
+            "title": "Qualcomm issues Amazon warrants to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal",
+            "link": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
+            "summary": " Qualcomm is trying to move into the data center business, where Nvidia has been the dominant player in the AI boom. Qualcomm is also trying to compete with Apple and Google in the smartphone market.",
+            "date": "Tue, 08 Sep 2026 15:56:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SSPCX=F",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Greenland welcomes major funding boost from EU amid Trump’s annexation threats",
-            "link": "https://www.cnbc.com/2026/09/07/greenland-eu-trump-critical-minerals-arctic.html",
-            "summary": "It comes shortly after Icelanders voted to reject restarting EU membership talks. Trump renews his push to acquire Greenland on national security grounds.",
-            "date": "Mon, 07 Sep 2026 13:09:36 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GRML",
+            "stock_ticker": "QCOM",
             "impact": "Neutral"
         },
         {
-            "title": "Far-right AfD landslide in German state piles pressure on federal government",
-            "link": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
-            "summary": "\"Extraordinary\" result may be the \"most consequential German state-election result of the postwar era,\" analysts say. The result is expected to be announced on Sunday.",
-            "date": "Mon, 07 Sep 2026 17:04:21 GMT",
+            "title": "U.S. sanctions Iranian airlines in aim to tighten economic squeeze as war spreads, oil rises",
+            "link": "https://www.cnbc.com/2026/09/08/us-sanctions-iran-airlines-oil-economy-war.html",
+            "summary": "The latest U.S. action under \"Operation Economic Outcast\" targets all Iranian airlines that were not already facing sanctions. The latest action is part of a larger effort to crack down on Iran's economy.",
+            "date": "Tue, 08 Sep 2026 15:58:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AFDVX",
+            "stock_ticker": "HRC=F",
             "impact": "Neutral"
         },
         {
-            "title": "Why does almost nobody want to befriend older people like me — except scammers?",
-            "link": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
-            "summary": "“I’d rather leave my estate to people who spent time with me because they genuinely valued my company,” he said.",
-            "date": "Mon, 07 Sep 2026 17:30:00 GMT",
+            "title": "Chinese giants Xiaomi, Huawei race to get ahead of Apple’s rumored foldable iPhone",
+            "link": "https://www.cnbc.com/2026/09/08/xiaomi-huawei-apple-foldable-iphone.html",
+            "summary": "Xiaomi and Huawei launched new foldables ahead of Apple’s event, where the company is rumored to unveil its first foldable iPhone.",
+            "date": "Tue, 08 Sep 2026 16:11:25 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "301218.SZ",
+            "stock_ticker": "O39.SI",
             "impact": "Neutral"
         },
         {
-            "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
-            "link": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
-            "summary": "“Roth assets would provide our children with tax-free distributions,” he says. “Roths assets would give our children tax- free distributions.”",
-            "date": "Mon, 07 Sep 2026 16:30:00 GMT",
+            "title": "AstraZeneca's COPD drug scores two late-stage trial wins as full data boosts blockbuster hopes",
+            "link": "https://www.cnbc.com/2026/09/08/astrazeneca-copd-drug-tozorakimab-shows-positive-late-stage-trial-results.html",
+            "summary": "The full data reinforces hopes that the drug could be a breakthrough COPD treatment. AstraZeneca's peak annual sales forecast of more than $5 billion.",
+            "date": "Tue, 08 Sep 2026 15:09:35 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WPU.F",
+            "stock_ticker": "COPD.BA",
             "impact": "Neutral"
         },
         {
-            "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
-            "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
-            "summary": "“We currently live in a relatively low-cost, lower-tax Northwest state,” he says. “We’re currently living in a low- cost, lower tax Northwest state.”",
-            "date": "Mon, 07 Sep 2026 16:00:00 GMT",
+            "title": "SpaceX’s stock could jump 43% — if the company is able to accomplish this engineering feat",
+            "link": "https://www.marketwatch.com/story/spacexs-stock-could-jump-43-if-the-company-is-able-to-accomplish-this-engineering-feat-e178ed39?mod=mw_rss_topstories",
+            "summary": "SpaceX is working to scale the first of its planned Starship rockets. The company is hoping to launch the rocket in 2018. The first test flight is expected to take place in the summer.",
+            "date": "Tue, 08 Sep 2026 16:39:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYRUSD=X",
+            "stock_ticker": "CHAD",
             "impact": "Neutral"
         },
         {
-            "title": "Chip stock investors beware — these charts could warn of further weakness ahead",
-            "link": "https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories",
-            "summary": "U.S. stock investors have reason to pay attention to the currency market for signs of how money may be flowing in and out of chip stocks.",
-            "date": "Mon, 07 Sep 2026 16:00:00 GMT",
+            "title": "These software stocks are in a prime spot to benefit from a rapidly shifting AI landscape",
+            "link": "https://www.marketwatch.com/story/these-software-stocks-are-in-a-prime-spot-to-benefit-from-a-rapidly-shifting-ai-landscape-bc90e45b?mod=mw_rss_topstories",
+            "summary": "Adobe tops a list of software companies ranked by cash generation. Microsoft and Oracle are at the bottom of the list, according to the report.",
+            "date": "Tue, 08 Sep 2026 16:04:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CMG",
+            "stock_ticker": "0P0001YPM3.L",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump may target next.",
+            "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
+            "summary": "The trade battle — featuring steep import taxes and possible bans — could escalate further as soon as today. The U.S. and China have been locked in a trade war for more than a year.",
+            "date": "Tue, 08 Sep 2026 15:44:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CHAD",
             "impact": "Neutral"
         },
         {
             "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
             "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
             "summary": "“Am I required to create three new inherited IRAs so that the firm can divide it equally?” he asks. “ am I required. ‘Am I needed to create. three new Inherited IRAs’?’”",
-            "date": "Mon, 07 Sep 2026 15:15:00 GMT",
+            "date": "Tue, 08 Sep 2026 15:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
+        },
+        {
+            "title": "Intel’s stock is rising as the company looks primed to boost prices even more",
+            "link": "https://www.marketwatch.com/story/intels-stock-is-rising-as-the-company-looks-primed-to-boost-prices-even-more-8b8dfc99?mod=mw_rss_topstories",
+            "summary": "The chip maker is reportedly set to further lift prices on its PC chips. Costs rise across the supply chain as costs rise in the chip industry.",
+            "date": "Tue, 08 Sep 2026 15:20:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CHAD",
+            "impact": "Bullish"
         }
     ]
 }
