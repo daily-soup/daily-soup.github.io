@@ -1,83 +1,71 @@
 {
-    "date": "2026-09-08",
+    "date": "2026-09-09",
     "news": [
         {
-            "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
-            "link": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
-            "summary": "Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods. Trump's announcement comes on the eve of Canadian retaliatoryTariffs.",
-            "date": "Tue, 08 Sep 2026 16:46:30 GMT",
+            "title": "Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level",
+            "link": "https://www.cnbc.com/2026/09/09/treasury-department-to-buy-back-6-billion-in-longer-term-debt-triple-the-normal-level.html",
+            "summary": "The much-anticipated announcement triples the normal buyback operation. It follows an announcement  from Treasury Secretary Scott Bessent. The announcement was made at a press conference in Washington, DC.",
+            "date": "Wed, 09 Sep 2026 15:57:05 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBD-B.TO",
+            "stock_ticker": "ZB=F",
             "impact": "Neutral"
         },
         {
-            "title": "Qualcomm issues Amazon warrants to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal",
-            "link": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
-            "summary": " Qualcomm is trying to move into the data center business, where Nvidia has been the dominant player in the AI boom. Qualcomm is also trying to compete with Apple and Google in the smartphone market.",
-            "date": "Tue, 08 Sep 2026 15:56:46 GMT",
+            "title": "Robinhood CEO says companies can't control how their stock is tokenized as AMC clash escalates",
+            "link": "https://www.cnbc.com/2026/09/09/robinhood-ceo-says-companies-cant-control-how-their-stock-is-tokenized-as-amc-clash-escalates.html",
+            "summary": "Robinhood's Vlad Tenev said public companies can’t control financial products built around their stock. He acknowledged token holders don't get voting rights.",
+            "date": "Wed, 09 Sep 2026 14:38:32 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "QCOM",
+            "stock_ticker": "HOOD",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. sanctions Iranian airlines in aim to tighten economic squeeze as war spreads, oil rises",
-            "link": "https://www.cnbc.com/2026/09/08/us-sanctions-iran-airlines-oil-economy-war.html",
-            "summary": "The latest U.S. action under \"Operation Economic Outcast\" targets all Iranian airlines that were not already facing sanctions. The latest action is part of a larger effort to crack down on Iran's economy.",
-            "date": "Tue, 08 Sep 2026 15:58:36 GMT",
+            "title": "CoreWeave CEO chalks up public AI pushback to the speed of change: 'And that is frightening'",
+            "link": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
+            "summary": "CoreWeave CEO Mike Intrator spoke to CNBC at the Goldman Sachs' Communacopia + Technology Conference this week. Intrator: CoreWeave is a \"non-intrusive\" technology that can be used in a variety of ways.",
+            "date": "Wed, 09 Sep 2026 16:46:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HRC=F",
+            "stock_ticker": "CRWV",
             "impact": "Neutral"
         },
         {
-            "title": "Chinese giants Xiaomi, Huawei race to get ahead of Apple’s rumored foldable iPhone",
-            "link": "https://www.cnbc.com/2026/09/08/xiaomi-huawei-apple-foldable-iphone.html",
-            "summary": "Xiaomi and Huawei launched new foldables ahead of Apple’s event, where the company is rumored to unveil its first foldable iPhone.",
-            "date": "Tue, 08 Sep 2026 16:11:25 GMT",
+            "title": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
+            "link": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
+            "summary": "Anthropic and OpenAI are \"gambling with our lives,\" says Jacob Coxon. Coxon is a co-founder of X, a social-networking site.",
+            "date": "Wed, 09 Sep 2026 16:50:10 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "O39.SI",
+            "stock_ticker": "4417.T",
             "impact": "Neutral"
         },
         {
-            "title": "AstraZeneca's COPD drug scores two late-stage trial wins as full data boosts blockbuster hopes",
-            "link": "https://www.cnbc.com/2026/09/08/astrazeneca-copd-drug-tozorakimab-shows-positive-late-stage-trial-results.html",
-            "summary": "The full data reinforces hopes that the drug could be a breakthrough COPD treatment. AstraZeneca's peak annual sales forecast of more than $5 billion.",
-            "date": "Tue, 08 Sep 2026 15:09:35 GMT",
+            "title": "Brent crude oil tops $101 for first time since July as fighting escalates in Persian Gulf",
+            "link": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html",
+            "summary": "Tensions between the U.S. and Iran fueled concerns over further disruptions to Middle East energy supplies. Oil prices extended gains on Wednesday.",
+            "date": "Wed, 09 Sep 2026 16:40:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COPD.BA",
-            "impact": "Neutral"
+            "stock_ticker": "BZ=F",
+            "impact": "Bullish"
         },
         {
-            "title": "SpaceX’s stock could jump 43% — if the company is able to accomplish this engineering feat",
-            "link": "https://www.marketwatch.com/story/spacexs-stock-could-jump-43-if-the-company-is-able-to-accomplish-this-engineering-feat-e178ed39?mod=mw_rss_topstories",
-            "summary": "SpaceX is working to scale the first of its planned Starship rockets. The company is hoping to launch the rocket in 2018. The first test flight is expected to take place in the summer.",
-            "date": "Tue, 08 Sep 2026 16:39:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CHAD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "These software stocks are in a prime spot to benefit from a rapidly shifting AI landscape",
-            "link": "https://www.marketwatch.com/story/these-software-stocks-are-in-a-prime-spot-to-benefit-from-a-rapidly-shifting-ai-landscape-bc90e45b?mod=mw_rss_topstories",
-            "summary": "Adobe tops a list of software companies ranked by cash generation. Microsoft and Oracle are at the bottom of the list, according to the report.",
-            "date": "Tue, 08 Sep 2026 16:04:00 GMT",
+            "title": "These are the 10 biggest retirement fears — and what you can do about them",
+            "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
+            "summary": "No amount of wealth can erase retirement worries. No amount of money can erase worries about retirement, says CNN.com's John Sutter.",
+            "date": "Wed, 09 Sep 2026 16:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -86,40 +74,52 @@
             "impact": "Neutral"
         },
         {
-            "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump may target next.",
-            "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
-            "summary": "The trade battle — featuring steep import taxes and possible bans — could escalate further as soon as today. The U.S. and China have been locked in a trade war for more than a year.",
-            "date": "Tue, 08 Sep 2026 15:44:00 GMT",
+            "title": "Oil at $100? Why you should always have energy stocks in your 401(k).",
+            "link": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
+            "summary": "Energy and resource stocks have zigged while the market has zagged. The market has been more focused on the economy than on energy and resources.",
+            "date": "Wed, 09 Sep 2026 16:19:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CHAD",
+            "stock_ticker": "CL=F",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
-            "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-            "summary": "“Am I required to create three new inherited IRAs so that the firm can divide it equally?” he asks. “ am I required. ‘Am I needed to create. three new Inherited IRAs’?’”",
-            "date": "Tue, 08 Sep 2026 15:30:00 GMT",
+            "title": "Fed rate hike hinges on two key inflation reports in the next two days",
+            "link": "https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories",
+            "summary": "Consumer and wholesale prices are rising again. Just how bad does it have to get for the Fed to act? CNN's John Sutter asks.",
+            "date": "Wed, 09 Sep 2026 16:18:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ZQ=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Investors worried about rising bond yields are keeping a close eye on this corner of the market",
+            "link": "https://www.marketwatch.com/story/investors-worried-about-rising-bond-yields-are-keeping-a-close-eye-on-this-corner-of-the-market-aa4096c8?mod=mw_rss_topstories",
+            "summary": "U.S. small-cap stocks have hit a pivotal point, trading below a key level. Interest rates in the bond market climb ahead of the Federal Reserve’s highly anticipated policy meeting.",
+            "date": "Wed, 09 Sep 2026 16:09:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "OHI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+            "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+            "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes,” he says. “I’m going to be very, very rich.”",
+            "date": "Wed, 09 Sep 2026 16:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "IBRX",
             "impact": "Neutral"
-        },
-        {
-            "title": "Intel’s stock is rising as the company looks primed to boost prices even more",
-            "link": "https://www.marketwatch.com/story/intels-stock-is-rising-as-the-company-looks-primed-to-boost-prices-even-more-8b8dfc99?mod=mw_rss_topstories",
-            "summary": "The chip maker is reportedly set to further lift prices on its PC chips. Costs rise across the supply chain as costs rise in the chip industry.",
-            "date": "Tue, 08 Sep 2026 15:20:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CHAD",
-            "impact": "Bullish"
         }
     ]
 }
