@@ -1,124 +1,124 @@
 {
-    "date": "2026-09-18",
+    "date": "2026-09-19",
     "news": [
         {
-            "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
-            "link": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
-            "summary": "OpenAI's Suleyman joined \"Squawk Box\" to discuss its latest incidents of \"concerning model behavior\" Earlier this week, OpenAI revealed a series of incidents involving its AI system.",
-            "date": "Fri, 18 Sep 2026 14:36:55 GMT",
+            "title": "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
+            "link": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
+            "summary": "As runaway AI fears reach a crescendo, policymakers and tech leaders are weighing the effectiveness of a magic AI stop button known as a kill switch.",
+            "date": "Sat, 19 Sep 2026 12:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "BA",
             "impact": "Neutral"
         },
         {
-            "title": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source",
-            "link": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
-            "summary": "Dimon joins OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
-            "date": "Fri, 18 Sep 2026 16:21:20 GMT",
+            "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
+            "link": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
+            "summary": "Journalists from MS NOW, CNN and Politico were denied access to the White House. The move comes a day after President Trump banned three media outlets over their coverage of him.",
+            "date": "Sat, 19 Sep 2026 15:14:46 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JPM",
+            "stock_ticker": "MS",
             "impact": "Neutral"
         },
         {
-            "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
-            "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
-            "summary": "The chairman of the Federal Reserve raised vexing questions about what comes next. The chairman both explained this week's decision to raise interest rates, and raised vexed questions about the next move.",
-            "date": "Fri, 18 Sep 2026 16:33:43 GMT",
+            "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+            "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+            "summary": "Goldman economist Joseph Briggs says broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along. Briggs: \"Pessimism is a real problem in our society\"",
+            "date": "Sat, 19 Sep 2026 12:50:49 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TLAC",
+            "stock_ticker": "XAP=F",
             "impact": "Neutral"
         },
         {
-            "title": "Nike parts ways with Kylian Mbappé, soccer superstar signs with On",
-            "link": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
-            "summary": "Mbappe had been signed with Nike for roughly two decades. His agreement with On is the first it has made with a soccer player.",
-            "date": "Fri, 18 Sep 2026 16:42:14 GMT",
+            "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
+            "link": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
+            "summary": "Smoke and flames seen near Riyadh’s main airport after Saudi civil-defense alerts. Pakistan urged Iran to protect energy supplies and shipping.",
+            "date": "Sat, 19 Sep 2026 13:48:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NKE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
-            "link": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html",
-            "summary": "Leaders of six major auto trade groups joined to sign a letter to the president. The letter was sent to the White House on Wednesday.",
-            "date": "Fri, 18 Sep 2026 16:26:27 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "RIVN",
+            "stock_ticker": "NEAR",
             "impact": "Bullish"
         },
         {
-            "title": "Why investors’ best move in reaction to Fed’s rate hike is doing nothing at all",
-            "link": "https://www.marketwatch.com/story/why-investors-best-move-in-reaction-to-feds-rate-hike-is-doing-nothing-at-all-6ff56b4c?mod=mw_rss_topstories",
-            "summary": "Even when rates are higher, stocks should still beat bonds, analysts say. Even when rates were higher, they say, stocks were still better than bonds.",
-            "date": "Fri, 18 Sep 2026 16:39:00 GMT",
+            "title": "Buffett takes next step in plan to keep Berkshire from straying",
+            "link": "https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html",
+            "summary": "Warren Buffett steps down as Berkshire Hathaway's chairman. He will pass the job to his son, Howard. Buffett will remain on as a director of the company until his son takes over.",
+            "date": "Sat, 19 Sep 2026 12:43:56 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHY.V",
+            "stock_ticker": "BUFF.L",
+            "impact": "Bearish"
+        },
+        {
+            "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+            "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+            "summary": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat,” he says.",
+            "date": "Sat, 19 Sep 2026 16:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         },
         {
-            "title": "Two signs investors don’t have to fear an AI slowdown",
-            "link": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
-            "summary": "Neocloud companies CoreWeave and Nebius are signaling strong demand and rising prices for AI chips. Neocloud is a company that makes chips for computers.",
-            "date": "Fri, 18 Sep 2026 16:33:00 GMT",
+            "title": "Like Costco, Walmart will sell Medicare Advantage plans",
+            "link": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
+            "summary": "Walmart will sell Medicare Advantage plans as part of a new partnership with a nonprofit health insurer. Walmart will sell the plans through a partnership with nonprofit health insurers.",
+            "date": "Sat, 19 Sep 2026 15:57:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TTWO",
+            "stock_ticker": "LIKE.L",
             "impact": "Neutral"
         },
         {
-            "title": "Netflix is too focused on podcasts and not enough on good shows, analysts say",
-            "link": "https://www.marketwatch.com/story/netflix-is-too-focused-on-podcasts-and-not-enough-on-good-shows-analysts-say-be758c93?mod=mw_rss_topstories",
-            "summary": "Wells Fargo analysts cut their rating on shares of the streaming platform. “We see breakout hits as a must for the stock to work again,” Wells Fargo analysts said.",
-            "date": "Fri, 18 Sep 2026 16:23:00 GMT",
+            "title": "Couples with a big age gap need more money — they have to plan for two retirements",
+            "link": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
+            "summary": "These are the biggest issues to consider when there’s more than a 10-year age difference. These are the most important things to consider if you’re dating someone more than 10 years older.",
+            "date": "Sat, 19 Sep 2026 15:47:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NFLX",
+            "stock_ticker": "XMVM",
             "impact": "Neutral"
         },
         {
-            "title": "These fast-growing ETFs aim for yields as high as 17.5%. But here’s the catch.",
-            "link": "https://www.marketwatch.com/story/these-fast-growing-etfs-aim-for-yields-as-high-as-17-5-but-heres-the-catch-6f0a3d43?mod=mw_rss_topstories",
-            "summary": "So-called autocallable ETFs pay coupons like bonds but are linked to equity risk. So-called 'autocalls' pay coupons as if they were equity risk-free.",
-            "date": "Fri, 18 Sep 2026 16:11:00 GMT",
+            "title": "Want to land more job interviews? Stop letting AI write your résumé.",
+            "link": "https://www.marketwatch.com/story/are-ai-written-resumes-more-likely-to-get-you-a-job-the-answer-may-surprise-you-ae408827?mod=mw_rss_topstories",
+            "summary": "Research shows job seekers could get an edge in this labor market by actually writing their own resumes. Research shows jobseekers could get a edge in the labor market if they write their own resume.",
+            "date": "Sat, 19 Sep 2026 15:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001YPM4.L",
-            "impact": "Bullish"
+            "stock_ticker": "WANT",
+            "impact": "Neutral"
         },
         {
-            "title": "A happier retirement contains these 3 elements",
-            "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
-            "summary": "Boosting your postwork satisfaction isn't about luck, experts say. Here is what experts say actually drives fulfillment in your next chapter. Here are some of the top tips to help you achieve your goals.",
-            "date": "Fri, 18 Sep 2026 15:35:00 GMT",
+            "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+            "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+            "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank’s,” he says. “I’m very proud of what I’ve done.”",
+            "date": "Sat, 19 Sep 2026 15:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
+            "stock_ticker": "BMY",
             "impact": "Neutral"
         }
     ]
