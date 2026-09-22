@@ -1,59 +1,11 @@
 {
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "news": [
         {
-            "title": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
-            "link": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
-            "summary": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027. The lawsuit could have cost the company hundreds of millions of dollars in fees.",
-            "date": "Mon, 21 Sep 2026 18:12:51 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PSKY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "AMD hits $1 trillion market cap for the first time as stock rides 5-day rally",
-            "link": "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html",
-            "summary": " AMD has had a monster 2026 with the stock up more than 180% so far. The stock is now trading at more than $20 per share.",
-            "date": "Mon, 21 Sep 2026 16:47:40 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AMD",
-            "impact": "Bullish"
-        },
-        {
-            "title": "White House TV pool won't cover Trump after press ban: CNN",
-            "link": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
-            "summary": "The decision comes as CNN, MS NOW and Politico said they are suing Trump to overturn his new ban of those three media outlets from the White House.",
-            "date": "Mon, 21 Sep 2026 16:44:53 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WYFI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Eli Lilly CEO tells CNBC one-third of new GLP-1 pill patients are taking Foundayo, as drugmaker ramps up production",
-            "link": "https://www.cnbc.com/2026/09/21/lilly-is-ramping-up-future-manufacturing-for-foundayo-obesity-pill.html",
-            "summary": "Eli Lilly is trying to catch up in the GLP-1 pill market to Novo. Novo got a head start in the space.",
-            "date": "Mon, 21 Sep 2026 17:14:29 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LLY",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Trump says DOJ will rein in AI 'if we have to'",
-            "link": "https://www.cnbc.com/2026/09/21/trump-ai-doj.html",
-            "summary": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China. He wants to maintain that advantage.",
-            "date": "Mon, 21 Sep 2026 16:46:24 GMT",
+            "title": "Trump slams Iran and Cuba, defends AI growth and recounts record in UN speech",
+            "link": "https://www.cnbc.com/2026/09/22/trump-un-speech-today.html",
+            "summary": "The U.S. \"will no longer permit threats to America to gain a foothold anywhere in the Western Hemisphere,\" Trump told the UN leaders.",
+            "date": "Tue, 22 Sep 2026 16:14:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -62,63 +14,111 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-            "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-            "summary": "“On each of these weekends away, she’s probably spending $500,” says her father. “She probably spends $500 on each weekend.”",
-            "date": "Mon, 21 Sep 2026 18:00:00 GMT",
+            "title": "Sullivan: Wall Street admits it doesn't know where oil is headed. There's one stock they do agree on",
+            "link": "https://www.cnbc.com/2026/09/22/sullivan-wall-street-admits-it-doesnt-know-where-oil-is-headed-theres-one-stock-they-do-agree-on.html",
+            "summary": "JPMorgan’s commodity team admitted what many are thinking on the Iran situation and oil: We just don’t know.",
+            "date": "Tue, 22 Sep 2026 16:05:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SHE",
+            "stock_ticker": "WM.TO",
             "impact": "Neutral"
         },
         {
-            "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
-            "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
-            "summary": "Muse is gaining popularity and helping convince investors that Meta’s AI bets are paying off. Muse is a social music service that lets users listen to music in a virtual world.",
-            "date": "Mon, 21 Sep 2026 17:45:00 GMT",
+            "title": "Trump discloses more than 1,100 July trades, including up to $25 million sales of Microsoft and Amazon",
+            "link": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+            "summary": "Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.",
+            "date": "Tue, 22 Sep 2026 17:23:09 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0001EC2G.ST",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "The future of retirement? Work until you die.",
-            "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-            "summary": "CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Visit CNN.com/Travel each week for a new gallery of snapshots. Visit www.dailymail.co.uk/Travel next Wednesday for a gallery of shots from around the world.",
-            "date": "Mon, 21 Sep 2026 17:16:00 GMT",
+            "title": "Nvidia options are doing something unusual ahead of two catalysts. Here's how one trader is playing it",
+            "link": "https://www.cnbc.com/2026/09/22/nvidia-options-are-doing-something-unusual-ahead-of-two-catalysts-heres-how-one-trader-is-playing-it.html",
+            "summary": "A curious dynamic is happening in shares of Nvidia ahead of two potential catalysts this month. The company is expected to announce two new products in the coming weeks.",
+            "date": "Tue, 22 Sep 2026 16:58:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "A happier retirement contains these 3 elements",
-            "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
-            "summary": "Boosting your postwork satisfaction isn't about luck, experts say. Here is what experts say actually drives fulfillment in your next chapter. Here are some of the top tips to help you achieve your goals.",
-            "date": "Mon, 21 Sep 2026 17:12:00 GMT",
+            "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
+            "link": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+            "summary": "Trump has an added incentive to emerge from the summit with China's Xi touting trade wins. Trump is facing low approval on the economy ahead of the midterm election.",
+            "date": "Mon, 21 Sep 2026 22:25:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-            "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-            "summary": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat,” he says.",
-            "date": "Mon, 21 Sep 2026 16:30:00 GMT",
+            "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
+            "link": "https://www.marketwatch.com/story/how-to-avoid-the-widow-tax-and-other-financial-headaches-if-your-spouse-dies-e51f2af6?mod=mw_rss_topstories",
+            "summary": "A surviving spouse is sometimes left with less income and a higher tax bill. These tax-saving strategies can soften the impact of the loss.",
+            "date": "Tue, 22 Sep 2026 17:09:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+            "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+            "summary": "“I racked up this debt to cover my living expenses for two years without an income stream,” he says. “I’ve gone through a lot of debt. I’m in debt, but I don’t care.”",
+            "date": "Tue, 22 Sep 2026 17:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MU",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Want to retire with more money? Leave the country for work early in your career.",
+            "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
+            "summary": "Gain experiences, memories and a substantial contribution to your future nest egg. Gain experiences and memories and make a substantial contributions to yourfuture nest egg with these tips.",
+            "date": "Tue, 22 Sep 2026 16:40:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WANT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
+            "link": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
+            "summary": " Meta’s new assistant is topping App Store charts and beating ChatGPT’S early download pace. It is spurring renewed confidence in the company's AI strategy.",
+            "date": "Tue, 22 Sep 2026 16:24:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "1796.HK",
+            "impact": "Bearish"
+        },
+        {
+            "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+            "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+            "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses,” she says. “I’m not a big gambler, but I do like to take advantage of my IRA,’ she adds.",
+            "date": "Tue, 22 Sep 2026 16:15:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IT",
             "impact": "Neutral"
         }
     ]
