@@ -1,11 +1,23 @@
 {
-    "date": "2026-09-22",
+    "date": "2026-09-23",
     "news": [
         {
-            "title": "Trump slams Iran and Cuba, defends AI growth and recounts record in UN speech",
-            "link": "https://www.cnbc.com/2026/09/22/trump-un-speech-today.html",
-            "summary": "The U.S. \"will no longer permit threats to America to gain a foothold anywhere in the Western Hemisphere,\" Trump told the UN leaders.",
-            "date": "Tue, 22 Sep 2026 16:14:00 GMT",
+            "title": "10-year Treasury yield leaps to fresh 19-year high after hot economic readings",
+            "link": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
+            "summary": "Treasury yields traded higher on Wednesday as new services and manufacturing sector data increased worry of further Federal Reserve rate hikes. Treasury yields trade higher as new Services and Manufacturing Sector data increased worries of further Fed rate rises.",
+            "date": "Wed, 23 Sep 2026 16:56:57 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^TNX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
+            "link": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html",
+            "summary": "Stresses with U.S. allies are complicating Washington’s efforts to marshal pressure against an increasingly resilient China. As Trump prepares to meet Xi, strains with U-turns are becoming more pronounced.",
+            "date": "Wed, 23 Sep 2026 16:47:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -14,112 +26,100 @@
             "impact": "Neutral"
         },
         {
-            "title": "Sullivan: Wall Street admits it doesn't know where oil is headed. There's one stock they do agree on",
-            "link": "https://www.cnbc.com/2026/09/22/sullivan-wall-street-admits-it-doesnt-know-where-oil-is-headed-theres-one-stock-they-do-agree-on.html",
-            "summary": "JPMorgan’s commodity team admitted what many are thinking on the Iran situation and oil: We just don’t know.",
-            "date": "Tue, 22 Sep 2026 16:05:57 GMT",
+            "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
+            "link": "https://www.cnbc.com/2026/09/23/market-sees-next-fed-hike-in-october-following-barr-comments-hot-inflation.html",
+            "summary": "S&amp;P Global said its overall inflation measure hit its highest level since October 2022. S&amp:P Global: Inflation measure hit highest level in October 2022 since October 2012.",
+            "date": "Wed, 23 Sep 2026 17:14:13 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WM.TO",
+            "stock_ticker": "XUSM",
             "impact": "Neutral"
         },
         {
-            "title": "Trump discloses more than 1,100 July trades, including up to $25 million sales of Microsoft and Amazon",
-            "link": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
-            "summary": "Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.",
-            "date": "Tue, 22 Sep 2026 17:23:09 GMT",
+            "title": "Nearly 10% of borrowers opted for riskier mortgages last week, as rates soared over 7%",
+            "link": "https://www.cnbc.com/2026/09/23/nearly-10percent-of-borrowers-opted-for-riskier-mortgages-last-week.html",
+            "summary": "As mortgage rates rise, borrowers are seeking savings in riskier, adjustable-rate mortgages. The lower rates offer lower rates than traditional fixed-rate loans.",
+            "date": "Wed, 23 Sep 2026 11:44:32 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "NQ=F",
             "impact": "Neutral"
         },
         {
-            "title": "Nvidia options are doing something unusual ahead of two catalysts. Here's how one trader is playing it",
-            "link": "https://www.cnbc.com/2026/09/22/nvidia-options-are-doing-something-unusual-ahead-of-two-catalysts-heres-how-one-trader-is-playing-it.html",
-            "summary": "A curious dynamic is happening in shares of Nvidia ahead of two potential catalysts this month. The company is expected to announce two new products in the coming weeks.",
-            "date": "Tue, 22 Sep 2026 16:58:28 GMT",
+            "title": "McDonald's CEO expects high inflation, fewer diner visits are here to stay",
+            "link": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
+            "summary": "High inflation and flat traffic will continue to weigh on the restaurant industry. McDonald's CEO Chris Kempczinski said that he expects that high inflation will continue.",
+            "date": "Wed, 23 Sep 2026 17:25:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "MCD",
             "impact": "Neutral"
         },
         {
-            "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
-            "link": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
-            "summary": "Trump has an added incentive to emerge from the summit with China's Xi touting trade wins. Trump is facing low approval on the economy ahead of the midterm election.",
-            "date": "Mon, 21 Sep 2026 22:25:33 GMT",
+            "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+            "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+            "summary": "“She currently has about 15 sitters, all independent contractors,” she said. “She’s got a lot of fun with them.”",
+            "date": "Wed, 23 Sep 2026 17:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "SGDMYR=X",
             "impact": "Neutral"
         },
         {
-            "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
-            "link": "https://www.marketwatch.com/story/how-to-avoid-the-widow-tax-and-other-financial-headaches-if-your-spouse-dies-e51f2af6?mod=mw_rss_topstories",
-            "summary": "A surviving spouse is sometimes left with less income and a higher tax bill. These tax-saving strategies can soften the impact of the loss.",
-            "date": "Tue, 22 Sep 2026 17:09:00 GMT",
+            "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
+            "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+            "summary": "Nasdaq and S&amp;P 500 retreat from record territory as bond yields suddenly jump. Stocks fall, with the Nasdaq and the S&P 500 retreating from record levels.",
+            "date": "Wed, 23 Sep 2026 17:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "BOND",
             "impact": "Neutral"
-        },
-        {
-            "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-            "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-            "summary": "“I racked up this debt to cover my living expenses for two years without an income stream,” he says. “I’ve gone through a lot of debt. I’m in debt, but I don’t care.”",
-            "date": "Tue, 22 Sep 2026 17:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MU",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Want to retire with more money? Leave the country for work early in your career.",
-            "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
-            "summary": "Gain experiences, memories and a substantial contribution to your future nest egg. Gain experiences and memories and make a substantial contributions to yourfuture nest egg with these tips.",
-            "date": "Tue, 22 Sep 2026 16:40:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WANT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
-            "link": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
-            "summary": " Meta’s new assistant is topping App Store charts and beating ChatGPT’S early download pace. It is spurring renewed confidence in the company's AI strategy.",
-            "date": "Tue, 22 Sep 2026 16:24:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "1796.HK",
-            "impact": "Bearish"
         },
         {
             "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
             "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
             "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses,” she says. “I’m not a big gambler, but I do like to take advantage of my IRA,’ she adds.",
-            "date": "Tue, 22 Sep 2026 16:15:00 GMT",
+            "date": "Wed, 23 Sep 2026 17:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "IT",
             "impact": "Neutral"
+        },
+        {
+            "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+            "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+            "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million,” he says. “My mom has a house worth over £1 million.”",
+            "date": "Wed, 23 Sep 2026 17:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Microsoft has ‘clearly turned the corner.’ How its stock can chart more gains.",
+            "link": "https://www.marketwatch.com/story/microsoft-has-clearly-turned-the-corner-how-its-stock-can-chart-more-gains-b6156467?mod=mw_rss_topstories",
+            "summary": "A Stifel analyst is taking a more upbeat view of the tech giant’s ability to cash in on its troves of computing power.",
+            "date": "Wed, 23 Sep 2026 16:58:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MSFT",
+            "impact": "Bullish"
         }
     ]
 }
