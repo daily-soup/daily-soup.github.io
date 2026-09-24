@@ -1,125 +1,125 @@
 {
-    "date": "2026-09-23",
+    "date": "2026-09-24",
     "news": [
         {
-            "title": "10-year Treasury yield leaps to fresh 19-year high after hot economic readings",
-            "link": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
-            "summary": "Treasury yields traded higher on Wednesday as new services and manufacturing sector data increased worry of further Federal Reserve rate hikes. Treasury yields trade higher as new Services and Manufacturing Sector data increased worries of further Fed rate rises.",
-            "date": "Wed, 23 Sep 2026 16:56:57 GMT",
+            "title": "Oracle sends 'force majeure' notice about data center project — stock sinks 4%",
+            "link": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
+            "summary": "Oracle is reportedly looking to delay payment on Project Jupiter if it the data center fails to come online in 2028. The data center is expected to cost $1.5 billion to build.",
+            "date": "Thu, 24 Sep 2026 16:48:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^TNX",
+            "stock_ticker": "ORCL",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Big business warns Trump against diesel export ban in joint letter",
+            "link": "https://www.cnbc.com/2026/09/24/chamber-commerce-business-roundtable-trump-diesel-export-ban-iran-war.html",
+            "summary": "The national average for a gallon of diesel reached $6.51 on Thursday. That's nearly $3 more than the same period a year ago.",
+            "date": "Thu, 24 Sep 2026 14:23:33 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BBAI",
             "impact": "Neutral"
         },
         {
-            "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
-            "link": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html",
-            "summary": "Stresses with U.S. allies are complicating Washington’s efforts to marshal pressure against an increasingly resilient China. As Trump prepares to meet Xi, strains with U-turns are becoming more pronounced.",
-            "date": "Wed, 23 Sep 2026 16:47:21 GMT",
+            "title": "Analysis: Higher Treasury yields deliver a reality check on a hot, inflation-prone economy",
+            "link": "https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html",
+            "summary": "Elevated Treasury yields will complicate both Federal Reserve policy and Treasury financing. Federal Reserve will have to decide how to respond to rising Treasury yields. Treasury will also have to find a way to finance the rising yields.",
+            "date": "Thu, 24 Sep 2026 15:40:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "AIAT-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
-            "link": "https://www.cnbc.com/2026/09/23/market-sees-next-fed-hike-in-october-following-barr-comments-hot-inflation.html",
-            "summary": "S&amp;P Global said its overall inflation measure hit its highest level since October 2022. S&amp:P Global: Inflation measure hit highest level in October 2022 since October 2012.",
-            "date": "Wed, 23 Sep 2026 17:14:13 GMT",
+            "title": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
+            "link": "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
+            "summary": "State attorney general Letitia James claims Polymarket has violated the state's gambling laws. James: Polymarket violated the law by selling goods in violation of state law. Polymarket denies the allegations.",
+            "date": "Thu, 24 Sep 2026 17:13:14 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XUSM",
+            "stock_ticker": "NWCL",
             "impact": "Neutral"
         },
         {
-            "title": "Nearly 10% of borrowers opted for riskier mortgages last week, as rates soared over 7%",
-            "link": "https://www.cnbc.com/2026/09/23/nearly-10percent-of-borrowers-opted-for-riskier-mortgages-last-week.html",
-            "summary": "As mortgage rates rise, borrowers are seeking savings in riskier, adjustable-rate mortgages. The lower rates offer lower rates than traditional fixed-rate loans.",
-            "date": "Wed, 23 Sep 2026 11:44:32 GMT",
+            "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
+            "link": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
+            "summary": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target. The policymaker was speaking to reporters on the sidelines of a conference in London.",
+            "date": "Thu, 24 Sep 2026 17:12:04 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NQ=F",
+            "stock_ticker": "ANNA",
             "impact": "Neutral"
         },
         {
-            "title": "McDonald's CEO expects high inflation, fewer diner visits are here to stay",
-            "link": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
-            "summary": "High inflation and flat traffic will continue to weigh on the restaurant industry. McDonald's CEO Chris Kempczinski said that he expects that high inflation will continue.",
-            "date": "Wed, 23 Sep 2026 17:25:26 GMT",
+            "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
+            "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
+            "summary": "“When my father died, his trust was the Bible’s,” she says. “When he died, my father”s trust was also the Bible, she adds.",
+            "date": "Thu, 24 Sep 2026 17:15:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MCD",
+            "stock_ticker": "WDC",
             "impact": "Neutral"
         },
         {
-            "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
-            "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
-            "summary": "“She currently has about 15 sitters, all independent contractors,” she said. “She’s got a lot of fun with them.”",
-            "date": "Wed, 23 Sep 2026 17:16:00 GMT",
+            "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+            "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+            "summary": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state,” he says.",
+            "date": "Thu, 24 Sep 2026 16:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SGDMYR=X",
+            "stock_ticker": "MYML",
             "impact": "Neutral"
         },
         {
-            "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
-            "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
-            "summary": "Nasdaq and S&amp;P 500 retreat from record territory as bond yields suddenly jump. Stocks fall, with the Nasdaq and the S&P 500 retreating from record levels.",
-            "date": "Wed, 23 Sep 2026 17:16:00 GMT",
+            "title": "Oracle’s stock is falling as investors fear a data-center setback",
+            "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
+            "summary": "Oracle is looking to protect itself from paying some expenses if a high-profile data-center project gets delayed. A recent report noted that Oracle is looking for a way to pay some expenses.",
+            "date": "Thu, 24 Sep 2026 16:42:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BOND",
+            "stock_ticker": "VTI",
             "impact": "Neutral"
         },
         {
-            "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-            "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-            "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses,” she says. “I’m not a big gambler, but I do like to take advantage of my IRA,’ she adds.",
-            "date": "Wed, 23 Sep 2026 17:15:00 GMT",
+            "title": "Do this one thing to help prevent your parents from being scammed",
+            "link": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
+            "summary": "“I felt like I was talking to a robot,” said one adviser about a client who was ensnared in a romance scam.",
+            "date": "Thu, 24 Sep 2026 16:36:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IT",
+            "stock_ticker": "^DJI",
             "impact": "Neutral"
         },
         {
             "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
             "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
             "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million,” he says. “My mom has a house worth over £1 million.”",
-            "date": "Wed, 23 Sep 2026 17:00:00 GMT",
+            "date": "Thu, 24 Sep 2026 16:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "SPT",
             "impact": "Neutral"
-        },
-        {
-            "title": "Microsoft has ‘clearly turned the corner.’ How its stock can chart more gains.",
-            "link": "https://www.marketwatch.com/story/microsoft-has-clearly-turned-the-corner-how-its-stock-can-chart-more-gains-b6156467?mod=mw_rss_topstories",
-            "summary": "A Stifel analyst is taking a more upbeat view of the tech giant’s ability to cash in on its troves of computing power.",
-            "date": "Wed, 23 Sep 2026 16:58:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MSFT",
-            "impact": "Bullish"
         }
     ]
 }
