@@ -1,124 +1,124 @@
 {
-    "date": "2026-09-24",
+    "date": "2026-09-25",
     "news": [
         {
-            "title": "Oracle sends 'force majeure' notice about data center project — stock sinks 4%",
-            "link": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
-            "summary": "Oracle is reportedly looking to delay payment on Project Jupiter if it the data center fails to come online in 2028. The data center is expected to cost $1.5 billion to build.",
-            "date": "Thu, 24 Sep 2026 16:48:38 GMT",
+            "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
+            "link": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
+            "summary": "The 10-year Treasury note yield is spiking to levels not seen in years. That may be a bad omen for financial markets.",
+            "date": "Thu, 24 Sep 2026 20:57:11 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ORCL",
+            "stock_ticker": "MPX=F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Warsh's regime change at the Fed pushes ahead – and meets resistance",
+            "link": "https://www.cnbc.com/2026/09/25/kevin-warsh-fed-interest-rates-balance-sheet.html",
+            "summary": "Fed Chairman Kevin Warsh is driving rapid change in some areas, while his emerging policy framework suggests further rate hikes remain possible. Warsh: \"I want to make sure that we don't lose sight of the fact that we need to continue to raise interest rates\"",
+            "date": "Fri, 25 Sep 2026 10:30:01 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0P0000Y7XO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump says Scott Bessent won't be AI czar",
+            "link": "https://www.cnbc.com/2026/09/25/trump-bessent-ai-czar.html",
+            "summary": "President Donald Trump said Treasury Secretary Bessent doesn't want to be what the president is calling the \"Super Intelligence czar\" Bessen said he doesn't \"want to be the super intelligence czar,\" according to the president.",
+            "date": "Fri, 25 Sep 2026 17:28:32 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "DJT",
             "impact": "Bullish"
         },
         {
-            "title": "Big business warns Trump against diesel export ban in joint letter",
-            "link": "https://www.cnbc.com/2026/09/24/chamber-commerce-business-roundtable-trump-diesel-export-ban-iran-war.html",
-            "summary": "The national average for a gallon of diesel reached $6.51 on Thursday. That's nearly $3 more than the same period a year ago.",
-            "date": "Thu, 24 Sep 2026 14:23:33 GMT",
+            "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
+            "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+            "summary": "A federal appeals court upheld the Department of Defense's blacklisting of Anthropic. In a 2-1 decision, the court ruled that Anthropic is a terrorist group.",
+            "date": "Fri, 25 Sep 2026 17:19:19 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BBAI",
+            "stock_ticker": "SCHD",
+            "impact": "Bullish"
+        },
+        {
+            "title": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says",
+            "link": "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
+            "summary": "Top White House trade official Jamieson Greer said the two days of talks between President Trump and Chinese leader Xi brought some trade matter agreements.",
+            "date": "Fri, 25 Sep 2026 16:20:40 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ON",
             "impact": "Neutral"
         },
         {
-            "title": "Analysis: Higher Treasury yields deliver a reality check on a hot, inflation-prone economy",
-            "link": "https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html",
-            "summary": "Elevated Treasury yields will complicate both Federal Reserve policy and Treasury financing. Federal Reserve will have to decide how to respond to rising Treasury yields. Treasury will also have to find a way to finance the rising yields.",
-            "date": "Thu, 24 Sep 2026 15:40:19 GMT",
+            "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
+            "link": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
+            "summary": "“My mother started having more trouble getting around. First a knee replacement, then a fall,” she says. “My mom started having to get around on crutches.”",
+            "date": "Fri, 25 Sep 2026 17:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AIAT-USD",
+            "stock_ticker": "META",
             "impact": "Neutral"
         },
         {
-            "title": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
-            "link": "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
-            "summary": "State attorney general Letitia James claims Polymarket has violated the state's gambling laws. James: Polymarket violated the law by selling goods in violation of state law. Polymarket denies the allegations.",
-            "date": "Thu, 24 Sep 2026 17:13:14 GMT",
+            "title": "This is why you might see 8% mortgage rates soon",
+            "link": "https://www.marketwatch.com/story/this-is-why-you-might-see-8-mortgage-rates-soon-6a2e24dd?mod=mw_rss_topstories",
+            "summary": "The bond market selloff’s consequences for AI, a threat to the buy-and-hold investment style and advice from the Moneyist.",
+            "date": "Fri, 25 Sep 2026 17:20:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NWCL",
+            "stock_ticker": "THISX",
             "impact": "Neutral"
         },
         {
-            "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
-            "link": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
-            "summary": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target. The policymaker was speaking to reporters on the sidelines of a conference in London.",
-            "date": "Thu, 24 Sep 2026 17:12:04 GMT",
+            "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
+            "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+            "summary": "New findings supply hard data on the potential costs of these decisions. At a time when many college students say they are rethinking their academic focus because of AI, these findings provide hard data.",
+            "date": "Fri, 25 Sep 2026 17:11:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ANNA",
+            "stock_ticker": "0P0001YPM3.L",
+            "impact": "Bullish"
+        },
+        {
+            "title": "How do I know when to ask someone out? I’m 21 and I don’t want to waste my money or my time.",
+            "link": "https://www.marketwatch.com/story/when-is-it-the-right-time-to-ask-someone-out-im-21-and-my-finances-and-identity-still-feel-like-works-in-progress-4bce4fa5?mod=mw_rss_topstories",
+            "summary": "“What signs of mutual interest should someone realistically look for?” asks CNN’s John Sutter. Sutter asks: “What Signs of Mutual interest should one look for in a relationship?’",
+            "date": "Fri, 25 Sep 2026 16:48:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
-            "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
-            "summary": "“When my father died, his trust was the Bible’s,” she says. “When he died, my father”s trust was also the Bible, she adds.",
-            "date": "Thu, 24 Sep 2026 17:15:00 GMT",
+            "title": "Micron investors should get ready for a seesaw ride, analyst says",
+            "link": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
+            "summary": "The timing of an Nvidia product ramp may require a balancing act for Micron investors. Some estimated revenue shifts toward next year instead of this year.",
+            "date": "Fri, 25 Sep 2026 16:27:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WDC",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-            "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-            "summary": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state,” he says.",
-            "date": "Thu, 24 Sep 2026 16:45:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MYML",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Oracle’s stock is falling as investors fear a data-center setback",
-            "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
-            "summary": "Oracle is looking to protect itself from paying some expenses if a high-profile data-center project gets delayed. A recent report noted that Oracle is looking for a way to pay some expenses.",
-            "date": "Thu, 24 Sep 2026 16:42:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "VTI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Do this one thing to help prevent your parents from being scammed",
-            "link": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
-            "summary": "“I felt like I was talking to a robot,” said one adviser about a client who was ensnared in a romance scam.",
-            "date": "Thu, 24 Sep 2026 16:36:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "^DJI",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-            "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-            "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million,” he says. “My mom has a house worth over £1 million.”",
-            "date": "Thu, 24 Sep 2026 16:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "SPT",
+            "stock_ticker": "MU",
             "impact": "Neutral"
         }
     ]
