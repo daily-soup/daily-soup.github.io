@@ -1,124 +1,124 @@
 {
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "news": [
         {
-            "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-            "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-            "summary": "The surge in Treasury yields means it's at least going to cost more. The AI infrastructure buildout shows no sign of slowing, but the surge in bonds means it will be more expensive.",
-            "date": "Sun, 27 Sep 2026 15:35:34 GMT",
+            "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
+            "link": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
+            "summary": "The announcement comes as Americans' souring views of the economy are poised to shape the upcoming midterm election. Trump's announcement with Mesabi Metallics comes as the economy is seen as a key issue in the election.",
+            "date": "Mon, 28 Sep 2026 19:37:50 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AI",
+            "stock_ticker": "DJT",
+            "impact": "Bullish"
+        },
+        {
+            "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
+            "link": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
+            "summary": "Elon Musk's SpaceX launched a historic test flight of its massive Starship rocket early Monday. The rocket took off from the Vandenberg Air Force Base in California. It was the first test flight for SpaceX's massive rocket.",
+            "date": "Mon, 28 Sep 2026 16:01:50 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPCX",
             "impact": "Neutral"
         },
         {
-            "title": "At NFL games this season, drone defense tech aims to bring down disruptions",
-            "link": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
-            "summary": "The NFL recorded 10,852 drone violations over stadiums between 2021 and 2025. The Jaguars became the first team to sign a drone defense firm.",
-            "date": "Sun, 27 Sep 2026 15:22:03 GMT",
+            "title": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
+            "link": "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
+            "summary": "Hugging Face saw a flurry of deal interest before Nvidia agreed to buy the open-source platform for roughly $13 billion, CNBC has learned.",
+            "date": "Mon, 28 Sep 2026 18:47:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "AT",
+            "stock_ticker": "OPENAI-USD",
             "impact": "Neutral"
         },
         {
-            "title": "Wall Street money takes back over from small investors as driving force of the stock market",
-            "link": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html",
-            "summary": "One firm sees a \"reasonably constructive signal for risk appetite\" among institutional investors. One firm see a \"reasonable constructive signal\" for institutional investors' risk appetite.",
-            "date": "Sun, 27 Sep 2026 11:32:35 GMT",
+            "title": "LeBron James is already boosting ticket and merchandise demand for Philadelphia 76ers",
+            "link": "https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html",
+            "summary": "NBA star LeBron James is having a major financial impact on the Philadelphia 76ers and Philadelphia. James is boosting sponsorships, ticket sales, and economic activity.",
+            "date": "Mon, 28 Sep 2026 19:27:48 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WBX",
+            "stock_ticker": "RJF",
             "impact": "Neutral"
         },
         {
-            "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
-            "link": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
-            "summary": " Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?",
-            "date": "Sun, 27 Sep 2026 14:33:22 GMT",
+            "title": "Nvidia share buyback plan gets $150 billion boost",
+            "link": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
+            "summary": "N Nvidia said the buyback boost marks the largest share repurchase authorization increase in history. Nvidia said it will buy back up to $1 billion in stock.",
+            "date": "Mon, 28 Sep 2026 14:46:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "8637.HK",
+            "stock_ticker": "NVDA",
             "impact": "Neutral"
         },
         {
-            "title": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table",
-            "link": "https://www.cnbc.com/2026/09/27/iran-foreign-minister-keeps-indirect-talks-with-us-open-state-media.html",
-            "summary": "Iran's foreign minister says talks are the only way to break the deadlock. Iran's navy says it's analyzing data from a captured U.S. underwater drone.",
-            "date": "Sun, 27 Sep 2026 16:15:45 GMT",
+            "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+            "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+            "summary": "“The only debts were utility and credit-card bills, which we will pay off,” he said. “We will pay it off.”",
+            "date": "Mon, 28 Sep 2026 19:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "OVF",
+            "stock_ticker": "MU",
             "impact": "Neutral"
         },
         {
-            "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-            "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-            "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million,” he says. “My mom has a house worth over £1 million.”",
-            "date": "Sun, 27 Sep 2026 16:45:00 GMT",
+            "title": "PepsiCo plans to raise prices on sodas, chips and dip — and that has Wall Street worried",
+            "link": "https://www.marketwatch.com/story/pepsico-plans-to-raise-prices-on-sodas-chips-and-dip-and-that-has-wall-street-worried-0ec355bf?mod=mw_rss_topstories",
+            "summary": "Cowen analysts flagged the company’s “shifting narrative on affordability” as a risk. TD Cowen: The company has a ‘shifting narratives on affordability.’",
+            "date": "Mon, 28 Sep 2026 19:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VFTAX",
+            "stock_ticker": "PEP",
             "impact": "Neutral"
         },
         {
-            "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-            "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-            "summary": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state,” he says.",
-            "date": "Sun, 27 Sep 2026 16:00:00 GMT",
+            "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+            "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+            "summary": "“As a country, we have grown dangerously comfortable,” he said. “We have growndangerously comfortable.”",
+            "date": "Mon, 28 Sep 2026 19:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
+            "stock_ticker": "WDC",
             "impact": "Neutral"
         },
         {
-            "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-            "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-            "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses,” she says. “I’m not a big gambler, but I do like to take advantage of my IRA,’ she adds.",
-            "date": "Sun, 27 Sep 2026 16:00:00 GMT",
+            "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
+            "link": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
+            "summary": "\"It’s important to have guardrails around your legacy,\" he says. \"You can’t live in the past. You have to have a future\"",
+            "date": "Mon, 28 Sep 2026 18:56:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "IT",
+            "stock_ticker": "0P0001X31I.F",
             "impact": "Neutral"
         },
         {
-            "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-            "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
-            "summary": "“Her younger son lives in the condo, but wants to move elsewhere with friends,” her son says. “Her older son lives at the condo and wants to live with friends.”",
-            "date": "Sun, 27 Sep 2026 15:15:00 GMT",
+            "title": "Spending $800 to see my family this Thanksgiving is a financial burden. How can I push for a cheaper flight?",
+            "link": "https://www.marketwatch.com/story/spending-800-to-see-my-family-this-thanksgiving-is-a-financial-burden-how-can-i-push-for-a-cheaper-flight-c6dd1fdf?mod=mw_rss_topstories",
+            "summary": "“My sister always chooses places where it’s cheapest for her to fly,” says her sister. “She always chooses to go to the cheapest places possible.”",
+            "date": "Mon, 28 Sep 2026 18:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MYR=X",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-            "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-            "summary": "“I am a retired senior citizen living check-to-check,” she says. “I’m not going to live in fear. I’ve been through a lot.”",
-            "date": "Sun, 27 Sep 2026 15:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "^SPRETIE",
             "impact": "Neutral"
         }
     ]
