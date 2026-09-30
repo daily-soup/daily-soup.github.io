@@ -1,71 +1,71 @@
 {
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "news": [
         {
-            "title": "Consumer optimism slides to lowest since 2014 as fears escalate over rising prices and jobs",
-            "link": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
-            "summary": "The Conference Board's Consumer Confidence Index tumbled to 81.9, a decline of 6.7 points. The reading was well below the forecast for 89.",
-            "date": "Tue, 29 Sep 2026 16:52:00 GMT",
+            "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
+            "link": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
+            "summary": "The long-awaited report by the Fed's inspector general said it found no reasonable grounds to believe federal criminal law had been violated. The report was released on Tuesday.",
+            "date": "Wed, 30 Sep 2026 17:15:24 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "XAY=F",
+            "stock_ticker": "FNMA",
             "impact": "Neutral"
         },
         {
-            "title": "Property Play: Homeowners are sitting on record equity – and not using it",
-            "link": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
-            "summary": "U.S. homeowners have more housing wealth than ever before, thanks to fast-rising home prices. But they aren't spending much of it.",
-            "date": "Tue, 29 Sep 2026 18:19:31 GMT",
+            "title": "Commerce Secretary Howard Lutnick reports more than $250 million in income last year",
+            "link": "https://www.cnbc.com/2026/09/30/howard-lutnick-commerce-secretary-disclosure-cantor-fitzgerald.html",
+            "summary": " Commerce Secretary Howard Lutnick unwound his ties to Cantor Fitzgerald as the billionaire financier joined the Trump administration. Cantor Fitzgerald is a leading Wall Street investment bank.",
+            "date": "Wed, 30 Sep 2026 16:30:42 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "STWD",
+            "stock_ticker": "CM.TO",
             "impact": "Neutral"
         },
         {
-            "title": "Trump Accounts will auto-enroll children, potentially adding 60 million accounts: Treasury",
-            "link": "https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html",
-            "summary": "The Treasury Department announced that Trump Accounts will begin auto enrolling eligible children. Here's what families need to know about how to apply for the accounts. The accounts will be available to children as well as adults.",
-            "date": "Tue, 29 Sep 2026 18:01:58 GMT",
+            "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
+            "link": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
+            "summary": "It is unclear how long the recovery can be sustained given that it relies on U.S. military protecting tankers in the Persian Gulf.",
+            "date": "Wed, 30 Sep 2026 18:11:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "CL=F",
             "impact": "Neutral"
         },
         {
-            "title": "Tech leaders arrive at White House for AI luncheon with Trump",
-            "link": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
-            "summary": "The artificial intelligence luncheon comes as calls for a slowdown and regulation reach a fever pitch. The luncheon is being held in Washington, D.C. on Wednesday.",
-            "date": "Tue, 29 Sep 2026 17:58:39 GMT",
+            "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+            "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+            "summary": "The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack. Anthropic and OpenAI have not commented on the investigation.",
+            "date": "Wed, 30 Sep 2026 15:54:38 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TECH",
-            "impact": "Bearish"
+            "stock_ticker": "FTC",
+            "impact": "Neutral"
         },
         {
-            "title": "Trump government ads were funded by Homeland Security, WSJ reports",
-            "link": "https://www.cnbc.com/2026/09/29/trump-ads-cbp-dhs-taxpayer-funding-election.html",
-            "summary": "CBP funded government-paid Trump TV ads as Democratic appropriators say DHS dedicated $20 million to the campaign ahead of the midterm election.",
-            "date": "Tue, 29 Sep 2026 17:16:53 GMT",
+            "title": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
+            "link": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
+            "summary": "The Department of Justice seeks the recusal of the judges who spoke to The New York Times from any cases involving the Department of Homeland Security.",
+            "date": "Wed, 30 Sep 2026 17:09:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "DOJE",
             "impact": "Neutral"
         },
         {
             "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
             "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
             "summary": "Medicare beneficiaries can change their coverage during open enrollment. Open enrollment begins Oct. 15 and runs through Dec. 15. For more information, visit Medicare.gov/OpenEnrollment.",
-            "date": "Tue, 29 Sep 2026 17:45:00 GMT",
+            "date": "Wed, 30 Sep 2026 18:03:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -74,51 +74,51 @@
             "impact": "Neutral"
         },
         {
-            "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-            "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-            "summary": "“I am a retired senior citizen living check-to-check,” she says. “I’m not going to live in fear. I’ve been through a lot.”",
-            "date": "Tue, 29 Sep 2026 17:30:00 GMT",
+            "title": "Why the ‘Halloween Indicator’ isn’t working — and what smart investors are doing instead",
+            "link": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
+            "summary": "Followers of ‘sell in May and go away’ have lost out on a stock rally. Followers of 'sell in April and go to May' have failed to benefit from the rally.",
+            "date": "Wed, 30 Sep 2026 17:40:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMNR",
+            "stock_ticker": "WHY.V",
             "impact": "Neutral"
         },
         {
-            "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
-            "link": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
-            "summary": "The recent Starship launch helps SpaceX with a number of priorities that could help its stock reach $900 over the long run, an analyst says.",
-            "date": "Tue, 29 Sep 2026 16:59:00 GMT",
+            "title": "These bond strategies can help you get a safe 5% return on your cash",
+            "link": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+            "summary": "Financial planners say they’re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement. U.S. Treasury yields on the rise, financial planners say.",
+            "date": "Wed, 30 Sep 2026 17:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SPCX",
+            "stock_ticker": "0P0001YPM3.L",
             "impact": "Neutral"
         },
         {
-            "title": "Here’s what Netflix skeptics are getting wrong about the stock, according to an analyst",
-            "link": "https://www.marketwatch.com/story/heres-what-netflix-skeptics-are-getting-wrong-about-the-stock-according-to-an-analyst-40436696?mod=mw_rss_topstories",
-            "summary": "Deutsche Bank: Netflix investors are too worried about the U.S. Investors are overlooking gains abroad, Deutsche Bank argues. Netflix is one of the most popular streaming services in the world.",
-            "date": "Tue, 29 Sep 2026 16:45:00 GMT",
+            "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
+            "link": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
+            "summary": "President Donald Trump is spending time this week talking up big job-creating projects in battleground states. Trump: \"We're going to be able to create a lot of new jobs\"",
+            "date": "Wed, 30 Sep 2026 17:37:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHATZZX",
-            "impact": "Neutral"
+            "stock_ticker": "DJT",
+            "impact": "Bullish"
         },
         {
-            "title": "The hidden messages the bond market is sending about the AI boom and the stock market",
-            "link": "https://www.marketwatch.com/story/the-hidden-messages-the-bond-market-is-sending-about-the-ai-boom-and-the-stock-market-5c9495ba?mod=mw_rss_topstories",
-            "summary": " FT correspondent Robin Wigglesworth tells MarketWatch about how bonds build the modern financial system. She explains what they are currently saying about inflation, government debt and the financial markets.",
-            "date": "Tue, 29 Sep 2026 16:44:00 GMT",
+            "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+            "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+            "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage,” he says.",
+            "date": "Wed, 30 Sep 2026 17:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "MU",
             "impact": "Neutral"
         }
     ]
