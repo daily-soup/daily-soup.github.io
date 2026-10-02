@@ -1,124 +1,124 @@
 {
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "news": [
         {
-            "title": "10-year Treasury yield slides after hitting highest levels in 24 years",
-            "link": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
-            "summary": "U.S. Treasury yields were higher on Thursday as investors kept selling government debt. The yield rise was driven by a sell-off in government debt, particularly the 10-year note.",
-            "date": "Thu, 01 Oct 2026 17:34:40 GMT",
+            "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
+            "link": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
+            "summary": "Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles.",
+            "date": "Fri, 02 Oct 2026 17:20:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "^TNX",
+            "stock_ticker": "F",
             "impact": "Neutral"
         },
         {
-            "title": "General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
-            "link": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
-            "summary": "GM's sales of all-electric vehicles are down across the board, as enthusiasm for electric vehicles wanes. GM's all- electric vehicle sales are down in the U.S.",
-            "date": "Thu, 01 Oct 2026 16:58:39 GMT",
+            "title": "Men are losing ground in the labor market. Here's why",
+            "link": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
+            "summary": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis. Women outnumbered men for the eighth straight month in the U.S. economy.",
+            "date": "Fri, 02 Oct 2026 17:38:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GIS",
+            "stock_ticker": "TOWR.JK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
+            "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
+            "summary": "EU countries set for crisis talks on soaring diesel prices. Officials warn a U.S. export ban could hurt Europe’s economic outlook.",
+            "date": "Fri, 02 Oct 2026 16:13:37 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "G7W.F",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+            "link": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
+            "summary": "Nonfarm payrolls rose by just 29,000 in September. The unemployment rate rose to 4.2%, the Bureau of Labor Statistics said.",
+            "date": "Fri, 02 Oct 2026 13:45:58 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ABT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
+            "link": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
+            "summary": "Eli Lilly and Novo are developing new amylin drugs. Amylin is another biological lever to pull in treating obesity and diabetes.",
+            "date": "Fri, 02 Oct 2026 17:55:26 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHY.V",
+            "impact": "Neutral"
+        },
+        {
+            "title": "How much higher can bond yields rise — and what does it mean for stocks?",
+            "link": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
+            "summary": "This week's Moneyist columnists share their favorite weekend reads. This week, the columnists discuss adjustable-rate mortgage loans and Gen Z entrepreneurs.",
+            "date": "Fri, 02 Oct 2026 17:48:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
+            "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+            "summary": "Europe leaders agreed Friday to release some of diesel stockpiles. The move pulled prices of oil down by more than 4%. The move was announced at a meeting of European leaders.",
+            "date": "Fri, 02 Oct 2026 17:48:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^106673-EUR-GRTR",
             "impact": "Bearish"
         },
         {
-            "title": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
-            "link": "https://www.cnbc.com/2026/10/01/treasury-trump-accounts-auto-enroll-more-than-60-million-children.html",
-            "summary": "More than 60 million children have been automatically enrolled in Trump Accounts, Treasury Department says. Treasury Department announcement exclusively provided to CNBC by the White House.",
-            "date": "Thu, 01 Oct 2026 16:52:22 GMT",
+            "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
+            "link": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
+            "summary": "A weak U.S. labor report did what bad news hadn’t done in a while: It made U.s. debt look like a safe haven again.",
+            "date": "Fri, 02 Oct 2026 17:38:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Nike is set to report earnings after the bell. Here's what to expect",
-            "link": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
-            "summary": "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China. The company is also expected to report a drop in profits for the quarter.",
-            "date": "Thu, 01 Oct 2026 16:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NKE",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
-            "link": "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
-            "summary": "Google is promising major advances in coding and cybersecurity, but the company is quickly falling behind in personal agents. The company is also falling behind on personal agents such as personal assistants.",
-            "date": "Thu, 01 Oct 2026 18:29:49 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GOOG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
-            "link": "https://www.marketwatch.com/story/this-silent-alarm-in-the-bond-market-tells-you-which-stocks-to-buy-and-which-to-avoid-4568ac53?mod=mw_rss_topstories",
-            "summary": "Widening credit spreads send an important signal that investors should heed. Investors should heed about which stocks to buy and which to avoid, says Citi.",
-            "date": "Thu, 01 Oct 2026 18:10:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THISX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Trump’s SEC wants to allow fund managers to charge extra fees for better performance. Here’s why it’s a terrible idea.",
-            "link": "https://www.marketwatch.com/story/trumps-sec-wants-to-allow-fund-managers-to-charge-extra-fees-for-better-performance-heres-why-its-a-terrible-idea-61f6e0cc?mod=mw_rss_topstories",
-            "summary": "Think twice before embracing any new fund with high performance-related fees in your 401(k) Think twice before adopting a new fund that has high performance related fees.",
-            "date": "Thu, 01 Oct 2026 17:16:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KTOS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "This couple took out an adjustable-rate mortgage when rates were over 8%. Here’s how it worked out.",
-            "link": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
-            "summary": "Adjustable-rate mortgages have made a comeback as mortgage rates surge. Buyers seek relief from high housing costs with adjustable-rate loans.",
-            "date": "Thu, 01 Oct 2026 16:51:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "THISX",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Mark Zuckerberg is coming for Apple’s empire",
-            "link": "https://www.marketwatch.com/story/metas-mark-zuckerberg-is-coming-for-apples-empire-f34d1f92?mod=mw_rss_topstories",
-            "summary": " Meta is betting that the AI era warrants different types of hardware. Apple has a grip on consumer technology through its iPhone business, but Meta is hoping to change that.",
-            "date": "Thu, 01 Oct 2026 16:47:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HOOD",
+            "stock_ticker": "WHY.V",
             "impact": "Neutral"
         },
         {
             "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
             "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
             "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her,” he says.",
-            "date": "Thu, 01 Oct 2026 16:16:00 GMT",
+            "date": "Fri, 02 Oct 2026 17:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BMY",
+            "impact": "Bullish"
+        },
+        {
+            "title": "The U.S. can’t find enough of this critical machine component to win the humanoid-robots race",
+            "link": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
+            "summary": "The U.S. does not have a supply chain that can produce key parts. Humanoid robots have the potential to revolutionize life as we know it.",
+            "date": "Fri, 02 Oct 2026 17:29:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BA",
             "impact": "Bullish"
         }
     ]
