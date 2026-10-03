@@ -1,107 +1,83 @@
 {
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "news": [
         {
-            "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
-            "link": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
-            "summary": "Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles.",
-            "date": "Fri, 02 Oct 2026 17:20:33 GMT",
+            "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
+            "link": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+            "summary": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
+            "date": "Sat, 03 Oct 2026 11:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "F",
+            "stock_ticker": "HOG",
             "impact": "Neutral"
         },
         {
-            "title": "Men are losing ground in the labor market. Here's why",
-            "link": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
-            "summary": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis. Women outnumbered men for the eighth straight month in the U.S. economy.",
-            "date": "Fri, 02 Oct 2026 17:38:59 GMT",
+            "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+            "link": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+            "summary": "Elon Musk's company Cybercab launched in Austin, Texas, a month ago. The company is trying to move beyond auto sales with a range of services.",
+            "date": "Sat, 03 Oct 2026 11:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TOWR.JK",
+            "stock_ticker": "HDRN",
             "impact": "Neutral"
         },
         {
-            "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
-            "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
-            "summary": "EU countries set for crisis talks on soaring diesel prices. Officials warn a U.S. export ban could hurt Europe’s economic outlook.",
-            "date": "Fri, 02 Oct 2026 16:13:37 GMT",
+            "title": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
+            "link": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
+            "summary": "The FlyDubai co-pilot attacked the pilot inside the cockpit with a crash axe. He attempted to take control of the aircraft, the UAE prosecutor general said.",
+            "date": "Sat, 03 Oct 2026 12:34:59 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "G7W.F",
+            "stock_ticker": "PL",
             "impact": "Neutral"
         },
         {
-            "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-            "link": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
-            "summary": "Nonfarm payrolls rose by just 29,000 in September. The unemployment rate rose to 4.2%, the Bureau of Labor Statistics said.",
-            "date": "Fri, 02 Oct 2026 13:45:58 GMT",
+            "title": "Berkshire buys more Lennar shares, but pace of purchases slows",
+            "link": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
+            "summary": "Berkshire Hathaway added to its bet on Lennar this week, raising its stake to 11.2%. The pace of its buying appears to be slowing.",
+            "date": "Sat, 03 Oct 2026 12:55:31 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ABT",
+            "stock_ticker": "BRK-B",
             "impact": "Neutral"
         },
         {
-            "title": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
-            "link": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
-            "summary": "Eli Lilly and Novo are developing new amylin drugs. Amylin is another biological lever to pull in treating obesity and diabetes.",
-            "date": "Fri, 02 Oct 2026 17:55:26 GMT",
+            "title": "Novig credits Sydney Sweeney-backed campaign for platform’s surge in growth",
+            "link": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
+            "summary": "Novig's \"Just Sports\" campaign drew backlash from some female athletes. But it also brought in a rush of trading volume for the company.",
+            "date": "Sat, 03 Oct 2026 13:30:48 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHY.V",
+            "stock_ticker": "0P00014ZM2",
             "impact": "Neutral"
         },
         {
-            "title": "How much higher can bond yields rise — and what does it mean for stocks?",
-            "link": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
-            "summary": "This week's Moneyist columnists share their favorite weekend reads. This week, the columnists discuss adjustable-rate mortgage loans and Gen Z entrepreneurs.",
-            "date": "Fri, 02 Oct 2026 17:48:00 GMT",
+            "title": "Switching jobs to get higher pay works best in these industries",
+            "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
+            "summary": "Find a new job is one way to get a pay increase at a time when inflation has been outpacing wage growth. Finding a new jobs is one ways to get an pay increase in a time of inflation.",
+            "date": "Sat, 03 Oct 2026 16:42:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
-            "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-            "summary": "Europe leaders agreed Friday to release some of diesel stockpiles. The move pulled prices of oil down by more than 4%. The move was announced at a meeting of European leaders.",
-            "date": "Fri, 02 Oct 2026 17:48:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "^106673-EUR-GRTR",
-            "impact": "Bearish"
-        },
-        {
-            "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
-            "link": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
-            "summary": "A weak U.S. labor report did what bad news hadn’t done in a while: It made U.s. debt look like a safe haven again.",
-            "date": "Fri, 02 Oct 2026 17:38:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "WHY.V",
+            "stock_ticker": "SWITCHTE.BO",
             "impact": "Neutral"
         },
         {
             "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
             "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
             "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her,” he says.",
-            "date": "Fri, 02 Oct 2026 17:30:00 GMT",
+            "date": "Sat, 03 Oct 2026 16:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,16 +86,40 @@
             "impact": "Bullish"
         },
         {
-            "title": "The U.S. can’t find enough of this critical machine component to win the humanoid-robots race",
-            "link": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
-            "summary": "The U.S. does not have a supply chain that can produce key parts. Humanoid robots have the potential to revolutionize life as we know it.",
-            "date": "Fri, 02 Oct 2026 17:29:00 GMT",
+            "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+            "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+            "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage,” he says.",
+            "date": "Sat, 03 Oct 2026 16:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MU",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
+            "link": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
+            "summary": "The Points Guy’s Brian Kelly gave me a crash course in annual fees and redemptions to offset rising travel costs. The Points Guy's Brian Kelly gives me a Crash Course in Annual Fees and Redemptions.",
+            "date": "Sat, 03 Oct 2026 15:42:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BA",
-            "impact": "Bullish"
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+            "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+            "summary": "“When my paycheck lands, it takes a detour through bitcoin,” he says. “When I get paid, my paycheck goes through bitcoin.”",
+            "date": "Sat, 03 Oct 2026 15:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
+            "impact": "Neutral"
         }
     ]
 }
