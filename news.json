@@ -1,23 +1,71 @@
 {
-    "date": "2026-10-04",
+    "date": "2026-10-05",
     "news": [
         {
-            "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-            "link": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
-            "summary": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables. Apple, Google, Meta and other tech giants pushing newAI devices and assistant amid growing Privacy concerns.",
-            "date": "Sun, 04 Oct 2026 13:22:39 GMT",
+            "title": "'We had a threat': Trump explains U.S. moving long-range bombers from UK",
+            "link": "https://www.cnbc.com/2026/10/05/trump-bombers-uk-iran.html",
+            "summary": "The U.S. Air Force B-1 bombers removed from England have been used in strikes on Iran. The U.N. Security Council has approved the use of the bombers in the Middle East.",
+            "date": "Mon, 05 Oct 2026 20:53:33 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "A",
+            "stock_ticker": "WDC",
             "impact": "Neutral"
         },
         {
-            "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
-            "link": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
-            "summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy. Clayton will work with the White House's AI team on a range of issues.",
-            "date": "Sun, 04 Oct 2026 12:53:12 GMT",
+            "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
+            "link": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+            "summary": "The bill bans federal candidates from trading prediction market contracts related to their own elections. If violated, the bill would result in a fine if violated.",
+            "date": "Mon, 05 Oct 2026 20:31:19 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GLAS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
+            "link": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+            "summary": "The leading AI labs facing intensifying scrutiny over their safety and security practices. The leadingAI labs facing intense scrutiny overtheir safety andsecurity practices.",
+            "date": "Mon, 05 Oct 2026 20:08:19 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AI",
+            "impact": "Neutral"
+        },
+        {
+            "title": "SpaceX stock climbs to highest since June, returning Musk to trillionaire status",
+            "link": "https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
+            "summary": " SpaceX shares have bounced almost 60% off their low in early August, boosted by the company's AI business and Starship progress. SpaceX shares are now valued at $20 billion.",
+            "date": "Mon, 05 Oct 2026 20:10:13 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SPCX",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
+            "link": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html",
+            "summary": "Lucid delivered 3,806 EVs and produced 2,954 units during the third quarter. That compared to 4,078 deliveries on production of 3,891 EVs a year earlier.",
+            "date": "Mon, 05 Oct 2026 20:22:52 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "QTTB",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Trump is promising $90 Medicare rebate checks ahead of the midterms. Here’s the hidden cost.",
+            "link": "https://www.marketwatch.com/story/trump-is-promising-90-medicare-rebate-checks-ahead-of-the-midterms-heres-the-hidden-cost-14b7e2ce?mod=mw_rss_topstories",
+            "summary": "The president is betting that he can make seniors forget rising healthcare costs. The president is hoping to convince seniors that they don't need to worry about rising costs.",
+            "date": "Mon, 05 Oct 2026 20:39:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,82 +74,34 @@
             "impact": "Neutral"
         },
         {
-            "title": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
-            "link": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
-            "summary": "Experts say the offensive is not a decisive breakthrough, but demonstrates how Ukraine’s expanding use of robotic systems is reshaping frontline warfare.",
-            "date": "Sun, 04 Oct 2026 05:00:01 GMT",
+            "title": "Intel’s stock drops after Musk hints at an additional partner for big chip venture",
+            "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
+            "summary": "Elon Musk says discussions with TSMC are ongoing. Intel may not be the only semiconductor company tapped to help with chip manufacturing for Terafab project.",
+            "date": "Mon, 05 Oct 2026 20:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SERV",
+            "stock_ticker": "VTI",
             "impact": "Neutral"
         },
         {
-            "title": "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried",
-            "link": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
-            "summary": "Survey shows Gen Z increasingly views sports bets as a form of investment. Those who gamble too often face mental health risks, experts say.",
-            "date": "Sun, 04 Oct 2026 12:57:45 GMT",
+            "title": "Investors see big opportunity in ferocious 2026 bond-market rout",
+            "link": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
+            "summary": "The bond market rout of 2026 may be jolting markets, but it’s also gaining a important following among savers and the risk averse.",
+            "date": "Mon, 05 Oct 2026 20:14:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GENI",
+            "stock_ticker": "OHI",
             "impact": "Neutral"
         },
         {
-            "title": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
-            "link": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
-            "summary": "E.l.f. Beauty released an album titled \"Mirror Mix\" as the brand plans to increase its marketing spend for the rest of the year.",
-            "date": "Sun, 04 Oct 2026 12:00:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "002107.SZ",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Corporate America has never been this upbeat about future profits",
-            "link": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
-            "summary": "Third-quarter earnings kick off this week. More companies than ever have expressed optimism about their bottom lines. More than half of the companies in the S&P 500 are expected to report positive results.",
-            "date": "Sun, 04 Oct 2026 14:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HYG",
-            "impact": "Neutral"
-        },
-        {
-            "title": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
-            "link": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
-            "summary": "If stocks see another big swoon this year, investors already know why. It's because they're in trouble, and it's a sign of things to come.",
-            "date": "Sun, 04 Oct 2026 13:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "POCT",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
-            "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
-            "summary": "The real fed-funds rate is now surprisingly low. Minutes from the September meeting may provide extra context, as the real Fed rate is still very low.",
-            "date": "Sun, 04 Oct 2026 12:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ZQ=F",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
-            "link": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
-            "summary": "Debt among older Americans is rising, both in terms of the number of older households carrying debt and the amount borrowed. Older Americans are more likely to be in debt than younger Americans, a new study shows.",
-            "date": "Sun, 04 Oct 2026 00:02:00 GMT",
+            "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+            "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+            "summary": "“She developed pleural effusion — fluid between the lungs and ribs, compressing her lungs and making it hard for her to breathe,” the hospital said.",
+            "date": "Mon, 05 Oct 2026 19:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -110,15 +110,15 @@
             "impact": "Neutral"
         },
         {
-            "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
-            "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-            "summary": "Is it time to dust off the financial playbook from that dismal decade? The U.S. is in the midst of one of its worst financial years in decades.",
-            "date": "Sat, 03 Oct 2026 23:58:00 GMT",
+            "title": "Go ahead and get that poetry degree. Republican law won’t prevent people with humanities majors from getting student loans.",
+            "link": "https://www.marketwatch.com/story/go-ahead-and-get-that-poetry-degree-republican-law-wont-prevent-people-with-humanities-majors-from-getting-student-loans-f94587cf?mod=mw_rss_topstories",
+            "summary": "The vast majority of bachelor’s and graduate degree programs pass new rules. The new rules are meant to hold colleges accountable for their actions.",
+            "date": "Mon, 05 Oct 2026 19:18:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "FDPSX",
+            "stock_ticker": "GO",
             "impact": "Neutral"
         }
     ]
