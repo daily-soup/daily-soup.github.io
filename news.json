@@ -1,124 +1,124 @@
 {
-    "date": "2026-10-06",
+    "date": "2026-10-07",
     "news": [
         {
-            "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-            "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-            "summary": "Dow Jones consensus estimate was $102 billion. That marked a 13.7% jump from July and was ahead of the consensus estimate for $100 billion.",
-            "date": "Tue, 06 Oct 2026 15:52:22 GMT",
+            "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
+            "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
+            "summary": "The Federal Reserve released minutes from its Sept. 15-16 policy meeting on Wednesday. The minutes were released to coincide with the release of the minutes of the Fed's September meeting.",
+            "date": "Wed, 07 Oct 2026 18:42:36 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "TTD",
+            "stock_ticker": "FNMA",
             "impact": "Neutral"
         },
         {
-            "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
-            "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
-            "summary": "Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through the Hormuz choke point.",
-            "date": "Tue, 06 Oct 2026 16:19:10 GMT",
+            "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
+            "link": "https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html",
+            "summary": "Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers. The cost of shipping has soared as a result of the war.",
+            "date": "Wed, 07 Oct 2026 18:50:21 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0P0000K8ZI.T",
+            "stock_ticker": "STAN.L",
             "impact": "Neutral"
         },
         {
-            "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
-            "link": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
-            "summary": "The expansion marks the AI company's latest push to deepen its ties to founders and fast-growing companies. The company is based in San Francisco and has offices in London and New York.",
-            "date": "Tue, 06 Oct 2026 18:06:40 GMT",
+            "title": "10-year Treasury yield backs off from 24-year high after solid bond auction eases demand fears",
+            "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+            "summary": "U.S. Treasury yields came off their highs after a solid sale of 10-year notes. U.S., German bond yields also came off highs after solid sale.",
+            "date": "Wed, 07 Oct 2026 18:47:30 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ANTW",
+            "stock_ticker": "^TNX",
             "impact": "Neutral"
         },
         {
-            "title": "Kalshi launches transparency features on its election contracts ahead of midterms",
-            "link": "https://www.cnbc.com/2026/10/06/kalshi-launches-transparency-features-on-its-election-contracts-ahead-of-midterms-.html",
-            "summary": "The platform will now provide tags that indicate which election markets have low volumes. The tags will be available to users in the U.S. and Canada.",
-            "date": "Tue, 06 Oct 2026 18:34:49 GMT",
+            "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+            "link": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+            "summary": "Microsoft continues to make its own PCs even though it's not one of the top device makers. The new device shows Microsoft remains committed to making its own PC. The Microsoft Surface Pro 2 is expected to be released later this year.",
+            "date": "Wed, 07 Oct 2026 18:55:10 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "KALSZZX",
+            "stock_ticker": "MSFT",
             "impact": "Neutral"
         },
         {
-            "title": "Salesforce shares sit at the epicenter of AI confusion. Here's how to trade it",
-            "link": "https://www.cnbc.com/2026/10/06/salesforce-shares-sit-at-the-epicenter-of-ai-confusion-heres-how-to-trade-it.html",
-            "summary": "Salesforce.com is a stock that personified the promise and peril of the AI trade. Salesforce is one of the biggest names in the cloud computing industry.",
-            "date": "Tue, 06 Oct 2026 17:22:20 GMT",
+            "title": "Here comes third-quarter earnings season. Booming profits could propel the S&P 500 to new heights",
+            "link": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
+            "summary": "Third-quarter earnings season kicks off this week. The market is eagerly anticipating what the market is anticipating: blockbuster profits. The Dow Jones Industrial Average is up 0.3% this morning.",
+            "date": "Wed, 07 Oct 2026 18:19:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "CRM",
+            "stock_ticker": "HERE",
             "impact": "Neutral"
         },
         {
-            "title": "‘Trump accounts’ could force MAGA children to own New York Times stock",
-            "link": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
-            "summary": "\"This is going to bring a lot of problems that almost anyone could have predicted,\" he says. \"It's going to be a very difficult year for the country,\" he adds.",
-            "date": "Tue, 06 Oct 2026 18:39:00 GMT",
+            "title": "Stocks are increasingly their own best hedge. This chart shows why.",
+            "link": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories",
+            "summary": "For decades, investors concerned about stocks sought succor in the bond market. But these days, the best shield against an outbreak of volatility might just be owning other stocks.",
+            "date": "Wed, 07 Oct 2026 18:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DJT",
+            "stock_ticker": "TOPT",
             "impact": "Neutral"
         },
         {
-            "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-            "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-            "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her,” he says.",
-            "date": "Tue, 06 Oct 2026 18:30:00 GMT",
+            "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
+            "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
+            "summary": "September’s rate hike was viewed by many officials as needed just in case inflation remains sticky. “We’re not going to let inflation get out of control,” said a top Fed official.",
+            "date": "Wed, 07 Oct 2026 18:28:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMY",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
-            "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
-            "summary": "Marvell’s stock is popping after the company not only delivered with its financial forecasts but also demonstrated its diversified mix of customers and products.",
-            "date": "Tue, 06 Oct 2026 18:25:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MRVL",
+            "stock_ticker": "MNTX-USD",
             "impact": "Neutral"
         },
         {
-            "title": "How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street",
-            "link": "https://www.marketwatch.com/story/how-metas-stock-can-surge-to-1-000-according-to-the-biggest-bull-on-wall-street-a91afff3?mod=mw_rss_topstories",
-            "summary": "Wells Fargo analyst warns of a near-term profit hit from AI infrastructure spending and legal costs. But he thinks that will set up massive gains by 2028.",
-            "date": "Tue, 06 Oct 2026 18:20:00 GMT",
+            "title": "SpaceX may chase ‘stunning’ AI returns by taking on a lot of debt to buy Nvidia chips",
+            "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+            "summary": "A report says SpaceX is considering raising $40 billion to finance the purchase of advanced graphic processing units and related systems. The company is expected to launch its first rocket in 2018.",
+            "date": "Wed, 07 Oct 2026 18:22:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
-            "impact": "Bullish"
+            "stock_ticker": "SPCX",
+            "impact": "Neutral"
         },
         {
-            "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-            "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-            "summary": "“Both properties swill be solely in his name,” he said. “Both of them will be solely under his name.”",
-            "date": "Tue, 06 Oct 2026 18:01:00 GMT",
+            "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
+            "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+            "summary": "“I keep thinking about giving each child $750,000 toward a house,” he says. “I’m going to give each child a house.”",
+            "date": "Wed, 07 Oct 2026 17:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BMY",
+            "stock_ticker": "HE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Washington and Wall Street chose to delay paying their bills — and to put them on your tab",
+            "link": "https://www.marketwatch.com/story/washington-and-wall-street-chose-to-delay-paying-their-bills-and-to-put-them-on-your-tab-2eba83aa?mod=mw_rss_topstories",
+            "summary": "The polite word for what the government and Wall Street are doing is deferring payment. It's like opening a tab at a bar that somebody else will pay later.",
+            "date": "Wed, 07 Oct 2026 17:36:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WSHHM=F",
             "impact": "Neutral"
         }
     ]
