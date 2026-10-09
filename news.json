@@ -1,47 +1,47 @@
 {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "news": [
         {
-            "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-            "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-            "summary": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed. OpenAI is a AI company that claims to be able to predict the future of the world.",
-            "date": "Thu, 08 Oct 2026 18:18:31 GMT",
+            "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+            "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+            "summary": "While wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly. Researchers found that while wealth disparities narrowing, the inability to meet debts deteriorated significantly in the U.S.",
+            "date": "Fri, 09 Oct 2026 16:10:41 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NVDA",
+            "stock_ticker": "DSU",
             "impact": "Neutral"
         },
         {
-            "title": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown",
-            "link": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
-            "summary": "Labor Secretary Keith Sonderling cited \"multiple active federal investigations\" around the two companies' involvement in the program. He said the federal government is looking into the matter.",
-            "date": "Thu, 08 Oct 2026 18:52:59 GMT",
+            "title": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
+            "link": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
+            "summary": "The escalating attacks are testing whether a rebound in crude oil exports from the Middle East can be sustained under high risk conditions. The U.S. State Department says it is monitoring the situation in the region closely.",
+            "date": "Fri, 09 Oct 2026 18:02:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SCHD",
+            "stock_ticker": "NAT",
             "impact": "Neutral"
         },
         {
-            "title": "Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies",
-            "link": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
-            "summary": "Starbucks has reportedly been working with advisers on a takeover proposal for Chipotle. A potential deal comes with pros and cons for investors. The company has not confirmed or denied the reports.",
-            "date": "Thu, 08 Oct 2026 18:37:46 GMT",
+            "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+            "link": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
+            "summary": "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC. Zacharia will be the first woman to hold the job.",
+            "date": "Fri, 09 Oct 2026 18:34:26 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHY.V",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Trump says U.S. will not attack Iran before midterm election",
-            "link": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
-            "summary": "The Iran war pushes oil and gas prices higher and support for the conflict falls. Trump said talks with Tehran were “productive” as the Iran war pushed oil andgas prices higher.",
-            "date": "Thu, 08 Oct 2026 17:41:20 GMT",
+            "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+            "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+            "summary": "Trump's bid to fire the Fed's Lisa Cook follows a Supreme Court ruling. The decision could affect Jerome Powell, central bank independence and interest rates.",
+            "date": "Fri, 09 Oct 2026 18:20:57 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -50,75 +50,75 @@
             "impact": "Bullish"
         },
         {
-            "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-            "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
-            "summary": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers found. New York Federal Reserve found.",
-            "date": "Thu, 08 Oct 2026 17:31:03 GMT",
+            "title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
+            "link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
+            "summary": "The hurricane could tighten a fuel market that is already facing big disruptions from the wars in Eastern Europe and the Middle East. The U.S. fuel market is expected to be the largest in the world in the coming months.",
+            "date": "Fri, 09 Oct 2026 17:12:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "VTIP",
+            "stock_ticker": "CARHM=F",
+            "impact": "Bullish"
+        },
+        {
+            "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
+            "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+            "summary": "“I presume these are sophisticated investors taking a profit,” he says. “I’ve never seen anything like it’s been done.”",
+            "date": "Fri, 09 Oct 2026 18:30:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MU",
             "impact": "Neutral"
         },
         {
-            "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
-            "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-            "summary": "“I keep thinking about giving each child $750,000 toward a house,” he says. “I’m going to give each child a house.”",
-            "date": "Thu, 08 Oct 2026 19:00:00 GMT",
+            "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+            "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+            "summary": "Telecoms stocks were seeing their worst daily drops in over a decade. Telecommunications stocks were seen as a bellwether for the health of the economy.",
+            "date": "Fri, 09 Oct 2026 18:16:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "AS",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Microsoft is nearing a big milestone that solidifies its revival",
+            "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+            "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight. The tech giant is expected to break new records in the coming months.",
+            "date": "Fri, 09 Oct 2026 18:06:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MSFT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Why you need to take a closer look at your favorite stock index",
+            "link": "https://www.marketwatch.com/story/why-you-need-to-take-a-closer-look-at-your-favorite-stock-index-479fb494?mod=mw_rss_topstories",
+            "summary": "Weekend Reads: A positive case for the bond market, how prediction markets can pull you in, and a warning to those who benefit from GLP-1s.",
+            "date": "Fri, 09 Oct 2026 18:04:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "WHY.V",
+            "impact": "Neutral"
+        },
+        {
+            "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+            "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+            "summary": "“Both properties will be solely in his name,” he said. “Both of them will be in the name of Mr. Obama.”",
+            "date": "Fri, 09 Oct 2026 18:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "BMY",
-            "impact": "Neutral"
-        },
-        {
-            "title": "The options market is reminding investors there’s a cure for rising bond yields — higher yields",
-            "link": "https://www.marketwatch.com/story/the-options-market-is-reminding-investors-theres-a-cure-for-rising-bond-yields-higher-yields-2dcac640?mod=mw_rss_topstories",
-            "summary": "The MOVE Index — the Treasury market’s “fear gauge” — has reached heights that in the past suggested yields may have peaked.",
-            "date": "Thu, 08 Oct 2026 18:51:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-            "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-            "summary": "“I also have $310,000 in an IRA and $46,00 in savings,” she says. “My house is paid off.”",
-            "date": "Thu, 08 Oct 2026 18:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMNR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Bond yields fell, as the Treasury market passed a crucial test of investor confidence",
-            "link": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
-            "summary": "Higher bond yields aren’t only about inflation and the Iran war. But it means a higher cost of capital. The U.S. dollar is down against the euro and the yen.",
-            "date": "Thu, 08 Oct 2026 18:19:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BOND",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
-            "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
-            "summary": "\"It doesn't matter if you are a Republican or Democrat. Math is math,\" he said. \"Math is math. That's the way it is\"",
-            "date": "Thu, 08 Oct 2026 18:08:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "KEN",
             "impact": "Neutral"
         }
     ]
