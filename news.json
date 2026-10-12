@@ -1,23 +1,11 @@
 {
-    "date": "2026-10-11",
+    "date": "2026-10-12",
     "news": [
         {
-            "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
-            "link": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
-            "summary": "The AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry.",
-            "date": "Sun, 11 Oct 2026 14:08:44 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "AIS",
-            "impact": "Bullish"
-        },
-        {
-            "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
-            "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
-            "summary": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts say.",
-            "date": "Sun, 11 Oct 2026 16:29:55 GMT",
+            "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
+            "link": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
+            "summary": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands\"",
+            "date": "Mon, 12 Oct 2026 18:32:03 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -26,70 +14,70 @@
             "impact": "Neutral"
         },
         {
-            "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
-            "link": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
-            "summary": "The Obama administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows.",
-            "date": "Sat, 10 Oct 2026 14:22:23 GMT",
+            "title": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+            "link": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+            "summary": "The Tesla and SpaceX CEO rebuilds his relationship with Trump and has business ties to the federal government. Musk’s record midterm election spending comes as the Trump and SpaceX CEOs rebuild their relationship with the president.",
+            "date": "Mon, 12 Oct 2026 21:17:58 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "EXG",
+            "stock_ticker": "ELPW",
             "impact": "Neutral"
         },
         {
-            "title": "NBA commissioner Adam Silver says league could introduce ‘smart ball’ technology as soon as next year",
-            "link": "https://www.cnbc.com/2026/10/11/commissioner-adam-silver-nba-could-launch-smart-ball-tech-next-year.html",
-            "summary": "The NBA could begin using a new \"smart ball\" in games as soon as next year. Commissioner Adam Silver says the new ball could transform how officials make calls.",
-            "date": "Sun, 11 Oct 2026 12:54:04 GMT",
+            "title": "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
+            "link": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
+            "summary": "The Minnesota Democrat, a Muslim who was born in Somalia, has been targeted for criticism in the past by President Donald Trump. Trump has called her a \"nasty woman\" and a \"lunatic\"",
+            "date": "Mon, 12 Oct 2026 18:29:28 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "NBARX",
+            "stock_ticker": "REP.MC",
             "impact": "Neutral"
         },
         {
-            "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-            "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
-            "summary": "Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies. Why Priya is taking credit risk.",
-            "date": "Sat, 10 Oct 2026 15:00:01 GMT",
+            "title": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her",
+            "link": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
+            "summary": "The former Fox News personality was previously engaged to the president's son, Donald Trump Jr. Guilfoyle is the daughter of former President George H.W. Bush.",
+            "date": "Mon, 12 Oct 2026 21:26:45 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "JPM",
+            "stock_ticker": "DJT",
             "impact": "Neutral"
         },
         {
-            "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
-            "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
-            "summary": "There will be no Medicare Advantage plans in 181 counties in 2027. That's up from 67 in 2026. There will also be no plans in the state of New Jersey.",
-            "date": "Sun, 11 Oct 2026 16:35:00 GMT",
+            "title": "Earnings beats are now the norm. What the stock market needs to keep rallying",
+            "link": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
+            "summary": "Blockbuster profits are coming for the S&amp;P 500. It may not be enough to keep fueling the rally. The S&P 500 is up more than 7% this year.",
+            "date": "Mon, 12 Oct 2026 20:35:51 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BAC",
-            "impact": "Bullish"
-        },
-        {
-            "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
-            "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
-            "summary": "High hopes for third-quarter earnings are outweighing concerns around interest rates and oil prices. One expert warns markets have gotten “extremely complacent”",
-            "date": "Sun, 11 Oct 2026 14:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "HOWL",
+            "stock_ticker": "SGRT",
             "impact": "Neutral"
         },
         {
-            "title": "The bull market is turning 4 years old — but yields could crash the party",
-            "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
-            "summary": "For four years, tech has been the answer to almost every question about this bull market. Now it's time to find out if it's still the right answer.",
-            "date": "Sun, 11 Oct 2026 13:00:00 GMT",
+            "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+            "link": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+            "summary": "The chip makers introduced hardware and software designs for future AI data centers. But the revenue potential is still far out, an analyst says. The chip makers have not revealed how much money they will make from the project.",
+            "date": "Mon, 12 Oct 2026 21:19:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "NVDA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+            "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+            "summary": "\"The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments,\" her daughter says.",
+            "date": "Mon, 12 Oct 2026 21:16:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
@@ -98,27 +86,39 @@
             "impact": "Neutral"
         },
         {
-            "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-            "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-            "summary": "“I presume these are sophisticated investors taking a profit,” he says. “I’ve never seen anything like it’s been done.”",
-            "date": "Sun, 11 Oct 2026 12:30:00 GMT",
+            "title": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
+            "link": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
+            "summary": "The sharp moves could partly be a reaction to recent cautious commentary on AI spending. The sharp move could be part of a response to a recent cautious view on the future of AI.",
+            "date": "Mon, 12 Oct 2026 20:46:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MU",
+            "stock_ticker": "WHY.V",
             "impact": "Neutral"
         },
         {
-            "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
-            "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
-            "summary": "The big banks kick off earnings season on Tuesday, to provide a first read on the health of the economy in a rising-yield environment.",
-            "date": "Sun, 11 Oct 2026 12:00:00 GMT",
+            "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+            "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+            "summary": "“I’m in my 60s, recently retired and living my best life,” he says. “I am in a good place.”",
+            "date": "Mon, 12 Oct 2026 20:45:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BAC",
+            "stock_ticker": "BA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Microsoft hits a big milestone that solidifies its revival",
+            "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+            "summary": "Microsoft reclaimed a $4 trillion market cap on Monday. The tech giant is now worth more than $4trillion. The market cap has now surpassed $3trillion for the first time.",
+            "date": "Mon, 12 Oct 2026 20:40:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MSFT",
             "impact": "Neutral"
         }
     ]
