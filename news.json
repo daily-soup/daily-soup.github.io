@@ -1,124 +1,124 @@
 {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "news": [
         {
-            "title": "More Republicans come out against Trump's diesel deal with Putin",
-            "link": "https://www.cnbc.com/2026/10/13/trump-russia-diesel-republicans.html",
-            "summary": "Senators tell Trump the deal with Putin \"will not achieve just ends, nor will it benefit Americans\" The deal with Russian President Vladimir Putin will not achieve \"just ends,\" Senators tell Trump.",
-            "date": "Tue, 13 Oct 2026 18:19:42 GMT",
+            "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+            "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+            "summary": ". Shares of CoreWeave sank 15%, while yields in its bonds blew out further. The company is now valued at about $1.5 billion.",
+            "date": "Wed, 14 Oct 2026 17:06:17 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "MOREPENLAB.NS",
+            "stock_ticker": "CRWV",
             "impact": "Neutral"
         },
         {
-            "title": "The latest inflation data is expected to show price increases are accelerating",
-            "link": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
-            "summary": "Economists expect the consumer price index for September to rise 0.6% on the month. The index is expected to rise 3.6 percent year over year.",
-            "date": "Tue, 13 Oct 2026 18:05:57 GMT",
+            "title": "How high inflation became a 'fact of life' in the U.S.",
+            "link": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+            "summary": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
+            "date": "Wed, 14 Oct 2026 17:20:23 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "HWM",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+            "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+            "summary": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks. Iran is trying to choke off a rebound in crude oil exports.",
+            "date": "Wed, 14 Oct 2026 16:46:08 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "MPCC.OL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Treasury says largest U.S. banks let politics influence who received banking services",
+            "link": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
+            "summary": "Treasury Department findings may lend weight to President Donald Trump’s long-running grievance that major banks have discriminated against conservatives. New Treasury Department findings: Major banks have discrimination against conservative customers.",
+            "date": "Wed, 14 Oct 2026 16:49:44 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RTHY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Fannie Mae sharply raises mortgage rate forecast for 2027",
+            "link": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
+            "summary": "Fannie Mae just put out its latest forecast for mortgage rates, and they are much higher than previous estimates. Fannie Mae: Mortgage rates are expected to rise in the coming months.",
+            "date": "Wed, 14 Oct 2026 17:08:07 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "FNMA",
+            "impact": "Neutral"
+        },
+        {
+            "title": "3 things that are driving inflation higher",
+            "link": "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9?mod=mw_rss_topstories",
+            "summary": "Struggling with elevated prices? You don’t have to look much further than your local gas station. Struggling to pay for gas? You’re not alone.",
+            "date": "Wed, 14 Oct 2026 16:50:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "SOXL",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
+            "link": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
+            "summary": "The consumer-price index report was released on Wednesday. The bond market reacted positively to the report, sending the yield on the U.S. dollar up.",
+            "date": "Wed, 14 Oct 2026 16:27:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RDVY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+            "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+            "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living. The COLA is set to take effect on January 1, 2027.",
+            "date": "Wed, 14 Oct 2026 16:20:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "GYGY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Rising diesel prices have helped fuel inflation — and we’re about to see how much worse it could get",
+            "link": "https://www.marketwatch.com/story/rising-diesel-prices-have-helped-fuel-inflation-and-were-about-to-see-how-much-worse-it-could-get-430f36d1?mod=mw_rss_topstories",
+            "summary": "Consumer inflation just came in hot. Thursday will provide more clues on the impact of record diesel prices ahead of the midterm elections. It will be interesting to see how diesel prices are affected by the midterms.",
+            "date": "Wed, 14 Oct 2026 16:07:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "RDVY",
+            "impact": "Neutral"
+        },
+        {
+            "title": "The truth about being a landlord in retirement",
+            "link": "https://www.marketwatch.com/story/the-truth-about-being-a-landlord-in-retirement-5d1daf4c?mod=mw_rss_topstories",
+            "summary": "Investing in rental property isn’t easy or ‘passive’ or “passive,’ say experts.",
+            "date": "Wed, 14 Oct 2026 16:05:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "GS",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
-            "link": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
-            "summary": "Deadly attacks at Riyadh’s main airport are disrupting airlines, closing airspace and raising new security questions for commercial aviation. The attacks at the airport have killed at least 20 people and injured dozens more.",
-            "date": "Tue, 13 Oct 2026 18:33:42 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CAAP",
-            "impact": "Bullish"
-        },
-        {
-            "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-            "link": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-            "summary": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale. Dimon said the bank is building defensive tools to counter the threat.",
-            "date": "Tue, 13 Oct 2026 18:46:27 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "JPM",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Michael Dell says AI needs safeguards and controls, and government has a role to play",
-            "link": "https://www.cnbc.com/2026/10/13/michael-dell-ai-safeguards-government.html",
-            "summary": "Dell CEO Michael Dell says AI models need safeguards and controls. He says companies and government both playing a role in safety. Dell CEO: We need to make sure AI models are safe for humans.",
-            "date": "Tue, 13 Oct 2026 19:08:28 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "PAGE.L",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
-            "link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
-            "summary": "Fintech companies are catching on to how Americans are altering their financial habits. They’ve created new products to try to meet the moment.",
-            "date": "Tue, 13 Oct 2026 18:44:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "4017.SR",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Gen Z renters are the only group more likely to feel successful by investing than buying a house",
-            "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
-            "summary": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living,” the company says. “Instead on focusing on homes, they’re focusing on financial freedom,’ the company adds.",
-            "date": "Tue, 13 Oct 2026 18:11:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "GEN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
-            "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
-            "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors. The proposals are expected to be voted on by the SEC in coming weeks.",
-            "date": "Tue, 13 Oct 2026 17:54:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "ASML",
-            "impact": "Bullish"
-        },
-        {
-            "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-            "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-            "summary": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k),” he says.",
-            "date": "Tue, 13 Oct 2026 17:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MU",
-            "impact": "Neutral"
-        },
-        {
-            "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-            "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-            "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95,” he says.",
-            "date": "Tue, 13 Oct 2026 17:30:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "BMY",
             "impact": "Neutral"
         }
     ]
