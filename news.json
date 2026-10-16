@@ -1,124 +1,124 @@
 {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "news": [
         {
-            "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-            "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-            "summary": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
-            "date": "Thu, 15 Oct 2026 16:15:44 GMT",
+            "title": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
+            "link": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
+            "summary": "Trump-aligned groups and Elon Musk have poured hundreds of millions into the midterm election. But the GOP spending surge has barely moved polls or the map.",
+            "date": "Fri, 16 Oct 2026 16:53:12 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "COST",
-            "impact": "Neutral"
+            "stock_ticker": "WHYP.TO",
+            "impact": "Bullish"
         },
         {
-            "title": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
-            "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-            "summary": "A sell-off in global technology hardware stocks deepened Thursday. Technology hardware stocks have been hit hard in the past few months. The sell-offs have been blamed on fears of slowing growth in the tech sector.",
-            "date": "Thu, 15 Oct 2026 16:19:09 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "NVDA",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Southwest is overhauling its frequent flyer program. Here's what's changing",
-            "link": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html",
-            "summary": "Southwest Airlines is overhauling its loyalty program. The airline is replacing A-List and A- list Preferred with three new tiers. The new tiers will be available on the airline's website.",
-            "date": "Thu, 15 Oct 2026 14:25:01 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "LUV",
-            "impact": "Neutral"
-        },
-        {
-            "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-            "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-            "summary": "Signs of distressed deepened in CoreWeave on Thursday. CoreWe weave is a group of artists and designers based in New York City. The group has been working on a new project since the summer.",
-            "date": "Thu, 15 Oct 2026 16:52:16 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CRWV",
-            "impact": "Neutral"
-        },
-        {
-            "title": "U.S. sues California in fight over checking citizenship of mail voters",
-            "link": "https://www.cnbc.com/2026/10/15/california-mail-ballots-voting-lawsuit.html",
-            "summary": "The lawsuit by the Trump administration comes less than a month before the midterm election. The midterm election will determine which party controls both chambers of Congress.",
-            "date": "Thu, 15 Oct 2026 17:23:20 GMT",
+            "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+            "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+            "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a Treasury official says.",
+            "date": "Fri, 16 Oct 2026 16:46:18 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
             "stock_ticker": "SCHD",
-            "impact": "Neutral"
-        },
-        {
-            "title": "‘I like the idea of a big return’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-            "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-            "summary": "“I know you’re not supposed to put money you can’t afford to lose into speculative stuff,” he says.",
-            "date": "Thu, 15 Oct 2026 17:15:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "MU",
             "impact": "Bullish"
         },
         {
-            "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
-            "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
-            "summary": "The cost-of-living adjustment for 2027 will be 3.6%, which will give Social Security recipients an average of $75 more per month.",
-            "date": "Thu, 15 Oct 2026 17:07:00 GMT",
+            "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
+            "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+            "summary": "AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton says. Clayton: AI \"amplements\" existing security risks toward digital infrastructure.",
+            "date": "Fri, 16 Oct 2026 16:27:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "DIDIY",
+            "stock_ticker": "OAIW",
             "impact": "Neutral"
         },
         {
-            "title": "The COLA wars are coming for Social Security",
-            "link": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
-            "summary": "The annual cost-of-living adjustment may soon be capped, curtailed, means-tested or scrapped altogether under various proposals being actively considered.",
-            "date": "Thu, 15 Oct 2026 17:07:00 GMT",
+            "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
+            "link": "https://www.cnbc.com/2026/10/16/coreweave-openai-anthropic-perps.html",
+            "summary": "OpenAI and Anthropic sell-off in CoreWeave leads neocloud stocks lower. The spread is widening between AI leaders OpenAI and anthropic.",
+            "date": "Fri, 16 Oct 2026 13:43:53 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "HWM",
             "impact": "Neutral"
         },
         {
-            "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
-            "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-            "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living. The COLA is set to take effect on January 1, 2027.",
-            "date": "Thu, 15 Oct 2026 17:06:00 GMT",
+            "title": "Elon Musk cash infusion helps GOP Senate super PAC raise record $273 million",
+            "link": "https://www.cnbc.com/2026/10/15/elon-musk-senate-leadership-fund-fundraising.html",
+            "summary": "Elon Musk gave a record $158 million to the GOP’s Senate Leadership Fund, boosting its war chest as Republicans pour money into Texas to defend Ken Paxton.",
+            "date": "Fri, 16 Oct 2026 12:17:29 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "GYGY",
+            "stock_ticker": "ELPW",
             "impact": "Neutral"
         },
         {
-            "title": "The truth about being a landlord in retirement",
-            "link": "https://www.marketwatch.com/story/the-truth-about-being-a-landlord-in-retirement-5d1daf4c?mod=mw_rss_topstories",
-            "summary": "Investing in rental property isn’t easy or ‘passive’ or “passive,’ say experts.",
-            "date": "Thu, 15 Oct 2026 17:05:00 GMT",
+            "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
+            "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
+            "summary": "Spending all your cash first can make your income surge in later years. Spend all your money first and you'll have more money to spend later on.",
+            "date": "Fri, 16 Oct 2026 16:39:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "BA",
+            "stock_ticker": "ARE",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Elon Musk may have just taken a major step toward consolidating his empire",
+            "link": "https://www.marketwatch.com/story/elon-musk-may-have-just-taken-a-major-step-toward-consolidating-his-empire-7d82dea6?mod=mw_rss_topstories",
+            "summary": "Tesla's new flying sports car could help Musk push for a merger between his two biggest companies, analysts say. Tesla’s new sports car features SpaceX rocket thrusters.",
+            "date": "Fri, 16 Oct 2026 16:39:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "ELPW",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
+            "link": "https://www.marketwatch.com/story/many-of-2026s-hottest-stocks-have-seen-dramatic-comedowns-this-week-e5ae5d06?mod=mw_rss_topstories",
+            "summary": "Many of the best-performing stocks of 2026 fell this week. This year’s biggest losers also changed course, according to a new report.",
+            "date": "Fri, 16 Oct 2026 16:09:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "0068.HK",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+            "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+            "summary": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes. ‘Tau’ is the name of Tau Robotics, a robotics company based in San Francisco.",
+            "date": "Fri, 16 Oct 2026 16:05:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "CAN",
+            "impact": "Neutral"
+        },
+        {
+            "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+            "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+            "summary": "“I have some reservations about the long-term stability of my younger son’s marriage,” his mother said. “I’m worried about the stability of his marriage.”",
+            "date": "Fri, 16 Oct 2026 15:00:00 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "IBRX",
             "impact": "Neutral"
         }
     ]
