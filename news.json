@@ -1,124 +1,124 @@
 {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "news": [
         {
-            "title": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
-            "link": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
-            "summary": "Trump-aligned groups and Elon Musk have poured hundreds of millions into the midterm election. But the GOP spending surge has barely moved polls or the map.",
-            "date": "Fri, 16 Oct 2026 16:53:12 GMT",
+            "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+            "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+            "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September. The bill was passed by the Senate and the House of Representatives.",
+            "date": "Sat, 17 Oct 2026 10:20:44 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "WHYP.TO",
+            "stock_ticker": "DJT",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
+            "link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+            "summary": "Bending Spoons got a big vote of confidence this week from Berkshire Hathaway. Less than four months into life as a public company, Bending Sp Spoon is doing well.",
+            "date": "Sat, 17 Oct 2026 15:11:30 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "LEENEE.BO",
+            "impact": "Neutral"
+        },
+        {
+            "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
+            "link": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
+            "summary": "Berkshire Hathaway shares are at their highest level since Warren Buffett told shareholders at the May 2025 annual meeting he planned to step down as CEO.",
+            "date": "Sat, 17 Oct 2026 12:46:21 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "BRK-B",
+            "impact": "Bearish"
+        },
+        {
+            "title": "5 midterm money takeaways: Democrats have candidate cash. Republicans have Elon Musk",
+            "link": "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html",
+            "summary": "Democrats outraise Republicans in key Congress races. Elon Musk funds Ken Paxton in Texas and GOP groups aligned with Trump. Democrats outraise GOP in key congressional races.",
+            "date": "Fri, 16 Oct 2026 21:49:13 GMT",
+            "tags": [
+                "Finance",
+                "Stocks"
+            ],
+            "stock_ticker": "^GSPC",
             "impact": "Bullish"
         },
         {
-            "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-            "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-            "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a Treasury official says.",
-            "date": "Fri, 16 Oct 2026 16:46:18 GMT",
+            "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+            "link": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+            "summary": "Investors may want to rethink their bond allocation and opt for managed futures exposure. Investors may also want to consider a managed futures investment in the futures market.",
+            "date": "Sat, 17 Oct 2026 15:00:01 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "SCHD",
-            "impact": "Bullish"
-        },
-        {
-            "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
-            "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-            "summary": "AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton says. Clayton: AI \"amplements\" existing security risks toward digital infrastructure.",
-            "date": "Fri, 16 Oct 2026 16:27:44 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "OAIW",
+            "stock_ticker": "SPAXX",
             "impact": "Neutral"
         },
         {
-            "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
-            "link": "https://www.cnbc.com/2026/10/16/coreweave-openai-anthropic-perps.html",
-            "summary": "OpenAI and Anthropic sell-off in CoreWeave leads neocloud stocks lower. The spread is widening between AI leaders OpenAI and anthropic.",
-            "date": "Fri, 16 Oct 2026 13:43:53 GMT",
+            "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+            "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+            "summary": "”I earn $110,000 a year. That’s what I’m used to,” she says. ”I’ve never been paid that much.”",
+            "date": "Sat, 17 Oct 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "HWM",
+            "stock_ticker": "SOME",
             "impact": "Neutral"
         },
         {
-            "title": "Elon Musk cash infusion helps GOP Senate super PAC raise record $273 million",
-            "link": "https://www.cnbc.com/2026/10/15/elon-musk-senate-leadership-fund-fundraising.html",
-            "summary": "Elon Musk gave a record $158 million to the GOP’s Senate Leadership Fund, boosting its war chest as Republicans pour money into Texas to defend Ken Paxton.",
-            "date": "Fri, 16 Oct 2026 12:17:29 GMT",
+            "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
+            "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
+            "summary": "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September. That's the highest share in a little over a year.",
+            "date": "Sat, 17 Oct 2026 13:00:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELPW",
+            "stock_ticker": "MEETX",
             "impact": "Neutral"
         },
         {
-            "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
-            "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
-            "summary": "Spending all your cash first can make your income surge in later years. Spend all your money first and you'll have more money to spend later on.",
-            "date": "Fri, 16 Oct 2026 16:39:00 GMT",
+            "title": "Influencers and biohackers swear by fasting. Here’s what the science says.",
+            "link": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
+            "summary": "Fasting can help some people reduce how many calories they eat. But it’s not “effortless” as some would have you believe.",
+            "date": "Sat, 17 Oct 2026 12:31:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ARE",
+            "stock_ticker": "LLY",
             "impact": "Neutral"
         },
         {
-            "title": "Elon Musk may have just taken a major step toward consolidating his empire",
-            "link": "https://www.marketwatch.com/story/elon-musk-may-have-just-taken-a-major-step-toward-consolidating-his-empire-7d82dea6?mod=mw_rss_topstories",
-            "summary": "Tesla's new flying sports car could help Musk push for a merger between his two biggest companies, analysts say. Tesla’s new sports car features SpaceX rocket thrusters.",
-            "date": "Fri, 16 Oct 2026 16:39:00 GMT",
+            "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
+            "link": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
+            "summary": "A commodity that can provide hints on where the economy is headed has seen its value drop more than 50% from a record high earlier this year. The value of the U.S. dollar has fallen more than 10% since the start of the year.",
+            "date": "Sat, 17 Oct 2026 12:30:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "ELPW",
+            "stock_ticker": "0P0001KIRD.L",
             "impact": "Neutral"
         },
         {
-            "title": "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
-            "link": "https://www.marketwatch.com/story/many-of-2026s-hottest-stocks-have-seen-dramatic-comedowns-this-week-e5ae5d06?mod=mw_rss_topstories",
-            "summary": "Many of the best-performing stocks of 2026 fell this week. This year’s biggest losers also changed course, according to a new report.",
-            "date": "Fri, 16 Oct 2026 16:09:00 GMT",
+            "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
+            "link": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
+            "summary": "As earnings season kicks off, select tech companies have the opportunity to deliver big positive surprises for investors. The tech sector is expected to be a bright spot for investors this year.",
+            "date": "Sat, 17 Oct 2026 12:01:00 GMT",
             "tags": [
                 "Finance",
                 "Stocks"
             ],
-            "stock_ticker": "0068.HK",
-            "impact": "Neutral"
-        },
-        {
-            "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-            "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-            "summary": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes. ‘Tau’ is the name of Tau Robotics, a robotics company based in San Francisco.",
-            "date": "Fri, 16 Oct 2026 16:05:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "CAN",
-            "impact": "Neutral"
-        },
-        {
-            "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-            "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-            "summary": "“I have some reservations about the long-term stability of my younger son’s marriage,” his mother said. “I’m worried about the stability of his marriage.”",
-            "date": "Fri, 16 Oct 2026 15:00:00 GMT",
-            "tags": [
-                "Finance",
-                "Stocks"
-            ],
-            "stock_ticker": "IBRX",
+            "stock_ticker": "MSFT",
             "impact": "Neutral"
         }
     ]
